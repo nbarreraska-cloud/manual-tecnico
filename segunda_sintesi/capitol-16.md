@@ -136,7 +136,7 @@ El NMM construeix l'aparença metàl·lica amb pintures convencionals mitjançan
 
 ## Registre editorial
 
-- Estructura: nou apartats, síntesi i sis exercicis.
+- Estructura: deu apartats, síntesi i sis exercicis.
 - Enfocament: representació de superfícies metàl·liques mitjançant pintures convencionals.
 - Delimitació: el capítol 16 desenvolupa el procediment general NMM; el capítol 19 recull les receptes específiques dels metalls.
 - Criteri central: el contrast per si sol no produeix aparença metàl·lica; els reflexos han de ser coherents amb la geometria i l'entorn.

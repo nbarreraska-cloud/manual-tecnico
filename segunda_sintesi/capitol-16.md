@@ -99,7 +99,7 @@ L'observació en escala de grisos pot ajudar a detectar diferències de valor in
 
 El resultat ha de suggerir una superfície metàl·lica mitjançant pintures convencionals. La geometria ha de ser llegible i els reflexos han de mantenir una relació coherent amb la forma i l'entorn representat. No s'ha d'avaluar per la quantitat de tons ni per la intensitat indiscriminada del contrast, sinó per l'organització conjunta de geometria, valors, color i reflexos.
 
-## 16.9. Exercicis pràctics
+## 16.10. Exercicis pràctics
 
 ### 16.9.1. Comparació entre superfície metàl·lica i no metàl·lica
 Representar una mateixa forma amb una organització tonal no metàl·lica i una altra basada en reflexos NMM. Comparar valors, contrastos, reflexos i lectura de la geometria.

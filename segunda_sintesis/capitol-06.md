@@ -194,7 +194,7 @@ Els exercicis següents es poden fer amb fotografies, objectes quotidians, refer
 - Anderson, B. L. i Marlow, P. J. (2023). “Perceiving the shape and material properties of 3D surfaces”. *Trends in Cognitive Sciences*, 27(1), 98–110. https://doi.org/10.1016/j.tics.2022.10.005
 - Fleming, R. W. (2017). “Material Perception”. *Annual Review of Vision Science*, 3, 365–388. https://doi.org/10.1146/annurev-vision-102016-061429
 - Gigilashvili, D. i Ahmed, T. U. (2022). “Transparency and Translucency in Visual Appearance of Light-Permeable Materials”. *Journal of Perceptual Imaging*, 5, 000409-1–000409-12. https://doi.org/10.2352/J.Percept.Imaging.2022.5.000409
-- Harvey, J. S. i Smithson, H. E. (2021). Referència sobre aparença i resposta dels materials.
-- Marschner, S. et al. (2005). Estudi sobre la resposta òptica direccional de la fusta.
+- Harvey, J. S. i Smithson, H. E. (2021). “Low level visual features support robust material perception in the judgement of metallicity”. *Scientific Reports*, 11, article 16396. https://doi.org/10.1038/s41598-021-95416-6
+- Marschner, S. R., Westin, S. H., Arbree, A. i Moon, J. T. (2005). “Measuring and Modeling the Appearance of Finished Wood”. *ACM Transactions on Graphics*, 24(3), 727–734. https://doi.org/10.1145/1073204.1073254
 
 Les referències sobre percepció material sustenten els fonaments conceptuals. La representació pictòrica descrita aquí és una aplicació didàctica i no una identificació física o química dels materials.

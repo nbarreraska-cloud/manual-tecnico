@@ -4,7 +4,7 @@
 
 El cuir i les pells apareixen en peces de roba, armadures flexibles, cinturons, botes, guants, bosses, corretges, fundes, pergamins i accessoris. No n'hi ha prou amb aplicar marró i afegir línies: cal identificar el tipus de superfície i les seves característiques visuals —gra, textura, flexibilitat, gruix, plecs, vores, tractament i acabat.
 
-Aquest capítol tracta el cuir de gra natural o corregit, l'ante, el nobuk, els cuirs clars, mitjans i foscos, els tractaments encerats o polits, les pells amb pèl com a identificació superficial, la pell sense adobar i el pergamí. La representació de la pell corporal i la carn correspon al capítol 24; els teixits tèxtils, al 23; i el pelatge no es desenvolupa aquí com a procediment complet.
+Aquest capítol tracta el cuir de gra natural o corregit, l'ante, el nobuk, els cuirs clars, mitjans i foscos, els tractaments amb cera o de polit, les pells amb pèl com a identificació superficial, la pell sense adobar i el pergamí. La representació de la pell corporal i la carn correspon al capítol 24; els teixits tèxtils, al 23; i el pelatge no es desenvolupa aquí com a procediment complet.
 
 Les combinacions són propostes tècniques basades en les 48 pintures de referència. No són mescles assajades ni garanteixen resultats idèntics en totes les condicions.
 

@@ -197,7 +197,7 @@ L'avaluació ha de comprovar que el tipus de vegetació es reconeix, que el crei
 
 1. **Comparació de fullatge:** representar tres agrupacions amb les combinacions A, B i C; comparar valor, temperatura, intensitat i lectura de massa.
 2. **Conífera:** construir una capçada amb la combinació D, començant per la forma general i afegint agrupacions direccionals.
-3. **Herba i gramínies:** utilitzar F i variar altura, direcció i densitat dels tallos; comparar una distribució regular amb una irregular.
+3. **Herba i gramínies:** utilitzar F i variar altura, direcció i densitat dels tiges; comparar una distribució regular amb una irregular.
 4. **Molsa i líquens:** representar una superfície de molsa i una altra amb líquens crustacis; comparar continuïtat, relleu, marques i color.
 5. **Vegetació seca:** utilitzar P i diferenciar tiges, fulles i extrems secs amb variacions de valor i color.
 6. **Fulles de tardor:** construir agrupacions amb M, N i O i variar els tons dins de cada grup.

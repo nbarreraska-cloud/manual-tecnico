@@ -40,7 +40,7 @@ La diferenciació respecte d'altres materials depèn de la relació entre patró
 
 Les combinacions són **propostes cromàtiques**, no mescles experimentals verificades. El resultat depèn de les pintures reals, la cobertura, la quantitat aplicada i la seqüència. Es poden organitzar en famílies clares, mitjanes/naturals, càlides/rogenques, fosques i envellides/grisenques. No cal utilitzar tots els colors d'una família: convé seleccionar una base, un o dos tons de variació i un color per a les vetes principals.
 
-## 20.4. Maderes clares
+## 20.4. Fustes clares
 
 Poden presentar tons beix, crema, groguencs o lleugerament grisencs. La identitat no ha de dependre d'un fons gairebé blanc: cal mantenir una diferència visible, encara que moderada, entre base i vetes.
 
@@ -59,7 +59,7 @@ Poden presentar tons beix, crema, groguencs o lleugerament grisencs. La identita
 
 **Seqüència orientativa:** aplicar Deck Tan; introduir variacions suaus de Japanese Uniform WWII; construir vetes longitudinals amb Parasite Brown; alternar línies fines i discontínues; recuperar llum amb Ivory i reservar Ice Yellow per a petits accents. Cal evitar que les vetes semblin dibuixades separadament. En peces estretes o petites, reduir-ne el nombre i adaptar-les a la curvatura.
 
-## 20.5. Maderes mitjanes, càlides i rogenques
+## 20.5. Fustes mitjanes, càlides i rogenques
 
 Aquesta família inclou marrons naturals, ocres i tons rogencs. La diferència respecte de les fustes clares s'ha de construir amb una base més profunda i més presència de tons mitjans i càlids, no només afegint línies fosques.
 
@@ -79,7 +79,7 @@ Aquesta família inclou marrons naturals, ocres i tons rogencs. La diferència r
 
 **Seqüència orientativa:** aplicar la base; incorporar bandes irregulars longitudinals; establir les vetes principals amb Dark Rust o Burnt Red; afegir línies secundàries fines; introduir petites vetes clares; variar longitud i continuïtat. La fusta rogenca ha de conservar una base marró recognoscible. En barrils, les vetes s'han d'adaptar a cada doga; en mànecs, seguir la forma allargada.
 
-## 20.6. Maderes fosques
+## 20.6. Fustes fosques
 
 Les fustes fosques poden presentar marrons profunds, rogencs i negres càlids. El risc principal és enfosquir tota la superfície fins a perdre les variacions que la fan llegible com a fusta.
 
@@ -98,7 +98,7 @@ Les fustes fosques poden presentar marrons profunds, rogencs i negres càlids. E
 
 **Control:** recuperar variacions marrons i tons mitjans abans de definir vetes fosques. Reservar els tons més profunds per a nusos, esquerdes i separacions. Les vetes clares han de ser escasses i de contrast variable; si totes destaquen igual, el patró sembla geomètric.
 
-## 20.7. Maderes envellides, desgastades, humides i deteriorades
+## 20.7. Fustes envellides, desgastades, humides i deteriorades
 
 Cal distingir:
 - **Envelliment:** canvis cromàtics i superficials associats al pas del temps.

@@ -97,7 +97,7 @@ Establir una base clara, determinar gruix i geometria, introduir zones blavoses 
 
 **Recepta G. Gel tèrbol o fracturat:** base Ivory; variació freda Dark Sea Blue; tons intermedis Blue Green; zones blanquinoses White; ombres Dark Sea Blue localitzades. Les inclusions han de quedar subordinades a l'estructura perquè no sembli pedra motejada.
 
-En caràmbans i formacions allargades, les llums i ombres segueixen la geometria; no cal un degradat uniforme de dalt a baix. L'escarcha s'ha de distingir dels dipòsits gruixuts de neu: pot mostrar cristalls petits, acumulacions fines, pel·lícules de gel i zones parcialment congelades.
+En caramells i formacions allargades, les llums i ombres segueixen la geometria; no cal un degradat uniforme de dalt a baix. L'gebre s'ha de distingir dels dipòsits gruixuts de neu: pot mostrar cristalls petits, acumulacions fines, pel·lícules de gel i zones parcialment congelades.
 
 ## 27.6. Neu: acumulació, compactació i transformació
 
@@ -109,7 +109,7 @@ La neu és una acumulació de partícules i cristalls de gel. La seva aparença 
 
 **Recepta J. Neu envellida:** base Ivory; variació Deck Tan; ombres fredes Dark Sea Blue; zones terroses Japanese Uniform WWII; aclarits White. La terra i la brutícia dipositades es desenvolupen al capítol 29; aquí només es representa la seva influència en l'aparença general.
 
-La neu s'acumula en superfícies horitzontals, cavitats, vores, sortints, zones protegides del vent i depressions. En roques pot concentrar-se als plans horitzontals i deixar visibles els inclinats; en branques, les acumulacions són més estretes i discontínues. En escenes hivernals cal diferenciar neu (acumulació clara i difusa), gel (plans, transparència o translucidesa i reflexos), neu compactada (superfície densa) i escarcha (dipòsit fi de cristalls).
+La neu s'acumula en superfícies horitzontals, cavitats, vores, sortints, zones protegides del vent i depressions. En roques pot concentrar-se als plans horitzontals i deixar visibles els inclinats; en branques, les acumulacions són més estretes i discontínues. En escenes hivernals cal diferenciar neu (acumulació clara i difusa), gel (plans, transparència o translucidesa i reflexos), neu compactada (superfície densa) i gebre (dipòsit fi de cristalls).
 
 ## 27.7. Gemmes i pedres precioses
 
@@ -136,7 +136,7 @@ En gemmes opaques i cabuixons, construir volum amb transicions, mantenir un refl
 - **Neu:** identificar estat i geometria; establir acumulacions; construir volum; introduir ombres i variacions; diferenciar zones compactades i soltes; afegir detalls només quan calgui; integrar amb el terreny.
 - **Gemmes:** identificar forma facetada o corba; seleccionar color; establir profunditat; construir variacions de color i valor; afegir facetes o transicions; incorporar reflex superficial; comprovar lectura a escala.
 
-Els cristalls prismàtics requereixen cares longitudinals i arestes; els irregulars, selecció de facetes principals; els blocs de gel, gruix i fractures; els caràmbans, distribució longitudinal; les gemmes arrodonides, transicions corbes; les facetades, plans coherents. La neu sobre objectes ha de seguir geometria i exposició.
+Els cristalls prismàtics requereixen cares longitudinals i arestes; els irregulars, selecció de facetes principals; els blocs de gel, gruix i fractures; els caramells, distribució longitudinal; les gemmes arrodonides, transicions corbes; les facetades, plans coherents. La neu sobre objectes ha de seguir geometria i exposició.
 
 La brillantor superficial i la transparència són fenòmens diferents. Una gema pot tenir un reflex intens i profunditat cromàtica; un cristall transparent pot conservar informació del fons; una superfície opaca polida pot reflectir sense transmetre llum. Els reflexos han de respondre a la forma i a la font lluminosa. Els vernissos i acabats es desenvolupen al capítol 37.
 
@@ -148,7 +148,7 @@ La brillantor superficial i la transparència són fenòmens diferents. Una gema
 - Afegir reflexos blancs a totes les arestes: seleccionar els que defineixen volum.
 - Fer del gel una roca blava: incorporar transmissió o dispersió de llum, fractures i reflexos segons el tipus.
 - Pintar tota la neu de blanc pur: introduir ombres i diferències de compactació.
-- Confondre neu i escarcha: distingir acumulació de partícules i dipòsit superficial de cristalls.
+- Confondre neu i gebre: distingir acumulació de partícules i dipòsit superficial de cristalls.
 - Donar saturació uniforme a les gemmes: construir profunditat amb diferències de valor.
 - Col·locar reflexos sense considerar geometria: adaptar-los a forma i orientació.
 - Confondre reflex amb emissió: una gema brillant no necessàriament emet llum; l'OSL es tracta al capítol 17.

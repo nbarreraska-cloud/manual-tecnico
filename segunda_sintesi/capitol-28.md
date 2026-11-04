@@ -29,11 +29,11 @@ La corrosió no es distribueix necessàriament de manera uniforme. Pot concentra
 
 La corrosió pot ser una pel·lícula fina, una capa compacta, dipòsits irregulars o acumulacions voluminoses. Cal considerar gruix aparent, textura, relació amb arestes i pèrdua de definició. Una pàtina fina pot modificar sobretot color i acabat; una corrosió avançada pot mostrar escates, esquerdes i despreniments.
 
-La planificació cromàtica ha de jerarquitzar metall original, to principal de l'alteració, variacions, zones profundes, dipòsits i punts de metall exposat. Herrumbre de ferro: vermells, taronges i marrons. Pàtines de coure i bronze: verds, turqueses, blaus, marrons i negres. Altres metalls: paleta específica.
+La planificació cromàtica ha de jerarquitzar metall original, to principal de l'alteració, variacions, zones profundes, dipòsits i punts de metall exposat. rovell de ferro: vermells, taronges i marrons. Pàtines de coure i bronze: verds, turqueses, blaus, marrons i negres. Altres metalls: paleta específica.
 
 ## 28.4. Òxid i rovell sobre ferro i acer
 
-**Recepta A. Herrumbre recent i taronja**
+**Recepta A. rovell recent i taronja**
 - Base metàl·lica: Dark Gunmetal (72.054) o Silver (72.052).
 - To principal: Hot Orange (72.009).
 - Variació rogenca: Burnt Red (70.814).
@@ -42,7 +42,7 @@ La planificació cromàtica ha de jerarquitzar metall original, to principal de 
 
 Establir metall original, seleccionar acumulacions, introduir taronges i vermells irregulars, variar intensitat, enfosquir algunes zones i conservar petites àrees metàl·liques.
 
-**Recepta B. Herrumbre marró natural**
+**Recepta B. rovell marró natural**
 - Base metàl·lica: Dark Gunmetal.
 - To principal: Dark Rust.
 - Variació càlida: Parasite Brown.
@@ -52,7 +52,7 @@ Establir metall original, seleccionar acumulacions, introduir taronges i vermell
 
 Mantenir part del metall visible, construir corrosió marró rogenca, introduir variacions, concentrar foscos i recuperar petits contrastos metàl·lics.
 
-**Recepta C. Herrumbre fosca**
+**Recepta C. rovell fosca**
 - Base: Dark Rust.
 - Variació: combinació proposada de Dark Rust i Black.
 - To intermedi: Burnt Red.
@@ -183,8 +183,8 @@ No cal cobrir tots els espais ni afegir detalls perquè l'objecte sembli vell. U
 
 ## 28.10. Exercicis pràctics
 
-1. **Herrumbre recent i madura:** preparar dues superfícies metàl·liques i aplicar A i B; conservar metall i comparar estats.
-2. **Herrumbre fosca:** construir base fosca, variacions rogenques i marrons, profunditats i accents; evitar el bloc uniforme.
+1. **rovell recent i madura:** preparar dues superfícies metàl·liques i aplicar A i B; conservar metall i comparar estats.
+2. **rovell fosca:** construir base fosca, variacions rogenques i marrons, profunditats i accents; evitar el bloc uniforme.
 3. **Corrosió localitzada:** seleccionar vores i cavitats, establir metall, construir zones fosques i variacions càlides; comprovar distribució.
 4. **Pàtina marró i verda:** aplicar G i H en dues superfícies; mantenir metall i comparar alteracions.
 5. **Pàtina blauverdosa:** establir metall, distribuir turqueses, aprofundir, aclarir i recuperar metall.

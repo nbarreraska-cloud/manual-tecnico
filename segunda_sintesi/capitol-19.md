@@ -175,7 +175,7 @@ Una base fosca pot augmentar el contrast, però cal conservar prou superfície m
 
 ### 19.4.3. Acabats i correccions
 
-L'or polit necessita reflexos definits; el setinat, contrastos més moderats; l'envellit, ombres càlides i variacions localitzades. La pèrdua del recobriment s'ha de distingir de la simple modificació cromàtica. La pátina i la corrosió corresponen al capítol 28.
+L'or polit necessita reflexos definits; el setinat, contrastos més moderats; l'envellit, ombres càlides i variacions localitzades. La pèrdua del recobriment s'ha de distingir de la simple modificació cromàtica. La pàtina i la corrosió corresponen al capítol 28.
 
 | Problema | Correcció |
 |---|---|
@@ -187,7 +187,7 @@ L'or polit necessita reflexos definits; el setinat, contrastos més moderats; l'
 
 ## 19.5. Coure
 
-El coure presenta una dominant metàl·lica vermellosa o ataronjada. Pot ser brillant, fosc, envellit o alterat per pátina. La paleta no inclou una pintura metàl·lica específica de coure: Hammered Copper (72.059) no forma part de les 48 pintures de referència. Per tant, les propostes combinen bases metàl·liques disponibles amb colors convencionals.
+El coure presenta una dominant metàl·lica vermellosa o ataronjada. Pot ser brillant, fosc, envellit o alterat per pàtina. La paleta no inclou una pintura metàl·lica específica de coure: Hammered Copper (72.059) no forma part de les 48 pintures de referència. Per tant, les propostes combinen bases metàl·liques disponibles amb colors convencionals.
 
 ### 19.5.1. Receptes
 
@@ -230,7 +230,7 @@ No hi ha una proporció universal que produeixi el mateix coure en qualsevol sup
 
 ### 19.5.3. Acabats i correccions
 
-El coure brillant conserva reflexos definits; el fosc presenta més ombres vermelloses i marrons; l'envellit pot incorporar alteracions superficials. La pátina verdosa correspon al capítol 28 i no s'ha de confondre amb un simple enfosquiment.
+El coure brillant conserva reflexos definits; el fosc presenta més ombres vermelloses i marrons; l'envellit pot incorporar alteracions superficials. La pàtina verdosa correspon al capítol 28 i no s'ha de confondre amb un simple enfosquiment.
 
 | Problema | Correcció |
 |---|---|
@@ -282,7 +282,7 @@ La dominant vermellosa s'ha de diferenciar de la del coure mantenint una presèn
 
 ### 19.6.3. Acabats i correccions
 
-El bronze polit pot tenir una aparença daurada càlida i reflexos definits; el fosc necessita més marrons i ombres profundes; l'envellit pot incorporar alteracions i pátines. La pátina, especialment la verdosa, correspon al capítol 28; el desgast, al 36.
+El bronze polit pot tenir una aparença daurada càlida i reflexos definits; el fosc necessita més marrons i ombres profundes; l'envellit pot incorporar alteracions i pàtines. La pàtina, especialment la verdosa, correspon al capítol 28; el desgast, al 36.
 
 | Problema | Correcció |
 |---|---|
@@ -371,5 +371,5 @@ La representació de metalls exigeix coordinar color, reflexos, ombres i geometr
 
 - Estructura: deu apartats, síntesi i set exercicis.
 - Enfocament: receptes TMM per a cinc metalls amb la paleta de 48 pintures.
-- Delimitació: el procediment general NMM correspon al capítol 16; la corrosió i les pátines, al 28; el desgast, al 36; el diagnòstic general, al 39.
+- Delimitació: el procediment general NMM correspon al capítol 16; la corrosió i les pàtines, al 28; el desgast, al 36; el diagnòstic general, al 39.
 - Criteri tècnic: les receptes són propostes orientatives, no resultats comprovats. No s'afegeixen proporcions no especificades ni s'incorporen pintures fora de la paleta de referència.

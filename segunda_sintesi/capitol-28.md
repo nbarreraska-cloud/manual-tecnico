@@ -4,13 +4,13 @@
 
 L'òxid, la corrosió i les pàtines representen superfícies metàl·liques transformades per exposició ambiental, humitat, agents químics, ús o envelliment. Poden aparèixer en armes, armadures, eines, maquinària, vehicles, estructures, escultures i objectes decoratius.
 
-Cal distingir el metall original de l'alteració superficial. Una peça pot conservar metall exposat, presentar una capa relativament uniforme o mostrar dipòsits irregulars, canvis cromàtics i pèrdues de material. El capítol tracta herrumbre del ferro i acer, corrosió de coure i aliatges, pàtines i alteracions d'altres metalls. Les receptes són propostes orientatives, no mescles assajades ni resultats garantits.
+Cal distingir el metall original de l'alteració superficial. Una peça pot conservar metall exposat, presentar una capa relativament uniforme o mostrar dipòsits irregulars, canvis cromàtics i pèrdues de material. El capítol tracta rovell del ferro i acer, corrosió de coure i aliatges, pàtines i alteracions d'altres metalls. Les receptes són propostes orientatives, no mescles assajades ni resultats garantits.
 
 ## 28.2. Fonaments i diferències entre processos
 
-L'**oxidació** és un procés químic relacionat amb la pèrdua d'electrons i pot formar part de la corrosió. La **corrosió** és la degradació d'un metall per interacció química o electroquímica amb l'entorn. No tota oxidació és herrumbre ni tots els productes de corrosió tenen el mateix color.
+L'**oxidació** és un procés químic relacionat amb la pèrdua d'electrons i pot formar part de la corrosió. La **corrosió** és la degradació d'un metall per interacció química o electroquímica amb l'entorn. No tota oxidació és rovell ni tots els productes de corrosió tenen el mateix color.
 
-- **Ferro i acer:** la herrumbre està relacionada especialment amb aigua i oxigen; humitat, sals i contaminants poden accelerar-la. Pot ser taronja, vermella terrosa, marró, fosca o gairebé negra; compacta, pulverulenta, escamosa, esquerdada o despreses.
+- **Ferro i acer:** la rovell està relacionada especialment amb aigua i oxigen; humitat, sals i contaminants poden accelerar-la. Pot ser taronja, vermella terrosa, marró, fosca o gairebé negra; compacta, pulverulenta, escamosa, esquerdada o despreses.
 - **Coure, bronze i llautó:** poden desenvolupar alteracions marrons, rogenques, negres, verdes, blaves o blauverdoses. El bronze és un aliatge de coure i estany; el llautó combina coure i zinc. Una pàtina no implica necessàriament corrosió activa i destructiva: algunes capes són estables i adherents, d'altres pulverulentes o amb despreniments.
 - **Pàtina natural i artificial:** la primera es forma per exposició ambiental; la segona, mitjançant tractaments intencionats. Poden semblar-se visualment sense tenir la mateixa composició ni comportament físic.
 - **Altres metalls:** la plata pot enfosquir-se per compostos com els sulfurs; l'estany pot presentar dipòsits blanquinosos o grisos; l'alumini i el zinc no s'han de representar automàticament amb tons rogencs.
@@ -31,7 +31,7 @@ La corrosió pot ser una pel·lícula fina, una capa compacta, dipòsits irregul
 
 La planificació cromàtica ha de jerarquitzar metall original, to principal de l'alteració, variacions, zones profundes, dipòsits i punts de metall exposat. Herrumbre de ferro: vermells, taronges i marrons. Pàtines de coure i bronze: verds, turqueses, blaus, marrons i negres. Altres metalls: paleta específica.
 
-## 28.4. Òxid i herrumbre sobre ferro i acer
+## 28.4. Òxid i rovell sobre ferro i acer
 
 **Recepta A. Herrumbre recent i taronja**
 - Base metàl·lica: Dark Gunmetal (72.054) o Silver (72.052).
@@ -144,9 +144,9 @@ En llautó i objectes daurats, no s'ha d'aplicar automàticament verd intens. Po
 
 ## 28.6. Altres metalls i estats de conservació
 
-- **Plata enfosquida:** representar deslustre, sovint associat a compostos de sofre, no herrumbre. Silver com a metall; Dark Gunmetal i Black per enfosquir; Dark Sea Blue per a variacions fredes; Ivory per recuperar contrastos.
+- **Plata enfosquida:** representar pèrdua de brillantor, sovint associat a compostos de sofre, no rovell. Silver com a metall; Dark Gunmetal i Black per enfosquir; Dark Sea Blue per a variacions fredes; Ivory per recuperar contrastos.
 - **Estany i metalls clars:** poden presentar alteracions blanquinoses, grises o apagades. Es pot utilitzar Tinny Tin (72.060), Ivory, White, Deck Tan i Black; no es defineix una recepta independent perquè depèn del metall i l'estat.
-- **Recobriments metàl·lics:** diferenciar recobriment conservat, pèrdua, material o metall subjacent i corrosió. No tota pèrdua de recobriment és herrumbre.
+- **Recobriments metàl·lics:** diferenciar recobriment conservat, pèrdua, material o metall subjacent i corrosió. No tota pèrdua de recobriment és rovell.
 - **Pàtina i desgast:** la pàtina modifica l'aparença mitjançant una capa o transformació; el desgast implica pèrdua o deformació física. Poden coexistir, com en un bronze patinat a les zones protegides i polit als relleus.
 
 ## 28.7. Procediments d'aplicació i control
@@ -157,14 +157,14 @@ En llautó i objectes daurats, no s'ha d'aplicar automàticament verd intens. Po
 
 **Pàtina sobre coure o bronze:** construir metall; seleccionar distribució; establir to principal; introduir variacions; diferenciar profunditats; conservar o recuperar metall; avaluar l'equilibri.
 
-**Corrosió sobre pintura:** separar visualment recobriment, metall i corrosió. No aplicar herrumbre indiscriminadament sobre tota la pintura.
+**Corrosió sobre pintura:** separar visualment recobriment, metall i corrosió. No aplicar rovell indiscriminadament sobre tota la pintura.
 
 Durant l'aplicació, controlar distribució, reconeixement del metall, variacions, zones profundes, escala dels dipòsits, geometria i correspondència amb el material. Es poden combinar aplicacions (cap. 8), degradats (9), veladures i glassejats (10), rentats, tintes i pigments (11), puntejat, pinzell sec, ratllat i esponjat (13). No cal utilitzar-les totes. Les acumulacions de pigments i dipòsits físics requereixen atenció a la fixació i a possibles canvis d'aparença.
 
 ## 28.8. Errors freqüents i correccions
 
 - Un únic color de corrosió: introduir variacions i intensitats.
-- Confondre herrumbre de ferro i pàtina de coure: identificar el metall.
+- Confondre rovell de ferro i pàtina de coure: identificar el metall.
 - Verd intens en tot bronze: combinar pàtina amb marrons, foscos i metall.
 - Cobrir tot el metall original: conservar o recuperar zones exposades.
 - Distribució simètrica: variar posició, mida i intensitat segons geometria.
@@ -188,7 +188,7 @@ No cal cobrir tots els espais ni afegir detalls perquè l'objecte sembli vell. U
 3. **Corrosió localitzada:** seleccionar vores i cavitats, establir metall, construir zones fosques i variacions càlides; comprovar distribució.
 4. **Pàtina marró i verda:** aplicar G i H en dues superfícies; mantenir metall i comparar alteracions.
 5. **Pàtina blauverdosa:** establir metall, distribuir turqueses, aprofundir, aclarir i recuperar metall.
-6. **Integració:** combinar herrumbre, pàtina i metall conservat en una peça; identificar el metall, assignar alteracions i avaluar-ne la diferenciació.
+6. **Integració:** combinar rovell, pàtina i metall conservat en una peça; identificar el metall, assignar alteracions i avaluar-ne la diferenciació.
 
 ## 28.11. Referències i recursos
 

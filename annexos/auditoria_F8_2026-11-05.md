@@ -11,7 +11,7 @@
 | Àrea | Resultat |
 |---|---|
 | Capítols 1–39 | 39 títols presents i ordenats |
-| Correspondència fitxers/compilació | 38 coincidències exactes; una discrepància ortogràfica a C28, corregida |
+| Correspondència fitxers/compilació | 38 coincidències exactes; C28 corregit i concordant en contingut amb la compilació |
 | Numeració | Sense seccions numerades duplicades |
 | Taules | Sense inconsistències estructurals de columnes detectades |
 | Residus editorials | Sense marcadors pendents ni fragments HTML residuals detectats |
@@ -21,7 +21,7 @@
 
 ## Incidència i correcció
 
-A `segunda_sintesi/capitol-28.md` hi havia dues aparicions de «gema» on correspon «gemma». La compilació consolidada ja contenia la forma «gemma». S'han corregit exclusivament les dues aparicions del fitxer individual, sense modificar el contingut tècnic del capítol.
+A `segunda_sintesi/capitol-28.md` hi havia dues aparicions de «gema» on correspon «gemma». La compilació consolidada ja contenia la forma «gemma». S'han corregit exclusivament les dues aparicions del fitxer individual, sense modificar el contingut tècnic del capítol. La comprovació posterior confirma que el contingut de C28 concorda amb la compilació; aquesta última conserva un separador Markdown `---` i salts de línia addicionals al final del capítol, que no constitueixen una diferència de contingut.
 
 ## Annexos i fitxes
 

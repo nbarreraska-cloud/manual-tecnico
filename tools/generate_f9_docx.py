@@ -277,6 +277,18 @@ def main():
 
     p = doc.add_heading("ANNEX F. FITXES INDIVIDUALS DE LES 48 PINTURES", level=1)
     p.paragraph_format.page_break_before = True
+    idx_lines = index.splitlines()
+    intro_end = next((i for i, line in enumerate(idx_lines) if line.startswith("## Essential")), len(idx_lines))
+    add_markdown_block(doc, idx_lines[:intro_end], compact=True, first_heading_level=1)
+    current_group = None
+    for path in fiche_paths:
+        fiche_text = path.read_text(encoding="utf-8")
+        group_match = re.search(r'\|\s*Conjunt Squidmar\s*[×x]\s*Vallejo\s*\|\s*\*{0,2}(.*?)\*{0,2}\s*\(', fiche_text)
+        group_name = group_match.group(1).strip() if group_match else None
+        if group_name and group_name != current_group:
+            doc.add_heading(group_name, level=2)
+            current_group = group_name
+        add_markdown_block(doc, fiche_text.splitlines(), compact=True, first_heading_level=1)
 
     # Ask Word to refresh the automatic table of contents when the file is opened.
     settings = doc.settings.element

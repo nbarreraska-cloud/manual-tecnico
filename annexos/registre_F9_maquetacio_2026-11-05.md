@@ -165,3 +165,21 @@ La regeneració PDF de la nova composició també ha finalitzat correctament:
 - Auditoria DOCX: 39 capítols, annexos A–E i 48 identitats de fitxa; comprovació de referències de capítol superada.
 
 La nova maqueta substitueix la composició anterior dins de l'artefacte F9 generat. La comprovació automàtica no equival a una inspecció visual manual ampliada de cadascuna de les 12 pàgines de l'Annex F; aquesta revisió queda identificada com a control editorial pendent abans de donar per tancada la nova presentació.
+
+## Ajust de llegibilitat de les fitxes de l'Annex F — 05/11/2026
+
+Després de la revisió de la maqueta de sis fitxes per pàgina, s'ha ampliat el cos tipogràfic i s'ha donat més aire als blocs d'informació, mantenint la quadrícula de dues columnes i tres files:
+
+- Nom de pintura: 10,4 pt (abans 9,1 pt).
+- Identificació i metadades: aproximadament 7,1–8,4 pt.
+- Característiques de gamma: 7,45 pt.
+- Presència al manual i descripcions: 7,25 pt (abans 6,15 pt).
+- Interlineat dels textos descriptius augmentat a 1,0 i marges interns de les targetes ampliats.
+- Alçada prevista de fila augmentada de 7,55 a 7,75 cm.
+
+S'ha actualitzat `tools/generate_f9_docx.py` (commit `7754dfd10e9859da66bc071b3beb24979743efe0`) i s'han regenerat els dos formats:
+
+- Word: workflow `42120149995`, conclusió `success`; auditoria de fidelitat superada. Artefacte `13458171417`.
+- PDF: workflow `42120149896`, conclusió `success`; 295 pàgines A4, LibreOffice 26.2.6.3, índex actualitzat i instrucció provisional absent. SHA-256: `a23e6c14dec19e1fab1b4af8122ece7a4da6c0341dd779e5402048a501fb6876`. Artefacte `13456709726`.
+
+**Límit de verificació:** els workflows confirmen generació, fidelitat textual, integritat i paginació, però no constitueixen una inspecció visual ampliada de totes les targetes. Cal confirmar especialment que les fitxes amb més entrades no presentin text comprimit o desbordat. No s'ha modificat `main`.

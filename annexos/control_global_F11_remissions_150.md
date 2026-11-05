@@ -115,6 +115,10 @@ La preparació de les tres tandes queda completada. Encara no s'han inserit remi
 Aquesta fase no modifica `main`, no reobre F9 i no autoritza encara la inserció gràfica.
 
 
+## 13. Execució i avaluació inicial de la prova d'estil
+
+S'han creat quatre prototips vectorials SVG v01 a `grafics_prova/` per a les figures 4.1/G006, 3.1/G003, 16.4/G042 i 34.1/G110. Tres collages generatius exploratoris han estat rebutjats per manca de fidelitat i control individual. Els SVG continuen en revisió, sense aprovació ni inserció. El detall de les correccions, els controls pendents i la decisió de no estendre encara l'estil consta a [F15 — Avaluació de les proves d'estil](avaluacio_proves_estil_F15.md).
+
 ## 12. Prova d'estil preparada
 
 S'ha creat [F14 — Briefs de prova d'estil](briefs_prova_estil_F14.md), amb quatre encàrrecs concrets: figura 4.1 / G006, figura 3.1 / G003, figura 16.4 / G042 i figura 34.1 / G110. Inclouen dues composicions E0, una E1 i una E2 que s'ha de representar provisionalment com a E0 si no apareixen proves físiques. Els briefs no autoritzen encara la generació d'imatges.

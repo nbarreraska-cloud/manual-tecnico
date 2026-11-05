@@ -106,13 +106,13 @@ def add_markdown_block(doc, lines, compact=False, first_heading_level=1, page_br
                     for ci in range(cols):
                         cell = row.cells[ci]
                         cell.vertical_alignment = WD_CELL_VERTICAL_ALIGNMENT.CENTER
-                        set_cell_margins(cell, 30 if compact else 55, 45, 30 if compact else 55, 45)
+                        set_cell_margins(cell, 25 if compact else 55, 45, 25 if compact else 55, 45)
                         p = cell.paragraphs[0]
                         p.paragraph_format.space_after = Pt(0)
                         p.paragraph_format.line_spacing = 0.98 if compact else 1.0
                         add_inline(p, cells[ci] if ci < len(cells) else "")
                         for run in p.runs:
-                            run.font.size = Pt(7.2 if compact else 8.2)
+                            run.font.size = Pt(7.0 if compact else 8.2)
                             if ri == 0: run.bold = True
                 doc.add_paragraph().paragraph_format.space_after = Pt(0)
             continue
@@ -125,8 +125,8 @@ def add_markdown_block(doc, lines, compact=False, first_heading_level=1, page_br
                 p.paragraph_format.page_break_before = True
             first_heading_seen = True
             p.paragraph_format.keep_with_next = True
-            p.paragraph_format.space_before = Pt(4 if compact else 9)
-            p.paragraph_format.space_after = Pt(1.5 if compact else 4)
+            p.paragraph_format.space_before = Pt(3 if compact else 9)
+            p.paragraph_format.space_after = Pt(1 if compact else 4)
             add_inline(p, hm.group(2).strip())
             i += 1
             continue
@@ -134,8 +134,10 @@ def add_markdown_block(doc, lines, compact=False, first_heading_level=1, page_br
             p = doc.add_paragraph(style="List Bullet")
             p.paragraph_format.left_indent = Cm(0.4 if compact else 0.65)
             p.paragraph_format.first_line_indent = Cm(-0.18)
-            p.paragraph_format.space_after = Pt(0.5 if compact else 2)
+            p.paragraph_format.space_after = Pt(0.2 if compact else 2)
             add_inline(p, re.sub(r'^\s*[-*]\s+', '', raw))
+            if compact:
+                for run in p.runs: run.font.size = Pt(8.2)
             i += 1
             continue
         if re.match(r'^\s*\d+[.)]\s+', raw):
@@ -163,9 +165,11 @@ def add_markdown_block(doc, lines, compact=False, first_heading_level=1, page_br
             para.append(nxt.strip())
             i += 1
         p = doc.add_paragraph()
-        p.paragraph_format.space_after = Pt(1.5 if compact else 4)
-        p.paragraph_format.line_spacing = 1.0 if compact else 1.06
+        p.paragraph_format.space_after = Pt(0.5 if compact else 4)
+        p.paragraph_format.line_spacing = 0.98 if compact else 1.06
         add_inline(p, " ".join(para))
+        if compact:
+            for run in p.runs: run.font.size = Pt(8.2)
 
 def configure_styles(doc):
     for name in ("Normal", "Body Text", "List Bullet", "List Number"):

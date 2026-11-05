@@ -76,8 +76,9 @@ def set_repeat_table_header(row):
     tblHeader.set(qn("w:val"), "true")
     trPr.append(tblHeader)
 
-def add_markdown_block(doc, lines, compact=False, first_heading_level=1):
+def add_markdown_block(doc, lines, compact=False, first_heading_level=1, page_break_before_first_heading=False):
     i = 0
+    first_heading_seen = False
     while i < len(lines):
         raw = lines[i].rstrip()
         if not raw.strip() or raw.strip() == "---":
@@ -116,6 +117,9 @@ def add_markdown_block(doc, lines, compact=False, first_heading_level=1):
             level = len(hm.group(1))
             style_level = min(4, max(3, level + 2)) if compact else min(3, max(1, level + first_heading_level - 1))
             p = doc.add_paragraph(style=f"Heading {style_level}")
+            if page_break_before_first_heading and not first_heading_seen:
+                p.paragraph_format.page_break_before = True
+            first_heading_seen = True
             p.paragraph_format.keep_with_next = True
             p.paragraph_format.space_before = Pt(4 if compact else 9)
             p.paragraph_format.space_after = Pt(1.5 if compact else 4)
@@ -131,10 +135,12 @@ def add_markdown_block(doc, lines, compact=False, first_heading_level=1):
             i += 1
             continue
         if re.match(r'^\s*\d+[.)]\s+', raw):
-            p = doc.add_paragraph(style="List Number")
+            p = doc.add_paragraph()
             p.paragraph_format.left_indent = Cm(0.4 if compact else 0.65)
             p.paragraph_format.first_line_indent = Cm(-0.18)
             p.paragraph_format.space_after = Pt(0.5 if compact else 2)
+            number = re.match(r'^\s*(\d+[.)])\s+', raw).group(1)
+            p.add_run(number + " ")
             add_inline(p, re.sub(r'^\s*\d+[.)]\s+', '', raw))
             i += 1
             continue
@@ -229,15 +235,13 @@ def main():
     starts = [i for i, line in enumerate(chapter_lines) if re.match(r'^#\s+(?:0?[1-9]|[1-3][0-9])\.\s+', line)]
     for n, st in enumerate(starts):
         en = starts[n+1] if n+1 < len(starts) else len(chapter_lines)
-        if n: doc.add_page_break()
-        add_markdown_block(doc, chapter_lines[st:en], compact=False, first_heading_level=1)
+        add_markdown_block(doc, chapter_lines[st:en], compact=False, first_heading_level=1, page_break_before_first_heading=(n > 0))
 
     for path in annex_paths:
-        doc.add_page_break()
-        add_markdown_block(doc, path.read_text(encoding="utf-8").splitlines(), compact=False, first_heading_level=1)
+        add_markdown_block(doc, path.read_text(encoding="utf-8").splitlines(), compact=False, first_heading_level=1, page_break_before_first_heading=True)
 
-    doc.add_page_break()
-    doc.add_heading("ANNEX F. FITXES INDIVIDUALS DE LES 48 PINTURES", level=1)
+    p = doc.add_heading("ANNEX F. FITXES INDIVIDUALS DE LES 48 PINTURES", level=1)
+    p.paragraph_format.page_break_before = True
     idx_lines = index.splitlines()
     intro_end = next((i for i, line in enumerate(idx_lines) if line.startswith("## Essential")), len(idx_lines))
     add_markdown_block(doc, idx_lines[:intro_end], compact=True, first_heading_level=1)

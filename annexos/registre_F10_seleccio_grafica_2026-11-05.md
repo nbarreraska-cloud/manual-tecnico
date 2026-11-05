@@ -850,3 +850,18 @@ La cerca a la tercera síntesi no ha trobat cap referència textual explícita a
 L'arbre de fitxers de la branca no conté imatges independents de mostres físiques (PNG, JPEG, WebP, TIFF o SVG). Això no exclou que existeixin fora del repositori; simplement no n'hi ha cap de documentada a la branca actual. Les figures E2 s'han de mantenir com a esquemes conceptuals fins que hi hagi evidència real.
 
 No s'ha generat ni inserit cap imatge ni s'ha modificat cap capítol. F10 continua oberta.
+
+
+## 26. Ubicacions completes i numeració editorial de treball — 05/11/2026
+
+S'han completat les ubicacions lectores de les 150 fitxes editorials. Les 94 fitxes que encara no tenien el camp explícit han rebut la ubicació corresponent a partir de la llista preliminar i de les decisions de fusió. No queda cap composició sense apartat de referència.
+
+S'ha creat `annexos/numeracio_editorial_figures_F10.md` amb:
+- **150 composicions** ordenades per capítol i ordre de lectura.
+- **Claus internes estables G001–G150**.
+- Número editorial proposat per a cada figura (Figura capítol.n).
+- Identificadors originals agrupats, títol de treball i ubicació lectora.
+
+La numeració és seqüencial per capítol i només cobreix les composicions P1 actuals. Les P2 no integrades no reserven números. La numeració es considera **proposta de treball**, no congelada: només es fixarà definitivament després de tancar la revisió semàntica i les remissions, i sempre que no s'incorporin noves P2.
+
+**Resultat:** 150/150 composicions amb identificador estable, número editorial proposat i ubicació lectora. F10 continua oberta.

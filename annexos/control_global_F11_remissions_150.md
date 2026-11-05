@@ -115,6 +115,15 @@ La preparació de les tres tandes queda completada. Encara no s'han inserit remi
 Aquesta fase no modifica `main`, no reobre F9 i no autoritza encara la inserció gràfica.
 
 
+## 11. Continuació del procés: preparació de producció
+
+S'han creat dos documents de preparació, sense generar ni inserir imatges:
+
+- [F12 — Protocol de producció gràfica](protocol_produccio_grafica_F12.md): jerarquia de fonts, evidència, estil, formats de lliurament, flux de treball, controls de qualitat i separació de versions.
+- [F13 — Registre mestre dels 150 encàrrecs](registre_mestre_encarrecs_grafics_F13.md): 150 composicions, 156 P1, categories E0/E1/E2, ubicacions, llegendes de treball i estat inicial.
+
+La verificació del registre ha confirmat 150 figures úniques i 156 P1 únics, sense omissions ni duplicats. La distribució és 131 E0, 13 E1 i 6 E2. Totes les composicions continuen en estat «Pendent d'encàrrec»; no hi ha màsters gràfics ni exportacions finals.
+
 ## 10. Actualització després de la revisió
 
 - Les tres tandes identifiquen l'evidència de cada composició: 131 E0, 13 E1 i 6 E2.

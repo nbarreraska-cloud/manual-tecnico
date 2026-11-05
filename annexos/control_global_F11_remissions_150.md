@@ -127,3 +127,7 @@ Aquesta fase no modifica `main`, no reobre F9 i no autoritza encara la inserció
 
 
 - **Figura 39.6:** la revisió contextual ha detectat que 39.7 tracta de prevenció i registre, no de diagnòstic superficial. L'ancoratge s'ha corregit a 39.2.3 a la fitxa F10, la matriu i la tanda 03.
+
+
+- S'han contrastat els 116 ancoratges de les tandes 02 i 03 amb les fitxes F10: **0 discrepàncies**.
+- La revisió contextual ha corregit la figura 39.6, que passa de 39.7 a 39.2.3; el motiu queda documentat a l'auditoria editorial.

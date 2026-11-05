@@ -140,3 +140,17 @@ S'ha incorporat la propietat `cantSplit` a totes les files de taula del generado
 La diferència respecte de les paginacions anteriors de 352–353 pàgines es deu al motor de maquetació. Les conversions amb LibreOffice 25.2.3.2 van produir 352–353 pàgines i continuacions de text molt curtes; l'artefacte de referència s'ha generat amb LibreOffice 26.2.6.3 i presenta 326 pàgines sense pàgines pràcticament buides. La longitud objectiu és orientativa i no s'ha d'assolir afegint espaiat artificial ni alterant contingut.
 
 **Conclusió final:** F9 queda tancada en el seu abast textual sense imatges. No s'ha modificat `main`, no s'ha fusionat la branca de treball i no s'ha iniciat F10.
+
+
+## Redisseny de l'Annex F — 05/11/2026
+
+S'ha actualitzat el generador de F9 a la branca `intervencion-editorial-2026-11` (commit `20192bbd7985fc160ea929dcba56ce60f39d5be9`) per substituir la presentació anterior de les fitxes per una composició de quatre targetes per pàgina, en quadrícula 2 × 2, amb jerarquia tipogràfica i separació visual més clara.
+
+Canvis editorials:
+- Es retira de la fitxa visual el peu repetitiu sobre l'estat de verificació.
+- Es dona prioritat a les característiques de gamma declarades pel fabricant i a les funcions traçables de cada pintura dins del manual.
+- Es manté explícita la distinció entre propietats de família i dades individuals: no s'inventen valors de duresa, opacitat, cobertura, transparència, viscositat, assecat o acabat.
+- Quan no hi ha caracterització tècnica específica recuperada per a Model Color, s'indica aquesta limitació de manera breu.
+- Es conserven les 48 referències, els quatre conjunts i l'ordre de l'índex.
+
+La generació Word a GitHub Actions ha finalitzat correctament (execució `42118619973`, artefacte `13457976522`). La validació de fidelitat del DOCX també ha finalitzat correctament. La regeneració PDF i la comprovació visual de la nova paginació queden pendents de tancament abans de considerar substituïda la maqueta anterior.

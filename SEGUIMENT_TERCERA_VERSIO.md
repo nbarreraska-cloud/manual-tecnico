@@ -1152,7 +1152,7 @@ Durant el coteig s'han corregit dues incidències lingüístiques concretes als 
 
 **Annex D:** s'han contrastat les 92 entrades amb les lletres de recepta i els colors indicats als capítols, i amb les entrades corresponents de l'Annex C. No s'han detectat correspondències incorrectes. S'ha aclarit que C29, C32 i C34 no aporten mescles físiques explícites a la taula, perquè descriuen seqüències d'aplicació o seleccions cromàtiques sense formulacions físiques ni proporcions.
 
-F5 continua oberta per l'auditoria de l'Annex E i la comprovació final d'integració entre A–E.
+Aquesta anotació intermèdia queda superada pel tancament de F5 documentat a continuació: l'auditoria de l'Annex E i la integració A–E estan completades.
 
 
 ### F5 — tancament de l'auditoria i integració dels annexos A–E (05/11/2026)
@@ -1165,4 +1165,21 @@ S'ha completat l'auditoria dels cinc annexos i la seva integració transversal:
 - **D:** 92 entrades contrastades amb els capítols, l'Annex A i les lletres de l'Annex C. Les exclusions de C29, C32 i C34 queden justificades perquè no aporten mescles físiques explícites a la taula.
 - **E:** guia de selecció i planificació revisada; remissions als capítols 1–39 i als annexos A–D verificades.
 
-No s'han inventat proporcions, no s'han convertit seqüències d'aplicació en mescles físiques i no s'ha afirmat cap validació experimental. F5 queda tancada. La següent fase és F7: producció dels 243 recursos gràfics proposats i maquetació Word, amb comprovació del volum real.
+No s'han inventat proporcions, no s'han convertit seqüències d'aplicació en mescles físiques i no s'ha afirmat cap validació experimental. F5 queda tancada.
+
+### F7 — auditoria i priorització gràfica inicial (05/11/2026)
+
+S'ha verificat el fitxer `PLANIFICACIO_GRAFICA_MG_FASE_POSTERIOR.md`: conté 243 propostes (153 recuperades del Word original i 90 addicionals de C15–C24). Les 153 referències de figura originals són úniques, sense duplicats numèrics. S'ha creat `AUDITORIA_PRIORITZACIO_GRAFICA_MG.md`, que documenta el recompte per capítol, els criteris P1/P2/P3, la priorització temàtica, els límits de rigor i les incidències del fitxer de planificació.
+
+Incidències detectades per resoldre durant la consolidació:
+- fragments de prosa del capítol original barrejats al bloc de propostes de C4;
+- encapçalament de criteris gràfics de C3 que agrupa subseccions de C33–C35;
+- descripcions de figures originals en castellà que s'han de passar al català abans de produir-les.
+
+No s'aprova la producció automàtica de les 243 figures. Cal classificar individualment les propostes, fusionar redundàncies i aprovar una llista de producció. Les mostres de productes i resultats físics només es poden il·lustrar amb proves o fotografies reals; els esquemes conceptuals poden produir-se digitalment.
+
+### Seqüència actualitzada de tancament
+
+- **F7 — Consolidació editorial i gràfica:** depurar el registre MG, classificar P1/P2/P3, aprovar i produir només les figures justificades, integrar-les i estabilitzar els 39 capítols i els annexos A–E.
+- **F8 — Auditoria final integral:** després de la consolidació i abans de Word, revisar estructura, contingut, numeració, referències creuades, annexos, figures, llegendes, remissions, integritat de receptes i absència de residus editorials. Aquesta fase és una porta de control obligatòria; no s'inicia la maquetació si no queda superada.
+- **F9 — Maquetació Word:** només després de tancar F8, generar el document complet, comprovar la paginació real i valorar l'objectiu de 350–375 pàgines i el límit orientatiu de 400, sense retallar contingut tècnic valuós per ajustar la xifra.

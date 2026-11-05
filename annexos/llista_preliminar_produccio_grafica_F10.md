@@ -582,3 +582,126 @@ No s'inclouen com a figures autònomes en aquesta llista. Només es recuperaran 
 
 Aquest recompte és de planificació, no una quota obligatòria. Si una figura no aporta una lectura clara, es revisarà la composició o la necessitat de produir-la; no es crearà per complir un número.
 
+
+
+## 8. C15–C24 — Especificacions preliminars de producció
+
+Les 58 propostes P1 d'aquesta tanda ja disposen de coteig lector al registre F10 (apartat 13). Aquesta secció converteix aquell coteig en especificacions de treball. Les ubicacions corregides del registre prevalen sobre els números interns de proposta. Les especificacions encara són preliminars: abans de produir cal normalitzar les llegendes, comprovar la correspondència exacta amb cada recepta i decidir la composició final de les fusions.
+
+### C15 — Il·luminació aplicada i planificació de valors
+
+| Proposta | Ubicació | Format i contingut | Condicions de producció |
+|---|---|---|---|
+| 15.1 — Anàlisi de geometria, volums i superfícies | 15.2 | Miniatura simplificada anotada: silueta, volums, plans, superfícies corbes, arestes, superposicions i zones protegides. | No deduir automàticament la llum de la geometria; diferenciar observació i decisió pictòrica. |
+| 15.3 — Mapa de valors | 15.6 | Dos mapes coordinats: distribució de la il·luminació i organització dels valors tonals. | No fusionar els dos mapes en una sola escala; conservar-ne la funció diferenciada. |
+| 15.6 — Distribució del contrast | 15.4 o 15.8 | Comparació de distribució uniforme i jerarquitzada del contrast sobre una mateixa miniatura. | La distribució uniforme no és necessàriament un error; etiquetar-la segons objectiu i context. |
+| 15.8 — Procés integral d'anàlisi a avaluació | 15.1 o 15.9 | Diagrama circular o seqüència revisable: observar, definir objectius, seleccionar esquema, mapar valors, executar i avaluar. | No representar-lo com una cadena rígida; incloure revisió i retorn a fases anteriors. |
+
+### C16 — Metall no metàl·lic (NMM)
+
+| Proposta | Ubicació | Format i contingut | Condicions de producció |
+|---|---|---|---|
+| 16.1 — Metàl·lic i no metàl·lic | 16.1 | Comparació TMM/NMM sobre geometries equivalents: partícules reflectants reals davant de reflexos simulats pictòricament. | No suggerir que el NMM conté pigment metàl·lic ni que el TMM depèn només del contrast pintat. |
+| 16.2 — Influència de la geometria en els reflexos | 16.2 i/o 16.6 | Panells de superfície plana, cilíndrica, esfèrica i facetada amb patrons de reflex diferents. | Són exemples orientatius; no establir un patró únic per geometria ni desconnectar els reflexos de l'entorn. |
+| 16.4 — Mapa tonal d'una peça metàl·lica | 16.3 | Mapa de valors i colors sobre una peça NMM, amb zones fosques, mitjos tons, llums i reflexos. | Ubicació corregida: no situar a 16.4, que tracta diferenciació cromàtica entre metalls. |
+| 16.6 — Construcció progressiva de base a reflexos i accents | 16.5 | Seqüència de capes: base, masses tonals, contrastos, reflexos i accents finals. | Ubicació corregida; no presentar la seqüència com una recepta universal ni ometre l'adaptació geomètrica. |
+| 16.8 — Errors i correccions | 16.8 | Làmina diagnòstica: contrast arbitrari, reflexos incoherents, geometria mal interpretada i manca de jerarquia. | Cada error ha d'estar associat a la correcció descrita al capítol; no afegir defectes genèrics. |
+
+### C17 — Il·luminació d'efectes lluminosos (OSL)
+
+| Proposta | Ubicació | Format i contingut | Condicions de producció |
+|---|---|---|---|
+| 17.1 — Font emissora, superfície il·luminada i reflex localitzat | 17.2.1–17.2.3 | Esquema espacial amb font, superfícies receptores, il·luminació directa i reflex especular localitzat. | Distingir llum rebuda i reflex; un color intens no prova emissió. |
+| 17.3 — Geometria, orientació i bloqueig | 17.3.4–17.3.6 | Vista de font, objectes, orientació de plans, obstacles i zones d'ombra. | Respectar la posició relativa dels elements; no il·luminar superfícies ocultes sense justificació. |
+| 17.4 — Jerarquia de valors | 17.4.1–17.4.2 | Escala/diagrama de valors que separi font, zona pròxima il·luminada i entorn. | No imposar un centre blanc universal ni una gradació cromàtica fixa. |
+| 17.7 — Il·luminació general i reflexos en superfícies mates i brillants | 17.6.4–17.6.5 | Comparació de la mateixa llum sobre superfície mat i brillant. | Ubicació corregida; diferenciar canvi ampli d'aparença i reflex localitzat. |
+| 17.8 — Seqüència de construcció i integració de l'OSL | 17.5.1–17.5.7 | Seqüència de planificació, font, superfícies receptores, aplicació, integració i avaluació. | Ubicació corregida; no confondre amb el bloc d'errors. |
+| 17.10 — Errors freqüents | 17.8 | Làmina diagnòstica d'errors d'origen, direcció, extensió, valor, color i integració de la llum. | Ubicació corregida; el 17.10 correspon als exercicis. |
+
+### C18 — Planificació, seqüenciació i avaluació integral
+
+| Proposta | Ubicació | Format i contingut | Condicions de producció |
+|---|---|---|---|
+| 18.1 — Mapa del procés integral | 18.1 | Diagrama de planificació revisable: anàlisi, objectius, recursos, selecció, seqüenciació i avaluació. | No presentar una seqüència única vàlida per a totes les miniatures. |
+| 18.3 — Planificació cromàtica, tonal i lumínica | 18.3 | Tres capes o mapes coordinats: color, valors i il·luminació. | Mostrar interdependència sense confondre les tres variables. |
+| 18.4 — Arbre de selecció de tècniques | 18.4 | Arbre de decisió segons objectiu, superfície, control, limitacions i operacions posteriors. | Les branques han de permetre més d'una solució; no assignar una tècnica única a cada material. |
+| 18.6 — Organització per zones, materials i fases | 18.5.4 | Esquema de planificació per components/zones, famílies de materials i fases d'execució. | Ubicació corregida; distingir organització de la seqüència de compatibilitat de tècniques del 18.6. |
+
+### C19 — Metalls (TMM)
+
+| Proposta | Ubicació | Format i contingut | Condicions de producció |
+|---|---|---|---|
+| 19.3 — Construcció TMM d'acer i plata | 19.2–19.3 | Seqüència didàctica amb base metàl·lica, modificació cromàtica i construcció tonal per acer/plata. | Les receptes són propostes, no assajos; no inventar proporcions ni presentar resultats com a proves reals. |
+| 19.4 — Construcció TMM d'or | 19.4.2 | Seqüència de base, variacions cromàtiques, ombres i llums per a les variants descrites. | Respectar variants i paleta disponible; no afegir productes o proporcions absents del text. |
+| 19.5 — Construcció de coure | 19.5.2 | Seqüència de modificació cromàtica d'una base metàl·lica disponible per suggerir coure. | No suggerir que el catàleg conté una pintura metàl·lica específica de coure. |
+| 19.6 — Construcció de bronze | 19.6.2 | Seqüència de modificació cromàtica i tonal per suggerir bronze. | No atribuir el resultat a una pintura específica de bronze absent de la paleta. |
+| 19.9 — Errors i control | 19.9 | Làmina diagnòstica de dominants, reflexos, contrast, diferenciació de metalls i correcció selectiva. | Vincular cada símptoma amb els criteris de control del capítol; no generalitzar receptes. |
+
+### C20 — Fusta
+
+| Proposta | Ubicació | Format i contingut | Condicions de producció |
+|---|---|---|---|
+| 20.1 — Direcció de fibres, vetes, nusos i anells | 20.1–20.2 | Comparació de patrons longitudinals, transversals i de tall, amb direcció de fibra, vetes i nusos. | Integrar 20.2 com a panell de la mateixa làmina; no duplicar una figura autònoma. |
+| 20.2 — Patrons segons el tall | 20.2 | Panell integrat a 20.1 amb secció i orientació dels anells. | **Fusió recomanada amb 20.1**, no una segona figura independent. |
+| 20.4 — Construcció de vetes | 20.8.1 | Seqüència de base, variacions, vetes longitudinals, discontinuïtats i recuperació de llum. | Respectar direcció, longitud, amplada i jerarquia; adaptar el detall a escala i curvatura. |
+| 20.5 — Nus i desviació de fibres | 20.8.2 | Detall ampliat d'un nus amb desviació i continuïtat de les vetes. | No representar el nus com un cercle independent; les fibres han de girar al seu voltant. |
+| 20.7 — Adaptació a geometries | 20.9.2 | Comparació de vetes sobre tauler, cilindre, peça corba i element irregular. | Ubicació corregida; mantenir continuïtat de patró segons la forma del suport. |
+| 20.8 — Fusta natural, envellida, desgastada i humida | 20.7.1–20.7.4 | Quatre panells d'estat superficial sobre una mateixa família de fusta. | Diferenciar color, textura, lluentor i alteració; no reduir els estats a canvis de to. |
+| 20.9 — Errors i correccions | 20.9.3 | Làmina diagnòstica de vetes massa regulars, escala incorrecta, patró desalineat i manca de continuïtat. | Cada correcció ha de correspondre a l'error descrit al capítol. |
+
+### C21 — Vegetació
+
+| Proposta | Ubicació | Format i contingut | Condicions de producció |
+|---|---|---|---|
+| 21.1 — Tipus principals de vegetació | 21.1–21.2 | Làmina comparativa de fullatge ample, coníferes, herbàcies, molsa, líquens i vegetació seca. | Diferenciar estructura, creixement i densitat; no classificar només pel color. |
+| 21.2 — Morfologia de fulles | 21.2 | Comparació simplificada de formes i agrupacions de fulles. | No convertir-la en una classificació botànica exhaustiva ni afegir espècies no necessàries. |
+| 21.3 — Agrupació, densitat i superposició | 21.2 | Seqüència de massa general, buits, agrupacions i superposició de fulles. | Prioritzar lectura de massa; no dibuixar cada fulla ni uniformitzar el volum. |
+| 21.5 — Branques i agrupacions aciculars | 21.5 | Construcció en dos nivells: capçada/branques i agrupacions d'agulles direccionals. | Respectar orientació i densitat; evitar patrons repetitius o radials artificials. |
+| 21.6 — Tiges, fulles i gramínies | 21.6 | Comparació de tiges, fulles allargades, espigues i fulles seques. | Diferenciar direcció, alçada i agrupació; adaptar la simplificació a escala. |
+| 21.7 — Formes de molsa | 21.7 | Comparació de coixins, tapissos i agrupacions irregulars sobre suports. | Mostrar relleu i densitat; no representar molsa com una taca verda uniforme. |
+| 21.8 — Formes de líquens | 21.8 | Comparació de formes crustàcies, foliàcies, fruticuloses i esquamuloses. | No confondre líquens amb molsa ni representar-los com a plantes de fulla. |
+
+### C22 — Cuir i pells
+
+| Proposta | Ubicació | Format i contingut | Condicions de producció |
+|---|---|---|---|
+| 22.1 — Gra del cuir | 22.1–22.2 | Detall comparatiu de gra natural, gra corregit i superfície tractada. | Simplificar porus i irregularitats a escala; no dibuixar cada porus. |
+| 22.2 — Cuir natural, corregit, ante i nobuk | 22.2 | Quatre panells de textura i resposta superficial. | Diferenciar gra, fibra vellutada i acabat; la distinció ante/nobuk és orientativa i depèn del producte. |
+| 22.4 — Construcció de cuir natural | 22.4 | Seqüència de base, variacions, ombres, llums, cantells i marques d'ús. | Adaptar a geometria i gruix; les receptes són propostes no assajades. |
+| 22.5 — Ante i nobuk | 22.2 i 22.6 | Comparació de superfície fibrosa de l'ante i lectura de gra més perceptible del nobuk. | Evitar reflexos brillants i no convertir la distinció orientativa en regla absoluta. |
+| 22.6 — Plecs i deformacions | 22.9 | Detalls de plecs, compressions, tensions i deformacions. | Ubicació corregida; respectar gruix, flexibilitat i punts de subjecció. |
+| 22.7 — Cantells, gruix i costures | 22.9 | Detalls de secció, vores, costures i unions. | Ubicació corregida; no confondre costura decorativa amb estructura del material. |
+| 22.9 — Errors freqüents | apartat de control i errors del C22 | Làmina diagnòstica de cuir excessivament brillant, textura desproporcionada, plecs incoherents i confusió entre cuir, ante i nobuk. | Vincular cada error amb una correcció del text; evitar solucions universals. |
+
+### C23 — Teixits i teles
+
+| Proposta | Ubicació | Format i contingut | Condicions de producció |
+|---|---|---|---|
+| 23.1 — Tafetà, sarja i setí | 23.2 | Comparació esquemàtica dels patrons d'entrellaçat i la seva lectura superficial. | Diferenciar estructura i acabat; no representar el vellut com una estructura equivalent. |
+| 23.2 — Famílies de teixits | 23.1–23.2 | Matriu de fibra, estructura, gruix, caiguda, textura i acabat. | Les associacions són orientatives; no atribuir una aparença única a cada fibra. |
+| 23.3 — Construcció cromàtica de teixits clars | 23.4 | Seqüència de base, tons mitjans, ombres, llums i plecs sobre teixit clar. | No convertir la superfície en blanc uniforme; preservar volum i variacions. |
+| 23.5 — Teixits gruixuts i de pèl | 23.5 | Comparació de volum, textura i direcció del pèl en teixits gruixuts. | Evitar punts o línies decoratives excessives; escala i estructura han de governar el detall. |
+| 23.6 — Plecs i punts de tensió | 23.9.1–23.9.2 | Esquema de punts de fixació, tensió, compressió i direcció dels plecs. | Ubicació corregida; no representar plecs com a línies arbitràries ni ignorar gravetat i subjecció. |
+| 23.8 — Errors freqüents | 23.9.4 | Làmina diagnòstica de plecs, patrons, textura i reflexos incoherents. | Ubicació corregida; cada exemple ha de correspondre a l'error i correcció del capítol. |
+
+### C24 — Pell, carn i teixits orgànics
+
+| Proposta | Ubicació | Format i contingut | Condicions de producció |
+|---|---|---|---|
+| 24.2 — Pigmentacions clares, intermèdies i profundes | 24.2 i 24.4–24.5 | Comparació de diferents aparences de pell amb variacions locals de matís, valor i temperatura. | Categories orientatives, no grups biològics tancats ni temperatures cromàtiques fixes. |
+| 24.3 — Mapa cromàtic del rostre | 24.7 | Mapa facial orientatiu de variacions locals sobre una referència concreta. | No és universal; dependrà de la referència, la pigmentació i la il·luminació. |
+| 24.4 — Construcció de pell clara | 24.4 | Seqüència de base, tons mitjans, ombres, variacions locals i llums. | Respectar les receptes del capítol; no reduir la pell a blanc, rosa i beix. |
+| 24.5 — Construcció de pell profunda | 24.5 | Seqüència de base, profunditat cromàtica, variacions i llums. | No aplicar aclarits desaturats generalitzats ni neutralitzar la base. |
+| 24.7 — Masses musculars | 24.8 | Esquema anatòmic simplificat de masses i volums musculars. | Ha de ser anatòmicament fiable a nivell general; no és una il·lustració mèdica ni ha d'afegir detalls no sustentats. |
+| 24.8 — Múscul, teixit adipós i connectiu | 24.8 | Comparació esquemàtica de feixos musculars, teixit adipós i estructures connectives. | Diferenciar els teixits sense inventar anatomia ni confondre estructures òssies o queratíniques. |
+| 24.9 — Errors freqüents | 24.9.3 | Làmina diagnòstica de pigmentació plana, variacions excessives, anatomia poc llegible i llums/ombres incoherents. | Els exemples han de correspondre als errors i correccions del capítol. |
+
+### 8.1. Composició i fusions pendents de resoldre
+
+- **20.1 + 20.2:** una sola làmina de patrons de fusta; 20.2 passa a ser panell intern.
+- Les altres propostes d'aquesta tanda es mantenen com a candidates independents en aquesta fase, però poden compartir làmina si la composició final millora la lectura sense eliminar informació.
+- **C15.6:** decidir si la comparació s'insereix a 15.4 o 15.8 segons el flux final de la pàgina.
+- **C17.7/17.8/17.10:** mantenir la numeració de proposta només com a traçabilitat; aplicar les ubicacions corregides del registre.
+- **C24.7 + 24.8:** poden formar una làmina anatòmica coordinada de masses i tipus de teixit, però no s'han de fusionar si això redueix la llegibilitat o suggereix una anatomia incorrecta.
+
+**Resultat d'aquesta tanda:** 58 identificadors P1 de C15–C24 convertits en especificacions preliminars, amb la fusió interna 20.2→20.1 indicada. Encara no és una llista definitiva de figures: cal normalitzar els textos originals, validar les llegendes i assignar la numeració editorial després de resoldre les fusions.

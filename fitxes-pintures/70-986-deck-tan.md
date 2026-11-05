@@ -28,16 +28,16 @@ La documentació oficial situa aquesta referència dins de Model Color. No s'ha 
 
 ## 4. Presència i funció dins del manual
 
-Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n reprodueix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
+Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n resumeix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
 
-- **Capítol 20:** `| Deck Tan | 70.986 | Bases clares i variacions apagades |`
-- **Capítol 21:** `| Deck Tan | 70.986 | Tons apagats |`
-- **Capítol 22:** `| Deck Tan | 70.986 | Beixos, tons clars i cuir envellit |`
-- **Capítol 23:** `| Deck Tan | 70.986 | Beix, lli i teixits naturals |`
-- **Capítol 24:** `| Deck - **Capítol 25:** `| Deck Tan | 70.986 | Bases beix i variacions |`
-- **Capítol 26:** `| Deck Tan | 70.986 | Bases clares i pedra beix |`
-- **Capítol 27:** `| Deck Tan | 70.986 | Tons neutres i modificacions càlides |`
-Tan | 70.986 | Beixos i modificacions neutres |`
+- **Capítol 20:** Bases clares i variacions apagades (funció indicada a la taula).
+- **Capítol 21:** Tons apagats (funció indicada a la taula).
+- **Capítol 22:** Beixos, tons clars i cuir envellit (funció indicada a la taula).
+- **Capítol 23:** Beix, lli i teixits naturals (funció indicada a la taula).
+- **Capítol 24:** Beixos i modificacions neutres (funció indicada a la taula).
+- **Capítol 25:** Bases beix i variacions (funció indicada a la taula).
+- **Capítol 26:** Bases clares i pedra beix (funció indicada a la taula).
+- **Capítol 27:** Tons neutres i modificacions càlides (funció indicada a la taula).
 
 Capítols amb aparicions identificades: C20, C21, C22, C23, C24, C25, C26, C27.
 

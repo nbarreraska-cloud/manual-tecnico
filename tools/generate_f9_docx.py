@@ -130,6 +130,8 @@ def add_markdown_block(doc, lines, compact=False, first_heading_level=1, page_br
                         set_cell_margins(cell, 25 if compact else 55, 45, 25 if compact else 55, 45)
                         p = cell.paragraphs[0]
                         p.paragraph_format.space_after = Pt(0)
+                        p.paragraph_format.keep_together = True
+                        p.paragraph_format.widow_control = True
                         p.paragraph_format.line_spacing = 0.98 if compact else 1.0
                         add_inline(p, cells[ci] if ci < len(cells) else "")
                         for run in p.runs:
@@ -146,6 +148,8 @@ def add_markdown_block(doc, lines, compact=False, first_heading_level=1, page_br
                 p.paragraph_format.page_break_before = True
             first_heading_seen = True
             p.paragraph_format.keep_with_next = True
+            p.paragraph_format.keep_together = True
+            p.paragraph_format.widow_control = True
             p.paragraph_format.space_before = Pt(3 if compact else 9)
             p.paragraph_format.space_after = Pt(1 if compact else 4)
             add_inline(p, hm.group(2).strip())
@@ -166,6 +170,8 @@ def add_markdown_block(doc, lines, compact=False, first_heading_level=1, page_br
             p.paragraph_format.left_indent = Cm(0.4 if compact else 0.65)
             p.paragraph_format.first_line_indent = Cm(-0.18)
             p.paragraph_format.space_after = Pt(0.2 if compact else 2)
+            p.paragraph_format.keep_together = True
+            p.paragraph_format.widow_control = True
             add_inline(p, re.sub(r'^\s*[-*]\s+', '', raw))
             if compact:
                 for run in p.runs: run.font.size = Pt(8.2)
@@ -176,6 +182,8 @@ def add_markdown_block(doc, lines, compact=False, first_heading_level=1, page_br
             p.paragraph_format.left_indent = Cm(0.4 if compact else 0.65)
             p.paragraph_format.first_line_indent = Cm(-0.18)
             p.paragraph_format.space_after = Pt(0.5 if compact else 2)
+            p.paragraph_format.keep_together = True
+            p.paragraph_format.widow_control = True
             number = re.match(r'^\s*(\d+[.)])\s+', raw).group(1)
             p.add_run(number + " ")
             add_inline(p, re.sub(r'^\s*\d+[.)]\s+', '', raw))
@@ -197,6 +205,8 @@ def add_markdown_block(doc, lines, compact=False, first_heading_level=1, page_br
             i += 1
         p = doc.add_paragraph()
         p.paragraph_format.space_after = Pt(0.5 if compact else 4)
+        p.paragraph_format.keep_together = True
+        p.paragraph_format.widow_control = True
         p.paragraph_format.line_spacing = 0.98 if compact else 1.06
         add_inline(p, " ".join(para))
         if compact:
@@ -208,6 +218,7 @@ def configure_styles(doc):
         st.font.name = "Aptos"
         st.font.size = Pt(8.5 if name == "Normal" else 8.2)
         st.paragraph_format.space_after = Pt(3)
+        st.paragraph_format.widow_control = True
         st.paragraph_format.line_spacing = 1.04
     for name, size in (("Heading 1", 17), ("Heading 2", 12), ("Heading 3", 9.5)):
         st = doc.styles[name]
@@ -216,6 +227,8 @@ def configure_styles(doc):
         st.font.bold = True
         st.font.color.rgb = RGBColor(35, 55, 76)
         st.paragraph_format.keep_with_next = True
+        st.paragraph_format.keep_together = True
+        st.paragraph_format.widow_control = True
 
 
 def shade_cell(cell, fill="F3F6F8"):
@@ -306,7 +319,9 @@ def add_card_content(cell, data):
         p = cell.add_paragraph()
         p.paragraph_format.space_before = Pt(before)
         p.paragraph_format.space_after = Pt(after)
-        p.paragraph_format.line_spacing = 1.02
+        p.paragraph_format.keep_together = True
+        p.paragraph_format.widow_control = True
+        p.paragraph_format.line_spacing = 1.05
         p.paragraph_format.widow_control = False
         r = p.add_run(text)
         r.font.name = "Aptos"
@@ -327,7 +342,7 @@ def add_card_content(cell, data):
     r.font.color.rgb = RGBColor(27, 55, 78)
     add_bookmark(p, FICHE_BOOKMARKS[data["file"]])
 
-    line(data["code"], 8.4, (76, 99, 119), True, after=2.0)
+    line(data["code"], 8.4, (76, 99, 119), True, after=2.4)
     line(f'{data["set"]}  ·  {data["family"]}', 7.2, (73, 86, 99), after=1.8)
 
     if data["alias"]:
@@ -337,16 +352,18 @@ def add_card_content(cell, data):
         "La documentació consultada identifica la gamma Model Color, "
         "però no aporta propietats individuals comparables per a aquesta referència."
     )
-    line("CARACTERÍSTIQUES DE LA GAMMA", 7.2, (35, 83, 130), True, before=1.5, after=0.6)
-    line(note, 7.45, (45, 54, 63), after=1.8)
+    line("CARACTERÍSTIQUES DE LA GAMMA", 7.2, (35, 83, 130), True, before=2.0, after=1.0)
+    line(note, 7.45, (45, 54, 63), after=2.4)
 
-    line("PRESÈNCIA AL MANUAL", 7.2, (35, 83, 130), True, before=1.2, after=0.6)
+    line("PRESÈNCIA AL MANUAL", 7.2, (35, 83, 130), True, before=1.8, after=1.0)
     if data["uses"]:
         for chapter, description, contextual in data["uses"]:
             p = cell.add_paragraph()
             p.paragraph_format.left_indent = Cm(0.04)
-            p.paragraph_format.space_after = Pt(0.65)
-            p.paragraph_format.line_spacing = 1.0
+            p.paragraph_format.space_after = Pt(1.8)
+            p.paragraph_format.line_spacing = 1.05
+            p.paragraph_format.keep_together = True
+            p.paragraph_format.widow_control = True
             p.paragraph_format.widow_control = False
             a = p.add_run(f"C{chapter}  ")
             a.bold = True

@@ -156,6 +156,17 @@ Cal recuperar procediments, explicacions tècniques, fonaments, advertiments, de
 - Ampliat el control tècnic, desenvolupats dotze errors i recuperats els criteris d'avaluació i els sis exercicis.
 - Conservades la síntesi, les propostes de figures i el registre editorial.
 
+### Capítol 18 — Planificació, seqüenciació i avaluació del procés integral
+
+- Recuperada l'anàlisi inicial en cinc blocs: característiques, materials, dificultats, objectius i prioritats.
+- Desenvolupada la planificació cromàtica, tonal i lumínica, incloent-hi referències i documentació prèvia.
+- Recuperats els criteris de selecció de tècniques, eines i productes, avaluació d'alternatives i proves prèvies.
+- Restituïts sis aspectes de seqüenciació, incloent-hi dependències, ordres alternatius, organització per zones/materials/fases, muntatge i pla de treball.
+- Desenvolupats quatre criteris de compatibilitat i combinació, cinc de control durant l'execució i sis d'avaluació global.
+- Ampliats els tres instruments de planificació i els sis exercicis amb objectius, desenvolupament i resultats esperats.
+- Conservades la síntesi, les propostes de figures i el registre editorial.
+- **Límit documental:** el registre de la primera versió indica que el capítol 18 és una versió consolidada nova i que no s'ha recuperat un text original complet. L'ampliació es basa en aquesta consolidació disponible, no en un original independent.
+
 ## Tasques pendents
 
 1. Validar la integritat textual i estructural dels capítols 4 i 5 després de les recuperacions.

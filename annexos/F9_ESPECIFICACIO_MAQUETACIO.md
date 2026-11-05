@@ -104,13 +104,15 @@ Cada part s'identifica amb un marcador discret al començament, integrat a la pr
 
 ## 11. Actualització editorial de l'Annex F — fitxes de consulta
 
-La presentació de les 48 fitxes es redefineix per prioritzar informació útil i consulta ràpida:
+La presentació de les 48 fitxes prioritza informació útil, consulta ràpida i llegibilitat:
 
-- Composició en quadrícula de dues columnes i dues files: quatre fitxes per pàgina com a objectiu de maquetació, amb alçada adaptable si el contingut ho exigeix.
+- Composició validada en quadrícula de dues columnes i tres files: sis fitxes per pàgina, vuit pàgines per als quatre conjunts.
+- La jerarquia tipogràfica diferencia el nom, la referència, les dades d'identificació, els epígrafs i els textos descriptius. El cos de les funcions i característiques s'ha ampliat a 7,25–7,45 pt, amb interlineat i separació entre blocs més generosos; el nom de cada pintura és de 10,4 pt.
 - Cada fitxa mostra nom, referència, conjunt, família comercial, característiques de gamma documentades i funcions/relacions traçables als capítols.
 - Se suprimeix de la fitxa visual el camp repetitiu «estat de verificació». Les limitacions documentals es concentren en la introducció de l'annex i en les fonts de treball.
 - Les característiques tècniques s'atribueixen a la família només quan la font del fabricant les descriu expressament. No s'infereixen valors individuals de duresa, opacitat, cobertura, transparència, viscositat, assecat o acabat quan no hi ha dades específiques.
 - Quan la font només identifica Model Color sense caracterització tècnica individual recuperada, la fitxa ho indica de manera breu, sense omplir el buit amb propietats suposades.
 - La funció cromàtica o tècnica dins del manual es manté vinculada als capítols i a les taules d'origen; no es presenta com a prova experimental.
+- La densitat del contingut s'ha de resoldre a favor de la llegibilitat: si una fitxa no hi cap amb espaiat suficient, cal adaptar la distribució abans de reduir de nou la mida del cos.
 
 Aquesta actualització modifica la presentació de l'Annex F i la seva síntesi visual, no l'arquitectura de 39 capítols ni les fonts individuals. La regeneració es fa mitjançant GitHub Actions a la branca de treball.

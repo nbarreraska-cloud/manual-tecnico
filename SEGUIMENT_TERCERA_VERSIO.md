@@ -388,3 +388,29 @@ Comprovació inicial:
 ### Continuïtat immediata
 
 Continuar amb el capítol 27, classificat com a recuperació didàctica de prioritat mitjana. Mantenir la separació conceptual amb el capítol 26: les superfícies rocoses i els minerals que en formen part es tracten al 26; els cristalls individuals, el gel, la neu i les gemmes, al 27.
+
+
+### Capítol 27 — cristalls, gel, neu i gemmes (05/11/2026)
+
+S'ha recuperat el contingut didàctic del capítol 27 comparant la segona síntesi amb el text original.
+
+Intervenció aplicada:
+- Recuperats els sis exercicis amb objectiu, materials, procediment i avaluació.
+- Recuperada la síntesi conceptual.
+- Reforçada la delimitació dels efectes màgics o sobrenaturals (capítol 32) respecte de la representació de cristalls i gemmes convencionals.
+- Mantingudes les catorze receptes A–N i les nou referències existents.
+- Les 10 propostes de figures originals no s'han inserit al capítol; queden reservades per a la fase MG.
+
+Comprovació inicial:
+- 14 receptes A–N presents.
+- 6 exercicis complets presents.
+- Síntesi i referències diferenciades.
+- 8 enllaços de referència presents.
+- Delimitacions amb els capítols 26, 17, 32 i 37 verificades.
+- Cap encapçalament duplicat detectat.
+
+**Estat:** recuperació aplicada; comprovació estructural inicial superada; validació semàntica i coteig complet pendents. Les receptes continuen sent propostes no assajades.
+
+### Continuïtat immediata
+
+Les recuperacions didàctiques de prioritat mitjana dels capítols 25–27 ja s'han aplicat. El següent capítol amb intervenció pendent de prioritat mitjana és el 32. Mantenir la distinció entre efectes sobrenaturals (32), fonts lluminoses i OSL (17), cristalls/gemmes (27) i superfícies metàl·liques o minerals (19, 26 i 28).

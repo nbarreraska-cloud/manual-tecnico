@@ -28,17 +28,16 @@ La documentació oficial situa aquesta referència dins de Model Color. No s'ha 
 
 ## 4. Presència i funció dins del manual
 
-Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n reprodueix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
+Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n resumeix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
 
-- **Capítol 20:** `| Dark Sea Blue | 70.898 | Neutralització freda i variacions grisenques |`
-- **Capítol 21:** `| Dark Sea Blue | 70.898 | Profunditat i refredament |`
-- **Capítol 22:** `| Dark Sea Blue | 70.898 | Variacions fredes i neutralització |`
-- **Capítol 23:** `| Dark Sea Blue | 70.898 | Blaus foscos i ombres fredes |`
-- **Capítol 24- **Capítol 25:** `| Dark Sea Blue | 70.898 | Modificacions fredes i ombres selectives |`
-- **Capítol 26:** `| Dark Sea Blue | 70.898 | Bases fredes i ombres blavoses |`
-- **Capítol 27:** `| Dark Sea Blue | 70.898 | Ombres fredes i bases blavoses |`
+- **Capítol 20:** Neutralització freda i variacions grisenques (funció indicada a la taula).
+- **Capítol 21:** Profunditat i refredament (funció indicada a la taula).
+- **Capítol 22:** Variacions fredes i neutralització (funció indicada a la taula).
+- **Capítol 23:** Blaus foscos i ombres fredes (funció indicada a la taula).
+- **Capítol 25:** Modificacions fredes i ombres selectives (funció indicada a la taula).
+- **Capítol 26:** Bases fredes i ombres blavoses (funció indicada a la taula).
+- **Capítol 27:** Ombres fredes i bases blavoses (funció indicada a la taula).
 - **Capítol 32:** menció contextual de Dark Sea Blue (70.898) al text del capítol; no és una fila de recepta.
-:** `| Dark Sea Blue | 70.898 | Ombres fredes |`
 
 Capítols amb aparicions identificades: C20, C21, C22, C23, C25, C26, C27, C32.
 

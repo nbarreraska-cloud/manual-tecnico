@@ -113,3 +113,14 @@ S'ha creat [l'auditoria editorial F11 d'evidències i remissions creuades](audit
 La preparació de les tres tandes queda completada. Encara no s'han inserit remissions al text lector ni s'han produït imatges. El següent pas de F11 és la revisió editorial global de les 150 remissions i la conciliació documental de les discrepàncies detectades, abans de modificar la compilació lectora.
 
 Aquesta fase no modifica `main`, no reobre F9 i no autoritza encara la inserció gràfica.
+
+
+## 10. Actualització després de la revisió
+
+- Les tres tandes identifiquen l'evidència de cada composició: 131 E0, 13 E1 i 6 E2.
+- Les 116 fórmules de remissió de les tandes 02 i 03 s'han individualitzat amb número i títol de figura. Continuen sent propostes de treball i no s'han d'inserir automàticament.
+- Les remissions creuades de C22, C32, C34 i C35 s'han incorporat als documents de tanda corresponents; les precisions de C5 s'han afegit a la tanda 01.
+- La figura 5.3 queda ancorada a 5.3.1, sense remissió a un epígraf 5.3.4 inexistent.
+- La ubicació de la figura 6.2 s'ha corregit a 6.3 tant a la matriu de traçabilitat com a la fitxa editorial.
+
+**Pas pendent:** completar la lectura contextual de les 150 remissions i decidir en cada cas si cal mantenir, reescriure o suprimir la crida textual. La compilació lectora continua intacta.

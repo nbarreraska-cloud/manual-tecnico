@@ -10,29 +10,69 @@ La planificació és una eina de decisió, no una recepta fixa. Pot simplificar 
 
 ## 15.2. Anàlisi inicial de la miniatura
 
-Abans de decidir la il·luminació, cal estudiar la miniatura com un conjunt tridimensional. L'anàlisi ha d'identificar:
+### 15.2.1. Identificació de l'estructura general
 
-- La silueta i els volums principals.
-- L'orientació dels plans superiors, frontals, laterals i inferiors.
-- Les superfícies planes, corbes, facetades i les arestes.
-- Les superposicions, les zones protegides i els elements que sobresurten.
-- Les parts que necessiten separació per conservar-ne la llegibilitat.
+Abans de decidir la il·luminació, cal estudiar la miniatura com un conjunt tridimensional. L'anàlisi ha d'identificar la silueta, els volums principals, l'orientació dels plans, les superfícies planes i corbes, les arestes, les superposicions, les zones protegides i els elements que sobresurten.
 
 La geometria orienta la distribució tonal, però no determina automàticament quines zones han de ser clares o fosques. L'orientació respecte de la font, la posició de l'observador, el material i la intenció visual també hi intervenen.
 
-Cal establir una jerarquia entre elements principals i secundaris. El rostre, una armadura o una arma poden actuar com a focus d'interès; els ornaments i la peanya poden requerir un contrast més contingut. Aquesta jerarquia no depèn només de la lluminositat: també hi influeixen el contrast, la mida, la posició i la saturació.
+### 15.2.2. Identificació dels elements principals i secundaris
 
-Quan s'utilitzen fotografies o altres referències, convé distingir la il·luminació real de l'objecte, la seva aparença des del punt de vista de l'observador i la interpretació pictòrica que es vol construir. L'exposició i el processament fotogràfic poden alterar els valors; per tant, les referències serveixen per estudiar relacions, no per copiar-les mecànicament.
+Cal establir una jerarquia entre els elements de la miniatura. El rostre, una armadura o una arma poden actuar com a focus d'interès; els ornaments, els accessoris i la peanya poden requerir un contrast més contingut.
+
+Aquesta jerarquia no depèn només de la lluminositat: també hi influeixen el contrast, la mida, la posició i la saturació. La planificació ha de determinar quins elements han de destacar i quins han d'acompanyar la lectura general.
+
+### 15.2.3. Condicions d'observació i referències
+
+Quan s'utilitzen fotografies o altres referències, convé distingir la il·luminació real de l'objecte, la seva aparença des del punt de vista de l'observador i la interpretació pictòrica que es vol construir.
+
+L'exposició, el processament fotogràfic i la il·luminació de l'entorn poden alterar els valors. Per tant, les referències serveixen per estudiar relacions, no per copiar-les mecànicament.
+
+Quan no hi ha una referència específica, es pot establir un esquema propi, sempre que les decisions mantinguin una relació visual coherent.
+
+### 15.2.4. Anàlisi de les zones superposades
+
+Les parts que se superposen poden projectar ombres, ocultar superfícies o modificar-ne la llegibilitat. Abans de pintar convé identificar els punts de contacte, les zones protegides, les cavitats i els elements que sobresurten.
+
+Aquesta anàlisi permet anticipar quines parts necessitaran més contrast per separar-se i quines poden mantenir una transició més suau.
 
 ## 15.3. Selecció de l'esquema d'il·luminació
 
+### 15.3.1. Elecció del plantejament general
+
 El plantejament pot ser naturalista, direccional, relativament uniforme, dramàtic o simplificat per millorar la lectura. Aquestes opcions no són categories rígides ni mútuament excloents. La tria depèn de la geometria, la composició, els materials, l'escala i la intenció expressiva.
 
-És recomanable establir una font principal identificable i definir-ne la posició, la direcció, la mida aparent i la intensitat relativa. La direcció pot ser superior, lateral, frontal, posterior o obliqua; cadascuna modifica la relació entre plans, volums, silueta i ombres. No s'ha d'adoptar automàticament una il·luminació zenital: cal escollir la que millor respongui a la miniatura i al resultat buscat.
+Una il·luminació molt contrastada pot resultar adequada per a una figura dramàtica, però dificultar la lectura d'una miniatura amb molts elements petits. Una distribució més uniforme pot facilitar la identificació dels volums, encara que produeixi una aparença menys expressiva.
 
-També es poden considerar contribucions ambientals, indirectes o fonts secundàries per conservar informació en zones fosques, separar elements superposats o relacionar la figura amb l'entorn. Han de tenir una funció clara i no anul·lar la jerarquia de la font dominant. No cal il·luminar totes les zones en ombra.
+### 15.3.2. Selecció de la font principal
+
+És recomanable establir una font principal identificable i definir-ne la posició, la direcció, la mida aparent i la intensitat relativa.
+
+Per a una primera planificació, treballar amb una font dominant simplifica les decisions i facilita mantenir la coherència. Això no implica que tota la il·luminació hagi de procedir exclusivament d'aquesta font: també hi poden intervenir contribucions ambientals i indirectes.
+
+### 15.3.3. Direcció de la il·luminació
+
+La direcció pot ser superior, lateral, frontal, posterior o obliqua. Cadascuna modifica la relació entre plans, volums, silueta i ombres.
+
+- Una direcció superior pot destacar superfícies orientades cap amunt i generar ombres sota els volums.
+- Una direcció lateral pot reforçar la separació entre plans i destacar la profunditat.
+- Una direcció frontal pot facilitar la lectura d'alguns detalls i reduir determinades diferències d'orientació.
+- Una direcció posterior pot destacar la silueta i separar elements del fons.
+- Una direcció obliqua pot combinar diferències d'orientació i produir una distribució més complexa.
+
+Aquestes descripcions són orientatives. No s'ha d'adoptar automàticament una il·luminació zenital: cal escollir la que millor respongui a la miniatura i al resultat buscat.
+
+### 15.3.4. Contribucions ambientals i fonts secundàries
+
+També es poden considerar contribucions ambientals, indirectes o fonts secundàries per conservar informació en zones fosques, separar elements superposats o relacionar la figura amb l'entorn.
+
+Aquestes contribucions han de tenir una funció clara i no anul·lar la jerarquia de la font dominant. Si s'incorporen sense un criteri definit, poden aparèixer contradiccions entre les diferents superfícies. No cal il·luminar totes les zones en ombra.
+
+### 15.3.5. Coherència global
 
 La coherència global no exigeix reproduir exactament la física de la llum. Exigeix que les diferències entre superfícies es puguin justificar per la seva orientació, geometria, material, exposició o per una decisió artística deliberada.
+
+Convé revisar especialment el cap i el rostre, el tors, les extremitats, les armes i accessoris, els plecs i les superfícies superposades. Les diferències locals han de contribuir a la lectura del conjunt i no semblar esquemes d'il·luminació independents.
 
 ## 15.4. Planificació dels valors tonals
 

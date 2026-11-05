@@ -166,6 +166,79 @@ Tampoc no s'han de deduir propietats del nom, de l'aspecte del producte dins l'e
 
 Per tant, el procés de selecció consisteix a identificar la superfície, definir l'efecte buscat, determinar les propietats necessàries, consultar la documentació de la referència i fer una prova quan hi hagi una incertesa rellevant. Qualsevol informació que no estigui documentada o comprovada ha de continuar identificada expressament com a pendent de verificar.
 
+## 3.6. Errors freqüents en la interpretació de les característiques d'una pintura
+
+### 3.6.1. Confondre opacitat i cobertura
+
+L'opacitat descriu fins a quin punt s'oculta el fons; la cobertura també depèn de la uniformitat i de les condicions d'aplicació.
+
+**Correcció:** valorar per separat l'ocultació del fons i la uniformitat de la capa.
+
+### 3.6.2. Suposar que totes les pintures d'una família es comporten igual
+
+La pertinença a una mateixa línia comercial no garanteix una fluïdesa, cobertura, transparència o acabat idèntics.
+
+**Correcció:** consultar la informació disponible de la referència concreta i comprovar-ne el comportament quan sigui necessari.
+
+### 3.6.3. Deduir propietats pel nom o l'aparença
+
+El nom comercial, el color observat dins l'envàs o la pertinença a un conjunt no permeten determinar amb precisió les propietats tècniques.
+
+**Correcció:** utilitzar documentació identificable i proves adequades, sense atribuir propietats que no s'hagin comprovat.
+
+### 3.6.4. Confondre concentració de pigment amb poder tintori o cobertura
+
+Una càrrega més elevada de pigment no determina automàticament una capacitat de cobertura superior ni un poder tintori concret.
+
+**Correcció:** diferenciar els conceptes i fer proves de mescla o cobertura quan calgui conèixer aquestes propietats.
+
+### 3.6.5. Aplicar massa quantitat de pintura
+
+Un excés de producte pot provocar acumulacions no desitjades, pèrdua de detall o una distribució irregular.
+
+**Correcció:** controlar la quantitat aplicada i comprovar el comportament sobre una mostra abans de continuar.
+
+### 3.6.6. Modificar indiscriminadament la consistència
+
+Afegir aigua o mitjans auxiliars sense comprovar la resposta del producte pot alterar-ne la distribució i el comportament.
+
+**Correcció:** fer modificacions progressives i registrar les condicions d'aplicació.
+
+### 3.6.7. Valorar l'acabat abans de l'assecat
+
+L'aparença d'una pintura humida pot diferir de la que presenta un cop seca.
+
+**Correcció:** avaluar l'acabat final després d'un assecat suficient.
+
+### 3.6.8. Generalitzar el comportament sobre relleus
+
+La distribució d'una pintura depèn de la geometria de la superfície i de la quantitat aplicada.
+
+**Correcció:** comprovar el comportament sobre una superfície representativa i no extrapolar automàticament el resultat a altres geometries.
+
+## 3.7. Síntesi operativa
+
+L'elecció d'una pintura ha de respondre a les característiques de la superfície i al resultat que es vol aconseguir. Les propietats fonamentals que convé valorar són:
+- **Opacitat i transparència:** determinen fins a quin punt s'oculta o es conserva visible el fons.
+- **Capacitat de cobertura:** permet valorar la uniformitat i el grau d'ocultació d'una aplicació.
+- **Concentració i càrrega de pigment:** descriuen característiques de la formulació, però no determinen per si soles la cobertura o el poder tintori.
+- **Fluïdesa i consistència:** condicionen la distribució i el control durant l'aplicació.
+- **Distribució sobre relleus:** permet comprendre com es comporta el producte sobre superfícies amb geometries diferents.
+- **Acabat superficial:** descriu l'aparença de la pel·lícula seca.
+- **Assecat i formació de pel·lícula:** condicionen la continuïtat del treball i les manipulacions posteriors.
+
+La selecció es pot organitzar mitjançant aquesta seqüència:
+1. Identificar la superfície i la seva preparació.
+2. Definir l'efecte que es busca.
+3. Determinar si es necessita cobertura o opacitat, o si interessa conservar la influència del fons.
+4. Valorar la consistència i la distribució necessàries.
+5. Considerar l'acabat desitjat.
+6. Consultar la documentació del fabricant.
+7. Fer una prova quan hi hagi dubtes rellevants.
+8. Registrar la informació i distingir allò que està documentat d'allò que només s'ha observat.
+
+La finalitat no és classificar les 48 pintures mitjançant propietats suposades, sinó establir criteris per conèixer-les i seleccionar-les de manera fonamentada. Les característiques que no estiguin documentades o comprovades han de continuar identificades com a pendents de verificar.
+
 ## Referències i recursos
 
 **Documentació oficial del fabricant**

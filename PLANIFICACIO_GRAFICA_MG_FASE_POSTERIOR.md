@@ -219,25 +219,3 @@ Les deu figures següents queden reservades per a la fase gràfica final. No s'h
 8. **Distribució localitzada de la brillantor.** Mostrar una superfície amb zones mates, satinades i brillants, explicant com es pot distribuir l'acabat selectivament.
 9. **Seqüència d'anàlisi i selecció de l'acabat.** Representar la identificació del material, l'avaluació de la superfície, la selecció de l'acabat i la comprovació del resultat.
 10. **Errors freqüents i resultats corregits.** Comparar una miniatura amb brillantor excessiva, acabat uniforme, pèrdua de diferenciació material i aplicació selectiva incorrecta amb versions on l'acabat està millor distribuït.
-
-## TERCERA_SINTESI_CONSOLIDADA_C01-C39.md
-
-## Propostes de figures per a MG
-
-Les dues figures següents queden reservades per a la fase final de disseny i il·lustració. No formen part encara del contingut gràfic definitiu.
-
-### Figura 1.1. Organització general del manual
-- **Ubicació:** apartat 1.3, després de presentar les cinc parts.
-- **Format proposat:** esquema jeràrquic o diagrama de blocs.
-- **Contingut:** representació de les cinc parts i de la progressió des dels fonaments fins als annexos.
-- **Funció:** facilitar la comprensió de l'estructura general del manual.
-
-### Figura 1.2. Classificació de la informació tècnica
-- **Ubicació:** apartat 1.5, després d'explicar les quatre categories.
-- **Format proposat:** esquema comparatiu de quatre blocs.
-- **Contingut:** fonament tècnic, dada del fabricant, proposta tècnica i resultat comprovat.
-- **Funció:** facilitar la distinció entre els diferents nivells de rigor documental.
-
-Les figures han de complementar el text, no repetir-lo íntegrament. El disseny definitiu es realitzarà un cop acabat el conjunt del manual.
----
-# 2. INVENTARI I ORGANITZACIÓ DE LES 48 PINTURES

@@ -168,37 +168,216 @@ Els detalls secundaris han de mantenir-se subordinats al motiu principal i a la 
 
 ## 23.9. Plecs, desgast i control
 
-Els plecs s'han d'interpretar a partir dels punts de subjecció, tensió, compressió, superposició i caiguda. Les ombres han de reforçar la direcció de les deformacions; no s'han de pintar com línies fosques paral·leles al voltant del cos sense analitzar la geometria.
+### 23.9.1. Direcció i organització dels plecs
 
-Una tela fina pot formar plecs estrets i nombrosos; una de gruixuda, deformacions més àmplies; una superfície setinada pot mostrar reflexos definits, mentre que una de mate presenta transicions més difuses. Són tendències, no regles universals.
+Els plecs s'han d'interpretar a partir dels punts de subjecció, tensió i compressió. Abans de pintar convé identificar:
+- Punts d'unió o subjecció.
+- Zones on el teixit penja lliurement.
+- Àrees de compressió.
+- Canvis de direcció.
+- Superposicions.
+- Plecs principals i secundaris.
 
-El desgast pot produir pèrdua de color, abrasió, taques, trencaments, deformacions i pèrdua de fibres. Cal localitzar-lo segons contacte, fricció, vores exposades, plecs sotmesos a tensió i zones protegides. El tractament general correspon al capítol 36; la brutícia i els dipòsits, al 29.
+Les ombres han de reforçar la direcció de les deformacions. No convé dibuixar línies fosques paral·leles al voltant dels braços, les cames o el tors sense comprovar com s'organitza realment la tela.
 
-Errors i correccions:
-1. **Mateixa aparença per a tots els teixits:** identificar estructura i acabat abans de planificar textura i reflexos.
-2. **Plecs com a línies fosques:** interpretar canvis de pla i punts de subjecció.
-3. **Plecs uniformes:** variar amplada, profunditat i direcció segons la geometria.
-4. **Textura excessiva:** reduir punts i ratlles i reservar-los per a zones significatives.
-5. **Reflexos intensos en teles mates:** reduir-ne intensitat i definició.
-6. **Satí blanc a les zones il·luminades:** mantenir la relació amb el color base i reservar els tons més clars per als reflexos principals.
-7. **Estampats plans:** adaptar forma i continuïtat del motiu als plecs.
-8. **Desgast aleatori:** situar alteracions segons ús, fricció i exposició.
-9. **Excés de detall a escala petita:** simplificar i prioritzar la lectura general.
+### 23.9.2. Plecs segons el tipus de teixit
 
-L'avaluació comprova que el tipus de teixit es reconeix, que colors i valors són coherents, que els plecs segueixen la geometria, que la textura és proporcionada, que estampats i brodats s'adapten a la superfície i que el desgast és selectiu.
+Una tela fina pot presentar plecs estrets i nombrosos. Una tela gruixuda pot generar deformacions més àmplies. Una superfície setinada pot mostrar reflexos més definits, mentre que una tela mate pot presentar transicions més difuses.
+
+Aquestes diferències no són regles universals. La geometria esculpida, la tensió i els punts de subjecció poden modificar notablement l'aparença dels plecs.
+
+### 23.9.3. Desgast i envelliment
+
+L'ús pot modificar l'aparença dels teixits mitjançant pèrdua de color, abrasió, taques, trencaments, deformacions i pèrdua de fibres.
+
+La representació del desgast ha de considerar:
+- Zones de contacte i fricció.
+- Vores exposades.
+- Plecs sotmesos a tensió.
+- Àrees protegides.
+- Canvis de color relacionats amb l'ús.
+- Trencaments i pèrdua de fibres.
+
+El desgast no s'ha de distribuir uniformement. La seva localització ha de mantenir una relació amb l'ús i la construcció de la peça. El desenvolupament general de l'envelliment i la transformació de superfícies correspon al capítol 36; les acumulacions de brutícia i els dipòsits es tracten al 29.
+
+### 23.9.4. Errors freqüents i procediments de correcció
+
+| Error | Problema que produeix | Correcció |
+|---|---|---|
+| Utilitzar la mateixa aparença per a tots els teixits | Una tela mate, una superfície setinada i un teixit amb pèl no presenten la mateixa resposta visual. | Identificar l'acabat abans d'organitzar els reflexos i les textures. |
+| Representar tots els plecs mitjançant línies fosques | Es pot generar una aparença de franges que no correspon a la forma de la peça. | Interpretar els canvis de pla i relacionar les ombres amb els punts de subjecció i tensió. |
+| Distribuir els plecs de manera uniforme | La repetició regular pot fer que la tela sembli rígida o artificial. | Variar amplada, profunditat i direcció segons la geometria. |
+| Exagerar la textura | L'acumulació de punts, ratlles o marques pot ocultar la superfície i perjudicar la lectura del teixit. | Reduir-ne la densitat i reservar els detalls per a les zones on aportin informació. |
+| Utilitzar reflexos massa intensos en teles mates | El resultat pot semblar plàstic o setinat. | Reduir la intensitat i la definició dels reflexos i utilitzar transicions més àmplies. |
+| Representar el setí com una tela completament blanca a les zones il·luminades | Es pot trencar la continuïtat cromàtica i fer que els reflexos semblin elements afegits. | Mantenir la relació amb el color de base i reservar els tons més clars per als reflexos principals. |
+| Dibuixar estampats sense adaptar-los a la superfície | Un patró pla que travessa els plecs pot semblar una decoració independent de la tela. | Adaptar la forma i la continuïtat del motiu a la geometria. |
+| Aplicar el desgast de manera aleatòria | Les taques i trencaments sense relació amb l'ús poden restar credibilitat. | Localitzar les alteracions segons el contacte, la fricció, l'exposició i la construcció de la peça. |
+| Afegir massa detalls en una escala petita | Els fils, punts i motius poden perdre llegibilitat. | Simplificar la textura i prioritzar la lectura general del teixit. |
+
+### 23.9.5. Criteris d'avaluació
+
+Una superfície tèxtil pot considerar-se adequadament representada quan:
+- Es reconeix el tipus de teixit o acabat que es vol suggerir.
+- El color manté una relació coherent entre llums, ombres i tons mitjans.
+- Els plecs responen a la geometria de la peça.
+- La textura és proporcional a l'escala.
+- L'acabat superficial és coherent amb l'aparença buscada.
+- Els estampats i brodats segueixen la forma de la tela.
+- El desgast està localitzat de manera raonada.
+- La superfície manté una lectura clara quan s'observa la miniatura en conjunt.
 
 ## 23.10. Exercicis pràctics
 
-1. **Lli i tela blanca:** preparar mostres amb A i B i comparar-ne les variacions cromàtiques i la lectura dels plecs.
-2. **Teixit de llana:** aplicar D, construir ombres i plans mitjans i afegir textura discreta.
-3. **Tela mate i setinada:** comparar dues mostres de base semblant, una amb transicions àmplies i una altra amb reflexos més localitzats.
-4. **Teixit estampat:** construir un patró geomètric i adaptar-lo als plecs, interrompent-lo o deformant-lo quan calgui.
-5. **Vellut:** aplicar J i comparar-ne les transicions difuses amb una superfície setinada.
-6. **Exercici integrador:** pintar una peça completa; identificar teixit, subjeccions i plecs; seleccionar colors; construir llums i ombres; afegir textura, acabat i decoració si escau.
+Els exercicis següents permeten practicar la representació de diferents teixits i acabats. Les receptes indicades són propostes de treball, no formulacions experimentades.
+
+### 23.10.1. Comparació entre lli i tela blanca
+
+**Objectiu:** construir dues superfícies clares amb aparences diferenciades.
+
+**Materials:**
+- Deck Tan.
+- Ivory.
+- White.
+- Japanese Uniform WWII.
+- Dark Sea Blue.
+
+**Procediment:**
+1. Preparar dues superfícies de prova.
+2. Construir una mostra de lli mitjançant la recepta A.
+3. Construir una mostra de tela blanca mitjançant la recepta B.
+4. Diferenciar la distribució de les variacions cromàtiques.
+5. Comparar les superfícies de prop i des de la distància habitual d'observació.
+
+**Avaluació:** comprovar si totes dues superfícies mantenen una identitat visual diferenciada sense dependre únicament del color.
+
+### 23.10.2. Construcció d'una tela de llana
+
+**Objectiu:** representar una superfície d'aparença gruixuda i mate.
+
+**Materials:**
+- Japanese Uniform WWII.
+- Parasite Brown.
+- Dark Rust.
+- Deck Tan.
+- Ivory.
+
+**Procediment:**
+1. Establir la base mitjançant la recepta D.
+2. Construir les ombres i els plans mitjans.
+3. Afegir aclarits a les zones exposades.
+4. Incorporar una textura discreta.
+5. Comprovar que les marques segueixen la superfície i no oculten els plecs.
+
+**Avaluació:** valorar si la textura i els contrastos suggereixen un teixit gruixut.
+
+### 23.10.3. Comparació entre tela mate i setinada
+
+**Objectiu:** diferenciar dos acabats superficials utilitzant una mateixa família cromàtica.
+
+**Materials:**
+- Dark Sea Blue.
+- Blue Green.
+- Turquoise.
+- Black.
+- White.
+
+**Procediment:**
+1. Preparar dues superfícies amb una base cromàtica semblant.
+2. Construir-ne una amb transicions àmplies i reflexos poc definits.
+3. A la segona, organitzar zones de contrast més elevat i reflexos més localitzats.
+4. Comparar la lectura visual de totes dues superfícies.
+
+**Avaluació:** comprovar si es reconeix la diferència entre una tela mate i una superfície setinada.
+
+### 23.10.4. Construcció d'un teixit estampat
+
+**Objectiu:** adaptar un patró decoratiu a una superfície amb plecs.
+
+**Materials:**
+- Una combinació cromàtica de teixit.
+- Pintures per al patró decoratiu.
+- Una peça de prova amb una superfície irregular.
+
+**Procediment:**
+1. Construir la base cromàtica.
+2. Definir un patró senzill mitjançant formes geomètriques.
+3. Adaptar les formes a l'orientació de la superfície.
+4. Interrompre o modificar el patró quan travessi plecs pronunciats.
+5. Avaluar-ne la integració amb la geometria.
+
+**Avaluació:** comprovar que el motiu decoratiu sembla formar part del teixit i no una capa independent.
+
+### 23.10.5. Representació de vellut
+
+**Objectiu:** suggerir una superfície de pèl tèxtil mitjançant l'organització cromàtica.
+
+**Materials:**
+- Violet Red.
+- Gory Red.
+- Evil Red.
+- Dark Rust.
+- Black.
+
+**Procediment:**
+1. Establir la base amb la recepta J.
+2. Construir les ombres.
+3. Incorporar variacions d'intensitat.
+4. Evitar reflexos lineals excessivament definits.
+5. Comparar el resultat amb una superfície setinada.
+
+**Avaluació:** comprovar si la superfície conserva una aparença de pèl tèxtil i no de teixit llis i brillant.
+
+### 23.10.6. Exercici integrador: peça completa
+
+**Objectiu:** integrar selecció cromàtica, plecs, acabat i detalls decoratius.
+
+**Materials:**
+- Una miniatura amb una peça de roba àmplia.
+- Una recepta cromàtica adequada.
+- Pinzells i materials d'aplicació.
+
+**Procediment:**
+1. Identificar el tipus de teixit que es vol representar.
+2. Seleccionar una combinació cromàtica.
+3. Analitzar els punts de subjecció i la direcció dels plecs.
+4. Construir les ombres i les llums.
+5. Incorporar la textura o l'acabat corresponent.
+6. Afegir, si escau, brodats, bandes o estampats.
+7. Avaluar el resultat en relació amb la resta de la miniatura.
+
+**Avaluació:** comprovar que el teixit manté una identitat visual clara, que els plecs són coherents i que els detalls decoratius no perjudiquen la lectura general.
 
 ## Síntesi del capítol
 
 La representació tèxtil exigeix coordinar estructura, textura, gruix, caiguda, plecs i acabat. Tafetà, sarga i satí designen estructures de teixit; el vellut descriu una superfície amb pèl. Cotó, lli, llana i seda són fibres que no determinen per si soles l'aparença final. Les deu receptes A–J són propostes cromàtiques, no fórmules universals. La geometria de la peça guia la distribució de llums, ombres i plecs; estampats, brodats i desgast s'hi han d'integrar i adaptar a l'escala.
+
+## Referències i recursos
+
+- Canadian Conservation Institute. *Caring for textiles and costumes: Preventive conservation guidelines for collections*. Government of Canada. https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/textiles-costumes.html
+- Canadian Conservation Institute. *Natural Fibres – CCI Notes 13/11*. Government of Canada. https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/natural-fibres.html
+- Canadian Conservation Institute. *The Identification of Natural Fibres – CCI Notes 13/18*. Government of Canada. https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/identification-natural-fibres.html
+- The George Washington University Museum and The Textile Museum. *Fiber*. https://museum.gwu.edu/fiber
+- Andrea Press. *Frequently Asked Questions about painting figure techniques*. Apartat dedicat a teixits i teles. https://www.andrea-world.com/descargas/AP%20030I%20TEXTS%20ENG.pdf
+
+Les referències sobre fibres i estructures tèxtils fonamenten les diferències materials descrites. Els recursos de pintura s'utilitzen com a orientació pràctica, no com a validació experimental de les receptes proposades.
+
+## Control editorial i límits de verificació
+
+- Les combinacions cromàtiques són propostes tècniques, no resultats experimentals.
+- No s'estableixen proporcions universals de mescla.
+- No s'atribueixen propietats individuals no verificades a les pintures.
+- La identificació d'una fibra concreta no sempre es pot deduir de l'aparença d'una miniatura.
+- Les associacions entre cotó, lli, llana, seda i determinats acabats són orientatives, no exclusives.
+- Els procediments generals de capes, degradats, veladures, rentats, perfilats i texturització es desenvolupen als capítols tècnics corresponents.
+- La teoria general del color i la il·luminació es reserva als capítols 4 i 5.
+- El comportament visual dels materials es fonamenta al capítol 6.
+- La planificació integral del procés es desenvolupa al capítol 18.
+- El cuir i les superfícies adobades corresponen al capítol 22.
+- La pell i els teixits biològics corresponen al capítol 24.
+- L'envelliment i la transformació de les superfícies es desenvolupen al capítol 36.
+- Els acabats superficials i el control de la brillantor corresponen al capítol 37.
+- La protecció i conservació es desenvolupen al capítol 38.
+- El diagnòstic general d'errors correspon al capítol 39.
 
 ## Figures proposades per a la fase gràfica final
 

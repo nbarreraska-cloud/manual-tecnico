@@ -12,17 +12,17 @@ Les referències indiquen el capítol i els apartats en què es desenvolupa cada
 
 | Tècnica o procediment | Funció o àmbit | Capítol i apartat |
 |---|---|---|
-| Preparació i condicionament de la miniatura | Inspecció, neteja, muntatge i preparació de la superfície | 7.4.1–7.4.6 |
+| Preparació i condicionament de la miniatura | Inspecció, neteja, muntatge i preparació de la superfície | 7.4.1–7.4.4 |
 | Imprimació | Selecció, aplicació i control de la capa d'imprimació | 7.5.1–7.5.5 |
 | Preparació i gestió de les pintures | Comprovació, homogeneïtzació, dosificació, dilució i control de la pintura | 7.6.1–7.6.7 |
 | Control d'eines i aplicació | Càrrega i descàrrega, estabilitat, pressió, orientació i quantitat aplicada | 7.7.1–7.7.7 |
 | Capes base | Aplicació inicial del color i desenvolupament de la cobertura | 8.2.1 i 8.4.1–8.4.4 |
 | Construcció progressiva del color | Organització d'aplicacions successives, superposició i continuïtat cromàtica | 8.2.2–8.2.4 i 8.5.1–8.5.5 |
-| Degradats i transicions cromàtiques | Construcció i planificació de canvis progressius de valor, matís i croma | 9.2.1–9.2.4, 9.5.1–9.5.5 i 9.6.1–9.6.5 |
-| Transicions mitjançant mescles intermèdies | Preparació de tons intermedis a la paleta | 9.4.1 |
-| Transicions mitjançant mescla humida | Integració de colors mentre romanen humits sobre la superfície | 9.4.2 |
-| Transicions mitjançant aplicacions successives | Construcció progressiva mitjançant l'aplicació de tons intermedis | 9.4.3 |
-| Combinació de procediments de transició | Integració de diferents mètodes de construcció cromàtica | 9.4.4 |
+| Degradats i transicions cromàtiques | Construcció i planificació de canvis progressius de valor, matís i croma | 9.2, 9.5 i 9.6.1–9.6.5 |
+| Transicions mitjançant mescles intermèdies | Preparació de tons intermedis a la paleta | 9.3.1 |
+| Transicions mitjançant mescla humida | Integració de colors mentre romanen humits sobre la superfície | 9.3.2 |
+| Transicions mitjançant aplicacions successives | Construcció progressiva mitjançant l'aplicació de tons intermedis | 9.3.3 |
+| Combinació de procediments de transició | Integració de diferents mètodes de construcció cromàtica | 9.3.4 |
 | Veladures i glassejats | Modificació cromàtica mitjançant aplicacions transparents o semitransparents | 10.2.1–10.2.4 i 10.5–10.6 |
 | Rentats | Aplicació i control de pintura fluida i de la seva distribució sobre la superfície | 11.2.1–11.2.6 i 11.7.1–11.7.2 |
 | Aplicació de tintes | Modificació, intensificació i matisació cromàtica | 11.3.1–11.3.5 i 11.7.3 |
@@ -60,10 +60,10 @@ En aquesta secció es localitzen les aplicacions específiques dels procediments
 
 | Aplicació o procediment | Funció o àmbit | Capítol i apartat |
 |---|---|---|
-| Representació de metalls mitjançant pintures metàl·liques (TMM) | Procediments d'aplicació sobre acer, plata, or, coure i bronze | 19.2.5, 19.3.5, 19.4.5, 19.5.5 i 19.6.5 |
+| Representació de metalls mitjançant pintures metàl·liques (TMM) | Procediments d'aplicació sobre acer, plata, or, coure i bronze | 19.2.2, 19.3.2, 19.4.2, 19.5.2 i 19.6.2 |
 | Representació de metalls mitjançant NMM | Aplicació del procediment no metàl·lic a superfícies metàl·liques | 16.2–16.6 i 19.8 |
 | Representació de fustes i les seves variacions | Fustes clares, mitjanes, càlides, fosques, envellides i humides | 20.4–20.7 |
-| Representació de vetes, fibres, nusos i anells | Construcció de patrons i estructures característiques de la fusta | 20.2.1–20.2.3 i 20.8 |
+| Representació de vetes, fibres, nusos i anells | Construcció de patrons i estructures característiques de la fusta | 20.2 i 20.8.1–20.8.3 |
 | Representació de vegetació | Fullatge, coníferes, herbes, molsa, líquens i vegetació estacional o deteriorada | 21.4–21.9 |
 | Representació de cuir i pells | Cuir natural, clar, marró, rogenc, fosc, ante, nobuk i superfícies d'aspecte pergamí | 22.4–22.8 |
 | Representació de plecs, costures, vores i detalls del cuir | Construcció d'elements estructurals i definició superficial | 22.9 |
@@ -86,12 +86,12 @@ En aquesta secció es localitzen les aplicacions específiques dels procediments
 
 | Tècnica o procediment | Funció o àmbit | Capítol i apartat |
 |---|---|---|
-| Harmonització cromàtica | Coordinació de colors i construcció d'unitat visual | 35.2.1–35.2.4, 35.3 i 35.7–35.8 |
+| Harmonització cromàtica | Coordinació de colors i construcció d'unitat visual | 35.2–35.3 i 35.7–35.8 |
 | Integració cromàtica i ambiental | Relació entre materials, il·luminació, entorn i variacions cromàtiques | 35.4–35.6 |
 | Representació de l'envelliment i el desgast | Desgast mecànic, abrasió, fregaments i pèrdua de recobriments | 36.2–36.5 |
 | Representació de l'envelliment ambiental | Transformacions superficials per exposició i adaptació del desgast als materials | 36.6–36.8 |
 | Selecció i control d'acabats superficials | Diferenciació i aplicació d'acabats mats, setinats i brillants | 37.2–37.7 |
-| Control selectiu de la brillantor | Distribució diferenciada d'acabats en una mateixa miniatura | 37.3.5 i 37.6 |
+| Control selectiu de la brillantor | Distribució diferenciada d'acabats en una mateixa miniatura | 37.5.1–37.5.4 i 37.6 |
 | Selecció i aplicació de sistemes de protecció | Elecció, preparació i aplicació de productes protectors i vernissos | 38.2–38.7 |
 | Conservació i emmagatzematge | Manipulació, conservació, transport i emmagatzematge de les miniatures | 38.8 |
 | Diagnòstic d'errors | Identificació de símptomes, anàlisi de causes probables i classificació de problemes | 39.2–39.3 |
@@ -113,10 +113,10 @@ Aquest índex es complementa amb l'Annex C, dedicat a la localització de recept
 
 ## B.8. Control editorial i límits d'ús
 
-- Les referències s'han de contrastar amb la numeració vigent dels capítols.
+- Les referències s'han contrastat amb els encapçalaments vigents dels capítols 7–39; s'han corregit 28 identificadors de subsecció obsolets en set entrades de l'índex.
 - L'índex localitza tècniques i aplicacions, però no substitueix els procediments complets.
 - Les adaptacions a materials concrets es mantenen diferenciades de les tècniques generals.
 - Les referències no impliquen que totes les aplicacions hagin estat validades experimentalment.
 - Les receptes i les combinacions es localitzen a l'Annex C; les mescles i formulacions, a l'Annex D.
 
-**Estat F5:** reconstrucció editorial inicial a partir de la font disponible; pendent de verificació exhaustiva de totes les remissions després de la consolidació dels annexos C–E.
+**Estat F5:** auditoria de remissions completada contra els encapçalaments vigents dels capítols 7–39. S'han corregit 28 identificadors obsolets en set entrades; totes les remissions finals apunten a apartats existents. Les tècniques i els àmbits es mantenen; no s'han afegit procediments ni contingut tècnic.

@@ -16,7 +16,7 @@ Aquest pla no autoritza a modificar `main`, la versió publicada ni el contingut
 - La versió Word de consulta generada en aquesta conversa correspon a la compilació consolidada anterior i, segons l'estimació actual, té aproximadament 300 pàgines sense annexos. La paginació no s'ha verificat encara en una maquetació editorial definitiva.
 - Les recuperacions tècniques, didàctiques i els ajustos editorials identificats a la matriu consten com a aplicats. F4 es considera tancada com a revisió documental, amb límits explícits de fonts.
 - L'auditoria anterior dels annexos A–E es conserva com a historial i material de contrast; no es reutilitzaran com a lliurables finals sense reconstrucció.
-- Hi ha 243 propostes gràfiques inventariades: 157 P1, 83 P2 i 3 P3. La validació estructural P1 i la revisió individual P2 estan documentades; això no equival a aprovació visual ni a producció.
+- Hi ha 243 propostes gràfiques inventariades. La classificació inicial (157 P1, 83 P2 i 3 P3) s'ha actualitzat després del coteig: 156 P1, 84 P2 i 3 P3. Les 156 P1 disposen de fitxes editorials i s'organitzen en 150 composicions de treball; això no equival a aprovació visual ni a producció.
 - `main` es manté fora de l'àmbit d'intervenció.
 
 ## 3. Seqüència operativa
@@ -96,7 +96,7 @@ La referència actual és d'aproximadament 300 pàgines per als 39 capítols sen
 
 **F9 — tancada (05/11/2026):** la maqueta textual sense imatges s'ha regenerat i validat a la branca de treball, incloent els ajustos de l'Annex F i la paginació. El registre detallat i els límits de verificació consten a `annexos/registre_F9_maquetacio_2026-11-05.md`. La paginació continuarà sent provisional fins a integrar les imatges a F11 i repaginar a F12.
 
-**F10 — en curs (05/11/2026):** coteig detallat de les P1 completat per a totes les tandes amb propostes; revisió de les 83 P2 acceptada com a criteri editorial, amb 3.6 reclassificada provisionalment a P2; i tres fusions P3 confirmades (5.14→5.6, 34.4→34.3 i 35.10→35.9). Recompte provisional: 156 P1, 84 P2 i 3 P3. Resten la depuració i traducció al català de les propostes seleccionades, la resolució de fusions i dependències, i la llista/especificació final de producció. Registre: `annexos/registre_F10_seleccio_grafica_2026-11-05.md`. No s'han produït ni inserit imatges.
+**F10 — en curs (05/11/2026):** 156 P1 cotejades i especificades; revisió individual de les 84 P2 completada; 3.6 reclassificada a P2; tres fusions P3 preservades; fitxes editorials en català per als 156 identificadors; 150 composicions després de sis integracions; primera passada transversal i matriu d'evidències/remissions registrades. Resten la revisió semàntica final de redundàncies, la verificació de remissions per a F11, la numeració editorial definitiva i l'aprovació final de la llista de producció. Registre: `annexos/registre_F10_seleccio_grafica_2026-11-05.md`. No s'han produït ni inserit imatges.
 
 
 ## 7. Registre d'inici de F9 — 05/11/2026

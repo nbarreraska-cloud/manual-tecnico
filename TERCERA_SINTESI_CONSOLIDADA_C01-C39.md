@@ -10182,7 +10182,7 @@ La identitat visual depèn de la composició i distribució dels minerals, la mi
 Cal distingir **roca** i **mineral**. Una roca és un material natural format per un o diversos minerals, fragments d'altres roques o, en alguns casos, matèria d'origen orgànic. Un mineral presenta composició química i estructura interna característiques, amb possibles variacions dins de determinats límits. Una roca combina components, grans, bandes o fragments; un mineral individual pot mostrar color, brillantor, fractura, exfoliació i hàbit cristal·lí propis. Els minerals cristal·lins i les gemmes es tracten al capítol 27.
 
 - **Roques ígnies:** provenen del refredament i solidificació de material fos. Poden tenir gra fi, grans visibles, distribució granular, cavitats o superfícies compactes. El granit sol combinar minerals de colors i mides diferents; el basalt acostuma a ser fosc i de gra fi, però no totes les roques ígnies comparteixen aquestes característiques.
-- **Roques sedimentàries:** provenen de l'acumulació i transformació de sediments, de la precipitació de materials dissolts o de restes biològiques. Poden mostrar estratificació, bandes, grans, fragments, superfícies sorrenques o compactes i fòssils. L'arenisca pot ser beix, groguenca, rogenca o marró; la calcària sovint és clara, però també pot ser grisenca.
+- **Roques sedimentàries:** provenen de l'acumulació i transformació de sediments, de la precipitació de materials dissolts o de restes biològiques. Poden mostrar estratificació, bandes, grans, fragments, superfícies sorrenques o compactes i fòssils. El gres pot ser beix, groguenca, rogenca o marró; la calcària sovint és clara, però també pot ser grisenca.
 - **Roques metamòrfiques:** deriven de materials transformats per pressió, temperatura i circulació de fluids. Poden presentar bandes, foliació, làmines, plans de separació i recristal·lització. La pissarra mostra plans de separació; el marbre, una estructura recristal·litzada i possibles vetes; el gneis, bandes clares i fosques; l'esquist, una organització foliada. Són trets orientatius, no regles universals.
 
 La finalitat no és pintar cada mineral per separat, sinó reproduir l'organització visual dominant: components de diferents colors i mides en un granit, o bandes en un gneis.
@@ -10245,12 +10245,12 @@ El basalt sol ser fosc i de gra fi, compacte i relativament uniforme, tot i que 
 
 Les roques vesiculars necessiten cavitats de mides diferents, distribució irregular, interiors foscos i vores parcialment il·luminades. No s'han de convertir en punts negres idèntics.
 
-## 26.6. Arenisca, calcària i roques sedimentàries
+## 26.6. Gres, calcària i roques sedimentàries
 
-**Arenisca:** formada principalment per grans cimentats; pot ser beix, groguenca, rogenca, marró o grisa, amb granularitat, estrats i erosió.
+**Gres:** formada principalment per grans cimentats; pot ser beix, groguenca, rogenca, marró o grisa, amb granularitat, estrats i erosió.
 
-- **Recepta E. Arenisca beix:** base Deck Tan; variació Japanese Uniform WWII; ombres Parasite Brown; aclarits Ivory; accents Ice Yellow.
-- **Recepta F. Arenisca rogenca:** base Parasite Brown; variació Dark Rust; tons mitjans Japanese Uniform WWII; ombres amb la combinació proposada de Dark Rust i Black; aclarits Deck Tan.
+- **Recepta E. Gres beix:** base Deck Tan; variació Japanese Uniform WWII; ombres Parasite Brown; aclarits Ivory; accents Ice Yellow.
+- **Recepta F. Gres rogenc:** base Parasite Brown; variació Dark Rust; tons mitjans Japanese Uniform WWII; ombres amb la combinació proposada de Dark Rust i Black; aclarits Deck Tan.
 
 **Calcària:** pot ser clara, grisa o groguenca, homogènia o presentar bandes, taques, fòssils, fractures i erosió.
 
@@ -10312,7 +10312,7 @@ Errors freqüents:
 
 **Avaluació:** comprovar que el granit presenta una distribució granular de components i que el basalt conserva una aparença més fosca i compacta.
 
-### Exercici 2. Construcció d'arenisca
+### Exercici 2. Construcció de gres
 
 **Objectiu:** representar una superfície sedimentària càlida.
 
@@ -10325,7 +10325,7 @@ Errors freqüents:
 4. Construir una transició entre zones clares i fosques.
 5. Avaluar la superfície.
 
-**Avaluació:** comprovar que l'arenisca manté una aparença terrosa i granular sense convertir-se en una superfície uniforme.
+**Avaluació:** comprovar que el gres manté una aparença terrosa i granular sense convertir-se en una superfície uniforme.
 
 ### Exercici 3. Representació d'estrats
 
@@ -10397,7 +10397,7 @@ Les roques i les pedres presenten una gran diversitat d'aparences. La seva repre
 
 Les roques ígnies poden presentar superfícies granulars, compactes o vesiculars. Les sedimentàries poden mostrar estrats, grans i fragments. Les metamòrfiques poden presentar foliació, bandes i estructures recristal·litzades.
 
-El granit, el basalt, l'arenisca, la calcària, la pissarra, el marbre i el gneis permeten estudiar diferents patrons visuals i construir una base de procediments adaptables a altres superfícies pètries.
+El granit, el basalt, el gres, la calcària, la pissarra, el marbre i el gneis permeten estudiar diferents patrons visuals i construir una base de procediments adaptables a altres superfícies pètries.
 
 Les receptes utilitzen les pintures disponibles a la paleta de referència i s'han d'entendre com a punts de partida. La seva aplicació requereix adaptar el color, el contrast i la textura a la geometria, l'escala i la referència visual. La finalitat no és reproduir tots els detalls geològics, sinó identificar les característiques que defineixen cada superfície i traslladar-les a una representació pictòrica clara i coherent.
 

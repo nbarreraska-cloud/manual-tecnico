@@ -1,12 +1,12 @@
-# Annex C. Índex de receptes
+# Annex C. Índex de receptes i combinacions cromàtiques
 
 ## C.1. Finalitat i abast
 
-Aquest annex permet localitzar les receptes i les combinacions cromàtiques proposades als capítols dedicats a materials i efectes concrets.
+Aquest annex localitza les receptes i les combinacions cromàtiques desenvolupades als capítols 19–34. No reprodueix ingredients, proporcions, seqüències ni procediments: per consultar-los cal acudir al capítol i a l'apartat indicats.
 
-La seva funció és exclusivament localitzadora. No reprodueix les formulacions, els ingredients ni els procediments d'aplicació, que s'han de consultar al capítol corresponent.
+L'índex es reconstrueix a partir de les denominacions i les ubicacions de les receptes presents a la tercera síntesi consolidada. Les lletres es conserven perquè formen part de la identificació de cada recepta o combinació dins del seu capítol.
 
-L'índex recull **183 entrades** distribuïdes entre els capítols 19 i 34. Es conserven les lletres assignades a cada recepta o combinació i les referències als apartats on es desenvolupen.
+**Total: 183 entrades** distribuïdes entre els capítols 19 i 34.
 
 ## C.2. Índex general
 
@@ -24,12 +24,12 @@ L'índex recull **183 entrades** distribuïdes entre els capítols 19 i 34. Es c
 | Or càlid | B | 19.4.1 |
 | Or envellit | C | 19.4.1 |
 | Or pàl·lid | D | 19.4.1 |
-| Coure mitjançant base metàl·lica clara | A | 19.5.1 |
+| Coure amb base metàl·lica clara | A | 19.5.1 |
 | Coure fosc | B | 19.5.1 |
-| Coure rogenc | C | 19.5.1 |
+| Coure vermellós | C | 19.5.1 |
 | Bronze clàssic | A | 19.6.1 |
 | Bronze fosc | B | 19.6.1 |
-| Bronze rogenc | C | 19.6.1 |
+| Bronze vermellós | C | 19.6.1 |
 
 ### Capítol 20. Fusta
 
@@ -39,32 +39,32 @@ L'índex recull **183 entrades** distribuïdes entre els capítols 19 i 34. Es c
 | Fusta clara envellida | B | 20.4 |
 | Fusta marró natural | C | 20.5 |
 | Fusta rogenca | D | 20.5 |
-| Fusta marró fosca | E | 20.6 |
+| Fusta fosca marró | E | 20.6 |
 | Fusta fosca gairebé negra | F | 20.6 |
 | Fusta grisa envellida | G | 20.7.1 |
-| Fusta desgastada de to natural | H | 20.7.2 |
+| Fusta natural desgastada | H | 20.7.2 |
 | Fusta humida enfosquida | I | 20.7.3 |
 
 ### Capítol 21. Vegetació
 
 | Denominació | Lletra | Referència |
 |---|:---:|---|
-| Combinació cromàtica proposada A: fullatge verd mitjà | A | 21.4 |
-| Combinació cromàtica proposada B: vegetació jove | B | 21.4 |
-| Combinació cromàtica proposada C: vegetació d'ombra | C | 21.4 |
-| Combinació cromàtica proposada D: fullatge de conífera | D | 21.5 |
-| Combinació cromàtica proposada E | E | 21.5 |
-| Combinació cromàtica proposada F | F | 21.6 |
-| Combinació cromàtica proposada G | G | 21.7 |
-| Combinació cromàtica proposada H | H | 21.7 |
-| Combinació cromàtica proposada I | I | 21.7 |
-| Combinació cromàtica proposada J: liquen groc verdós | J | 21.8 |
-| Combinació cromàtica proposada K: liquen verd apagat | K | 21.8 |
-| Combinació cromàtica proposada L: liquen clar | L | 21.8 |
-| Combinació cromàtica proposada M: fulla groga | M | 21.9 |
-| Combinació cromàtica proposada N: fulla rogenca | N | 21.9 |
-| Combinació cromàtica proposada O: fulla marró | O | 21.9 |
-| Combinació cromàtica proposada P | P | 21.9 |
+| Fullatge verd mitjà | A | 21.4 |
+| Vegetació jove i lluminosa | B | 21.4 |
+| Vegetació densa i d'ombra | C | 21.4 |
+| Fullatge de conífera | D | 21.5 |
+| Conífera jove o lluminosa | E | 21.5 |
+| Herba verda | F | 21.6 |
+| Molsa verda natural | G | 21.7 |
+| Molsa fosca i humida | H | 21.7 |
+| Molsa envellida o seca | I | 21.7 |
+| Liquen groc verdós, crustaci | J | 21.8 |
+| Liquen verd apagat, foliaci | K | 21.8 |
+| Liquen clar, fruticulós | L | 21.8 |
+| Fulla groga | M | 21.9 |
+| Fulla rogenca | N | 21.9 |
+| Fulla marró | O | 21.9 |
+| Herba seca i tiges marcides | P | 21.9 |
 
 ### Capítol 22. Cuir i pells
 
@@ -97,7 +97,7 @@ L'índex recull **183 entrades** distribuïdes entre els capítols 19 i 34. Es c
 | Cotó beix | C | 23.4 |
 | Llana marró natural | D | 23.5 |
 | Teixit de llana gris fosc | E | 23.5 |
-| Teixit rústic o d'aspecte bast | F | 23.5 |
+| Teixit rústic o bast | F | 23.5 |
 | Seda vermella setinada | G | 23.6 |
 | Teixit blau setinat | H | 23.6 |
 | Teixit verd setinat | I | 23.6 |
@@ -113,8 +113,8 @@ L'índex recull **183 entrades** distribuïdes entre els capítols 19 i 34. Es c
 | Pell intermèdia càlida | D | 24.5 |
 | Pell marró càlida i profunda | E | 24.5 |
 | Pell marró fosca de tendència freda | F | 24.5 |
-| Pell pàl·lida de tendència freda | G | 24.6 |
-| Pell vermella fantàstica | H | 24.6 |
+| Pell pàl·lida freda | G | 24.6 |
+| Pell fantàstica rogenca | H | 24.6 |
 | Pell blavosa | I | 24.6 |
 | Pell verdosa | J | 24.6 |
 | Musculatura rogenca exposada | K | 24.8 |
@@ -132,12 +132,12 @@ L'índex recull **183 entrades** distribuïdes entre els capítols 19 i 34. Es c
 | Os fosc i deteriorat | D | 25.4 |
 | Dents clares | E | 25.5 |
 | Dents envellides | F | 25.5 |
-| Marfil càlid | G | 25.5 |
-| Banya d'aparença òssia | H | 25.6 |
-| Banya natural | I | 25.6 |
+| Ivori càlid | G | 25.5 |
+| Asta d'aparença òssia | H | 25.6 |
+| Banya natural amb beina queratínica | I | 25.6 |
 | Banya fosca | J | 25.6 |
 | Banya clara o marfil | K | 25.6 |
-| Urpa o ungla de to natural | L | 25.7 |
+| Urpa o ungla natural | L | 25.7 |
 | Peülla natural | M | 25.7 |
 
 ### Capítol 26. Roques, pedres i minerals
@@ -152,7 +152,7 @@ L'índex recull **183 entrades** distribuïdes entre els capítols 19 i 34. Es c
 | Gres rogenc | F | 26.6 |
 | Calcària clara | G | 26.6 |
 | Calcària grisenca | H | 26.6 |
-| Pissarra grisa blavosa | I | 26.7 |
+| Pissarra gris blavosa | I | 26.7 |
 | Marbre blanc o marfil | J | 26.7 |
 
 ### Capítol 27. Cristalls, gel, neu i gemmes
@@ -164,7 +164,7 @@ L'índex recull **183 entrades** distribuïdes entre els capítols 19 i 34. Es c
 | Cristall blau | C | 27.4 |
 | Cristall turquesa | D | 27.4 |
 | Gel transparent | E | 27.5 |
-| Gel blau | F | 27.5 |
+| Gel blau i compacte | F | 27.5 |
 | Gel tèrbol o fracturat | G | 27.5 |
 | Neu fresca | H | 27.6 |
 | Neu compactada | I | 27.6 |
@@ -178,7 +178,7 @@ L'índex recull **183 entrades** distribuïdes entre els capítols 19 i 34. Es c
 
 | Denominació | Lletra | Referència |
 |---|:---:|---|
-| Rovell recent ataronjat | A | 28.4 |
+| Rovell recent i taronja | A | 28.4 |
 | Rovell marró natural | B | 28.4 |
 | Rovell fosc | C | 28.4 |
 | Corrosió irregular estratificada | D | 28.4 |
@@ -186,8 +186,8 @@ L'índex recull **183 entrades** distribuïdes entre els capítols 19 i 34. Es c
 | Metall pintat amb corrosió sota el recobriment | F | 28.4 |
 | Pàtina marró de coure o bronze | G | 28.5 |
 | Pàtina verda | H | 28.5 |
-| Pàtina blau verdosa | I | 28.5 |
-| Pàtina verd fosc | J | 28.5 |
+| Pàtina blauverdosa | I | 28.5 |
+| Pàtina verda fosca | J | 28.5 |
 | Metall parcialment patinat | K | 28.5 |
 
 ### Capítol 29. Terra, fang, pols, brutícia i dipòsits
@@ -198,7 +198,7 @@ L'índex recull **183 entrades** distribuïdes entre els capítols 19 i 34. Es c
 | Pols beix i sorrenca | B | 29.3 |
 | Pols de terra rogenca | C | 29.3 |
 | Pols fosca i terra seca | D | 29.3 |
-| Pols i dipòsits sobre superfícies verticals | E | 29.3 |
+| Pols i dipòsits en superfícies verticals | E | 29.3 |
 | Terra seca acumulada | F | 29.3 |
 | Terra marró natural | G | 29.4 |
 | Terra rogenca | H | 29.4 |
@@ -208,7 +208,7 @@ L'índex recull **183 entrades** distribuïdes entre els capítols 19 i 34. Es c
 | Fang marró compacte | L | 29.5 |
 | Fang rogenc | M | 29.5 |
 | Fang sec | N | 29.5 |
-| Esquitxos de fang | O | 29.5 |
+| Esquitxades de fang | O | 29.5 |
 | Brutícia de contacte | P | 29.6 |
 | Rastres de terra i brutícia | Q | 29.6 |
 
@@ -229,7 +229,7 @@ L'índex recull **183 entrades** distribuïdes entre els capítols 19 i 34. Es c
 | Sang fresca | A | 31.8 |
 | Sang acumulada o coagulada | B | 31.8 |
 | Sang seca i taques antigues | C | 31.8 |
-| Esquitxos i rastres de sang | D | 31.8 |
+| Esquitxades i rastres de sang | D | 31.8 |
 | Fluids orgànics no sanguinis | E | 31.8 |
 
 ### Capítol 32. Màgia, energia i efectes sobrenaturals
@@ -239,7 +239,7 @@ L'índex recull **183 entrades** distribuïdes entre els capítols 19 i 34. Es c
 | Energia arcana violeta i magenta | A | 32.7 |
 | Energia turquesa i blava | B | 32.7 |
 | Energia espectral verda | C | 32.7 |
-| Energia vermella i taronja | D | 32.7 |
+| Energia roja i taronja | D | 32.7 |
 | Descàrregues i energia elèctrica | E | 32.7 |
 
 ### Capítol 33. Ceràmica, porcellana i plàstics
@@ -265,32 +265,28 @@ L'índex recull **183 entrades** distribuïdes entre els capítols 19 i 34. Es c
 | Denominació | Lletra | Referència |
 |---|:---:|---|
 | Vidre transparent pla | A | 34.4 |
-| Vidre transparent corbat | B | 34.4 |
+| Vidre transparent corb | B | 34.4 |
 | Ampolla de vidre verd | C | 34.5 |
 | Ampolla de vidre blau | D | 34.5 |
 | Ampolla de vidre ambre | E | 34.5 |
-| Vidre vermell decoratiu | F | 34.5 |
-| Vitrall policromat | G | 34.6 |
+| Vidre decoratiu vermell | F | 34.5 |
+| Vitrall policrom | G | 34.6 |
 | Vidre esmerilat | H | 34.7 |
 
 ## C.3. Criteris de consulta
 
-- Les lletres identifiquen les entrades dins de cada agrupació del capítol corresponent.
-- Al capítol 19 les lletres es repeteixen per a cada metall; per això, la denominació del material s'ha de conservar quan es localitza una recepta.
-- Al capítol 21 es manté la denominació «Combinació cromàtica proposada».
-- Les referències indiquen l'apartat en què es desenvolupa cada entrada.
-- Per consultar ingredients, mescles, seqüències i procediments, cal acudir al capítol i a l'apartat indicats.
-
-Les receptes i les combinacions són propostes tècniques. No s'han d'interpretar com a formulacions experimentals verificades si no hi ha proves físiques documentades.
+- La lletra identifica cada entrada dins del capítol corresponent.
+- Al capítol 19 les lletres es repeteixen per a cada metall; cal consultar sempre la denominació i la referència completes.
+- Al capítol 21 les entrades són combinacions cromàtiques, no receptes amb proporcions universals.
+- Les referències remeten a l'apartat on es desenvolupa la recepta o la combinació. En els capítols que agrupen diverses receptes en un mateix apartat, la lletra permet distingir-les.
+- Les receptes i combinacions són propostes tècniques. No s'han d'interpretar com a formulacions experimentals verificades: el manual no atribueix resultats d'assaig que no estiguin documentats.
 
 ## C.4. Control editorial i límits d'ús
 
-- L'índex és localitzador: no substitueix les receptes ni n'extreu els ingredients o procediments.
-- Es conserven les lletres originals de cada agrupació i les referències d'apartat.
-- Les denominacions s'han adaptat al català per coincidir amb el contingut dels capítols vigents.
-- Les entrades del capítol 19 mantenen la identificació del metall perquè les lletres es repeteixen.
-- Les combinacions del capítol 21 mantenen la denominació «Combinació cromàtica proposada».
-- Les 183 entrades s'han de verificar contra les receptes dels capítols 19–34 abans del tancament definitiu.
-- No s'afegeixen ingredients, proporcions ni resultats experimentals.
+- Les 183 entrades s'han localitzat individualment als capítols 19–34 de la tercera síntesi consolidada.
+- Les denominacions s'han ajustat als títols vigents de les receptes i combinacions, incloses les actualitzacions terminològiques i les variants de redacció.
+- Les referències s'han contrastat amb l'apartat que conté cada entrada; no s'han inferit a partir de l'índex anterior.
+- No s'han afegit ingredients, proporcions, seqüències ni resultats experimentals.
+- La verificació de les referències no substitueix la revisió transversal F6 ni el control final F8.
 
-**Estat F5:** 183/183 entrades i lletres verificades contra C19–C34; 170 referències corregides i 13 ja correctes. Les 92 entrades de l'Annex D s'han contrastat amb les lletres de l'Annex C (92/92). La integració amb A, B i E s'ha verificat; no s'han modificat receptes ni formulacions.
+**Estat de regeneració F5:** 183/183 entrades localitzades i identificades; 183/183 referències corresponen a apartats que contenen la recepta o combinació indicada. No s'ha modificat cap recepta, ingredient, proporció ni procediment.

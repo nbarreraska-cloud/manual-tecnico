@@ -537,3 +537,29 @@ Aquests commits no impliquen canvis als 39 Markdown. L'HTML continua separat de 
 ### Precisió sobre els criteris d'avaluació incorporats (05/11/2026)
 
 En la revisió de les fonts originals s'ha comprovat que els exercicis dels capítols 36 i 38 no incloïen apartats explícits d'avaluació. Els criteris incorporats en aquests dos capítols són, per tant, propostes didàctiques editorials i no s'atribueixen a l'original. També s'han retirat les llistes de materials genèriques que no estaven prescrites per la font al capítol 38. Aquesta distinció queda registrada a la versió 1.3 del Registre Mestre.
+
+
+### Capítol 3 — característiques i funcions de les pintures (05/11/2026)
+
+S'ha recuperat el contingut tècnic i didàctic del capítol 3 comparant el Markdown amb el text original.
+
+Intervenció aplicada:
+- Recuperats els vuit errors freqüents d'interpretació de les propietats de les pintures i les seves correccions.
+- Recuperada la síntesi operativa.
+- Restituïda la seqüència de selecció de pintura en vuit passos.
+- Mantinguda la distinció entre opacitat, cobertura, concentració de pigment, poder tintori, fluïdesa, consistència, distribució sobre relleus, acabat i assecat.
+- Mantinguda la traçabilitat de les dades del fabricant, els fonaments tècnics, les observacions, les proves documentades i els aspectes pendents de verificar.
+- No s'han atribuït propietats individuals no documentades a les 48 pintures.
+
+Comprovació inicial:
+- 8 errors freqüents presents.
+- 8 passos de selecció presents.
+- Síntesi i referències diferenciades.
+- Cap encapçalament duplicat detectat.
+- La intervenció G-01 continua identificada com a canvi històric de l'HTML, no del Markdown.
+
+**Estat:** recuperació aplicada; comprovació estructural inicial superada; validació semàntica i coteig complet pendents. El coteig G-03 anterior es manté com a decisió d'aquella intervenció, sense anul·lar la recuperació específica de la tercera versió.
+
+### Continuïtat immediata
+
+La recuperació RT/RD del capítol 3 ja està aplicada. La fase F3 continua amb les intervencions identificades; després cal completar la validació F4 de tots els capítols modificats i la conciliació final del registre.

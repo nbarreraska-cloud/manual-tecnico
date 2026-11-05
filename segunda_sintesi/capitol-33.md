@@ -8,7 +8,7 @@ La ceràmica, la porcellana i els plàstics presenten característiques diferent
 - **Porcellana:** varietat ceràmica de cocció elevada, habitualment clara, compacta i poc porosa.
 - **Plàstics:** família àmplia de materials sintètics amb superfícies llises o texturitzades, mates, satinades o brillants, rígides o flexibles.
 
-El capítol tracta ceràmica natural i sense esmaltar, ceràmica esmaltada i decorada, porcellana blanca i acolorida, superfícies envellides, craquelades o deteriorades i plàstics de diferents colors, textures i acabats. La identificació no pot dependre només del color o del brillantor: textura, continuïtat superficial, geometria, reflexos i detalls de fabricació contribueixen conjuntament al reconeixement.
+El capítol tracta ceràmica natural i sense esmaltar, ceràmica esmaltada i decorada, porcellana blanca i acolorida, superfícies envellides, craquelades o deteriorades i plàstics de diferents colors, textures i acabats. La identificació no pot dependre només del color o de la brillantor: textura, continuïtat superficial, geometria, reflexos i detalls de fabricació contribueixen conjuntament al reconeixement.
 
 Les receptes són propostes cromàtiques basades en les 48 pintures de l'inventari; no són mescles experimentades ni resultats comprovats.
 
@@ -54,7 +54,7 @@ Els plàstics poden presentar superfícies llises i uniformes, acabats mats, sat
 | Brillantor | Depèn sobretot d'esmalt i acabat | Depèn del material, motlle i tractament |
 | Detalls | Craquelat, desconxats i cos exposat | Línies de motlle, nervadures, unions i textures |
 
-Són tendències visuals, no regles universals. Un plàstic pot imitar ceràmica esmaltada i una ceràmica decorada pot ser molt uniforme; el brillantor, per si sol, no identifica el material.
+Són tendències visuals, no regles universals. Un plàstic pot imitar ceràmica esmaltada i una ceràmica decorada pot ser molt uniforme; la brillantor, per si sol, no identifica el material.
 
 ## 33.3. Selecció cromàtica
 
@@ -83,7 +83,7 @@ Les superfícies poden ser llises i compactes o mostrar textures granulars i irr
 - Ombres: Japanese Uniform WWII (70.923).
 - Aclarits: White (70.951).
 
-Establir base clara; introduir variacions càlides a zones menys il·luminades; reforçar ombres en hendidures i canvis de pla; recuperar zones clares selectivament. Mantenir acabat mat o lleugerament setinat. La distribució ha de ser subtil: una ceràmica clara no ha de ser blanca uniformement.
+Establir base clara; introduir variacions càlides a zones menys il·luminades; reforçar ombres en cavitats i canvis de pla; recuperar zones clares selectivament. Mantenir acabat mat o lleugerament setinat. La distribució ha de ser subtil: una ceràmica clara no ha de ser blanca uniformement.
 
 **Recepta B. Ceràmica de terracota**
 - Base: Parasite Brown (72.042).
@@ -92,7 +92,7 @@ Establir base clara; introduir variacions càlides a zones menys il·luminades; 
 - Aclarits: Deck Tan (70.986).
 - Accents: Ivory (70.918).
 
-Aplicar base càlida; introduir variacions rogenques; aprofundir hendidures; recuperar vores i plans exposats amb Deck Tan; utilitzar Ivory en accents petits. La terracota pot diferenciar zones compactes, erosionades i de textura més oberta; no cal cobrir-la de taques.
+Aplicar base càlida; introduir variacions rogenques; aprofundir cavitats; recuperar vores i plans exposats amb Deck Tan; utilitzar Ivory en accents petits. La terracota pot diferenciar zones compactes, erosionades i de textura més oberta; no cal cobrir-la de taques.
 
 **Recepta C. Ceràmica grisa natural**
 - Base: combinació proposada de Deck Tan (70.986) i Dark Sea Blue (70.898).
@@ -100,7 +100,7 @@ Aplicar base càlida; introduir variacions rogenques; aprofundir hendidures; rec
 - Ombres: Black (70.950).
 - Aclarits: Ivory (70.918).
 
-Construir un gris de base sense limitar-se a aclarir negre; introduir variacions càlides o fredes; aprofundir hendidures i zones protegides; recuperar plans exposats amb aclarits moderats. Mantenir acabat mat o setinat segons superfície.
+Construir un gris de base sense limitar-se a aclarir negre; introduir variacions càlides o fredes; aprofundir cavitats i zones protegides; recuperar plans exposats amb aclarits moderats. Mantenir acabat mat o setinat segons superfície.
 
 ## 33.5. Porcellana i ceràmica esmaltada
 
@@ -128,7 +128,7 @@ Aplicar base marfil, construir ombres amb Deck Tan, introduir tonalitat càlida 
 - Ombres profundes: Black (70.950).
 - Reflexos: White (70.951).
 
-Construir base i volums; introduir variacions blaves i turqueses; mantenir foscos en hendidures; construir reflexos segons geometria; reservar punts més clars per als reflexos principals. El brillantor s'ha de reforçar amb el procediment d'acabat, no només afegint blanc.
+Construir base i volums; introduir variacions blaves i turqueses; mantenir foscos en cavitats; construir reflexos segons geometria; reservar punts més clars per als reflexos principals. La brillantor s'ha de reforçar amb el procediment d'acabat, no només afegint blanc.
 
 **Recepta G. Esmalt verd**
 - Base: Dark Green (72.028).
@@ -146,7 +146,7 @@ Aplicar base, construir variacions als plans, aprofundir zones protegides i intr
 - Ombres: Dark Rust (70.771).
 - Reflexos: White (70.951), selectivament.
 
-Establir base, introduir variacions, construir ombres en hendidures i zones protegides i recuperar plans principals amb vermells més lluminosos. Situar reflexos segons orientació.
+Establir base, introduir variacions, construir ombres en cavitats i zones protegides i recuperar plans principals amb vermells més lluminosos. Situar reflexos segons orientació.
 
 **Decoració ceràmica:** motius blaus amb Dark Sea Blue (70.898) i Blue Green (70.808); verds amb Dark Green (72.028) i Cayman Green (72.067); càlids amb Burnt Red (70.814) i Parasite Brown (72.042); detalls clars amb White (70.951) i Ivory (70.918). Adaptar motius a la forma i simplificar-los a escala.
 
@@ -193,7 +193,7 @@ Establir base fosca, introduir variacions fredes als plans exposats, mantenir fo
 - Aclarits: Scorpy Green (72.032).
 - Ombres: Black (70.950).
 
-Aplicar base, construir canvis de pla, introduir variacions a zones exposades i mantenir fosques les hendidures i zones protegides. Adaptar reflexos a l'acabat.
+Aplicar base, construir canvis de pla, introduir variacions a zones exposades i mantenir fosques les cavitats i zones protegides. Adaptar reflexos a l'acabat.
 
 **Recepta M. Plàstic texturitzat fosc**
 - Base: Dark Sea Blue (70.898).

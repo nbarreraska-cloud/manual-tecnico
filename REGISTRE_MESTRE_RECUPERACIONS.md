@@ -1,6 +1,6 @@
 # REGISTRE MESTRE DE RECUPERACIONS EDITORIALS
 **Manual tècnic de pintura de miniatures**  
-**Versió:** 1.17 · **Data:** 05/11/2026  
+**Versió:** 1.18 · **Data:** 05/11/2026  
 **Branca:** intervencion-editorial-2026-11
 
 ## 1. Funció i abast
@@ -19,9 +19,9 @@ Aquests 39 Markdown són la representació operativa de treball sobre els contin
 |---|---|---|
 | 0 | Preservar les versions, les fonts, la traçabilitat i la branca de treball; vincular cada intervenció amb capítol/apartat/font i mantenir main intacta. | **Completada** |
 | 1 | Auditoria comparativa dels 39 capítols Markdown: contingut conservat, simplificacions, pèrdues, redundàncies i millores de la segona síntesi. | **Completada (39/39)** |
-| 2 | Consolidar el Registre Mestre amb categories RT/RD/AE/MG/SC, prioritats, decisions, fonts i estat real dels canvis. | **En curs**; versió vigent 1.17. Es manté la conciliació fina dels estats i commits dels 39 capítols, separant les intervencions G-01–G-11 de la tercera versió. |
+| 2 | Consolidar el Registre Mestre amb categories RT/RD/AE/MG/SC, prioritats, decisions, fonts i estat real dels canvis. | **En curs**; versió vigent 1.18. Es manté la conciliació fina dels estats i commits dels 39 capítols, separant les intervencions G-01–G-11 de la tercera versió. |
 | 3 | Aplicar les recuperacions tècniques, didàctiques i els ajustos editorials justificats a la tercera versió dels 39 Markdown. | **Completada per a les accions identificades a la matriu**; intervencions aplicades als capítols 3–19, 25–32, 36 i 38; ajust AE als capítols 33–34; els capítols SC es mantenen sense canvis. |
-| 4 | Validar els 39 capítols i estabilitzar-ne el contingut, les receptes, els exercicis, la numeració i les referències. | **En curs**; comprovació estructural inicial dels 29 Markdown intervinguts sense encapçalaments ni numeracions duplicats, ni encapçalaments buits; salts de línia literals corregits a C28–C29. Coteig de fidelitat documental completat per a C12–C13, C25–C27 i C28–C29; revisió semàntica dels continguts de C30–C32 i C36 completada amb la font disponible. C19 té coteig de receptes i materials amb límit documental explícit. Continuen pendents la passada transversal de coherència, terminologia i referències, i la validació dels capítols restants. |
+| 4 | Validar els 39 capítols i estabilitzar-ne el contingut, les receptes, els exercicis, la numeració i les referències. | **En curs**; comprovació estructural inicial dels 29 Markdown intervinguts sense encapçalaments ni numeracions duplicats, ni encapçalaments buits; salts de línia literals corregits a C28–C29. Coteig de fidelitat documental completat per a C12–C13, C25–C27 i C28–C29; revisió semàntica dels continguts de C30–C32 i C36 completada amb la font disponible. C19 té coteig de receptes i materials amb límit documental explícit. C38: coteig documental amb la font disponible completat i revisió transversal immediata realitzada; terminologia normalitzada a C3 i C37–C39. Continuen pendents la conciliació AE de C33–C34, la revisió global de coherència i referències, i la validació dels capítols restants. |
 | 5 | Revisar i reconstruir els annexos A–E després d'estabilitzar els 39 capítols. | **Pendent i diferida**; no intervenir-hi ara. |
 | 6 | Auditoria global de coherència, referències creuades, traçabilitat i absència de pèrdues o duplicacions. | **Pendent** |
 | 7 | Revisió gràfica, consolidació editorial, normalització i maquetació Word. | **Fase final**; les imatges s'aborden després dels annexos. |
@@ -87,7 +87,7 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 |---:|---|---|
 | 1 | SC | Contingut protegit. A més, G-01 es va aplicar a l'HTML, no a aquest Markdown; mantenir aquesta intervenció diferenciada de la classificació general SC. |
 | 2 | SC | Contingut protegit; no es va identificar recuperació prioritària. |
-| 3 | RT · mitjana; AE puntual | Recuperar/confirmar els vuit errors conceptuals i el mètode cromàtic segons auditoria. G-01 es va aplicar a l'HTML, no a aquest Markdown; G-03 no va justificar recuperacions conceptuals addicionals als capítols 3–5. |
+| 3 | RT · mitjana; AE puntual | Recuperar/confirmar els vuit errors conceptuals i el mètode cromàtic segons auditoria. G-01 es va aplicar a l'HTML, no a aquest Markdown; G-03 no va justificar recuperacions conceptuals addicionals als capítols 3–5. F4: «vernissatge» normalitzat a «envernissament» en la remissió a C38. |
 | 4 | RT · mitjana | Errors conceptuals i desenvolupament del mètode cromàtic. Recuperació aplicada: nou errors, sis exercicis, síntesi, criteri de selecció de paleta, vuit passos de planificació i exemple de l'armadura blava. Validació integral pendent. |
 | 5 | RT · mitjana | Desenvolupament físic de llum i ombres i errors conceptuals. Recuperació aplicada: set errors, sis exercicis, bloqueig/oclusió, geometria de les ombres i llistes d'observació. Validació integral pendent. |
 | 6 | RT · mitjana | Recuperar la fitxa i els criteris de lectura dels materials. Ampliació aplicada amb patrons estructurals, propietats de transmissió, mètode d'observació i quatre exercicis; validació integral pendent. |
@@ -121,9 +121,9 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 34 | SC / AE / MG | Ajust editorial aplicat el 05/11/2026: explicitada la diferenciació respecte de ceràmica, porcellana i plàstics (33), i la remissió de vernissos/acabats al capítol 37. Les 10 propostes gràfiques originals es reserven per a MG. Receptes i contingut SC preservats; validació final pendent. |
 | 35 | SC | Contingut protegit; no es va identificar recuperació prioritària. |
 | 36 | RD / MG · baixa | Intervenció aplicada el 05/11/2026: recuperats i desenvolupats els sis exercicis amb objectiu i procediment; afegits criteris d'avaluació proposats com a millora didàctica, diferenciats del text original; recuperada la síntesi; mantinguts els criteris de selecció i adaptació per material. Les 10 propostes gràfiques originals es reserven per a MG. F4: revisió de contingut completada; sis exercicis, deu errors i set famílies d'adaptació material preservats. Criteris d'avaluació identificats com a propostes editorials. |
-| 37 | SC | Contingut protegit. G-08 va ajustar §§37.1, 37.6 i 37.7 a l'HTML i va preservar els apartats 38.1 i 38.2.5; no és una modificació del Markdown actual. Mantenir la seva funció d'acabats visuals i control del brillantor. |
-| 38 | RT / RD / MG · alta | F4: estructura i procediments cotejats amb l'original; sis exercicis conservats i desenvolupats, amb criteris d'avaluació identificats com a propostes editorials. Recuperats tres detalls tècnics omesos: comprovacions per seleccionar barnissos acrílics, distinció dels poliuretans de base aquosa i condicions/riscos específics dels aerosols. Resta la revisió transversal de terminologia, coherència i referències. Les 10 propostes gràfiques es reserven per a MG. |
-| 39 | SC / MG | Contingut textual protegit; mantenir i planificar el material gràfic de suport sense convertir propostes en imatges ja produïdes. |
+| 37 | SC / AE puntual | Contingut protegit. G-08 va ajustar §§37.1, 37.6 i 37.7 a l'HTML i va preservar els apartats 38.1 i 38.2.5; no és una modificació del Markdown actual. F4: normalitzades les formes «barnissos/barnissat» a «vernissos/envernissament», sense alterar el contingut tècnic. |
+| 38 | RT / RD / MG · alta / AE puntual | F4: estructura i procediments cotejats amb l'original; sis exercicis conservats i desenvolupats, amb criteris d'avaluació identificats com a propostes editorials. Recuperats tres detalls tècnics omesos: comprovacions per seleccionar vernissos acrílics, distinció dels poliuretans de base aquosa i condicions/riscos específics dels aerosols. Passada transversal immediata: terminologia normalitzada a «vernís/envernissament»; corregit «el brillantor» per «la brillantor». Resta la revisió global de coherència i referències. Les 10 propostes gràfiques es reserven per a MG. |
+| 39 | SC / MG / AE puntual | Contingut textual protegit; mantenir i planificar el material gràfic de suport sense convertir propostes en imatges ja produïdes. F4: normalitzada la terminologia de barnissat en les referències a C38; contingut tècnic protegit. |
 
 ### Lectura global de la matriu
 
@@ -156,7 +156,7 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 33 | Revisió editorial AE realitzada el 05/11/2026: confirmada la coherència de les remissions a vidre (34), acabats (37), brutícia (29) i desgast (36). G-05 i G-11 afecten l'HTML, no aquest Markdown. Sense modificacions de contingut; SC preservat. |
 | 34 | Ajust editorial AE aplicat el 05/11/2026: explicitats els límits respecte de ceràmica, porcellana i plàstics (33), i la remissió dels acabats i vernissos al capítol 37. Les 10 propostes gràfiques originals es reserven per a MG. Sense reescriure receptes. |
 | 36 | F4 (05/11/2026): revisió de contingut amb la font disponible completada; sis exercicis i els deu blocs d'errors es mantenen. Es conserven les set famílies d'adaptació material i els procediments d'abrasió, ratllades, desconxats, decoloració i combinació d'alteracions. Els criteris d'avaluació dels exercicis continuen identificats com a propostes editorials. Sense validació experimental. |
-| 38 | Recuperació tècnica i didàctica aplicada el 05/11/2026: incorporats els fonaments i límits de la protecció, distinció entre assecat superficial, assecat al tacte i estabilització, sis exercicis desenvolupats i criteris d'avaluació final. Primera comprovació estructural superada; validació semàntica i coteig final pendents. |
+| 38 | Recuperació tècnica i didàctica aplicada el 05/11/2026: incorporats els fonaments i límits de la protecció, distinció entre assecat superficial, assecat al tacte i estabilització, sis exercicis desenvolupats i criteris d'avaluació final. Coteig documental amb la font disponible completat; terminologia normalitzada i errada «la brillantor» corregida. Resta la revisió global de coherència i referències. |
 
 **No interpretar “aplicat” com “validat”.** La validació ha de comprovar el capítol complet, la coherència amb l'original o la font disponible, la numeració, les referències, les receptes i els exercicis que pertoquin.
 
@@ -167,15 +167,15 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 - El contingut de la segona síntesi es conserva en català, d'acord amb el criteri específic establert per a aquests fitxers.
 - La primera versió HTML no es modifica en aquesta fase.
 - Els annexos A–E s'aborden després d'estabilitzar els capítols.
-- La distinció entre capítol 37 (aparença, acabats i brillantor) i capítol 38 (barnissos, protecció i conservació) s'ha de mantenir a totes les referències creuades.
+- La distinció entre capítol 37 (aparença, acabats i brillantor) i capítol 38 (vernissos, protecció i conservació) s'ha de mantenir a totes les referències creuades.
 - No confondre propostes de figures amb recursos visuals produïts.
 - No atribuir validació física a cap recepta o barreja que no tingui registre d'assaig.
 
 ## 8. Properes actuacions operatives
 
 1. Completar la conciliació fina de la traçabilitat entre la matriu, els fitxers Markdown, els commits i el document de seguiment.
-2. Continuar F4: validar semànticament i tècnicament els 29 capítols Markdown intervinguts, sense repetir l'auditoria F1 ni reobrir els capítols SC sense una incidència substancial.
-3. Continuar F4 amb la revisió transversal de C38 i la conciliació dels ajustos AE de C33–C34. C11 i C14–C18 mantenen els límits documentals registrats; C12–C13 i C25–C27 tenen el coteig de contingut completat; C28–C29 tenen el coteig de fidelitat documental completat. C30–C32 i C36 tenen revisió de contingut completada; resta la passada transversal de coherència, terminologia i referències.
+2. Continuar F4: validar semànticament i tècnicament els capítols Markdown intervinguts, sense repetir l'auditoria F1 ni reobrir els capítols SC sense una incidència substancial.
+3. Continuar F4 amb la conciliació dels ajustos AE de C33–C34 i la revisió global de coherència i referències. C38 ja té completats el coteig documental amb la font disponible i la normalització terminològica immediata. C11 i C14–C18 mantenen els límits documentals registrats; C12–C13 i C25–C27 tenen el coteig de contingut completat; C28–C29 tenen el coteig de fidelitat documental completat. C30–C32 i C36 tenen revisió de contingut completada.
 4. Comprovar, per a cada capítol, la fidelitat a la font disponible, la conservació de receptes i ingredients, la seqüència dels procediments, els exercicis, la numeració, les referències i les delimitacions.
 5. Mantenir explícits els límits documentals de C14, C15, C16 i C18: no atribuir al document original complet continguts que s'han ampliat a partir de la primera versió o d'acords recuperats.
 6. Després d'estabilitzar els 39 capítols, abordar els annexos A–E, la coherència global, les referències creuades i la fase gràfica.
@@ -203,6 +203,7 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 1.15 | 05/11/2026 | F4: comprovació limitada de C17 i C18; es preserven els límits documentals (originals complets no recuperats) i es confirma l'estructura de deu apartats i sis exercicis en tots dos capítols. Sense canvis de contingut. |
 | 1.16 | 05/11/2026 | F4: coteig de la font disponible de C19; 16 receptes, ingredients/codis i set exercicis comprovats. La font no documenta proporcions exactes ni s'ha recuperat un original complet; no s'inventen quantitats. |
 | 1.17 | 05/11/2026 | F4: validació de contingut de C25–C27, C30–C32 i C36 amb la font disponible. Restituïdes a C25 tres referències complementàries de paleta que faltaven; sense alteracions a les receptes. Coteig documental i didàctic registrat, sense atribuir validació experimental a les receptes. |
+| 1.18 | 05/11/2026 | F4: revisió transversal immediata de C38 i normalització terminològica en C3 i C37–C39; correcció gramatical de «la brillantor» a C38. Cap canvi en receptes, ingredients o procediments. Revisió global de coherència i referències encara pendent. |
 
 Aquest registre és una consolidació operativa basada en l'auditoria i els resultats recuperats del projecte. Els punts marcats com a pendents o no validats s'han de comprovar amb el fitxer real i la font corresponent abans de declarar-los tancats.
 

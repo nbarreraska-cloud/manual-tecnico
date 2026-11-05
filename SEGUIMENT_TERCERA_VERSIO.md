@@ -197,9 +197,9 @@ Aquests 39 Markdown són la representació operativa dels continguts de la segon
 
 - Fase 0 — preservació de versions, fonts i branca de treball: completada.
 - Fase 1 — auditoria comparativa dels 39 capítols: completada (39/39).
-- Fase 2 — consolidació del Registre Mestre: en curs; versió 1.26. Resta conciliar la matriu per capítol amb els estats finals de F4 i les anotacions històriques.
+- Fase 2 — consolidació del Registre Mestre: en curs; versió 1.27. Resta conciliar la matriu per capítol amb els estats finals de F4 i les anotacions històriques.
 - Fase 3 — aplicació de recuperacions RT/RD i ajustos AE: completada per a les accions identificades a la matriu.
-- Fase 4 — validació dels 39 capítols: en curs. La revisió semàntica de remissions C1–C39 està completada; s'ha precisat una remissió a C18. Resta completar els cotejos documentals i les comprovacions estructurals dels capítols encara no validats.
+- Fase 4 — validació dels 39 capítols: en curs. La revisió semàntica de remissions C1–C39 està completada; s'ha precisat una remissió a C18. C5 té coteig de contingut i bibliografia completat; C4 té revisió de correspondència estructural i didàctica principal. Resta completar els cotejos documentals i les comprovacions estructurals dels capítols encara no validats.
 - Fase 5 — annexos A–E: pendent; no iniciar fins a estabilitzar els 39 capítols.
 - Fase 6 — auditoria global de coherència: completada el 05/11/2026, amb passada transversal C1–C39.
 - Fase 7 — revisió gràfica i maquetació Word: pendent, després de F4 i F5.
@@ -864,9 +864,9 @@ Aquesta secció és la referència operativa més recent i preval sobre les inst
 
 - **F0:** completada.
 - **F1:** auditoria comparativa completada per als 39 capítols.
-- **F2:** en curs; el Registre Mestre està actualitzat a la versió 1.25. Resta conciliar la matriu per capítol i les entrades històriques amb l'estat final de F4.
+- **F2:** en curs; el Registre Mestre està actualitzat a la versió 1.27. Resta conciliar la matriu per capítol i les entrades històriques amb l'estat final de F4.
 - **F3:** completada per a les accions RT/RD/AE identificades a la matriu.
-- **F4:** en curs. La revisió semàntica de remissions C1–C39 està completada i documentada; s'ha precisat una remissió a C18. La fidelitat documental s'ha cotejat per a C12–C13, C25–C29 i C38, amb els límits de font descrits al Registre Mestre. C30–C32 i C36 tenen revisió de contingut amb la font disponible. C19 té un coteig limitat a la font disponible. No es considera validada la totalitat dels 39 capítols.
+- **F4:** en curs. La revisió semàntica de remissions C1–C39 està completada i documentada; s'ha precisat una remissió a C18. C5 té coteig de contingut i bibliografia completat; C4 té revisió de correspondència estructural i didàctica principal. La fidelitat documental s'ha cotejat per a C12–C13, C25–C29 i C38, amb els límits de font descrits al Registre Mestre. C30–C32 i C36 tenen revisió de contingut amb la font disponible. C19 té un coteig limitat a la font disponible. No es considera validada la totalitat dels 39 capítols.
 - **F5:** pendent fins al tancament de F4.
 - **F6:** completada el 05/11/2026; auditoria global de coherència transversal C1–C39 tancada. No equival a validació experimental.
 - **F7:** pendent; revisió gràfica i maquetació Word després de F4 i F5.
@@ -875,12 +875,12 @@ Aquesta secció és la referència operativa més recent i preval sobre les inst
 
 S'ha creat a l'arrel del repositori el fitxer `TERCERA_SINTESI_CONSOLIDADA_C01-C39.md`. Reuneix els 39 fitxers Markdown vigents en ordre numèric i exclou els annexos A–E. Inclou una capçalera d'identificació i separadors entre els fitxers d'origen; no s'ha reescrit ni resumit el contingut dels capítols.
 
-La integritat de la compilació s'ha verificat recuperant de nou els 39 fitxers font i comprovant que el contingut de cadascun hi és present íntegrament (39/39). El document resultant té 871.265 caràcters i 39 encapçalaments principals de capítol. Aquesta és una compilació documental de treball, no una versió final validada: qualsevol modificació posterior a un dels 39 Markdown durant F4 s'haurà de reflectir també en aquesta compilació.
+La integritat de la compilació s'ha verificat recuperant de nou els 39 fitxers font i comprovant que el contingut de cadascun hi és present íntegrament (39/39). El document resultant té 872.676 caràcters i 39 encapçalaments principals de capítol. Aquesta és una compilació documental de treball, no una versió final validada: qualsevol modificació posterior a un dels 39 Markdown durant F4 s'haurà de reflectir també en aquesta compilació.
 
 ### Ordre operatiu vigent
 
 1. Conciliar el Registre Mestre i el Seguiment amb els estats reals de les auditories, retirant les instruccions històriques que ja no siguin vigents.
-2. Completar F4, prioritzant el coteig documental i les comprovacions estructurals dels capítols encara no cotejats; la revisió semàntica de remissions C1–C39 ja està completada.
+2. Completar F4, prioritzant el coteig documental i les comprovacions estructurals dels capítols encara no cotejats; la revisió semàntica de remissions C1–C39 ja està completada. C5 té coteig de contingut/bibliografia completat i C4 revisió estructural/didàctica principal.
 3. Sincronitzar i tornar a verificar la compilació consolidada si F4 produeix canvis als capítols.
 4. Només després de l'estabilització dels 39 capítols, iniciar F5 (annexos A–E).
 5. Abordar F7 (gràfica i maquetació Word) després dels annexos.
@@ -895,3 +895,12 @@ S'han revisat les remissions explícites dels capítols 1–18 i s'han contrasta
 S'ha detectat una imprecisió a C18.8.5: l'expressió «procediments d'acabat, protecció i conservació» agrupava els capítols 35–38 com si tots tractessin aquests procediments. S'ha precisat la frase per incloure l'harmonització cromàtica (C35), el desgast i la transformació de superfícies (C36), els acabats superficials (C37) i la protecció/conservació (C38). El canvi s'ha aplicat al Markdown C18 i s'ha sincronitzat a la compilació consolidada.
 
 No s'han modificat receptes, ingredients, proporcions ni procediments. Amb aquesta passada, la revisió semàntica de remissions C1–C39 queda completada. F4 continua oberta per als cotejos documentals i les comprovacions estructurals pendents; no s'afirma validació experimental.
+
+
+### F4 — coteig de contingut de C4–C5 (05/11/2026)
+
+**C4 — teoria del color:** s'ha contrastat l'estructura i els elements didàctics principals amb la font disponible. Es mantenen els nou errors conceptuals, els sis exercicis, els set criteris de planificació de paletes, la seqüència operativa de vuit passos, l'exemple de l'armadura blava i les vuit referències bibliogràfiques. No s'han identificat omissions substancials en aquests elements. Les nou propostes de figures originals continuen reservades a MG. Aquesta passada és una comprovació estructural i didàctica principal, no un coteig textual integral.
+
+**C5 — llum, volum, ombres i reflexos:** s'ha completat el coteig de contingut i bibliografia amb la font disponible. La síntesi conserva els conceptes de propagació rectilínia, fonts puntuals i extenses, magnituds fotomètriques, distància i incidència, normals i geometria, absorció/reflexió/transmissió, reflexió especular i difusa, dispersió, il·luminació directa/indirecta/ambiental, formació de les ombres, reflexos segons l'observador i construcció visual del volum. Les seccions 5.6 i 5.7 agrupen en forma compacta subdivisions de l'original, sense pèrdua dels seus eixos conceptuals principals. Es mantenen els set errors conceptuals i els sis exercicis d'observació.
+
+S'han recuperat vuit referències bibliogràfiques omeses respecte de l'original, de manera que C5 torna a tenir les dotze entrades bibliogràfiques de la font. Les 16 propostes de figures originals continuen reservades a MG i no s'han presentat com a imatges produïdes. No s'han modificat receptes, ingredients, proporcions ni procediments; el coteig documental no implica validació experimental.

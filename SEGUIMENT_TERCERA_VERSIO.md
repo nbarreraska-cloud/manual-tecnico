@@ -56,6 +56,16 @@ Cal recuperar procediments, explicacions tècniques, fonaments, advertiments, de
 - Recuperat el mètode d'observació de set passos, desenvolupats els quatre exercicis amb objectius, procediments i resultats esperats, i afegida la síntesi del capítol.
 - La proposta de figures del document original s'ha mantingut fora del cos del capítol perquè és material de producció gràfica, no contingut didàctic destinat a la lectura principal.
 
+### Capítol 7 — Eines, preparació i control de l'aplicació
+
+- Recuperat el criteri de selecció raonada d'eines, evitant confondre acumulació d'accessoris amb millora efectiva del treball.
+- Restituït el desenvolupament funcional de la imprimació: funcions, selecció, preparació, aplicació, assecat i comprovació.
+- Desglossada la gestió operativa de pintures en comprovació, homogeneïtzació, dosificació, dilució, quantitat, prevenció de contaminacions i conservació.
+- Recuperats els criteris de càrrega i descàrrega, estabilitat, pressió, orientació, quantitat aplicada, adaptació a superfícies i proves auxiliars.
+- Ampliat el manteniment de pinzells, paletes, eines de preparació i aerògraf.
+- Restituïdes les precaucions diferenciades per a aerosols pressuritzats, pulverització, protecció personal, pols, higiene, emmagatzematge i eliminació.
+- Desenvolupats els quatre exercicis originals amb objectius, materials, procediments i criteris d'avaluació, i recuperada la síntesi del capítol.
+
 ## Tasques pendents
 
 1. Validar la integritat textual i estructural dels capítols 4 i 5 després de les recuperacions.

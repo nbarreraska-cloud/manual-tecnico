@@ -182,3 +182,44 @@ Les modificacions d'aquesta actualització afecten:
 - Aquest document de seguiment.
 
 La branca `main` no forma part d'aquesta intervenció.
+
+
+---
+
+## Actualització de continuïtat — 05/11/2026
+
+### Precisió de l'abast i estructura documental
+
+S'ha comprovat l'arbre real de la branca de treball. La segona síntesi conté 39 fitxers Markdown, distribuïts en dues carpetes:
+- `segunda_sintesis/`: capítols 01–11.
+- `segunda_sintesi/`: capítols 12–39.
+
+La primera versió amb l'estructura completa es conserva separadament en HTML. La revisió de la tercera versió continua limitada als 39 fitxers Markdown. No s'ha modificat l'HTML.
+
+### Fases i situació actual
+
+- Fase 0 — preservació de versions, fonts i branca de treball: completada.
+- Fase 1 — auditoria comparativa dels 39 capítols: completada (39/39).
+- Fase 2 — consolidació del registre mestre de recuperacions: primera versió creada el 05/11/2026.
+- Fase 3 — aplicació de recuperacions RT/RD i ajustos AE: en curs; les intervencions dels capítols 4–19 consten a l'historial de la branca.
+- Fase 4 — validació de les intervencions: parcial i pendent de completar per capítol.
+- Fases posteriors — depuració gràfica, revisió d'annexos, coherència global i maquetació: pendents.
+
+### Nou document de control
+
+S'ha creat a l'arrel del repositori `REGISTRE_MESTRE_RECUPERACIONS.md` (versió 1.0). Recull:
+- Les categories RT (recuperació tècnica), RD (recuperació didàctica), AE (ajust editorial), MG (material gràfic) i SC (sense canvis).
+- Les prioritats alta, mitjana i baixa.
+- La matriu de classificació dels 39 capítols segons l'auditoria comparativa.
+- La distinció entre contingut diagnosticat, decisió editorial, aplicació i validació.
+- L'estat conegut de les intervencions ja aplicades i els límits documentals.
+
+Aquest registre és ara la referència operativa per evitar duplicacions i no reobrir capítols SC sense una incidència substancial. Cal continuar conciliant-lo amb els commits i validar els continguts aplicats; la seva creació no implica que totes les recuperacions pendents estiguin executades.
+
+### Estat de la branca
+
+La branca de treball continua sent `intervencion-editorial-2026-11`. La branca `main` no s'ha modificat. El registre mestre s'ha afegit amb el commit `095ded7`.
+
+### Continuïtat immediata
+
+Continuar la fase 3 a partir de les recuperacions encara pendents de prioritat alta, començant pel capítol 28 i el capítol 29 segons la matriu. Abans de modificar cada fitxer, recuperar el Markdown actual i contrastar-lo amb la font disponible; registrar qualsevol límit documental. No tornar a fer una auditoria general dels 39 capítols ni reescriure contingut classificat SC sense motiu verificable.

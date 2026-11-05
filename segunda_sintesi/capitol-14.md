@@ -189,7 +189,7 @@ La profunditat interna s'ha d'integrar amb la superfície exterior. Cal comprova
 
 ### 14.8.4. Control dels reflexos i contorns
 
-Els reflexos i contorns han de reforçar la identificació del material sense substituir la informació que comunica la seva transparència o translucidesa. Convé revisar-ne la intensitat, l'extensió, la posició i la relació amb la geometria. No tots els vores necessiten el mateix tractament ni tots els reflexos han de presentar una intensitat equivalent.
+Els reflexos i contorns han de reforçar la identificació del material sense substituir la informació que comunica la seva transparència o translucidesa. Convé revisar-ne la intensitat, l'extensió, la posició i la relació amb la geometria. No totes les vores necessiten el mateix tractament ni tots els reflexos han de presentar una intensitat equivalent.
 
 ### 14.8.5. Criteri de finalització
 

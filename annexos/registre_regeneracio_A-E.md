@@ -40,7 +40,7 @@
 ### Font i mètode
 - Font principal: encapçalaments i contingut dels capítols 7–39 de `TERCERA_SINTESI_CONSOLIDADA_C01-C39.md`.
 - La versió anterior s'ha conservat sense alteracions a `annexos/historic/annex-b-auditoria-anterior-2026-11-05.md` i s'ha utilitzat només com a contrast de cobertura i traçabilitat.
-- S'han comprovat les remissions contra els encapçalaments vigents: 89 expressions de referència, que despleguen 139 identificadors de subsecció únics; no s'ha detectat cap identificador inexistent.
+- S'han comprovat les remissions contra els encapçalaments vigents: 90 expressions de remissió a les taules, amb 141 identificadors de capçalera als extrems dels intervals; en desplegar els intervals es comproven 260 apartats; no s'ha detectat cap identificador inexistent.
 
 ### Resultat i ajustos
 - 63 entrades distribuïdes en sis àmbits: preparació i aplicació; definició i textura; il·luminació i efectes; aplicacions a materials; integració i transformació; acabats i correcció.

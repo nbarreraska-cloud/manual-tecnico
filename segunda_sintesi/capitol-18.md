@@ -349,13 +349,50 @@ Els fonaments del capítol 6 i les aplicacions dels capítols 19–34 permeten v
 
 ## 18.7. Control i decisions durant l'execució
 
-El pla inicial és una referència flexible. Pot caldre modificar-lo si una pintura es comporta de manera diferent, una zona requereix més intervencions, una tècnica no produeix l'efecte previst, apareix una incompatibilitat, la complexitat és superior a l'esperada o cal prioritzar per limitacions de temps.
+### 18.7.1. Planificació com a referència flexible
 
-És útil establir punts de control després de fases significatives: preparació, capes base, fases cromàtiques importants, aplicacions invasives, efectes que poden modificar superfícies anteriors i abans dels acabats finals. No cal interrompre el treball després de cada pinzellada; els controls han de situar-se quan encara sigui possible modificar decisions posteriors.
+El pla inicial ha d'orientar el treball, però no convertir-se en una obligació inalterable.
 
-Cada fase s'ha d'avaluar segons la funció prevista: cobertura de la base, qualitat de la transició, identitat del material, separació entre peces, aportació de la textura o coherència de la il·luminació. El resultat parcial no s'ha de jutjar aïlladament: també cal valorar com s'integra amb el conjunt.
+Durant l'execució poden aparèixer circumstàncies que aconsellin modificar-lo: una pintura presenta un comportament diferent del previst, una superfície requereix més o menys intervencions, una tècnica no produeix l'aparença buscada, es detecta una incompatibilitat entre productes, una zona resulta més complexa del que s'esperava, el resultat parcial suggereix una solució millor o el temps disponible obliga a prioritzar determinades operacions.
 
-Després de cada control, cal decidir si es continua, es corregeix, es canvia la tècnica, es modifica l'ordre, se simplifica l'objectiu o es dona la fase per acabada. Quan es modifica una decisió important, convé registrar la decisió inicial, el problema detectat, el canvi introduït, el resultat i les conseqüències per a les operacions posteriors.
+Modificar el pla no significa perdre coherència. Significa utilitzar la informació obtinguda durant el treball per prendre decisions fonamentades.
+
+### 18.7.2. Punts de control
+
+Convé establir moments de revisió en què es valori l'estat de la miniatura abans de continuar.
+
+Aquests controls es poden fer després de la preparació, d'establir les principals capes base, de completar una fase cromàtica important, abans d'incorporar efectes que puguin modificar superfícies anteriors, després d'aplicar tècniques especialment invasives i abans de realitzar els acabats finals.
+
+No és necessari aturar-se després de cada aplicació. Els controls s'han de situar en moments en què l'avaluació encara pugui modificar decisions posteriors.
+
+### 18.7.3. Avaluació de resultats parcials
+
+Cada fase s'ha de valorar en funció de l'objectiu que havia de complir.
+
+Per exemple, cal comprovar si una capa base proporciona una referència cromàtica suficient, si una transició compleix la funció prevista, si una superfície conserva la seva identitat material, si un perfilat millora la separació entre elements, si una textura aporta informació sense saturar la superfície i si una il·luminació manté la coherència amb la font prevista.
+
+No s'ha de jutjar una fase únicament per la seva aparença aïllada. També convé considerar com s'integra amb la resta del treball.
+
+### 18.7.4. Decisions de continuïtat
+
+Després de cada punt de control convé decidir si:
+
+1. Es pot continuar amb l'operació prevista.
+2. Cal corregir algun aspecte.
+3. Convindria modificar la tècnica seleccionada.
+4. S'ha de canviar l'ordre de les operacions.
+5. És preferible simplificar l'objectiu.
+6. La fase es pot considerar acabada.
+
+Aquesta decisió evita continuar automàticament quan el resultat parcial ja indica que el pla necessita ajustos.
+
+### 18.7.5. Registre de modificacions
+
+Quan es modifica una decisió important, convé registrar-ne el motiu i el canvi realitzat.
+
+El registre pot incloure la decisió inicial, el problema o la circumstància detectada, la modificació introduïda, el resultat observat i les conseqüències per a les operacions posteriors.
+
+Aquest registre facilita la comprensió del procés i permet distingir entre una modificació fonamentada i una successió d'intervencions improvisades.
 
 ## 18.8. Avaluació global, correcció i finalització
 

@@ -15,6 +15,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 ## Capítol 15
 
 ### Figura 15.1 — Anàlisi de geometria, volums i superfícies
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 15.1
 - **Ubicació editorial F10:** 15.2.
@@ -25,6 +26,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** No deduir automàticament la llum de la geometria; diferenciar observació i decisió pictòrica.
 
 ### Figura 15.2 — Mapa de valors
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 15.3
 - **Ubicació editorial F10:** 15.6.
@@ -35,6 +37,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** No fusionar els dos mapes en una sola escala; conservar-ne la funció diferenciada.
 
 ### Figura 15.3 — Distribució del contrast
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 15.6
 - **Ubicació editorial F10:** 15.4 o 15.8.
@@ -45,6 +48,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** La distribució uniforme no és necessàriament un error; etiquetar-la segons objectiu i context.
 
 ### Figura 15.4 — Procés integral d'anàlisi a avaluació
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 15.8
 - **Ubicació editorial F10:** 15.1 o 15.9.
@@ -57,6 +61,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 ## Capítol 16
 
 ### Figura 16.1 — Metàl·lic i no metàl·lic
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 16.1
 - **Ubicació editorial F10:** 16.1.
@@ -67,6 +72,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** No suggerir que el NMM conté pigment metàl·lic ni que el TMM depèn només del contrast pintat.
 
 ### Figura 16.2 — Influència de la geometria en els reflexos
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 16.2
 - **Ubicació editorial F10:** 16.2 i/o 16.6.
@@ -77,6 +83,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Són exemples orientatius; no establir un patró únic per geometria ni desconnectar els reflexos de l'entorn.
 
 ### Figura 16.3 — Mapa tonal d'una peça metàl·lica
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 16.4
 - **Ubicació editorial F10:** 16.3.
@@ -87,6 +94,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Ubicació corregida: no situar a 16.4, que tracta diferenciació cromàtica entre metalls.
 
 ### Figura 16.4 — Construcció progressiva de base a reflexos i accents
+- **Categoria d'evidència:** E1 — seqüència proposada no assajada.
 
 - **Identificadors P1 d'origen:** 16.6
 - **Ubicació editorial F10:** 16.5.
@@ -97,6 +105,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Ubicació corregida; no presentar la seqüència com una recepta universal ni ometre l'adaptació geomètrica.
 
 ### Figura 16.5 — Errors i correccions
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 16.8
 - **Ubicació editorial F10:** 16.8.
@@ -109,6 +118,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 ## Capítol 17
 
 ### Figura 17.1 — Font emissora, superfície il·luminada i reflex localitzat
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 17.1
 - **Ubicació editorial F10:** 17.2.1–17.2.3.
@@ -119,6 +129,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Distingir llum rebuda i reflex; un color intens no prova emissió.
 
 ### Figura 17.2 — Geometria, orientació i bloqueig
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 17.3
 - **Ubicació editorial F10:** 17.3.4–17.3.6.
@@ -129,6 +140,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Respectar la posició relativa dels elements; no il·luminar superfícies ocultes sense justificació.
 
 ### Figura 17.3 — Jerarquia de valors
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 17.4
 - **Ubicació editorial F10:** 17.4.1–17.4.2.
@@ -139,6 +151,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** No imposar un centre blanc universal ni una gradació cromàtica fixa.
 
 ### Figura 17.4 — Il·luminació general i reflexos en superfícies mates i brillants
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 17.7
 - **Ubicació editorial F10:** 17.6.4–17.6.5.
@@ -149,6 +162,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Ubicació corregida; diferenciar canvi ampli d'aparença i reflex localitzat.
 
 ### Figura 17.5 — Seqüència de construcció i integració de l'OSL
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 17.8
 - **Ubicació editorial F10:** 17.5.1–17.5.7.
@@ -159,6 +173,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Ubicació corregida; no confondre amb el bloc d'errors.
 
 ### Figura 17.6 — Errors freqüents
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 17.10
 - **Ubicació editorial F10:** 17.8.
@@ -171,6 +186,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 ## Capítol 18
 
 ### Figura 18.1 — Mapa del procés integral
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 18.1
 - **Ubicació editorial F10:** 18.1.
@@ -181,6 +197,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** No presentar una seqüència única vàlida per a totes les miniatures.
 
 ### Figura 18.2 — Planificació cromàtica, tonal i lumínica
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 18.3
 - **Ubicació editorial F10:** 18.3.
@@ -191,6 +208,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Mostrar interdependència sense confondre les tres variables.
 
 ### Figura 18.3 — Arbre de selecció de tècniques
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 18.4
 - **Ubicació editorial F10:** 18.4.
@@ -201,6 +219,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Les branques han de permetre més d'una solució; no assignar una tècnica única a cada material.
 
 ### Figura 18.4 — Organització per zones, materials i fases
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 18.6
 - **Ubicació editorial F10:** 18.5.4.
@@ -213,6 +232,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 ## Capítol 19
 
 ### Figura 19.1 — Construcció TMM d'acer i plata
+- **Categoria d'evidència:** E1 — seqüència proposada no assajada.
 
 - **Identificadors P1 d'origen:** 19.3
 - **Ubicació editorial F10:** 19.2–19.3.
@@ -223,6 +243,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Les receptes són propostes, no assajos; no inventar proporcions ni presentar resultats com a proves reals.
 
 ### Figura 19.2 — Construcció TMM d'or
+- **Categoria d'evidència:** E1 — seqüència proposada no assajada.
 
 - **Identificadors P1 d'origen:** 19.4
 - **Ubicació editorial F10:** 19.4.2.
@@ -233,6 +254,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Respectar variants i paleta disponible; no afegir productes o proporcions absents del text.
 
 ### Figura 19.3 — Construcció de coure i bronze
+- **Categoria d'evidència:** E1 — seqüència proposada no assajada.
 
 - **Identificadors P1 d'origen:** 19.5
 - **Ubicació editorial F10:** apartats 19.5.2 i 19.6.2.
@@ -244,6 +266,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** les receptes són propostes tècniques, no assajos; no inventar proporcions ni presentar resultats com a proves reals. No atribuir a la paleta pintures metàl·liques específiques de coure o bronze.
 
 ### Figura 19.4 — Comparació entre TMM i NMM
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 19.6
 - **Ubicació editorial F10:** apartat 19.1, després de definir els dos enfocaments.
@@ -255,6 +278,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no presentar TMM i NMM com a materials equivalents ni suggerir que una tècnica és universalment superior.
 
 ### Figura 19.5 — Errors i control
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 19.9
 - **Ubicació editorial F10:** 19.9.
@@ -267,6 +291,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 ## Capítol 20
 
 ### Figura 20.1 — Direcció de fibres, vetes, nusos, anells i patrons segons el tall
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 20.1, 20.2
 - **Ubicació editorial F10:** 20.1–20.2.
@@ -278,6 +303,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** una sola composició; 20.2 és un panell integrat, no una figura independent. Evitar duplicar els anells transversals i mantenir coherència entre secció i superfície.
 
 ### Figura 20.2 — Construcció de vetes i desviació de fibres al voltant d'un nus
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 20.4, 20.5
 - **Ubicació editorial F10:** 20.8.1–20.8.2.
@@ -289,6 +315,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** una composició seqüencial coordinada; el nus no pot aparèixer com un cercle aïllat. Les fibres han de girar al seu voltant i mantenir una continuïtat plausible.
 
 ### Figura 20.3 — Adaptació a geometries
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 20.7
 - **Ubicació editorial F10:** 20.9.2.
@@ -299,6 +326,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Ubicació corregida; mantenir continuïtat de patró segons la forma del suport.
 
 ### Figura 20.4 — Fusta natural, envellida, desgastada i humida
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 20.8
 - **Ubicació editorial F10:** 20.7.1–20.7.4.
@@ -309,6 +337,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Diferenciar color, textura, lluentor i alteració; no reduir els estats a canvis de to.
 
 ### Figura 20.5 — Errors i correccions
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 20.9
 - **Ubicació editorial F10:** 20.9.3.
@@ -321,6 +350,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 ## Capítol 21
 
 ### Figura 21.1 — Tipus principals de vegetació
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 21.1
 - **Ubicació editorial F10:** 21.1–21.2.
@@ -331,6 +361,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Diferenciar estructura, creixement i densitat; no classificar només pel color.
 
 ### Figura 21.2 — Morfologia de fulles
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 21.2
 - **Ubicació editorial F10:** 21.2.
@@ -341,6 +372,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** No convertir-la en una classificació botànica exhaustiva ni afegir espècies no necessàries.
 
 ### Figura 21.3 — Agrupació, densitat i superposició
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 21.3
 - **Ubicació editorial F10:** 21.2.
@@ -351,6 +383,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Prioritzar lectura de massa; no dibuixar cada fulla ni uniformitzar el volum.
 
 ### Figura 21.4 — Branques i agrupacions aciculars
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 21.5
 - **Ubicació editorial F10:** 21.5.
@@ -361,6 +394,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Respectar orientació i densitat; evitar patrons repetitius o radials artificials.
 
 ### Figura 21.5 — Tiges, fulles i gramínies
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 21.6
 - **Ubicació editorial F10:** 21.6.
@@ -371,6 +405,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Diferenciar direcció, alçada i agrupació; adaptar la simplificació a escala.
 
 ### Figura 21.6 — Formes de molsa
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 21.7
 - **Ubicació editorial F10:** 21.7.
@@ -381,6 +416,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Mostrar relleu i densitat; no representar molsa com una taca verda uniforme.
 
 ### Figura 21.7 — Formes de líquens
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 21.8
 - **Ubicació editorial F10:** 21.8.
@@ -393,6 +429,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 ## Capítol 22
 
 ### Figura 22.1 — Gra del cuir
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 22.1
 - **Ubicació editorial F10:** 22.1–22.2.
@@ -403,6 +440,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Simplificar porus i irregularitats a escala; no dibuixar cada porus.
 
 ### Figura 22.2 — Cuir natural, corregit, ante i nobuk, amb detall comparatiu
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 22.2, 22.5
 - **Ubicació editorial F10:** 22.2, amb ampliació específica de l'ante i el nobuk; remissió a 22.6 quan calgui.
@@ -414,6 +452,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** una sola composició. La distinció ante/nobuk és orientativa i depèn del producte; evitar reflexos brillants en superfícies afelpades i no basar la diferència només en el color.
 
 ### Figura 22.3 — Construcció de cuir natural
+- **Categoria d'evidència:** E1 — seqüència proposada no assajada.
 
 - **Identificadors P1 d'origen:** 22.4
 - **Ubicació editorial F10:** 22.4.
@@ -424,6 +463,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Adaptar a geometria i gruix; les receptes són propostes no assajades.
 
 ### Figura 22.4 — Plecs i deformacions
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 22.6
 - **Ubicació editorial F10:** 22.9.
@@ -434,6 +474,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Ubicació corregida; respectar gruix, flexibilitat i punts de subjecció.
 
 ### Figura 22.5 — Cantells, gruix i costures
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 22.7
 - **Ubicació editorial F10:** 22.9.
@@ -444,6 +485,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Ubicació corregida; no confondre costura decorativa amb estructura del material.
 
 ### Figura 22.6 — Errors freqüents
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 22.9
 - **Ubicació editorial F10:** apartat de control i errors del C22.
@@ -456,6 +498,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 ## Capítol 23
 
 ### Figura 23.1 — Tafetà, sarja i setí
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 23.1
 - **Ubicació editorial F10:** 23.2.
@@ -466,6 +509,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Diferenciar estructura i acabat; no representar el vellut com una estructura equivalent.
 
 ### Figura 23.2 — Famílies de teixits
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 23.2
 - **Ubicació editorial F10:** 23.1–23.2.
@@ -476,6 +520,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Les associacions són orientatives; no atribuir una aparença única a cada fibra.
 
 ### Figura 23.3 — Construcció cromàtica de teixits clars
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 23.3
 - **Ubicació editorial F10:** 23.4.
@@ -486,6 +531,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** No convertir la superfície en blanc uniforme; preservar volum i variacions.
 
 ### Figura 23.4 — Teixits gruixuts i de pèl
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 23.5
 - **Ubicació editorial F10:** 23.5.
@@ -496,6 +542,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Evitar punts o línies decoratives excessives; escala i estructura han de governar el detall.
 
 ### Figura 23.5 — Plecs i punts de tensió
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 23.6
 - **Ubicació editorial F10:** 23.9.1–23.9.2.
@@ -506,6 +553,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Ubicació corregida; no representar plecs com a línies arbitràries ni ignorar gravetat i subjecció.
 
 ### Figura 23.6 — Errors freqüents
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 23.8
 - **Ubicació editorial F10:** 23.9.4.
@@ -518,6 +566,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 ## Capítol 24
 
 ### Figura 24.1 — Pigmentacions clares, intermèdies i profundes
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 24.2
 - **Ubicació editorial F10:** 24.2 i 24.4–24.5.
@@ -528,6 +577,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Categories orientatives, no grups biològics tancats ni temperatures cromàtiques fixes.
 
 ### Figura 24.2 — Mapa cromàtic del rostre
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 24.3
 - **Ubicació editorial F10:** 24.7.
@@ -538,6 +588,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** No és universal; dependrà de la referència, la pigmentació i la il·luminació.
 
 ### Figura 24.3 — Construcció de pell clara
+- **Categoria d'evidència:** E1 — seqüència proposada no assajada.
 
 - **Identificadors P1 d'origen:** 24.4
 - **Ubicació editorial F10:** 24.4.
@@ -548,6 +599,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** Respectar les receptes del capítol; no reduir la pell a blanc, rosa i beix.
 
 ### Figura 24.4 — Construcció de pell profunda
+- **Categoria d'evidència:** E1 — seqüència proposada no assajada.
 
 - **Identificadors P1 d'origen:** 24.5
 - **Ubicació editorial F10:** 24.5.
@@ -558,6 +610,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** No aplicar aclarits desaturats generalitzats ni neutralitzar la base.
 
 ### Figura 24.5 — Masses musculars i diferenciació dels teixits orgànics
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 24.7, 24.8
 - **Ubicació editorial F10:** 24.8.
@@ -569,6 +622,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** preservar la distinció entre els dos continguts; anatomia general fiable, sense convertir la làmina en una il·lustració mèdica ni afegir estructures no sustentades. Si la composició no és llegible en dos panells, separar-la de nou en maquetació.
 
 ### Figura 24.6 — Errors freqüents
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 24.9
 - **Ubicació editorial F10:** 24.9.3.

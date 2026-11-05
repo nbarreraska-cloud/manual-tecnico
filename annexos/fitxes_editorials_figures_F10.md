@@ -926,12 +926,6 @@ Les fitxes següents normalitzen en català les 58 propostes addicionals de la t
 - **Representació:** Seqüència de base, variacions, ombres, llums, cantells i marques d'ús.
 - **Condicions i límits:** Adaptar a geometria i gruix; les receptes són propostes no assajades.
 
-#### 22.5 — Ante i nobuk
-- **Ubicació:** 22.2 i 22.6.
-- **Llegenda de treball:** «Ante i nobuk: Comparació de superfície fibrosa de l'ante i lectura de gra més perceptible del nobuk.»
-- **Representació:** Comparació de superfície fibrosa de l'ante i lectura de gra més perceptible del nobuk.
-- **Condicions i límits:** Evitar reflexos brillants i no convertir la distinció orientativa en regla absoluta.
-
 #### 22.6 — Plecs i deformacions
 - **Ubicació:** 22.9.
 - **Llegenda de treball:** «Plecs i deformacions: Detalls de plecs, compressions, tensions i deformacions.»

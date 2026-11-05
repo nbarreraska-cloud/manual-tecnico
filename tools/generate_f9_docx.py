@@ -297,130 +297,126 @@ def add_bookmark(paragraph, bookmark):
     paragraph._p.insert(1 if pPr is not None else 0, start)
     paragraph._p.append(end)
 
-def add_card_content(table, data):
-    row = table.rows[0]
-    row.height = Cm(11.55)
-    row.height_rule = 1
-    row._tr.get_or_add_trPr().append(OxmlElement("w:cantSplit"))
-    left, right = row.cells
-    left.width = Cm(6.0)
-    right.width = Cm(10.9)
-    for cell in (left, right):
-        cell.vertical_alignment = WD_CELL_VERTICAL_ALIGNMENT.CENTER
-        set_cell_margins(cell, top=150, start=170, bottom=150, end=170)
-        shade_cell(cell, "F3F6F8")
+def add_card_content(cell, data):
+    cell.vertical_alignment = WD_CELL_VERTICAL_ALIGNMENT.TOP
+    set_cell_margins(cell, top=105, start=125, bottom=95, end=125)
+    shade_cell(cell, "F5F7F9")
 
-    p = left.paragraphs[0]
-    p.paragraph_format.space_after = Pt(5)
+    def line(text, size=7.5, color=None, bold=False, italic=False, before=0, after=1.5):
+        p = cell.add_paragraph()
+        p.paragraph_format.space_before = Pt(before)
+        p.paragraph_format.space_after = Pt(after)
+        p.paragraph_format.line_spacing = 0.98
+        r = p.add_run(text)
+        r.font.name = "Aptos"
+        r.font.size = Pt(size)
+        r.bold = bold
+        r.italic = italic
+        if color:
+            r.font.color.rgb = RGBColor(*color)
+        return p
+
+    p = cell.paragraphs[0]
+    p.paragraph_format.space_after = Pt(1)
     p.paragraph_format.keep_with_next = True
     r = p.add_run(data["name"])
-    r.bold = True; r.font.name = "Aptos Display"; r.font.size = Pt(14)
-    r.font.color.rgb = RGBColor(35, 55, 76)
-    q = left.add_paragraph()
-    q.paragraph_format.space_after = Pt(7)
-    rr = q.add_run(data["code"])
-    rr.bold = True; rr.font.size = Pt(12); rr.font.color.rgb = RGBColor(75, 95, 115)
+    r.bold = True
+    r.font.name = "Aptos Display"
+    r.font.size = Pt(11.2)
+    r.font.color.rgb = RGBColor(31, 57, 78)
     add_bookmark(p, FICHE_BOOKMARKS[data["file"]])
 
-    def left_line(label, value, size=9):
-        q = left.add_paragraph()
-        q.paragraph_format.space_after = Pt(4)
-        q.paragraph_format.line_spacing = 1.02
-        a = q.add_run(label + " "); a.bold = True; a.font.size = Pt(size)
-        b = q.add_run(value); b.font.size = Pt(size)
+    p = line(data["code"], 9.2, (83, 105, 124), True, after=3)
+    line(f'{data["set"]}  ·  {data["family"]}', 7.2, (74, 88, 101), after=3)
 
-    left_line("Set", data["set"])
-    left_line("Família", data["family"])
     if data["alias"]:
-        left_line("Denominació", data["alias"], 8.2)
-    if data["family_note"]:
-        q = left.add_paragraph()
-        q.paragraph_format.space_before = Pt(4)
-        q.paragraph_format.space_after = Pt(0)
-        a = q.add_run("DADA DE GAMMA\n")
-        a.bold = True; a.font.size = Pt(8)
-        b = q.add_run(data["family_note"])
-        b.font.size = Pt(8.4)
+        line("Nom d'inventari: " + data["alias"], 7.0, (90, 98, 106), after=2)
 
-    p = right.paragraphs[0]
-    p.paragraph_format.space_after = Pt(6)
-    rr = p.add_run("PRESÈNCIA AL MANUAL")
-    rr.bold = True; rr.font.size = Pt(10); rr.font.color.rgb = RGBColor(35, 55, 76)
+    note = data["family_note"] or (
+        "La documentació consultada identifica la gamma Model Color, "
+        "però no aporta propietats individuals comparables de cobertura, "
+        "opacitat, acabat o assecat per a aquesta referència."
+    )
+    line("CARACTERÍSTIQUES DE LA GAMMA", 7.1, (35, 83, 130), True, before=2, after=0.5)
+    line(note, 7.35, (45, 54, 63), after=3)
+
+    line("PRESÈNCIA AL MANUAL", 7.1, (35, 83, 130), True, before=1, after=0.5)
     if data["uses"]:
         for chapter, description, contextual in data["uses"]:
-            q = right.add_paragraph()
-            q.paragraph_format.left_indent = Cm(0.2)
-            q.paragraph_format.first_line_indent = Cm(-0.2)
-            q.paragraph_format.space_after = Pt(3)
-            q.paragraph_format.line_spacing = 1.02
-            rr = q.add_run(f"C{chapter}  ")
-            rr.bold = True; rr.font.size = Pt(9)
-            rr = q.add_run(description + (" · menció contextual" if contextual else ""))
-            rr.font.size = Pt(9)
+            p = cell.add_paragraph()
+            p.paragraph_format.left_indent = Cm(0.05)
+            p.paragraph_format.space_after = Pt(0.5)
+            p.paragraph_format.line_spacing = 0.95
+            a = p.add_run(f"C{chapter}  ")
+            a.bold = True
+            a.font.size = Pt(7.0)
+            a.font.color.rgb = RGBColor(35, 83, 130)
+            b = p.add_run(description + (" · contextual" if contextual else ""))
+            b.font.size = Pt(7.0)
     elif data["no_rows"]:
-        q = right.add_paragraph("No s'ha identificat cap fila de recepta als capítols 19–34; això no exclou mencions al text corrent.")
-        q.paragraph_format.space_after = Pt(4)
-        for rr in q.runs: rr.font.size = Pt(9)
+        line("Sense fila de recepta identificada als capítols 19–34.", 7.0, (75, 82, 89))
     else:
-        q = right.add_paragraph("No hi ha cap aparició concreta consignada a la fitxa font.")
-        for rr in q.runs: rr.font.size = Pt(9)
-    q = right.add_paragraph()
-    q.paragraph_format.space_before = Pt(5)
-    rr = q.add_run("Fitxa documental · sense prova física individual registrada")
-    rr.italic = True; rr.font.size = Pt(8); rr.font.color.rgb = RGBColor(95, 105, 115)
+        line("Sense aparició concreta consignada a la fitxa font.", 7.0, (75, 82, 89))
+
 
 def add_annex_f(doc, index_text):
     p = doc.add_heading("ANNEX F. FITXES DE CONSULTA DE LES 48 PINTURES", level=1)
     p.paragraph_format.page_break_before = True
     intro = [
-        ("Finalitat", "Consulta sintètica de les 48 referències dels quatre sets Squidmar × Vallejo. Cada fitxa recull identificació, família comercial i aparicions documentades als capítols del manual."),
-        ("Lectura de les dades", "Les descripcions del fabricant corresponen a famílies comercials, no a mesures de cada pintura. Les mostres de carta són orientatives. No s'han realitzat proves físiques comparables ni s'atribueixen valors instrumentals individuals."),
-        ("Traçabilitat", "Es conserven les denominacions de l'inventari quan difereixen de la carta actual. Les files de recepta es distingeixen de les mencions contextuals. Una funció consignada no equival a validació experimental ni implica ús exclusiu."),
-        ("Fonts", "Vallejo Catalogue 2026; documentació oficial de Game Color (incloses les famílies Ink, Metallic i Fluo) i pàgina oficial de Xpress Color. Les referències particulars es conserven als registres de fitxa i als capítols citats.")
+        ("Finalitat", "Consulta sintètica de les 48 referències dels quatre conjunts Squidmar × Vallejo. Cada fitxa reuneix identificació, família comercial, característiques de gamma documentades i presència al manual."),
+        ("Lectura tècnica", "Les propietats descrites són declaracions del fabricant sobre la família comercial, no mesures individuals de cada color. Quan no hi ha informació específica, no s'infereixen valors de cobertura, opacitat, transparència, viscositat o assecat."),
+        ("Traçabilitat", "Es mantenen els noms de l'inventari quan difereixen de la denominació comercial. Les funcions recollides provenen de les taules o mencions dels capítols; descriuen l'ús previst al manual, no una validació experimental."),
+        ("Fonts", "Catàleg Vallejo 2026 i documentació oficial de les famílies Game Color, Game Color Ink, Metallic, Fluo i Xpress Color. Les fonts particulars es mantenen a les fitxes Markdown del repositori.")
     ]
     for label, value in intro:
         q = doc.add_paragraph()
-        q.paragraph_format.space_after = Pt(3)
-        a = q.add_run(label + ". "); a.bold = True; a.font.size = Pt(8.5)
-        b = q.add_run(value); b.font.size = Pt(8.5)
+        q.paragraph_format.space_after = Pt(2)
+        q.paragraph_format.line_spacing = 1.0
+        a = q.add_run(label + ". ")
+        a.bold = True
+        a.font.size = Pt(8)
+        b = q.add_run(value)
+        b.font.size = Pt(8)
     q = doc.add_paragraph()
-    q.paragraph_format.space_after = Pt(5)
-    rr = q.add_run("Aquestes fitxes són una síntesi documental regenerada a partir de l'inventari i les fonts disponibles; no reprodueixen assajos de laboratori.")
-    rr.italic = True; rr.font.size = Pt(8)
+    q.paragraph_format.space_after = Pt(4)
+    rr = q.add_run("Les característiques de gamma no s'han de confondre amb propietats mesurades de cada referència.")
+    rr.italic = True
+    rr.font.size = Pt(7.6)
+    rr.font.color.rgb = RGBColor(95, 105, 115)
+
     groups = {}
     active = None
     for line_text in index_text.splitlines():
         m = re.match(r"^##\s+(Essential|Dark Future|Fantasy|Special FX)\s*$", line_text)
         if m:
-            active = m.group(1); groups[active] = []
+            active = m.group(1)
+            groups[active] = []
         elif active:
             m = re.search(r"\]\(([^)]+\.md)\)", line_text)
             if m:
                 groups[active].append(FICHE_DIR / m.group(1))
+
     for group_no, group_name in enumerate(("Essential", "Dark Future", "Fantasy", "Special FX")):
         paths = groups.get(group_name, [])
         if len(paths) != 12:
             raise SystemExit(f"Annex F group {group_name}: expected 12 fiches; found {len(paths)}")
-        if group_no:
+        for page_no in range(3):
             doc.add_page_break()
-        for page_no in range(6):
-            if page_no:
-                doc.add_page_break()
-            heading = doc.add_heading(group_name, level=2)
-            heading.paragraph_format.space_after = Pt(5)
-            batch = [parse_fiche(path) for path in paths[page_no*2:(page_no+1)*2]]
-            for data in batch:
-                table = doc.add_table(rows=1, cols=2)
-                table.alignment = WD_TABLE_ALIGNMENT.CENTER
-                table.autofit = False
-                set_table_borders(table, color="CBD5DE", size="8")
-                table.columns[0].width = Cm(6.0)
-                table.columns[1].width = Cm(10.9)
-                add_card_content(table, data)
-                spacer = doc.add_paragraph()
-                spacer.paragraph_format.space_after = Pt(0)
-                spacer.paragraph_format.line_spacing = 0.35
-                spacer.add_run(" ").font.size = Pt(2)
+            heading = doc.add_heading(f"{group_name.upper()}  ·  {page_no*4+1:02d}–{page_no*4+4:02d}", level=2)
+            heading.paragraph_format.space_after = Pt(4)
+            batch = [parse_fiche(path) for path in paths[page_no*4:(page_no+1)*4]]
+            grid = doc.add_table(rows=2, cols=2)
+            grid.alignment = WD_TABLE_ALIGNMENT.CENTER
+            grid.autofit = False
+            set_table_borders(grid, color="C8D3DD", size="8")
+            for row in grid.rows:
+                row.height = Cm(12.0)
+                row.height_rule = 1
+                row._tr.get_or_add_trPr().append(OxmlElement("w:cantSplit"))
+                for cell in row.cells:
+                    cell.width = Cm(8.65)
+            for idx, data in enumerate(batch):
+                add_card_content(grid.cell(idx // 2, idx % 2), data)
 
 def main():
     consolidated = CONSOLIDATED.read_text(encoding="utf-8")

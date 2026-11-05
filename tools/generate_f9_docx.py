@@ -299,14 +299,14 @@ def add_bookmark(paragraph, bookmark):
 
 def add_card_content(cell, data):
     cell.vertical_alignment = WD_CELL_VERTICAL_ALIGNMENT.TOP
-    set_cell_margins(cell, top=65, start=105, bottom=55, end=105)
+    set_cell_margins(cell, top=95, start=135, bottom=85, end=135)
     shade_cell(cell, "F7F9FB")
 
     def line(text, size=6.7, color=None, bold=False, italic=False, before=0, after=0.8):
         p = cell.add_paragraph()
         p.paragraph_format.space_before = Pt(before)
         p.paragraph_format.space_after = Pt(after)
-        p.paragraph_format.line_spacing = 0.94
+        p.paragraph_format.line_spacing = 1.02
         p.paragraph_format.widow_control = False
         r = p.add_run(text)
         r.font.name = "Aptos"
@@ -323,42 +323,42 @@ def add_card_content(cell, data):
     r = p.add_run(data["name"])
     r.bold = True
     r.font.name = "Aptos Display"
-    r.font.size = Pt(9.1)
+    r.font.size = Pt(10.4)
     r.font.color.rgb = RGBColor(27, 55, 78)
     add_bookmark(p, FICHE_BOOKMARKS[data["file"]])
 
-    line(data["code"], 7.5, (76, 99, 119), True, after=1.2)
-    line(f'{data["set"]}  ·  {data["family"]}', 6.35, (73, 86, 99), after=1.2)
+    line(data["code"], 8.4, (76, 99, 119), True, after=2.0)
+    line(f'{data["set"]}  ·  {data["family"]}', 7.2, (73, 86, 99), after=1.8)
 
     if data["alias"]:
-        line("Nom d'inventari: " + data["alias"], 6.2, (90, 98, 106), after=1)
+        line("Nom d'inventari: " + data["alias"], 7.1, (90, 98, 106), after=1.5)
 
     note = data["family_note"] or (
         "La documentació consultada identifica la gamma Model Color, "
         "però no aporta propietats individuals comparables per a aquesta referència."
     )
-    line("CARACTERÍSTIQUES DE LA GAMMA", 6.35, (35, 83, 130), True, before=1, after=0.2)
-    line(note, 6.55, (45, 54, 63), after=1.1)
+    line("CARACTERÍSTIQUES DE LA GAMMA", 7.2, (35, 83, 130), True, before=1.5, after=0.6)
+    line(note, 7.45, (45, 54, 63), after=1.8)
 
-    line("PRESÈNCIA AL MANUAL", 6.35, (35, 83, 130), True, before=0.4, after=0.2)
+    line("PRESÈNCIA AL MANUAL", 7.2, (35, 83, 130), True, before=1.2, after=0.6)
     if data["uses"]:
         for chapter, description, contextual in data["uses"]:
             p = cell.add_paragraph()
             p.paragraph_format.left_indent = Cm(0.04)
-            p.paragraph_format.space_after = Pt(0.15)
-            p.paragraph_format.line_spacing = 0.91
+            p.paragraph_format.space_after = Pt(0.65)
+            p.paragraph_format.line_spacing = 1.0
             p.paragraph_format.widow_control = False
             a = p.add_run(f"C{chapter}  ")
             a.bold = True
-            a.font.size = Pt(6.15)
+            a.font.size = Pt(7.25)
             a.font.color.rgb = RGBColor(35, 83, 130)
             b = p.add_run(description + (" · contextual" if contextual else ""))
             b.font.name = "Aptos"
-            b.font.size = Pt(6.15)
+            b.font.size = Pt(7.25)
     elif data["no_rows"]:
-        line("Sense fila de recepta identificada als capítols 19–34.", 6.2, (75, 82, 89))
+        line("Sense fila de recepta identificada als capítols 19–34.", 7.2, (75, 82, 89))
     else:
-        line("Sense aparició concreta consignada a la fitxa font.", 6.2, (75, 82, 89))
+        line("Sense aparició concreta consignada a la fitxa font.", 7.2, (75, 82, 89))
 
 
 def add_annex_f(doc, index_text):
@@ -415,7 +415,7 @@ def add_annex_f(doc, index_text):
             grid.autofit = False
             set_table_borders(grid, color="D5DEE6", size="6")
             for row in grid.rows:
-                row.height = Cm(7.55)
+                row.height = Cm(7.75)
                 row.height_rule = 1
                 row._tr.get_or_add_trPr().append(OxmlElement("w:cantSplit"))
                 for cell in row.cells:

@@ -12766,20 +12766,30 @@ Els reflexos no són línies decoratives: han d'explicar geometria. A escala pet
 
 ## 33.9. Errors freqüents i avaluació
 
-| Error | Correcció |
-|---|---|
-| Porcellana massa blanca | Introduir ombres i variacions sense perdre aparença clara. |
-| Ceràmica confosa amb pedra | Adaptar textura al cos ceràmic i diferenciar-la de granularitat mineral. |
-| Terracota massa taronja | Introduir marrons i vermells moderats; reservar càlids intensos. |
-| Esmalt brillant sense continuïtat | Organitzar reflexos segons geometria i jerarquia de llum i ombra. |
-| Craquelat massa regular | Variar direcció, longitud, separació i densitat. |
-| Plàstic massa metàl·lic | Controlar intensitat i extensió dels reflexos i conservar lectura no metàl·lica. |
-| Plàstic uniforme | Definir plans, ombres, relleus i detalls de fabricació. |
-| Textura incompatible | Seleccionar marques segons estructura i acabat. |
-| Desconxats sense relació amb estructura | Situar-los en zones plausibles i diferenciar recobriment i cos. |
-| Excés de detalls | Prioritzar trets principals i conservar lectura global. |
+| Error | Problema que produeix | Correcció |
+|---|---|---|
+| Porcellana excessivament blanca | Aplicar blanc pur a tota la peça elimina les diferències de volum i fa que la superfície sembli plana. | Introduir ombres i variacions tonals sense perdre l'aparença clara de la porcellana. |
+| Ceràmica confosa amb pedra | Una textura granular excessiva pot fer que una peça ceràmica sembli una roca. | Adaptar la textura al cos ceràmic i diferenciar-la de la granularitat mineral del capítol 26. |
+| Terracota massa ataronjada | Una saturació excessiva pot produir una aparença artificial. | Introduir tons marrons i rogencs més moderats i reservar els tons càlids intensos per a zones concretes. |
+| Esmalt brillant sense continuïtat superficial | Una distribució irregular dels reflexos pot fer que la superfície sembli una acumulació de taques blanques. | Organitzar els reflexos segons la geometria i mantenir una jerarquia clara entre llums i ombres. |
+| Craquelat excessivament regular | Les fissures repetitives, paral·leles o distribuïdes uniformement redueixen la credibilitat de l'esmalt. | Variar direcció, longitud, separació i densitat, mantenint una escala adequada. |
+| Plàstic excessivament metàl·lic | Els reflexos massa intensos i contrastats poden fer que una superfície plàstica sembli metàl·lica. | Controlar la intensitat i l'extensió dels reflexos i conservar la lectura de material no metàl·lic. |
+| Plàstic massa uniforme | Una superfície completament plana i sense variacions pot perdre la lectura del volum. | Definir canvis de pla, ombres, relleus i detalls de fabricació. |
+| Textura incompatible amb el material | Aplicar la mateixa textura a ceràmica, porcellana i plàstic elimina les diferències visuals entre aquests materials. | Seleccionar les marques i els patrons segons l'estructura i l'acabat de cada superfície. |
+| Desconxats sense relació amb l'estructura | Els desconxats distribuïts aleatòriament poden semblar taques decoratives. | Situar-los en zones plausibles de contacte, impacte o desgast i mostrar la diferència entre recobriment i cos. |
+| Excés de detalls | L'acumulació de fissures, taques, reflexos i marques pot ocultar la forma principal. | Prioritzar els trets més importants i mantenir una jerarquia visual. |
 
-La representació és satisfactòria quan el material es reconeix, textura i acabat corresponen a l'objectiu, llums i ombres respecten geometria, reflexos no contradiuen el material, decoració i marques s'integren i les irregularitats són proporcionades. Finalitzar quan material i acabat són llegibles; no afegir variacions innecessàries.
+**Criteris d'avaluació**
+
+La representació pot considerar-se satisfactòria quan:
+- El material es reconeix per una combinació coherent de senyals visuals.
+- La superfície presenta una textura adequada.
+- L'acabat correspon a l'objectiu representat.
+- Les llums i les ombres respecten la geometria.
+- Els reflexos no contradiuen l'aparença del material.
+- Els detalls decoratius i de fabricació s'integren en la forma.
+- Les irregularitats són proporcionades a l'escala.
+- La peça conserva una lectura global clara.
 
 ## 33.10. Exercicis pràctics
 
@@ -12809,9 +12819,21 @@ La representació és satisfactòria quan el material es reconeix, textura i aca
 
 Les fonts tècniques fonamenten diferències generals entre cossos ceràmics, esmalts, porcellana i plàstics i la diversitat d'acabats. No validen les receptes cromàtiques proposades amb les pintures Squidmar × Vallejo, que continuen pendents de comprovació física.
 
+## Propostes de figures per a MG
 
+Les deu figures següents queden reservades per a la fase gràfica final. No s'han de generar ni inserir durant aquesta etapa.
+
+1. **Comparació de cossos ceràmics.** Mostrar tres cossos diferenciats per estructura i aparença: ceràmica porosa, ceràmica compacta i porcellana. La finalitat és distingir el cos del material sense utilitzar la brillantor com a únic criteri.
+2. **Ceràmica sense esmaltar i superfícies esmaltades.** Comparar una superfície ceràmica sense recobriment amb diverses superfícies esmaltades. Mostrar com el recobriment modifica la continuïtat, la textura i l'aparença general de la peça.
+3. **Acabats ceràmics.** Presentar una mateixa geometria amb acabats mat, setinat i brillant. Diferenciar l'aparença de l'esmalt i el comportament visual dels reflexos, sense desenvolupar procediments d'envernissament.
+4. **Porcellana blanca i marfil.** Comparar dues superfícies de porcellana amb bases cromàtiques diferents. Mostrar com les ombres i les variacions tonals conserven el volum sense convertir les peces en superfícies uniformement blanques o grogues.
+5. **Construcció d'una superfície de terracota.** Mostrar una seqüència de base, variacions rogenques, ombres i aclarits. Explicar la construcció cromàtica d'una superfície ceràmica càlida, no una textura pètria.
+6. **Construcció d'un esmalt acolorit.** Representar una superfície esmaltada blava, verda o roja, mostrant la construcció cromàtica i l'organització dels reflexos. Diferenciar el color de l'esmalt del seu acabat superficial.
+7. **Craquelat i pèrdua localitzada de l'esmalt.** Comparar una superfície esmaltada intacta, una amb craquelat i una altra amb pèrdua localitzada del recobriment. Distingir les fissures superficials de les fractures del cos ceràmic.
+8. **Famílies visuals de materials plàstics.** Mostrar superfícies plàstiques llises, texturitzades, mates i brillants. Destacar la diversitat d'aparences dels plàstics i evitar que s'interpretin com un material visualment uniforme.
+9. **Reflexos sobre superfícies plàstiques.** Comparar la distribució dels reflexos en superfícies planes, corbes i amb relleus emmotllats. Mostrar com la geometria condiciona l'aparença de l'acabat.
+10. **Comparació final de materials i errors freqüents.** Presentar ceràmica, porcellana i plàstic en una mateixa composició. Incloure errors representatius: porcellana massa blanca, ceràmica confosa amb pedra, esmalt sense continuïtat superficial, plàstic excessivament metàl·lic i textures incompatibles.
 ---
-
 # 34. VIDRE I SUPERFÍCIES TRANSPARENTS
 
 ## 34.1. Abast i criteri de representació

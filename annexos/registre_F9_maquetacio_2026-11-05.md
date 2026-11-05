@@ -2,7 +2,7 @@
 
 **Branca:** intervencion-editorial-2026-11  
 **Fase:** F9 — primera maquetació Word completa, sense imatges.  
-**Estat:** primera generació completa produïda; revisió editorial final encara pendent.
+**Estat:** F9 tancada — maquetació textual completa, validada i registrada el 05/11/2026.
 
 ## Abast congelat
 
@@ -106,3 +106,16 @@ La comprovació textual de la tercera generació és satisfactòria, però la pr
 S'ha tornat a escanejar el PDF de comprovació de 352 pàgines A4: no hi ha pàgines sense contingut o pràcticament buides; el cos comença a la pàgina 13 i l'índex ocupa les pàgines 2–12. S'han generat fulls de contacte de totes les 352 pàgines per inspecció visual global, a més de la inspecció de pàgines representatives ja registrada. Les taules apareixen integrades al flux de lectura i no s'observen pàgines desplaçades o en blanc en la visió general.
 
 Aquesta inspecció global no substitueix una lectura ampliada de cada taula ni garanteix que cada divisió de taula entre pàgines sigui editorialment òptima. La verificació de fitxes de l'Annex F i la comprovació final de capçaleres/peus continuen formant part del tancament.
+
+
+## Tancament formal F9 — 05/11/2026
+
+- Auditoria reforçada final: execució GitHub Actions `42079639659`, conclusió `success`; 55 fitxers font, 174.623 paraules font i 174.682 paraules al DOCX. La comprovació exigeix ara multiplicitat suficient de cada token i preservació de l'ordre de totes les paraules font.
+- Generació final de la branca: correcta; 39 capítols, 5 annexos A–E i 48 fitxes amb set seccions cadascuna. L'Annex F integra les 48 fitxes en quatre grups comercials.
+- Composició: 352 pàgines A4 a la versió de comprovació amb índex actualitzat; índex a les pàgines 2–12 i cos des de la 13. Escaneig textual de totes les pàgines: cap pàgina en blanc o pràcticament buida.
+- Revisió visual: inspecció de fulls de contacte de les 352 pàgines i mostres ampliades representatives; sense anomalies globals de composició detectades. Es mantenen els límits indicats a l'especificació: no és una correcció tipogràfica manual de cada cel·la i la paginació s'haurà de recalcular quan s'afegeixin imatges.
+- Estructura del DOCX validat: 159 taules, 39 capítols, annexos A–F, 48 títols de fitxa, 336 encapçalaments de secció i cap paràgraf amb estil automàtic `List Number`.
+- Artefacte GitHub Actions de la darrera generació: `Manual-tecnic-pintura-miniatures-F9`, ID `13438624073`, associat a l'execució `42079639659`.
+- Branca de treball actualitzada sense alterar `main`; `main` continua a `a4ce8192e30178b0171ea02a3af230b60efd3768`.
+
+**Conclusió:** F9 queda tancada en el seu abast aprovat de maquetació textual sense imatges. No s'ha iniciat F10.

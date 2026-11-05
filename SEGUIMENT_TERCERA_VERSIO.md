@@ -875,15 +875,17 @@ Aquesta secció és la referència operativa més recent i preval sobre les inst
 
 S'ha creat a l'arrel del repositori el fitxer `TERCERA_SINTESI_CONSOLIDADA_C01-C39.md`. Reuneix els 39 fitxers Markdown vigents en ordre numèric i exclou els annexos A–E. Inclou una capçalera d'identificació i separadors entre els fitxers d'origen; no s'ha reescrit ni resumit el contingut dels capítols.
 
-La integritat de la compilació s'ha verificat recuperant de nou els 39 fitxers font i comprovant que el contingut de cadascun hi és present íntegrament (39/39). El document resultant té 923.439 caràcters i 39 encapçalaments principals de capítol. Aquesta és una compilació documental de treball sincronitzada amb els 39 Markdown vigents; qualsevol modificació posterior d'un capítol s'haurà de reflectir també en aquesta compilació.
+La integritat de la compilació s'ha verificat recuperant de nou els 39 fitxers font i comprovant que el contingut de cadascun hi és present íntegrament (39/39). El document resultant té 923.436 caràcters i 39 encapçalaments principals de capítol. Aquesta és una compilació documental de treball sincronitzada amb els 39 Markdown vigents; qualsevol modificació posterior d'un capítol s'haurà de reflectir també en aquesta compilació.
 
 ### Ordre operatiu vigent
 
-1. Conciliar el Registre Mestre i el Seguiment amb els estats reals de les auditories, retirant les instruccions històriques que ja no siguin vigents.
-2. F4 està tancada amb limitacions documentals explícites. La prioritat passa a la conciliació final de F2 (matriu, versions i anotacions històriques) i, un cop estabilitzada la compilació C1–C39, a F5: regeneració i revisió dels annexos A–E. F7 (gràfica i maquetació) continua pendent.
-3. Sincronitzar i tornar a verificar la compilació consolidada si F4 produeix canvis als capítols.
-4. Només després de l'estabilització dels 39 capítols, iniciar F5 (annexos A–E).
-5. Abordar F7 (gràfica i maquetació Word) després dels annexos.
+1. Completar la conciliació final de F2 entre la matriu del Registre Mestre, els 39 Markdown, la compilació consolidada i els commits; retirar les instruccions històriques que ja no siguin vigents.
+2. F4 i F6 estan tancades amb els límits documentals registrats. No repetir les auditories completades ni reobrir capítols sense una incidència substancial.
+3. Mantenir explícits els límits de font de C11 i C14–C18, i els límits de revisió de C30–C32 i C36.
+4. Confirmar que la compilació C1–C39 continua sincronitzada amb els 39 Markdown després de la normalització terminològica de C26.
+5. Un cop completada F2 i estabilitzada la compilació, iniciar F5: regeneració i auditoria dels annexos A–E.
+6. Abordar F7 (producció gràfica i maquetació Word) després dels annexos, comprovant la paginació real i preservant el contingut tècnic.
+
 
 La branca de treball continua sent `intervencion-editorial-2026-11`; `main` no s'ha de modificar. La validació documental, la coherència interna i l'assaig experimental de receptes continuen sent nivells diferenciats.
 

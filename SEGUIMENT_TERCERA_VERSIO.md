@@ -83,6 +83,15 @@ Cal recuperar procediments, explicacions tècniques, fonaments, advertiments, de
 - Recuperada la síntesi conceptual del capítol.
 - Ajustada la numeració dels apartats per mantenir una seqüència contínua després de la integració dels continguts conceptuals.
 
+### Capítol 10 — Veladures i glassejats
+
+- Reorganitzats els fonaments per distingir definició de veladura, glassejat, transparència del producte i efecte de la pel·lícula aplicada.
+- Desenvolupades les sis funcions originals: modificació del matís, del croma i del valor, unificació, integració de transicions i correcció localitzada.
+- Recuperats els quatre blocs de preparació: selecció de pintura, ús d'aigua i mitjans, preparació de la mescla i estat de la superfície.
+- Restituïda la seqüència d'aplicació en sis fases, incloent-hi prova prèvia, càrrega, distribució, assecat i avaluació.
+- Desenvolupades les variants d'aplicació, els cinc controls tècnics i els set errors amb causes i criteris de correcció.
+- Recuperats els sis exercicis amb materials, procediments i criteris d'avaluació, i la síntesi del capítol.
+
 ## Tasques pendents
 
 1. Validar la integritat textual i estructural dels capítols 4 i 5 després de les recuperacions.

@@ -260,7 +260,7 @@ def main():
         match = re.match(r'^#\\s+(0?[1-9]|[1-3][0-9])\\.\\s+', chapter_lines[st])
         chapter_number = int(match.group(1))
         if chapter_number in part_map:
-            doc.add_section(WD_SECTION.NEW_PAGE)
+            doc.add_section(WD_SECTION.CONTINUOUS if chapter_number == 1 else WD_SECTION.NEW_PAGE)
             marker = doc.add_paragraph(style="Part Marker")
             marker.add_run(part_map[chapter_number])
             first_heading_break = False

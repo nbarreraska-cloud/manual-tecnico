@@ -641,10 +641,8 @@ Les 58 propostes P1 d'aquesta tanda ja disposen de coteig lector al registre F10
 
 | Proposta | Ubicació | Format i contingut | Condicions de producció |
 |---|---|---|---|
-| 20.1 — Direcció de fibres, vetes, nusos i anells | 20.1–20.2 | Comparació de patrons longitudinals, transversals i de tall, amb direcció de fibra, vetes i nusos. | Integrar 20.2 com a panell de la mateixa làmina; no duplicar una figura autònoma. |
-| 20.2 — Patrons segons el tall | 20.2 | Panell integrat a 20.1 amb secció i orientació dels anells. | **Fusió recomanada amb 20.1**, no una segona figura independent. |
-| 20.4 — Construcció de vetes | 20.8.1 | Seqüència de base, variacions, vetes longitudinals, discontinuïtats i recuperació de llum. | Respectar direcció, longitud, amplada i jerarquia; adaptar el detall a escala i curvatura. |
-| 20.5 — Nus i desviació de fibres | 20.8.2 | Detall ampliat d'un nus amb desviació i continuïtat de les vetes. | No representar el nus com un cercle independent; les fibres han de girar al seu voltant. |
+| 20.1 + 20.2 — Direcció de fibres, vetes, nusos, anells i patrons segons el tall | 20.1–20.2 | Làmina composta de patrons longitudinals i transversals, direcció de fibres, nusos i orientació dels anells segons el tall. | Una sola composició; 20.2 és un panell integrat, no una figura independent. |
+| 20.4 + 20.5 — Construcció de vetes i desviació de fibres al voltant d'un nus | 20.8.1–20.8.2 | Seqüència de base, variacions, vetes principals/secundàries i integració d'un nus que modifica la direcció de les fibres. | Una composició seqüencial; el nus no és un cercle aïllat i les fibres han de mantenir continuïtat. |
 | 20.7 — Adaptació a geometries | 20.9.2 | Comparació de vetes sobre tauler, cilindre, peça corba i element irregular. | Ubicació corregida; mantenir continuïtat de patró segons la forma del suport. |
 | 20.8 — Fusta natural, envellida, desgastada i humida | 20.7.1–20.7.4 | Quatre panells d'estat superficial sobre una mateixa família de fusta. | Diferenciar color, textura, lluentor i alteració; no reduir els estats a canvis de to. |
 | 20.9 — Errors i correccions | 20.9.3 | Làmina diagnòstica de vetes massa regulars, escala incorrecta, patró desalineat i manca de continuïtat. | Cada correcció ha de correspondre a l'error descrit al capítol. |
@@ -699,12 +697,13 @@ Les 58 propostes P1 d'aquesta tanda ja disposen de coteig lector al registre F10
 ### 8.1. Composició i fusions pendents de resoldre
 
 - **20.1 + 20.2:** una sola làmina de patrons de fusta; 20.2 passa a ser panell intern.
+- **20.4 + 20.5:** una sola seqüència integrada de construcció de vetes i desviació de fibres al voltant d'un nus.
 - Les altres propostes d'aquesta tanda es mantenen com a candidates independents en aquesta fase, però poden compartir làmina si la composició final millora la lectura sense eliminar informació.
 - **C15.6:** decidir si la comparació s'insereix a 15.4 o 15.8 segons el flux final de la pàgina.
 - **C17.7/17.8/17.10:** mantenir la numeració de proposta només com a traçabilitat; aplicar les ubicacions corregides del registre.
 - **C24.7 + 24.8:** poden formar una làmina anatòmica coordinada de masses i tipus de teixit, però no s'han de fusionar si això redueix la llegibilitat o suggereix una anatomia incorrecta.
 
-**Resultat d'aquesta tanda:** 58 identificadors P1 de C15–C24 convertits en especificacions preliminars, amb la fusió interna 20.2→20.1 indicada. Encara no és una llista definitiva de figures: cal normalitzar els textos originals, validar les llegendes i assignar la numeració editorial després de resoldre les fusions.
+**Resultat d'aquesta tanda:** 58 identificadors P1 de C15–C24 convertits en especificacions preliminars i 56 composicions de treball després de fusionar 20.1+20.2 i 20.4+20.5. Encara no és una llista definitiva de figures: cal normalitzar els textos originals, validar les llegendes i assignar la numeració editorial després de resoldre les fusions.
 
 
 ## 9. C30–C39 — Especificacions preliminars de producció

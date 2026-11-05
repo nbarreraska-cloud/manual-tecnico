@@ -5,6 +5,7 @@ import re
 from docx import Document
 from docx.shared import Cm, Pt, RGBColor
 from docx.enum.text import WD_ALIGN_PARAGRAPH
+from docx.enum.section import WD_SECTION
 from docx.enum.table import WD_TABLE_ALIGNMENT, WD_CELL_VERTICAL_ALIGNMENT
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
@@ -238,28 +239,44 @@ def main():
     if start is None:
         raise SystemExit("Chapter 1 heading not found")
     chapter_lines = lines[start:]
-    starts = [i for i, line in enumerate(chapter_lines) if re.match(r'^#\s+(?:0?[1-9]|[1-3][0-9])\.\s+', line)]
+    starts = [i for i, line in enumerate(chapter_lines) if re.match(r'^#\\s+(?:0?[1-9]|[1-3][0-9])\\.\\s+', line)]
+    part_map = {
+        1: "PART I · FONAMENTS",
+        7: "PART II · TÈCNIQUES I PROCEDIMENTS",
+        19: "PART III · RECEPTARI DE MATERIALS I EFECTES",
+        35: "PART IV · ACABATS I CORRECCIÓ",
+    }
+    part_style = doc.styles.add_style("Part Marker", 1)
+    part_style.font.name = "Aptos Display"
+    part_style.font.size = Pt(9)
+    part_style.font.bold = True
+    part_style.font.color.rgb = RGBColor(80, 95, 110)
+    part_style.paragraph_format.space_before = Pt(2)
+    part_style.paragraph_format.space_after = Pt(3)
+    part_style.paragraph_format.keep_with_next = True
+
     for n, st in enumerate(starts):
         en = starts[n+1] if n+1 < len(starts) else len(chapter_lines)
-        add_markdown_block(doc, chapter_lines[st:en], compact=False, first_heading_level=1, page_break_before_first_heading=(n > 0))
+        match = re.match(r'^#\\s+(0?[1-9]|[1-3][0-9])\\.\\s+', chapter_lines[st])
+        chapter_number = int(match.group(1))
+        if chapter_number in part_map:
+            doc.add_section(WD_SECTION.NEW_PAGE)
+            marker = doc.add_paragraph(style="Part Marker")
+            marker.add_run(part_map[chapter_number])
+            first_heading_break = False
+        else:
+            first_heading_break = (n > 0)
+        add_markdown_block(doc, chapter_lines[st:en], compact=False, first_heading_level=1, page_break_before_first_heading=first_heading_break)
 
-    for path in annex_paths:
-        add_markdown_block(doc, path.read_text(encoding="utf-8").splitlines(), compact=False, first_heading_level=1, page_break_before_first_heading=True)
+    # Part V begins with Annex A and continues through Annex F.
+    doc.add_section(WD_SECTION.NEW_PAGE)
+    marker = doc.add_paragraph(style="Part Marker")
+    marker.add_run("PART V · ANNEXOS I EINES DE CONSULTA")
+    for annex_index, path in enumerate(annex_paths):
+        add_markdown_block(doc, path.read_text(encoding="utf-8").splitlines(), compact=False, first_heading_level=1, page_break_before_first_heading=(annex_index > 0))
 
     p = doc.add_heading("ANNEX F. FITXES INDIVIDUALS DE LES 48 PINTURES", level=1)
     p.paragraph_format.page_break_before = True
-    idx_lines = index.splitlines()
-    intro_end = next((i for i, line in enumerate(idx_lines) if line.startswith("## Essential")), len(idx_lines))
-    add_markdown_block(doc, idx_lines[:intro_end], compact=True, first_heading_level=1)
-    current_group = None
-    for path in fiche_paths:
-        fiche_text = path.read_text(encoding="utf-8")
-        group_match = re.search(r'\|\s*Conjunt Squidmar\s*[×x]\s*Vallejo\s*\|\s*\*{0,2}(.*?)\*{0,2}\s*\(', fiche_text)
-        group_name = group_match.group(1).strip() if group_match else None
-        if group_name and group_name != current_group:
-            doc.add_heading(group_name, level=2)
-            current_group = group_name
-        add_markdown_block(doc, fiche_text.splitlines(), compact=True, first_heading_level=1)
 
     # Ask Word to refresh the automatic table of contents when the file is opened.
     settings = doc.settings.element
@@ -267,10 +284,21 @@ def main():
     update_fields.set(qn("w:val"), "true")
     settings.append(update_fields)
 
-    for section in doc.sections:
+    # Each part has its own page header; page numbering remains continuous.
+    header_labels = [
+        "MANUAL TÈCNIC DE PINTURA DE MINIATURES",
+        "PART I · FONAMENTS",
+        "PART II · TÈCNIQUES I PROCEDIMENTS",
+        "PART III · RECEPTARI DE MATERIALS I EFECTES",
+        "PART IV · ACABATS I CORRECCIÓ",
+        "PART V · ANNEXOS I EINES DE CONSULTA",
+    ]
+    for section_index, section in enumerate(doc.sections):
+        section.header.is_linked_to_previous = False
+        section.footer.is_linked_to_previous = False
         header = section.header.paragraphs[0]
         header.alignment = WD_ALIGN_PARAGRAPH.RIGHT
-        rr = header.add_run("MANUAL TÈCNIC DE PINTURA DE MINIATURES")
+        rr = header.add_run(header_labels[min(section_index, len(header_labels)-1)])
         rr.font.size = Pt(7); rr.font.color.rgb = RGBColor(110, 110, 110)
         footer = section.footer.paragraphs[0]
         footer.alignment = WD_ALIGN_PARAGRAPH.CENTER

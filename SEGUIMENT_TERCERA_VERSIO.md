@@ -658,7 +658,7 @@ La prioritat immediata de F4 passa als capítols 12 i 13. C28–C29 tenen comple
 
 - **C12:** es mantenen els deu apartats, tots els subapartats numerats i els cinc exercicis de la font disponible. La comparació semàntica detallada dels procediments continua pendent.
 - **C13:** es mantenen els deu apartats, les quatre tècniques (pinzell sec, puntejat, ratllat i esponjat), els nou blocs d'errors i els sis exercicis numerats de la font disponible. La comparació semàntica detallada dels procediments i les limitacions continua pendent.
-- **Incidència de metadades:** el registre editorial inclòs al final de la font de C12 conté una delimitació antiga que assigna el pinzell sec i el puntejat a C13 i el ratllat i l'esponjat a C14. L'índex definitiu i el contingut de C13 confirmen que les quatre tècniques pertanyen a C13 i que C14 està reservat a transparències. No es modifica el contingut lector de C12 per aquesta nota interna; la incidència queda reservada a la conciliació de metadades i remissions.
+- **Incidència de metadades conciliada:** el registre editorial inclòs al final de la font de C12 és una nota desfasada que assigna el ratllat i l'esponjat a C14. L'índex definitiu i els continguts efectius confirmen que les quatre tècniques de textura pertanyen a C13 i que C14 està reservat a transparències. No es modifica el contingut lector de C12, C13 ni C14, ni tampoc la font original; es registra la nota com a metadada obsoleta.
 
 
 ### Actualització F4 — coteig de contingut de C12–C13 (05/11/2026)
@@ -790,3 +790,14 @@ La conciliació AE de C33–C34 s'ha completat amb la font disponible. La revisi
 - A C33, «hendidures» s'ha substituït per «cavitats» en sis aparicions, perquè en aquests procediments es refereix a zones enfonsades o recessos de la superfície.
 - També s'han regularitzat les construccions «la selecció i l'aplicació ... corresponen/es desenvolupen» a C33–C34.
 - No s'han alterat receptes, ingredients, proporcions ni procediments tècnics. La següent actuació és la revisió global de coherència i referències dels 39 capítols.
+
+
+### Actualització F4 — primera passada global de referències (05/11/2026)
+
+S'han extret i revisat les remissions explícites als capítols dels 39 fitxers Markdown.
+
+- No s'han detectat destinacions numèriques fora de l'arquitectura vigent de 39 capítols.
+- Les referències C33–C34 a C31 i C37 s'han contrastat amb la font i conciliat.
+- La remissió de C18 als capítols 35–38 s'ha comprovat amb el text original i es conserva.
+- S'ha resolt la incidència de metadades de C12: la nota editorial antiga de la font atribueix parcialment les tècniques de textura a C14, però l'índex definitiu i els continguts confirmen que les quatre tècniques són a C13 i que C14 tracta transparències. No es modifica la font ni els capítols.
+- Aquesta passada valida l'existència i l'abast numèric de les remissions, no encara la precisió semàntica de totes les referències. La revisió global continua oberta.

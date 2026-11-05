@@ -11,7 +11,7 @@ La identitat visual depèn de la composició i distribució dels minerals, la mi
 Cal distingir **roca** i **mineral**. Una roca és un material natural format per un o diversos minerals, fragments d'altres roques o, en alguns casos, matèria d'origen orgànic. Un mineral presenta composició química i estructura interna característiques, amb possibles variacions dins de determinats límits. Una roca combina components, grans, bandes o fragments; un mineral individual pot mostrar color, brillantor, fractura, exfoliació i hàbit cristal·lí propis. Els minerals cristal·lins i les gemmes es tracten al capítol 27.
 
 - **Roques ígnies:** provenen del refredament i solidificació de material fos. Poden tenir gra fi, grans visibles, distribució granular, cavitats o superfícies compactes. El granit sol combinar minerals de colors i mides diferents; el basalt acostuma a ser fosc i de gra fi, però no totes les roques ígnies comparteixen aquestes característiques.
-- **Roques sedimentàries:** provenen de l'acumulació i transformació de sediments, de la precipitació de materials dissolts o de restes biològiques. Poden mostrar estratificació, bandes, grans, fragments, superfícies sorrenques o compactes i fòssils. El gres pot ser beix, groguenca, rogenca o marró; la calcària sovint és clara, però també pot ser grisenca.
+- **Roques sedimentàries:** provenen de l'acumulació i transformació de sediments, de la precipitació de materials dissolts o de restes biològiques. Poden mostrar estratificació, bandes, grans, fragments, superfícies sorrenques o compactes i fòssils. El gres pot ser beix, groguenc, rogenc o marró; la calcària sovint és clara, però també pot ser grisenca.
 - **Roques metamòrfiques:** deriven de materials transformats per pressió, temperatura i circulació de fluids. Poden presentar bandes, foliació, làmines, plans de separació i recristal·lització. La pissarra mostra plans de separació; el marbre, una estructura recristal·litzada i possibles vetes; el gneis, bandes clares i fosques; l'esquist, una organització foliada. Són trets orientatius, no regles universals.
 
 La finalitat no és pintar cada mineral per separat, sinó reproduir l'organització visual dominant: components de diferents colors i mides en un granit, o bandes en un gneis.
@@ -76,7 +76,7 @@ Les roques vesiculars necessiten cavitats de mides diferents, distribució irreg
 
 ## 26.6. Gres, calcària i roques sedimentàries
 
-**Gres:** formada principalment per grans cimentats; pot ser beix, groguenca, rogenca, marró o grisa, amb granularitat, estrats i erosió.
+**Gres:** format principalment per grans cimentats; pot ser beix, groguenca, rogenca, marró o grisa, amb granularitat, estrats i erosió.
 
 - **Recepta E. Gres beix:** base Deck Tan; variació Japanese Uniform WWII; ombres Parasite Brown; aclarits Ivory; accents Ice Yellow.
 - **Recepta F. Gres rogenc:** base Parasite Brown; variació Dark Rust; tons mitjans Japanese Uniform WWII; ombres amb la combinació proposada de Dark Rust i Black; aclarits Deck Tan.

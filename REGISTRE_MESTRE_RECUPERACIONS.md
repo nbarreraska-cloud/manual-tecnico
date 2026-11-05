@@ -1,6 +1,6 @@
 # REGISTRE MESTRE DE RECUPERACIONS EDITORIALS
 **Manual tècnic de pintura de miniatures**  
-**Versió:** 1.15 · **Data:** 05/11/2026  
+**Versió:** 1.16 · **Data:** 05/11/2026  
 **Branca:** intervencion-editorial-2026-11
 
 ## 1. Funció i abast
@@ -103,7 +103,7 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 16 | AE | Ajust de numeració i estructura de les geometries aplicat; contingut NMM ampliat posteriorment. F4 limitada: es comproven l'estructura de deu apartats, els sis exercicis i el procediment general disponible. La font declara que no s'ha recuperat un original complet; no es pot afirmar coteig integral. |
 | 17 | SC | F4 limitada: comprovada l'estructura de deu apartats, sis exercicis i el criteri central de coherència espacial entre font i superfícies receptores. La font declara que és una versió consolidada nova i que no s'ha recuperat un original complet; no es pot afirmar coteig integral. Sense canvis de contingut. |
 | 18 | SC | F4 limitada: comprovada l'estructura de deu apartats, sis exercicis i les eines de planificació/avaluació. La font declara que no s'ha recuperat un original complet; no es pot afirmar coteig integral. Sense canvis de contingut. |
-| 19 | SC | Receptes i ingredients protegits per l'auditoria. Posteriorment s'ha ampliat el contingut de metalls i la paleta/formulació; les propostes no s'han de presentar com a assajades. |
+| 19 | SC · F4 verificat sobre la font disponible | S'han cotejat 16 receptes (acer, plata, or, coure i bronze), els codis i les llistes d'ingredients, i els set exercicis. No s'han detectat codis o ingredients absents/afegits. La font disponible declara que no s'ha recuperat un original complet i no especifica proporcions quantitatives; no s'han d'inventar. Les receptes continuen sent propostes no assajades. |
 | 20 | SC | Receptes i contingut protegits; no s'hi va identificar recuperació prioritària en l'auditoria. |
 | 21 | SC | Receptes i contingut protegits; conservar la denominació original «Combinació cromàtica proposta». |
 | 22 | SC | Contingut protegit; respectar els límits amb pell biològica i queratina. |
@@ -143,7 +143,7 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 4–5 | Recuperacions aplicades. Comprovació estructural inicial registrada; validació textual, semàntica i coteig complet encara necessaris. |
 | 6–13 | Recuperacions/ampliacions aplicades i documentades en commits individuals; fer validació global sense repetir diagnòstics ja tancats. |
 | 14–18 | Ampliacions aplicades i documentades. C14, C15, C16 i C18 tenen límits de font: no s'ha localitzat un original complet; les ampliacions es basen en la consolidació disponible de la primera versió i els acords recuperats. |
-| 19 | Recuperació de contingut metàl·lic i criteris de formulació aplicada; les receptes són propostes si no hi ha assaig documentat. |
+| 19 | F4: coteig de la font disponible completat per a 16 receptes i set exercicis; codis i ingredients coincideixen. No hi ha proporcions exactes documentades a la font; no s'afegeixen quantitats inventades i es manté l'avís de propostes no assajades. Original complet no recuperat. |
 | 20–24, 35, 37, 39 | Capítols auditats i classificats com a SC. No hi ha recuperacions RT/RD pendents identificades per executar en aquests capítols; es mantenen protegits de canvis innecessaris. La seva coherència es comprovarà transversalment a F4/F6 quan afecti referències o límits amb altres capítols. |
 | 28 | Recuperació tècnica aplicada. F4 (05/11/2026): coteig complet de fidelitat amb l'original; receptes A–K (ingredients), sis exercicis (materials) i codis de pintura contrastats sense omissions ni incorporacions. Correccions lingüístiques puntuals aplicades. Validada la correspondència documental; resta la revisió transversal de coherència tècnica i referències. |
 | 29 | Recuperació tècnica aplicada. F4 (05/11/2026): coteig complet de fidelitat amb l'original; receptes A–Q (ingredients), sis exercicis (materials) i codis de pintura contrastats sense omissions ni incorporacions. Es comprova també la conservació de la integració de pedres i fragments amb el terreny. Correccions lingüístiques puntuals aplicades. Validada la correspondència documental; resta la revisió transversal de coherència tècnica i referències. |
@@ -201,6 +201,7 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 1.13 | 05/11/2026 | F4: comprovació limitada de C15; es preserva el límit de font (original complet no localitzat) i es confirma la correspondència estructural disponible de deu apartats i sis exercicis. Sense canvis de contingut. |
 | 1.14 | 05/11/2026 | F4: comprovació limitada de C16; es preserva el límit de font (versió consolidada nova, original complet no recuperat) i es confirma l'estructura de deu apartats i sis exercicis. Sense canvis de contingut. |
 | 1.15 | 05/11/2026 | F4: comprovació limitada de C17 i C18; es preserven els límits documentals (originals complets no recuperats) i es confirma l'estructura de deu apartats i sis exercicis en tots dos capítols. Sense canvis de contingut. |
+| 1.16 | 05/11/2026 | F4: coteig de la font disponible de C19; 16 receptes, ingredients/codis i set exercicis comprovats. La font no documenta proporcions exactes ni s'ha recuperat un original complet; no s'inventen quantitats. |
 
 Aquest registre és una consolidació operativa basada en l'auditoria i els resultats recuperats del projecte. Els punts marcats com a pendents o no validats s'han de comprovar amb el fitxer real i la font corresponent abans de declarar-los tancats.
 

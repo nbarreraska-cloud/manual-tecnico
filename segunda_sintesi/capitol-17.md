@@ -142,33 +142,131 @@ Ha d'identificar:
 
 L'esquema no ha de representar tots els detalls. La seva funció és establir una referència coherent per al desenvolupament pictòric.
 
-## 17.4. Planificació dels valors i del color
+## 17.4. Planificació dels valors i organització cromàtica
 
-La font i les superfícies il·luminades han de mantenir funcions diferenciades. Es poden distingir:
+### 17.4.1. Jerarquia de valors
+
+La font lluminosa i les superfícies il·luminades han de mantenir una jerarquia visual recognoscible.
+
+En molts plantejaments, la font constitueix el punt de màxima intensitat visual, mentre que les superfícies il·luminades presenten una influència progressivament menor. Aquesta organització ajuda a distingir l'origen de la llum dels seus efectes.
+
+Tanmateix, no és necessari que totes les fonts presentin un centre blanc ni que totes les superfícies il·luminades siguin progressivament més fosques de manera uniforme. La jerarquia s'ha d'adaptar a la naturalesa de l'efecte i a la composició de la miniatura.
+
+### 17.4.2. Organització de les zones il·luminades
+
+La planificació tonal pot diferenciar diverses regions:
 
 - Font emissora.
-- Zona de màxima influència.
+- Zona de màxima influència lluminosa.
 - Zona d'influència intermèdia.
-- Transició cap al color original del material.
+- Zona de transició cap a l'aparença original de la superfície.
 - Superfícies sense influència directa apreciable.
 
-No són categories obligatòries ni han de presentar límits rígids. La seva extensió depèn de la geometria, la distància, l'exposició i el material. Una distribució uniforme pot generar un halo artificial i eliminar la lectura dels volums.
+Aquestes regions són referències funcionals, no categories obligatòries que hagin d'aparèixer sempre separades. La seva extensió i definició depenen de la geometria, la distància i el tipus de superfície.
 
-El color de la font ha de respondre a la seva identitat i a la intenció visual. No s'ha de reproduir necessàriament de manera idèntica en totes les superfícies receptores: el color local, el valor i les característiques del material modifiquen l'aparença de la llum. No n'hi ha prou amb barrejar mecànicament el color de la font amb el color base de cada objecte.
+La planificació ha d'evitar que tota la regió pròxima a la font presenti la mateixa intensitat. Una distribució massa uniforme pot produir un halo artificial i eliminar la lectura dels volums.
 
-La influència pot disminuir mitjançant canvis de valor, matís, croma o una combinació d'aquests. Les superfícies mates poden mostrar una influència més àmplia; les brillants poden presentar reflexos més localitzats. La distribució ha de conservar la identitat del material i integrar-se amb la il·luminació general de la miniatura. Una font secundària pot coexistir amb la principal, però cal establir-ne la jerarquia.
+### 17.4.3. Selecció del color lluminós
 
-## 17.5. Procediment general de construcció
+La tria del color ha de respondre a la identitat de la font i a la intenció visual. Una flama, un cristall màgic o un dispositiu tecnològic poden utilitzar famílies cromàtiques diferents.
 
-1. **Analitzar la miniatura.** Identificar la font, la seva posició i les superfícies que poden rebre'n la influència. La preparació material correspon al capítol 7.
-2. **Construir la font emissora.** Definir-ne la forma i l'organització cromàtica perquè s'identifiqui com a origen de la llum. La representació específica del foc o de la màgia es desenvolupa als capítols 30 i 32.
-3. **Seleccionar les superfícies receptores.** Considerar distància, orientació, exposició, obstacles, geometria i material. És preferible començar per les zones més justificades que no pas estendre el color indiscriminadament.
-4. **Aplicar la influència lluminosa.** Modificar el valor i el color de les superfícies de manera localitzada o més àmplia segons el plantejament. Cal conservar part de la informació del color original i del volum.
-5. **Construir les transicions.** Integrar l'efecte amb l'aparença original. Poden ser àmplies o localitzades, suaus o definides; no cal difuminar tots els límits.
-6. **Afegir reflexos localitzats, si escau.** Reservar-los per a superfícies i orientacions que els justifiquin. No totes les zones il·luminades necessiten un punt de brillantor.
-7. **Integrar el conjunt.** Revisar la intensitat de la font, l'extensió de les zones, les transicions, els reflexos i la relació amb la il·luminació general.
+El color de la font no s'ha de reproduir necessàriament de manera idèntica en totes les superfícies il·luminades. En funció de l'efecte, es poden introduir modificacions de matís, valor i croma a mesura que es representa la influència lluminosa.
 
-No s'estableix un nombre obligatori d'aplicacions ni una proporció universal de dilució. Els procediments de capes, degradats i veladures s'utilitzen amb la finalitat específica de representar la influència de la font.
+La teoria del color del capítol 4 proporciona els fonaments per organitzar aquestes relacions. Aquí s'apliquen a la representació d'una font emissora i dels seus efectes.
+
+### 17.4.4. Relació entre el color de la font i el de les superfícies
+
+El color de la llum representada interactua visualment amb el color propi de les superfícies. Per això, una mateixa font pot produir aparences diferents segons l'objecte il·luminat.
+
+Una superfície de color clar pot mostrar una influència cromàtica lluminosa molt visible. Una superfície fosca pot requerir una modificació tonal més evident perquè l'efecte es reconegui. En altres casos, una superfície amb un color molt diferent del de la font pot mostrar una combinació cromàtica més complexa.
+
+No s'ha de suposar que n'hi ha prou amb barrejar el color de la font amb el color base de cada objecte per obtenir una il·luminació convincent.
+
+La representació exigeix valorar conjuntament el color local, el valor, la intensitat de l'efecte i la llegibilitat de la superfície.
+
+### 17.4.5. Intensitat i pèrdua progressiva d'influència
+
+La influència visual de la font s'ha de distribuir de manera coherent.
+
+En termes generals, les regions més pròximes i exposades poden mostrar una modificació més intensa que les zones allunyades o parcialment protegides. Aquesta reducció no ha de ser lineal ni seguir una proporció fixa.
+
+Es pot representar mitjançant canvis de valor, matís, croma o una combinació d'aquests. També pot variar segons la superfície: una zona mat pot presentar una influència àmplia, mentre que una superfície brillant pot mostrar un reflex més localitzat.
+
+La pèrdua progressiva d'influència s'ha d'integrar amb el color original de la superfície, sense convertir necessàriament tota la regió il·luminada en una única taca cromàtica.
+
+### 17.4.6. Coherència amb la il·luminació general
+
+La font OSL s'ha d'integrar en la il·luminació general de la miniatura.
+
+Si la figura presenta una il·luminació principal procedent d'una direcció i una font secundària situada en una altra posició, totes dues poden coexistir. La representació ha d'establir una jerarquia entre elles.
+
+La font secundària pot modificar determinades superfícies sense substituir completament la il·luminació principal. Convé revisar que les zones afectades per totes dues fonts no generin contradiccions visuals difícils d'interpretar.
+
+En alguns casos pot ser convenient simplificar la il·luminació general perquè l'efecte OSL es percebi amb claredat.
+
+## 17.5. Procediment general de construcció de l'OSL
+
+### 17.5.1. Preparació i anàlisi de la miniatura
+
+El procés comença amb una superfície preparada i una il·luminació general prèviament considerada. La preparació de la miniatura, les eines i les pintures correspon al capítol 7.
+
+Abans d'aplicar l'efecte convé identificar la font, la seva posició i les superfícies que rebran la seva influència. També cal comprovar que la distribució prevista no contradigui elements importants de la geometria.
+
+### 17.5.2. Establiment de la font emissora
+
+La font s'ha de construir de manera que es reconegui com a origen de l'efecte lluminós.
+
+La representació pot incloure una zona central i altres regions cromàtiques al seu voltant, segons la naturalesa de l'element. La distribució ha de mantenir una jerarquia pròpia i diferenciar-se de les superfícies il·luminades.
+
+En una flama, per exemple, l'organització interna pot respondre a la representació del foc. En un cristall màgic, es pot utilitzar una distribució més localitzada o estilitzada.
+
+El capítol 30 desenvolupa la representació específica del foc, el fum i les cendres. El capítol 32 aborda la màgia, l'energia i altres efectes sobrenaturals. Aquí es considera únicament la funció de la font com a origen de la il·luminació.
+
+### 17.5.3. Identificació de les superfícies receptores
+
+Un cop establerta la font, cal identificar les superfícies sobre les quals es representarà la seva influència.
+
+La selecció ha de considerar la distància respecte de la font, l'orientació de cada superfície, l'exposició directa, els possibles obstacles, la geometria i el material representat.
+
+Convé limitar inicialment l'efecte a les regions més justificades. Ampliar-lo després resulta més senzill que haver de recuperar grans zones de color original si la il·luminació s'ha estès massa.
+
+### 17.5.4. Aplicació de la influència lluminosa
+
+La il·luminació es construeix modificant visualment les superfícies receptores.
+
+Es pot recórrer a una aplicació localitzada o a una distribució més àmplia, segons la geometria i la intensitat prevista. La zona il·luminada no ha de cobrir necessàriament tota la superfície receptora. Convé conservar part de la informació del color original i dels volums.
+
+L'efecte es pot desenvolupar mitjançant aplicacions successives, procurant que la modificació cromàtica mantingui una relació progressiva amb la zona il·luminada.
+
+El capítol 8 explica la construcció mitjançant capes; el capítol 9 desenvolupa els degradats i les transicions, i el capítol 10 aborda les veladures i els glassejats. Aquests procediments s'apliquen aquí amb una finalitat específica: representar la influència de la font lluminosa.
+
+No s'estableix un nombre obligatori d'aplicacions ni una proporció universal de dilució.
+
+### 17.5.5. Construcció de les zones de transició
+
+La transició permet integrar la influència lluminosa amb l'aparença original de la superfície. Pot ser àmplia o localitzada, contínua o relativament definida. La seva extensió ha de respondre a la geometria i a la distribució de l'efecte.
+
+Una transició massa brusca pot fer que la il·luminació sembli una taca superficial. Una transició excessivament àmplia pot convertir tota la peça en una superfície acolorida sense una relació clara amb la font.
+
+No és necessari suavitzar tots els límits. En determinades superfícies poden existir canvis definits d'il·luminació.
+
+### 17.5.6. Representació de reflexos localitzats
+
+Algunes superfícies poden mostrar reflexos més intensos o definits de la font. Aquests reflexos s'han de diferenciar de la il·luminació general de la superfície.
+
+La seva representació pot ser especialment rellevant en materials brillants, polits o amb una resposta especular marcada.
+
+La posició ha de ser compatible amb l'orientació de la superfície i amb la posició de l'observador. No totes les superfícies il·luminades necessiten un reflex localitzat. Incorporar-lo indiscriminadament pot generar punts de brillantor que no contribueixen a la coherència de l'efecte.
+
+### 17.5.7. Integració de la font i l'entorn
+
+Un cop construïda la il·luminació sobre les superfícies receptores, convé revisar el conjunt.
+
+La font ha de continuar sent recognoscible i les superfícies il·luminades han de mostrar una influència compatible amb la seva posició.
+
+Pot ser necessari ajustar la intensitat de la font, l'extensió de les zones il·luminades, el contrast entre la font i l'entorn, la transició cap als colors originals, la definició dels reflexos i la relació amb la il·luminació general.
+
+La integració no consisteix a acolorir totes les superfícies pròximes, sinó a aconseguir que la font i els seus efectes formin una mateixa situació lluminosa.
 
 ## 17.6. Adaptació a geometries i materials
 

@@ -159,14 +159,112 @@ La brillantor superficial i la transparència són fenòmens diferents. Una gema
 
 ## 27.10. Exercicis pràctics
 
-1. **Cristalls transparents i translúcids:** preparar dues superfícies semblants; aplicar A i G; comparar informació del fons i difusió de llum.
-2. **Cristalls violetes i blaus:** construir dues formes amb B i C; diferenciar cares, arestes i reflexos.
-3. **Gel transparent i compacte:** aplicar E i F a dos blocs; afegir fractures i reflexos; comparar transmissió i densitat visual.
-4. **Neu fresca i compactada:** aplicar H i I a dos terrenys; introduir acumulacions, altures i ombres; comparar irregularitat i densitat.
-5. **Gemmes facetades:** construir una gema amb K i una altra amb M; organitzar zones fosques, clares i reflexos.
-6. **Integració:** combinar roca, cristall, gel, neu i gema; diferenciar superfícies transparents, translúcides i opaques; integrar reflexos i inclusions sense confondre materials.
+### Exercici 1. Comparació entre cristalls transparents i translúcids
 
-## 27.11. Referències i recursos
+**Objectiu:** diferenciar dues aparences mitjançant la representació de la transmissió de llum.
+
+**Materials:** White, Ivory, Deck Tan, Dark Sea Blue i Blue Green.
+
+**Procediment:**
+1. Preparar dues superfícies de prova amb una geometria semblant.
+2. Construir-ne una mitjançant la recepta A.
+3. Construir l'altra mitjançant la recepta G.
+4. Diferenciar les zones clares, les ombres i les variacions internes.
+5. Comparar la informació visual que conserva cada superfície.
+
+**Avaluació:** comprovar que una superfície manté una aparença més transparent i l'altra presenta una transmissió més difusa.
+
+### Exercici 2. Construcció de cristalls violetes i blaus
+
+**Objectiu:** treballar les facetes i les variacions cromàtiques.
+
+**Materials:** Dark Sea Blue, Blue Green, Turquoise, Violet Red, Magenta, Violet Ink i White.
+
+**Procediment:**
+1. Preparar dues formes cristal·lines.
+2. Construir-ne una mitjançant la recepta B.
+3. Construir l'altra mitjançant la recepta C.
+4. Diferenciar les cares.
+5. Introduir reflexos i arestes.
+6. Avaluar la lectura de totes dues superfícies.
+
+**Avaluació:** comprovar que la geometria es reconeix i que el color no es distribueix uniformement.
+
+### Exercici 3. Construcció de gel transparent i compacte
+
+**Objectiu:** diferenciar el gel segons el gruix i l'aparença.
+
+**Materials:** White, Ivory, Dark Sea Blue, Blue Green i Turquoise.
+
+**Procediment:**
+1. Preparar dos blocs de gel.
+2. Construir-ne un mitjançant la recepta E.
+3. Construir l'altre mitjançant la recepta F.
+4. Introduir fractures en una de les superfícies.
+5. Afegir reflexos localitzats.
+6. Comparar la lectura visual.
+
+**Avaluació:** comprovar que el gel transparent conserva una aparença de transmissió de llum i que el compacte presenta més densitat visual.
+
+### Exercici 4. Construcció de neu fresca i compactada
+
+**Objectiu:** representar dos estats diferents de la neu.
+
+**Materials:** White, Ivory, Dark Sea Blue, Deck Tan i Japanese Uniform WWII.
+
+**Procediment:**
+1. Preparar dues superfícies de terreny.
+2. Construir-ne una mitjançant la recepta H.
+3. Construir l'altra mitjançant la recepta I.
+4. Introduir acumulacions i diferències d'altura.
+5. Afegir ombres i variacions de superfície.
+6. Avaluar el resultat.
+
+**Avaluació:** comprovar que la neu fresca presenta una aparença més irregular i la compactada una superfície més densa.
+
+### Exercici 5. Construcció de gemmes facetades
+
+**Objectiu:** representar profunditat, color i reflexos en superfícies petites.
+
+**Materials:** Gory Red, Evil Red, Scarlet Blood, Dark Green, Cayman Green, Scorpy Green, Lime Green i White.
+
+**Procediment:**
+1. Preparar dues superfícies amb geometria de gema.
+2. Construir-ne una mitjançant la recepta K.
+3. Construir l'altra mitjançant la recepta M.
+4. Organitzar les zones fosques i clares.
+5. Afegir reflexos petits.
+6. Comparar la lectura a escala.
+
+**Avaluació:** comprovar que les gemmes presenten profunditat cromàtica, contrast i una geometria recognoscible.
+
+### Exercici 6. Exercici integrador: escena de cristalls, gel, neu i gemmes
+
+**Objectiu:** combinar els quatre àmbits del capítol en una composició coherent.
+
+**Materials:** White, Ivory, Dark Sea Blue, Blue Green, Turquoise, Violet Red, Magenta, Gory Red, Evil Red, Dark Green, Cayman Green, Scorpy Green, Lime Green, Hot Orange, Moon Yellow i Ice Yellow.
+
+**Procediment:**
+1. Seleccionar una miniatura o una base amb elements hivernals i cristal·lins.
+2. Identificar quines superfícies corresponen a roca, cristall, gel, neu i gema.
+3. Establir una organització cromàtica.
+4. Construir primer les formes i els volums.
+5. Aplicar les receptes corresponents.
+6. Diferenciar les superfícies transparents, translúcides i opaques.
+7. Afegir reflexos i inclusions.
+8. Avaluar la integració del conjunt.
+
+**Avaluació:** comprovar que els materials es diferencien entre si i que els efectes de llum mantenen coherència visual.
+
+## 27.11. Síntesi del capítol
+
+Els cristalls, el gel, la neu i les gemmes comparteixen determinades característiques relacionades amb l'estructura i la interacció amb la llum, però requereixen procediments pictòrics diferenciats.
+
+Els cristalls naturals es reconeixen per les cares, les arestes, la geometria i les possibles inclusions. El gel pot presentar diferents graus de transparència i translucidesa, a més de fractures i bombolles. La neu requereix representar acumulació, volum, compactació i variacions superficials. Les gemmes es caracteritzen pel color, la profunditat, la geometria, les facetes i els reflexos.
+
+Les receptes utilitzen exclusivament pintures de l'inventari de 48 referències i s'han d'adaptar a la forma, l'escala i l'aparença del material. L'objectiu no és reproduir tots els fenòmens òptics amb exactitud física, sinó seleccionar les senyals visuals que permeten reconèixer cada material i representar-lo amb claredat.
+
+## 27.12. Referències i recursos
 
 - International Union of Crystallography (IUCr). *Crystals – A Handbook for School Teachers*. https://www.iucr.org/education/pamphlets/crystals-handbook-school-teachers
 - Smithsonian National Museum of Natural History. *Gems and Minerals – Beauties and Building Blocks*. https://naturalhistory.si.edu/education/teaching-resources/earth-science/gems-and-minerals-beauties-and-building-blocks

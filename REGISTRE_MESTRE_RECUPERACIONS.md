@@ -17,7 +17,7 @@ La tercera versió és el resultat de les intervencions sobre aquests 39 Markdow
 
 | Fase | Objectiu i lliurable | Estat |
 |---|---|---|
-| 0 | Preservar les versions, les fonts, la traçabilitat i la branca de treball; mantenir main intacta. | **Completada** |
+| 0 | Preservar les versions, les fonts, la traçabilitat i la branca de treball; vincular cada intervenció amb capítol/apartat/font i mantenir main intacta. | **Completada** |
 | 1 | Auditoria comparativa dels 39 capítols Markdown: contingut conservat, simplificacions, pèrdues, redundàncies i millores de la segona síntesi. | **Completada (39/39)** |
 | 2 | Consolidar el Registre Mestre amb categories RT/RD/AE/MG/SC, prioritats, decisions, fonts i estat real dels canvis. | **En curs**; versió 1.0 creada i ara conciliada amb l'historial G-01–G-11 i els commits de la branca. |
 | 3 | Aplicar les recuperacions tècniques, didàctiques i els ajustos editorials justificats a la tercera versió dels 39 Markdown. | **En curs**; intervencions aplicades als capítols 4–19, 25–32, 36 i 38; ajust AE als capítols 33–34. |
@@ -76,7 +76,7 @@ Una mateixa intervenció pot tenir més d'una categoria.
 7. No reobrir capítol tancat per observacions menors. Reobrir només davant errors reals, contradiccions importants o incidències de coherència global.
 8. Les propostes de figures es mantenen com a especificacions editorials; no es presenten com a imatges produïdes ni com a proves físiques.
 9. Cada intervenció ha de distingir quatre estats: **diagnosticada**, **decidida**, **aplicada** i **validada**. Un canvi aplicat no queda automàticament validat.
-10. La branca intervencion-editorial-2026-11 és la branca de treball; main no s'ha de modificar.
+10. La branca intervencion-editorial-2026-11 és la branca de treball; main no s'ha de modificar.\n11. L'objectiu d'extensió de la tercera versió és aproximadament 350–375 pàgines, amb un límit orientatiu d'unes 400. És un criteri de control, no una ordre de retall: no s'ha de suprimir contingut tècnic, procediments, receptes, exercicis, variants ni advertiments només per reduir pàgines.
 
 ## 5. Matriu de classificació de l'auditoria 39/39
 

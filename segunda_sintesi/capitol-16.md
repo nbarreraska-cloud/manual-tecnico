@@ -125,7 +125,7 @@ En una placa d'armadura, per exemple, poden diferenciar-se diversos plans mitjan
 
 És important evitar que les regions tonals es distribueixin com a taques arbitràries. La seva posició ha de reforçar la lectura dels plans i dels seus límits.
 
-### 16.5.2. Superfícies corbes
+### 16.6.2. Superfícies corbes
 
 Les superfícies corbes presenten canvis continus d'orientació. Per això, la distribució dels reflexos pot requerir transicions més progressives que en una superfície plana.
 
@@ -133,7 +133,7 @@ En peces cilíndriques o arrodonides, les bandes de reflex poden adaptar-se a la
 
 No s'ha de suposar que tota superfície corba necessita una franja central clara i dues laterals fosques. Aquesta és una simplificació possible, no una regla universal. La distribució ha de respondre al patró d'il·luminació i al volum representat.
 
-### 16.5.3. Superfícies esfèriques
+### 16.6.3. Superfícies esfèriques
 
 Les formes esfèriques presenten una geometria contínua en diferents direccions.
 
@@ -141,7 +141,7 @@ La representació pot utilitzar zones de reflex localitzades, àrees intermèdie
 
 En miniatures petites pot ser necessari simplificar el patró per evitar que massa regions competeixin entre si.
 
-### 16.5.4. Fulles, filos i superfícies allargades
+### 16.6.4. Fulles, filos i superfícies allargades
 
 Les fulles d'espasa, els ganivets i altres superfícies allargades requereixen una planificació que tingui en compte l'eix longitudinal i la disposició de les cares.
 
@@ -149,7 +149,7 @@ Els reflexos es poden organitzar mitjançant bandes longitudinals, canvis entre 
 
 El tall es pot destacar mitjançant un accent específic, però el seu tractament s'ha de diferenciar del patró general dels reflexos.
 
-### 16.5.5. Superfícies facetades i geometries complexes
+### 16.6.5. Superfícies facetades i geometries complexes
 
 Les superfícies facetades presenten canvis definits d'orientació. En aquests casos, la distribució tonal es pot organitzar mitjançant regions diferenciades que reforcin cada pla.
 
@@ -157,7 +157,7 @@ Les peces amb geometries complexes poden requerir una combinació de transicions
 
 La simplificació és especialment important. Intentar representar tots els canvis d'orientació pot generar una distribució excessivament fragmentada. Convé seleccionar els plans principals i establir una jerarquia entre ells.
 
-### 16.5.6. Adaptació a l'escala de la miniatura
+### 16.6.6. Adaptació a l'escala de la miniatura
 
 L'escala condiciona la quantitat d'informació que es pot representar.
 

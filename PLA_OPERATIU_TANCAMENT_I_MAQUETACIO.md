@@ -185,3 +185,6 @@ La numeració encara no es congela: queda condicionada a la revisió semàntica 
 S'ha creat `annexos/matriu_integracio_P2_P3_F10.md` amb les propostes complementàries que poden integrar-se en composicions P1 i les P2 que continuen en reserva. La matriu conserva 32 relacions d'origen/destinació i indica si la integració és confirmada, prevista o condicionada.
 
 Les integracions complementàries no augmenten el nombre de figures si es resolen com a panells dins de les 150 composicions. No s'han d'incloure automàticament: cada panell ha de tenir una funció clara, no duplicar el text i mantenir la llegibilitat. La selecció principal continua sent 156 identificadors P1 en 150 composicions.
+
+
+La validació de traçabilitat ha confirmat que 31 identificadors P2/P3 tenen destinació en una composició P1; sis (32.6, 32.7, 33.8, 33.10, 37.1 i 37.5) continuen en reserva perquè depenen de composicions complementàries no seleccionades. Cap d'aquests sis identificadors ha rebut número editorial.

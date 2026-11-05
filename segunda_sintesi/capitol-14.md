@@ -64,92 +64,167 @@ El gruix i la curvatura poden modificar la transmissió, la visibilitat de les v
 
 ## 14.4. Anàlisi i planificació
 
-Abans de pintar, determinar quin comportament ha de comunicar l'objecte:
-- És transparent, translúcid, opac o combina comportaments?
-- Es pot reconèixer el fons a través seu?
-- La informació conserva definició o apareix difuminada?
-- El material té color propi?
-- Presenta una estructura interna visible?
-- El gruix o la curvatura en modifiquen l'aparença?
-- Quina importància tenen les vores i els reflexos?
+### 14.4.1. Identificació del comportament del material
 
-La forma condiciona la distribució de la informació. Cal identificar la geometria general, el gruix aparent, la curvatura, l'orientació de les superfícies i la relació entre zones interiors i exteriors.
+Abans de pintar convé determinar quin comportament ha de comunicar l'objecte. Cal preguntar-se si és transparent, translúcid, opac o combina comportaments; si es pot reconèixer el fons; si la informació conserva la definició o apareix difuminada; si el material té color propi; si presenta una estructura interna visible; si el gruix o la curvatura en modifiquen l'aparença, i quina importància tenen les vores i els reflexos.
 
-El fons s'ha d'analitzar conjuntament amb l'objecte. Decidir quins elements continuen visibles, quins apareixen modificats i quins es poden ometre. Mantenir tota la informació sense alteracions pot ser inadequat si la geometria produeix distorsió o difusió.
+Aquestes qüestions permeten seleccionar els recursos pictòrics necessaris i evitar intervencions que contradiguin la naturalesa del material.
 
-No tots els materials necessiten totes les senyals. Es poden seleccionar la continuïtat del fons, contorns parcials, reflexos, distorsions, variacions de color i claredat, inclusions internes i canvis relacionats amb el gruix. La prioritat és comunicar el comportament amb el mínim d'intervencions necessàries.
+### 14.4.2. Anàlisi de la geometria
 
-L'escala limita la informació reproduïble. Alguns reflexos, inclusions o distorsions poden ser massa petits per representar-los individualment; d'altres s'han de simplificar o exagerar per conservar-ne la llegibilitat. No es tracta de reproduir tots els fenòmens òptics, sinó de construir una representació coherent a la distància habitual.
+La forma de l'objecte condiciona la distribució de la informació visual. Una superfície plana, una peça corba, un recipient, una esfera o una làmina presenten diferències que afecten els contorns, els reflexos i la transmissió.
+
+La planificació ha de considerar la forma general, el gruix aparent, la curvatura, l'orientació de les superfícies, els límits visibles i la relació entre les zones interiors i exteriors. No convé aplicar un mateix patró de reflexos i contorns a objectes amb geometries diferents.
+
+### 14.4.3. Relació amb el fons
+
+El fons és un dels elements més importants per representar transparència. Quan l'objecte permet reconèixer el que hi ha darrere, la pintura ha de conservar prou informació perquè aquesta relació resulti comprensible.
+
+Si el fons desapareix completament, l'objecte es pot interpretar com una superfície opaca. Per contra, conservar tota la informació sense cap modificació pot resultar insuficient quan la geometria o les característiques del material haurien de produir distorsions.
+
+La planificació ha d'establir quins elements del fons es conserven, quins es modifiquen i quins es poden ometre.
+
+### 14.4.4. Selecció de senyals visuals
+
+No tots els materials necessiten representar totes les senyals possibles. En funció de l'objecte, es poden seleccionar la continuïtat de la informació del fons, contorns parcials, reflexos superficials, distorsions de la imatge transmesa, variacions de color, zones de diferent claredat, inclusions i estructures internes, i canvis d'aparença relacionats amb el gruix.
+
+La selecció ha de prioritzar les característiques que permetin reconèixer el material amb el menor nombre d'intervencions necessàries.
+
+### 14.4.5. Adaptació a l'escala de la miniatura
+
+L'escala limita la quantitat d'informació que es pot reproduir. Alguns reflexos, inclusions o distorsions presents en el material real poden ser massa petits per representar-los individualment. D'altres poden necessitar simplificar-se o exagerar-se per conservar-ne la llegibilitat.
+
+La representació ha de mantenir una relació equilibrada entre fidelitat visual, claredat i escala. L'objectiu no és reproduir tots els fenòmens òptics, sinó construir una il·lusió prou coherent perquè el material sigui recognoscible.
 
 ## 14.5. Construcció d'una superfície transparent
 
-La construcció ha de prioritzar la relació entre l'objecte i el fons. La seqüència s'adapta a si el fons ja està pintat, si es pot treballar independentment o si l'objecte s'incorpora com una peça separada.
+La construcció d'una superfície transparent ha de prioritzar la relació entre l'objecte i el fons. La seqüència s'adapta a si el fons ja està pintat, si es pot treballar independentment o si l'objecte s'incorpora com una peça separada.
 
-1. Identificar la geometria i els límits.
-2. Determinar quina informació del fons ha de continuar visible.
-3. Establir les distorsions possibles segons la forma.
-4. Conservar o adaptar els elements que s'han de veure a través del material.
-5. Incorporar els contorns necessaris per identificar la superfície.
-6. Afegir reflexos coherents amb l'orientació.
-7. Comprovar que els reflexos no oculten innecessàriament la informació transmesa.
-8. Avaluar el resultat des de la distància habitual.
+### 14.5.1. Identificació de la geometria
 
-No és necessari reproduir tot el fons: alguns elements reconeixibles poden comunicar la transparència. Si es conserva massa informació sense modificar-la, l'objecte pot semblar invisible; si se n'oculta massa, pot semblar opac.
+Identificar la forma general, els límits, el gruix aparent, la curvatura i l'orientació de les superfícies. Aquestes característiques condicionen la visibilitat de les vores, els reflexos i les possibles distorsions.
+
+### 14.5.2. Selecció i adaptació de la informació del fons
+
+Determinar quina informació del fons ha de continuar visible. No sempre és necessari reproduir-lo completament: alguns elements recognoscibles poden ser suficients per comunicar la transmissió.
+
+Conservar o adaptar els elements que s'han d'observar a través del material segons la seva geometria. Si hi ha distorsió, es pot suggerir mitjançant petits desplaçaments, canvis de contorn o variacions de continuïtat.
+
+### 14.5.3. Contorns, reflexos i avaluació
+
+Incorporar els contorns necessaris per identificar la superfície física. No tots els límits han de presentar la mateixa intensitat: un perfilat continu i uniforme pot fer que l'objecte sembli opac.
+
+Afegir els reflexos que ajudin a comunicar la presència i l'orientació de la superfície. La seva distribució ha de respondre a la geometria i no ha d'ocultar innecessàriament la informació transmesa.
+
+Comprovar que la informació del fons, els contorns i els reflexos mantenen una relació coherent. La representació ha de permetre reconèixer l'objecte i, alhora, interpretar que es pot veure a través seu.
+
+No existeix una seqüència única per a tots els casos. El procediment depèn de si l'objecte està integrat en una escena ja pintada, si el fons es pot representar independentment o si es tracta d'una peça transparent afegida a la miniatura.
 
 ## 14.6. Construcció d'una superfície translúcida
 
-La representació ha de suggerir el pas de llum sense conservar la nitidesa pròpia d'un material transparent.
+La representació d'un material translúcid ha de suggerir el pas de llum sense conservar la nitidesa pròpia d'un material transparent.
 
-1. Determinar el grau de translucidesa.
-2. Establir la coloració general.
-3. Identificar zones amb gruixos o estructures diferents.
-4. Organitzar variacions de claredat i intensitat cromàtica.
-5. Reduir selectivament la definició dels elements transmesos.
-6. Incorporar inclusions o irregularitats necessàries.
-7. Integrar l'aparença interna amb la superfície exterior.
-8. Comprovar que el resultat comunica difusió i profunditat.
+### 14.6.1. Determinació del grau de translucidesa i coloració
 
-La pèrdua de contrast i definició no ha de ser uniforme: pot variar segons el gruix i l'estructura representats. Una superfície translúcida no s'aconsegueix simplement difuminant els reflexos; cal comunicar la transmissió de llum a través del material.
+Establir si el material permet reconèixer formes generals, si difumina fortament els contorns o si transmet llum sense proporcionar informació espacial prou clara per identificar el fons.
+
+Cal establir la coloració pròpia del material i valorar si es distribueix uniformement o presenta variacions relacionades amb el gruix, la composició o l'estructura interna.
+
+### 14.6.2. Variacions de claredat i reducció de la definició
+
+Organitzar diferències de claredat i intensitat cromàtica segons les zones. Algunes parts poden transmetre més llum, mentre que d'altres poden presentar una aparença més densa o difusa.
+
+Reduir selectivament la definició dels elements interns o del fons quan correspongui. La pèrdua de contrast no ha de ser necessàriament uniforme: pot variar segons el gruix i l'estructura representats.
+
+### 14.6.3. Estructures internes i avaluació
+
+Afegir les inclusions o irregularitats necessàries, com ara bombolles, partícules, vetes, capes o variacions de densitat. Aquests elements han de contribuir a la identitat del material i no convertir-se en una decoració independent.
+
+Comprovar que el resultat comunica el pas de llum a través del material i no simplement una superfície opaca de color clar o amb un acabat mat.
 
 ## 14.7. Materials amb comportaments combinats i profunditat interna
 
-Quan un objecte combina zones transparents, translúcides i opaques, cal identificar-les, determinar quina informació transmet cadascuna, establir-ne els límits i representar diferències de definició, color i profunditat. Finalment, les zones s'han d'integrar en una mateixa geometria.
+### 14.7.1. Objectes amb transmissió combinada
 
-La profunditat es pot suggerir mitjançant plans visuals, variacions cromàtiques, inclusions, partícules, contorns parcialment visibles, capes i canvis de definició. Aquests recursos han de comunicar una estructura interior, no una decoració aplicada sobre la superfície. La quantitat de detalls s'ha d'adaptar a l'escala: un excés pot ocultar el comportament principal.
+Alguns objectes presenten zones transparents, translúcides i opaques. En aquests casos, la representació ha de diferenciar les àrees segons el seu comportament visual.
 
-La representació final ha d'equilibrar quatre components:
-- **Contorns:** identifiquen els límits.
-- **Reflexos:** comuniquen la presència i l'orientació de la superfície.
-- **Informació transmesa o difusa:** defineix el comportament òptic.
-- **Inclusions i variacions internes:** aporten profunditat quan existeixen.
+Cal identificar les zones amb comportaments diferents, determinar quina informació es transmet en cadascuna, establir-ne els límits, representar les diferències de definició, color i profunditat, integrar les àrees en una mateixa geometria i comprovar que el resultat no sembli una combinació arbitrària de superfícies independents.
 
-Cap component no ha de dominar automàticament. Massa reflexos poden ocultar la transparència; massa detalls interns poden eliminar la sensació de transmissió; un contorn uniforme pot convertir visualment l'objecte en una peça opaca.
+Aquesta diferenciació pot ser especialment important en objectes amb parets de gruix diferent, estructures internes o components de materials diferents.
 
-## 14.8. Control de qualitat i errors
+### 14.7.2. Representació de la profunditat interna
 
-| Aspecte | Criteri de control |
-|---|---|
-| Transparència | Es conserva prou informació del fons per reconèixer què hi ha al darrere. |
-| Translucidesa | Es percep el pas de llum, però la informació transmesa perd definició coherentment. |
-| Profunditat interna | Les inclusions i estructures semblen integrades en el material. |
-| Contorns i reflexos | Identifiquen la superfície sense ocultar-ne el comportament principal. |
-| Geometria | La distribució de senyals respon a forma i curvatura. |
-| Escala | La informació es simplifica sense perdre les característiques essencials. |
-| Integració | El resultat manté una relació coherent amb la miniatura. |
+La profunditat interna es pot suggerir mitjançant l'organització de diferents plans visuals. Entre els recursos disponibles hi ha variacions cromàtiques internes, inclusions i partícules, contorns parcialment visibles, diferències de claredat, capes o estructures internes, canvis de definició i diferents intensitats de transmissió.
 
-Errors habituals:
-- **Objecte aparentment invisible:** deixar zones sense informació pot impedir reconèixer-ne la presència. Incorporar contorns, reflexos i variacions necessàries sense cobrir el fons innecessàriament.
-- **Aparença opaca:** si desapareix la informació del darrere, recuperar els elements que s'haurien de veure i moderar les intervencions superficials.
-- **Fons massa nítid:** si es conserven tots els contorns i contrastos, reduir selectivament la definició quan la geometria o el material ho exigeixin.
-- **Excés de reflexos:** reduir-ne extensió o intensitat i recuperar la relació entre superfície i transmissió.
-- **Senyals incoherents amb la forma:** revisar orientació, curvatura i posició dels reflexos i límits.
-- **Inclusió aparentment superposada:** revisar-ne distribució, contrast i relació amb les zones de transmissió.
-- **Excés de detalls interns:** conservar només els elements que aporten informació útil.
+Aquests elements s'han d'organitzar de manera que l'observador interpreti que hi ha una estructura situada dins del material i no únicament una decoració aplicada sobre la superfície.
+
+La quantitat d'informació interna s'ha d'adaptar a la mida de l'objecte i a la seva llegibilitat.
+
+### 14.7.3. Integració de contorns, reflexos i estructura interna
+
+La representació final ha de mantenir una relació coherent entre els diferents elements:
+
+- **Contorns:** identifiquen els límits de l'objecte.
+- **Reflexos:** comuniquen la presència de superfícies físiques i la seva orientació.
+- **Informació transmesa o difusa:** permet interpretar el comportament del material.
+- **Inclusions i variacions internes:** poden aportar profunditat.
+
+Cap d'aquests recursos no ha de dominar automàticament sobre els altres. Un excés de reflexos pot ocultar la transparència; un excés de detalls interns pot eliminar la sensació de transmissió, i un contorn massa uniforme pot convertir visualment l'objecte en una peça opaca.
+
+## 14.8. Control tècnic i avaluació de la representació
+
+### 14.8.1. Control de la transparència
+
+Una superfície transparent ha de permetre interpretar que hi ha informació situada darrere de l'objecte. Cal comprovar si el fons conserva elements recognoscibles, si els contorns resulten prou visibles, si els reflexos contribueixen a identificar la superfície, si les distorsions mantenen una relació amb la geometria i si la intervenció pictòrica no converteix l'objecte en una superfície opaca.
+
+### 14.8.2. Control de la translucidesa
+
+En una superfície translúcida s'ha de percebre el pas de llum sense que la informació del fons conservi necessàriament la seva nitidesa. Convé comprovar si hi ha una aparença de transmissió difusa, si la pèrdua de definició és coherent, si la coloració interna manté una distribució adequada, si les variacions de gruix o estructura resulten comprensibles i si la superfície conserva una aparença diferent de la d'un material opac.
+
+### 14.8.3. Control de la profunditat interna
+
+La profunditat interna s'ha d'integrar amb la superfície exterior. Cal comprovar que les inclusions, capes o irregularitats semblen formar part del material i no estar simplement col·locades a sobre. També convé revisar que la quantitat d'informació interna no dificulti la lectura general de l'objecte.
+
+### 14.8.4. Control dels reflexos i contorns
+
+Els reflexos i contorns han de reforçar la identificació del material sense substituir la informació que comunica la seva transparència o translucidesa. Convé revisar-ne la intensitat, l'extensió, la posició i la relació amb la geometria.
+
+### 14.8.5. Criteri de finalització
+
+La representació es pot considerar prou desenvolupada quan el comportament del material és recognoscible, la informació transmesa o difusa està organitzada de manera coherent, els contorns i reflexos permeten identificar la superfície, la profunditat interna és comprensible quan existeix, la quantitat de detalls és adequada a l'escala i l'objecte manté una lectura visual integrada amb la resta de la miniatura.
+
+El criteri de finalització no depèn de reproduir tots els fenòmens òptics possibles, sinó de comunicar clarament la identitat visual del material.
+
+## 14.9. Errors freqüents i procediments de correcció
+
+- **Objecte aparentment invisible:** deixar zones sense informació pot impedir reconèixer-ne la presència. Cal incorporar contorns, reflexos i variacions necessàries sense cobrir el fons innecessàriament.
+- **Aparença opaca:** si desapareix la informació del darrere, cal recuperar els elements que s'haurien de veure i moderar les intervencions superficials.
+- **Fons massa nítid:** si es conserven tots els contorns i contrastos, cal reduir selectivament la definició quan la geometria o el material ho exigeixin.
+- **Excés de reflexos:** cal reduir-ne l'extensió o la intensitat i recuperar la relació entre superfície i transmissió.
+- **Senyals incoherents amb la forma:** cal revisar l'orientació, la curvatura i la posició dels reflexos i límits.
+- **Inclusió aparentment superposada:** cal revisar-ne la distribució, el contrast i la relació amb les zones de transmissió.
+- **Excés de detalls interns:** cal conservar només els elements que aporten informació útil.
 - **Confusió entre mat i translúcid:** una superfície mat pot reflectir difusament sense transmetre llum a través seu. Cal representar la transmissió i la relació entre il·luminació, interior i fons.
 
-El material es considera prou representat quan el seu comportament és recognoscible, la transmissió o difusió està organitzada, les senyals superficials i internes són coherents i el detall és adequat. No cal reproduir tots els fenòmens òptics.
+La correcció ha de recuperar la relació entre el comportament del material, la seva geometria i la informació visual transmesa. No s'han d'afegir detalls automàticament per resoldre una representació poc clara.
 
-## 14.9. Exercicis pràctics
+## 14.10. Resultat esperat i criteris d'avaluació
+
+El resultat ha de permetre diferenciar visualment els materials transparents, translúcids i aquells que presenten comportaments combinats.
+
+| Criteri | Resultat esperat |
+|---|---|
+| Identificació del material | El comportament transparent o translúcid és recognoscible. |
+| Transmissió | La informació situada darrere es conserva o es difumina segons el material representat. |
+| Superfície | Els contorns i reflexos contribueixen a identificar la geometria. |
+| Profunditat interna | Les inclusions i estructures, quan existeixen, semblen integrades en el material. |
+| Coherència geomètrica | La distribució dels senyals visuals respon a la forma de l'objecte. |
+| Escala | La informació se simplifica sense perdre les característiques essencials. |
+| Integració | La representació manté una relació coherent amb el conjunt de la miniatura. |
+
+Una representació pot considerar-se satisfactòria quan l'observador identifica el comportament del material sense necessitat que se'n reprodueixin tots els detalls físics.
+
+## 14.11. Exercicis pràctics
 
 1. **Transparència, translucidesa i opacitat:** preparar tres mostres; una conserva la definició del fons, una transmet llum amb menys nitidesa i una oculta la informació posterior. Comparar les senyals que permeten distingir-les.
 2. **Relació entre objecte i fons:** representar una forma senzilla davant d'un fons amb elements reconeixibles. Conservar la informació que s'hauria de veure a través del material i incorporar contorns i reflexos necessaris.
@@ -159,3 +234,17 @@ El material es considera prou representat quan el seu comportament és recognosc
 6. **Representació integradora:** escollir un objecte transparent, translúcid o mixt; analitzar geometria, fons, estructura interna i senyals superficials; planificar i executar la representació i avaluar la coherència, l'escala i la profunditat.
 
 Els exercicis integren els fonaments del capítol i prioritzen la relació entre l'objecte i la informació que el travessa, no la simple aplicació de colors clars o transparents.
+
+## Síntesi del capítol
+
+La transparència i la translucidesa descriuen comportaments diferents dels materials que transmeten llum.
+
+Els materials transparents permeten conservar informació visual del fons, encara que la geometria i la refracció la puguin modificar. Els materials translúcids transmeten llum, però en redueixen la nitidesa a causa de la dispersió interna.
+
+La seva representació pictòrica requereix organitzar senyals visuals com la visibilitat del fons, els contorns, els reflexos, les distorsions, les variacions de gruix i les estructures internes.
+
+La tria dels recursos depèn del material, la geometria, l'escala i el comportament que es vol comunicar.
+
+És fonamental diferenciar la transparència d'una pintura de la transparència de l'objecte representat. Una pel·lícula pictòrica transparent es pot utilitzar per modificar una superfície, però no reprodueix per si mateixa la transmissió de llum d'un material.
+
+Els procediments específics per representar vidre, cristalls, gel, gemmes, líquids i altres materials es desenvoluparan als capítols corresponents del recetari.

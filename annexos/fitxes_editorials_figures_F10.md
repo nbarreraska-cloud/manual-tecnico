@@ -664,3 +664,382 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 - La proposta 5.14 (P3) queda fusionada amb 5.6; la 11.2 (P2) queda integrada amb 11.3. Cap de les dues es compta com a figura autònoma.
 - La ubicació de 7.4 es corregeix a 7.3.7.
 - No s'ha generat ni inserit cap imatge.
+
+
+## C15–C24 — Fitxes editorials normalitzades
+
+Les fitxes següents normalitzen en català les 58 propostes addicionals de la tercera síntesi. El títol i el nucli de contingut es mantenen vinculats a la proposta original; la ubicació i les condicions provenen de la llista de producció contrastada amb el manual consolidat.
+
+### C15
+
+#### 15.1 — Anàlisi de geometria, volums i superfícies
+- **Ubicació:** 15.2.
+- **Llegenda de treball:** «Anàlisi de geometria, volums i superfícies: Miniatura simplificada anotada: silueta, volums, plans, superfícies corbes, arestes, superposicions i zones protegides.»
+- **Representació:** Miniatura simplificada anotada: silueta, volums, plans, superfícies corbes, arestes, superposicions i zones protegides.
+- **Condicions i límits:** No deduir automàticament la llum de la geometria; diferenciar observació i decisió pictòrica.
+
+#### 15.3 — Mapa de valors
+- **Ubicació:** 15.6.
+- **Llegenda de treball:** «Mapa de valors: Dos mapes coordinats: distribució de la il·luminació i organització dels valors tonals.»
+- **Representació:** Dos mapes coordinats: distribució de la il·luminació i organització dels valors tonals.
+- **Condicions i límits:** No fusionar els dos mapes en una sola escala; conservar-ne la funció diferenciada.
+
+#### 15.6 — Distribució del contrast
+- **Ubicació:** 15.4 o 15.8.
+- **Llegenda de treball:** «Distribució del contrast: Comparació de distribució uniforme i jerarquitzada del contrast sobre una mateixa miniatura.»
+- **Representació:** Comparació de distribució uniforme i jerarquitzada del contrast sobre una mateixa miniatura.
+- **Condicions i límits:** La distribució uniforme no és necessàriament un error; etiquetar-la segons objectiu i context.
+
+#### 15.8 — Procés integral d'anàlisi a avaluació
+- **Ubicació:** 15.1 o 15.9.
+- **Llegenda de treball:** «Procés integral d'anàlisi a avaluació: Diagrama circular o seqüència revisable: observar, definir objectius, seleccionar esquema, mapar valors, executar i avaluar.»
+- **Representació:** Diagrama circular o seqüència revisable: observar, definir objectius, seleccionar esquema, mapar valors, executar i avaluar.
+- **Condicions i límits:** No representar-lo com una cadena rígida; incloure revisió i retorn a fases anteriors.
+
+### C16
+
+#### 16.1 — Metàl·lic i no metàl·lic
+- **Ubicació:** 16.1.
+- **Llegenda de treball:** «Metàl·lic i no metàl·lic: Comparació TMM/NMM sobre geometries equivalents: partícules reflectants reals davant de reflexos simulats pictòricament.»
+- **Representació:** Comparació TMM/NMM sobre geometries equivalents: partícules reflectants reals davant de reflexos simulats pictòricament.
+- **Condicions i límits:** No suggerir que el NMM conté pigment metàl·lic ni que el TMM depèn només del contrast pintat.
+
+#### 16.2 — Influència de la geometria en els reflexos
+- **Ubicació:** 16.2 i/o 16.6.
+- **Llegenda de treball:** «Influència de la geometria en els reflexos: Panells de superfície plana, cilíndrica, esfèrica i facetada amb patrons de reflex diferents.»
+- **Representació:** Panells de superfície plana, cilíndrica, esfèrica i facetada amb patrons de reflex diferents.
+- **Condicions i límits:** Són exemples orientatius; no establir un patró únic per geometria ni desconnectar els reflexos de l'entorn.
+
+#### 16.4 — Mapa tonal d'una peça metàl·lica
+- **Ubicació:** 16.3.
+- **Llegenda de treball:** «Mapa tonal d'una peça metàl·lica: Mapa de valors i colors sobre una peça NMM, amb zones fosques, mitjos tons, llums i reflexos.»
+- **Representació:** Mapa de valors i colors sobre una peça NMM, amb zones fosques, mitjos tons, llums i reflexos.
+- **Condicions i límits:** Ubicació corregida: no situar a 16.4, que tracta diferenciació cromàtica entre metalls.
+
+#### 16.6 — Construcció progressiva de base a reflexos i accents
+- **Ubicació:** 16.5.
+- **Llegenda de treball:** «Construcció progressiva de base a reflexos i accents: Seqüència de capes: base, masses tonals, contrastos, reflexos i accents finals.»
+- **Representació:** Seqüència de capes: base, masses tonals, contrastos, reflexos i accents finals.
+- **Condicions i límits:** Ubicació corregida; no presentar la seqüència com una recepta universal ni ometre l'adaptació geomètrica.
+
+#### 16.8 — Errors i correccions
+- **Ubicació:** 16.8.
+- **Llegenda de treball:** «Errors i correccions: Làmina diagnòstica: contrast arbitrari, reflexos incoherents, geometria mal interpretada i manca de jerarquia.»
+- **Representació:** Làmina diagnòstica: contrast arbitrari, reflexos incoherents, geometria mal interpretada i manca de jerarquia.
+- **Condicions i límits:** Cada error ha d'estar associat a la correcció descrita al capítol; no afegir defectes genèrics.
+
+### C17
+
+#### 17.1 — Font emissora, superfície il·luminada i reflex localitzat
+- **Ubicació:** 17.2.1–17.2.3.
+- **Llegenda de treball:** «Font emissora, superfície il·luminada i reflex localitzat: Esquema espacial amb font, superfícies receptores, il·luminació directa i reflex especular localitzat.»
+- **Representació:** Esquema espacial amb font, superfícies receptores, il·luminació directa i reflex especular localitzat.
+- **Condicions i límits:** Distingir llum rebuda i reflex; un color intens no prova emissió.
+
+#### 17.3 — Geometria, orientació i bloqueig
+- **Ubicació:** 17.3.4–17.3.6.
+- **Llegenda de treball:** «Geometria, orientació i bloqueig: Vista de font, objectes, orientació de plans, obstacles i zones d'ombra.»
+- **Representació:** Vista de font, objectes, orientació de plans, obstacles i zones d'ombra.
+- **Condicions i límits:** Respectar la posició relativa dels elements; no il·luminar superfícies ocultes sense justificació.
+
+#### 17.4 — Jerarquia de valors
+- **Ubicació:** 17.4.1–17.4.2.
+- **Llegenda de treball:** «Jerarquia de valors: Escala/diagrama de valors que separi font, zona pròxima il·luminada i entorn.»
+- **Representació:** Escala/diagrama de valors que separi font, zona pròxima il·luminada i entorn.
+- **Condicions i límits:** No imposar un centre blanc universal ni una gradació cromàtica fixa.
+
+#### 17.7 — Il·luminació general i reflexos en superfícies mates i brillants
+- **Ubicació:** 17.6.4–17.6.5.
+- **Llegenda de treball:** «Il·luminació general i reflexos en superfícies mates i brillants: Comparació de la mateixa llum sobre superfície mat i brillant.»
+- **Representació:** Comparació de la mateixa llum sobre superfície mat i brillant.
+- **Condicions i límits:** Ubicació corregida; diferenciar canvi ampli d'aparença i reflex localitzat.
+
+#### 17.8 — Seqüència de construcció i integració de l'OSL
+- **Ubicació:** 17.5.1–17.5.7.
+- **Llegenda de treball:** «Seqüència de construcció i integració de l'OSL: Seqüència de planificació, font, superfícies receptores, aplicació, integració i avaluació.»
+- **Representació:** Seqüència de planificació, font, superfícies receptores, aplicació, integració i avaluació.
+- **Condicions i límits:** Ubicació corregida; no confondre amb el bloc d'errors.
+
+#### 17.10 — Errors freqüents
+- **Ubicació:** 17.8.
+- **Llegenda de treball:** «Errors freqüents: Làmina diagnòstica d'errors d'origen, direcció, extensió, valor, color i integració de la llum.»
+- **Representació:** Làmina diagnòstica d'errors d'origen, direcció, extensió, valor, color i integració de la llum.
+- **Condicions i límits:** Ubicació corregida; el 17.10 correspon als exercicis.
+
+### C18
+
+#### 18.1 — Mapa del procés integral
+- **Ubicació:** 18.1.
+- **Llegenda de treball:** «Mapa del procés integral: Diagrama de planificació revisable: anàlisi, objectius, recursos, selecció, seqüenciació i avaluació.»
+- **Representació:** Diagrama de planificació revisable: anàlisi, objectius, recursos, selecció, seqüenciació i avaluació.
+- **Condicions i límits:** No presentar una seqüència única vàlida per a totes les miniatures.
+
+#### 18.3 — Planificació cromàtica, tonal i lumínica
+- **Ubicació:** 18.3.
+- **Llegenda de treball:** «Planificació cromàtica, tonal i lumínica: Tres capes o mapes coordinats: color, valors i il·luminació.»
+- **Representació:** Tres capes o mapes coordinats: color, valors i il·luminació.
+- **Condicions i límits:** Mostrar interdependència sense confondre les tres variables.
+
+#### 18.4 — Arbre de selecció de tècniques
+- **Ubicació:** 18.4.
+- **Llegenda de treball:** «Arbre de selecció de tècniques: Arbre de decisió segons objectiu, superfície, control, limitacions i operacions posteriors.»
+- **Representació:** Arbre de decisió segons objectiu, superfície, control, limitacions i operacions posteriors.
+- **Condicions i límits:** Les branques han de permetre més d'una solució; no assignar una tècnica única a cada material.
+
+#### 18.6 — Organització per zones, materials i fases
+- **Ubicació:** 18.5.4.
+- **Llegenda de treball:** «Organització per zones, materials i fases: Esquema de planificació per components/zones, famílies de materials i fases d'execució.»
+- **Representació:** Esquema de planificació per components/zones, famílies de materials i fases d'execució.
+- **Condicions i límits:** Ubicació corregida; distingir organització de la seqüència de compatibilitat de tècniques del 18.6.
+
+### C19
+
+#### 19.3 — Construcció TMM d'acer i plata
+- **Ubicació:** 19.2–19.3.
+- **Llegenda de treball:** «Construcció TMM d'acer i plata: Seqüència didàctica amb base metàl·lica, modificació cromàtica i construcció tonal per acer/plata.»
+- **Representació:** Seqüència didàctica amb base metàl·lica, modificació cromàtica i construcció tonal per acer/plata.
+- **Condicions i límits:** Les receptes són propostes, no assajos; no inventar proporcions ni presentar resultats com a proves reals.
+
+#### 19.4 — Construcció TMM d'or
+- **Ubicació:** 19.4.2.
+- **Llegenda de treball:** «Construcció TMM d'or: Seqüència de base, variacions cromàtiques, ombres i llums per a les variants descrites.»
+- **Representació:** Seqüència de base, variacions cromàtiques, ombres i llums per a les variants descrites.
+- **Condicions i límits:** Respectar variants i paleta disponible; no afegir productes o proporcions absents del text.
+
+#### 19.5 — Construcció de coure
+- **Ubicació:** 19.5.2.
+- **Llegenda de treball:** «Construcció de coure: Seqüència de modificació cromàtica d'una base metàl·lica disponible per suggerir coure.»
+- **Representació:** Seqüència de modificació cromàtica d'una base metàl·lica disponible per suggerir coure.
+- **Condicions i límits:** No suggerir que el catàleg conté una pintura metàl·lica específica de coure.
+
+#### 19.6 — Construcció de bronze
+- **Ubicació:** 19.6.2.
+- **Llegenda de treball:** «Construcció de bronze: Seqüència de modificació cromàtica i tonal per suggerir bronze.»
+- **Representació:** Seqüència de modificació cromàtica i tonal per suggerir bronze.
+- **Condicions i límits:** No atribuir el resultat a una pintura específica de bronze absent de la paleta.
+
+#### 19.9 — Errors i control
+- **Ubicació:** 19.9.
+- **Llegenda de treball:** «Errors i control: Làmina diagnòstica de dominants, reflexos, contrast, diferenciació de metalls i correcció selectiva.»
+- **Representació:** Làmina diagnòstica de dominants, reflexos, contrast, diferenciació de metalls i correcció selectiva.
+- **Condicions i límits:** Vincular cada símptoma amb els criteris de control del capítol; no generalitzar receptes.
+
+### C20
+
+#### 20.1 — Direcció de fibres, vetes, nusos i anells
+- **Ubicació:** 20.1–20.2.
+- **Llegenda de treball:** «Direcció de fibres, vetes, nusos i anells: Comparació de patrons longitudinals, transversals i de tall, amb direcció de fibra, vetes i nusos.»
+- **Representació:** Comparació de patrons longitudinals, transversals i de tall, amb direcció de fibra, vetes i nusos.
+- **Condicions i límits:** Integrar 20.2 com a panell de la mateixa làmina; no duplicar una figura autònoma.
+
+#### 20.2 — Patrons segons el tall
+- **Ubicació:** 20.2.
+- **Llegenda de treball:** «Patrons segons el tall: Panell integrat a 20.1 amb secció i orientació dels anells.»
+- **Representació:** Panell integrat a 20.1 amb secció i orientació dels anells.
+- **Condicions i límits:** **Fusió recomanada amb 20.1**, no una segona figura independent.
+
+#### 20.4 — Construcció de vetes
+- **Ubicació:** 20.8.1.
+- **Llegenda de treball:** «Construcció de vetes: Seqüència de base, variacions, vetes longitudinals, discontinuïtats i recuperació de llum.»
+- **Representació:** Seqüència de base, variacions, vetes longitudinals, discontinuïtats i recuperació de llum.
+- **Condicions i límits:** Respectar direcció, longitud, amplada i jerarquia; adaptar el detall a escala i curvatura.
+
+#### 20.5 — Nus i desviació de fibres
+- **Ubicació:** 20.8.2.
+- **Llegenda de treball:** «Nus i desviació de fibres: Detall ampliat d'un nus amb desviació i continuïtat de les vetes.»
+- **Representació:** Detall ampliat d'un nus amb desviació i continuïtat de les vetes.
+- **Condicions i límits:** No representar el nus com un cercle independent; les fibres han de girar al seu voltant.
+
+#### 20.7 — Adaptació a geometries
+- **Ubicació:** 20.9.2.
+- **Llegenda de treball:** «Adaptació a geometries: Comparació de vetes sobre tauler, cilindre, peça corba i element irregular.»
+- **Representació:** Comparació de vetes sobre tauler, cilindre, peça corba i element irregular.
+- **Condicions i límits:** Ubicació corregida; mantenir continuïtat de patró segons la forma del suport.
+
+#### 20.8 — Fusta natural, envellida, desgastada i humida
+- **Ubicació:** 20.7.1–20.7.4.
+- **Llegenda de treball:** «Fusta natural, envellida, desgastada i humida: Quatre panells d'estat superficial sobre una mateixa família de fusta.»
+- **Representació:** Quatre panells d'estat superficial sobre una mateixa família de fusta.
+- **Condicions i límits:** Diferenciar color, textura, lluentor i alteració; no reduir els estats a canvis de to.
+
+#### 20.9 — Errors i correccions
+- **Ubicació:** 20.9.3.
+- **Llegenda de treball:** «Errors i correccions: Làmina diagnòstica de vetes massa regulars, escala incorrecta, patró desalineat i manca de continuïtat.»
+- **Representació:** Làmina diagnòstica de vetes massa regulars, escala incorrecta, patró desalineat i manca de continuïtat.
+- **Condicions i límits:** Cada correcció ha de correspondre a l'error descrit al capítol.
+
+### C21
+
+#### 21.1 — Tipus principals de vegetació
+- **Ubicació:** 21.1–21.2.
+- **Llegenda de treball:** «Tipus principals de vegetació: Làmina comparativa de fullatge ample, coníferes, herbàcies, molsa, líquens i vegetació seca.»
+- **Representació:** Làmina comparativa de fullatge ample, coníferes, herbàcies, molsa, líquens i vegetació seca.
+- **Condicions i límits:** Diferenciar estructura, creixement i densitat; no classificar només pel color.
+
+#### 21.2 — Morfologia de fulles
+- **Ubicació:** 21.2.
+- **Llegenda de treball:** «Morfologia de fulles: Comparació simplificada de formes i agrupacions de fulles.»
+- **Representació:** Comparació simplificada de formes i agrupacions de fulles.
+- **Condicions i límits:** No convertir-la en una classificació botànica exhaustiva ni afegir espècies no necessàries.
+
+#### 21.3 — Agrupació, densitat i superposició
+- **Ubicació:** 21.2.
+- **Llegenda de treball:** «Agrupació, densitat i superposició: Seqüència de massa general, buits, agrupacions i superposició de fulles.»
+- **Representació:** Seqüència de massa general, buits, agrupacions i superposició de fulles.
+- **Condicions i límits:** Prioritzar lectura de massa; no dibuixar cada fulla ni uniformitzar el volum.
+
+#### 21.5 — Branques i agrupacions aciculars
+- **Ubicació:** 21.5.
+- **Llegenda de treball:** «Branques i agrupacions aciculars: Construcció en dos nivells: capçada/branques i agrupacions d'agulles direccionals.»
+- **Representació:** Construcció en dos nivells: capçada/branques i agrupacions d'agulles direccionals.
+- **Condicions i límits:** Respectar orientació i densitat; evitar patrons repetitius o radials artificials.
+
+#### 21.6 — Tiges, fulles i gramínies
+- **Ubicació:** 21.6.
+- **Llegenda de treball:** «Tiges, fulles i gramínies: Comparació de tiges, fulles allargades, espigues i fulles seques.»
+- **Representació:** Comparació de tiges, fulles allargades, espigues i fulles seques.
+- **Condicions i límits:** Diferenciar direcció, alçada i agrupació; adaptar la simplificació a escala.
+
+#### 21.7 — Formes de molsa
+- **Ubicació:** 21.7.
+- **Llegenda de treball:** «Formes de molsa: Comparació de coixins, tapissos i agrupacions irregulars sobre suports.»
+- **Representació:** Comparació de coixins, tapissos i agrupacions irregulars sobre suports.
+- **Condicions i límits:** Mostrar relleu i densitat; no representar molsa com una taca verda uniforme.
+
+#### 21.8 — Formes de líquens
+- **Ubicació:** 21.8.
+- **Llegenda de treball:** «Formes de líquens: Comparació de formes crustàcies, foliàcies, fruticuloses i esquamuloses.»
+- **Representació:** Comparació de formes crustàcies, foliàcies, fruticuloses i esquamuloses.
+- **Condicions i límits:** No confondre líquens amb molsa ni representar-los com a plantes de fulla.
+
+### C22
+
+#### 22.1 — Gra del cuir
+- **Ubicació:** 22.1–22.2.
+- **Llegenda de treball:** «Gra del cuir: Detall comparatiu de gra natural, gra corregit i superfície tractada.»
+- **Representació:** Detall comparatiu de gra natural, gra corregit i superfície tractada.
+- **Condicions i límits:** Simplificar porus i irregularitats a escala; no dibuixar cada porus.
+
+#### 22.2 — Cuir natural, corregit, ante i nobuk
+- **Ubicació:** 22.2.
+- **Llegenda de treball:** «Cuir natural, corregit, ante i nobuk: Quatre panells de textura i resposta superficial.»
+- **Representació:** Quatre panells de textura i resposta superficial.
+- **Condicions i límits:** Diferenciar gra, fibra vellutada i acabat; la distinció ante/nobuk és orientativa i depèn del producte.
+
+#### 22.4 — Construcció de cuir natural
+- **Ubicació:** 22.4.
+- **Llegenda de treball:** «Construcció de cuir natural: Seqüència de base, variacions, ombres, llums, cantells i marques d'ús.»
+- **Representació:** Seqüència de base, variacions, ombres, llums, cantells i marques d'ús.
+- **Condicions i límits:** Adaptar a geometria i gruix; les receptes són propostes no assajades.
+
+#### 22.5 — Ante i nobuk
+- **Ubicació:** 22.2 i 22.6.
+- **Llegenda de treball:** «Ante i nobuk: Comparació de superfície fibrosa de l'ante i lectura de gra més perceptible del nobuk.»
+- **Representació:** Comparació de superfície fibrosa de l'ante i lectura de gra més perceptible del nobuk.
+- **Condicions i límits:** Evitar reflexos brillants i no convertir la distinció orientativa en regla absoluta.
+
+#### 22.6 — Plecs i deformacions
+- **Ubicació:** 22.9.
+- **Llegenda de treball:** «Plecs i deformacions: Detalls de plecs, compressions, tensions i deformacions.»
+- **Representació:** Detalls de plecs, compressions, tensions i deformacions.
+- **Condicions i límits:** Ubicació corregida; respectar gruix, flexibilitat i punts de subjecció.
+
+#### 22.7 — Cantells, gruix i costures
+- **Ubicació:** 22.9.
+- **Llegenda de treball:** «Cantells, gruix i costures: Detalls de secció, vores, costures i unions.»
+- **Representació:** Detalls de secció, vores, costures i unions.
+- **Condicions i límits:** Ubicació corregida; no confondre costura decorativa amb estructura del material.
+
+#### 22.9 — Errors freqüents
+- **Ubicació:** apartat de control i errors del C22.
+- **Llegenda de treball:** «Errors freqüents: Làmina diagnòstica de cuir excessivament brillant, textura desproporcionada, plecs incoherents i confusió entre cuir, ante i nobuk.»
+- **Representació:** Làmina diagnòstica de cuir excessivament brillant, textura desproporcionada, plecs incoherents i confusió entre cuir, ante i nobuk.
+- **Condicions i límits:** Vincular cada error amb una correcció del text; evitar solucions universals.
+
+### C23
+
+#### 23.1 — Tafetà, sarja i setí
+- **Ubicació:** 23.2.
+- **Llegenda de treball:** «Tafetà, sarja i setí: Comparació esquemàtica dels patrons d'entrellaçat i la seva lectura superficial.»
+- **Representació:** Comparació esquemàtica dels patrons d'entrellaçat i la seva lectura superficial.
+- **Condicions i límits:** Diferenciar estructura i acabat; no representar el vellut com una estructura equivalent.
+
+#### 23.2 — Famílies de teixits
+- **Ubicació:** 23.1–23.2.
+- **Llegenda de treball:** «Famílies de teixits: Matriu de fibra, estructura, gruix, caiguda, textura i acabat.»
+- **Representació:** Matriu de fibra, estructura, gruix, caiguda, textura i acabat.
+- **Condicions i límits:** Les associacions són orientatives; no atribuir una aparença única a cada fibra.
+
+#### 23.3 — Construcció cromàtica de teixits clars
+- **Ubicació:** 23.4.
+- **Llegenda de treball:** «Construcció cromàtica de teixits clars: Seqüència de base, tons mitjans, ombres, llums i plecs sobre teixit clar.»
+- **Representació:** Seqüència de base, tons mitjans, ombres, llums i plecs sobre teixit clar.
+- **Condicions i límits:** No convertir la superfície en blanc uniforme; preservar volum i variacions.
+
+#### 23.5 — Teixits gruixuts i de pèl
+- **Ubicació:** 23.5.
+- **Llegenda de treball:** «Teixits gruixuts i de pèl: Comparació de volum, textura i direcció del pèl en teixits gruixuts.»
+- **Representació:** Comparació de volum, textura i direcció del pèl en teixits gruixuts.
+- **Condicions i límits:** Evitar punts o línies decoratives excessives; escala i estructura han de governar el detall.
+
+#### 23.6 — Plecs i punts de tensió
+- **Ubicació:** 23.9.1–23.9.2.
+- **Llegenda de treball:** «Plecs i punts de tensió: Esquema de punts de fixació, tensió, compressió i direcció dels plecs.»
+- **Representació:** Esquema de punts de fixació, tensió, compressió i direcció dels plecs.
+- **Condicions i límits:** Ubicació corregida; no representar plecs com a línies arbitràries ni ignorar gravetat i subjecció.
+
+#### 23.8 — Errors freqüents
+- **Ubicació:** 23.9.4.
+- **Llegenda de treball:** «Errors freqüents: Làmina diagnòstica de plecs, patrons, textura i reflexos incoherents.»
+- **Representació:** Làmina diagnòstica de plecs, patrons, textura i reflexos incoherents.
+- **Condicions i límits:** Ubicació corregida; cada exemple ha de correspondre a l'error i correcció del capítol.
+
+### C24
+
+#### 24.2 — Pigmentacions clares, intermèdies i profundes
+- **Ubicació:** 24.2 i 24.4–24.5.
+- **Llegenda de treball:** «Pigmentacions clares, intermèdies i profundes: Comparació de diferents aparences de pell amb variacions locals de matís, valor i temperatura.»
+- **Representació:** Comparació de diferents aparences de pell amb variacions locals de matís, valor i temperatura.
+- **Condicions i límits:** Categories orientatives, no grups biològics tancats ni temperatures cromàtiques fixes.
+
+#### 24.3 — Mapa cromàtic del rostre
+- **Ubicació:** 24.7.
+- **Llegenda de treball:** «Mapa cromàtic del rostre: Mapa facial orientatiu de variacions locals sobre una referència concreta.»
+- **Representació:** Mapa facial orientatiu de variacions locals sobre una referència concreta.
+- **Condicions i límits:** No és universal; dependrà de la referència, la pigmentació i la il·luminació.
+
+#### 24.4 — Construcció de pell clara
+- **Ubicació:** 24.4.
+- **Llegenda de treball:** «Construcció de pell clara: Seqüència de base, tons mitjans, ombres, variacions locals i llums.»
+- **Representació:** Seqüència de base, tons mitjans, ombres, variacions locals i llums.
+- **Condicions i límits:** Respectar les receptes del capítol; no reduir la pell a blanc, rosa i beix.
+
+#### 24.5 — Construcció de pell profunda
+- **Ubicació:** 24.5.
+- **Llegenda de treball:** «Construcció de pell profunda: Seqüència de base, profunditat cromàtica, variacions i llums.»
+- **Representació:** Seqüència de base, profunditat cromàtica, variacions i llums.
+- **Condicions i límits:** No aplicar aclarits desaturats generalitzats ni neutralitzar la base.
+
+#### 24.7 — Masses musculars
+- **Ubicació:** 24.8.
+- **Llegenda de treball:** «Masses musculars: Esquema anatòmic simplificat de masses i volums musculars.»
+- **Representació:** Esquema anatòmic simplificat de masses i volums musculars.
+- **Condicions i límits:** Ha de ser anatòmicament fiable a nivell general; no és una il·lustració mèdica ni ha d'afegir detalls no sustentats.
+
+#### 24.8 — Múscul, teixit adipós i connectiu
+- **Ubicació:** 24.8.
+- **Llegenda de treball:** «Múscul, teixit adipós i connectiu: Comparació esquemàtica de feixos musculars, teixit adipós i estructures connectives.»
+- **Representació:** Comparació esquemàtica de feixos musculars, teixit adipós i estructures connectives.
+- **Condicions i límits:** Diferenciar els teixits sense inventar anatomia ni confondre estructures òssies o queratíniques.
+
+#### 24.9 — Errors freqüents
+- **Ubicació:** 24.9.3.
+- **Llegenda de treball:** «Errors freqüents: Làmina diagnòstica de pigmentació plana, variacions excessives, anatomia poc llegible i llums/ombres incoherents.»
+- **Representació:** Làmina diagnòstica de pigmentació plana, variacions excessives, anatomia poc llegible i llums/ombres incoherents.
+- **Condicions i límits:** Els exemples han de correspondre als errors i correccions del capítol.
+
+### Control de la tanda C15–C24
+
+- Especificacions convertides en fitxes editorials: 58.
+- Identificadors agrupats en composicions fusionades es mantenen explícits per traçabilitat; no s'han de convertir automàticament en figures separades.
+- No s'han generat ni inserit imatges.

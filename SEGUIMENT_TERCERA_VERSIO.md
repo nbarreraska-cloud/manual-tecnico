@@ -112,6 +112,14 @@ Cal recuperar procediments, explicacions tècniques, fonaments, advertiments, de
 - Restituïts els criteris d'avaluació, els cinc exercicis i la síntesi del capítol.
 - Mantinguda la delimitació respecte de la teoria de llum del capítol 5 i la il·luminació aplicada del capítol 15.
 
+### Capítol 13 — Tècniques de textura
+
+- Recuperats els fonaments de textura real i representada, distribució de marques, escala, simplificació i relació amb geometria i material.
+- Desenvolupats els quatre procediments en apartats diferenciats: pinzell sec, puntejat, ratllat i esponjat, amb definició, preparació, aplicació, variables, usos i limitacions.
+- Recuperats els criteris de combinació, jerarquia, densitat i adaptació a la geometria.
+- Restituïts nou errors freqüents, els criteris d'avaluació i els sis exercicis.
+- Afegida la síntesi del capítol. Les propostes de figures i les notes de registre editorial s'han mantingut fora del text de lectura.
+
 ## Tasques pendents
 
 1. Validar la integritat textual i estructural dels capítols 4 i 5 després de les recuperacions.

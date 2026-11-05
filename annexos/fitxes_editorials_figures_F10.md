@@ -108,3 +108,131 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 - Les propostes no seleccionades d'aquests capítols no s'incorporen a aquesta llista; es conserven a la classificació i al document original per traçabilitat.
 - Les llegendes són textos de treball en català, pendents de revisió final un cop es defineixi la composició i la numeració editorial.
 - No s'ha generat ni inserit cap imatge.
+
+
+## C33 — Ceràmica i plàstics
+
+### 33.1 — Comparació de cossos ceràmics
+- **Llegenda prevista:** «Comparació de ceràmica porosa, ceràmica compacta i porcellana segons l'estructura i l'aparença.»
+- **Representació:** tres cossos ceràmics diferenciats per estructura i aparença.
+- **Funció didàctica:** distingir el cos del material sense utilitzar la brillantor com a criteri únic.
+- **Límits:** no reduir la diferència a l'acabat superficial ni confondre el cos ceràmic amb l'esmalt.
+
+### 33.2 — Ceràmica sense esmaltar i superfícies esmaltades
+- **Llegenda prevista:** «Canvis de continuïtat, textura i aparença entre una superfície ceràmica sense esmaltar i diverses superfícies esmaltades.»
+- **Representació:** comparació d'una superfície sense recobriment amb superfícies esmaltades.
+- **Funció didàctica:** mostrar l'efecte del recobriment sobre la lectura de la peça.
+- **Límits:** no confondre esmalt ceràmic amb vernís protector ni suggerir que tots els esmalts tenen la mateixa resposta.
+
+### 33.5 — Construcció d'una superfície de terracota
+- **Llegenda prevista:** «Seqüència cromàtica d'una superfície de terracota: base, variacions rogences, ombres i aclarits.»
+- **Representació:** fases de construcció cromàtica de la superfície ceràmica càlida.
+- **Funció didàctica:** explicar la progressió tonal sense recórrer a una textura genèrica de pedra.
+- **Límits:** no afegir receptes o proporcions no descrites al capítol; no representar terracota com a roca.
+
+### 33.6 — Construcció d'un esmalt acolorit
+- **Llegenda prevista:** «Construcció cromàtica d'un esmalt acolorit i organització dels reflexos sobre la superfície.»
+- **Representació:** superfície esmaltada acolorida, amb separació clara entre color de l'esmalt i distribució dels reflexos.
+- **Funció didàctica:** diferenciar el color del recobriment i el seu acabat superficial.
+- **Límits:** no confondre color amb brillantor ni introduir procediments d'envernissament aliens al capítol.
+
+### 33.7 — Craquelat i pèrdua localitzada de l'esmalt
+- **Llegenda prevista:** «Diferències entre esmalt intacte, craquelat superficial i pèrdua localitzada del recobriment.»
+- **Representació:** tres estats comparables d'una superfície esmaltada.
+- **Funció didàctica:** distingir fissures superficials de fractures del cos ceràmic.
+- **Límits:** no representar el craquelat com una fractura estructural ni confondre'l amb una pèrdua de material.
+
+### 33.9 — Reflexos sobre superfícies plàstiques
+- **Llegenda prevista:** «Distribució dels reflexos sobre superfícies plàstiques planes, corbes i amb relleus emmotllats.»
+- **Representació:** comparació de tres geometries amb distribucions de reflexos coherents.
+- **Funció didàctica:** mostrar com la geometria condiciona l'aparença de l'acabat.
+- **Límits:** no generalitzar una única resposta a tots els plàstics ni confondre reflexos amb propietats exclusives del material.
+
+## C34 — Vidre
+
+### 34.1 — Comparació de tipus de vidre
+- **Llegenda prevista:** «Vidre transparent incolor, vidre acolorit i vidre esmerilat: diferències en la informació del fons i la transmissió visual.»
+- **Representació:** tres superfícies davant d'un mateix fons.
+- **Funció didàctica:** mostrar com varien la informació transmesa i la intensitat cromàtica.
+- **Límits:** distingir transparència, coloració i difusió; no representar el vidre esmerilat com a opac per defecte.
+
+### 34.2 — Senyals visuals del vidre
+- **Llegenda prevista:** «Vores, reflexos, fons transmès, gruix i distorsió com a indicis visuals del vidre.»
+- **Representació:** superfície de vidre amb anotacions dels senyals que permeten reconèixer-la.
+- **Funció didàctica:** reunir els indicis visuals sense convertir-los en una recepta de pintura.
+- **Límits:** adaptar els senyals a la geometria; no perfilar uniformement tot el contorn.
+
+### 34.3 — Construcció d'un panell de vidre transparent
+- **Llegenda prevista:** «Seqüència de construcció d'un panell transparent: fons, vores parcials, reflexos i accents de llum.»
+- **Representació:** seqüència d'una finestra o panell pla que conservi la lectura del fons.
+- **Funció didàctica:** mostrar com representar transparència sense omplir la superfície de blanc.
+- **Límits:** limitar els reflexos a zones justificades i preservar la informació del fons.
+
+### 34.5 — Vidre acolorit
+- **Llegenda prevista:** «Comparació de vidres verd, blau, ambre i rogenc sense perdre els indicis de transparència.»
+- **Representació:** quatre exemples de vidre acolorit amb fons visible.
+- **Funció didàctica:** mostrar la variació cromàtica compatible amb la lectura de transparència.
+- **Límits:** no convertir el vidre acolorit en una superfície opaca ni uniformitzar-ne la transmissió.
+
+### 34.7 — Vidre transparent i esmerilat
+- **Llegenda prevista:** «Una mateixa escena vista a través de vidre transparent i de vidre esmerilat.»
+- **Representació:** comparació de la definició del fons en una superfície transparent i de la seva difusió en una superfície esmerilada.
+- **Funció didàctica:** fer visible la diferència entre transmissió definida i transmissió difusa.
+- **Límits:** mantenir la mateixa escena i condicions de comparació; no confondre esmerilat amb opacitat absoluta.
+
+### 34.9 — Esquerdes, fractures i fragments de vidre
+- **Llegenda prevista:** «Diferències entre una superfície esquerdada, una fractura extensa i fragments separats de vidre.»
+- **Representació:** tres estats de dany, amb línies de fractura i vores dels fragments diferenciades.
+- **Funció didàctica:** evitar que les esquerdes superficials, les fractures i els fragments es representin com el mateix fenomen.
+- **Límits:** mantenir coherència geomètrica dels fragments i no confondre les vores amb reflexos.
+
+## C35 — Integració cromàtica
+
+### 35.1 — Anàlisi cromàtica global
+- **Llegenda prevista:** «Identificació dels colors dominants, secundaris i accents d'una miniatura abans d'intervenir.»
+- **Representació:** miniatura anotada amb les masses cromàtiques principals.
+- **Funció didàctica:** mostrar com s'analitza la distribució cromàtica abans de seleccionar correccions.
+- **Límits:** no confondre extensió, saturació i importància visual.
+
+### 35.2 — Distribució de masses cromàtiques
+- **Llegenda prevista:** «Distribució simplificada dels colors principals i del seu pes visual.»
+- **Representació:** mapa de masses cromàtiques d'una miniatura simplificada.
+- **Funció didàctica:** diferenciar l'extensió física d'un color de la seva importància perceptiva.
+- **Límits:** no atribuir el pes visual exclusivament a la superfície ocupada.
+
+### 35.4 — Harmonització i uniformitat
+- **Llegenda prevista:** «Comparació entre unitat cromàtica amb identitat material i modificació excessivament uniforme.»
+- **Representació:** dues miniatures o dues versions comparables: una amb colors relacionats però diferenciats i una altra amb uniformització excessiva.
+- **Funció didàctica:** distingir harmonització de pèrdua d'identitat material.
+- **Límits:** no presentar tota uniformitat com a error; contextualitzar-la segons l'objectiu visual.
+
+### 35.5 — Integració cromàtica entre materials
+- **Llegenda prevista:** «Relacions cromàtiques compartides entre metall, cuir, teixit i pell, preservant la identitat de cada material.»
+- **Representació:** composició amb materials diferents i anotacions de les relacions cromàtiques que els connecten.
+- **Funció didàctica:** mostrar com crear unitat sense eliminar les diferències materials.
+- **Límits:** no igualar les textures, els acabats ni les respostes òptiques.
+
+### 35.6 — Integració cromàtica de figura i peanya
+- **Llegenda prevista:** «Relació entre els colors dominants de la figura, els materials del terreny i els elements de la peanya.»
+- **Representació:** figura i peanya en una mateixa composició, amb les relacions cromàtiques principals assenyalades.
+- **Funció didàctica:** explicar com les dues parts poden funcionar com una composició comuna.
+- **Límits:** no exigir paletes idèntiques ni una fusió cromàtica completa.
+
+### 35.8 — Correccions localitzades i globals
+- **Llegenda prevista:** «Comparació de l'abast d'una correcció localitzada i d'una intervenció cromàtica global.»
+- **Representació:** dues intervencions sobre una mateixa miniatura, amb les zones afectades delimitades.
+- **Funció didàctica:** mostrar la diferència d'abast i el risc d'alterar zones que ja funcionaven.
+- **Límits:** no suggerir que una intervenció global és sempre incorrecta; justificar la decisió segons el diagnòstic.
+
+### 35.9 — Seqüència d'harmonització cromàtica
+- **Llegenda prevista:** «Procés d'anàlisi, diagnòstic, definició d'objectius, intervenció i avaluació de la integració cromàtica.»
+- **Representació:** seqüència revisable de les fases d'harmonització. La informació útil de la proposta 35.10 s'integra com a panell d'avaluació final i errors freqüents.
+- **Funció didàctica:** reunir el procés i els criteris de control en una figura integradora.
+- **Límits:** no presentar el procés com una cadena rígida ni duplicar la figura 35.10 com a figura independent.
+
+## Control d'aquesta tanda
+
+- Propostes P1 tractades: 6 de C33, 6 de C34 i 7 de C35 (**19 fitxes editorials**).
+- La proposta 35.10 (P3) s'integra com a panell d'avaluació i errors dins de 35.9; no es compta com a figura autònoma.
+- Les propostes no seleccionades es mantenen a la font original i a la classificació per preservar-ne la traçabilitat.
+- No s'ha generat ni inserit cap imatge.

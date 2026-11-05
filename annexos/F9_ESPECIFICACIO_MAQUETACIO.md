@@ -100,3 +100,17 @@ A petició de l'usuari, la generació final incorpora la divisió en cinc parts 
 - Part V — Annexos i eines de consulta: annexos A–F.
 
 Cada part s'identifica amb un marcador discret al començament, integrat a la primera pàgina de contingut, i una capçalera corrent que indica la part a totes les pàgines corresponents. La numeració de pàgina continua sense reiniciar-se. No es creen portadelles ni salts de pàgina addicionals per introduir les parts. Cal comprovar el PDF resultant per confirmar que les capçaleres canvien a cada límit, que no apareixen pàgines en blanc i que l'extensió no augmenta per pàgines de separació.
+
+
+## 11. Actualització editorial de l'Annex F — fitxes de consulta
+
+La presentació de les 48 fitxes es redefineix per prioritzar informació útil i consulta ràpida:
+
+- Composició en quadrícula de dues columnes i dues files: quatre fitxes per pàgina com a objectiu de maquetació, amb alçada adaptable si el contingut ho exigeix.
+- Cada fitxa mostra nom, referència, conjunt, família comercial, característiques de gamma documentades i funcions/relacions traçables als capítols.
+- Se suprimeix de la fitxa visual el camp repetitiu «estat de verificació». Les limitacions documentals es concentren en la introducció de l'annex i en les fonts de treball.
+- Les característiques tècniques s'atribueixen a la família només quan la font del fabricant les descriu expressament. No s'infereixen valors individuals de duresa, opacitat, cobertura, transparència, viscositat, assecat o acabat quan no hi ha dades específiques.
+- Quan la font només identifica Model Color sense caracterització tècnica individual recuperada, la fitxa ho indica de manera breu, sense omplir el buit amb propietats suposades.
+- La funció cromàtica o tècnica dins del manual es manté vinculada als capítols i a les taules d'origen; no es presenta com a prova experimental.
+
+Aquesta actualització modifica la presentació de l'Annex F i la seva síntesi visual, no l'arquitectura de 39 capítols ni les fonts individuals. La regeneració es fa mitjançant GitHub Actions a la branca de treball.

@@ -6054,27 +6054,6 @@ En acabar, comprovar la llegibilitat, la jerarquia tonal, la coherència de les 
 ## Síntesi del capítol
 
 La il·luminació aplicada requereix analitzar la geometria i la funció dels elements, seleccionar un esquema coherent i traduir-lo en una jerarquia de valors. Els mapes d'il·luminació i de valors permeten anticipar les decisions, però no són equivalents ni constitueixen receptes fixes. Durant l'execució cal revisar el resultat des de diferents distàncies i ajustar les zones que ho necessitin. No hi ha una direcció lumínica ni una proporció de llums i ombres universal: la solució depèn de la miniatura, la intenció visual i la llegibilitat del conjunt.
-
-## Figures proposades per a la fase gràfica final
-
-1. Anàlisi de la geometria, els volums i les superfícies principals.
-2. Comparació de diferents direccions d'il·luminació sobre una mateixa miniatura.
-3. Mapa de valors amb nivells funcionals, sense associar-los a mescles universals.
-4. Comparació entre mapa d'il·luminació i mapa de valors.
-5. Planificació per zones de la figura.
-6. Distribució uniforme i distribució jerarquitzada del contrast.
-7. Exemples de coherència i contradicció lumínica, diferenciant els errors de les simplificacions deliberades.
-8. Procés integral des de l'anàlisi inicial fins a l'avaluació.
-
-## Registre editorial
-
-- Estructura: deu apartats, síntesi i sis exercicis.
-- Enfocament: anàlisi, selecció de l'esquema, jerarquia tonal, mapes, planificació per zones, aplicació i avaluació.
-- Delimitació: els fonaments físics i perceptius corresponen al capítol 5; la teoria del color, al capítol 4; les tècniques d'aplicació, als capítols corresponents. Aquest capítol no les repeteix.
-- Criteri central: no hi ha una direcció de llum, una proporció de llums i ombres ni una escala tonal universal.
-- Estat de verificació: síntesi basada en el contingut disponible del document de referència. Les receptes i els resultats no es presenten com a proves físiques verificades.
----
-
 # 16. METALL NO METÀL·LIC (NMM)
 
 ## 16.1. Funció i fonaments del NMM
@@ -6470,27 +6449,6 @@ L'objectiu és integrar els criteris del capítol en una representació metàl·
 ## Síntesi del capítol
 
 El NMM construeix l'aparença metàl·lica amb pintures convencionals mitjançant una organització intencionada de valors, contrastos, colors i reflexos. La geometria, l'orientació i l'entorn determinen el patró que convé representar. El procediment parteix de l'anàlisi de la peça i de la planificació tonal i cromàtica, continua amb la construcció de regions fosques, intermèdies i clares, i acaba amb la integració i l'avaluació. No hi ha una recepta ni un patró universal: cal adaptar-los a cada superfície i a la seva escala.
-
-## Figures proposades per a la fase gràfica final
-
-1. Comparació entre aparença metàl·lica i no metàl·lica.
-2. Influència de la geometria en superfícies planes, corbes, cilíndriques i esfèriques.
-3. Patrons possibles de reflexos, identificats com a exemples i no com a regles.
-4. Mapa tonal d'una peça metàl·lica.
-5. Famílies cromàtiques fredes, càlides i vermelloses.
-6. Construcció progressiva des de la base fins als reflexos i accents.
-7. Adaptació dels reflexos a una placa, un cilindre i una fulla d'espasa.
-8. Errors freqüents i procediments de correcció.
-
-## Registre editorial
-
-- Estructura: deu apartats, síntesi i sis exercicis.
-- Enfocament: representació de superfícies metàl·liques mitjançant pintures convencionals.
-- Delimitació: el capítol 16 desenvolupa el procediment general NMM; el capítol 19 recull les receptes específiques dels metalls.
-- Criteri central: el contrast per si sol no produeix aparença metàl·lica; els reflexos han de ser coherents amb la geometria i l'entorn.
-- Estat: síntesi basada en el document de referència. No es presenten les propostes com a resultats de proves físiques.
----
-
 # 17. IL·LUMINACIÓ D'EFECTES LLUMINOSOS (OSL)
 
 ## 17.1. Funció de l'OSL
@@ -7076,30 +7034,6 @@ Els exercicis permeten practicar l'anàlisi de la font, la selecció de les supe
 ## Síntesi del capítol
 
 L'OSL representa una font emissora i la influència que exerceix sobre les superfícies pròximes. La coherència depèn de la relació espacial entre font, orientació, exposició, obstacles, geometria i material. El procediment exigeix identificar la font, seleccionar les superfícies receptores, planificar valors i colors, aplicar la influència de manera selectiva i integrar-la amb la il·luminació general. No equival a crear un halo: la qualitat depèn de la relació recognoscible entre l'origen de la llum i les seves conseqüències visuals.
-
-## Figures proposades per a la fase gràfica final
-
-1. Diferència entre font emissora, superfície il·luminada i reflex localitzat.
-2. Posició de la font i distribució de les superfícies receptores.
-3. Geometria, orientació i bloqueig de la llum.
-4. Jerarquia de valors entre font, zona d'influència i transició.
-5. Relació entre el color de la font i els diferents colors locals.
-6. Pèrdua progressiva d'influència segons exposició i distància, sense proporcions universals.
-7. Diferència entre il·luminació general i reflexos en superfícies mates i brillants.
-8. Seqüència de construcció i integració de l'OSL.
-9. Exemples d'ombres projectades i zones protegides.
-10. Errors freqüents: halo sense font, distribució uniforme i pèrdua de geometria.
-
-## Registre editorial
-
-- Estructura: deu apartats, síntesi i sis exercicis.
-- Enfocament: representació de fonts emissores i de la seva influència sobre l'entorn.
-- Delimitacions: fonaments generals al capítol 5; transparències al 14; NMM al 16; receptes de foc i energia als capítols 30 i 32.
-- Criteri central: l'OSL exigeix coherència espacial entre font, superfícies receptores, geometria i entorn.
-- Estat: síntesi basada en el document de referència. No es presenten les propostes com a resultats de proves físiques.
-
----
-
 # 18. PLANIFICACIÓ, SEQÜENCIACIÓ I AVALUACIÓ DEL PROCÉS INTEGRAL
 
 ## 18.1. Funció de la planificació integral
@@ -7702,28 +7636,6 @@ Les fitxes següents es poden adaptar a la complexitat de la peça.
 ## Síntesi del capítol
 
 La planificació integral coordina l'anàlisi de la miniatura, la definició d'objectius, les decisions cromàtiques i lumíniques, la selecció de recursos, la seqüenciació i l'avaluació. No hi ha un ordre universal: les operacions depenen de la geometria, els materials, l'accessibilitat i la compatibilitat. El pla ha de ser flexible i revisar-se en punts de control. La correcció ha de respondre a la causa del problema i ser proporcional. La documentació de les decisions rellevants facilita comprendre i millorar el procés.
-
-## Figures proposades per a la fase gràfica final
-
-1. Mapa del procés integral: relació entre anàlisi, planificació, selecció, execució, control i avaluació.
-1. Fitxa d'anàlisi inicial de la miniatura.
-2. Esquema de planificació cromàtica, tonal i lumínica.
-3. Arbre de selecció de tècniques segons l'objectiu visual.
-4. Diagrama de dependències i alternatives de seqüenciació, sense ordre universal.
-5. Comparació entre organització per zones, materials i fases.
-6. Cicle de control: execució, observació, avaluació, ajust i continuació.
-7. Fitxa de control i avaluació integral.
-8. Exemple de registre de decisions i modificacions.
-
-## Registre editorial
-
-- Estructura: deu apartats, síntesi i sis exercicis.
-- Eines de consulta: fitxa inicial, registre de seqüenciació i fitxa de control i avaluació.
-- Enfocament: organització global i presa de decisions; no repeteix les tècniques individuals.
-- Criteri central: la planificació és una referència flexible que s'ha de poder modificar durant l'execució.
-- Estat: síntesi basada en el document de referència. No s'han realitzat proves físiques.
----
-
 # 19. METALLS
 
 ## 19.1. Fonaments i paleta metàl·lica disponible
@@ -8186,26 +8098,6 @@ Abans de corregir, cal identificar si el problema prové de la cobertura, la dis
 ## Síntesi del capítol
 
 La representació de metalls exigeix coordinar color, reflexos, ombres i geometria. Es desenvolupen cinc materials —acer, plata, or, coure i bronze— mitjançant propostes TMM adaptades a les quatre pintures metàl·liques disponibles i a les modificacions convencionals de la paleta. El coure i el bronze requereixen construir la seva dominant amb bases metàl·liques alternatives perquè no hi ha pintures específiques d'aquests materials dins de les 48 referències. Les receptes són propostes que cal comprovar i ajustar en superfícies d'assaig. TMM i NMM són enfocaments diferents; les receptes del primer es desenvolupen aquí i el procediment general del segon, al capítol 16. La selecció ha de respondre al material, l'acabat, la geometria i el resultat buscat.
-
-## Figures proposades per a la fase gràfica final
-
-1. Comparació de les quatre pintures metàl·liques disponibles.
-2. Diferències visuals entre acer, plata, or, coure i bronze.
-3. Construcció TMM d'acer i plata.
-4. Construcció TMM d'or.
-5. Construcció de coure i bronze amb modificacions cromàtiques.
-6. Comparació entre TMM i NMM.
-7. Variacions d'acabat: polit, setinat i envellit.
-8. Integració de diversos metalls en una mateixa miniatura.
-9. Errors freqüents i correccions per a cada metall.
-
-## Registre editorial
-
-- Estructura: deu apartats, síntesi i set exercicis.
-- Enfocament: receptes TMM per a cinc metalls amb la paleta de 48 pintures.
-- Delimitació: el procediment general NMM correspon al capítol 16; la corrosió i les pàtines, al 28; el desgast, al 36; el diagnòstic general, al 39.
-- Criteri tècnic: les receptes són propostes orientatives, no resultats comprovats. No s'afegeixen proporcions no especificades ni s'incorporen pintures fora de la paleta de referència.
-
 # 20. FUSTA
 
 ## 20.1. Identitat visual de la fusta

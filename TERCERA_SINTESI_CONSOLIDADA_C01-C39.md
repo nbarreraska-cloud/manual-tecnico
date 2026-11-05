@@ -13289,6 +13289,19 @@ Les fonts fonamenten percepció cromàtica, organització del color i aparença 
 
 Les deu figures següents queden reservades per a la fase gràfica final. No s'han de generar ni inserir durant aquesta etapa.
 
+| Figura | Contingut | Ubicació prevista |
+|---|---|---|
+| 35.1 | Anàlisi cromàtica global: dominants, secundaris i accents | 35.2 |
+| 35.2 | Distribució de colors dominants i secundaris | 35.2–35.3 |
+| 35.3 | Unitat cromàtica mitjançant repetició i variació | 35.3 |
+| 35.4 | Comparació entre harmonització i uniformitat cromàtica | 35.3 |
+| 35.5 | Integració cromàtica entre materials diferents | 35.4 |
+| 35.6 | Relació cromàtica entre figura i peanya | 35.5 |
+| 35.7 | Influències ambientals i reflexos cromàtics localitzats | 35.6 |
+| 35.8 | Comparació entre correccions localitzades i ajustos globals | 35.7 |
+| 35.9 | Seqüència de diagnòstic i harmonització d'una miniatura | 35.8 |
+| 35.10 | Avaluació final d'una composició integrada i errors freqüents | 35.9 |
+
 1. **Anàlisi cromàtica global.** Mostrar una miniatura amb els colors dominants, secundaris i accents identificats. Explicar com s'analitza la distribució cromàtica abans d'intervenir.
 2. **Distribució de masses cromàtiques.** Representar la distribució dels colors principals mitjançant una simplificació de la miniatura. Distingir l'extensió de cada color de la seva importància visual.
 3. **Repetició i variació cromàtica.** Mostrar un mateix color o família cromàtica en diferents elements, amb variacions de valor, saturació i temperatura. Explicar com s'estableix unitat sense repetir mescles idèntiques.
@@ -13299,7 +13312,27 @@ Les deu figures següents queden reservades per a la fase gràfica final. No s'h
 8. **Correccions localitzades i globals.** Comparar una intervenció limitada a una superfície amb una altra que modifica una part extensa de la miniatura. Fer visible la diferència d'abast i el risc d'alterar zones que ja funcionaven correctament.
 9. **Seqüència d'harmonització.** Mostrar les etapes d'anàlisi, identificació de problemes, definició d'objectius, selecció de procediments, intervenció i avaluació final.
 10. **Resultat integrat i errors freqüents.** Comparar una composició cromàticament integrada amb exemples d'errors: excés d'uniformitat, saturació mal distribuïda, figura i peanya desconnectades, influències ambientals excessives i pèrdua d'identitat material.
----
+
+
+## Control editorial i límits de verificació
+
+- El capítol aborda l'harmonització cromàtica global i la integració ambiental de miniatures.
+- No repeteix la teoria general del color del capítol 4.
+- No substitueix la planificació d'il·luminació i valors del capítol 15.
+- No desenvolupa tècniques d'aplicació ja explicades als capítols 8–17.
+- No substitueix les receptes específiques de materials i efectes dels capítols 19–34.
+- Es diferencia l'harmonització cromàtica de la uniformitat cromàtica.
+- Es diferencia la integració de materials de la pèrdua d'identitat material.
+- Es distingeix la relació entre figura i peanya de la representació específica dels materials de l'entorn.
+- Es manté la separació respecte de l'envelliment i la transformació de superfícies del capítol 36.
+- Els procediments d'envernissament i control d'acabats es reserven al capítol 37.
+- La protecció i conservació corresponen al capítol 38.
+- El diagnòstic sistemàtic i els procediments generals de correcció corresponen al capítol 39.
+- No s'estableixen receptes, proporcions ni filtres cromàtics universals.
+- Les recomanacions es presenten com a criteris d'anàlisi i propostes d'intervenció, no com a resultats experimentals.
+- No s'han realitzat proves físiques ni es presenten resultats experimentals com a comprovats.
+- Les deu figures són propostes per a la fase gràfica final; no s'han generat ni inserit imatges.
+
 # 36. ENVELLIMENT, DESGAST I TRANSFORMACIÓ DE SUPERFÍCIES
 
 ## 36.1. Representació del pas del temps i de l'ús

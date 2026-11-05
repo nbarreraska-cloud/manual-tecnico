@@ -5881,28 +5881,58 @@ Convé revisar especialment el cap i el rostre, el tors, les extremitats, les ar
 
 ## 15.4. Planificació dels valors tonals
 
-El valor organitza les diferències de claredat i foscor que permeten llegir els volums, separar elements i dirigir l'atenció. Cal distingir quatre funcions que poden coincidir, però no són equivalents:
+El valor organitza les diferències de claredat i foscor que permeten llegir els volums, separar elements i dirigir l'atenció. En la planificació de la il·luminació cal distingir quatre funcions que poden coincidir en una mateixa zona, però no són equivalents:
 
 - **Color local:** valor propi del color del material.
 - **Valor d'il·luminació:** modificació tonal que representa la llum rebuda.
 - **Separació:** diferència necessària per distingir superfícies o peces contigües.
 - **Èmfasi:** contrast utilitzat per dirigir l'atenció.
 
-Una superfície de color fosc pot rebre una il·luminació intensa; una superfície clara pot romandre en ombra. Per això, no s'ha de confondre el color local amb el valor final que tindrà en la representació.
+Una superfície de color fosc pot rebre una il·luminació intensa, mentre que una superfície clara pot romandre en ombra. Per això, no s'ha de confondre el color local amb el valor final que tindrà en la representació il·luminada.
 
-Abans de pintar, convé establir una jerarquia entre llums, transicions, ombres i accents extrems. Es poden utilitzar pocs nivells o subdivisions més detallades: importa més la relació entre ells que no pas la quantitat. Una escala funcional de cinc nivells —molt clar, clar, intermedi, fosc i molt fosc— pot servir de guia, però no és obligatòria ni representa proporcions de mescla mesurades.
+### Jerarquia de valors
 
-Els contrastos s'han de distribuir selectivament. Cal diferenciar el contrast que defineix la geometria, el que separa elements, el que destaca un focus i el que correspon a l'aparença del material. Una il·luminació suau pot requerir diferències moderades; una de dramàtica pot concentrar contrastos més amplis. Els valors màxims, tant clars com foscos, han de reservar-se per a les zones on compleixin una funció concreta. No hi ha una proporció universal de llums i ombres.
+Abans de pintar convé determinar quines zones presentaran els valors més clars, quines ocuparan posicions intermèdies i quines concentraran els valors més foscos. Aquesta organització estableix una jerarquia tonal i permet diferenciar:
+
+- Zones de llum.
+- Zones de transició.
+- Zones d'ombra.
+- Accents de màxima claredat.
+- Accents de màxima foscor.
+
+Aquestes denominacions descriuen funcions dins de l'esquema i no obliguen a utilitzar una quantitat determinada de tons. Una escala funcional de cinc nivells —molt clar, clar, intermedi, fosc i molt fosc— pot facilitar la planificació, però no és obligatòria ni representa proporcions exactes de mescla o valors mesurats instrumentalment. La relació entre els nivells és més important que el seu nombre.
+
+### Diferències de valor i separació de volums
+
+Els valors ajuden a diferenciar superfícies pròximes i conservar la lectura tridimensional. Quan dos elements presenten valors massa semblants, poden perdre separació visual, especialment si els seus colors també són pròxims.
+
+En aquests casos pot ser suficient introduir una diferència localitzada, sense augmentar el contrast de tota la figura. Cal distingir el contrast necessari per identificar la geometria, el que separa dos elements, el que destaca un punt d'interès i el que forma part de l'aparença pròpia del material.
+
+### Distribució segons la intenció visual
+
+La jerarquia tonal s'ha d'adaptar al resultat que es vol aconseguir. Una il·luminació suau pot utilitzar diferències de valor contingudes; una de més dramàtica pot concentrar diferències àmplies entre zones il·luminades i zones en ombra.
+
+També es pot organitzar el valor per afavorir la lectura d'elements concrets sense reproduir exactament una situació física. Cal considerar la intenció expressiva, la llegibilitat, la quantitat de detalls, la relació entre superfícies, la distància habitual d'observació i el contrast general. No tots els elements necessiten la mateixa amplitud tonal.
+
+### Planificació dels accents tonals
+
+Els valors extrems poden destacar punts concrets. Els accents clars poden dirigir l'atenció cap a zones d'interès; els accents foscos poden reforçar separacions i profunditats. La seva utilització ha de ser selectiva: si es distribueixen indiscriminadament, perden capacitat per establir una jerarquia.
+
+No existeix una proporció universal de llums i ombres. La distribució depèn de la miniatura i de l'objectiu visual.
 
 ## 15.5. Planificació per zones
 
-La divisió per zones facilita l'organització del treball, però cada part s'ha d'integrar després en la miniatura completa.
+La divisió funcional de la miniatura facilita l'organització del treball i permet comprovar les decisions locals. Les zones poden correspondre a parts anatòmiques, peces de vestimenta o armadura, elements independents, superfícies amb geometries semblants o regions que comparteixen una funció visual.
 
-- **Cap i rostre:** cal considerar l'orientació dels plans, la relació entre front, galtes, nas i mandíbula, les ombres projectades i la separació respecte del cabell, casc o accessoris. Si el rostre no és el focus principal, la seva jerarquia pot ser més continguda.
-- **Tronc i volums principals:** cal identificar plans frontals, superfícies superiors i laterals, volums corbs, peces superposades i zones protegides. No totes les superfícies superiors han de rebre automàticament els valors més clars.
-- **Extremitats:** braços i cames canvien d'orientació i se superposen al tronc. Cal revisar especialment mans, genolls, colzes i botes, sense permetre que els elements secundaris competeixin innecessàriament amb els principals.
-- **Armes i accessoris:** la seva orientació, posició, relació amb el cos, punts de contacte i funció compositiva determinen el tractament. Poden destacar o quedar subordinats segons la seva importància.
-- **Integració:** cal comprovar la continuïtat de la direcció general, la relació entre superfícies pròximes, la separació dels volums, la coherència de les ombres i la distribució dels punts de màxima claredat.
+Aquesta divisió no ha de fragmentar excessivament la figura. Primer cal establir les relacions entre els volums principals i després incorporar les diferències necessàries.
+
+- **Cap i rostre:** cal considerar l'orientació del rostre, la relació entre front, galtes, nas i mandíbula, les ombres projectades per altres elements i la separació respecte del cabell, el casc o els accessoris. Si el rostre no és el focus principal, pot mantenir una jerarquia més continguda.
+- **Tronc i volums principals:** cal identificar plans frontals, superfícies superiors i laterals, volums corbs, peces superposades i zones protegides pels braços o altres elements. No totes les superfícies superiors han de rebre automàticament els valors més clars.
+- **Extremitats:** braços i cames presenten canvis d'orientació i superposicions que modifiquen la distribució de llums i ombres. Convé revisar especialment mans, genolls, colzes i botes. Els elements secundaris poden requerir un contrast més contingut, llevat que tinguin una funció narrativa destacada.
+- **Armes i accessoris:** cal considerar-ne l'orientació, la posició respecte de la font principal, la relació amb el cos, els punts de contacte i la importància compositiva. Poden destacar o quedar subordinats segons la seva funció.
+- **Integració de les zones:** un cop planificades les parts, cal observar-les com un conjunt. S'ha de comprovar la continuïtat de la direcció general, la relació entre superfícies pròximes, la separació dels volums, la coherència de les ombres i la distribució dels punts de màxima claredat.
+
+La planificació per zones ha de mantenir la unitat de la miniatura: no s'ha de tractar cada detall com una il·luminació independent.
 
 ## 15.6. Mapes d'il·luminació i de valors
 
@@ -5939,44 +5969,90 @@ La planificació és una referència flexible: es pot modificar quan l'execució
 
 ## 15.8. Errors freqüents i correccions
 
-| Error | Correcció |
-|---|---|
-| Començar sense un criteri lumínic | Aturar l'aplicació, definir una direcció general i revisar les zones principals. |
-| Adoptar sempre una llum zenital | Escollir la direcció segons la geometria, la composició i la intenció visual. |
-| Confondre superfícies superiors amb superfícies il·luminades | Valorar l'orientació real dels plans respecte de la font. |
-| Aplicar la mateixa distribució tonal a tota la figura | Adaptar el tractament a la geometria i la funció de cada zona, mantenint una lògica comuna. |
-| Utilitzar massa valors sense jerarquia | Reduir els nivells i diferenciar-ne les funcions principals i secundàries. |
-| Repetir els contrastos màxims per tota la miniatura | Concentrar-los en els focus d'interès i moderar la resta. |
-| Confondre color local i il·luminació | Analitzar per separat el color del material i la funció tonal de la zona. |
-| Afegir fonts secundàries sense jerarquia | Definir una font dominant i justificar cada contribució addicional. |
-| Mantenir un mapa rígid malgrat els problemes | Modificar-lo quan hi hagi una raó visual clara i conservar la coherència global. |
-| Avaluar només de prop | Alternar la revisió de detall amb l'observació de la miniatura completa. |
+| Error | Diagnòstic o causa habitual | Correcció |
+|---|---|---|
+| Començar sense un criteri lumínic definit | Aplicar llums i ombres sense planificació pot generar decisions contradictòries entre parts de la figura. | Aturar l'aplicació, establir una direcció general i revisar les zones principals abans de continuar. |
+| Adoptar sempre una il·luminació zenital | La llum des de dalt és una referència habitual, però no serveix necessàriament a qualsevol geometria o intenció visual. | Escollir la direcció segons la geometria, la composició i l'objectiu visual. |
+| Confondre superfícies superiors amb superfícies il·luminades | La posició superior no determina per si sola la recepció de llum. | Valorar l'orientació real dels plans respecte de la font i de l'entorn. |
+| Aplicar la mateixa distribució tonal a tota la figura | Una il·luminació uniforme pot eliminar diferències entre materials, volums i elements principals. | Adaptar el tractament a la geometria i la funció de cada zona, mantenint una lògica comuna. |
+| Utilitzar massa valors sense jerarquia | Moltes variacions tonals poden generar confusió si totes tenen una importància semblant. | Reduir els nivells quan calgui i diferenciar-ne les funcions principals i secundàries. |
+| Repetir els contrastos màxims per tota la miniatura | Els valors més clars i foscos perden capacitat d'orientar l'atenció quan es repeteixen indiscriminadament. | Concentrar-los en els focus d'interès i moderar la resta. |
+| Confondre color local i il·luminació | Una superfície pot semblar fosca pel seu color propi i no perquè estigui en ombra. | Analitzar per separat el color del material i la funció tonal de la zona. |
+| Afegir fonts secundàries sense jerarquia | Diverses direccions sense funcions diferenciades poden produir contradiccions entre superfícies. | Definir una font dominant i justificar cada contribució addicional. |
+| Mantenir un mapa rígid malgrat els problemes d'execució | El mapa és una eina de planificació, no una obligació inalterable. | Modificar-lo quan hi hagi una raó visual clara i conservar la coherència global. |
+| Avaluar només de prop | L'observació pròxima pot afavorir l'acumulació de detalls i ocultar problemes de jerarquia. | Alternar la revisió de detall amb l'observació de la miniatura completa des d'una distància habitual. |
 
 ## 15.9. Resultat esperat i criteris d'avaluació
 
-El resultat ha de permetre reconèixer els volums, diferenciar els elements i comprendre la jerarquia visual. La planificació és satisfactòria quan orienta l'execució i permet avaluar-la sense dependre d'una direcció de llum o d'una distribució tonal universal.
+El resultat ha de permetre reconèixer els volums, diferenciar els elements i comprendre la jerarquia visual establerta. La planificació és satisfactòria quan orienta l'execució i permet avaluar-la sense dependre d'una direcció de llum o d'una distribució tonal universal.
 
-Cal valorar la coherència de la direcció principal, la relació entre llums i ombres, la separació de superfícies, la selecció dels accents, la jerarquia entre elements i la llegibilitat des de la distància habitual. La fidelitat física no és l'únic criteri: també compta que les simplificacions artístiques siguin intencionades i visualment consistents.
+| Criteri | Resultat esperat |
+|---|---|
+| Direcció de la il·luminació | El plantejament general és identificable i manté coherència. |
+| Distribució de llums i ombres | Les zones il·luminades i les ombres responen a un criteri reconeixible. |
+| Jerarquia de valors | Les diferències de claredat i foscor estan organitzades segons la seva funció. |
+| Lectura dels volums | Els valors ajuden a reconèixer la geometria i separar les superfícies. |
+| Organització per zones | Les diferents parts mantenen una relació tonal coherent. |
+| Jerarquia visual | Els elements principals destaquen sense que tots els detalls competeixin per l'atenció. |
+| Coherència global | Les decisions locals formen una representació integrada. |
+| Llegibilitat | La il·luminació funciona tant de prop com des d'una distància habitual. |
+
+La fidelitat física no és l'únic criteri: també compta que les simplificacions artístiques siguin intencionades i visualment consistents.
 
 ## 15.10. Exercicis pràctics
 
 ### 15.10.1. Comparació de direccions d'il·luminació
-Seleccionar una miniatura o una forma tridimensional i elaborar esquemes amb llum superior, lateral, frontal i posterior. Identificar les zones il·luminades, les ombres i els volums que guanyen protagonisme. Comparar-ne la lectura i justificar la tria.
+
+Seleccionar una miniatura o una forma tridimensional senzilla. Elaborar diversos esquemes amb direccions superiors, laterals, frontals i posteriors.
+
+Per a cada esquema, identificar:
+- Les zones principals d'il·luminació.
+- Les regions d'ombra.
+- Els volums que adquireixen més protagonisme.
+- Els canvis en la lectura de la figura.
+
+Comparar els esquemes i determinar quin respon millor a la intenció visual plantejada. L'objectiu és comprendre que la direcció de la llum modifica l'organització dels valors i la lectura de la miniatura.
 
 ### 15.10.2. Elaboració d'un mapa de valors
-Representar les superfícies principals d'una miniatura i distribuir-hi zones clares, intermèdies i fosques. Situar els accents i comprovar si la jerarquia es reconeix abans de començar a pintar.
 
-### 15.10.3. Planificació per zones
-Dividir la figura en cap, tronc, extremitats, armes i accessoris. Assignar una funció tonal a cada zona i comprovar que les decisions respecten la direcció general.
+Seleccionar una miniatura i realitzar una representació simplificada de les seves superfícies principals. Establir una escala de valors reduïda i distribuir les zones clares, intermèdies i fosques.
+
+Identificar els accents tonals i comprovar si existeix una jerarquia reconeixible abans de començar l'aplicació pictòrica. L'objectiu és aprendre a organitzar els valors abans de pintar.
+
+### 15.10.3. Planificació de la il·luminació per zones
+
+Dividir una miniatura en els seus elements principals: cap, tronc, extremitats, armes i accessoris. Assignar a cada zona una funció dins de l'esquema d'il·luminació.
+
+Comprovar que les decisions mantenen una relació coherent amb la direcció principal de la llum i que els elements secundaris no competeixen innecessàriament amb els principals. L'objectiu és traslladar la planificació general a les diferents parts sense perdre la unitat del conjunt.
 
 ### 15.10.4. Comparació de jerarquies tonals
-Preparar dos mapes per a una mateixa miniatura: un amb contrastos distribuïts de manera uniforme i un altre amb els contrastos principals concentrats en els focus d'interès. Comparar-ne la llegibilitat sense assumir que una solució és sempre superior.
+
+Preparar dos mapes de valors per a una mateixa miniatura. En el primer, distribuir els contrastos de manera relativament uniforme. En el segon, concentrar els contrastos més importants en les zones principals i reduir-los en els elements secundaris.
+
+Comparar els resultats i valorar quin ofereix una lectura més clara segons la intenció visual. L'objectiu és comprendre la funció de la jerarquia tonal i la distribució selectiva del contrast, sense assumir que una solució sigui sempre superior.
 
 ### 15.10.5. Revisió de la coherència lumínica
-Analitzar una miniatura pintada o un esquema previ. Detectar contradiccions en la direcció, les ombres, la intensitat de les llums i els accents. Proposar correccions localitzades.
 
-### 15.10.6. Exercici integrador
-Planificar una miniatura completa: analitzar-ne la geometria i la jerarquia, seleccionar la font i la direcció principals, valorar les contribucions secundàries, elaborar els mapes d'il·luminació i valors, distribuir el tractament per zones, aplicar-lo progressivament i revisar-ne la coherència i la llegibilitat.
+Seleccionar una miniatura ja pintada o un esquema d'il·luminació prèviament elaborat. Identificar possibles contradiccions entre les diferents zones.
+
+Revisar la direcció general, la distribució de les ombres, la intensitat de les llums i la posició dels accents. Proposar correccions localitzades sense modificar innecessàriament tota la planificació. L'objectiu és desenvolupar la capacitat de detectar i corregir problemes de coherència.
+
+### 15.10.6. Exercici integrador: planificació completa de la il·luminació
+
+Seleccionar una miniatura i desenvolupar-ne la planificació abans de començar l'aplicació. El procediment ha d'incloure:
+
+1. Analitzar la geometria i els volums principals.
+2. Identificar els elements de més importància visual.
+3. Seleccionar una font principal i una direcció d'il·luminació.
+4. Valorar possibles contribucions secundàries.
+5. Elaborar un mapa d'il·luminació.
+6. Construir un mapa de valors.
+7. Distribuir la il·luminació per zones.
+8. Comprovar la coherència de l'esquema.
+9. Aplicar progressivament les decisions.
+10. Avaluar i ajustar el resultat final.
+
+En acabar, comprovar la llegibilitat, la jerarquia tonal, la coherència de les diferents zones i la relació entre la il·luminació i la geometria. L'objectiu és integrar els criteris del capítol en un procés complet d'anàlisi, planificació, aplicació i avaluació.
 
 ## Síntesi del capítol
 
@@ -6000,8 +6076,6 @@ La il·luminació aplicada requereix analitzar la geometria i la funció dels el
 - Delimitació: els fonaments físics i perceptius corresponen al capítol 5; la teoria del color, al capítol 4; les tècniques d'aplicació, als capítols corresponents. Aquest capítol no les repeteix.
 - Criteri central: no hi ha una direcció de llum, una proporció de llums i ombres ni una escala tonal universal.
 - Estat de verificació: síntesi basada en el contingut disponible del document de referència. Les receptes i els resultats no es presenten com a proves físiques verificades.
-
-
 ---
 
 # 16. METALL NO METÀL·LIC (NMM)

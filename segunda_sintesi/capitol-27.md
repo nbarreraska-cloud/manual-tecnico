@@ -61,7 +61,9 @@ No cal utilitzar totes les referències en una mateixa superfície. Abans de pin
 - Variacions neutres: Deck Tan.
 - Aclarits i reflexos: White.
 
-Establir base clara, identificar plans, diferenciar cares amb variacions petites de valor, introduir ombres localitzades, definir arestes i afegir reflexos selectius. Les inclusions i fractures només s'afegeixen quan ajuden a reconèixer el material. És una aparença clara i lleugerament freda, no una reproducció òptica exacta d'un mineral.
+Establir base clara, identificar plans, diferenciar cares amb variacions petites de valor, introduir ombres localitzades, definir arestes i afegir reflexos selectius.
+
+Quan es vulgui representar transparència, la base clara no s'ha d'aplicar com una capa opaca que cobreixi tota la superfície. Cal limitar-la als plans o les zones que necessitin aclariment i conservar, quan la representació i la geometria ho permetin, informació cromàtica del fons o de les capes subjacents. Les inclusions i fractures només s'afegeixen quan ajuden a reconèixer el material. És una aparença clara i lleugerament freda, no una reproducció òptica exacta d'un mineral.
 
 **Recepta B. Cristall violeta o ametista**
 - Base: combinació proposada de Dark Sea Blue i Violet Red.

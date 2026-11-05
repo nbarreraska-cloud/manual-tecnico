@@ -9951,16 +9951,149 @@ Errors i correccions:
 9. **Textura excessiva:** limitar punts i línies a zones on aportin informació.
 10. **Mateixa organització per a pell i carn exposada:** diferenciar superfície externa, masses musculars i teixits interns.
 
-L'avaluació de la pell comprova pigmentació coherent, llums i ombres segons geometria, variacions no fragmentàries, trets anatòmics llegibles i acabat adequat. En carn i musculatura cal distingir masses, separacions anatòmiques, fibres simplificades, teixit adipós i connectiu, i conservar una lectura orgànica.
+L'avaluació de la pell comprova:
+- Que la pigmentació general és coherent.
+- Que les llums i les ombres segueixen la geometria.
+- Que les variacions cromàtiques no fragmenten la superfície.
+- Que els trets anatòmics principals es reconeixen.
+- Que l'acabat correspon a l'aparença buscada.
+
+En carn i musculatura cal comprovar:
+- Que es diferencien les masses musculars principals.
+- Que les separacions segueixen una organització anatòmica comprensible.
+- Que les fibres i estructures internes estan simplificades de manera proporcionada.
+- Que el teixit adipós i el connectiu es distingeixen quan apareixen.
+- Que la representació manté una lectura orgànica i no es redueix a una acumulació de línies.
 
 ## 24.10. Exercicis pràctics
 
-1. **Comparació de pells clares:** preparar tres mostres amb A, B i C; comparar matís, ombres i aclarits, no només lluminositat.
-2. **Pells intermèdies i profundes:** construir mostres amb D, E i F; valorar riquesa cromàtica i evitar aclarits grisencs.
-3. **Pell fantàstica:** preparar superfícies amb I, J i H; comparar volum i coherència de base, ombres i llums.
-4. **Rostre:** aplicar variacions locals a front, galtes, nas, orelles i barbeta sense crear taques independents.
-5. **Musculatura exposada:** utilitzar K; identificar masses, ombres i relleus, evitant línies paral·leles.
-6. **Múscul, greix i teixit connectiu:** combinar M i N i introduir separacions clares; ajustar contrastos perquè les estructures es diferenciïn sense semblar superfícies desconnectades.
+Els exercicis següents permeten practicar la representació de diferents pigmentacions, variacions anatòmiques i teixits orgànics. Les receptes són propostes de treball, no formulacions experimentades.
+
+### 24.10.1. Comparació de pells clares
+
+**Objectiu:** construir diferents variacions de pell clara.
+
+**Materials:**
+- Skin Tone.
+- Sunny Skin Tone.
+- Light Flesh.
+- Dark Flesh Tone.
+- White.
+- Burnt Red.
+
+**Procediment:**
+1. Preparar tres superfícies de prova.
+2. Construir una pell clara neutra mitjançant la recepta A.
+3. Construir una pell càlida mitjançant la recepta B.
+4. Construir una pell pàl·lida mitjançant la recepta C.
+5. Comparar la distribució de les ombres i els aclarits.
+
+**Avaluació:** comprovar que les tres superfícies presenten diferències cromàtiques recognoscibles sense dependre únicament de la lluminositat.
+
+### 24.10.2. Comparació de pells intermèdies i profundes
+
+**Objectiu:** desenvolupar diferents bases de pigmentació i conservar-ne els matisos.
+
+**Materials:**
+- Skin Tone.
+- Dark Flesh Tone.
+- Japanese Uniform WWII.
+- Dark Rust.
+- Burnt Red.
+- Dark Sea Blue.
+- Light Flesh.
+
+**Procediment:**
+1. Construir una superfície mitjançant la recepta D.
+2. Construir-ne una altra mitjançant la recepta E.
+3. Utilitzar la recepta F per preparar una variant freda.
+4. Comparar les ombres i els aclarits.
+5. Avaluar la riquesa cromàtica de cada superfície.
+
+**Avaluació:** comprovar que les pells mantenen una identitat diferenciada i que els aclarits no neutralitzen innecessàriament el color de base.
+
+### 24.10.3. Variacions cromàtiques de pell fantàstica
+
+**Objectiu:** representar pells no humanes mitjançant famílies cromàtiques diferents.
+
+**Materials:**
+- Blue Green.
+- Turquoise.
+- Dark Sea Blue.
+- Cayman Green.
+- Snake Green.
+- Dark Green.
+- Burnt Red.
+- Dark Rust.
+
+**Procediment:**
+1. Preparar una superfície blavosa mitjançant la recepta I.
+2. Preparar-ne una de verdosa mitjançant la recepta J.
+3. Construir una tercera superfície rogenca mitjançant la recepta H.
+4. Comparar les relacions entre bases, ombres i llums.
+
+**Avaluació:** comprovar que les tres superfícies conserven volum i una organització cromàtica coherent.
+
+### 24.10.4. Representació d'un rostre
+
+**Objectiu:** aplicar variacions locals sense fragmentar la pell.
+
+**Materials:**
+- Una recepta de pell seleccionada.
+- Pinzells adequats per a detalls petits.
+- Una miniatura amb el rostre definit.
+
+**Procediment:**
+1. Construir la base cromàtica.
+2. Identificar front, galtes, nas, orelles i barbeta.
+3. Introduir variacions cromàtiques discretes.
+4. Definir les ombres principals.
+5. Recuperar els plans il·luminats.
+6. Avaluar el rostre des de la distància habitual d'observació.
+
+**Avaluació:** comprovar que el rostre manté una aparença orgànica i que les variacions locals no semblen taques independents.
+
+### 24.10.5. Construcció de musculatura exposada
+
+**Objectiu:** diferenciar les masses musculars i les seves separacions.
+
+**Materials:**
+- Dark Flesh Tone.
+- Burnt Red.
+- Dark Rust.
+- Dark Sea Blue.
+- Light Flesh.
+
+**Procediment:**
+1. Establir la base mitjançant la recepta K.
+2. Identificar les masses musculars principals.
+3. Construir les ombres entre aquestes masses.
+4. Aclarir els relleus més exposats.
+5. Afegir variacions cromàtiques selectives.
+6. Avaluar la lectura anatòmica general.
+
+**Avaluació:** comprovar que es reconeixen les masses musculars sense dependre de línies paral·leles excessivament marcades.
+
+### 24.10.6. Diferenciació entre múscul, greix i teixit connectiu
+
+**Objectiu:** representar diferents teixits orgànics en una mateixa superfície.
+
+**Materials:**
+- Dark Flesh Tone.
+- Burnt Red.
+- Dark Rust.
+- Ivory.
+- Deck Tan.
+- Ice Yellow.
+
+**Procediment:**
+1. Construir una zona muscular mitjançant la recepta M.
+2. Afegir una zona adiposa mitjançant la recepta N.
+3. Introduir separacions clares que suggereixin teixit connectiu.
+4. Ajustar els contrastos per mantenir la continuïtat entre les diferents estructures.
+5. Avaluar el conjunt.
+
+**Avaluació:** comprovar que les diferents zones es reconeixen com a teixits diferenciats sense semblar superfícies independents.
 
 ## Síntesi del capítol
 
@@ -9968,15 +10101,15 @@ La pell requereix una organització cromàtica que consideri pigmentació, matí
 
 ## Referències i recursos
 
-- Johns Hopkins Medicine. *Anatomy of the Skin*.
-- The Histology Guide, University of Leeds. *Skin Pigmentation*.
+- Johns Hopkins Medicine. *Anatomy of the Skin*. https://www.hopkinsmedicine.org/health/skin/anatomy-of-the-skin
+- The Histology Guide, University of Leeds. *Skin Pigmentation*. https://histology.leeds.ac.uk/home/skin/pigmentation/
 - Ortonne, J. P. (2012). “Normal and abnormal skin color”. *Annales de Dermatologie et de Vénéréologie*, 139, suplement 4, S125–S129. DOI: 10.1016/S0151-9638(12)70123-0.
-- StatPearls / NCBI Bookshelf. *Anatomy, Skin (Integument)*.
-- SEER Training. *Structure of Skeletal Muscle*.
-- Vallejo. *Cómo pintar una piel utilizando las nuevas Game Color y Xpress Color*.
-- Vallejo. *Flesh: Step by Step Tutorial*.
+- StatPearls / NCBI Bookshelf. *Anatomy, Skin (Integument)*. https://www.ncbi.nlm.nih.gov/books/NBK441980/
+- SEER Training. *Structure of Skeletal Muscle*. https://www.training.seer.cancer.gov/anatomy/muscular/structure.html
+- Vallejo. *Cómo pintar una piel utilizando las nuevas Game Color y Xpress Color*. https://acrylicosvallejo.com/wp-content/uploads/2023/04/vallejo-pasoapaso-como-pintar-una-piel-utilizando-las-nuevas-game-color-y-xpress-color-ES.pdf
+- Vallejo. *Flesh: Step by Step Tutorial*. https://acrylicosvallejo.com/wp-content/uploads/2021/07/vallejo-stepbystep-flesh-EN.pdf
 
-Les referències anatòmiques i de pigmentació fonamenten les descripcions generals; els tutorials de Vallejo són recursos d'aplicació, però les seves pintures i formulacions no es traslladen automàticament a la paleta d'aquest manual.
+Les referències anatòmiques i de pigmentació fonamenten les descripcions generals de pell i musculatura. Els tutorials de Vallejo serveixen com a recursos d'aplicació pictòrica, però les seves pintures i formulacions no es traslladen automàticament a la paleta d'aquest manual.
 
 ## Figures proposades per a la fase gràfica final
 
@@ -9997,10 +10130,7 @@ Les referències anatòmiques i de pigmentació fonamenten les descripcions gene
 - Precisió conceptual: la pigmentació es tracta com una variació contínua i complexa, no com una classificació rígida; anatomia simplificada amb finalitat pictòrica.
 - Delimitacions: cuir i pells curtides al capítol 22; tèxtils al 23; ossos i queratina al 25; sang i fluids al 31; acabats i protecció als capítols 37–38.
 - Estat: síntesi basada en el document original; receptes no assajades i sense proporcions universals.
-
-
 ---
-
 # 25. OSSOS I ESTRUCTURES QUERATÍNIQUES
 
 ## 25.1. Abast i criteri de representació

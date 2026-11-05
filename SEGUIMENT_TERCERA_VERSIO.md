@@ -1240,3 +1240,17 @@ S'ha arxivat sense modificacions la versió anterior a `annexos/historic/annex-c
 - Les receptes continuen sent propostes tècniques no validades experimentalment. F6 haurà de revisar la coherència transversal amb A, B, D, E i C1–C39; F8 manté el control final de presentació i remissions.
 
 La nota anterior sobre l'auditoria de l'Annex C correspon a una revisió històrica de la versió precedent i no s'ha de confondre amb la regeneració actual. La versió activa és la reconstrucció descrita en aquesta entrada.
+
+
+### Regeneració de l'Annex D — 05/11/2026
+
+S'ha arxivat sense modificacions la versió anterior a `annexos/historic/annex-d-auditoria-anterior-2026-11-05.md` i s'ha reconstruït `annexos/annex-d.md` prenent les seccions de receptes dels capítols 19–34 com a font principal.
+
+- S'han reconstruït 92 entrades en 13 capítols: C19 3; C20 7; C21 11; C22 6; C23 5; C24 18; C25 8; C26 13; C27 13; C28 2; C30 2; C31 3; C33 1.
+- Les 92 entrades s'han vinculat a les denominacions i les referències actuals de l'Annex C; s'ha afegit una columna de referència explícita.
+- Les pintures citades en cada entrada s'han comprovat contra els noms de la paleta de l'Annex A i el text de la secció d'origen. No s'ha detectat cap pintura citada que manqui a la secció corresponent.
+- S'ha ajustat l'etiqueta de la combinació E de C21 a «Conífera jove o lluminosa», d'acord amb la recepta vigent, en lloc de «Fullatge clar».
+- Es mantenen les exclusions de C29, C32 i C34 perquè les receptes no estableixen mescles físiques concretes; l'explicació es conserva a D.4.
+- No s'han inventat proporcions ni s'han modificat les receptes dels capítols. No hi ha validació experimental documentada.
+
+F6 haurà de revisar la cobertura semàntica i la coherència global dels annexos A–E amb C1–C39; F8 manté el control final de numeració, remissions i presentació.

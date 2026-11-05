@@ -152,16 +152,96 @@ Seleccionar base segons estat; construir rastres d'amplada variable; distribuir 
 
 Fluids clars: construcció discreta que conserva el suport. Groguencs: partir de Sun Yellow i introduir Ivory o Parasite Brown. Verdosos: Yellow Green o Cayman Green, modificats amb Green Ink. Tèrbols: variacions amb Sepia Ink o Parasite Brown. Adaptar cobertura, volum i acabat a la consistència. Són propostes per a efectes de fantasia o ciència-ficció, no identificacions de substàncies concretes.
 
-## 31.9. Exercicis pràctics
+## 31.9. Síntesi del capítol
 
-1. **Sang fresca i seca:** construir dues mostres, una amb vermells intensos i una altra amb vermells foscos i pardos; diferenciar estats sense dependre només del brillantor.
-2. **Gota de sang:** definir contorn, variació tonal i reflex localitzat; comprovar volum i integració des de diversos angles.
-3. **Rastres i escorriments:** fer recorreguts sobre superfície vertical o inclinada, variant amplada, continuïtat i intensitat; comprovar direcció coherent.
-4. **Fluids aquosos i viscosos:** construir una mostra discreta i una altra amb gotes voluminoses o filaments; comparar forma, cobertura i distribució.
-5. **Esquitxades:** distribuir gotes de diferents mides, densitats i separacions, sense patrons repetitius.
-6. **Integració en miniatura:** representar almenys dos estats diferents en diverses superfícies; planificar ubicació, color, rastres, acumulacions i acabats.
+La representació de la sang i els fluids depèn de la relació entre color, consistència, distribució i acabat superficial. La sang fresca, la sang acumulada o coagulada, la sang seca i els fluids no sanguinis s'han de diferenciar mitjançant una combinació de variables, sense utilitzar únicament el color com a criteri d'identificació.
 
-## 31.10. Referències i recursos
+La geometria de la superfície condiciona la forma de les gotes, els rastres i les acumulacions. La gravetat, l'orientació, el material receptor i l'escala determinen la distribució. En miniatures convé seleccionar les senyals visuals més importants i evitar patrons repetitius o acumulacions que ocultin innecessàriament la figura.
+
+Les receptes utilitzen referències de l'inventari de 48 pintures i constitueixen punts de partida que s'han d'adaptar a l'objectiu pictòric. No són formulacions experimentades ni resultats comprovats. El criteri principal és representar l'estat del material de manera recognoscible, mantenir la coherència espacial i integrar l'efecte amb el suport.
+
+## 31.10. Exercicis pràctics
+
+### 31.10.1. Comparació entre sang fresca i sang seca
+
+**Objectiu:** diferenciar dos estats de la sang sense dependre exclusivament del brillantor.
+
+**Procediment:**
+1. Construir dues mostres sobre una mateixa superfície de prova.
+2. Representar-ne una mitjançant tons vermells intensos.
+3. Representar l'altra amb tons rogencs foscos i pardos.
+4. Comparar la distribució cromàtica i l'acabat.
+5. Ajustar les variacions de color sense convertir la mostra seca en una superfície negra o marró uniforme.
+
+**Avaluació:** identificar quines variables permeten diferenciar els dos estats sense dependre exclusivament del brillantor.
+
+### 31.10.2. Construcció d'una gota de sang
+
+**Objectiu:** representar una gota amb volum sobre una superfície llisa.
+
+**Procediment:**
+1. Definir el contorn de la gota.
+2. Construir una variació tonal.
+3. Incorporar un reflex localitzat quan correspongui.
+4. Adaptar la forma a la superfície receptora.
+5. Comprovar-ne la lectura des de diferents angles.
+
+**Avaluació:** valorar si la gota presenta volum i s'integra amb la superfície.
+
+### 31.10.3. Construcció de rastres i escorriments
+
+**Objectiu:** adaptar els recorreguts a la geometria i l'orientació de la superfície.
+
+**Procediment:**
+1. Representar diversos rastres sobre una superfície vertical o inclinada.
+2. Variar-ne l'amplada i la continuïtat.
+3. Adaptar els recorreguts a la geometria.
+4. Introduir petites diferències d'intensitat.
+5. Evitar línies paral·leles i uniformes.
+
+**Avaluació:** comprovar si els recorreguts mantenen una direcció coherent i semblen formar part de la superfície.
+
+### 31.10.4. Comparació de fluids aquosos i viscosos
+
+**Objectiu:** diferenciar dos tipus de fluid mitjançant la forma, la cobertura i la distribució.
+
+**Procediment:**
+1. Construir dues mostres diferents.
+2. Representar un fluid aquós mitjançant una aplicació discreta.
+3. Representar un fluid viscós amb gotes més voluminoses o filaments.
+4. Comparar-ne la forma i la continuïtat.
+5. Ajustar l'extensió i el grau de cobertura.
+
+**Avaluació:** identificar les diferències de forma, cobertura i distribució que permeten reconèixer els dos efectes.
+
+### 31.10.5. Construcció d'esquitxades
+
+**Objectiu:** controlar la distribució de gotes i evitar patrons repetitius.
+
+**Procediment:**
+1. Distribuir gotes de diferents mides sobre una superfície de prova.
+2. Variar-ne la densitat.
+3. Modificar-ne la separació.
+4. Introduir diferències de forma.
+5. Mantenir una direcció visual comprensible.
+
+**Avaluació:** comprovar que les marques no semblen un patró repetitiu o decoratiu sense relació amb la superfície.
+
+### 31.10.6. Exercici integrador: representació de sang i fluids en una miniatura
+
+**Objectiu:** combinar almenys dos estats diferents de sang o fluids en una mateixa miniatura.
+
+**Procediment:**
+1. Seleccionar una miniatura o una peça de prova amb diverses superfícies.
+2. Planificar la ubicació dels efectes.
+3. Seleccionar les combinacions cromàtiques.
+4. Adaptar els rastres i les acumulacions a cada material.
+5. Diferenciar els acabats.
+6. Avaluar la integració del resultat.
+
+**Avaluació:** comprovar la coherència entre el tipus de fluid, el seu estat, la geometria, l'escala i el context visual.
+
+## 31.11. Referències i recursos
 
 **Documentació del fabricant**
 - Acrylicos Vallejo. *Game Color*: documentació de la gamma i de la família Special FX.

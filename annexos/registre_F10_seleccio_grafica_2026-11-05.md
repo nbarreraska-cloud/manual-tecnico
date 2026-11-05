@@ -700,3 +700,21 @@ Decisions i cauteles destacades:
 Les ubicacions corregides de l'apartat 13 s'han respectat: 16.4→16.3; 16.6→16.5; 17.1→17.2; 17.7→17.6; 17.8→17.5; 17.10→17.8; 18.6→18.5.4; 20.7→20.9.2; 20.8→20.7; 20.9→20.9.3; 22.6/22.7→22.9; 23.3→23.4; 23.6→23.9.1–23.9.2; 23.8→23.9.4; 24.3→24.7; 24.7/24.8→24.8; 24.9→24.9.3.
 
 **Abast de la feina:** especificacions preliminars, no llista definitiva. No s'ha generat ni inserit cap imatge i no s'ha modificat cap capítol. El següent bloc de redacció d'especificacions és C30–C39.
+
+
+## 19. Especificacions preliminars de producció C30–C39 — 05/11/2026
+
+S'han traslladat les P1 cotejades a l'apartat 14 a `annexos/llista_preliminar_produccio_grafica_F10.md` (apartat 9), amb ubicació lectora, format, contingut, condicions i límits de representació.
+
+Decisions destacades:
+- **C30:** la flama s'identifica com a esquema pictòric simplificat, no com a divisió física universal.
+- **C31:** els estats visuals de la sang no s'interpreten com una escala cronològica universal; les receptes no assajades no es presenten com a resultats reals.
+- **C32:** es distingeixen fluorescència, color intens i emissió simulada; el procediment OSL continua referenciat a C17.
+- **C33–C34:** esmalt ceràmic, vidre i vernís no es confonen; les esquerdes i fractures es mantenen en els apartats corregits.
+- **C35:** 35.9 incorpora 35.10 (P3) en una única seqüència d'harmonització.
+- **C36:** envelliment, desgast i deteriorament es mantenen com a fenòmens diferenciats.
+- **C37:** la superfície mate no es defineix com a absència de reflexió; la brillantor percebuda depèn també de llum, observador i geometria.
+- **C38:** no s'estableixen temps, pressions, distàncies o dilucions universals; cal seguir la documentació del producte.
+- **C39:** 39.5 integra 39.6 (P2) com a comparació local/global; la decisió de conservar o corregir no substitueix el diagnòstic.
+
+Les ubicacions corregides de l'apartat 14 prevalen sobre els identificadors de proposta. No s'ha generat ni inserit cap imatge ni modificat cap capítol. La llista continua sent preliminar i no autoritza F11.

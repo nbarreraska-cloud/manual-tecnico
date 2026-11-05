@@ -434,3 +434,81 @@ Les decisions dels apartats 6, 8 i 10 són una **preselecció editorial de F10**
 
 Per tant, cap P1 queda autoritzada encara per a producció automàtica. Abans de tancar F10 cal completar el coteig detallat, revisar les P2 en relació amb el conjunt de P1, confirmar les tres fusions P3, traduir al català les descripcions seleccionades i redactar especificacions de producció inequívoces. Les figures que necessitin fotografies o proves reals continuaran condicionades a disposar d'aquestes evidències.
 
+
+
+## 13. Coteig detallat de les propostes P1 — C15–C24
+
+S'ha fet una segona passada sobre els apartats concrets que sustenten les P1 de C15–C24. La revisió confirma que les propostes tenen una base lectora real i que les seves funcions són pertinents, però també detecta que la numeració de les propostes no coincideix necessàriament amb la numeració dels apartats on s'han d'inserir. Les ubicacions següents prevalen sobre qualsevol inferència basada en el número de figura.
+
+| Proposta | Ubicació lectora recomanada | Resultat del coteig detallat |
+|---|---|---|
+| 15.1 — Anàlisi de geometria, volums i superfícies | C15, 15.2 (anàlisi inicial), després d'identificar l'estructura general | **Validada.** El capítol demana identificar volums, superfícies i elements principals abans de seleccionar l'esquema lumínic. |
+| 15.3 — Mapa de valors | C15, 15.6 (mapes d'il·luminació i de valors) | **Validada.** El text diferencia explícitament mapa d'il·luminació i mapa de valors; la figura ha de mantenir aquesta distinció. |
+| 15.6 — Distribució uniforme i jerarquitzada del contrast | C15, 15.4 (planificació dels valors tonals) o 15.8 (errors i correccions) | **Validada amb matís.** La comparació és pertinent, però el capítol adverteix que una distribució uniforme pot ser deliberada. No etiquetar-la sempre com a error. |
+| 15.8 — Procés integral d'anàlisi a avaluació | C15, 15.1 com a mapa de lectura o 15.9 com a síntesi d'avaluació | **Validada.** Ha de representar una planificació revisable, no una seqüència rígida. |
+| 16.1 — Metàl·lic i no metàl·lic | C16, 16.1 | **Validada.** El text diferencia el reflex físic de les partícules metàl·liques de la simulació pictòrica del NMM. |
+| 16.2 — Influència de la geometria en els reflexos | C16, 16.2 i/o 16.6 | **Validada.** La forma de la peça condiciona el patró; no existeix un patró únic per a cada geometria. |
+| 16.4 — Mapa tonal d'una peça metàl·lica | C16, 16.3 (planificació tonal i cromàtica), no 16.4 | **Validada; ubicació corregida.** L'apartat 16.4 tracta la diferenciació cromàtica entre metalls. El mapa tonal correspon a 16.3. |
+| 16.6 — Construcció progressiva de base a reflexos i accents | C16, 16.5 (procediment general de construcció del NMM), no 16.6 | **Validada; ubicació corregida.** L'apartat 16.6 tracta l'adaptació geomètrica. La seqüència de construcció pertany a 16.5. |
+| 16.8 — Errors i correccions | C16, 16.8 | **Validada.** Els errors descrits al capítol ofereixen una base directa per a una figura diagnòstica. |
+| 17.1 — Font emissora, superfície il·luminada i reflex localitzat | C17, 17.2.1–17.2.3 | **Validada; ubicació concretada.** El contingut lector diferencia la font, la superfície receptora i els reflexos dins dels fonaments visuals de l'OSL. |
+| 17.3 — Geometria, orientació i bloqueig | C17, 17.3.4–17.3.6 | **Validada.** El capítol tracta geometria, orientació, obstacles i esquema de planificació. |
+| 17.4 — Jerarquia de valors | C17, 17.4.1–17.4.2 | **Validada.** La font i les superfícies receptores han de mantenir funcions visuals diferenciades; no imposar un centre blanc universal. |
+| 17.7 — Il·luminació general i reflexos en superfícies mates i brillants | C17, 17.6.4–17.6.5 | **Validada; ubicació corregida.** És part de l'adaptació a materials, no del control tècnic 17.7. |
+| 17.8 — Seqüència de construcció i integració de l'OSL | C17, 17.5.1–17.5.7 | **Validada; ubicació corregida.** La seqüència correspon al procediment general, no als errors del 17.8. |
+| 17.10 — Errors freqüents | C17, 17.8 | **Validada; ubicació corregida.** Les errades i correccions són al 17.8; 17.10 és el bloc d'exercicis. |
+| 18.1 — Mapa del procés integral | C18, 18.1 | **Validada.** El capítol descriu la planificació com una coordinació revisable de decisions, no com una seqüència universal. |
+| 18.3 — Planificació cromàtica, tonal i lumínica | C18, 18.3 | **Validada.** Les tres dimensions s'han de mostrar coordinades, però no confoses. |
+| 18.4 — Arbre de selecció de tècniques | C18, 18.4 | **Validada.** Les decisions depenen de l'objectiu, la superfície, el control, les limitacions i les operacions posteriors; no hi ha una correspondència universal. |
+| 18.6 — Organització per zones, materials i fases | C18, 18.5.4, no 18.6 | **Validada; ubicació corregida.** L'apartat 18.6 tracta compatibilitat i combinació de tècniques. L'organització per zones, materials o fases forma part de la seqüenciació 18.5. |
+| 19.3 — Construcció TMM d'acer i plata | C19, 19.2–19.3 (procediments TMM) | **Validada amb condició.** Les receptes són propostes tècniques, no assajos; la figura ha de ser seqüència didàctica, no fotografia de resultat real. |
+| 19.4 — Construcció TMM d'or | C19, 19.4.2 | **Validada amb condició.** Respectar les variants descrites i no inventar proporcions o resultats. |
+| 19.5 — Construcció de coure | C19, 19.5.2 | **Validada amb condició.** El text indica que la paleta no conté una pintura metàl·lica específica de coure; la figura ha de mostrar la modificació de bases disponibles sense suggerir una pintura de coure inexistent. |
+| 19.6 — Construcció de bronze | C19, 19.6.2 | **Validada amb condició.** El text indica que no hi ha una pintura específica de bronze a la paleta; no atribuir el resultat a una referència comercial absent. |
+| 19.9 — Errors i control | C19, 19.9 | **Validada.** El contingut proporciona criteris concrets de diferenciació material, dominants, reflexos, geometria i correcció selectiva. |
+| 20.1 — Direcció de fibres, vetes, nusos i anells | C20, 20.1–20.2 | **Validada.** El capítol diferencia patrons segons estructura, orientació i tall. |
+| 20.2 — Patrons segons el tall | C20, 20.2 | **Validada; fusionable amb 20.1.** La secció transversal i els anells poden formar un panell dins la comparació d'estructures. |
+| 20.4 — Construcció de vetes | C20, 20.8.1 | **Validada.** El procediment descriu direcció, longitud, amplada, discontinuïtat i jerarquia. |
+| 20.5 — Nus i desviació de fibres | C20, 20.8.2 | **Validada.** El text demana integrar el nus amb vetes corbades, no com un cercle independent. |
+| 20.7 — Adaptació a geometries | C20, 20.9.2 | **Validada; ubicació corregida.** La proposta correspon a l'adaptació geomètrica, no al subapartat de fustes envellides 20.7. |
+| 20.8 — Fusta natural, envellida, desgastada i humida | C20, 20.7.1–20.7.4 | **Validada.** Cal diferenciar els quatre estats i no reduir-los a una variació de color. |
+| 20.9 — Errors i correccions | C20, 20.9.3 | **Validada.** El capítol identifica errors concrets de patró, contrast, escala i geometria. |
+| 21.1 — Tipus principals de vegetació | C21, 21.1–21.2 | **Validada.** La forma de creixement, l'estructura i la densitat diferencien els grups; no reduir-los a tonalitats verdes. |
+| 21.2 — Morfologia de fulles | C21, 21.2 i l'apartat de fullatge de fulla ampla | **Validada.** Cal mantenir una simplificació visual i no convertir-la en una classificació botànica exhaustiva. |
+| 21.3 — Agrupació, densitat i superposició | C21, 21.2 | **Validada.** La massa, els buits i la superposició són més importants que dibuixar cada fulla. |
+| 21.5 — Branques i agrupacions aciculars | C21, 21.5 | **Validada.** El text descriu la construcció en dos nivells: forma de capçada/branques i agrupacions direccionals. |
+| 21.6 — Tiges, fulles i gramínies | C21, 21.6 | **Validada.** Cal diferenciar tiges, fulles, espigues i fulles seques, amb variació de direcció i alçada. |
+| 21.7 — Formes de molsa | C21, 21.7 | **Validada.** Coixins, tapissos i creixements irregulars tenen distribucions i relleus diferents. |
+| 21.8 — Formes de líquens | C21, 21.8 | **Validada.** Cal respectar les formes crustàcia, foliàcia i fruticulosa i no confondre líquens amb molsa. |
+| 22.1 — Gra del cuir | C22, 22.1–22.2 | **Validada.** La textura s'ha de simplificar a escala i no representar cada porus. |
+| 22.2 — Cuir natural, corregit, ante i nobuk | C22, 22.2 | **Validada.** El text diferencia estructura, textura i resposta superficial; no identificar ante/nobuk únicament per color. |
+| 22.4 — Construcció de cuir natural | C22, 22.4 | **Validada.** La seqüència incorpora base, variacions, ombres, recuperació de llums i adaptació a la geometria. |
+| 22.5 — Ante i nobuk | C22, 22.2 i 22.6 | **Validada amb precisió.** Cal representar l'ante com a superfície fibrosa/vellutada i el nobuk amb lectura més pròxima al gra; la diferència és orientativa segons el producte. |
+| 22.6 — Plecs i deformacions | C22, 22.9 | **Validada; ubicació corregida.** La proposta correspon a plecs, vores i detalls constructius, no a l'apartat 22.6 de cuir fosc/ante/nobuk. |
+| 22.7 — Cantells, gruix i costures | C22, 22.9 | **Validada; ubicació corregida.** Mateix bloc de detalls constructius. |
+| 22.9 — Errors freqüents | C22, apartat d'adaptació/control i errors del capítol | **Validada.** La figura ha de distingir cuir fosc, ante i nobuk, i evitar reflexos incompatibles amb textures afelpades. |
+| 23.1 — Tafetà, sarja i setí | C23, 23.2 | **Validada.** Cal representar correctament els patrons d'entrellaçat i diferenciar estructura de superfície. |
+| 23.2 — Famílies de teixits | C23, 23.1–23.2 | **Validada.** Diferenciar fibra, estructura, gruix, caiguda, textura i acabat; no equiparar vellut a una estructura de teixit com el tafetà. |
+| 23.3 — Construcció cromàtica de teixits clars | C23, 23.4 | **Validada.** La seqüència ha de preservar volum i variacions, sense convertir el teixit en una superfície blanca uniforme. |
+| 23.5 — Teixits gruixuts i de pèl | C23, 23.5 | **Validada.** El volum i la textura han de ser llegibles sense acumular punts o línies decoratives. |
+| 23.6 — Plecs i punts de tensió | C23, 23.9.1–23.9.2 | **Validada; ubicació corregida.** El capítol situa els plecs i la seva direcció al bloc 23.9. |
+| 23.8 — Errors freqüents | C23, 23.9.4 | **Validada; ubicació corregida.** Els errors de plecs, textura, reflexos i patrons pertanyen al bloc de control. |
+| 24.2 — Pigmentacions clares, intermèdies i profundes | C24, 24.2 i 24.4–24.5 | **Validada amb matís.** Les categories són recursos de planificació, no grups biològics tancats ni categories amb temperatura cromàtica fixa. |
+| 24.3 — Mapa cromàtic del rostre | C24, 24.7 (trets anatòmics i variacions locals) | **Validada amb condició.** Ha de ser orientatiu i dependent de la referència i la il·luminació; no un mapa universal de colors de pell. |
+| 24.4 — Construcció de pell clara | C24, 24.4 | **Validada.** La figura ha de preservar variacions i evitar una recepta universal. |
+| 24.5 — Construcció de pell profunda | C24, 24.5 | **Validada.** Cal respectar el criteri de no aplicar aclarits desaturats generalitzats ni neutralitzar la base. |
+| 24.7 — Masses musculars | C24, 24.8 | **Validada amb condició.** Esquema anatòmic simplificat i fiable, no il·lustració mèdica ni detall no sustentat pel text. |
+| 24.8 — Múscul, teixit adipós i connectiu | C24, 24.8 | **Validada amb condició.** Diferenciar masses, feixos i membranes sense inventar anatomia ni confondre-la amb estructures òssies o queratíniques. |
+| 24.9 — Errors freqüents | C24, 24.9.3 | **Validada.** Els exemples han de correspondre als errors i correccions descrits al capítol. |
+
+### Correccions d'ubicació derivades del coteig
+
+- **C16:** 16.4 (mapa tonal) s'ubica a 16.3; 16.6 (seqüència de construcció) s'ubica a 16.5.
+- **C17:** 17.1 s'ubica a 17.2; 17.7 s'ubica a 17.6; 17.8 s'ubica a 17.5; 17.10 s'ubica a 17.8.
+- **C18:** 18.6 (organització per zones/materials/fases) s'ubica a 18.5.4.
+- **C20:** 20.7 s'ubica a 20.9.2; 20.8 s'ubica a 20.7; 20.9 s'ubica a 20.9.3.
+- **C22:** 22.6 i 22.7 s'ubiquen a 22.9.
+- **C23:** 23.3 s'ubica a 23.4; 23.6 a 23.9.1–23.9.2; 23.8 a 23.9.4.
+- **C24:** 24.3 s'ubica a 24.7; 24.7 i 24.8 s'ubiquen a 24.8; 24.9 a 24.9.3.
+
+**Resultat del coteig detallat C15–C24:** les P1 examinades tenen correspondència real amb el contingut lector i es mantenen com a candidates de producció, amb les ubicacions corregides i les condicions descrites. No es modifica cap capítol ni es genera cap imatge. Les P2 continuen pendents de decisió final i les especificacions de producció encara s'han de redactar.

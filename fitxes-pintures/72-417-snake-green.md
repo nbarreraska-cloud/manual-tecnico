@@ -28,12 +28,12 @@ Vallejo descriu Xpress Color com una gamma d'elevada capil·laritat, amb tendèn
 
 ## 4. Presència i funció dins del manual
 
-Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n reprodueix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
+Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n resumeix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
 
-- **Capítol 21:** `| Snake Green | 72.417 | Variacions verdes |`
-- **Capítol 23:** `| Snake Green | 72.417 | Verds intensos |`
-- **Capítol 32:** `| Verds | Scorpy Green (72.032), Cayman Green (72.067), Dark Green (72.0- **Capítol 27:** `| Snake Green | 72.417 | Variacions verdes |`
-28), Snake Green (72.417), Green Ink (72.089) |`
+- **Capítol 21:** Variacions verdes (funció indicada a la taula).
+- **Capítol 23:** Verds intensos (funció indicada a la taula).
+- **Capítol 27:** Variacions verdes (funció indicada a la taula).
+- **Capítol 32:** menció contextual de Snake Green (72.417) al text del capítol; no és una fila de recepta.
 
 Capítols amb aparicions identificades: C21, C23, C27, C32.
 

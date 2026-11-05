@@ -66,7 +66,7 @@ La numeració cobreix només les 150 composicions seleccionades de les 156 P1. L
 | G056 | Figura 19.3 | 19.5 | 19 | Construcció de coure | 19.5.2. | — |
 | G057 | Figura 19.4 | 19.6 | 19 | Construcció de bronze | 19.6.2. | — |
 | G058 | Figura 19.5 | 19.9 | 19 | Errors i control | 19.9. | — |
-| G059 | Figura 20.1 | 20.1 + 20.2 | 20 | Direcció de fibres, vetes, nusos, anells i patrons segons el tall | 20.1–20.2. | 20.2 — Integració prevista; validar que no duplica el text; 20.6 — Integració prevista; validar que no duplica el text |
+| G059 | Figura 20.1 | 20.1 + 20.2 | 20 | Direcció de fibres, vetes, nusos, anells i patrons segons el tall | 20.1–20.2. | 20.2 — Integració prevista; validar que no duplica el text; 20.6 — Integració confirmada en el panell de secció transversal i anells |
 | G060 | Figura 20.2 | 20.4 + 20.5 | 20 | Construcció de vetes i desviació de fibres al voltant d'un nus | 20.8.1–20.8.2. | 20.5 — Integració prevista; validar que no duplica el text |
 | G061 | Figura 20.3 | 20.7 | 20 | Adaptació a geometries | 20.9.2. | — |
 | G062 | Figura 20.4 | 20.8 | 20 | Fusta natural, envellida, desgastada i humida | 20.7.1–20.7.4. | — |

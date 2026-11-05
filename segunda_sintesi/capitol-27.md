@@ -14,7 +14,7 @@ Un cristall és un sòlid amb una organització interna ordenada que pot manifes
 - **Translúcid:** transmet llum però la dispersa; el fons apareix difús.
 - **Opac:** no permet veure el fons; la lectura depèn sobretot del color, la reflexió superficial i les cares.
 - **Inclusió i fractura:** bombolles, fractures, inclusions minerals, bandes de creixement i zones de transparència diferent poden identificar un cristall natural, però s'han de seleccionar segons l'escala.
-- **Cristall natural i gema tallada:** el primer respon al creixement i les transformacions naturals; la segona té superfícies tallades per organitzar facetes, aristes, contrastos i lluminositat. No s'han de pintar amb un procediment idèntic.
+- **Cristall natural i gemma tallada:** el primer respon al creixement i les transformacions naturals; la segona té superfícies tallades per organitzar facetes, aristes, contrastos i lluminositat. No s'han de pintar amb un procediment idèntic.
 
 L'orientació de cada cara condiciona la relació amb la llum. Cal diferenciar plans orientats cap a la font, plans oposats, laterals, arestes exposades i unions. No totes les cares han de tenir el mateix valor ni brillantor.
 
@@ -117,17 +117,17 @@ La neu s'acumula en superfícies horitzontals, cavitats, vores, sortints, zones 
 
 Les gemmes poden ser transparents, translúcides o opaques. La seva aparença depèn de composició, estructura, inclusions, tall i acabat. No totes tenen facetes: els cabuixons presenten superfícies corbes polides.
 
-Per construir una gema facetada, establir color general i geometria de facetes, distribuir zones fosques i clares, introduir variacions cromàtiques, definir arestes i afegir reflexos. No existeix un patró únic d'il·luminació: depèn del tall, orientació i efecte buscat.
+Per construir una gemma facetada, establir color general i geometria de facetes, distribuir zones fosques i clares, introduir variacions cromàtiques, definir arestes i afegir reflexos. No existeix un patró únic d'il·luminació: depèn del tall, orientació i efecte buscat.
 
-**Recepta K. Gema vermella:** base Gory Red; ombres Evil Red; variació Scarlet Blood; aclarits amb la combinació proposada de Scarlet Blood i Hot Orange; punt de llum White. Construir profunditat, zona vermella més clara i reflex petit; no aclarir totes les cares per igual.
+**Recepta K. Gemma vermella:** base Gory Red; ombres Evil Red; variació Scarlet Blood; aclarits amb la combinació proposada de Scarlet Blood i Hot Orange; punt de llum White. Construir profunditat, zona vermella més clara i reflex petit; no aclarir totes les cares per igual.
 
-**Recepta L. Gema blava:** base Dark Sea Blue; variació Blue Green; tons mitjans amb la combinació proposada de Blue Green i Turquoise; aclarits Turquoise i Ivory; reflex White.
+**Recepta L. Gemma blava:** base Dark Sea Blue; variació Blue Green; tons mitjans amb la combinació proposada de Blue Green i Turquoise; aclarits Turquoise i Ivory; reflex White.
 
-**Recepta M. Gema verda:** base Dark Green; variació Cayman Green; tons mitjans Scorpy Green; aclarits Lime Green; reflex White. Es pot incorporar Yellow Green per a una variació més càlida.
+**Recepta M. Gemma verda:** base Dark Green; variació Cayman Green; tons mitjans Scorpy Green; aclarits Lime Green; reflex White. Es pot incorporar Yellow Green per a una variació més càlida.
 
 Per a gemmes violetes i ametistes tallades es pot adaptar la recepta B, mantenint facetes, variacions violetes, zones profundes, aclarits selectius i reflexos. No cal una recepta nova si la diferència principal és geomètrica.
 
-**Recepta N. Gema groga o ambre:** base Parasite Brown; variació Hot Orange; tons mitjans Moon Yellow; aclarits Ice Yellow; reflex White. Dark Rust pot aprofundir zones. És una aparença cromàtica inspirada en l'ambre, no una reproducció de la seva estructura interna.
+**Recepta N. Gemma groga o ambre:** base Parasite Brown; variació Hot Orange; tons mitjans Moon Yellow; aclarits Ice Yellow; reflex White. Dark Rust pot aprofundir zones. És una aparença cromàtica inspirada en l'ambre, no una reproducció de la seva estructura interna.
 
 En gemmes opaques i cabuixons, construir volum amb transicions, mantenir un reflex localitzat, evitar dividir tota la superfície en facetes i incorporar variacions internes només quan correspongui. No aplicar automàticament el procediment de gemma transparent a totes les pedres decoratives.
 
@@ -140,7 +140,7 @@ En gemmes opaques i cabuixons, construir volum amb transicions, mantenir un refl
 
 Els cristalls prismàtics requereixen cares longitudinals i arestes; els irregulars, selecció de facetes principals; els blocs de gel, gruix i fractures; els caramells, distribució longitudinal; les gemmes arrodonides, transicions corbes; les facetades, plans coherents. La neu sobre objectes ha de seguir geometria i exposició.
 
-La brillantor superficial i la transparència són fenòmens diferents. Una gema pot tenir un reflex intens i profunditat cromàtica; un cristall transparent pot conservar informació del fons; una superfície opaca polida pot reflectir sense transmetre llum. Els reflexos han de respondre a la forma i a la font lluminosa. Els vernissos i acabats es desenvolupen al capítol 37.
+La brillantor superficial i la transparència són fenòmens diferents. Una gemma pot tenir un reflex intens i profunditat cromàtica; un cristall transparent pot conservar informació del fons; una superfície opaca polida pot reflectir sense transmetre llum. Els reflexos han de respondre a la forma i a la font lluminosa. Els vernissos i acabats es desenvolupen al capítol 37.
 
 ## 27.9. Errors freqüents i avaluació
 
@@ -153,7 +153,7 @@ La brillantor superficial i la transparència són fenòmens diferents. Una gema
 - Confondre neu i gebre: distingir acumulació de partícules i dipòsit superficial de cristalls.
 - Donar saturació uniforme a les gemmes: construir profunditat amb diferències de valor.
 - Col·locar reflexos sense considerar geometria: adaptar-los a forma i orientació.
-- Confondre reflex amb emissió: una gema brillant no necessàriament emet llum; l'OSL es tracta al capítol 17.
+- Confondre reflex amb emissió: una gemma brillant no necessàriament emet llum; l'OSL es tracta al capítol 17.
 - Exagerar inclusions i fractures: seleccionar pocs detalls.
 - Aplicar el mateix procediment a facetes i cabuixons: adaptar-lo a plans o curvatura.
 
@@ -231,7 +231,7 @@ La brillantor superficial i la transparència són fenòmens diferents. Una gema
 **Materials:** Gory Red, Evil Red, Scarlet Blood, Dark Green, Cayman Green, Scorpy Green, Lime Green i White.
 
 **Procediment:**
-1. Preparar dues superfícies amb geometria de gema.
+1. Preparar dues superfícies amb geometria de gemma.
 2. Construir-ne una mitjançant la recepta K.
 3. Construir l'altra mitjançant la recepta M.
 4. Organitzar les zones fosques i clares.
@@ -248,7 +248,7 @@ La brillantor superficial i la transparència són fenòmens diferents. Una gema
 
 **Procediment:**
 1. Seleccionar una miniatura o una base amb elements hivernals i cristal·lins.
-2. Identificar quines superfícies corresponen a roca, cristall, gel, neu i gema.
+2. Identificar quines superfícies corresponen a roca, cristall, gel, neu i gemma.
 3. Establir una organització cromàtica.
 4. Construir primer les formes i els volums.
 5. Aplicar les receptes corresponents.

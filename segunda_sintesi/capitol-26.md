@@ -230,7 +230,7 @@ El granit, el basalt, l'arenisca, la calcària, la pissarra, el marbre i el gnei
 
 Les receptes utilitzen les pintures disponibles a la paleta de referència i s'han d'entendre com a punts de partida. La seva aplicació requereix adaptar el color, el contrast i la textura a la geometria, l'escala i la referència visual. La finalitat no és reproduir tots els detalls geològics, sinó identificar les característiques que defineixen cada superfície i traslladar-les a una representació pictòrica clara i coherent.
 
-## 26.11. Referències i recursos
+## 26.12. Referències i recursos
 
 - Institut Cartogràfic i Geològic de Catalunya (ICGC). *Texturas de las rocas – Recurso didáctico*. https://www.icgc.cat/es/Ambitos-tematicos/Recursos-didacticos/Texturas-de-las-rocas-Recurso-didactico
 - U.S. Geological Survey. *Collecting Rocks*. https://pubs.usgs.gov/gip/collect1/collectgip.html

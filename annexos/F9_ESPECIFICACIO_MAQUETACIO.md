@@ -1,7 +1,7 @@
 # F9 — Especificació de maquetació Word (05/11/2026)
 
 **Branca:** intervencion-editorial-2026-11  
-**Estat:** fase iniciada; preparació de la plantilla i del procés de generació.  
+**Estat:** F9 tancada — maquetació textual completa, validada i registrada el 05/11/2026.  
 **Límit:** no modificar main ni reobrir contingut tècnic aprovat.
 
 ## 1. Estructura del document
@@ -54,3 +54,14 @@ La primera compilació DOCX s'ha generat correctament. La conversió de comprova
 La segona generació de GitHub Actions ha finalitzat correctament (run 42075834908). El generador corregeix els salts de pàgina i la numeració de llistes, i el camp de l'índex s'ha ajustat a nivells 1–2. Després d'actualitzar el contingut de l'índex amb LibreOffice UNO, el DOCX de comprovació produeix un PDF de 352 pàgines A4, amb l'índex a les pàgines 2–12 i el cos a partir de la 13. L'escaneig de pàgines no detecta pàgines pràcticament buides. La inspecció visual de mostres confirma llegibilitat en portada, índex, text corrent, taules d'annex i final de l'Annex F.
 
 La validació estructural confirma 39 capítols, annexos A–F, 48 fitxes i 336 seccions de fitxa. La comparació textual exhaustiva i la revisió visual pàgina per pàgina continuen pendents; no es declara F9 tancada.
+
+
+## 8. Tancament F9 — 05/11/2026
+
+F9 queda tancada en el seu abast aprovat: maquetació textual completa sense imatges. La generació automàtica i l'auditoria reforçada de fidelitat han finalitzat correctament a GitHub Actions (execució `42079639659`, commit de codi `bea43da327067f00f9b7d4f121d29de39d57ca17`). L'auditoria cobreix 55 fitxers font, 174.623 paraules font i 174.682 paraules al cos del DOCX; verifica tant la multiplicitat dels tokens com la seva seqüència.
+
+La revisió visual global de les 352 pàgines de la versió de comprovació amb índex actualitzat no ha detectat pàgines en blanc o gairebé buides, desbordaments evidents, ni anomalies generals de composició. S'han revisat els fulls de contacte de totes les pàgines i mostres ampliades de portada, índex, capítols, taules i fitxes. La maqueta manté 159 taules, 39 capítols, annexos A–F, 48 fitxes i 336 encapçalaments de secció de fitxa; no utilitza numeració automàtica acumulativa.
+
+**Límits coneguts:** aquesta fase és deliberadament textual i no incorpora imatges. La inspecció de pàgina sencera no equival a una correcció tipogràfica minuciosa de cada cel·la de cada taula. La paginació s'ha de recalcular quan s'incorporin imatges en una fase posterior. L'índex és un camp automàtic de Word i pot requerir actualització després de canvis de contingut o paginació.
+
+**Resultat:** F9 tancada. No s'ha modificat `main`; no s'ha iniciat F10 ni cap altra fase posterior.

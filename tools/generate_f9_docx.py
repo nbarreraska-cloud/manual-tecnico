@@ -155,7 +155,8 @@ def add_markdown_block(doc, lines, compact=False, first_heading_level=1, page_br
                 bookmark_start.set(qn("w:name"), first_heading_bookmark[0])
                 bookmark_end = OxmlElement("w:bookmarkEnd")
                 bookmark_end.set(qn("w:id"), str(first_heading_bookmark[1]))
-                p._p.insert(0, bookmark_start)
+                pPr = p._p.pPr
+                p._p.insert(1 if pPr is not None else 0, bookmark_start)
                 p._p.append(bookmark_end)
                 add_markdown_block._bookmark_added = True
             i += 1

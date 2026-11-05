@@ -1,6 +1,6 @@
 # REGISTRE MESTRE DE RECUPERACIONS EDITORIALS
 **Manual tècnic de pintura de miniatures**  
-**Versió:** 1.68 · **Data:** 05/11/2026  
+**Versió:** 1.69 · **Data:** 05/11/2026  
 **Branca:** intervencion-editorial-2026-11
 
 ## 1. Funció i abast
@@ -516,3 +516,10 @@ S'han retirat els blocs de propostes gràfiques dels fitxers Markdown de C1, C2,
 
 | 1.68 | 05/11/2026 | Correcció editorial MG: 50 propostes i criteris gràfics traslladats a document independent; retirats del cos de set capítols i de la compilació. |
 
+
+
+### Sincronització final de la compilació C1–C39 (05/11/2026)
+
+S'ha comprovat la presència íntegra dels 39 fitxers Markdown vigents a la compilació consolidada. S'ha actualitzat el bloc de C24, que no contenia encara les darreres recuperacions didàctiques i bibliogràfiques, i s'han restaurat els títols C2–C4 després de la depuració MG. La compilació queda amb 39 títols de capítol i sense apartats MG ni criteris de producció gràfica. Les 50 propostes gràfiques i els criteris del C3 es conserven al document independent «PLANIFICACIO_GRAFICA_MG_FASE_POSTERIOR.md». No s'ha modificat main.
+
+| 1.69 | 05/11/2026 | Compilació C1–C39 sincronitzada amb els 39 Markdown; C24 actualitzat; títols C2–C4 restaurats; 39 capítols i zero blocs MG al text lector. |

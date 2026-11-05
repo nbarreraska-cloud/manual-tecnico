@@ -154,6 +154,10 @@ No utilitzar «aprovada» per referir-se a una imatge només perquè s'ha genera
 - La figura 19.4 (P1 19.6) és comparació conceptual E0; no és una recepta E1.
 - Les remissions locals no s'han d'afegir mecànicament; es conserven les remissions creuades no locals que faciliten la navegació.
 
+## 10. Registre operatiu de les composicions
+
+El detall individual de les 150 composicions —codi G, identificadors P1 d'origen, ubicació lectora, categoria d'evidència, llegenda de treball i estat— es manté al [registre mestre d'encàrrecs gràfics F13](registre_mestre_encarrecs_grafics_F13.md). El registre i les fitxes F10 s'han d'utilitzar conjuntament: el registre controla la cobertura; la fitxa determina el contingut gràfic i els límits particulars.
+
 ## 10. Control inicial de producció
 
 | Control | Estat |

@@ -293,4 +293,4 @@ Les receptes i les combinacions són propostes tècniques. No s'han d'interpreta
 - Les 183 entrades s'han de verificar contra les receptes dels capítols 19–34 abans del tancament definitiu.
 - No s'afegeixen ingredients, proporcions ni resultats experimentals.
 
-**Estat F5:** coteig de les 183 entrades completat contra les receptes vigents dels capítols 19–34; lletres i correspondència de cada recepta verificades, i 170 referències actualitzades a l'apartat real. Resta la comprovació final de coherència amb l'Annex D i la revisió global dels annexos.
+**Estat F5:** 183/183 entrades i lletres verificades contra C19–C34; 170 referències corregides i 13 ja correctes. Les 92 entrades de l'Annex D s'han contrastat amb les lletres de l'Annex C (92/92). La integració amb A, B i E s'ha verificat; no s'han modificat receptes ni formulacions.

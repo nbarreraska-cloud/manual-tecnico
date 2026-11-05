@@ -912,11 +912,13 @@ Les fitxes següents normalitzen en català les 58 propostes addicionals de la t
 - **Representació:** Detall comparatiu de gra natural, gra corregit i superfície tractada.
 - **Condicions i límits:** Simplificar porus i irregularitats a escala; no dibuixar cada porus.
 
-#### 22.2 — Cuir natural, corregit, ante i nobuk
-- **Ubicació:** 22.2.
-- **Llegenda de treball:** «Cuir natural, corregit, ante i nobuk: Quatre panells de textura i resposta superficial.»
-- **Representació:** Quatre panells de textura i resposta superficial.
-- **Condicions i límits:** Diferenciar gra, fibra vellutada i acabat; la distinció ante/nobuk és orientativa i depèn del producte.
+#### 22.2 + 22.5 — Cuir natural, corregit, ante i nobuk, amb detall comparatiu
+- **Identificadors integrats:** 22.2 i 22.5.
+- **Ubicació:** 22.2, amb ampliació específica de l'ante i el nobuk; remissió a 22.6 quan calgui.
+- **Llegenda de treball:** «Comparació del gra i la resposta superficial del cuir natural i corregit, l'ante i el nobuk, amb detall ampliat de les dues superfícies afelpades.»
+- **Representació:** làmina principal de quatre panells —cuir natural, cuir corregit, ante i nobuk— i un detall comparatiu ampliat d'ante/nobuk que mostri la textura fibrosa de l'ante i la lectura més pròxima al gra del nobuk.
+- **Funció didàctica:** distingir les quatre aparences i conservar la comparació específica entre ante i nobuk sense repetir-la en una segona figura.
+- **Condicions i límits:** una sola composició. La distinció ante/nobuk és orientativa i depèn del producte; evitar reflexos brillants en superfícies afelpades i no basar la diferència només en el color.
 
 #### 22.4 — Construcció de cuir natural
 - **Ubicació:** 22.4.
@@ -1012,17 +1014,13 @@ Les fitxes següents normalitzen en català les 58 propostes addicionals de la t
 - **Representació:** Seqüència de base, profunditat cromàtica, variacions i llums.
 - **Condicions i límits:** No aplicar aclarits desaturats generalitzats ni neutralitzar la base.
 
-#### 24.7 — Masses musculars
+#### 24.7 + 24.8 — Masses musculars i diferenciació dels teixits orgànics
+- **Identificadors integrats:** 24.7 i 24.8.
 - **Ubicació:** 24.8.
-- **Llegenda de treball:** «Masses musculars: Esquema anatòmic simplificat de masses i volums musculars.»
-- **Representació:** Esquema anatòmic simplificat de masses i volums musculars.
-- **Condicions i límits:** Ha de ser anatòmicament fiable a nivell general; no és una il·lustració mèdica ni ha d'afegir detalls no sustentats.
-
-#### 24.8 — Múscul, teixit adipós i connectiu
-- **Ubicació:** 24.8.
-- **Llegenda de treball:** «Múscul, teixit adipós i connectiu: Comparació esquemàtica de feixos musculars, teixit adipós i estructures connectives.»
-- **Representació:** Comparació esquemàtica de feixos musculars, teixit adipós i estructures connectives.
-- **Condicions i límits:** Diferenciar els teixits sense inventar anatomia ni confondre estructures òssies o queratíniques.
+- **Llegenda de treball:** «Organització de les masses musculars i diferenciació entre múscul, teixit adipós i teixit connectiu.»
+- **Representació:** làmina anatòmica simplificada en dos panells coordinats: (A) masses musculars principals i direcció general dels feixos; (B) comparació esquemàtica de múscul, teixit adipós i estructures connectives.
+- **Funció didàctica:** relacionar la lectura de les masses anatòmiques amb la diferenciació dels teixits que les componen.
+- **Condicions i límits:** preservar la distinció entre els dos continguts; anatomia general fiable, sense convertir la làmina en una il·lustració mèdica ni afegir estructures no sustentades. Si la composició no és llegible en dos panells, separar-la de nou en maquetació.
 
 #### 24.9 — Errors freqüents
 - **Ubicació:** 24.9.3.
@@ -1044,3 +1042,11 @@ Les quatre propostes P1 del C20 es consoliden en dues composicions editorials:
 - **20.4 + 20.5:** una seqüència integrada de construcció de vetes i desviació de fibres al voltant d'un nus.
 
 Es conserven els quatre identificadors originals per a la traçabilitat, però no es produiran quatre figures independents. Aquesta decisió redueix en dues les composicions respecte del recompte brut d'identificadors P1.
+
+
+## Fusions editorials addicionals després de la revisió transversal — 05/11/2026
+
+- **22.2 + 22.5:** la comparació general de cuir natural/corregit, ante i nobuk ja inclou les dues superfícies afelpades; el contingut específic de 22.5 s'integra com a detall ampliat dins de la mateixa làmina.
+- **24.7 + 24.8:** les masses musculars i la diferenciació entre múscul, teixit adipós i connectiu comparteixen ubicació lectora (24.8) i s'organitzen en dos panells d'una làmina anatòmica coordinada. La separació només es recuperarà si la llegibilitat o la precisió anatòmica se'n ressenten.
+
+Aquestes fusions conserven els identificadors i tota la informació funcional, però eviten duplicar dues figures molt pròximes. Amb les dues fusions del C20, el recompte passa de 156 identificadors P1 a **152 composicions de treball**.

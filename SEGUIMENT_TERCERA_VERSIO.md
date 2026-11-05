@@ -665,7 +665,7 @@ La prioritat immediata de F4 passa als capítols 12 i 13. C28–C29 tenen comple
 
 S'ha completat la lectura comparativa dels textos disponibles de C12 i C13, no només el recompte d'encapçalaments.
 
-- **C12:** el contingut lector conserva els fonaments, les distincions entre límit físic/cromàtic/representat, les cinc modalitats de perfilat, la selecció cromàtica, els criteris d'eina i càrrega, els sis procediments? No: cinc exercicis, els controls i els vuit errors. No s'han identificat omissions substancials. El registre editorial antic que assigna ratllat i esponjat a C14 és una metadada desfasada, no una instrucció del capítol actual.
+- **C12:** el contingut lector conserva els fonaments, les distincions entre límit físic/cromàtic/representat, les cinc modalitats de perfilat, la selecció cromàtica, els criteris d'eina i càrrega, els sis procediments d'aplicació, els cinc exercicis, els controls i els vuit errors. No s'han identificat omissions substancials. El registre editorial antic que assigna ratllat i esponjat a C14 és una metadada desfasada, no una instrucció del capítol actual.
 - **C13:** es conserven les quatre tècniques, els seus mecanismes, variables, procediments, aplicacions i limitacions, la combinació, els nou errors, els criteris d'avaluació i els sis exercicis. No s'han identificat omissions substancials.
 - No s'han modificat els dos capítols perquè el coteig no ha justificat recuperacions de contingut. Les figures continuen reservades a MG.
 - La revisió transversal de terminologia i la conciliació de metadades/remissions continuen obertes.

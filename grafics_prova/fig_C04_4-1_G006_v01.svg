@@ -6,16 +6,16 @@
 </defs>
 <rect width="1200" height="760" fill="#f3f6f8"/>
 <text x="600" y="52" text-anchor="middle" class="title">Mescla additiva i mescla sostractiva</text>
-<rect x="35" y="82" width="550" height="625" rx="18" class="panel"/>
-<rect x="615" y="82" width="550" height="625" rx="18" class="panel"/>
+<rect x="35" y="82" width="550" height="625" rx="18" fill="#101820" stroke="#b7c7d1" stroke-width="2"/>
+<rect x="615" y="82" width="550" height="625" rx="18" fill="#fbfcfd" stroke="#b7c7d1" stroke-width="2"/>
 <text x="310" y="130" text-anchor="middle" class="sub">RGB · llum (mescla additiva)</text>
 <text x="890" y="130" text-anchor="middle" class="sub">CMY · pigments o colorants (model sostractiu)</text>
-<g opacity="0.86">
+<g style="mix-blend-mode:screen">
  <circle cx="245" cy="335" r="145" fill="#ff2020"/>
  <circle cx="385" cy="335" r="145" fill="#20d94b"/>
  <circle cx="315" cy="455" r="145" fill="#205cff"/>
 </g>
-<g opacity="0.88">
+<g style="mix-blend-mode:multiply">
  <circle cx="825" cy="335" r="145" fill="#00b9d8"/>
  <circle cx="965" cy="335" r="145" fill="#ed168c"/>
  <circle cx="895" cy="455" r="145" fill="#ffe000"/>

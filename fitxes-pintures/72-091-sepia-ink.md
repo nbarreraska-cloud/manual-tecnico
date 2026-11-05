@@ -28,16 +28,16 @@ Vallejo descriu Game Color Ink com una família de colors transparents i d'acaba
 
 ## 4. Presència i funció dins del manual
 
-Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n reprodueix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
+Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n resumeix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
 
-- **Capítol 20:** `| Sepia Ink | 72.091 | Modificació cromàtica i enfosquiment local |`
-- **Capítol 21:** `| Sepia Ink | 72.091 | Modificació cromàtica local |`
-- **Capítol 22:** `| Sepia Ink | 72.091 | Modificació cromàtica i ombres càlides |`
-- **Capítol 23:** `| Sepia Ink | 72.091 | Modificacions i ombres càlides |`
-- **Capítol 25:** `| Sepia Ink | - **Capítol 24:** `| Sepia Ink | 72.091 | Modificacions i ombres càlides |`
-- **Capítol 26:** `| Sepia Ink | 72.091 | Modificacions i ombres càlides |`
-- **Capítol 27:** `| Sepia Ink | 72.091 | Ombres càlides i terroses |`
-72.091 | Dipòsits i modificacions cromàtiques |`
+- **Capítol 20:** Modificació cromàtica i enfosquiment local (funció indicada a la taula).
+- **Capítol 21:** Modificació cromàtica local (funció indicada a la taula).
+- **Capítol 22:** Modificació cromàtica i ombres càlides (funció indicada a la taula).
+- **Capítol 23:** Modificacions i ombres càlides (funció indicada a la taula).
+- **Capítol 24:** Modificacions i ombres càlides (funció indicada a la taula).
+- **Capítol 25:** Dipòsits i modificacions cromàtiques (funció indicada a la taula).
+- **Capítol 26:** Modificacions i ombres càlides (funció indicada a la taula).
+- **Capítol 27:** Ombres càlides i terroses (funció indicada a la taula).
 
 Capítols amb aparicions identificades: C20, C21, C22, C23, C24, C25, C26, C27.
 

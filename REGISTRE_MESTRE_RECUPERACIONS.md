@@ -19,7 +19,7 @@ La tercera versió és el resultat de les intervencions sobre aquests 39 Markdow
 |---|---|---|
 | 0 | Preservar les versions, les fonts, la traçabilitat i la branca de treball; vincular cada intervenció amb capítol/apartat/font i mantenir main intacta. | **Completada** |
 | 1 | Auditoria comparativa dels 39 capítols Markdown: contingut conservat, simplificacions, pèrdues, redundàncies i millores de la segona síntesi. | **Completada (39/39)** |
-| 2 | Consolidar el Registre Mestre amb categories RT/RD/AE/MG/SC, prioritats, decisions, fonts i estat real dels canvis. | **En curs**; versió 1.0 creada i ara conciliada amb l'historial G-01–G-11 i els commits de la branca. |
+| 2 | Consolidar el Registre Mestre amb categories RT/RD/AE/MG/SC, prioritats, decisions, fonts i estat real dels canvis. | **En curs**; versió 1.2 creada, amb les intervencions G-01–G-11 separades de la tercera versió. Continua la conciliació fina dels estats i commits dels 39 capítols. |
 | 3 | Aplicar les recuperacions tècniques, didàctiques i els ajustos editorials justificats a la tercera versió dels 39 Markdown. | **En curs**; intervencions aplicades als capítols 4–19, 25–32, 36 i 38; ajust AE als capítols 33–34. |
 | 4 | Validar els 39 capítols i estabilitzar-ne el contingut, les receptes, els exercicis, la numeració i les referències. | **Pendent / parcial**; les comprovacions estructurals inicials no substitueixen el coteig semàntic. |
 | 5 | Revisar i reconstruir els annexos A–E després d'estabilitzar els 39 capítols. | **Pendent i diferida**; no intervenir-hi ara. |

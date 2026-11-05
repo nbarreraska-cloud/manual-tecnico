@@ -3,7 +3,7 @@
 **Data:** 05/11/2026  
 **Branca:** `intervencion-editorial-2026-11`  
 **Base de contingut:** `TERCERA_SINTESI_CONSOLIDADA_C01-C39.md`  
-**Abast:** comprovació estructural de les 157 propostes classificades P1.
+**Abast vigent:** comprovació estructural de les 156 propostes classificades P1, després de reclassificar 3.6 de P1 a P2.
 
 ## 1. Abast i límit de la comprovació
 
@@ -17,7 +17,7 @@ S'ha contrastat la funció de les propostes P1 amb els apartats i continguts pre
 |---|---|---|---|
 | C1 | 1.2 | Estructura i organització del manual; classificació de la informació tècnica (apartats 1.3 i 1.5). | Correspondència temàtica/estructural detectada; cal validació visual individual abans de produir. |
 | C2 | 2.2 | Distribució dels quatre conjunts de pintura i relació entre inventari, catàleg, fitxes, caracterització i aplicació (2.2 i 2.5). | Correspondència temàtica/estructural detectada; cal validació visual individual abans de produir. |
-| C3 | 3.1, 3.2, 3.3, 3.6 | Opacitat/transparència, distribució sobre relleus, proves funcionals i selecció de pintures (3.2–3.5). | Correspondència temàtica/estructural detectada; cal validació visual individual abans de produir. |
+| C3 | 3.1, 3.2, 3.3 | Opacitat/transparència, distribució sobre relleus, proves funcionals i selecció de pintures (3.2–3.5). | Correspondència temàtica/estructural detectada; cal validació visual individual abans de produir. |
 | C4 | 4.3, 4.4, 4.6, 4.7, 4.8, 4.9 | Mescla RGB/CMY, dimensions Munsell, harmonies, contrastos, modificació cromàtica i planificació de paletes (4.3–4.10). | Correspondència temàtica/estructural detectada; cal validació visual individual abans de produir. |
 | C5 | 5.4, 5.6, 5.7, 5.11, 5.12, 5.13, 5.15, 5.16 | Orientació de superfícies, normals i angle d'incidència, superfícies planes/corbes, bloqueig i ombres, umbra/penombra, volum i anàlisi d'il·luminació (5.3–5.8). | Correspondència temàtica/estructural detectada; cal validació visual individual abans de produir. |
 | C6 | 6.1, 6.4, 6.5, 6.7, 6.8 | Material i aparença, resposta òptica, transparència/translucidesa, reconeixement combinat i simplificació a escala (6.1–6.7). | Correspondència temàtica/estructural detectada; cal validació visual individual abans de produir. |
@@ -74,6 +74,13 @@ Les propostes prioritàries corresponen als procediments i criteris finals de fo
 4. Les figures que representin geometria, llum, reflexos, materials o processos han de conservar els límits tècnics establerts al text.
 5. Les P1 es mantenen com a candidates prioritàries. La llista final de producció es tancarà després de la revisió de redundàncies i de les P2.
 
-## 5. Següent fase
+## 5. Actualització de l'estat després de F10
 
-Revisar les 83 P2 i decidir quines aporten una millora no coberta per les P1, quines s'han de fusionar i quines poden quedar arxivades. Després, preparar especificacions de producció en català per a les figures aprovades.
+La revisió individual de les P2 ja s'ha completat per a 84 propostes; no és una tasca pendent. Les 156 P1 disposen d'especificacions i fitxes editorials en català, organitzades en 150 composicions de treball després de les integracions documentades al registre F10. Aquesta validació estructural no equival a aprovació final de producció.
+
+La tasca pendent és completar la passada transversal de redundàncies, verificar remissions i llegendes, confirmar les composicions fusionades i establir la numeració editorial estable. F11 només començarà després del tancament formal de F10.
+
+
+## 6. Recompte actualitzat — 05/11/2026
+
+La proposta **3.6 — Esquema de selecció funcional de pintures** es va reclassificar de P1 a P2 després del coteig del C3 perquè podia repetir la taula i la seqüència de selecció del capítol. El recompte vigent és de **156 P1, 84 P2 i 3 P3**. La matriu d'aquest document s'ha d'interpretar d'acord amb aquest recompte, no amb el recompte inicial de 157 P1.

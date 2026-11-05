@@ -440,3 +440,28 @@ Comprovació inicial:
 ### Continuïtat immediata
 
 Les recuperacions didàctiques de prioritat mitjana dels capítols 25–27 i 32 ja estan aplicades. Continuar amb les intervencions de prioritat baixa encara identificades (capítols 31 i 36) i els ajustos editorials AE pendents, sense reobrir capítols SC sense una incidència substancial.
+
+
+### Capítol 31 — sang i fluids (05/11/2026)
+
+S'ha recuperat el contingut didàctic del capítol 31 comparant la segona síntesi amb el text original.
+
+Intervenció aplicada:
+- Recuperada la síntesi conceptual del capítol.
+- Desenvolupats els sis exercicis amb objectiu, procediment i avaluació.
+- Mantinguda la diferenciació entre sang fresca, acumulada o coagulada, seca i fluids no sanguinis aquosos, viscosos o tèrbols.
+- Conservades les cinc receptes A–E, les referències de l'inventari i la documentació científica i tècnica.
+- Les vuit propostes de figures originals no s'han inserit al capítol; queden reservades per a la fase MG.
+
+Comprovació inicial:
+- 5 receptes A–E presents.
+- 6 exercicis complets presents.
+- Síntesi i referències diferenciades.
+- Cap encapçalament duplicat detectat.
+- Es mantenen les delimitacions amb corrosió (28), brutícia i dipòsits (29), acabats (37) i OSL (17).
+
+**Estat:** recuperació aplicada; comprovació estructural inicial superada; validació semàntica i coteig complet pendents. Les receptes continuen sent propostes no assajades.
+
+### Continuïtat immediata
+
+La recuperació didàctica de prioritat baixa del capítol 31 ja està aplicada. Continuar amb el capítol 36 i, després, revisar els ajustos editorials AE pendents als capítols 33–34, sense reobrir els capítols SC.

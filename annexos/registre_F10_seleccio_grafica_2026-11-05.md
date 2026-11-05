@@ -598,3 +598,47 @@ S'han contrastat les P1 d'aquesta tanda amb els apartats de contingut que sosten
 - **C39:** 39.10 correspon a 39.5.1–39.5.2; 39.6 s'integra a 39.5.
 
 **Resultat del coteig detallat C30–C39:** les P1 tenen correspondència amb el contingut consolidat i es mantenen com a candidates, amb les ubicacions corregides. Les P2 i la traducció de les descripcions originals continuen pendents. No s'ha produït cap imatge ni modificat cap capítol.
+
+
+## 15. Coteig detallat de les propostes P1 — C4–C7 i C11
+
+| Proposta | Ubicació lectora recomanada | Resultat del coteig detallat |
+|---|---|---|
+| 4.3 — Mescla additiva RGB i sostractiva CMY | C4, 4.3.2–4.3.3 | **Validada.** El text diferencia models de llum i de pigments/colorants; la figura ha de separar-los visualment i no suggerir que les pintures físiques segueixen un model ideal. |
+| 4.4 — Matís, valor i croma | C4, 4.4 | **Validada.** Representar les tres dimensions del sistema Munsell; no convertir croma en sinònim universal de saturació ni representar un sòlid cromàtic regular. |
+| 4.6 — Harmonies cromàtiques | C4, 4.6 | **Validada.** Els esquemes parteixen del cercle RYB tradicional i no són fórmules universals. Cal mostrar les relacions que el text descriu i advertir que l'harmonia no garanteix per si sola un resultat atractiu. |
+| 4.7 — Tipus de contrast cromàtic | C4, 4.7 | **Validada.** Diferenciar matís, valor, croma, temperatura i contrast de context; incorporar la jerarquia visual sense confondre contrast i extensió de color. |
+| 4.8 — Mescla i modificació cromàtica | C4, 4.8 | **Validada.** La figura ha de separar mescla física de pigments, modificació del matís/valor/croma, mescla òptica i superposició transparent, sense atribuir a les mostres digitals comportament experimental. |
+| 4.9 — Planificació de paletes | C4, 4.9 | **Validada.** Mostrar la relació entre intenció, dominant, secundaris i accents; preservar que la planificació és revisable durant l'execució. |
+| 5.4 — Orientació dels plans respecte de la font | C5, 5.3.1 | **Validada.** El text diferencia plans i superfícies corbes i defineix la normal; la figura ha de relacionar orientació i direcció de llum sense confondre la normal amb un raig. |
+| 5.6 — Angle d'incidència | C5, 5.3.2 | **Validada; integrar-hi 5.14 (P3).** L'angle es mesura respecte de la normal. El raig reflectit i la llei de reflexió poden formar un segon panell, preservant la distinció entre incidència i reflexió. |
+| 5.7 — Il·luminació de superfícies planes i corbes | C5, 5.3.1 i 5.3.4 | **Validada.** La comparació ha de mostrar normals constants i variables i advertir que un degradat no demostra per si sol una superfície corba. |
+| 5.11 — Bloqueig de llum i formació de l'ombra | C5, 5.5.1 | **Validada.** Relacionar font, objecte que bloqueja i superfície receptora; no anticipar encara la distinció entre ombra pròpia i projectada. |
+| 5.12 — Ombra pròpia i projectada | C5, 5.5.2 | **Validada.** La primera queda sobre l'objecte que bloqueja la llum; la segona apareix sobre una altra superfície. |
+| 5.13 — Umbra i penombra | C5, 5.5.3 | **Validada.** La penombra depèn del bloqueig parcial d'una font extensa; no representar-la com una simple gradació decorativa. |
+| 5.15 — Construcció visual del volum | C5, 5.7 | **Validada.** Integrar llums, ombres, canvis d'orientació, reflexos, contorns i superposició; no atribuir tota transició a la curvatura. |
+| 5.16 — Anàlisi d'il·luminació d'una miniatura | C5, 5.8.4 | **Validada.** Cas aplicat que ha de distingir font, plans, llum directa, zones protegides, ombres i aportacions ambientals. |
+| 6.1 — Material, aparença i representació | C6, 6.1 | **Validada.** Separar material físic, senyals visuals i interpretació pictòrica; l'aparença no permet deduir sempre la composició. |
+| 6.4 — Respostes òptiques dels materials | C6, 6.4 | **Validada.** Comparar aparences i distribucions de reflexos sense incorporar normals, angles ni lleis de reflexió de C5. |
+| 6.5 — Opacitat, transparència i translucidesa | C6, 6.4.1–6.4.2 | **Validada; ubicació corregida.** La figura correspon a la transmissió de llum i la definició de la imatge, no a l'apartat 6.5 de reconeixement material. |
+| 6.7 — Identificació mitjançant senyals combinades | C6, 6.5.1 | **Validada; ubicació corregida.** El text explica que cap senyal aïllada prova la identitat; la figura ha de mostrar materials amb senyals compartides i altres indicis que els diferencien. |
+| 6.8 — Simplificació i jerarquia visual a escala miniatura | C6, 6.6 | **Validada; ubicació corregida.** La representació ha de seleccionar els indicis imprescindibles a escala, no reproduir totes les propietats del material. |
+| 7.2 — Components i característiques del pinzell | C7, 7.3.1 | **Validada.** Identificar pèl/filament, virolla, mànec i formes de punta; no establir una superioritat universal entre tipus de pinzell. |
+| 7.4 — Sistemes d'aplicació | C7, 7.3.7 | **Validada; ubicació corregida.** La comparació de pinzell, aerògraf i aerosol correspon al bloc de sistemes de pulverització, no a 7.3.8. |
+| 7.5 — Preparació de la miniatura | C7, 7.4 | **Validada.** La seqüència d'inspecció, eliminació d'imperfeccions, neteja, muntatge i comprovació coincideix amb el procediment del capítol. |
+| 7.6 — Control de la imprimació | C7, 7.5 | **Validada amb condició.** La comparació de cobertura insuficient, adequada i excessiva és pertinent; per mostrar resultats reals calen mostres comparables documentades. |
+| 7.7 — Preparació operativa de pintures | C7, 7.6 | **Validada.** Diferenciar comprovació, homogeneïtzació, dosificació, prova i ajust de consistència; no inventar proporcions universals. |
+| 11.1 — Rentat, tinta i pigment en pols | C11, 11.1 | **Validada.** Diferenciar fluïdesa i distribució del rentat, concentració cromàtica de les tintes i dipòsit de partícules dels pigments. |
+| 11.3 — Rentat general i localitzat | C11, 11.2.3–11.2.4 | **Validada; ubicació corregida.** El número 11.3 és identificador de figura; el contingut correspon al capítol 11.2, no a 11.3 (tintes). Integrar-hi la proposta 11.2 (P2) de distribució sobre relleus. |
+| 11.5 — Aplicació de pigments en sec | C11, 11.4.2 i 11.7.4 | **Validada.** Seqüència de càrrega, dipòsit, distribució i retirada de l'excés; diferenciar aplicació en sec d'aplicació amb dispersió o mescla. |
+| 11.6 — Pigment sec i pigment fixat | C11, 11.4.5 i 11.7.5 | **Validada amb condició.** El canvi després de fixació només es pot mostrar com a resultat real amb proves documentades; altrament, esquema conceptual. |
+| 11.8 — Errors freqüents | C11, 11.8 | **Validada.** Els exemples han de correspondre a rentats, tintes, pigments i acumulacions; cada error ha d'anar vinculat a una correcció concreta del capítol. |
+
+### Correccions d'ubicació derivades del coteig
+
+- **C5:** 5.4 a 5.3.1; 5.6 a 5.3.2; 5.7 a 5.3.1/5.3.4; 5.11 a 5.5.1; 5.12 a 5.5.2; 5.13 a 5.5.3; 5.15 a 5.7; 5.16 a 5.8.4.
+- **C6:** 6.5 a 6.4.1–6.4.2; 6.7 a 6.5.1; 6.8 a 6.6.
+- **C7:** 7.4 a 7.3.7.
+- **C11:** 11.3 a 11.2.3–11.2.4; 11.5 a 11.4.2/11.7.4; 11.6 a 11.4.5/11.7.5.
+
+**Resultat del coteig detallat C4–C7 i C11:** les P1 examinades tenen correspondència amb el contingut consolidat i es mantenen com a candidates, amb les ubicacions corregides i les condicions de prova indicades. No s'ha produït cap imatge ni modificat cap capítol.

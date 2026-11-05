@@ -10,9 +10,8 @@ on:
       - "tools/generate_f9_docx.py"
       - "tools/validate_f9_text.py"
       - "TERCERA_SINTESI_CONSOLIDADA_C01-C39.md"
-      - "annexos/**/*.md"
-      - "fitxes-pinturas/**/*.md"
-      - "fitxes-pintures/**/*.md"
+      - "annexos/annex-*.md"
+      - "fitxes-pintures/*.md"
   workflow_dispatch:
 
 permissions:
@@ -20,7 +19,7 @@ permissions:
 
 jobs:
   build-f9-pdf:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
     steps:
       - name: Check out closed F9 working branch
         uses: actions/checkout@v4
@@ -63,6 +62,8 @@ jobs:
           test "$pages" -ge 1
           echo "PDF_PAGES=$pages" | tee dist/pdf/verification.txt
           echo "PDF_TEXT_BYTES=$(wc -c < dist/pdf/Manual_tecnic_pintura_miniatures_F9.txt)" | tee -a dist/pdf/verification.txt
+          echo "LIBREOFFICE_VERSION=$(libreoffice --version | head -n 1)" | tee -a dist/pdf/verification.txt
+          echo "PDF_SHA256=$(sha256sum dist/pdf/Manual_tecnic_pintura_miniatures_F9.pdf | cut -d ' ' -f1)" | tee -a dist/pdf/verification.txt
           echo "TOC_STALE_INSTRUCTION=ABSENT" | tee -a dist/pdf/verification.txt
       - name: Upload final PDF and inspection text
         uses: actions/upload-artifact@v4

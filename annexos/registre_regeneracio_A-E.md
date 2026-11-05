@@ -73,6 +73,29 @@
 - F8 haurà de revisar la numeració, les remissions creuades i la presentació del paquet complet.
 - Les receptes continuen sent propostes tècniques no validades experimentalment.
 
-## Annexos D–E
+## Annex D — Taula de mescles i formulacions
 
-**Estat:** pendents de regeneració. Es treballaran en ordre.
+**Estat:** regeneració completada; pendent de la passada transversal F6 i F8.
+
+### Font i mètode
+- Font principal: seccions de receptes dels capítols 19–34 de `TERCERA_SINTESI_CONSOLIDADA_C01-C39.md`.
+- La versió anterior s'ha conservat sense alteracions a `annexos/historic/annex-d-auditoria-anterior-2026-11-05.md` i s'ha utilitzat com a contrast, no com a font autoritativa.
+- Les 92 entrades s'han tornat a vincular a les denominacions i referències vigents de l'Annex C.
+- S'han comprovat les pintures de cada entrada contra la paleta de l'Annex A i el text de la secció d'origen.
+
+### Resultat
+- 92 entrades en 13 capítols: C19 3; C20 7; C21 11; C22 6; C23 5; C24 18; C25 8; C26 13; C27 13; C28 2; C30 2; C31 3; C33 1.
+- 92/92 entrades amb una recepta i una referència d'apartat identificades.
+- 92/92 entrades amb els noms de pintura localitzats a la secció d'origen i a l'inventari de l'Annex A.
+- S'ha sincronitzat la denominació de les receptes amb l'Annex C; en particular, l'entrada E del capítol 21 queda identificada com «Conífera jove o lluminosa», en lloc de l'etiqueta genèrica anterior «Fullatge clar».
+- S'ha afegit una columna de referència per facilitar el retorn directe a la recepta.
+
+### Límits pendents
+- C29, C32 i C34 continuen exclosos de la taula de mescles perquè les receptes corresponents no estableixen mescles físiques concretes; l'exclusió es manté explicada al mateix annex.
+- F6 haurà de comprovar la cobertura semàntica global i la coherència entre A, B, C, D, E i els capítols.
+- F8 haurà de revisar numeració, remissions creuades i presentació final.
+- No s'han inventat proporcions ni s'han realitzat proves físiques; les formulacions no es presenten com a resultats experimentals.
+
+## Annex E
+
+**Estat:** pendent de regeneració.

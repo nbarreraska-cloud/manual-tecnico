@@ -503,3 +503,32 @@ S'ha revisat la delimitació dels capítols de ceràmica/porcellana/plàstics (3
 ### Continuïtat immediata
 
 Les intervencions de recuperació identificades a l'auditoria ja s'han aplicat als capítols 25–32, 36 i 38, a més dels capítols 4–19 que constaven prèviament. Els ajustos editorials dels capítols 33–34 s'han revisat. Cal continuar conciliant els capítols restants i, després, iniciar la validació semàntica transversal sense reobrir continguts SC.
+
+
+---
+
+## Precisió de fases i separació de les intervencions G (05/11/2026)
+
+La seqüència operativa vigent és la que consta a REGISTRE_MESTRE_RECUPERACIONS.md, fases F0–F7:
+- F0: preservació de versions, fonts i traçabilitat.
+- F1: auditoria comparativa dels 39 capítols Markdown (39/39).
+- F2: consolidació del Registre Mestre (versió 1.1; conciliació amb commits en curs).
+- F3: aplicació de recuperacions tècniques/didàctiques i ajustos editorials a la tercera versió.
+- F4: validació dels 39 capítols i estabilització.
+- F5: annexos A–E, després dels capítols.
+- F6: auditoria global de coherència i traçabilitat.
+- F7: revisió gràfica, consolidació editorial i maquetació Word.
+
+Les intervencions G-01–G-09 i G-11 són treball editorial històric sobre la primera versió HTML, principalment copia_trabajo/index.html. No s'han de confondre amb les recuperacions que ara s'apliquen als 39 Markdown:
+- G-01: commit 4f8fed3, capítols 1.5, 3.1 i 3.4.3 a l'HTML.
+- G-02: commit eeca29e, capítols 1 i 2 a l'HTML.
+- G-03 i G-04: tancades sense canvis.
+- G-05: commit 472362b, precisió de translucidesa a 33.2.2 de l'HTML.
+- G-06 i G-07: tancades sense canvis.
+- G-08: commit ac14f45, ajustos 37.1, 37.6 i 37.7 a l'HTML; preservats 38.1 i 38.2.5.
+- G-09: commit 2cc7d49, annex A.6 a l'HTML.
+- G-11: commit 1cc8f7c, precisió de l'abast de les fonts a l'HTML, amb referència al capítol 33.
+
+Aquests commits no impliquen canvis als 39 Markdown. L'HTML continua separat de la revisió actual i no s'hi han fet modificacions durant aquest bloc de treball.
+
+**Estat de fase actual:** F2 disposa del Registre Mestre 1.1, encara subjecte a conciliació final de traçabilitat; F3 continua en curs. Les intervencions recents als capítols 25–32, 36 i 38, i els ajustos AE de 33–34, s'han guardat a la branca independent. La validació semàntica i el coteig final encara no s'han completat.

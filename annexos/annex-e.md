@@ -226,6 +226,6 @@ La guia no pretén oferir una solució tancada per a cada miniatura, sinó facil
 - No s'han d'afegir proporcions no documentades.
 - La planificació és flexible i no estableix una seqüència universal.
 - La comprovació final no substitueix l'avaluació durant l'execució.
-- Les remissions s'han de verificar amb la numeració vigent dels capítols i annexos.
+- Les remissions s'han contrastat amb l'estructura vigent dels capítols 1–39 i dels annexos A–D.
 
-**Estat F5:** reconstrucció editorial inicial; pendent de comprovació final de les remissions amb els annexos A–D estabilitzats.
+**Estat F5:** guia de consulta auditada després de l'estabilització dels annexos A–D. Les remissions de capítols i annexos s'han verificat i no s'hi han detectat referències inexistents. La guia manté una funció orientativa i no substitueix els procediments tècnics.

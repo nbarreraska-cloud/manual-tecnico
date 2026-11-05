@@ -84,14 +84,7 @@ La distribució depèn del patró i de la forma: bandes alternes en determinades
 
 ### Selecció i funció dels colors
 
-Les famílies cromàtiques habituals són orientatives:
-- **Acer i plata:** gammes neutres o fredes.
-- **Or:** grocs, ocres i marrons.
-- **Coure:** taronges, vermells i tons terrosos.
-- **Bronze:** grocs apagats i tons terrosos.
-- **Metalls fantàstics:** altres famílies, si la intenció visual ho justifica.
-
-Cal assignar una funció als tons foscos, intermedis, clars i als reflexos màxims. No sempre cal un color diferent per a cada funció: es poden obtenir posicions tonals mitjançant mescles o modificacions progressives. La selecció ha d'evitar una acumulació de colors que confongui la lectura.
+Un cop establerta la família cromàtica adequada al material, cal assignar una funció als tons foscos, intermedis, clars i als reflexos màxims. No sempre cal un color diferent per a cada funció: es poden obtenir posicions tonals mitjançant mescles o modificacions progressives. La selecció ha d'evitar una acumulació de colors que confongui la lectura. Les associacions cromàtiques específiques per a cada metall es desenvolupen a l'apartat 16.4.
 
 ### Relació entre color i valor
 

@@ -733,3 +733,35 @@ S'ha fet una comprovació automàtica de correspondència entre la matriu de cla
 La comprovació inclou els 34 identificadors especificats en format de fitxa per a C1–C7/C11 i els 122 identificadors en taules de C15–C24 i C30–C39. Les fusions 3.3+3.5, 5.6+5.14 i 11.3+11.2 conserven els identificadors secundaris com a traçabilitat, però no els comptabilitzen com a P1 independents. La proposta 20.2 també queda com a panell integrat a 20.1.
 
 **Recompte classificatori vigent:** 156 P1, 84 P2 i 3 P3 (243 propostes). La cobertura completa de les P1 en la llista preliminar no tanca F10 ni autoritza F11: encara cal normalitzar i traduir les descripcions, resoldre composicions i fusions, fixar llegendes i remissions, i validar la necessitat final de cada figura.
+
+
+## 21. Consolidació de les fitxes editorials de les figures P1 — 05/11/2026
+
+S'ha creat `annexos/fitxes_editorials_figures_F10.md` com a document de treball per fixar títols en català, llegendes de treball, representació, funció didàctica i límits de producció de totes les propostes P1. La font de traçabilitat és `PLANIFICACIO_GRAFICA_MG_FASE_POSTERIOR.md`; les ubicacions s'han contrastat amb `TERCERA_SINTESI_CONSOLIDADA_C01-C39.md` i les especificacions de `annexos/llista_preliminar_produccio_grafica_F10.md`.
+
+### Cobertura editorial
+
+- **P1 classificades:** 156 identificadors.
+- **Identificadors inclosos en fitxes editorials:** 156.
+- **Identificadors absents o duplicats:** cap.
+- **Composicions de treball:** 154, perquè al C20 s'han fusionat 20.1+20.2 i 20.4+20.5 en dues làmines compostes.
+- **Distribució:** 34 identificadors de C1–C7/C11; 58 de C15–C24; 64 de C30–C39.
+- **Llengua:** títols i llegendes de treball en català.
+
+### Verificació de les ubicacions
+
+S'ha comprovat automàticament que les ubicacions de les 154 composicions de C1–C7/C11, C15–C24 i C30–C39 corresponen a encapçalaments existents de la tercera síntesi consolidada. No s'han detectat apartats inexistents.
+
+Aquesta comprovació és estructural: confirma que els apartats citats existeixen, però no substitueix la revisió semàntica final de cada ubicació ni la comprovació de la llegenda i la remissió exactes a la maqueta.
+
+### Decisions de composició del C20
+
+Es resolen dues fusions de propostes P1:
+- **20.1 + 20.2:** làmina única de direcció de fibres, vetes, nusos, anells i patrons segons el tall.
+- **20.4 + 20.5:** seqüència única de construcció de vetes i desviació de fibres al voltant d'un nus.
+
+Els quatre identificadors originals es conserven per a la traçabilitat. No s'han eliminat continguts; s'han agrupat per evitar dues figures fragmentades o redundants.
+
+### Abast i estat
+
+Aquesta consolidació normalitza les 156 propostes prioritàries i fixa 154 composicions de treball. No implica que les 154 figures estiguin aprovades definitivament per a producció: encara cal una passada transversal de redundàncies entre capítols, verificació de remissions, numeració editorial estable i decisió sobre evidències físiques disponibles. No s'ha generat ni inserit cap imatge i no s'ha modificat cap capítol.

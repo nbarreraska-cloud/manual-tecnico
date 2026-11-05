@@ -1061,3 +1061,7 @@ S'ha completat el coteig de C33 amb «manual con estructura completa.docx». Es 
 ### F4 — coteig documental complet i recuperacions gràfiques de C34 (05/11/2026)
 
 S'ha completat el coteig de C34 amb «manual con estructura completa.docx». S'han contrastat les distincions entre transparència, reflexió superficial, vores, gruix, curvatura, distorsió, vidre acolorit i esmerilat; els nou errors i els vuit criteris d'avaluació. S'han recuperat les explicacions dels problemes, el criteri de finalització i les descripcions completes de les deu figures per a MG, que la síntesi anterior havia omès. Es mantenen les receptes A–H, els sis exercicis i les referències disponibles, sense afegir proporcions ni resultats experimentals. C34 i la compilació C1–C39 s'han sincronitzat i verificat.
+
+### F4 — recuperació de control editorial i planificació gràfica de C33 (05/11/2026)
+
+En el coteig de C33 s'ha completat la recuperació del criteri explícit de finalització del treball, la taula que vincula les deu figures amb els apartats on s'han d'ubicar i el bloc de control editorial i límits de verificació. Les descripcions de les deu figures ja es conservaven al Markdown i s'han mantingut. No s'han modificat receptes, codis de pintura ni procediments. La compilació s'ha sincronitzat amb el fitxer actual.

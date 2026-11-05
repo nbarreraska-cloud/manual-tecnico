@@ -1110,3 +1110,8 @@ S'ha tancat F4 després de documentar el nivell de revisió dels 39 capítols. E
 ### Separació del material gràfic MG de la tercera síntesi (05/11/2026)
 
 S'ha corregit una desviació de fase detectada en la compilació: les propostes de figures no han de formar part del contingut lector de la tercera síntesi. S'han retirat dels fitxers de C1, C2, C3, C33, C34, C35 i C37 els blocs de planificació gràfica, així com els criteris de producció gràfica de C3 i les mencions redundants a figures en els resums de control de C33–C35 i C37. Les 50 propostes i els criteris de producció s'han conservat en el document independent «PLANIFICACIO_GRAFICA_MG_FASE_POSTERIOR.md». La compilació C1–C39 s'ha regenerat a partir de la mateixa depuració. No s'han suprimit explicacions tècniques, procediments, exercicis, receptes ni referències que formen part del contingut lector. La fase gràfica continua pendent.
+
+
+### Regeneració i verificació de la compilació C1–C39 (05/11/2026)
+
+S'ha verificat la correspondència de la compilació amb els 39 fitxers Markdown individuals: els 39 continguts vigents hi són presents íntegrament. Durant la comprovació s'ha detectat que el bloc de C24 de la compilació no incorporava les darreres recuperacions didàctiques i bibliogràfiques; s'ha substituït pel C24 vigent. També s'han restaurat els títols de capítol C2, C3 i C4, que havien quedat absorbits en la delimitació dels blocs MG durant la depuració. La compilació final conté 39 títols de capítol i no conserva cap apartat MG ni criteri de producció gràfica. La separació gràfica es manté al document independent. No s'ha modificat main.

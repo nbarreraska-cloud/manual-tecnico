@@ -19,6 +19,7 @@
 - Taules amb capçaleres identificables, marges interns reduïts i repetició de capçalera quan travessin pàgina.
 - Paràgrafs amb espaiat contingut, sense comprimir fins a perjudicar la lectura.
 - Capítols i annexos iniciats en pàgina nova.
+- El manual s'identifica al llarg de les cinc parts: marcador discret al començament de cada part i capçalera corrent amb la part corresponent a totes les pàgines del seu àmbit. Les parts coincideixen amb l'organització definida a l'apartat 1.3 del capítol 1: I (C1–C6), II (C7–C18), III (C19–C34), IV (C35–C39) i V (annexos A–F). Els marcadors comparteixen la pàgina d'inici del contingut i no creen portadelles ni pàgines addicionals.
 - Cap salt de pàgina forçat entre fitxes si no és necessari per evitar una ruptura visual greu.
 - Annex F amb cos tipogràfic i espaiat més compactes que el cos principal, mantenint íntegres les set seccions, taules, llistes i fonts.
 - Cap imatge durant F9.
@@ -87,3 +88,15 @@ La paginació varia segons la versió de LibreOffice: les conversions de contras
 **Límits:** la inspecció visual global i les mostres ampliades no equivalen a una correcció manual individual de cada cel·la. La versió és textual i sense imatges; quan s'integrin imatges en una fase posterior, caldrà regenerar el PDF, actualitzar l'índex i repaginar.
 
 **Resultat:** F9 queda tancada en el seu abast aprovat. No s'ha modificat `main` i no s'ha iniciat F10.
+
+
+## 10. Identificació visual de les cinc parts — 05/11/2026
+
+A petició de l'usuari, la generació final incorpora la divisió en cinc parts ja definida al capítol 1.3:
+- Part I — Fonaments: capítols 1–6.
+- Part II — Tècniques i procediments: capítols 7–18.
+- Part III — Receptari de materials i efectes: capítols 19–34.
+- Part IV — Acabats i correcció: capítols 35–39.
+- Part V — Annexos i eines de consulta: annexos A–F.
+
+Cada part s'identifica amb un marcador discret al començament, integrat a la primera pàgina de contingut, i una capçalera corrent que indica la part a totes les pàgines corresponents. La numeració de pàgina continua sense reiniciar-se. No es creen portadelles ni salts de pàgina addicionals per introduir les parts. Cal comprovar el PDF resultant per confirmar que les capçaleres canvien a cada límit, que no apareixen pàgines en blanc i que l'extensió no augmenta per pàgines de separació.

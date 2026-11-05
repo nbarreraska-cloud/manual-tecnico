@@ -102,6 +102,16 @@ Cal recuperar procediments, explicacions tècniques, fonaments, advertiments, de
 - Recuperats sis procediments d'aplicació, vuit errors amb causes i correccions, els criteris d'avaluació i els sis exercicis desenvolupats.
 - Afegida la síntesi conceptual del capítol. Les propostes de figures i les notes d'auditoria editorial del document original s'han mantingut fora del text de lectura.
 
+### Capítol 12 — Perfilats i definició de volums
+
+- Recuperats els fonaments i les distincions entre límit físic, límit cromàtic, límit representat, contorn, vora i perfilat.
+- Desenvolupats cinc tipus de perfilat: separació, contorn, vores, línies internes i accentuació selectiva.
+- Ampliada la selecció cromàtica amb perfilats foscos, clars i cromàtics, i criteris de jerarquia de contrast.
+- Recuperats els criteris de selecció de pintura i pinzell, estabilitat, posició i càrrega.
+- Desenvolupats sis procediments d'aplicació, cinc controls de qualitat i vuit errors amb criteris de correcció.
+- Restituïts els criteris d'avaluació, els cinc exercicis i la síntesi del capítol.
+- Mantinguda la delimitació respecte de la teoria de llum del capítol 5 i la il·luminació aplicada del capítol 15.
+
 ## Tasques pendents
 
 1. Validar la integritat textual i estructural dels capítols 4 i 5 després de les recuperacions.

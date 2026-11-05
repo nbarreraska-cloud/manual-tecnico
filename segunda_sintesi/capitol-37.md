@@ -10,7 +10,7 @@ Cal separar dues funcions:
 - **Aparença superficial:** modificar el grau de brillantor i la distribució dels reflexos.
 - **Protecció:** aplicar productes destinats a protegir la pel·lícula pictòrica i millorar-ne la conservació.
 
-Alguns productes poden fer totes dues funcions, però no tots els productes d'acabat ofereixen la mateixa protecció. El envernissament i la conservació es desenvolupen al capítol 38.
+Alguns productes poden fer totes dues funcions, però no tots els productes d'acabat ofereixen la mateixa protecció. L'envernissament i la conservació es desenvolupen al capítol 38.
 
 ## 37.2. Fonaments òptics i tipus d'acabat
 

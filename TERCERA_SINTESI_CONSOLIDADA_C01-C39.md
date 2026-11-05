@@ -5,11 +5,9 @@
 **Abast:** capítols 1–39; annexos A–E exclosos.  
 **Estat:** compilació documental dels fitxers Markdown vigents. No implica tancament de F4 ni validació experimental de les receptes.
 
-## Contingut
+## Estructura
 
-# 1. INTRODUCCIÓ I ÚS DEL MANUAL
-# 2. INVENTARI I ORGANITZACIÓ DE LES 48 PINTURES
-# 3. CARACTERÍSTIQUES I FUNCIONS DE LES PINTURES
+Els 39 capítols es presenten íntegrament i en ordre numèric. Els separadors horitzontals delimiten els fitxers d'origen i no formen part del contingut tècnic.
 
 ---
 

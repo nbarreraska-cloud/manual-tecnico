@@ -119,4 +119,4 @@ Aquest índex es complementa amb l'Annex C, dedicat a la localització de recept
 - Les referències no impliquen que totes les aplicacions hagin estat validades experimentalment.
 - Les receptes i les combinacions es localitzen a l'Annex C; les mescles i formulacions, a l'Annex D.
 
-**Estat F5:** auditoria de remissions completada contra els encapçalaments vigents dels capítols 7–39. S'han corregit 28 identificadors obsolets en set entrades; totes les remissions finals apunten a apartats existents. Les tècniques i els àmbits es mantenen; no s'han afegit procediments ni contingut tècnic.
+**Estat F5:** les 62 entrades de l'índex i totes les remissions s'han contrastat amb els encapçalaments vigents dels capítols 7–39. S'han corregit 28 identificadors obsolets en set entrades; totes les remissions finals apunten a apartats existents. Les tècniques i els àmbits es mantenen; no s'han afegit procediments ni contingut tècnic.

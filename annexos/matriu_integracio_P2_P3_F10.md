@@ -33,12 +33,12 @@ Les 150 composicions es numeren a partir de les P1. Les P2/P3 descrites aquí no
 | 30.2 (P2) | 30.1/30.3 | Diferenciar flama i material incandescent en un panell complementari, sense repetir la paleta. | Integració prevista; validar que no duplica el text |
 | 31.6 (P2) | 31.3/31.4 | Integrar salpicadures i rastres en els esquemes de distribució de fluids si la composició és clara. | Integració prevista; validar que no duplica el text |
 | 32.6 i 32.7 (P2) | 32.1, si s'activa | Integrar runes i portals com a exemples de famílies d'efectes; no produir-los com a fonaments independents. | Integració prevista; validar que no duplica el text |
-| 33.8 i 33.10 (P2) | composició complementària C33 | Una sola comparació de famílies de plàstics i errors, només si aporta valor no cobert per 33.9 i el text. | Integració condicionada a llegibilitat i aportació real |
+| 33.8 i 33.10 (P2) | composició complementària C33 | Una sola comparació de famílies de plàstics i errors, només si aporta valor no cobert per 33.9 i el text. | En reserva: composició complementària C33 no seleccionada |
 | 34.4 (P3) | 34.3 | Integrar el recipient corb amb el panell de vidre pla, preservant la diferència geomètrica. | Integració confirmada en una composició P1 |
 | 34.10 (P2) | 34.2/34.9 | Afegir errors de lectura del vidre als esquemes de senyals i fractures, sense crear una làmina final redundant. | Integració prevista; validar que no duplica el text |
 | 35.7 (P2) | 35.6 | Integrar influències ambientals a la relació figura–peanya només quan la il·luminació i la proximitat les justifiquin. | Integració prevista; validar que no duplica el text |
 | 35.10 (P3) | 35.9 | Integrar el resultat i els errors freqüents en la seqüència d'harmonització. | Integració confirmada en una composició P1 |
-| 37.1 i 37.5 (P2) | composició complementària C37 | Comparació única de mat, setinat i brillant sobre una mateixa base cromàtica; només si no duplica les P1 de reflexió i selecció. | Integració condicionada a llegibilitat i aportació real |
+| 37.1 i 37.5 (P2) | composició complementària C37 | Comparació única de mat, setinat i brillant sobre una mateixa base cromàtica; només si no duplica les P1 de reflexió i selecció. | En reserva: composició complementària C37 no seleccionada |
 | 38.1 (P2) | 38.2 | Integrar la funció de la capa protectora en l'esquema de pel·lícula i assecat. | Integració prevista; validar que no duplica el text |
 | 39.6 (P2) | 39.5 | Integrar correcció localitzada/extensa en els nivells d'intervenció. | Integració confirmada en una composició P1 |
 | 39.9 (P2) | 39.1/39.2 | Integrar la fitxa de registre de símptoma, causa, intervenció i resultat en el flux de diagnòstic. | Integració prevista; validar que no duplica el text |

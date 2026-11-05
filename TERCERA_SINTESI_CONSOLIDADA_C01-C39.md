@@ -89,26 +89,6 @@ Per mantenir el rigor, cal:
 
 Aquests criteris permeten reconèixer l'origen i el grau de validació de cada dada i eviten confondre un principi tècnic, una característica declarada pel fabricant, una recomanació raonada i un resultat obtingut mitjançant una prova documentada.
 
-## Propostes de figures per a MG
-
-Les dues figures següents queden reservades per a la fase final de disseny i il·lustració. No formen part encara del contingut gràfic definitiu.
-
-### Figura 1.1. Organització general del manual
-- **Ubicació:** apartat 1.3, després de presentar les cinc parts.
-- **Format proposat:** esquema jeràrquic o diagrama de blocs.
-- **Contingut:** representació de les cinc parts i de la progressió des dels fonaments fins als annexos.
-- **Funció:** facilitar la comprensió de l'estructura general del manual.
-
-### Figura 1.2. Classificació de la informació tècnica
-- **Ubicació:** apartat 1.5, després d'explicar les quatre categories.
-- **Format proposat:** esquema comparatiu de quatre blocs.
-- **Contingut:** fonament tècnic, dada del fabricant, proposta tècnica i resultat comprovat.
-- **Funció:** facilitar la distinció entre els diferents nivells de rigor documental.
-
-Les figures han de complementar el text, no repetir-lo íntegrament. El disseny definitiu es realitzarà un cop acabat el conjunt del manual.
----
-# 2. INVENTARI I ORGANITZACIÓ DE LES 48 PINTURES
-
 ## 2.1. Finalitat i abast de l'inventari
 
 Aquest capítol identifica i organitza la paleta de referència del manual: 48 pintures de les col·leccions Squidmar × Vallejo, distribuïdes en quatre conjunts comercials de dotze productes cadascun:
@@ -193,26 +173,6 @@ La paleta de referència del manual està formada per 48 pintures distribuïdes 
 La relació individual de les pintures i les seves dades identificatives es recull a l'annex A. Les característiques i propietats tècniques s'estudien al capítol 3, mentre que les aplicacions concretes es desenvolupen als capítols de tècniques i receptes.
 
 La identificació d'un producte no s'ha de confondre amb la comprovació del seu comportament. Mantenir aquesta distinció permet organitzar la informació amb rigor i evitar que les dades comercials, les propostes tècniques i els resultats comprovats es presentin com si tinguessin el mateix nivell de suport.
-
-## Propostes de figures per a MG
-
-Les dues figures següents queden reservades per a la fase final de disseny i il·lustració. No formen part encara del contingut gràfic definitiu.
-
-### Figura 2.1. Organització de la paleta de referència
-- **Ubicació:** apartat 2.2, després de la taula de composició dels quatre conjunts.
-- **Format proposat:** esquema de quatre blocs.
-- **Contingut:** representació d'Essential, Dark Future, Fantasy i Special FX, amb les referències corresponents i dotze pintures per conjunt.
-- **Funció:** mostrar visualment l'estructura general de la paleta i la seva distribució.
-
-### Figura 2.2. Organització documental de la informació sobre les pintures
-- **Ubicació:** apartat 2.5, després d'explicar la distribució entre el capítol 2, l'annex A, les fitxes individuals i el capítol 3.
-- **Format proposat:** diagrama de relacions.
-- **Contingut:** identificació i inventari (capítol 2), catàleg (annex A), caracterització tècnica (capítol 3) i aplicació pràctica (capítols de tècniques i receptes).
-- **Funció:** explicar com es relacionen els diferents recursos documentals sense duplicar informació.
-
-Les figures queden pendents de producció fins a la fase gràfica final.
----
-# 3. CARACTERÍSTIQUES I FUNCIONS DE LES PINTURES
 
 ## 3.1. Objectiu i abast
 
@@ -462,58 +422,6 @@ La finalitat no és classificar les 48 pintures mitjançant propietats suposades
 3. Acrylicos Vallejo. *Xpress Color – descripció oficial de la família*. https://acrylicosvallejo.com/en/category/hobby/xpress-color-en/
 
 La documentació del fabricant s'utilitza per identificar les famílies comercials i recollir les característiques que Vallejo atribueix expressament als seus productes. Les explicacions sobre les propietats de les pintures es presenten com a fonaments tècnics generals. Les proves descrites són propostes de procediment: només s'hi podran incorporar observacions o resultats propis quan es facin amb pintures físiques i se'n documentin les condicions.
-
-
-## Propostes de figures per a MG
-
-Les sis figures següents queden documentades per a la producció gràfica de la fase final. No es consideren imatges realitzades ni resultats experimentals.
-
-| Figura | Contingut | Ubicació prevista |
-|---|---|---|
-| 3.1 | Graus d'opacitat i transparència | 3.2.1 |
-| 3.2 | Influència del fons sobre una pintura transparent o semitransparent | 3.2.1 |
-| 3.3 | Distribució de la pintura sobre relleus i cavitats | 3.2.3 |
-| 3.4 | Comparació d'acabats superficials | 3.2.4 |
-| 3.5 | Comportament funcional general de Xpress Color sobre una superfície amb relleu | 3.3 |
-| 3.6 | Esquema de selecció funcional de pintures | 3.4 |
-
-### Descripció editorial de les figures
-
-**Figura 3.1. Graus d'opacitat i transparència**
-
-Mostrar una seqüència de mostres amb diferents graus d'ocultació del fons. La finalitat és explicar la diferència funcional entre pintures opaques, semiopaques, semitransparents i transparents, sense presentar-les com a categories comercials normalitzades.
-
-**Figura 3.2. Influència del fons**
-
-Mostrar una mateixa pintura transparent o semitransparent aplicada sobre fons blanc, gris i negre. La comparació s'ha de centrar en la influència del fons sobre l'aparença de la capa. Si s'hi representen pintures concretes, les mostres han de procedir d'aplicacions físiques documentades.
-
-**Figura 3.3. Distribució sobre relleus**
-
-Representar una superfície amb zones elevades i cavitats. Mostrar esquemàticament com es pot distribuir una pintura sobre totes dues zones i explicar l'acumulació descrita pel fabricant per a Xpress Color. No presentar l'esquema com un resultat d'assaig propi.
-
-**Figura 3.4. Acabats superficials**
-
-Mostrar tres superfícies equivalents amb acabat mat, setinat i brillant sota una il·luminació comparable. L'objectiu és facilitar la comprensió de les diferències de reflexió.
-
-**Figura 3.5. Comportament funcional de Xpress Color**
-
-Representar una miniatura o superfície amb relleu i explicar la distribució del producte sobre les zones elevades i les cavitats. La figura ha d'il·lustrar la descripció funcional del fabricant, sense atribuir resultats exactes a una prova no realitzada.
-
-**Figura 3.6. Mapa de selecció funcional**
-
-Crear un esquema de decisió que relacioni les necessitats d'aplicació amb les propietats que convé valorar: cobertura, transparència, fluïdesa, distribució, acabat i comportament sobre relleus. La seva funció és facilitar la presa de decisions sense repetir literalment la taula de l'apartat 3.4.
-
-## Criteris de producció gràfica
-
-- Mantenir una estètica homogènia amb les figures de la resta del manual.
-- Utilitzar etiquetes i explicacions en català, d'acord amb l'idioma del manual.
-- Diferenciar clarament els esquemes conceptuals de les mostres físiques.
-- No presentar imatges generades com si fossin proves reals de les pintures.
-- Si es mostren resultats de productes concrets, utilitzar fotografies de mostres físiques realitzades amb aquests productes.
-- Mantenir diferenciada la figura 3.2 de les figures del capítol 4: aquí s'explica la influència física del fons sobre una capa de pintura; al capítol 4 s'aborda la influència perceptiva del context cromàtic.
-- Evitar repetir informació que correspongui als capítols de teoria del color, il·luminació o comportament visual dels materials.
-
-# 4. TEORIA DEL COLOR APLICADA A LA PINTURA DE MINIATURES
 
 ## 4.1. Objectiu i abast
 
@@ -1687,7 +1595,6 @@ Aquest coneixement proporciona una base conceptual per als capítols posteriors,
 - Marschner, S. R., Westin, S. H., Arbree, A. i Moon, J. T. (2005). “Measuring and Modeling the Appearance of Finished Wood”. *ACM Transactions on Graphics*, 24(3), 727–734. https://doi.org/10.1145/1073204.1073254
 
 Les referències sobre percepció material sustenten els fonaments conceptuals. La representació pictòrica descrita aquí és una aplicació didàctica i no una identificació física o química dels materials.
-
 
 ---
 
@@ -3165,7 +3072,6 @@ La tria ha de respondre a l'objectiu visual i a les condicions concretes de treb
 El control tècnic exigeix observar la continuïtat cromàtica, identificar possibles bandes o discontinuïtats i evitar acumulacions o correccions innecessàries.
 
 El criteri fonamental és construir una transició intencionada i controlada, no aconseguir la màxima suavitat en qualsevol circumstància.
-
 
 ---
 
@@ -5002,7 +4908,6 @@ No totes les vores necessiten perfilar-se i no totes les línies han de presenta
 La definició de volums mitjançant perfilats complementa la representació pictòrica, però no substitueix la construcció de llums, ombres i transicions ni la planificació de la il·luminació.
 
 El criteri fonamental consisteix a utilitzar el perfilat de manera selectiva: intervenir on aporta informació visual i aturar-se quan la separació i l'estructura ja es reconeixen amb claredat.
-
 
 ---
 
@@ -10479,7 +10384,6 @@ L'objectiu és seleccionar i adaptar els procediments segons el material, la geo
 
 Les fonts anatòmiques i de materials fonamenten les diferències entre os, teixits dentals i queratina. Els recursos de pintura són exemples d'aplicació; no validen experimentalment les receptes.
 
-
 ---
 
 # 26. ROQUES, PEDRES I MINERALS
@@ -10724,7 +10628,6 @@ Les receptes utilitzen les pintures disponibles a la paleta de referència i s'h
 - Natural History Museum of Utah. *Rocks & Minerals Toolbox*. https://nhmu.utah.edu/es/educators/teaching-toolboxes/rocks
 
 Les fonts fonamenten la classificació de les roques, les textures i les propietats visuals dels minerals; no són formulacions pictòriques ni validen experimentalment les receptes.
-
 
 ---
 
@@ -11009,7 +10912,6 @@ Les receptes utilitzen exclusivament pintures de l'inventari de 48 referències 
 - Vallejo Colors. *How to Use Snow Texture*. https://acrylicosvallejo.com/wp-content/uploads/2020/07/vallejo-stepbystep-snow-texture-EN.pdf
 
 Les fonts científiques fonamenten estructura cristal·lina i propietats òptiques de gel, neu i gemmes. Els tutorials són referències de modelisme, no validacions experimentals de les receptes.
-
 
 ---
 
@@ -11372,7 +11274,6 @@ Les receptes utilitzen pintures de l'inventari de 48 referències i són propost
 - Cult of Paint. *How to Paint VERDIGRIS on Your Miniatures*. https://www.youtube.com/watch?v=eHCS_HOa5Do
 
 Les fonts de conservació fonamenten les diferències entre corrosió, productes d'alteració i pàtines. Els recursos de modelisme són referències de procediment; pigments i productes externs no s'incorporen a les receptes.
-
 
 ---
 
@@ -11829,7 +11730,6 @@ Les receptes utilitzen pintures de l'inventari de 48 referències i proporcionen
 
 Aquests recursos serveixen com a referències de procediments de modelisme. Alguns utilitzen productes de textura, pigments, aglutinants o efectes d'aigua aliens a les 48 pintures del manual. No s'incorporen a les receptes ni les seves instruccions de barreja i assecat es converteixen en regles universals per a les pintures de l'inventari.
 
-
 ---
 
 # 30. FOC, FUM I CENDRES
@@ -12072,7 +11972,6 @@ La representació del foc, el fum i les cendres requereix diferenciar tres fenò
 El foc es construeix mitjançant una distribució cromàtica i tonal que transmeti intensitat i variació. Les brases representen materials sòlids amb regions incandescents. El fum necessita una organització volumètrica basada en variacions de densitat aparent, mentre que les cendres i els residus requereixen una representació superficial relacionada amb els materials cremats.
 
 Les cinc receptes són propostes tècniques orientatives basades en la paleta de 48 pintures del manual. No es presenten com a mescles experimentades ni com a resultats garantits. La selecció cromàtica i els procediments s'han d'adaptar a la geometria, l'escala, el context i l'objectiu visual de cada miniatura.
-
 
 ---
 
@@ -12332,7 +12231,6 @@ Les receptes utilitzen referències de l'inventari de 48 pintures i constitueixe
 - *Changes in Dry State Hemoglobin over Time Do Not Increase the Potential for Oxidative DNA Damage in Dried Blood*.
 
 Les fonts indiquen que l'aparença de la sang pot canviar després de la deposició i que l'evolució depèn de diverses condicions. No estableixen equivalències cromàtiques exactes entre una taca real i una pintura concreta.
-
 
 ---
 
@@ -12625,7 +12523,6 @@ El criteri fonamental consisteix a organitzar una manifestació energètica amb 
 
 Els tutorials d'OSL són recursos complementaris, no receptes que s'hagin de traslladar literalment: alguns utilitzen pintures alienes a les 48 referències.
 
-
 ---
 
 # 33. CERÀMICA, PORCELLANA I PLÀSTICS
@@ -12910,35 +12807,6 @@ El treball pot donar-se per finalitzat quan la ceràmica, la porcellana o la sup
 
 Les fonts tècniques fonamenten diferències generals entre cossos ceràmics, esmalts, porcellana i plàstics i la diversitat d'acabats. No validen les receptes cromàtiques proposades amb les pintures Squidmar × Vallejo, que continuen pendents de comprovació física.
 
-## Propostes de figures per a MG
-
-Les deu figures següents queden reservades per a la fase gràfica final. No s'han de generar ni inserir durant aquesta etapa.
-
-| Figura | Contingut | Ubicació prevista |
-|---|---|---|
-| 33.1 | Comparació de cossos ceràmics: porós, compacte i porcellana | 33.2 |
-| 33.2 | Ceràmica sense esmaltar i superfícies esmaltades | 33.2–33.5 |
-| 33.3 | Acabats ceràmics: mat, setinat i brillant | 33.2.3 i 33.8 |
-| 33.4 | Porcellana blanca i marfil | 33.5 |
-| 33.5 | Construcció d'una superfície de terracota | 33.4 |
-| 33.6 | Construcció d'un esmalt acolorit i distribució de reflexos | 33.5 |
-| 33.7 | Craquelat i pèrdua localitzada de l'esmalt | 33.6 |
-| 33.8 | Plàstics llisos, texturitzats, mats i brillants | 33.2 i 33.7 |
-| 33.9 | Reflexos sobre plàstics amb geometries diferents | 33.7–33.8 |
-| 33.10 | Comparació final de materials i errors freqüents | 33.9 |
-
-1. **Comparació de cossos ceràmics.** Mostrar tres cossos diferenciats per estructura i aparença: ceràmica porosa, ceràmica compacta i porcellana. La finalitat és distingir el cos del material sense utilitzar la brillantor com a únic criteri.
-2. **Ceràmica sense esmaltar i superfícies esmaltades.** Comparar una superfície ceràmica sense recobriment amb diverses superfícies esmaltades. Mostrar com el recobriment modifica la continuïtat, la textura i l'aparença general de la peça.
-3. **Acabats ceràmics.** Presentar una mateixa geometria amb acabats mat, setinat i brillant. Diferenciar l'aparença de l'esmalt i el comportament visual dels reflexos, sense desenvolupar procediments d'envernissament.
-4. **Porcellana blanca i marfil.** Comparar dues superfícies de porcellana amb bases cromàtiques diferents. Mostrar com les ombres i les variacions tonals conserven el volum sense convertir les peces en superfícies uniformement blanques o grogues.
-5. **Construcció d'una superfície de terracota.** Mostrar una seqüència de base, variacions rogenques, ombres i aclarits. Explicar la construcció cromàtica d'una superfície ceràmica càlida, no una textura pètria.
-6. **Construcció d'un esmalt acolorit.** Representar una superfície esmaltada blava, verda o roja, mostrant la construcció cromàtica i l'organització dels reflexos. Diferenciar el color de l'esmalt del seu acabat superficial.
-7. **Craquelat i pèrdua localitzada de l'esmalt.** Comparar una superfície esmaltada intacta, una amb craquelat i una altra amb pèrdua localitzada del recobriment. Distingir les fissures superficials de les fractures del cos ceràmic.
-8. **Famílies visuals de materials plàstics.** Mostrar superfícies plàstiques llises, texturitzades, mates i brillants. Destacar la diversitat d'aparences dels plàstics i evitar que s'interpretin com un material visualment uniforme.
-9. **Reflexos sobre superfícies plàstiques.** Comparar la distribució dels reflexos en superfícies planes, corbes i amb relleus emmotllats. Mostrar com la geometria condiciona l'aparença de l'acabat.
-10. **Comparació final de materials i errors freqüents.** Presentar ceràmica, porcellana i plàstic en una mateixa composició. Incloure errors representatius: porcellana massa blanca, ceràmica confosa amb pedra, esmalt sense continuïtat superficial, plàstic excessivament metàl·lic i textures incompatibles.
-
-
 ## Control editorial i límits de verificació
 
 - El capítol utilitza com a univers cromàtic de referència les 48 pintures dels quatre sets Squidmar × Vallejo.
@@ -12954,7 +12822,6 @@ Les deu figures següents queden reservades per a la fase gràfica final. No s'h
 - Els fonaments generals d'il·luminació, reflexos, color i comportament dels materials es desenvolupen als capítols 4, 5 i 6.
 - La brutícia i els dipòsits ambientals es remeten al capítol 29; el desgast i la transformació general, al capítol 36.
 - No s'han realitzat proves físiques ni es presenten resultats experimentals com a comprovats.
-- Les deu figures són propostes per a la fase gràfica final; no s'han generat ni inserit imatges.
 
 # 34. VIDRE I SUPERFÍCIES TRANSPARENTS
 
@@ -13154,35 +13021,6 @@ El treball pot donar-se per acabat quan l'objecte s'identifica com a vidre, la g
 
 Els recursos del Corning Museum fonamenten la relació entre transmissió, reflexió, geometria i percepció de superfícies transparents. Sayim i Cavanagh tracten els senyals visuals de la transparència. El tutorial és una referència pràctica, no una validació científica de les receptes. Les fonts no validen les combinacions cromàtiques Squidmar × Vallejo, que continuen sent propostes pendents de comprovació física.
 
-## Propostes de figures per a MG
-
-Les deu figures següents queden reservades per a la fase gràfica final. No s'han de generar ni inserir durant aquesta etapa.
-
-| Figura | Contingut | Ubicació prevista |
-|---|---|---|
-| 34.1 | Comparació entre vidre transparent, acolorit i esmerilat | 34.2 |
-| 34.2 | Senyals visuals: vores, reflexos, fons i gruix | 34.2 |
-| 34.3 | Representació d'un panell de vidre transparent | 34.4 |
-| 34.4 | Construcció d'un recipient de vidre transparent | 34.4 |
-| 34.5 | Comparació de vidre verd, blau, ambre i rogenc | 34.5 |
-| 34.6 | Organització d'un vitrall amb panells acolorits | 34.6 |
-| 34.7 | Diferència entre vidre transparent i esmerilat | 34.7 |
-| 34.8 | Representació de gravats i textures superficials | 34.7 |
-| 34.9 | Esquerdes, fractures i fragments de vidre | 34.8 |
-| 34.10 | Comparació final de superfícies de vidre i errors freqüents | 34.9 |
-
-1. **Comparació de tipus de vidre.** Mostrar tres superfícies: vidre transparent incolor, vidre acolorit i vidre esmerilat. Fer visible com canvien la informació del fons i la intensitat cromàtica.
-2. **Senyals visuals del vidre.** Representar una superfície amb indicació de vores, reflexos, informació transmesa, gruix i distorsió. Centrar-se en els senyals que permeten reconèixer el material.
-3. **Panell de vidre transparent.** Mostrar una seqüència de construcció d'una finestra o panell pla: fons, delimitació parcial de vores, reflexos i accents de llum. Cal conservar la lectura del fons.
-4. **Recipient de vidre transparent.** Representar una ampolla o recipient corb mitjançant l'organització de les vores, el gruix i els reflexos. Mostrar que la distribució dels senyals s'adapta a la geometria.
-5. **Vidre acolorit.** Comparar quatre exemples de vidre verd, blau, ambre i rogenc. Mostrar com canvia la coloració sense perdre els senyals de transparència.
-6. **Vitrall policrom.** Mostrar un vitrall dividit en panells acolorits i separacions estructurals. La distribució s'ha d'adaptar a la geometria general i mantenir una jerarquia cromàtica clara.
-7. **Vidre transparent i esmerilat.** Comparar una mateixa escena observada a través de dues superfícies: una conserva la definició del fons i l'altra el difumina mitjançant una transmissió més dispersa.
-8. **Vidre gravat i texturitzat.** Mostrar una superfície llisa al costat d'una altra amb gravats, estries o motius superficials. Fer visible com aquests detalls modifiquen l'aparença sense eliminar necessàriament la transparència.
-9. **Esquerdes i fragments.** Comparar una superfície esquerdada, una fractura més extensa i diversos fragments separats. Diferenciar les línies de fractura de les vores i els reflexos de cada fragment.
-10. **Comparació final i errors freqüents.** Presentar exemples de vidre transparent, acolorit i esmerilat juntament amb errors representatius: excés de blanc, vores massa uniformes, reflexos incompatibles amb la geometria, vidre acolorit opac i distorsions exagerades.
-
-
 ## Control editorial i límits de verificació
 
 - El capítol utilitza com a univers cromàtic de referència les 48 pintures dels quatre sets Squidmar × Vallejo.
@@ -13198,7 +13036,6 @@ Les deu figures següents queden reservades per a la fase gràfica final. No s'h
 - No s'atribueixen propietats individuals no verificades a les pintures utilitzades.
 - No s'estableixen proporcions universals, temps d'assecat ni formulacions experimentals.
 - No s'han realitzat proves físiques ni es presenten resultats experimentals com a comprovats.
-- Les deu figures són propostes per a la fase gràfica final; no s'han generat ni inserit imatges.
 
 # 35. HARMONITZACIÓ CROMÀTICA I INTEGRACIÓ AMBIENTAL
 
@@ -13372,35 +13209,6 @@ La harmonització pot considerar-se finalitzada quan la miniatura funciona crom�
 
 Les fonts fonamenten percepció cromàtica, organització del color i aparença dels materials. No constitueixen validació experimental dels procediments pictòrics particulars.
 
-## Propostes de figures per a MG
-
-Les deu figures següents queden reservades per a la fase gràfica final. No s'han de generar ni inserir durant aquesta etapa.
-
-| Figura | Contingut | Ubicació prevista |
-|---|---|---|
-| 35.1 | Anàlisi cromàtica global: dominants, secundaris i accents | 35.2 |
-| 35.2 | Distribució de colors dominants i secundaris | 35.2–35.3 |
-| 35.3 | Unitat cromàtica mitjançant repetició i variació | 35.3 |
-| 35.4 | Comparació entre harmonització i uniformitat cromàtica | 35.3 |
-| 35.5 | Integració cromàtica entre materials diferents | 35.4 |
-| 35.6 | Relació cromàtica entre figura i peanya | 35.5 |
-| 35.7 | Influències ambientals i reflexos cromàtics localitzats | 35.6 |
-| 35.8 | Comparació entre correccions localitzades i ajustos globals | 35.7 |
-| 35.9 | Seqüència de diagnòstic i harmonització d'una miniatura | 35.8 |
-| 35.10 | Avaluació final d'una composició integrada i errors freqüents | 35.9 |
-
-1. **Anàlisi cromàtica global.** Mostrar una miniatura amb els colors dominants, secundaris i accents identificats. Explicar com s'analitza la distribució cromàtica abans d'intervenir.
-2. **Distribució de masses cromàtiques.** Representar la distribució dels colors principals mitjançant una simplificació de la miniatura. Distingir l'extensió de cada color de la seva importància visual.
-3. **Repetició i variació cromàtica.** Mostrar un mateix color o família cromàtica en diferents elements, amb variacions de valor, saturació i temperatura. Explicar com s'estableix unitat sense repetir mescles idèntiques.
-4. **Harmonització i uniformitat.** Comparar una miniatura amb colors relacionats però diferenciats amb una altra en què totes les superfícies han rebut una modificació cromàtica excessivament uniforme. Fer visible la diferència entre unitat i pèrdua d'identitat material.
-5. **Integració entre materials.** Mostrar una composició amb metall, cuir, tela i pell, assenyalant les relacions cromàtiques compartides i les diferències necessàries per conservar la identitat de cada material.
-6. **Integració de figura i peanya.** Representar una figura al costat de la peanya i assenyalar les relacions entre colors dominants, materials del terreny i elements de la figura. Mostrar com totes dues parts poden funcionar com una composició comuna.
-7. **Influències ambientals.** Mostrar variacions cromàtiques localitzades procedents de l'entorn, com ara reflexos càlids, influències fredes o relacions amb superfícies pròximes. Evitar suggerir que totes les superfícies reben la mateixa influència.
-8. **Correccions localitzades i globals.** Comparar una intervenció limitada a una superfície amb una altra que modifica una part extensa de la miniatura. Fer visible la diferència d'abast i el risc d'alterar zones que ja funcionaven correctament.
-9. **Seqüència d'harmonització.** Mostrar les etapes d'anàlisi, identificació de problemes, definició d'objectius, selecció de procediments, intervenció i avaluació final.
-10. **Resultat integrat i errors freqüents.** Comparar una composició cromàticament integrada amb exemples d'errors: excés d'uniformitat, saturació mal distribuïda, figura i peanya desconnectades, influències ambientals excessives i pèrdua d'identitat material.
-
-
 ## Control editorial i límits de verificació
 
 - El capítol aborda l'harmonització cromàtica global i la integració ambiental de miniatures.
@@ -13418,7 +13226,6 @@ Les deu figures següents queden reservades per a la fase gràfica final. No s'h
 - No s'estableixen receptes, proporcions ni filtres cromàtics universals.
 - Les recomanacions es presenten com a criteris d'anàlisi i propostes d'intervenció, no com a resultats experimentals.
 - No s'han realitzat proves físiques ni es presenten resultats experimentals com a comprovats.
-- Les deu figures són propostes per a la fase gràfica final; no s'han generat ni inserit imatges.
 
 # 36. ENVELLIMENT, DESGAST I TRANSFORMACIÓ DE SUPERFÍCIES
 
@@ -13732,7 +13539,6 @@ El capítol es recolza en els fonaments de comportament visual dels materials, r
 
 Els procediments són criteris de representació pictòrica. No s'hi presenten formulacions experimentals ni resultats físics com a comprovats.
 
-
 ---
 
 # 37. ACABATS SUPERFICIALS I CONTROL DE LA BRILLANTOR
@@ -13903,35 +13709,6 @@ No s'ha d'aplicar un acabat uniforme per defecte ni utilitzar la brillantor com 
 
 Els catàlegs identifiquen productes i característiques declarades; no són proves comparatives independents ni garanteixen resultats idèntics sobre qualsevol superfície. Els exercicis són propostes didàctiques, no assajos propis realitzats.
 
-## Propostes de figures per a MG
-
-Les deu figures següents queden reservades per a la fase gràfica final. No s'han de generar ni inserir durant aquesta etapa.
-
-| Figura | Contingut | Ubicació prevista |
-|---|---|---|
-| 37.1 | Comparació d'acabats mate, setinat i brillant | 37.2–37.3 |
-| 37.2 | Diferència entre reflexió especular i més difusa | 37.2 |
-| 37.3 | Influència de l'orientació i la il·luminació en la brillantor percebuda | 37.2–37.4 |
-| 37.4 | Relació entre acabat, textura i distribució de reflexos | 37.2–37.4 |
-| 37.5 | Comparació d'acabats sobre una mateixa superfície cromàtica | 37.3 |
-| 37.6 | Selecció de l'acabat segons materials i efectes | 37.5 |
-| 37.7 | Diferenciació de materials mitjançant acabats selectius | 37.6 |
-| 37.8 | Distribució localitzada de la brillantor | 37.6 |
-| 37.9 | Seqüència d'anàlisi i selecció de l'acabat | 37.7 |
-| 37.10 | Comparació d'errors freqüents i resultats corregits | 37.8–37.9 |
-
-1. **Comparació d'acabats mat, setinat i brillant.** Mostrar tres superfícies equivalents sota una il·luminació comuna. Diferenciar la intensitat i la definició dels reflexos, mantenint constants la geometria i el color de base.
-2. **Reflexió especular i reflexió més difusa.** Representar esquemàticament com canvia la distribució de la llum reflectida segons la resposta superficial. Evitar identificar la reflexió difusa amb l'absència de reflexió.
-3. **Influència de l'orientació i la il·luminació en la brillantor percebuda.** Mostrar una mateixa superfície observada des de diferents angles i sota diverses posicions relatives de la llum. Explicar que la percepció de la brillantor no depèn exclusivament del producte aplicat.
-4. **Relació entre acabat, textura i distribució de reflexos.** Comparar superfícies amb diferents característiques d'acabat i textura. Evitar presentar la rugositat com l'única explicació de qualsevol diferència de brillantor.
-5. **Diferents acabats sobre una mateixa superfície cromàtica.** Mostrar un mateix color amb acabat mat, setinat i brillant. Mantenir equivalents les condicions d'il·luminació per observar principalment la diferència superficial.
-6. **Selecció de l'acabat segons materials i efectes.** Presentar exemples de tela mate, cuir setinat, metall polit, vidre brillant, fusta tractada i roca mate. Deixar clar que són exemples orientatius, no regles universals.
-7. **Diferenciació de materials mitjançant acabats selectius.** Representar una miniatura o composició amb materials que presenten diferents graus de brillantor. Mostrar com l'acabat contribueix a identificar les superfícies.
-8. **Distribució localitzada de la brillantor.** Mostrar una superfície amb zones mates, satinades i brillants, explicant com es pot distribuir l'acabat selectivament.
-9. **Seqüència d'anàlisi i selecció de l'acabat.** Representar la identificació del material, l'avaluació de la superfície, la selecció de l'acabat i la comprovació del resultat.
-10. **Errors freqüents i resultats corregits.** Comparar una miniatura amb brillantor excessiva, acabat uniforme, pèrdua de diferenciació material i aplicació selectiva incorrecta amb versions on l'acabat està millor distribuït.
-
-
 ## Control editorial i límits de verificació
 
 - El capítol desenvolupa els fonaments dels acabats superficials i el control visual de la brillantor.
@@ -13946,7 +13723,7 @@ Les deu figures següents queden reservades per a la fase gràfica final. No s'h
 - El capítol 38 conserva el desenvolupament de protecció, envernissament i conservació.
 - Els capítols 5 i 15 mantenen el desenvolupament de la il·luminació i la construcció de valors.
 - El capítol 6 conserva els fonaments generals del comportament visual dels materials.
-- S'inclouen sis exercicis pràctics i deu propostes de figures per a la fase gràfica final.
+- S'inclouen sis exercicis pràctics.
 - Les referències del fabricant s'utilitzen per identificar productes i característiques declarades, no com a resultats experimentals independents.
 - No s'han realitzat proves físiques ni es presenten resultats experimentals com a comprovats.
 - No s'han generat ni inserit imatges.
@@ -14337,7 +14114,6 @@ La protecció s'ha de complementar amb manipulació acurada, emmagatzematge adeq
 - Acrylicos Vallejo. *Model Color — User Guide*. Indicacions generals sobre aplicació de vernissos amb pinzell i aerògraf.
 
 Les indicacions d'un producte concret no s'han de traslladar automàticament a altres vernissos, encara que siguin de la mateixa família. Les fonts descriuen productes i característiques declarades; no són assajos propis ni comparatives independents. La resistència efectiva requereix documentació tècnica o proves específiques en condicions controlades.
-
 
 ---
 

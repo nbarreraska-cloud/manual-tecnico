@@ -28,15 +28,15 @@ La documentació oficial situa aquesta referència dins de Model Color. No s'ha 
 
 ## 4. Presència i funció dins del manual
 
-Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n reprodueix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
+Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n resumeix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
 
-- **Capítol 20:** `| Dark Rust | 70.771 | Marrons rogencs foscos i vetes profundes |`
-- **Capítol 21:** `| Dark Rust | 70.771 | Tons foscos i restes vegetals |`
-- **Capítol 22:** `| Dark Rust | 70.771 | Marrons foscos i ombres càlides |`
-- **Capítol 23:** `| Dark Rust | 70.771 | Ombres càlides i rogencs foscos |`
-- **Capítol 24:** `| Dark Rust | 70.- **Capítol 25:** `| Dark Rust | 70.771 | Profunditat i tons càlids foscos |`
-- **Capítol 26:** `| Dark Rust | 70.771 | Tons rogencs i ombres càlides |`
-771 | Ombres rogenques i tons orgànics foscos |`
+- **Capítol 20:** Marrons rogencs foscos i vetes profundes (funció indicada a la taula).
+- **Capítol 21:** Tons foscos i restes vegetals (funció indicada a la taula).
+- **Capítol 22:** Marrons foscos i ombres càlides (funció indicada a la taula).
+- **Capítol 23:** Ombres càlides i rogencs foscos (funció indicada a la taula).
+- **Capítol 24:** Ombres rogenques i tons orgànics foscos (funció indicada a la taula).
+- **Capítol 25:** Profunditat i tons càlids foscos (funció indicada a la taula).
+- **Capítol 26:** Tons rogencs i ombres càlides (funció indicada a la taula).
 
 Capítols amb aparicions identificades: C20, C21, C22, C23, C24, C25, C26.
 

@@ -2,11 +2,11 @@
 
 ## A.1. Finalitat i abast
 
-Aquest annex reuneix el catàleg identificatiu de les 48 pintures que constitueixen la paleta de referència del manual. La seva finalitat és facilitar la localització de cada producte, mantenir una nomenclatura estable i relacionar l'inventari amb les fitxes individuals i els continguts tècnics desenvolupats al llarg del manual.
+Aquest annex identifica les 48 pintures que formen la paleta de referència del manual. La funció del catàleg és permetre localitzar cada producte, conservar una nomenclatura estable i relacionar l'inventari amb els capítols que utilitzen aquestes pintures.
 
-La selecció està formada per quatre conjunts Squidmar × Vallejo:
+La selecció correspon als quatre conjunts Squidmar × Vallejo següents:
 
-| Conjunt | Referència | Nombre de pintures |
+| Conjunt | Referència del set | Nombre de pintures |
 |---|---:|---:|
 | Essential | 72.201 | 12 |
 | Dark Future | 72.202 | 12 |
@@ -14,42 +14,23 @@ La selecció està formada per quatre conjunts Squidmar × Vallejo:
 | Special FX | 72.207 | 12 |
 | **Total** |  | **48** |
 
-El catàleg conté els noms comercials, les referències Vallejo i el conjunt de procedència de cada pintura. També recull les línies comercials que s'han pogut identificar documentalment.
+El catàleg és identificatiu. No constitueix una fitxa tècnica individual ni atribueix propietats de cobertura, transparència, pigmentació, acabat o comportament a partir del nom comercial. La caracterització tècnica s'ha de consultar al capítol 3 i interpretar d'acord amb les fonts i els límits que s'hi indiquen.
 
-Les fitxes individuals de les 48 pintures constitueixen documents de consulta independents. Aquest annex no en reprodueix el contingut: estableix la relació entre cada producte i la seva fitxa corresponent mitjançant la denominació comercial i la referència.
+## A.2. Criteris d'identificació
 
-## A.2. Criteris d'identificació i consulta
+Cada entrada conté:
 
-Cada pintura s'identifica mitjançant tres dades:
+- **Nom comercial:** denominació del color associada al producte.
+- **Referència Vallejo:** codi de producte que permet identificar-lo al catàleg del fabricant.
+- **Conjunt:** set Squidmar × Vallejo en què s'inclou.
 
-- **Nom comercial:** denominació original del producte, conservada per facilitar-ne el reconeixement a l'envàs i a la documentació del fabricant.
-- **Referència Vallejo:** codi numèric que permet identificar el producte dins del catàleg comercial.
-- **Conjunt de procedència:** set Squidmar × Vallejo en què s'inclou la pintura.
+Les referències dels sets i la composició de dotze colors per conjunt s'han contrastat amb el *Catalogue 2026 — Models & Miniatures* de Vallejo. Les denominacions s'han contrastat amb la documentació de color del fabricant disponible per a les gammes corresponents. Els noms es mantenen en anglès per facilitar-ne la correspondència amb l'envàs i els recursos oficials.
 
-Quan existeix informació documental suficient, s'afegeix la línia comercial corresponent. Aquesta informació no es dedueix del nom, del color aparent ni del conjunt de procedència.
-
-### A.2.1. Relació amb les fitxes individuals
-
-Cada entrada del catàleg té una correspondència individual amb una fitxa de pintura. Per localitzar-la s'utilitzen conjuntament el nom comercial, la referència Vallejo i el conjunt de procedència.
-
-La referència Vallejo constitueix l'identificador principal de consulta. Si una denominació comercial canvia o s'actualitza, la referència i la traçabilitat documental s'han de conservar per evitar confusions entre productes o versions.
-
-Les fitxes individuals desenvolupen, quan hi ha informació suficient, els aspectes següents:
-
-- Identificació comercial.
-- Línia i tipus de pintura.
-- Informació documentada del fabricant.
-- Caracterització cromàtica.
-- Caracterització tècnica.
-- Aplicacions potencials.
-- Limitacions i aspectes pendents de verificació.
-- Fonts i estat de la informació.
-
-El catàleg no substitueix aquestes fitxes ni constitueix una caracterització tècnica de les pintures.
+Les referències del set (72.201, 72.202, 72.203 i 72.207) no s'han de confondre amb les referències individuals de les pintures (per exemple, 70.951 o 72.099).
 
 ## A.3. Catàleg general
 
-### A.3.1. Essential — conjunt 72.201
+### A.3.1. Essential — set 72.201
 
 | Núm. | Nom comercial | Referència Vallejo |
 |---:|---|---:|
@@ -66,11 +47,7 @@ El catàleg no substitueix aquestes fitxes ni constitueix una caracterització t
 | 11 | Japanese Uniform WWII | 70.923 |
 | 12 | Black | 70.950 |
 
-**Composició orientativa del conjunt.** Essential reuneix referències associades principalment a tons de pell, vermells, terres, neutres i productes identificats com a tintes. La seva composició ofereix una selecció de colors útils per treballar tonalitats orgàniques, contrastos càlids i foscos i determinades transicions cromàtiques.
-
-Aquesta descripció es refereix a la composició general del conjunt i no determina per si sola les propietats tècniques de cada pintura.
-
-### A.3.2. Dark Future — conjunt 72.202
+### A.3.2. Dark Future — set 72.202
 
 | Núm. | Nom comercial | Referència Vallejo |
 |---:|---|---:|
@@ -87,11 +64,7 @@ Aquesta descripció es refereix a la composició general del conjunt i no determ
 | 23 | Silver | 72.052 |
 | 24 | Dark Gunmetal | 72.054 |
 
-**Composició orientativa del conjunt.** Dark Future reuneix grocs, vermells, magentes, violetes, blaus, verds, terres i dues pintures metàl·liques. La seva composició permet disposar de referències variades per treballar contrastos cromàtics, relacions de temperatura i diferents combinacions de color.
-
-La pintura Snake Green té una identificació comercial específica com a Xpress Color, recollida a l'apartat A.4.
-
-### A.3.3. Fantasy — conjunt 72.203
+### A.3.3. Fantasy — set 72.203
 
 | Núm. | Nom comercial | Referència Vallejo |
 |---:|---|---:|
@@ -108,18 +81,14 @@ La pintura Snake Green té una identificació comercial específica com a Xpress
 | 35 | Glorious Gold | 72.056 |
 | 36 | Tinny Tin | 72.060 |
 
-**Composició orientativa del conjunt.** Fantasy reuneix referències clares, grogues, taronges, vermelles i verdes, a més de dues pintures metàl·liques. La seva composició proporciona diferents possibilitats per desenvolupar combinacions cromàtiques i receptes de materials, superfícies i efectes.
-
-La descripció del conjunt no implica que totes les pintures comparteixin una mateixa família comercial o un comportament tècnic equivalent.
-
-### A.3.4. Special FX — conjunt 72.207
+### A.3.4. Special FX — set 72.207
 
 | Núm. | Nom comercial | Referència Vallejo |
 |---:|---|---:|
 | 37 | Fluorescent Orange | 72.156 |
 | 38 | Fluorescent Magenta | 72.158 |
 | 39 | Fluorescent Green | 72.104 |
-| 40 | Fluorescent Cool Green | 72.161 |
+| 40 | Fluorescent Cold Green | 72.161 |
 | 41 | Chameleon Orange | 72.455 |
 | 42 | Seraph Red | 72.479 |
 | 43 | Red Ink | 72.086 |
@@ -129,122 +98,82 @@ La descripció del conjunt no implica que totes les pintures comparteixin una ma
 | 47 | Sepia Ink | 72.091 |
 | 48 | Black Ink | 72.094 |
 
-**Composició orientativa del conjunt.** Special FX reuneix productes fluorescents, tintes i referències de línies especials. La seva composició està orientada a disposar de recursos per a efectes cromàtics específics, intensificació del color i diferents aplicacions de tintes i productes especials.
+## A.4. Línies comercials identificades documentalment
 
-La denominació del conjunt no significa que totes les pintures comparteixin la mateixa formulació, les mateixes propietats o el mateix procediment d'aplicació.
+La línia comercial s'indica només quan la documentació del fabricant permet assignar-la a una referència concreta. La classificació següent no s'extrapola a la resta de colors pel fet de pertànyer al mateix set.
 
-## A.4. Línies comercials identificades
-
-La classificació comercial s'incorpora únicament quan existeix informació documental suficient per assignar-la a una referència concreta.
-
-### A.4.1. Identificacions individuals confirmades
-
-| Nom comercial | Referència Vallejo | Línia comercial |
+| Nom comercial | Referència | Línia o família documentada |
 |---|---:|---|
 | Snake Green | 72.417 | Xpress Color |
+| Fluorescent Orange | 72.156 | Game Color Fluo |
+| Fluorescent Magenta | 72.158 | Game Color Fluo |
+| Fluorescent Green | 72.104 | Game Color Fluo |
+| Fluorescent Cold Green | 72.161 | Game Color Fluo |
 | Chameleon Orange | 72.455 | Xpress Color |
 | Seraph Red | 72.479 | Xpress Color Intense |
+| Red Ink | 72.086 | Game Color Ink |
+| Violet Ink | 72.087 | Game Color Ink |
+| Dark Turquoise Ink | 72.084 | Game Color Ink |
+| Green Ink | 72.089 | Game Color Ink |
+| Sepia Ink | 72.091 | Game Color Ink |
+| Black Ink | 72.094 | Game Color Ink |
 
-Aquestes identificacions es recullen a partir de la documentació comercial de Vallejo consultada per al manual.
+La distribució dels dotze productes del set Special FX queda així: quatre Game Color Fluo, sis Game Color Ink, un Xpress Color i un Xpress Color Intense. Snake Green (72.417) pertany al set Dark Future i s'identifica separadament com a Xpress Color.
 
-### A.4.2. Distribució comercial del conjunt Special FX
+No s'assigna una línia comercial als altres colors en aquest annex quan la documentació consultada no ha permès establir-la amb el mateix nivell de precisió. Aquesta reserva evita confondre el tipus de producte, el set de procedència i la gamma comercial.
 
-La classificació recuperada per a les dotze pintures de Special FX és la següent:
+## A.5. Ús del catàleg i relació amb el manual
 
-| Línia comercial | Nombre de pintures |
-|---|---:|
-| Game Color Fluo | 4 |
-| Game Color Ink | 6 |
-| Xpress Color | 1 |
-| Xpress Color Intense | 1 |
-| **Total** | **12** |
+El catàleg permet identificar els colors utilitzats al llarg del manual. Per consultar-ne la funció o el comportament:
 
-**Game Color Fluo**
-- Fluorescent Orange — 72.156.
-- Fluorescent Magenta — 72.158.
-- Fluorescent Green — 72.104.
-- Fluorescent Cool Green — 72.161.
+- **Capítol 2:** explica la composició i l'organització de la paleta.
+- **Capítol 3:** desenvolupa els criteris per interpretar les característiques de les pintures i els límits de la informació disponible.
+- **Capítols de tècniques i receptes:** indiquen els colors utilitzats en procediments i propostes concretes.
 
-**Game Color Ink**
-- Red Ink — 72.086.
-- Violet Ink — 72.087.
-- Dark Turquoise Ink — 72.084.
-- Green Ink — 72.089.
-- Sepia Ink — 72.091.
-- Black Ink — 72.094.
+Aquest annex no reprodueix fitxes individuals. En la revisió actual del repositori no s'ha pogut establir una col·lecció completa de 48 fitxes independents disponible per enllaçar-hi; per tant, no es pressuposa ni s'afirma que aquestes fitxes estiguin incorporades al lliurable. Si s'aporten o s'incorporen posteriorment, la seva correspondència s'haurà de verificar per referència individual.
 
-**Xpress Color**
-- Chameleon Orange — 72.455.
-
-**Xpress Color Intense**
-- Seraph Red — 72.479.
-
-La identificació individual de Snake Green — 72.417 com a Xpress Color correspon al conjunt Dark Future i es recull per separat a l'apartat A.4.1.
-
-No s'assigna una línia comercial a les altres pintures mentre no hi hagi documentació específica que permeti confirmar-la. La pertinença a un set no constitueix evidència suficient per deduir la línia de cada referència.
-
-## A.5. Criteris d'interpretació del catàleg
-
-El catàleg permet identificar i localitzar les pintures, però no s'ha d'utilitzar com a substitut de la seva caracterització cromàtica o tècnica.
-
-Cal diferenciar els nivells d'informació següents:
-
-- **Identificació comercial:** comprèn el nom, la referència i el conjunt de procedència. Aquestes dades permeten reconèixer cada producte.
-- **Classificació comercial:** inclou la línia o família comercial quan s'ha pogut confirmar mitjançant documentació del fabricant.
-- **Caracterització cromàtica:** comprèn el matís, el valor, la saturació i la temperatura cromàtica. No s'han d'establir valors precisos únicament a partir del nom comercial o d'una representació digital del color.
-- **Caracterització tècnica:** inclou opacitat, transparència, cobertura, fluïdesa, consistència, acabat, assecat i resposta davant de diferents tècniques. Aquestes dades requereixen documentació específica del fabricant o observacions i proves adequadament registrades.
-- **Aplicacions potencials:** les possibles funcions d'una pintura dins d'una recepta o procediment s'han d'interpretar com a propostes tècniques quan no existeixi una comprovació física documentada.
-
-Per tant, la presència d'una pintura al catàleg no implica que totes les seves propietats estiguin verificades.
+La presència d'un color en una recepta tampoc no implica que la combinació s'hagi validat experimentalment. Cal mantenir la distinció entre identificació comercial, proposta tècnica i resultat comprovat, d'acord amb els criteris del capítol 1.
 
 ## A.6. Traçabilitat i actualització
 
-El catàleg s'ha de mantenir com a referència estable per a les fitxes individuals i els capítols del manual.
+Si Vallejo modifica una denominació, una referència, una línia comercial o una formulació, cal registrar la font i la data de la modificació. No s'ha de substituir automàticament un producte per un altre de nom semblant ni presentar una equivalència comercial com si fos una equivalència tècnica.
 
-Si el fabricant modifica una denominació, una referència, una línia comercial o una formulació, l'actualització ha de conservar la relació amb la informació anterior.
+Quan una actualització pugui afectar una recepta o un procediment, cal revisar específicament els apartats que utilitzen la referència. La modificació del catàleg, per si sola, no valida ni invalida experimentalment una recepta.
 
-S'apliquen els criteris següents:
+Per mantenir la traçabilitat, qualsevol canvi futur ha d'indicar:
 
-1. Mantenir el nom comercial i la referència associats al producte estudiat.
-2. Registrar la font de qualsevol modificació.
-3. Diferenciar versions antigues i noves quan hi pugui haver una variació rellevant.
-4. No substituir automàticament una pintura per una altra de denominació semblant.
-5. Revisar les fitxes i les receptes afectades quan una modificació comercial o de formulació en pugui alterar la interpretació.
-6. Mantenir separades les propietats documentades, les observacions i les propostes tècniques.
+1. Referència afectada.
+2. Denominació anterior i nova, si escau.
+3. Font documental i data de consulta.
+4. Motiu del canvi.
+5. Capítols, receptes o annexos que requereixen revisió.
 
-L'actualització del catàleg no ha de convertir una equivalència comercial en una equivalència tècnica no demostrada.
+## A.7. Fonts documentals
 
-## A.7. Síntesi de l'annex
+**Fonts oficials del fabricant**
 
-La paleta de referència del manual està formada per 48 pintures distribuïdes en quatre conjunts Squidmar × Vallejo, amb dotze referències per conjunt.
+- Acrylicos Vallejo. *Catalogue 2026 — Models & Miniatures*, apartat «License Paint Sets», referències 72.201, 72.202, 72.203 i 72.207, amb la relació de codis dels colors inclosos.  
+  https://acrylicosvallejo.com/wp-content/uploads/2025/10/Catalogo_2026-R02.pdf
+- Acrylicos Vallejo. *Game Color — carta de colors i documentació tècnica*, revisió 2025.  
+  https://acrylicosvallejo.com/wp-content/uploads/2025/09/CC266-Game_Color.pdf
+- Acrylicos Vallejo. *Xpress Color*, catàleg oficial de la família i referències.  
+  https://acrylicosvallejo.com/en/category/hobby/xpress-color-en/
 
-El catàleg reuneix les dades necessàries per identificar cada producte i localitzar-ne la fitxa individual corresponent. També incorpora les línies comercials que s'han pogut confirmar documentalment.
+**Fonts internes**
 
-La seva funció és facilitar la consulta i mantenir la coherència entre l'inventari, les fitxes, les tècniques i les receptes del manual.
-
-La identificació d'una pintura no determina automàticament les seves propietats cromàtiques o tècniques. Aquestes s'han de consultar a la fitxa individual i valorar segons el nivell de documentació disponible.
-
-## A.8. Referències i recursos de consulta
-
-**Documentació del fabricant**
-- Acrylicos Vallejo. *Game Color — carta de colors i documentació tècnica*, revisió 2025. [PDF](https://acrylicosvallejo.com/wp-content/uploads/2025/09/CC266-Game_Color.pdf)
-- Acrylicos Vallejo. *Catalogue 2026 — Models & Miniatures*. [PDF](https://acrylicosvallejo.com/wp-content/uploads/2025/10/Catalogo_2026-R02.pdf)
-- Acrylicos Vallejo. *Xpress Color — descripció oficial de la família*. [Web oficial](https://acrylicosvallejo.com/en/category/hobby/xpress-color-en/)
-
-**Documentació interna del manual**
 - Capítol 2. Inventari i organització de les 48 pintures.
 - Capítol 3. Característiques i funcions de les pintures.
-- Fitxes individuals de les 48 pintures.
+- Versió anterior de l'Annex A, conservada a `annexos/historic/annex-a-auditoria-anterior-2026-11-05.md` com a antecedent de comparació, no com a font d'autoritat independent.
 
-## A.9. Control editorial i límits de verificació
+## A.8. Control de consistència de l'inventari
 
-- Es mantenen els quatre conjunts i les 48 referències de l'inventari consolidat.
-- Es conserven les denominacions comercials originals.
-- Es comprova la distribució de dotze pintures per conjunt.
-- S'incorporen les línies comercials confirmades sense estendre-les a referències no verificades.
-- Es manté la distinció entre identificació comercial, caracterització cromàtica i caracterització tècnica.
-- No s'incorporen propietats físiques, proporcions ni resultats experimentals no documentats.
-- Les fitxes individuals romanen com a documents independents i no es dupliquen en aquest annex.
-- La informació comercial s'haurà d'actualitzar si el fabricant modifica les referències o les formulacions.
+La reconstrucció manté els quatre sets i les 48 entrades de la paleta. El control de consistència ha de complir aquestes condicions:
 
-**Estat F5:** inventari de 48 pintures verificat quant a referències i composició dels quatre conjunts contra el catàleg oficial 2026 (48/48; 12 per conjunt; 48 referències úniques i cap duplicat). Les fitxes individuals no formen part del repositori actual; la seva auditoria tècnica independent continua pendent.
+- 12 entrades per set i 48 en total.
+- 48 referències individuals no duplicades.
+- Cap referència de set confosa amb una referència individual.
+- Correspondència de cada entrada amb el set que la documentació oficial del fabricant li assigna.
+- Línia comercial consignada només quan hi ha suport documental identificable.
+- Cap propietat tècnica, proporció de mescla o resultat experimental inferit a partir del catàleg.
+
+**Límit de verificació:** el catàleg oficial 2026 confirma els quatre sets i la seva composició per referències. La documentació de color consultada permet contrastar denominacions i famílies per als productes identificats a A.4. No s'ha dut a terme una auditoria tècnica de les 48 pintures ni una comprovació física de les seves propietats.

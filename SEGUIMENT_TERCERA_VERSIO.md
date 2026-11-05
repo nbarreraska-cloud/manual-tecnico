@@ -676,3 +676,9 @@ S'ha completat la lectura comparativa dels textos disponibles de C12 i C13, no n
 El text original complet de C14 no s'ha localitzat; per tant, no es pot fer una validació integral ni atribuir a un original complet la consolidació actual. Tanmateix, el material font disponible i el registre editorial identifiquen com a distinció tècnica central la diferència entre la transparència del producte pictòric i la transparència o translucidesa de l'objecte representat.
 
 Aquesta distinció apareixia en el material de referència com a error específic i com a límit respecte del capítol 3, però no quedava formulada explícitament al Markdown actual. S'ha recuperat a l'apartat 14.2 i s'ha incorporat a la llista d'errors de 14.9. És una recuperació puntual justificada per evidència documental; C14 continua amb el límit de font declarat.
+
+
+### Actualització F4 — capítols 14–15 (05/11/2026)
+
+- **C14:** el material disponible confirma sis exercicis i identifica com a distinció central la transparència del producte pictòric davant la transparència de l'objecte. Aquesta distinció s'ha recuperat a 14.2 i a la llista d'errors 14.9. No s'ha localitzat un original complet; la recuperació és puntual i no tanca la validació integral.
+- **C15:** la font disponible declara expressament que no s'ha localitzat un original complet i que la versió és una consolidació nova basada en l'índex i els acords recuperats. S'ha comprovat la correspondència estructural (deu apartats, sis exercicis i enfocament de planificació lumínica), sense canviar el contingut ni presentar-ho com un coteig integral.

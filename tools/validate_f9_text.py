@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Audit source-word fidelity and order in the generated F9 DOCX."""
 from pathlib import Path
+from collections import Counter
 import re
 from docx import Document
 from docx.oxml.table import CT_Tbl
@@ -94,11 +95,22 @@ def main():
     actual = docx_words(DOCX)
     if not expected:
         raise SystemExit("FAIL: no source words collected")
-    try:
-        cursor = actual.index(expected[0])
-    except ValueError:
-        raise SystemExit(f"FAIL: first source word {expected[0]!r} not found in DOCX")
+    # First require sufficient multiplicity for every source token. This
+    # prevents a missing occurrence from being silently "matched" to a later
+    # duplicate elsewhere in the document.
+    expected_counts = Counter(expected)
+    actual_counts = Counter(actual)
+    deficits = [(token, count, actual_counts[token])
+                for token, count in expected_counts.items()
+                if actual_counts[token] < count]
+    if deficits:
+        sample = "; ".join(
+            f"{token!r}: source={need}, DOCX={have}"
+            for token, need, have in deficits[:12]
+        )
+        raise SystemExit(f"FAIL: source token counts are deficient: {sample}")
 
+    cursor = 0
     for position, token in enumerate(expected):
         while cursor < len(actual) and actual[cursor] != token:
             cursor += 1
@@ -114,7 +126,7 @@ def main():
     print(f"Source files checked: {1 + 5 + 1 + len(fiche_paths)}")
     print(f"Source words: {len(expected)}")
     print(f"DOCX body words: {len(actual)}")
-    print("PASS: every source word survives in the DOCX in the same order.")
+    print("PASS: source token multiplicities are preserved and every source word survives in order.")
     print("NOTE: punctuation, formatting, and visual layout require separate review.")
 
 

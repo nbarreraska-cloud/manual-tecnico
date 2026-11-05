@@ -1,7 +1,7 @@
 # F9 — Especificació de maquetació Word (05/11/2026)
 
 **Branca:** intervencion-editorial-2026-11  
-**Estat:** F9 tancada — maquetació textual completa, validada i registrada el 05/11/2026.  
+**Estat:** F9 oberta — primera maqueta textual generada; les correccions editorials autoritzades s'han aplicat a la branca de treball i la regeneració i validació posteriors estan pendents.  
 **Límit:** no modificar main ni reobrir contingut tècnic aprovat.
 
 ## 1. Estructura del document

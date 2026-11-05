@@ -38,10 +38,10 @@ Referències disponibles: Deck Tan (70.986), Japanese Uniform WWII (70.923), Par
 ## 29.3. Pols i dipòsits secs
 
 **Recepta A. Pols clar**
-- Principal: Deck Tan (70.986) (70.986).
-- Variació clara: Ivory (70.918) (70.918).
-- Aclarits: Ice Yellow (70.858) (70.858).
-- Ombres localitzades: Japanese Uniform WWII (70.923) (70.923).
+- Principal: Deck Tan (70.986).
+- Variació clara: Ivory (70.918).
+- Aclarits: Ice Yellow (70.858).
+- Ombres localitzades: Japanese Uniform WWII (70.923).
 
 Procediment proposat:
 1. Identificar les zones on s'acumularia la pols.
@@ -52,11 +52,11 @@ Procediment proposat:
 6. Evitar cobrir completament el color original: es representa una pel·lícula de pols, no una acumulació gruixuda.
 
 **Recepta B. Pols beix i sorrenc**
-- Base: Deck Tan (70.986) (70.986).
-- To càlid: Japanese Uniform WWII (70.923) (70.923).
-- Variació: Parasite Brown (72.042) (72.042).
-- Aclarits: Ivory (70.918) (70.918).
-- Accents: Ice Yellow (70.858) (70.858).
+- Base: Deck Tan (70.986).
+- To càlid: Japanese Uniform WWII (70.923).
+- Variació: Parasite Brown (72.042).
+- Aclarits: Ivory (70.918).
+- Accents: Ice Yellow (70.858).
 
 Procediment proposat:
 1. Establir una base clara amb Deck Tan.
@@ -66,11 +66,11 @@ Procediment proposat:
 5. Diferenciar la distribució sobre plans horitzontals i verticals.
 
 **Recepta C. Pols de terra rogenca**
-- Base: Parasite Brown (72.042) (72.042).
-- Variació rogenca: Burnt Red (70.814) (70.814).
-- To fosc: Dark Rust (70.771) (70.771).
-- Aclarits: Deck Tan (70.986) (70.986).
-- Accents: Ivory (70.918) (70.918).
+- Base: Parasite Brown (72.042).
+- Variació rogenca: Burnt Red (70.814).
+- To fosc: Dark Rust (70.771).
+- Aclarits: Deck Tan (70.986).
+- Accents: Ivory (70.918).
 
 Procediment proposat:
 1. Establir el to rogenc principal amb Parasite Brown.
@@ -80,11 +80,11 @@ Procediment proposat:
 5. Evitar una distribució uniforme del vermell.
 
 **Recepta D. Pols fosca i terra seca**
-- Base: Japanese Uniform WWII (70.923) (70.923).
-- To principal fosc: Dark Rust (70.771) (70.771).
-- Variació: Parasite Brown (72.042) (72.042).
-- Ombres: Black (70.950) (70.950).
-- Aclarits: Deck Tan (70.986) (70.986).
+- Base: Japanese Uniform WWII (70.923).
+- To principal fosc: Dark Rust (70.771).
+- Variació: Parasite Brown (72.042).
+- Ombres: Black (70.950).
+- Aclarits: Deck Tan (70.986).
 
 Procediment proposat:
 1. Establir una base marró amb Japanese Uniform WWII.
@@ -97,7 +97,7 @@ Procediment proposat:
 - Principal: Deck Tan (70.986).
 - Variació: Japanese Uniform WWII (70.923).
 - To càlid: Parasite Brown (72.042).
-- Aclarits: Ivory (70.918) (70.918).
+- Aclarits: Ivory (70.918).
 
 Procediment proposat:
 1. Identificar les zones on el pols pot quedar retingut.
@@ -107,10 +107,10 @@ Procediment proposat:
 5. Evitar marques paral·leles, repetitives o d'intensitat constant.
 
 **Recepta F. Terra seca acumulada**
-- Base: Japanese Uniform WWII (70.923) (70.923).
+- Base: Japanese Uniform WWII (70.923).
 - To principal: Parasite Brown (72.042).
 - Ombres: Dark Rust (70.771).
-- Aclarits: Deck Tan (70.986) (70.986).
+- Aclarits: Deck Tan (70.986).
 - Accents clars: Ivory (70.918).
 
 Procediment proposat:
@@ -124,11 +124,11 @@ Procediment proposat:
 ## 29.4. Terra i terrenys compactats
 
 **Recepta G. Terra marró natural**
-- Base: Japanese Uniform WWII (70.923) (70.923).
-- To principal: Parasite Brown (72.042) (72.042).
-- Variació fosca: Dark Rust (70.771) (70.771).
-- Ombres profundes: Black (70.950) (70.950).
-- Aclarits: Deck Tan (70.986) (70.986).
+- Base: Japanese Uniform WWII (70.923).
+- To principal: Parasite Brown (72.042).
+- Variació fosca: Dark Rust (70.771).
+- Ombres profundes: Black (70.950).
+- Aclarits: Deck Tan (70.986).
 
 Procediment proposat:
 1. Establir una base marró.
@@ -138,11 +138,11 @@ Procediment proposat:
 5. Distribuir les variacions segons la geometria del terreny.
 
 **Recepta H. Terra rogenca**
-- Base: Parasite Brown (72.042) (72.042).
-- Variació: Burnt Red (70.814) (70.814).
-- Profunditat: Dark Rust (70.771) (70.771).
-- Accents càlids: Hot Orange (72.009) (72.009).
-- Aclarits: Deck Tan (70.986) (70.986).
+- Base: Parasite Brown (72.042).
+- Variació: Burnt Red (70.814).
+- Profunditat: Dark Rust (70.771).
+- Accents càlids: Hot Orange (72.009).
+- Aclarits: Deck Tan (70.986).
 
 Procediment proposat:
 1. Establir una base rogenca.
@@ -153,11 +153,11 @@ Procediment proposat:
 6. Evitar una saturació excessiva dels tons càlids.
 
 **Recepta I. Terra fosca**
-- Base: Dark Rust (70.771) (70.771).
-- To principal: Japanese Uniform WWII (70.923) (70.923).
-- Variació: Parasite Brown (72.042) (72.042).
-- Ombres: Black (70.950) (70.950).
-- Aclarits: Deck Tan (70.986) (70.986).
+- Base: Dark Rust (70.771).
+- To principal: Japanese Uniform WWII (70.923).
+- Variació: Parasite Brown (72.042).
+- Ombres: Black (70.950).
+- Aclarits: Deck Tan (70.986).
 
 Procediment proposat:
 1. Establir una base fosca.
@@ -167,11 +167,11 @@ Procediment proposat:
 5. Evitar que tota la superfície quedi coberta de negre.
 
 **Recepta J. Terra compactada**
-- Base: Japanese Uniform WWII (70.923) (70.923).
-- Variació càlida: Parasite Brown (72.042) (72.042).
-- Ombres: Dark Rust (70.771) (70.771).
-- Aclarits: Deck Tan (70.986) (70.986).
-- Accents clars: Ivory (70.918) (70.918).
+- Base: Japanese Uniform WWII (70.923).
+- Variació càlida: Parasite Brown (72.042).
+- Ombres: Dark Rust (70.771).
+- Aclarits: Deck Tan (70.986).
+- Accents clars: Ivory (70.918).
 
 Procediment proposat:
 1. Establir una superfície de terra relativament contínua.
@@ -185,11 +185,11 @@ Quan el terreny inclou pedres, diferenciar terra fina, acumulacions entre fragme
 ## 29.5. Fang humit, sec i acumulat
 
 **Recepta K. Fang humit fosc**
-- Base: Dark Rust (70.771) (70.771).
-- To principal: Japanese Uniform WWII (70.923) (70.923).
-- Variació: Parasite Brown (72.042) (72.042).
-- Ombres: Black (70.950) (70.950).
-- Aclarits localitzats: Burnt Red (70.814) (70.814).
+- Base: Dark Rust (70.771).
+- To principal: Japanese Uniform WWII (70.923).
+- Variació: Parasite Brown (72.042).
+- Ombres: Black (70.950).
+- Aclarits localitzats: Burnt Red (70.814).
 
 Procediment proposat:
 1. Establir una base fosca amb Dark Rust.
@@ -200,11 +200,11 @@ Procediment proposat:
 6. Evitar que el fang sembli simplement una superfície negra.
 
 **Recepta L. Fang marró compacte**
-- Base: Japanese Uniform WWII (70.923) (70.923).
+- Base: Japanese Uniform WWII (70.923).
 - To principal: Parasite Brown (72.042).
-- Variació fosca: Dark Rust (70.771) (70.771).
-- Ombres: Black (70.950) (70.950).
-- Aclarits: Deck Tan (70.986) (70.986).
+- Variació fosca: Dark Rust (70.771).
+- Ombres: Black (70.950).
+- Aclarits: Deck Tan (70.986).
 
 Procediment proposat:
 1. Establir una base marró amb Japanese Uniform WWII.
@@ -214,11 +214,11 @@ Procediment proposat:
 5. Mantenir una aparença compacta, sense granularitat excessiva.
 
 **Recepta M. Fang rogenc**
-- Base: Parasite Brown (72.042) (72.042).
-- Variació: Burnt Red (70.814) (70.814).
-- Profunditat: Dark Rust (70.771) (70.771).
-- Accents: Hot Orange (72.009) (72.009).
-- Ombres: Black (70.950) (70.950).
+- Base: Parasite Brown (72.042).
+- Variació: Burnt Red (70.814).
+- Profunditat: Dark Rust (70.771).
+- Accents: Hot Orange (72.009).
+- Ombres: Black (70.950).
 
 Procediment proposat:
 1. Establir una base amb Parasite Brown.
@@ -228,10 +228,10 @@ Procediment proposat:
 5. Mantenir una distribució irregular.
 
 **Recepta N. Fang sec**
-- Base: Japanese Uniform WWII (70.923) (70.923).
+- Base: Japanese Uniform WWII (70.923).
 - To principal: Parasite Brown (72.042).
 - Variació clara: Deck Tan (70.986).
-- Aclarits: Ivory (70.918) (70.918).
+- Aclarits: Ivory (70.918).
 - Ombres: Dark Rust (70.771).
 
 Procediment proposat:
@@ -242,11 +242,11 @@ Procediment proposat:
 5. Evitar que totes les zones presentin el mateix nivell d'aclarit.
 
 **Recepta O. Esquitxades de fang**
-- Base cromàtica: Parasite Brown (72.042) (72.042).
-- Variació fosca: Dark Rust (70.771) (70.771).
-- Tons càlids: Burnt Red (70.814) (70.814).
-- Accents clars: Deck Tan (70.986) (70.986).
-- Ombres: Black (70.950) (70.950).
+- Base cromàtica: Parasite Brown (72.042).
+- Variació fosca: Dark Rust (70.771).
+- Tons càlids: Burnt Red (70.814).
+- Accents clars: Deck Tan (70.986).
+- Ombres: Black (70.950).
 
 Procediment proposat:
 1. Identificar la direcció probable de les esquitxades.
@@ -259,11 +259,11 @@ Procediment proposat:
 ## 29.6. Brutícia, rastres i dipòsits localitzats
 
 **Recepta P. Brutícia de contacte**
-- Base: Japanese Uniform WWII (70.923) (70.923).
-- To principal: Dark Rust (70.771) (70.771).
-- Variació: Parasite Brown (72.042) (72.042).
-- Ombres: Black (70.950) (70.950).
-- Aclarits: Deck Tan (70.986) (70.986).
+- Base: Japanese Uniform WWII (70.923).
+- To principal: Dark Rust (70.771).
+- Variació: Parasite Brown (72.042).
+- Ombres: Black (70.950).
+- Aclarits: Deck Tan (70.986).
 
 Procediment proposat:
 1. Identificar les zones manipulades, fregades o de contacte.
@@ -276,10 +276,10 @@ Procediment proposat:
 En cavitats, juntes i unions es poden adaptar F, G o P. Cal diferenciar dipòsit interior, superfície original, transició i acumulacions denses. No totes les juntes necessiten la mateixa intensitat.
 
 **Recepta Q. Rastres de terra i brutícia**
-- Base: Japanese Uniform WWII (70.923) (70.923).
+- Base: Japanese Uniform WWII (70.923).
 - To principal: Parasite Brown (72.042).
-- Variació fosca: Dark Rust (70.771) (70.771).
-- Aclarits: Deck Tan (70.986) (70.986).
+- Variació fosca: Dark Rust (70.771).
+- Aclarits: Deck Tan (70.986).
 
 Procediment proposat:
 1. Identificar l'origen del rastre.

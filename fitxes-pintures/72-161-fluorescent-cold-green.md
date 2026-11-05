@@ -1,10 +1,10 @@
-# Fluorescent Cold Green — 72.161
+# Fluorescent Cool Green — 72.161
 
 ## 1. Identificació
 
 | Camp | Dada |
 |---|---|
-| Nom conservat a l'inventari del set | **Fluorescent Cold Green** |
+| Nom conservat a l'inventari del set | **Fluorescent Cool Green** |
 | Referència individual Vallejo | **72.161** |
 | Conjunt Squidmar × Vallejo | Special FX (72.207) |
 | Família comercial identificada | **Game Color Fluo** |
@@ -14,7 +14,7 @@
 
 ## 2. Identificació cromàtica
 
-La denominació i la mostra de la carta del fabricant permeten identificar la referència. La mostra impresa o digital és **orientativa**: Vallejo adverteix que la reproducció pot no coincidir exactament amb el color físic.
+La denominació conservada a l'inventari del set és *Fluorescent Cool Green*. La carta de colors consultada també utilitza la forma *Fluorescent Cold Green* per a la mateixa referència 72.161; es manté la denominació del set i es registra aquesta variant documental sense tractar-la com una referència diferent. La mostra impresa o digital és **orientativa**: Vallejo adverteix que la reproducció pot no coincidir exactament amb el color físic.
 
 No s'assignen valors instrumentals de matís, valor, croma, temperatura o coordenades CIELAB. Tampoc es dedueix una caracterització precisa únicament del nom comercial. Per establir-la caldria observar una mostra física sota condicions d'il·luminació controlades i, si es volen valors mesurats, aplicar un procediment colorimètric adequat.
 
@@ -48,7 +48,6 @@ La selecció per a un procediment concret ha de considerar la superfície, el fo
 - **Caracterització tècnica individual:** incompleta quan no hi ha dades específiques del fabricant.
 - **Aplicacions del manual:** traçades a les files de taula indicades, sense atribuir validació experimental.
 - **Proves físiques pròpies:** no documentades en aquesta fitxa.
-- **Estat editorial:** fitxa regenerada documentalment el 05/11/2026; pendent d'ampliació si s'aporten fitxes tècniques individuals del fabricant o resultats de proves físiques.
 
 ## 7. Fonts
 

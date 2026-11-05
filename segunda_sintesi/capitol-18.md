@@ -240,21 +240,68 @@ No s'ha de suposar que una prova feta sobre una superfície diferent garanteix e
 
 ## 18.5. Organització i seqüenciació de les operacions
 
-La seqüenciació estableix un ordre que faciliti l'execució i eviti perjudicar aplicacions anteriors. Cal considerar dependències entre tècniques, accessibilitat, estat d'assecat, compatibilitat, protecció de zones, possibilitat de correcció i risc d'ocultar detalls.
+### 18.5.1. Principis generals de seqüenciació
 
-Algunes dependències són habituals: la preparació precedeix la pintura; la capa base proporciona la referència per a aplicacions posteriors; determinats degradats necessiten els tons que formen la transició; els efectes de desgast depenen de l'estat de la superfície; i els acabats finals han de considerar els productes i efectes anteriors. Aquestes dependències orienten, però no imposen una seqüència única.
+La seqüenciació consisteix a decidir l'ordre de les operacions perquè cadascuna es pugui realitzar en condicions adequades i no perjudiqui innecessàriament les anteriors.
 
-Altres operacions —com alguns rentats, textures, perfilats o acumulacions— poden canviar d'ordre segons l'efecte i la compatibilitat. Cal valorar què aporta cada seqüència i fer proves quan hi hagi dubtes.
+L'organització ha de considerar dependències entre tècniques, accessibilitat de les superfícies, estat de les aplicacions anteriors, compatibilitat dels productes, necessitat de protegir determinades zones, possibilitat de fer correccions i risc d'ocultar detalls o deteriorar acabats.
 
-El treball es pot organitzar:
+No existeix una seqüència universal. L'ordre depèn de la miniatura, els materials, les tècniques seleccionades i el resultat buscat.
 
-- **Per zones:** completar àrees delimitades abans de passar a d'altres.
-- **Per materials:** agrupar superfícies que comparteixen característiques, sense tractar com a idèntiques les que presenten diferències importants.
-- **Per fases:** agrupar preparació, construcció cromàtica, definició, efectes i acabats, entenent-les com a referència flexible.
+### 18.5.2. Dependència entre operacions
 
-Aquests criteris es poden combinar. També cal decidir si convé pintar la miniatura muntada o per components, considerant l'accés a les superfícies, les unions, la manipulació i el risc de deteriorar la pintura durant el muntatge.
+Algunes operacions requereixen que d'altres s'hagin completat prèviament.
 
-Un pla de treball ha de registrar les operacions previstes, la seva finalitat, les dependències i l'estat. És una guia revisable, no una seqüència obligatòria.
+Per exemple, la preparació de la miniatura ha de precedir l'aplicació de la pintura; la capa base estableix una referència cromàtica sobre la qual es desenvolupen aplicacions posteriors; determinats degradats requereixen disposar dels colors que formen la transició; els efectes de desgast poden dependre de l'estat de les superfícies sobre les quals s'apliquen, i els acabats finals han de considerar les tècniques i els productes anteriors.
+
+Aquestes relacions permeten establir dependències, però no obliguen a utilitzar sempre les mateixes tècniques ni a seguir una seqüència idèntica.
+
+### 18.5.3. Operacions que poden realitzar-se en diferent ordre
+
+Algunes tècniques admeten variacions en la seva posició dins del procés.
+
+Per exemple, el moment d'aplicar determinats rentats, textures, perfilats o efectes d'acumulació pot dependre del resultat buscat i de la compatibilitat entre productes.
+
+En aquests casos convé valorar què aporta cada ordre i quines conseqüències pot tenir. Una operació pot facilitar la lectura d'una altra, mentre que en una seqüència diferent pot quedar parcialment oculta o modificada.
+
+La decisió s'ha de fonamentar en el resultat previst i, quan hi hagi incertesa, en proves prèvies.
+
+### 18.5.4. Organització per zones, materials o fases
+
+El treball es pot organitzar mitjançant diferents criteris.
+
+**Organització per zones:** consisteix a completar determinades regions de la miniatura abans de passar a d'altres. Pot resultar útil quan les zones presenten límits clars o quan cal controlar l'acumulació d'operacions en àrees concretes.
+
+**Organització per materials:** consisteix a treballar agrupant superfícies que comparteixen característiques o requereixen procediments similars. Pot facilitar la preparació de colors i la consulta de receptes, però cal evitar tractar com a idèntiques superfícies que presenten diferències rellevants.
+
+**Organització per fases:** consisteix a agrupar operacions segons la seva funció general: preparació, construcció cromàtica, definició, efectes i acabat. Aquesta organització facilita la visió global, però no s'ha d'interpretar com una seqüència rígida. Algunes operacions es poden avançar, retardar o repetir segons les necessitats.
+
+Els tres criteris es poden combinar. La tria dependrà de la complexitat de la peça i de la forma de treball més eficient.
+
+### 18.5.5. Accessibilitat i ordre de muntatge
+
+La seqüència també ha de considerar si la miniatura es pinta muntada o parcialment desmuntada.
+
+Algunes peces poden resultar difícils d'assolir un cop assemblades. En aquests casos pot ser convenient treballar determinats components per separat.
+
+La decisió ha de considerar l'accés a les superfícies, la possibilitat de manipular les peces sense deteriorar-les, les zones d'unió que s'hauran de corregir posteriorment, la continuïtat visual entre components i el risc de danyar les aplicacions durant el muntatge.
+
+No hi ha una regla general que obligui a pintar sempre abans o després del muntatge. Cal valorar cada cas.
+
+### 18.5.6. Elaboració d'un pla de treball
+
+Un cop analitzades les operacions, convé elaborar una seqüència orientativa.
+
+| Fase o operació | Objectiu | Tècniques previstes | Dependències i precaucions |
+|---|---|---|---|
+| Preparació | Disposar d'un suport adequat | Neteja, muntatge i imprimació | Accessibilitat i estat de les peces |
+| Construcció inicial | Establir els colors de referència | Capes base | Delimitació de superfícies |
+| Desenvolupament cromàtic | Construir relacions i transicions | Capes, degradats i veladures, quan correspongui | Compatibilitat i control de les aplicacions |
+| Definició | Millorar la lectura de formes i detalls | Perfilats i tècniques de textura | No deteriorar les superfícies ja construïdes |
+| Efectes específics | Representar materials i fenòmens concrets | NMM, OSL i altres procediments necessaris | Coherència amb la planificació general |
+| Avaluació i ajustos | Comprovar i corregir el resultat | Correccions selectives | Evitar intervencions innecessàries |
+
+La taula és una eina d'organització, no un ordre obligatori. Les fases es poden canviar, combinar o ometre en determinats projectes.
 
 ## 18.6. Compatibilitat i combinació de tècniques
 

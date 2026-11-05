@@ -178,7 +178,7 @@ Procediment proposat:
 4. Aprofundir algunes zones amb Dark Sea Blue.
 5. Aclarir àrees seleccionades amb Snake Green i Ivory.
 6. Conservar parts del metall exposat.
-7. Comprovar que la superfície no sembli una gema o un cristall.
+7. Comprovar que la superfície no sembli una gemma o un cristall.
 
 **Recepta J. Pàtina verda fosca**
 - Base metàl·lica: Glorious Gold (72.056) o Tinny Tin (72.060).
@@ -326,7 +326,7 @@ La superfície es pot donar per acabada quan l'efecte compleix la seva funció v
 **Objectiu:** controlar una alteració superficial freda sobre coure o bronze.  
 **Materials:** Glorious Gold (72.056), Tinny Tin (72.060), Turquoise (72.024), Blue Green (70.808), Dark Sea Blue (70.898), Snake Green (72.417) i Ivory (70.918).  
 **Procediment:** establir una base metàl·lica; seleccionar les zones de pàtina; construir una base blauverdosa; introduir variacions més fosques; afegir aclarits selectius; recuperar zones metàl·liques; avaluar l'equilibri cromàtic.  
-**Avaluació:** comprovar que la superfície manté la identitat del metall i no es confon amb una gema o un cristall.
+**Avaluació:** comprovar que la superfície manté la identitat del metall i no es confon amb una gemma o un cristall.
 
 ### Exercici 6. Exercici integrador: peça metàl·lica amb corrosió i pàtina
 **Objectiu:** combinar diferents estats de conservació en una mateixa peça.  

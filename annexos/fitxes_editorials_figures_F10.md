@@ -468,7 +468,7 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 - **Límits:** els nivells no són una seqüència obligatòria ni impliquen que una intervenció més extensa sigui millor.
 
 ### 39.7 — Diagnòstic d'alteracions superficials
-- **Ubicació:** 39.7.
+- **Ubicació corregida:** apartat 39.2.3, després de descriure els indicis d'alteració de la superfície i abans de formular causes possibles.
 - **Llegenda prevista:** «Símptomes superficials de dipòsits, textura irregular, pèrdua d'adherència i alteració de la brillantor.»
 - **Representació:** exemples esquemàtics de diferents alteracions superficials.
 - **Funció didàctica:** practicar la identificació del símptoma abans de formular-ne la causa.

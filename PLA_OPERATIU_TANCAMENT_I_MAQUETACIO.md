@@ -153,3 +153,10 @@ S'ha completat `annexos/fitxes_editorials_figures_F10.md`, amb títols, llegende
 La cobertura és completa: **156 identificadors P1, sense absències ni duplicats**, organitzats en **150 composicions de treball** després de fusionar 20.1+20.2, 20.4+20.5, 22.2+22.5, 24.7+24.8, 34.1+34.7 i 35.1+35.2. Les composicions 24.7+24.8 i 34.1+34.7 queden condicionades a la llegibilitat. La comprovació estructural de les ubicacions no ha detectat apartats inexistents en la tercera síntesi.
 
 Aquesta comprovació confirma l'existència dels apartats, no l'aprovació final de cada figura. La següent tasca és la passada transversal de redundàncies i dependències entre capítols, la comprovació de remissions textuals, la numeració editorial estable i la validació de les evidències físiques necessàries. F10 continua oberta; F11 no s'inicia.
+
+
+## 14. Primera passada transversal de redundàncies — 05/11/2026
+
+S'ha revisat la relació entre els blocs amb més risc de solapament (C3/C6, C5/C6/C37, C15/C18, C16/C19, C17/C32, C20/C36, C22/C23, C35/C39 i C37/C38). Les funcions s'han mantingut separades quan tracten nivells diferents del problema, i s'han integrat sis parelles quan el contingut es complementa i pot compartir una composició sense pèrdua didàctica.
+
+**Estat actual:** 156 identificadors P1 coberts per 150 composicions editorials de treball. La passada transversal encara requereix comprovar remissions textuals, llegibilitat de les composicions fusionades, redundàncies residuals i evidències físiques. La numeració editorial definitiva es fixarà després d'aquests controls. F10 continua oberta; F11 no s'inicia.

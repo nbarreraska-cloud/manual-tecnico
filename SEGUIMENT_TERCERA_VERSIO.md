@@ -1009,3 +1009,8 @@ Revisat C18 contra el contingut consolidat disponible; no s'ha recuperat un orig
 ### F4 — coteig documental complet i recuperacions de C20 (05/11/2026)
 
 Cotejat C20 amb el document original. Es mantenen les nou receptes A–I i els codis de les deu pintures de la paleta, sense inventar proporcions ni atribuir assaigs. S'han recuperat les seqüències de G–I, els procediments de vetes, nusos i anells, l'adaptació a escala i geometria, els deu errors amb diagnòstic i correcció, els sis exercicis amb desenvolupament i avaluació, i les tres referències bibliogràfiques que faltaven. Les nou figures originals es conserven. C20 i la compilació C1–C39 s'han sincronitzat i verificat. Les receptes continuen sent propostes no assajades.
+
+
+### F4 — coteig documental complet i recuperacions de C21 (05/11/2026)
+
+Cotejat C21 amb el document original. Es mantenen les setze combinacions A–P i les divuit pintures de referència, sense inventar proporcions ni atribuir assaigs. S'han recuperat seqüències d'aplicació de les combinacions A, D, F, G i P, l'adaptació a escala, el diagnòstic i la correcció dels deu errors, set criteris d'avaluació, els set exercicis amb avaluació i les set referències botàniques que faltaven. Es conserven les deu propostes de figures. C21 i la compilació C1–C39 s'han sincronitzat i verificat. Les combinacions continuen sent propostes no assajades.

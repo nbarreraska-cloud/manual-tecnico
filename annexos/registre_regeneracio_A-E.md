@@ -134,3 +134,19 @@ Aquesta actuació complementa la regeneració A–E i resol la incidència detec
 - **Límit:** regeneració documental 1.0; no és recuperació literal de les fitxes perdudes ni validació experimental.
 
 La incorporació de les fitxes resol la discrepància documental detectada a F6. Les 48 fitxes queden incloses en l'abast de F8.
+
+
+## Actualització de l'estat després de F8 (05/11/2026)
+
+Aquesta nota preval sobre les anotacions de «Límits pendents» redactades abans de completar F6 i F8. Es conserven les anotacions originals com a historial del procés, no com a tasques vigents.
+
+- **Annex A:** regeneració completada; 48 referències úniques i 48 enllaços a les fitxes individuals comprovats. La incorporació editorial de les fitxes al document Word es farà com a Annex F, no dins d'A.
+- **Annex B:** 63 entrades; 260 destinacions d'apartat comprovades.
+- **Annex C:** 183 entrades i referències concordants.
+- **Annex D:** 92 entrades vinculades a C i a les seccions d'origen.
+- **Annex E:** guia contrastada amb C1–C39 i A–D; remissions als 39 capítols comprovades.
+- **F6:** auditoria transversal completada.
+- **F8:** auditoria textual completada el 05/11/2026; informe `annexos/auditoria_F8_2026-11-05.md`.
+- **Fitxes:** 48 fitxes documentals regenerades, una per referència, amb set seccions previstes; la seva regeneració no equival a validació experimental. Per a F9 s'incorporaran com a Annex F independent, després d'E, en maquetació compacta sense eliminar ni resumir informació.
+
+Les anotacions prèvies que indiquen F6 o F8 com a pendents descriuen l'estat en la data en què es van redactar i queden superades per aquesta actualització.

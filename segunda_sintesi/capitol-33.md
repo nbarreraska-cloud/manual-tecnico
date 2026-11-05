@@ -209,7 +209,7 @@ Establir base que permeti reconèixer textura; construir ombres a zones protegid
 - **Setinat:** reflexos moderats i menys definits que en una superfície brillant.
 - **Brillant:** reflexos més intensos i concentrats que poden definir la curvatura.
 
-L'acabat no depèn exclusivament del material: hi ha ceràmiques mates, porcellanes satinades i plàstics brillants. La selecció i l'aplicació de vernissos corresponen al capítol 37.
+L'acabat no depèn exclusivament del material: hi ha ceràmiques mates, porcellanes satinades i plàstics brillants. La selecció de l'acabat superficial i el control de la brillantor corresponen al capítol 37; els vernissos protectors, l'envernissament i la conservació corresponen al capítol 38.
 
 Adaptació geomètrica:
 - Plans: variacions i reflexos segons orientació.

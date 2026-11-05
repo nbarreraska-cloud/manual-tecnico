@@ -1,4 +1,4 @@
-# Revisió de les 83 propostes P2
+# Revisió de les 84 propostes P2
 
 **Data:** 05/11/2026  
 **Branca:** `intervencion-editorial-2026-11`  
@@ -16,6 +16,7 @@ Les P2 no s'han d'incorporar automàticament. La revisió determina si convé ma
 | 2.1 | Mantenir com a complementària; produir només si aporta una informació visual no coberta per les figures P1 i el text. |
 | 3.4 | Mantenir com a complementària; produir només si aporta una informació visual no coberta per les figures P1 i el text. |
 | 3.5 | Mantenir com a complementària; produir només si aporta una informació visual no coberta per les figures P1 i el text. |
+| 3.6 | Reclassificada de P1 a P2 després del coteig del C3; mantenir només si es pot convertir en un arbre de decisió que no repeteixi la taula de 3.4 ni la seqüència de selecció de 3.7. |
 | 4.1 | Mantenir com a complementària; produir només si aporta una informació visual no coberta per les figures P1 i el text. |
 | 4.2 | Mantenir com a complementària; produir només si aporta una informació visual no coberta per les figures P1 i el text. |
 | 4.5 | Mantenir com a complementària; produir només si aporta una informació visual no coberta per les figures P1 i el text. |
@@ -160,3 +161,8 @@ La classificació inicial era de 157 P1, 83 P2 i 3 P3. Amb la reclassificació d
 Aquest recompte encara no és el nombre final de figures: les fusions P2/P3, les possibles exclusions per redundància i les condicions d'evidència s'han de resoldre en la llista final de producció.
 
 **Conclusió F10 de P2:** s'accepta la revisió individual com a base de decisió. Les P2 no s'inclouran en producció com a figures autònomes per defecte.
+
+
+## 6. Actualització del recompte — 05/11/2026
+
+La figura **3.6 — Esquema de selecció funcional de pintures** s'incorpora a aquesta revisió com a P2 després de la reclassificació editorial. El conjunt revisat passa de 83 a **84 propostes P2**. La seva producció queda condicionada a demostrar una funció de decisió que no dupliqui la taula del capítol 3 ni la seqüència de selecció del text.

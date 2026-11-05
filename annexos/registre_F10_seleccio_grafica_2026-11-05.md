@@ -653,3 +653,31 @@ S'han contrastat les P1 d'aquesta tanda amb els apartats de contingut que sosten
 - **No iniciat:** generació d'imatges, inserció en capítols i repaginació. Aquestes tasques pertanyen a F11 i F12.
 - **Següent treball F10:** depurar el registre original, traduir al català només les propostes que passin a la llista final, resoldre fusions i dependències, i construir la llista de producció amb ubicació, format, contingut, funció, llegenda, evidència i criteris d'acceptació.
 
+
+
+## 17. Auditoria transversal de solapaments — 05/11/2026
+
+S'ha revisat la relació entre les figures P1 de capítols diferents que comparteixen conceptes. La coincidència terminològica no és suficient per fusionar-les: es mantindran separades quan expliquin nivells diferents (fonament físic, resposta del material, procediment o aplicació). Quan la funció sigui essencialment la mateixa, s'evitarà una figura duplicada.
+
+| Àmbits relacionats | Delimitació editorial i decisió |
+|---|---|
+| C3.1 (opacitat/transparència de pintura) i C6.5 (transparència/translucidesa de materials) | **Mantenir separades.** C3 tracta cobertura i comportament de capes pictòriques sobre un fons; C6 tracta transmissió de llum i definició de la imatge en materials. No reutilitzar una mateixa mostra com si fos el mateix fenomen. |
+| C5.9 (reflexió especular/difusa), C6.4 (resposta òptica dels materials) i C37.2 (reflexió i acabat) | **Delimitar i evitar tres figures equivalents.** C5 explica el fenomen físic; C6 identifica senyals visuals de materials; C37 aplica la distribució dels reflexos a la percepció de l'acabat. La P2 5.9 queda en reserva i no tindrà figura autònoma si C37.2 i C6.4 cobreixen la funció didàctica. |
+| C5.15 (construcció visual del volum), C15.1 (anàlisi lumínica de miniatura) i C16.2 (geometria de reflexos NMM) | **Mantenir separades.** C5 tracta les senyals generals del volum; C15, la planificació lumínica d'una peça; C16, la distribució de reflexos d'una superfície NMM. |
+| C5.16 (anàlisi d'il·luminació) i C17.8 (procediment OSL) | **Mantenir separades.** La primera analitza una il·luminació general; la segona construeix una font emissora i la seva influència local. |
+| C6.4 i C37.2–37.4 | **Mantenir amb límits.** C6 compara respostes òptiques que ajuden a reconèixer materials; C37 analitza brillantor, acabat, textura i condicions d'observació. No repetir la mateixa comparació mate/brillant. |
+| C15.8 (planificació lumínica) i C18.1 (planificació integral) | **Mantenir separades.** C15 és el procés específic de llum i valors; C18 coordina el conjunt de decisions de la miniatura. |
+| C16.1 (fonaments NMM) i C19.6 (comparació TMM/NMM) | **Mantenir separades amb exemples diferents.** C16 explica què construeix l'aparença NMM; C19 compara dues solucions aplicades a una peça metàl·lica. La figura de C19 no ha de repetir la definició de C16. |
+| C16.4 (diferenciació cromàtica NMM) i C19.3–19.6 (metalls TMM) | **Mantenir separades.** Una tracta famílies cromàtiques per a la simulació NMM; les altres, receptes i procediments amb pintures metàl·liques disponibles. |
+| C17.1 (font, superfície receptora i reflex) i C32.8 (manifestació energètica i llum projectada) | **Mantenir separades amb remissió.** C17 és el fonament general de l'OSL; C32 mostra la seva aplicació a un efecte fantàstic. C32.8 no ha de repetir el procediment complet. |
+| C18.3 (planificació cromàtica/tonal/lumínica) i C35.1–35.6 (harmonització) | **Mantenir separades.** C18 planifica abans/durant l'execució; C35 diagnostica i integra una miniatura ja construïda. |
+| C20.8 (estats de la fusta) i C36.1/36.8 (envelliment i desgast) | **Mantenir separades.** C20 descriu com canvia la fusta; C36 explica processos generals i adaptació a diferents materials. La figura C36.8 no ha de copiar les receptes de C20. |
+| C21 (vegetació) i C20 (fusta/escorça) | **Mantenir separades.** La molsa i els líquens s'expliquen com a organismes/superfícies vegetals; l'estructura de fusta i escorça continua a C20. |
+| C22 (cuir/ante/nobuk), C23 (teixits) i C24 (pell/carn) | **Mantenir separades.** Són materials i estructures diferents. Evitar reutilitzar una mateixa textura o recepta cromàtica com a exemple universal. |
+| C30 (foc i combustió) i C32 (energia/màgia) | **Mantenir separades.** El foc és un fenomen de combustió; els efectes màgics són llenguatge visual fictici. No traslladar l'estructura de flama a totes les manifestacions energètiques. |
+| C11 (rentats/tintes/pigments) i C31 (sang/fluids) | **Mantenir separades.** C11 tracta productes i procediments pictòrics; C31 tracta la representació visual de fluids i acumulacions. |
+| C33 (esmalt ceràmic), C34 (vidre) i C38 (vernís protector) | **Mantenir separades.** L'esmalt ceràmic és un recobriment vitrificat integrat amb el cos; el vidre és el material representat; el vernís és una pel·lícula protectora aplicada sobre la pintura. |
+| C35 (integració cromàtica), C37 (acabats) i C38 (protecció) | **Mantenir separades.** Integració visual, modificació de la brillantor i protecció de la pel·lícula són funcions diferents. |
+| C36 (representació del desgast) i C39 (diagnòstic/correcció) | **Mantenir separades.** C36 ensenya a representar alteracions; C39 ensenya a diagnosticar problemes i decidir si cal intervenir. |
+
+**Resultat:** no s'identifica cap motiu per fusionar cap P1 només per coincidència de tema. Les delimitacions anteriors s'han d'incorporar a les especificacions de producció. Les P2 que repeteixen una funció ja resolta es mantenen en reserva o s'integren com a panells.

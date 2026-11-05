@@ -114,7 +114,7 @@ def add_markdown_block(doc, lines, compact=False, first_heading_level=1):
         hm = re.match(r'^(#{1,6})\s+(.*)$', raw)
         if hm:
             level = len(hm.group(1))
-            style_level = min(3, max(2, level + 1)) if compact else min(3, max(1, level + first_heading_level - 1))
+            style_level = min(4, max(3, level + 2)) if compact else min(3, max(1, level + first_heading_level - 1))
             p = doc.add_paragraph(style=f"Heading {style_level}")
             p.paragraph_format.keep_with_next = True
             p.paragraph_format.space_before = Pt(4 if compact else 9)
@@ -241,8 +241,21 @@ def main():
     idx_lines = index.splitlines()
     intro_end = next((i for i, line in enumerate(idx_lines) if line.startswith("## Essential")), len(idx_lines))
     add_markdown_block(doc, idx_lines[:intro_end], compact=True, first_heading_level=1)
+    current_group = None
     for path in fiche_paths:
-        add_markdown_block(doc, path.read_text(encoding="utf-8").splitlines(), compact=True, first_heading_level=1)
+        fiche_text = path.read_text(encoding="utf-8")
+        group_match = re.search(r'\|\s*Conjunt Squidmar\s*[×x]\s*Vallejo\s*\|\s*\*\*(.*?)\s*\(', fiche_text)
+        group_name = group_match.group(1).strip() if group_match else None
+        if group_name and group_name != current_group:
+            doc.add_heading(group_name, level=2)
+            current_group = group_name
+        add_markdown_block(doc, fiche_text.splitlines(), compact=True, first_heading_level=1)
+
+    # Ask Word to refresh the automatic table of contents when the file is opened.
+    settings = doc.settings.element
+    update_fields = OxmlElement("w:updateFields")
+    update_fields.set(qn("w:val"), "true")
+    settings.append(update_fields)
 
     for section in doc.sections:
         header = section.header.paragraphs[0]

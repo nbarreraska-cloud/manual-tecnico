@@ -118,17 +118,117 @@ Errors freqüents:
 - Excés de fractures o components: seleccionar els més rellevants.
 - Utilitzar brutícia, molsa o dipòsits com a substitut de la textura: construir primer la roca i afegir després els efectes externs.
 - Donar vores anguloses a totes les pedres: adaptar-les a fractura, erosió o arrodoniment.
+- Utilitzar aclarits excessivament blancs: reservar els tons més clars per a punts concrets i mantenir una transició coherent amb la base.
+- Exagerar la quantitat de components minerals: establir components dominants i reservar els detalls secundaris per a zones concretes.
 
 **Avaluació:** família visual recognoscible; volum i plans coherents; textura corresponent a l'estructura; variacions cromàtiques jerarquitzades; vetes, bandes i fractures integrades; escala proporcionada; distinció entre components de la roca i efectes externs. Cal observar tant de prop com a la distància habitual.
 
 ## 26.10. Exercicis pràctics
 
-1. **Granit i basalt:** construir dues superfícies amb A i C; comparar distribució granular i aparença fosca compacta.
-2. **Arenisca:** aplicar E; afegir variacions i irregularitats; avaluar-ne l'aparença terrosa i granular.
-3. **Estrats:** establir base, direcció, bandes de diferents valors, amplades i interrupcions; comprovar que segueixen la geometria.
-4. **Pissarra i marbre:** aplicar I i J; introduir plans a la primera i vetes discontínues a la segona.
-5. **Granit amb variacions minerals:** distribuir components clars, foscos i càlids; modificar mida i densitat i comparar dues organitzacions.
-6. **Integració de superfícies:** assignar famílies cromàtiques a diferents elements d'una miniatura o base; construir volums, textures, vetes i bandes i avaluar-ne la coherència.
+### Exercici 1. Comparació entre granit i basalt
+
+**Objectiu:** diferenciar dues superfícies ígnies amb característiques visuals diferents.
+
+**Materials:** Deck Tan, Dark Sea Blue, Black, Ivory i Japanese Uniform WWII.
+
+**Procediment:**
+1. Preparar dues superfícies de prova.
+2. Construir-ne una mitjançant la recepta A.
+3. Construir l'altra mitjançant la recepta C.
+4. Introduir variacions cromàtiques.
+5. Comparar la distribució dels components i els valors.
+6. Avaluar la lectura de totes dues superfícies.
+
+**Avaluació:** comprovar que el granit presenta una distribució granular de components i que el basalt conserva una aparença més fosca i compacta.
+
+### Exercici 2. Construcció d'arenisca
+
+**Objectiu:** representar una superfície sedimentària càlida.
+
+**Materials:** Deck Tan, Japanese Uniform WWII, Parasite Brown, Ice Yellow i Ivory.
+
+**Procediment:**
+1. Establir una base mitjançant la recepta E.
+2. Introduir variacions de to.
+3. Afegir petites irregularitats.
+4. Construir una transició entre zones clares i fosques.
+5. Avaluar la superfície.
+
+**Avaluació:** comprovar que l'arenisca manté una aparença terrosa i granular sense convertir-se en una superfície uniforme.
+
+### Exercici 3. Representació d'estrats
+
+**Objectiu:** construir una superfície amb capes sedimentàries.
+
+**Materials:** Deck Tan, Parasite Brown, Dark Rust, Ivory i Black.
+
+**Procediment:**
+1. Establir una base cromàtica.
+2. Identificar la direcció dels estrats.
+3. Introduir bandes de diferent valor.
+4. Variar-ne l'amplada i la continuïtat.
+5. Afegir interrupcions i petites irregularitats.
+6. Avaluar la lectura de les capes.
+
+**Avaluació:** comprovar que les bandes segueixen la geometria i no generen un patró repetitiu.
+
+### Exercici 4. Construcció de pissarra i marbre
+
+**Objectiu:** comparar una superfície foliada amb una altra d'aparença compacta i vetada.
+
+**Materials:** Dark Sea Blue, Black, Deck Tan, Ivory i White.
+
+**Procediment:**
+1. Construir una superfície mitjançant la recepta I.
+2. Construir-ne una altra mitjançant la recepta J.
+3. Introduir plans i separacions a la primera.
+4. Afegir vetes discontínues a la segona.
+5. Avaluar les diferències estructurals.
+
+**Avaluació:** comprovar que la pissarra es reconeix pels seus plans i que el marbre presenta una superfície més contínua amb vetes integrades.
+
+### Exercici 5. Construcció de granit amb variacions minerals
+
+**Objectiu:** controlar la distribució de components de diferents colors.
+
+**Materials:** Deck Tan, Ivory, Black, Japanese Uniform WWII i Parasite Brown.
+
+**Procediment:**
+1. Establir una base neutra.
+2. Introduir components clars i foscos.
+3. Afegir variacions càlides.
+4. Modificar la mida i la densitat de les marques.
+5. Comparar dues distribucions diferents.
+6. Avaluar l'equilibri visual.
+
+**Avaluació:** comprovar que la superfície conserva una aparença granular sense presentar una distribució excessivament regular.
+
+### Exercici 6. Exercici integrador: composició de superfícies pètries
+
+**Objectiu:** representar diverses famílies de pedra dins d'una mateixa miniatura o base.
+
+**Materials:** Deck Tan, Ivory, Dark Sea Blue, Black, Japanese Uniform WWII, Parasite Brown, Dark Rust i White.
+
+**Procediment:**
+1. Seleccionar una miniatura o base amb diversos elements petris.
+2. Identificar les diferents superfícies.
+3. Assignar una família cromàtica a cadascuna.
+4. Construir els volums principals.
+5. Diferenciar les textures.
+6. Introduir vetes, bandes o components minerals quan correspongui.
+7. Avaluar el conjunt.
+
+**Avaluació:** comprovar que les diferents superfícies pètries es distingeixen entre si i mantenen coherència cromàtica dins la composició.
+
+## 26.11. Síntesi del capítol
+
+Les roques i les pedres presenten una gran diversitat d'aparences. La seva representació pictòrica requereix reconèixer tant les característiques cromàtiques com l'organització estructural.
+
+Les roques ígnies poden presentar superfícies granulars, compactes o vesiculars. Les sedimentàries poden mostrar estrats, grans i fragments. Les metamòrfiques poden presentar foliació, bandes i estructures recristal·litzades.
+
+El granit, el basalt, l'arenisca, la calcària, la pissarra, el marbre i el gneis permeten estudiar diferents patrons visuals i construir una base de procediments adaptables a altres superfícies pètries.
+
+Les receptes utilitzen les pintures disponibles a la paleta de referència i s'han d'entendre com a punts de partida. La seva aplicació requereix adaptar el color, el contrast i la textura a la geometria, l'escala i la referència visual. La finalitat no és reproduir tots els detalls geològics, sinó identificar les característiques que defineixen cada superfície i traslladar-les a una representació pictòrica clara i coherent.
 
 ## 26.11. Referències i recursos
 

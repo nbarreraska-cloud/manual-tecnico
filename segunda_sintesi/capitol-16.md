@@ -4,44 +4,102 @@
 
 El NMM (*Non-Metallic Metal*) representa superfícies metàl·liques mitjançant pintures convencionals, sense utilitzar pigments metàl·lics per produir l'efecte principal. L'aparença es construeix pictòricament amb valors, contrastos, colors i reflexos que suggereixen la reflexió de l'entorn.
 
-A diferència del TMM, en què l'aspecte metàl·lic depèn de les partícules reflectants de la pintura, el NMM simula les senyals visuals pròpies d'una superfície reflectant. Un contrast intens no és suficient: les zones clares i fosques han de formar un patró comprensible i coherent amb la geometria.
+A diferència del TMM, en què l'aspecte metàl·lic depèn de les partícules reflectants de la pintura, el NMM simula les senyals visuals pròpies d'una superfície reflectant. El resultat depèn de l'organització visual de la superfície, no de la presència de pigments metàl·lics.
 
-Els reflexos poden simplificar-se en bandes, blocs, franges o transicions, sense reproduir literalment els objectes de l'entorn. La simplificació és legítima quan manté la relació entre forma, il·luminació representada i aparença metàl·lica. L'escala i la distància d'observació poden justificar l'exageració selectiva dels contrastos o la reducció del nombre de reflexos.
+### Aparença metàl·lica i contrast
+
+En molts metalls, l'aparença està dominada pels reflexos intensos de l'entorn. Aquests reflexos poden presentar contrastos elevats i canvis definits entre zones clares i fosques. En superfícies no metàl·liques, l'aparença acostuma a dependre en major mesura de la combinació entre il·luminació, color propi i reflexió difusa, tot i que hi ha materials i acabats amb comportaments diferents.
+
+El contrast és un dels elements més recognoscibles del NMM. Pot utilitzar-se per:
+- Definir l'orientació dels plans.
+- Separar superfícies pròximes.
+- Suggerir reflexos de l'entorn.
+- Reforçar la curvatura d'una peça.
+- Destacar arestes i canvis geomètrics.
+- Establir una jerarquia visual.
+
+Un contrast elevat no garanteix per si sol una aparença metàl·lica. Si les zones clares i fosques es distribueixen sense relació amb la geometria o sense una lògica de reflexos, la superfície pot semblar una composició arbitrària de taques. El contrast ha de respondre a una organització recognoscible.
+
+### El reflex com a informació visual
+
+Els reflexos es representen mitjançant zones de color i valor que simulen la presència d'elements de l'entorn. No cal reproduir literalment els objectes reflectits: es poden simplificar en bandes, blocs, franges o transicions que suggereixin una distribució ambiental.
+
+La forma i la posició dels reflexos depenen de la geometria i del plantejament visual. Una superfície plana, una fulla d'espasa, una esfera o una peça cilíndrica no presenten la mateixa organització. Per tant, no s'ha de traslladar automàticament un patró d'una geometria a una altra.
+
+### Simplificació pictòrica
+
+El NMM no ha de reproduir exactament una situació física real. L'escala de la miniatura, la distància d'observació i la necessitat de conservar la llegibilitat poden justificar simplificacions: exagerar determinats contrastos, reduir el nombre de reflexos o modificar-ne la distribució.
+
+La simplificació és adequada quan conserva una relació recognoscible entre la geometria, la il·luminació representada i l'aparença metàl·lica que es vol aconseguir.
 
 ## 16.2. Anàlisi de la geometria i planificació dels reflexos
 
-Abans de pintar cal identificar la forma de la peça: superfícies planes, corbes, cilíndriques, esfèriques, facetades o mixtes. També cal reconèixer els canvis de pla, l'orientació de les cares i la relació de cada superfície amb la il·luminació i l'entorn representat.
+Abans de pintar cal identificar la forma de la peça: superfícies planes, corbes, cilíndriques, esfèriques, facetades o mixtes. També cal reconèixer els plans principals, els canvis d'orientació i les regions que poden reflectir de manera diferent l'entorn.
 
 La distribució dels reflexos ha de respondre a aquesta geometria. Una placa pot admetre blocs o bandes relativament definides; una forma cilíndrica pot requerir transicions progressives; una fulla d'espasa demana considerar l'eix longitudinal, les cares i el tall. No s'ha d'aplicar el mateix patró a totes les formes.
 
-L'entorn es pot suggerir mitjançant:
+### Orientació i influència de l'entorn
 
+Una mateixa peça pot contenir plans orientats en direccions diferents i, per tant, presentar zones de reflex diferenciades. En una armadura, una superfície frontal pot mostrar una distribució tonal diferent de la d'un lateral o d'una peça inclinada.
+
+L'aparença metàl·lica no s'ha de plantejar únicament com una il·luminació procedent d'una direcció. També convé considerar quins elements de l'entorn es volen suggerir mitjançant els reflexos. De manera simplificada, es poden representar:
 - Zones clares associades a regions lluminoses.
-- Regions fosques que representen parts menys lluminoses de l'entorn.
-- Bandes o blocs que indiquen canvis entre aquestes regions.
+- Regions fosques que suggereixen elements poc il·luminats o reflexos foscos.
+- Franges de contrast que indiquen canvis entre diferents zones de l'entorn.
 - Reflexos cromàtics que incorporen colors pròxims.
 
-El patró pot incloure franges longitudinals o transversals, alternança de zones clares i fosques, blocs, distribucions radials o transicions àmplies. Cap patró és universal ni exclusiu d'un metall.
+Aquests elements no són una reproducció literal de l'entorn físic, sinó recursos pictòrics per construir una aparença reflectant. En molts casos, una organització senzilla de zones clares i fosques és suficient.
 
-Abans de l'aplicació convé esquematitzar la geometria, l'orientació, la distribució prevista, els reflexos principals, les regions fosques i els accents extrems. La primera decisió és tonal i estructural; no cal definir tots els colors des del començament.
+### Selecció del patró de reflexos
+
+El patró de reflexos és l'organització visual que es representarà sobre la superfície. Pot adoptar diferents formes:
+- Franges longitudinals.
+- Bandes transversals.
+- Alternança de zones clares i fosques.
+- Blocs de reflex.
+- Distribucions radials.
+- Transicions àmplies sobre superfícies corbes.
+- Combinacions de reflexos localitzats i àrees intermèdies.
+
+No existeix un patró únic per a cada tipus de metall. Una mateixa geometria pot admetre interpretacions diferents, sempre que el patró mantingui una relació comprensible amb la forma.
+
+### Planificació prèvia
+
+Abans de l'aplicació convé elaborar un esquema senzill que identifiqui:
+1. La geometria de la peça.
+2. La seva orientació principal.
+3. La direcció o distribució de la il·luminació escollida.
+4. Les zones de reflex més intens.
+5. Les regions fosques.
+6. Les transicions entre aquestes regions.
+7. Els accents de màxima claredat i foscor.
+
+L'esquema es pot fer sobre un dibuix, una fotografia o una representació simplificada de la miniatura. No cal definir tots els colors des del començament: la primera decisió és establir l'organització visual de la superfície.
 
 ## 16.3. Planificació tonal i cromàtica
 
-El NMM necessita una escala de valors suficient per diferenciar els reflexos intensos de les regions fosques. Es poden utilitzar valors molt foscos, foscos, intermedis, clars i accents de màxima lluminositat, però no és obligatori emprar tots els nivells ni una quantitat fixa de tons.
+El NMM necessita una escala de valors suficient per diferenciar els reflexos intensos de les regions fosques. Es poden utilitzar valors molt foscos, foscos, intermedis, clars i accents de màxima claredat, però no és obligatori emprar tots els nivells ni una quantitat fixa de tons.
 
-La distribució depèn del patró i de la forma: bandes alternes en determinades superfícies planes, transicions progressives en formes corbes i canvis més definits entre plans facetats. La jerarquia tonal importa més que el nombre de colors.
+La distribució depèn del patró i de la forma: bandes alternes en determinades superfícies planes, transicions progressives en formes corbes i canvis més definits entre plans facetats. Una escala massa reduïda pot fer perdre força reflectant a la superfície; una escala excessivament fragmentada pot dificultar-ne la lectura.
+
+### Selecció i funció dels colors
 
 Les famílies cromàtiques habituals són orientatives:
-
 - **Acer i plata:** gammes neutres o fredes.
 - **Or:** grocs, ocres i marrons.
 - **Coure:** taronges, vermells i tons terrosos.
 - **Bronze:** grocs apagats i tons terrosos.
 - **Metalls fantàstics:** altres famílies, si la intenció visual ho justifica.
 
-Cal assignar funcions als tons foscos, intermedis, clars i als reflexos màxims. No sempre cal un color diferent per a cada funció: es poden obtenir posicions tonals mitjançant mescles o modificacions progressives. La selecció ha d'evitar una acumulació de colors que confongui la lectura.
+Cal assignar una funció als tons foscos, intermedis, clars i als reflexos màxims. No sempre cal un color diferent per a cada funció: es poden obtenir posicions tonals mitjançant mescles o modificacions progressives. La selecció ha d'evitar una acumulació de colors que confongui la lectura.
 
-El matís no determina per si sol la funció d'un reflex. Un groc saturat pot no tenir prou valor per actuar com a reflex màxim d'un or, i un blau intens pot continuar sent fosc. Cal valorar les mescles també per la seva claredat i foscor. Les receptes específiques per a acer, plata, or, coure i bronze corresponen al capítol 19.
+### Relació entre color i valor
+
+El matís no determina per si sol la funció d'un reflex. Un groc saturat pot no tenir prou valor per actuar com a reflex màxim d'un or, i un blau intens pot continuar sent fosc. Cal valorar les mescles també per la seva claredat i foscor.
+
+La distribució tonal ha de reforçar la geometria i mantenir una relació recognoscible entre les diferents regions. No s'ha d'assumir que totes les superfícies metàl·liques necessiten el mateix nombre de contrastos ni una distribució idèntica. La teoria del color del capítol 4 aporta els fonaments per modificar les mescles; aquí s'apliquen a la representació metàl·lica.
+
+Les receptes específiques per a acer, plata, or, coure i bronze corresponen al capítol 19.
 
 ## 16.4. Diferenciació cromàtica entre metalls
 
@@ -269,27 +327,75 @@ La introducció de reflexos molt intensos o colors brillants pot portar a repres
 
 ## 16.9. Resultat esperat i criteris d'avaluació
 
-El resultat ha de suggerir una superfície metàl·lica mitjançant pintures convencionals. La geometria ha de ser llegible i els reflexos han de mantenir una relació coherent amb la forma i l'entorn representat. No s'ha d'avaluar per la quantitat de tons ni per la intensitat indiscriminada del contrast, sinó per l'organització conjunta de geometria, valors, color i reflexos.
+El resultat ha de suggerir una superfície metàl·lica mitjançant pintures convencionals. La geometria ha de ser llegible i els reflexos han de mantenir una relació coherent amb la forma i l'entorn representat.
+
+| Criteri | Resultat esperat |
+|---|---|
+| Identitat del material | La superfície es reconeix visualment com a metàl·lica. |
+| Relació amb la geometria | Els reflexos i els valors reforcen la forma de la peça. |
+| Contrast tonal | Hi ha una diferenciació suficient entre les regions clares i fosques. |
+| Organització dels reflexos | Els reflexos presenten un patró intencionat i coherent. |
+| Selecció cromàtica | Els colors contribueixen a la identitat visual del metall. |
+| Integració | Les transicions i regions tonals formen una superfície llegible. |
+| Adaptació a l'escala | Els detalls i contrastos mantenen la seva funció a la distància habitual. |
+| Coherència global | El NMM s'integra amb la il·luminació i la composició de la miniatura. |
+
+El resultat no s'ha d'avaluar per la quantitat de reflexos ni pel nombre de tons utilitzats. La prioritat és que l'organització visual permeti reconèixer la superfície com a metàl·lica i comprendre'n la geometria.
 
 ## 16.10. Exercicis pràctics
 
 ### 16.10.1. Comparació entre superfície metàl·lica i no metàl·lica
-Representar una mateixa forma amb una organització tonal no metàl·lica i una altra basada en reflexos NMM. Comparar valors, contrastos, reflexos i lectura de la geometria.
 
-### 16.10.2. Patró de reflexos sobre una superfície plana
-Planificar regions clares, intermèdies i fosques sobre una superfície plana i comprovar si reforcen l'orientació dels plans.
+Preparar dues representacions d'una mateixa forma geomètrica. En la primera, utilitzar una organització tonal pròpia d'una superfície no metàl·lica. En la segona, construir una aparença metàl·lica mitjançant contrastos i reflexos representats amb pintures convencionals.
 
-### 16.10.3. Adaptació a una superfície corba
-Construir reflexos sobre una forma cilíndrica o arrodonida i comparar-ne la distribució amb la d'una superfície plana.
+Comparar:
+- La distribució dels valors.
+- La intensitat dels contrastos.
+- L'organització dels reflexos.
+- La lectura de la geometria.
+- L'aparença general del material.
+
+L'objectiu és identificar quins senyals visuals contribueixen a diferenciar totes dues representacions.
+
+### 16.10.2. Construcció d'un patró de reflexos sobre una superfície plana
+
+Seleccionar una superfície plana i elaborar un esquema de reflexos mitjançant regions clares, intermèdies i fosques. Aplicar el patró sobre la superfície i comprovar si els canvis tonals reforcen l'orientació dels plans.
+
+L'objectiu és aprendre a organitzar els reflexos sense dependre d'una recepta cromàtica concreta.
+
+### 16.10.3. Adaptació dels reflexos a una superfície corba
+
+Seleccionar una forma cilíndrica o arrodonida. Planificar la distribució dels valors i construir una transició entre regions fosques i clares. Comparar el resultat amb el d'una superfície plana.
+
+L'objectiu és comprendre com la geometria condiciona l'organització dels reflexos.
 
 ### 16.10.4. Comparació de famílies cromàtiques
-Representar una mateixa geometria amb dues famílies cromàtiques, mantenint una organització tonal comparable. Valorar com canvia la identitat del material.
 
-### 16.10.5. Simplificació segons l'escala
-Representar una superfície amb pocs reflexos i després amb més variacions. Comparar els resultats des de diferents distàncies i identificar quina informació és imprescindible.
+Representar una mateixa geometria metàl·lica utilitzant dues famílies cromàtiques diferents. Mantenir una organització tonal comparable i modificar la selecció dels colors.
 
-### 16.10.6. Exercici integrador
-Seleccionar una placa, una fulla d'espasa o una altra peça metàl·lica. Identificar-ne la geometria, escollir la família cromàtica, definir el patró de reflexos, establir els valors, construir les regions fosques i clares, afegir accents, revisar-ne la coherència i corregir els problemes detectats.
+Comparar la identitat visual obtinguda i valorar com influeix la família cromàtica en la percepció del material. L'objectiu és diferenciar l'organització tonal del NMM de l'elecció cromàtica específica.
+
+### 16.10.5. Simplificació del NMM a diferents escales
+
+Representar una mateixa superfície metàl·lica amb dos nivells de detall. En la primera versió, utilitzar una distribució reduïda de reflexos i valors. En la segona, introduir més varietat de regions i transicions.
+
+Comparar els resultats des de diferents distàncies. L'objectiu és identificar quina informació visual és imprescindible i quins detalls es poden simplificar segons l'escala.
+
+### 16.10.6. Exercici integrador: representació d'una peça metàl·lica
+
+Seleccionar una peça de geometria recognoscible, com ara una placa d'armadura, una fulla d'espasa o un accessori metàl·lic. Desenvolupar el procés complet:
+1. Identificar la geometria i els plans principals.
+2. Seleccionar la família cromàtica.
+3. Definir el patró de reflexos.
+4. Elaborar una escala de valors.
+5. Establir les regions fosques i intermèdies.
+6. Construir els reflexos principals.
+7. Incorporar els accents necessaris.
+8. Revisar la coherència entre geometria i reflexos.
+9. Avaluar el resultat des de diferents distàncies.
+10. Corregir els problemes detectats.
+
+L'objectiu és integrar els criteris del capítol en una representació metàl·lica completa mitjançant pintures convencionals.
 
 ## Síntesi del capítol
 

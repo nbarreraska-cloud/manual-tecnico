@@ -817,3 +817,10 @@ La revisió semàntica de les altres remissions continua oberta.
 La frase de C4.10.5 remetia la construcció posterior de llums i ombres exclusivament al capítol 5. La font original conté aquesta remissió, però la lectura de l'arquitectura vigent mostra que C5 desenvolupa els fonaments físics i perceptius, mentre que C15 tracta específicament la planificació aplicada de la il·luminació i dels valors. S'ha ajustat la frase perquè remeti als fonaments de C5 i als criteris de planificació aplicada de C15. Així es preserva el sentit original i s'evita deixar fora el capítol que desenvolupa l'aplicació.
 
 Aquesta és una conciliació semàntica amb l'arquitectura actual, no una omissió recuperada del text font. No s'ha modificat la resta del capítol.
+
+
+### Actualització F4 — precisió de les remissions d'acabats a C33–C34 (05/11/2026)
+
+La revisió semàntica de les remissions ha detectat que C33.8 i C34.4.1 atribuïen de manera massa general la selecció i aplicació de vernissos al capítol 37. Aquesta formulació no respectava del tot la delimitació actual entre C37 i C38.
+
+S'han ajustat les dues remissions: C37 correspon a la selecció de l'acabat superficial i al control de la brillantor; C38, als vernissos protectors, l'envernissament i la conservació. La correcció harmonitza C33 i C34 amb les delimitacions explícites ja presents a C37 i C38. Es manté el contingut tècnic de les receptes i dels procediments.

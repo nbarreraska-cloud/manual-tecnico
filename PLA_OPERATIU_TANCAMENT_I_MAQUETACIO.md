@@ -94,7 +94,7 @@ La referència actual és d'aproximadament 300 pàgines per als 39 capítols sen
 
 **F8 — resultat:** auditoria textual completada. S'han comprovat els 39 títols i l'ordre dels capítols, la correspondència entre fitxers i compilació (38 coincidències exactes i una discrepància ortogràfica a C28, corregida), la numeració, les taules, els residus editorials, els annexos A–E, les 48 fitxes i els 49 destinataris interns de l'Annex A. La correcció de C28 normalitza dues aparicions de «gema» a «gemma». No s'han identificat incidències estructurals addicionals. Les receptes i les fitxes continuen sense validació experimental. El registre detallat és `annexos/auditoria_F8_2026-11-05.md`.
 
-**F9 — iniciada (05/11/2026):** especificació registrada a `annexos/F9_ESPECIFICACIO_MAQUETACIO.md`; generador Word a `tools/generate_f9_docx.py`; workflow manual a `.github/workflows/generate-f9-docx.yml`. Abast: 39 capítols i annexos A–F, amb 48 fitxes compactes i íntegres a F. La generació real del DOCX i la revisió visual encara resten pendents; F9 no es declara completada. No iniciar F10 ni inserir imatges durant F9.
+**F9 — primera generació completada (05/11/2026); revisió editorial oberta:** el DOCX s'ha generat correctament mitjançant GitHub Actions (execució 42074514905). La comprovació PDF dona 339 pàgines A4. Conté 39 capítols, annexos A–F, 48 fitxes úniques amb 336 seccions numerades i quatre agrupacions comercials. L'Annex F s'ha mostrat compacte en les pàgines examinades. Resten la revisió visual integral, la comprovació de fidelitat i l'actualització/verificació de l'índex automàtic. Registre: `annexos/registre_F9_maquetacio_2026-11-05.md`. F9 continua oberta. No iniciar F10 ni inserir imatges durant F9.
 
 
 ## 7. Registre d'inici de F9 — 05/11/2026

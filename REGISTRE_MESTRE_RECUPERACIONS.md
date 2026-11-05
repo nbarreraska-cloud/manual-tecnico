@@ -1,6 +1,6 @@
 # REGISTRE MESTRE DE RECUPERACIONS EDITORIALS
 **Manual tècnic de pintura de miniatures**  
-**Versió:** 1.25 · **Data:** 05/11/2026  
+**Versió:** 1.26 · **Data:** 05/11/2026  
 **Branca:** intervencion-editorial-2026-11
 
 ## 1. Funció i abast
@@ -21,7 +21,7 @@ Aquests 39 Markdown són la representació operativa de treball sobre els contin
 | 1 | Auditoria comparativa dels 39 capítols Markdown: contingut conservat, simplificacions, pèrdues, redundàncies i millores de la segona síntesi. | **Completada (39/39)** |
 | 2 | Consolidar el Registre Mestre amb categories RT/RD/AE/MG/SC, prioritats, decisions, fonts i estat real dels canvis. | **En curs**; versió vigent 1.25. Resta conciliar la matriu per capítol amb els estats finals de F4 i eliminar contradiccions entre anotacions històriques i estat vigent. |
 | 3 | Aplicar les recuperacions tècniques, didàctiques i els ajustos editorials justificats a la tercera versió dels 39 Markdown. | **Completada per a les accions identificades a la matriu**; recuperacions aplicades als capítols 3–19, 25–32, 36 i 38; ajustos AE als capítols 33–34; els capítols SC es mantenen protegits, excepte ajustos editorials documentats. |
-| 4 | Validar els 39 capítols i estabilitzar-ne el contingut, les receptes, els exercicis, la numeració i les referències. | **En curs**; coteig documental completat per a C12–C13, C25–C29 i C38, amb els límits de font registrats; revisió de contingut disponible completada per a C30–C32 i C36; C19 cotejat dins dels límits de la font disponible. La revisió semàntica de remissions C19–C39 està documentada; C1–C18 encara requereixen la comprovació específica de remissions i la validació pendent dels capítols no cotejats. |
+| 4 | Validar els 39 capítols i estabilitzar-ne el contingut, les receptes, els exercicis, la numeració i les referències. | **En curs**; coteig documental completat per a C12–C13, C25–C29 i C38, amb els límits de font registrats; revisió de contingut disponible completada per a C30–C32 i C36; C19 cotejat dins dels límits de la font disponible. La revisió semàntica de remissions C1–C39 està completada i documentada; s'ha precisat una remissió a C18. Continuen pendents les comprovacions de fidelitat documental, estructura i contingut dels capítols encara no cotejats. |
 | 5 | Revisar i reconstruir els annexos A–E després d'estabilitzar els 39 capítols. | **Pendent i diferida** fins al tancament de F4. |
 | 6 | Auditoria global de coherència, referències creuades, traçabilitat i absència de pèrdues o duplicacions. | **Completada el 05/11/2026**; auditoria transversal C1–C39 tancada. No s'han detectat contradiccions globals que justifiquin reorganitzacions o retallades. No equival a validació experimental. |
 | 7 | Revisió gràfica, consolidació editorial i maquetació Word. | **Pendent**; s'abordarà després de F4 i F5. |
@@ -102,7 +102,7 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 15 | SC | F4 limitada: comprovada la correspondència estructural de deu apartats, sis exercicis i el focus de planificació lumínica amb el material disponible. No s'ha localitzat un text original complet; el capítol és una consolidació nova basada en l'índex i els acords recuperats. No es pot declarar coteig integral amb l'original. Sense canvis en aquesta passada. |
 | 16 | AE | Ajust de numeració i estructura de les geometries aplicat; contingut NMM ampliat posteriorment. F4 limitada: es comproven l'estructura de deu apartats, els sis exercicis i el procediment general disponible. La font declara que no s'ha recuperat un original complet; no es pot afirmar coteig integral. |
 | 17 | SC | F4 limitada: comprovada l'estructura de deu apartats, sis exercicis i el criteri central de coherència espacial entre font i superfícies receptores. La font declara que és una versió consolidada nova i que no s'ha recuperat un original complet; no es pot afirmar coteig integral. Sense canvis de contingut. |
-| 18 | SC | F4 limitada: comprovada l'estructura de deu apartats, sis exercicis i les eines de planificació/avaluació. La font declara que no s'ha recuperat un original complet; no es pot afirmar coteig integral. Sense canvis de contingut. |
+| 18 | SC / AE puntual | F4 limitada: comprovada l'estructura de deu apartats, sis exercicis i les eines de planificació/avaluació. La font declara que no s'ha recuperat un original complet; no es pot afirmar coteig integral. S'ha revisat la remissió a C35–C38 i s'ha precisat perquè diferenciï harmonització cromàtica (C35), desgast i transformació (C36), acabats superficials (C37) i protecció/conservació (C38). Sense canvis en receptes ni procediments. |
 | 19 | SC · F4 verificat sobre la font disponible | S'han cotejat 16 receptes (acer, plata, or, coure i bronze), els codis i les llistes d'ingredients, i els set exercicis. No s'han detectat codis o ingredients absents/afegits. La font disponible declara que no s'ha recuperat un original complet i no especifica proporcions quantitatives; no s'han d'inventar. Les receptes continuen sent propostes no assajades. |
 | 20 | SC | Receptes i contingut protegits; no s'hi va identificar recuperació prioritària en l'auditoria. |
 | 21 | SC | Receptes i contingut protegits; conservar la denominació original «Combinació cromàtica proposta». |
@@ -174,7 +174,7 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 ## 8. Properes actuacions operatives
 
 1. Completar la conciliació de la matriu per capítol amb els estats finals de F4, els fitxers Markdown i els commits; retirar o marcar com a històriques les instruccions que ja han quedat superades.
-2. Completar F4: revisar les remissions semàntiques de C1–C18 i validar els capítols encara no cotejats, sense repetir F1 ni reobrir capítols SC sense incidència substancial.
+2. Completar F4: completar el coteig documental i la validació estructural dels capítols encara no revisats, sense repetir F1 ni reobrir capítols SC sense incidència substancial. La revisió semàntica de remissions C1–C39 ja està completada.
 3. Mantenir explícits els límits documentals de C11 i C14–C18: no atribuir a un original complet continguts que s'han ampliat a partir de la primera versió o d'acords recuperats.
 4. Verificar per als capítols pendents la fidelitat a la font disponible, la conservació de receptes i ingredients, la seqüència dels procediments, els exercicis, la numeració, les referències i les delimitacions.
 5. La compilació documental dels capítols 1–39 ja està creada a `TERCERA_SINTESI_CONSOLIDADA_C01-C39.md` i la correspondència textual dels 39 capítols amb els fitxers font s'ha comprovat. Cal mantenir-la sincronitzada si F4 exigeix canvis posteriors.
@@ -256,3 +256,12 @@ La passada de coherència global F6 queda tancada. Aquest tancament no constitue
 S'ha creat a l'arrel del repositori el fitxer `TERCERA_SINTESI_CONSOLIDADA_C01-C39.md`, com a compilació de treball del contingut vigent dels 39 Markdown. Inclou els capítols 1–39 en ordre numèric i no incorpora els annexos A–E. S'ha afegit una capçalera d'identificació i s'han utilitzat separadors horitzontals entre fitxers; el contingut de cada capítol s'ha conservat sense reescriptura ni resum.
 
 La verificació s'ha fet tornant a recuperar els 39 fitxers font i comprovant que cadascun apareix íntegrament a la compilació (39/39). La compilació té 871.188 caràcters i 39 encapçalaments principals de capítol. Aquesta comprovació acredita la integritat de la unió documental, no la validació editorial final de F4 ni l'assaig experimental de les receptes. Si F4 comporta modificacions als fitxers font, la compilació s'haurà de regenerar o sincronitzar abans de declarar-la definitiva.
+
+
+### F4 — auditoria semàntica de remissions C1–C18 (05/11/2026)
+
+S'ha completat la revisió de les remissions explícites dels capítols 1–18 i s'han contrastat amb la funció i l'abast dels capítols de destinació. No s'han detectat destinacions errònies ni confusions funcionals que requereixin reorganitzar l'arquitectura. La remissió de C2 a l'annex A és coherent amb la funció d'inventari i traçabilitat d'aquest annex, encara pendent de reconstrucció.
+
+S'ha identificat una imprecisió a C18.8.5: la frase atribuïa als capítols 35–38, en conjunt, els «procediments d'acabat, protecció i conservació», tot i que C35 tracta l'harmonització cromàtica i C36 el desgast i la transformació de superfícies. La frase s'ha precisat per enumerar els continguts que corresponen a cada bloc: harmonització cromàtica, desgast i transformació, acabats superficials, protecció i conservació. La modificació s'ha aplicat a `segunda_sintesi/capitol-18.md` i s'ha sincronitzat a `TERCERA_SINTESI_CONSOLIDADA_C01-C39.md`.
+
+No s'han modificat receptes, ingredients, proporcions ni procediments. Amb aquesta passada, la revisió semàntica de remissions C1–C39 queda documentada com a completada. F4 continua oberta perquè encara resten cotejos documentals i comprovacions estructurals de capítols no validats; aquest tancament parcial no equival a validació experimental.

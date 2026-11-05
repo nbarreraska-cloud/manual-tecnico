@@ -643,3 +643,8 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 ## Regla per a la inserció futura
 
 La inserció es farà exclusivament en una còpia il·lustrada independent. La versió mestra sense imatges no es modificarà ni se sobreescriurà. La còpia il·lustrada tindrà identificació pròpia i es compararà amb la mestra per comprovar la conservació del text, l'estructura i els elements no gràfics.
+
+
+## Remissió creuada obligatòria
+
+- **C22, apartat 22.6:** quan s'expliquin l'ante i el nobuk, afegir una remissió a la **Figura 22.2**, que integra les propostes P1 22.2 i 22.5. No crear una figura autònoma per a 22.5.

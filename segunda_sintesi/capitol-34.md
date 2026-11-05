@@ -196,35 +196,6 @@ El treball pot donar-se per acabat quan l'objecte s'identifica com a vidre, la g
 
 Els recursos del Corning Museum fonamenten la relació entre transmissió, reflexió, geometria i percepció de superfícies transparents. Sayim i Cavanagh tracten els senyals visuals de la transparència. El tutorial és una referència pràctica, no una validació científica de les receptes. Les fonts no validen les combinacions cromàtiques Squidmar × Vallejo, que continuen sent propostes pendents de comprovació física.
 
-## Propostes de figures per a MG
-
-Les deu figures següents queden reservades per a la fase gràfica final. No s'han de generar ni inserir durant aquesta etapa.
-
-| Figura | Contingut | Ubicació prevista |
-|---|---|---|
-| 34.1 | Comparació entre vidre transparent, acolorit i esmerilat | 34.2 |
-| 34.2 | Senyals visuals: vores, reflexos, fons i gruix | 34.2 |
-| 34.3 | Representació d'un panell de vidre transparent | 34.4 |
-| 34.4 | Construcció d'un recipient de vidre transparent | 34.4 |
-| 34.5 | Comparació de vidre verd, blau, ambre i rogenc | 34.5 |
-| 34.6 | Organització d'un vitrall amb panells acolorits | 34.6 |
-| 34.7 | Diferència entre vidre transparent i esmerilat | 34.7 |
-| 34.8 | Representació de gravats i textures superficials | 34.7 |
-| 34.9 | Esquerdes, fractures i fragments de vidre | 34.8 |
-| 34.10 | Comparació final de superfícies de vidre i errors freqüents | 34.9 |
-
-1. **Comparació de tipus de vidre.** Mostrar tres superfícies: vidre transparent incolor, vidre acolorit i vidre esmerilat. Fer visible com canvien la informació del fons i la intensitat cromàtica.
-2. **Senyals visuals del vidre.** Representar una superfície amb indicació de vores, reflexos, informació transmesa, gruix i distorsió. Centrar-se en els senyals que permeten reconèixer el material.
-3. **Panell de vidre transparent.** Mostrar una seqüència de construcció d'una finestra o panell pla: fons, delimitació parcial de vores, reflexos i accents de llum. Cal conservar la lectura del fons.
-4. **Recipient de vidre transparent.** Representar una ampolla o recipient corb mitjançant l'organització de les vores, el gruix i els reflexos. Mostrar que la distribució dels senyals s'adapta a la geometria.
-5. **Vidre acolorit.** Comparar quatre exemples de vidre verd, blau, ambre i rogenc. Mostrar com canvia la coloració sense perdre els senyals de transparència.
-6. **Vitrall policrom.** Mostrar un vitrall dividit en panells acolorits i separacions estructurals. La distribució s'ha d'adaptar a la geometria general i mantenir una jerarquia cromàtica clara.
-7. **Vidre transparent i esmerilat.** Comparar una mateixa escena observada a través de dues superfícies: una conserva la definició del fons i l'altra el difumina mitjançant una transmissió més dispersa.
-8. **Vidre gravat i texturitzat.** Mostrar una superfície llisa al costat d'una altra amb gravats, estries o motius superficials. Fer visible com aquests detalls modifiquen l'aparença sense eliminar necessàriament la transparència.
-9. **Esquerdes i fragments.** Comparar una superfície esquerdada, una fractura més extensa i diversos fragments separats. Diferenciar les línies de fractura de les vores i els reflexos de cada fragment.
-10. **Comparació final i errors freqüents.** Presentar exemples de vidre transparent, acolorit i esmerilat juntament amb errors representatius: excés de blanc, vores massa uniformes, reflexos incompatibles amb la geometria, vidre acolorit opac i distorsions exagerades.
-
-
 ## Control editorial i límits de verificació
 
 - El capítol utilitza com a univers cromàtic de referència les 48 pintures dels quatre sets Squidmar × Vallejo.
@@ -240,4 +211,3 @@ Les deu figures següents queden reservades per a la fase gràfica final. No s'h
 - No s'atribueixen propietats individuals no verificades a les pintures utilitzades.
 - No s'estableixen proporcions universals, temps d'assecat ni formulacions experimentals.
 - No s'han realitzat proves físiques ni es presenten resultats experimentals com a comprovats.
-- Les deu figures són propostes per a la fase gràfica final; no s'han generat ni inserit imatges.

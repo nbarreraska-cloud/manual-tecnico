@@ -100,30 +100,62 @@ El cel és una font extensa a l'exterior; a l'interior, parets, sostres, terres 
 
 ## 5.5. Formació i distribució de les ombres
 
-Les ombres apareixen quan un objecte o una part seva bloqueja totalment o parcialment la llum. La forma depèn de la geometria, la posició i la mida aparent de la font, l'orientació de les superfícies i la il·luminació de l'entorn.
+Les ombres apareixen quan un objecte o una part seva bloqueja totalment o parcialment l'arribada de llum des d'una font determinada. La seva forma i distribució depenen de la geometria de l'objecte, la posició i la mida aparent de la font lluminosa, l'orientació de les superfícies i la presència d'altres contribucions d'il·luminació.
 
-### 5.5.1. Ombra pròpia i projectada
+Les ombres aporten informació espacial important: permeten reconèixer la posició relativa dels objectes, identificar-ne els volums i comprendre quins elements bloquegen la llum.
 
-- **Ombra pròpia:** regió del mateix objecte que no rep il·luminació directa d'una font determinada, a causa de la seva geometria o de la protecció d'altres parts.
-- **Ombra projectada:** apareix sobre una altra superfície quan l'objecte bloqueja la llum.
+### 5.5.1. Bloqueig i oclusió de la llum
 
-La diferència és la localització: l'ombra pròpia pertany a l'objecte; la projectada recau sobre una altra superfície. La seva forma i posició depenen de la relació entre font, objecte i superfície receptora.
+Quan un objecte s'interposa en el recorregut de la llum, pot impedir que aquesta arribi a determinades regions. Aquest fenomen s'anomena bloqueig o oclusió de la llum.
 
-### 5.5.2. Umbra i penombra
+L'oclusió depèn de la relació espacial entre la font lluminosa, l'objecte que bloqueja la llum i la superfície sobre la qual es produeix l'ombra. Un mateix objecte pot projectar ombres diferents si canvia la posició de la font o es modifica la relació geomètrica entre els elements.
 
-Quan una font extensa queda parcialment bloquejada es poden distingir:
-- **Umbra:** zona on la font queda completament oculta.
-- **Penombra:** zona on només queda bloquejada una part de la font.
+### 5.5.2. Ombra pròpia i ombra projectada
 
-Una font puntual ideal pot produir ombres de límit definit; una d'extensa acostuma a generar transicions. La longitud, l'orientació i la forma de l'ombra projectada varien amb la posició de la font.
+Cal diferenciar dos tipus d'ombres:
 
-### 5.5.3. Ombres de contacte i oclusió
+- **Ombra pròpia:** regió d'un objecte que no rep il·luminació directa d'una font determinada a causa de la seva geometria. Apareix en les parts que queden orientades de manera desfavorable respecte de la font o protegides per altres parts del mateix objecte.
+- **Ombra projectada:** apareix sobre una superfície quan un objecte bloqueja l'arribada de llum procedent d'una font. Pot projectar-se sobre el terra, una paret, un altre objecte o qualsevol superfície situada en la trajectòria de la llum.
 
-Les ombres de contacte apareixen en regions on dues superfícies són molt pròximes o entren en contacte: unions amb el terra, separacions entre parts de la figura i cavitats estretes. La geometria dificulta que hi arribi la llum. La intensitat depèn de la proximitat, la forma i la quantitat de llum directa i indirecta disponible. És una expressió descriptiva, no una magnitud fotomètrica independent ni una indicació que no hi hagi gens de llum.
+L'ombra pròpia forma part de l'objecte i contribueix a interpretar-ne el volum. La projectada apareix sobre una altra superfície. La seva forma i posició depenen de la geometria de l'objecte que la genera, de la superfície receptora i de la posició de la font lluminosa.
 
-### 5.5.4. Influència de la il·luminació indirecta
+### 5.5.3. Umbra i penombra
 
-La llum indirecta pot arribar a zones que no reben llum directa i reduir el contrast entre llums i ombres. La seva contribució depèn de les superfícies reflectants de l'entorn. Una ombra s'ha d'interpretar com una regió on s'ha reduït la contribució d'algunes fonts, no necessàriament com un espai sense llum.
+La formació de les ombres també depèn de la mida aparent de la font lluminosa. Quan una font extensa queda parcialment bloquejada poden aparèixer diferents regions:
+
+- **Umbra:** regió en què la font lluminosa queda completament oculta.
+- **Penombra:** regió en què la font queda bloquejada només parcialment.
+
+La transició entre aquestes regions depèn de la geometria de la font, de l'objecte que bloqueja la llum i de la posició de la superfície receptora. Una font puntual ideal pot produir ombres amb límits definits. Una font extensa acostuma a generar zones de transició perquè diferents parts de la font poden quedar ocultes parcialment.
+
+### 5.5.4. Mida, direcció i extensió de les ombres
+
+La direcció d'una ombra projectada depèn de la posició de la font lluminosa respecte de l'objecte i de la superfície receptora.
+
+La seva mida i extensió depenen de la geometria relativa entre la font, l'objecte i la superfície sobre la qual es projecta. Quan canvia la posició de la font, l'ombra pot modificar la direcció, la longitud i la forma.
+
+També hi influeix la mida aparent de la font. Una font extensa pot generar límits més graduals, mentre que una font petita o puntual pot produir ombres més definides. No hi ha, per tant, una forma d'ombra única associada a cada objecte: la seva aparença depèn de les condicions d'il·luminació.
+
+### 5.5.5. Ombres de contacte i oclusió geomètrica
+
+Les ombres de contacte apareixen en regions on dues superfícies es troben molt pròximes o entren en contacte. En aquestes zones, la geometria dificulta que la llum arribi a determinats espais. Es poden observar, per exemple:
+
+- A la unió entre un objecte i el terra.
+- Entre diferents parts d'una figura.
+- En cavitats i separacions estretes.
+- En zones on diversos elements queden molt pròxims.
+
+La seva intensitat depèn de la geometria, de la proximitat entre les superfícies i de la quantitat d'il·luminació directa i indirecta que pot arribar a la regió.
+
+L'expressió «ombra de contacte» s'utilitza aquí com a descripció d'una regió d'ombra associada a la proximitat i l'oclusió entre superfícies, no com una categoria fotomètrica independent. No s'ha de confondre amb una zona necessàriament mancada d'il·luminació.
+
+### 5.5.6. Influència de la il·luminació indirecta en les ombres
+
+La il·luminació indirecta pot arribar a regions que no reben llum directa. Com a conseqüència, les ombres poden conservar una certa il·luminació procedent de l'entorn.
+
+La diferència entre una regió il·luminada directament i una altra que rep únicament llum indirecta depèn de les condicions de l'escena. En un espai envoltat de superfícies reflectants, les ombres poden presentar una il·luminació secundària apreciable. En un entorn amb poques superfícies capaces de reflectir-hi llum, aquesta contribució pot ser menor.
+
+Les ombres s'han d'interpretar, per tant, com a regions on s'ha reduït la contribució de determinades fonts lluminoses, no necessàriament com a espais sense il·luminació.
 
 ## 5.6. Reflexos i posició de l'observador
 
@@ -152,25 +184,154 @@ El sombreig és una senyal important, però s'interpreta en funció de la direcc
 
 ## 5.8. Anàlisi i planificació de la il·luminació en miniatures
 
-Abans de decidir com representar llums, ombres i reflexos, convé analitzar la miniatura com un objecte tridimensional. El procés es pot organitzar en quatre passos:
+Els principis anteriors permeten analitzar la informació lluminosa d'una miniatura abans de prendre decisions pictòriques. L'objectiu d'aquest apartat no és ensenyar una tècnica concreta d'il·luminació, sinó establir un procediment d'observació que ajudi a comprendre la geometria i la distribució de la llum sobre un objecte tridimensional. L'aplicació tècnica d'aquests fonaments es desenvolupa en els capítols posteriors dedicats a la planificació de valors i als procediments específics de pintura.
 
-1. **Identificar la il·luminació:** observar la direcció principal, la mida aparent i la distància de la font, les contribucions ambientals i la posició de l'observador. Si hi ha diverses fonts, identificar-ne primer la principal sense ignorar les altres.
-2. **Analitzar la geometria:** localitzar plans, corbes, arestes, relleus, cavitats i regions protegides; separar l'estructura general dels detalls locals.
-3. **Interpretar les regions:** distingir llum directa, llum principalment indirecta, ombres pròpies i projectades, zones de contacte i reflexos visibles. Una zona fosca no és automàticament una ombra, ni una de brillant un reflex.
-4. **Decidir què representar:** la il·luminació observada correspon a unes condicions físiques concretes; la representació és la interpretació pictòrica, que pot simplificar o reforçar fenòmens per millorar la lectura del volum.
+### 5.8.1. Identificació de la font lluminosa
 
-Aquest anàlisi no és una recepta de pintura: proporciona la base per planificar-la. Els procediments tècnics es desenvolupen als capítols posteriors.
+L'anàlisi comença identificant les condicions generals d'il·luminació de l'objecte. Convé observar:
 
-## 5.9. Exercicis d'observació i comprensió
+- La direcció principal des de la qual arriba la llum.
+- La mida aparent de la font.
+- La distància aproximada respecte de l'objecte.
+- La presència d'altres fonts o contribucions ambientals.
+- L'existència de superfícies pròximes que puguin reflectir llum.
+- La posició des de la qual s'observa l'objecte.
 
-Els exercicis són propostes didàctiques, no resultats experimentals del manual.
+Aquesta observació estableix un marc de referència per interpretar les zones il·luminades, les ombres i els reflexos. Quan la il·luminació és complexa, pot resultar útil simplificar inicialment l'anàlisi i reconèixer una font principal, sense ignorar que hi ha altres contribucions.
 
-1. **Comparació de fonts:** observar un mateix objecte amb una font petita i pròxima, una d'extensa i pròxima, una de més allunyada i un entorn amb llum ambiental apreciable. Comparar distribució, definició de les ombres i transicions.
-2. **Plans i orientació:** il·luminar un objecte geomètric senzill, com un cub. Identificar plans, normals i diferències d'orientació; moure la font i observar els canvis.
-3. **Estudi de les ombres:** comparar les ombres projectades per un mateix objecte amb fonts de mides aparents diferents. Analitzar direcció, extensió, definició, umbra i penombra.
-4. **Observació de reflexos:** modificar la posició de l'observador i de la font per distingir reflexos direccionals i reflexió difusa.
-5. **Interpretació de volums:** observar objectes amb plans, corbes, arestes i cavitats sota una il·luminació estable. Relacionar la llum amb la geometria i distingir ombres pròpies i projectades.
-6. **Anàlisi d'una miniatura:** identificar font principal, plans, zones il·luminades, regions protegides, ombres, reflexos i contribucions indirectes. Explicar com intervenen la geometria, la il·luminació i el punt de vista en la percepció del volum.
+### 5.8.2. Identificació de plans, arestes, relleus i concavitats
+
+Un cop reconegudes les condicions d'il·luminació, cal observar la geometria de l'objecte. S'hi poden identificar:
+
+- Plans principals.
+- Superfícies corbes.
+- Arestes i canvis d'orientació.
+- Relleus i sortints.
+- Concavitats i regions protegides de la llum directa.
+- Zones on apareixen ombres pròpies.
+- Superfícies sobre les quals es projecten ombres.
+- Regions de contacte i oclusió.
+
+Aquesta identificació permet comprendre per què unes zones reben més il·luminació directa que altres i com s'organitza el volum de l'objecte.
+
+En una miniatura, les dimensions reduïdes i la presència de molts detalls poden dificultar-ne la interpretació. Per això convé distingir l'estructura volumètrica general dels detalls locals.
+
+### 5.8.3. Interpretació de llums, ombres i reflexos
+
+Una regió aparentment fosca pot correspondre a una ombra pròpia, una ombra projectada, una cavitat o una combinació de fenòmens diferents. De la mateixa manera, una zona brillant pot correspondre a una superfície que rep una il·luminació intensa, a un reflex direccional o a una característica pròpia del material.
+
+La interpretació s'ha de basar en la relació entre geometria, il·luminació i posició de l'observador, i evitar classificar automàticament cada regió per la seva aparença. És important distingir:
+
+- Les zones que reben llum directa.
+- Les zones que reben principalment il·luminació indirecta.
+- Les regions protegides de determinades fonts.
+- Les ombres pròpies i projectades.
+- Els reflexos visibles des del punt d'observació.
+- Les transicions produïdes pels canvis d'orientació.
+
+Aquesta classificació no constitueix una recepta de pintura. És una eina d'anàlisi per comprendre l'estructura lluminosa de l'objecte.
+
+### 5.8.4. Diferència entre il·luminació observada i il·luminació representada
+
+La il·luminació observada és la que presenta físicament l'objecte sota unes condicions determinades. La il·luminació representada és la interpretació que el pintor decideix traslladar a la superfície de la miniatura.
+
+Totes dues poden coincidir, però no necessàriament ho fan del tot. La representació pot simplificar l'escena, reforçar determinats contrastos o modificar algunes relacions per facilitar la lectura del volum.
+
+La decisió pictòrica ha de ser conscient i coherent amb el resultat que es pretén aconseguir. No cal reproduir tots els fenòmens lluminosos d'una escena, però sí comprendre quina informació es conserva, quina se simplifica i quin efecte pot produir aquesta decisió.
+
+## 5.9. Errors conceptuals i exercicis d'observació
+
+### 5.9.1. Errors conceptuals freqüents
+
+**Confondre llum amb color clar**
+
+Una zona de color clar no ha d'estar necessàriament més il·luminada que una altra. L'aparença visual depèn de la il·luminació, de les propietats de la superfície i de la informació que arriba a l'observador. No s'ha de deduir la distribució lluminosa únicament a partir de la claredat aparent d'una regió.
+
+**Confondre ombra pròpia i ombra projectada**
+
+L'ombra pròpia apareix sobre el mateix objecte que bloqueja la llum. L'ombra projectada apareix sobre una altra superfície. Tot i que poden estar relacionades, el seu origen geomètric és diferent i s'han d'analitzar per separat.
+
+**Confondre il·luminació indirecta i reflexió especular**
+
+La il·luminació indirecta descriu la llum que arriba a una superfície després d'interactuar amb l'entorn. La reflexió especular descriu una forma direccional de reflexió. No són conceptes equivalents.
+
+**Interpretar les ombres com a zones de foscor absoluta**
+
+Una ombra indica que una font de llum directa ha quedat bloquejada totalment o parcialment. Tanmateix, altres fonts i les reflexions de l'entorn poden continuar il·luminant aquella regió. Una ombra no ha de presentar necessàriament una absència total de llum.
+
+**Ignorar la geometria de les superfícies**
+
+L'orientació de cada superfície condiciona la seva relació amb la font lluminosa. Si s'analitza un objecte únicament per la seva aparença general, poden passar desapercebudes diferències importants entre plans, curvatures i regions protegides.
+
+**Confondre reflexos i zones il·luminades**
+
+Una superfície il·luminada rep llum, però no necessàriament presenta un reflex especular visible. Un reflex depèn de la direcció en què la superfície retorna la llum cap a l'observador. No totes les zones il·luminades s'han d'interpretar com a reflexos.
+
+**Interpretar convencions pictòriques com a lleis físiques**
+
+La pintura pot modificar o simplificar la il·luminació real per millorar la lectura visual. Aquestes decisions formen part de la representació artística i no s'han de confondre amb les lleis físiques que descriuen el comportament de la llum.
+
+### 5.9.2. Exercicis d'observació i comprensió
+
+Els exercicis següents tenen com a objectiu desenvolupar la capacitat d'observar i interpretar els fenòmens lluminosos abans d'aplicar-los a la pintura. No es plantegen com a receptes tècniques ni com a exercicis d'execució pictòrica. Són propostes didàctiques, no resultats experimentals del manual.
+
+#### Exercici 1. Comparació de fonts lluminoses
+
+Observar un mateix objecte sota diferents condicions d'il·luminació:
+
+- Una font petita i pròxima.
+- Una font extensa i pròxima.
+- Una font situada a més distància.
+- Un entorn amb il·luminació ambiental apreciable.
+
+Identificar les diferències en la distribució de la il·luminació i en la formació de les ombres.
+
+#### Exercici 2. Anàlisi de plans i orientació
+
+Utilitzar un objecte geomètric senzill, com ara un cub o una figura formada per diversos plans.
+
+Situar una font lluminosa en una posició fixa i observar quines superfícies reben la llum més directament. Identificar les normals geomètriques i comparar les orientacions dels plans.
+
+Modificar la posició de la font i observar com canvia la distribució de la il·luminació.
+
+#### Exercici 3. Estudi comparatiu de les ombres
+
+Observar les ombres projectades per un mateix objecte sota fonts lluminoses de mida aparent diferent.
+
+Comparar:
+- La direcció de les ombres.
+- La seva extensió.
+- La definició dels seus límits.
+- L'aparició de regions d'umbra i penombra.
+
+Identificar quins canvis es deuen a la geometria i quins a les característiques de la font.
+
+#### Exercici 4. Observació de reflexos
+
+Seleccionar una superfície que permeti observar reflexos i modificar progressivament la posició de l'observador.
+
+Comprovar com canvia la informació visual rebuda i distingir entre reflexos direccionals i reflexió difusa. Observar també com varia el reflex quan es modifica la posició de la font lluminosa.
+
+#### Exercici 5. Interpretació de volums geomètrics
+
+Observar diferents objectes geomètrics sota una il·luminació estable.
+
+Comparar superfícies planes, superfícies corbes, arestes, cavitats, regions d'ombra pròpia i ombres projectades. Intentar explicar quines característiques geomètriques produeixen les diferències d'il·luminació observades.
+
+#### Exercici 6. Anàlisi integradora d'una miniatura
+
+Seleccionar una miniatura i analitzar-la sota una font de llum estable. Identificar:
+
+- La font lluminosa principal, la seva posició i la mida aparent.
+- Els plans i les superfícies principals.
+- Les regions que reben il·luminació directa.
+- Les zones protegides de la font.
+- Les ombres pròpies i projectades.
+- Els reflexos visibles.
+- Les possibles contribucions de la il·luminació indirecta.
+- Les diferències entre la il·luminació observada i la interpretació pictòrica que es podria realitzar.
+
+L'exercici ha de concloure amb una explicació raonada de com la geometria, la il·luminació i la posició de l'observador contribueixen a la percepció del volum.
 
 ## Referències
 

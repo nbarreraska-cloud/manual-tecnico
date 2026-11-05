@@ -306,7 +306,7 @@ En superfícies corbes, els dipòsits s'han d'adaptar a la geometria. En una rod
 
 ### 29.7.4. Adaptació a l'escala
 
-La mida de les taques, el nombre de esquitxades, la densitat, el contrast, l'extensió i la quantitat de textura s'han d'ajustar a l'escala. Una partícula visible en un objecte real pot resultar desproporcionada en una miniatura petita. Cal simplificar les irregularitats i conservar només les senyals visuals necessàries per reconèixer el material.
+La mida de les taques, el nombre d'esquitxades, la densitat, el contrast, l'extensió i la quantitat de textura s'han d'ajustar a l'escala. Una partícula visible en un objecte real pot resultar desproporcionada en una miniatura petita. Cal simplificar les irregularitats i conservar només els senyals visuals necessàries per reconèixer el material.
 
 ### 29.7.5. Combinació de pols, fang i brutícia
 
@@ -406,9 +406,9 @@ El treball es pot donar per acabat quan els dipòsits compleixen la seva funció
 3. Construir l'altra mitjançant la recepta N.
 4. Diferenciar les variacions cromàtiques.
 5. Coordinar l'aparença superficial amb l'estat d'humitat buscat.  
-**Avaluació:** comprovar que els dos estats es diferencien sense dependre exclusivament dla brillantor.
+**Avaluació:** comprovar que els dos estats es diferencien sense dependre exclusivament de la brillantor.
 
-### Exercici 5. Construcció de esquitxades i dipòsits
+### Exercici 5. Construcció d'esquitxades i dipòsits
 **Objectiu:** controlar la distribució de fang i brutícia sobre una superfície.  
 **Materials:** Parasite Brown (72.042), Dark Rust (70.771), Burnt Red (70.814), Deck Tan (70.986) i Black (70.950).  
 **Procediment:**

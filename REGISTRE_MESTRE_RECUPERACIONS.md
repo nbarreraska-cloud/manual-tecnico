@@ -1,6 +1,6 @@
 # REGISTRE MESTRE DE RECUPERACIONS EDITORIALS
 **Manual tècnic de pintura de miniatures**  
-**Versió:** 1.7 · **Data:** 05/11/2026  
+**Versió:** 1.8 · **Data:** 05/11/2026  
 **Branca:** intervencion-editorial-2026-11
 
 ## 1. Funció i abast
@@ -145,8 +145,8 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 14–18 | Ampliacions aplicades i documentades. C14, C15, C16 i C18 tenen límits de font: no s'ha localitzat un original complet; les ampliacions es basen en la consolidació disponible de la primera versió i els acords recuperats. |
 | 19 | Recuperació de contingut metàl·lic i criteris de formulació aplicada; les receptes són propostes si no hi ha assaig documentat. |
 | 20–24, 35, 37, 39 | Capítols auditats i classificats com a SC. No hi ha recuperacions RT/RD pendents identificades per executar en aquests capítols; es mantenen protegits de canvis innecessaris. La seva coherència es comprovarà transversalment a F4/F6 quan afecti referències o límits amb altres capítols. |
-| 28 | Recuperació tècnica aplicada el 05/11/2026: desenvolupament dels procediments per a A–K, ampliació de controls i correccions, recuperació dels sis exercicis amb objectius/materials/procediment/avaluació i síntesi del capítol. Primera comprovació estructural superada; validació semàntica i coteig final pendents. |
-| 29 | Recuperació tècnica aplicada el 05/11/2026: desenvolupament dels procediments de les 17 receptes A–Q, adaptació a geometries i escales, controls i correccions, recuperació dels sis exercicis complets, síntesi i enllaços de referència. Primera comprovació estructural superada; validació semàntica i coteig final pendents. |
+| 28 | Recuperació tècnica aplicada. F4 (05/11/2026): coteig complet de fidelitat amb l'original; receptes A–K (ingredients), sis exercicis (materials) i codis de pintura contrastats sense omissions ni incorporacions. Correccions lingüístiques puntuals aplicades. Validada la correspondència documental; resta la revisió transversal de coherència tècnica i referències. |
+| 29 | Recuperació tècnica aplicada. F4 (05/11/2026): coteig complet de fidelitat amb l'original; receptes A–Q (ingredients), sis exercicis (materials) i codis de pintura contrastats sense omissions ni incorporacions. Es comprova també la conservació de la integració de pedres i fragments amb el terreny. Correccions lingüístiques puntuals aplicades. Validada la correspondència documental; resta la revisió transversal de coherència tècnica i referències. |
 | 25 | Recuperació didàctica/editorial aplicada el 05/11/2026: sis exercicis amb objectiu, materials, procediment i avaluació; recuperació de la síntesi; incorporació de dues referències absents i restauració de l'enllaç BHS; ampliació de dos errors i del criteri de selecció cromàtica. Primera comprovació estructural superada; validació semàntica i coteig final pendents. |
 | 26 | Recuperació didàctica aplicada el 05/11/2026: sis exercicis amb objectiu, materials, procediment i avaluació; recuperació de la síntesi; ampliació de dos errors de representació. Les sis referències existents es mantenen. Primera comprovació estructural superada; validació semàntica i coteig final pendents. |
 | 27 | Recuperació didàctica aplicada el 05/11/2026: sis exercicis amb objectiu, materials, procediment i avaluació; recuperació de la síntesi i reforç de la delimitació respecte dels efectes sobrenaturals del capítol 32. Les nou referències existents es mantenen. Primera comprovació estructural superada; validació semàntica i coteig final pendents. |
@@ -193,5 +193,6 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 1.5 | 05/11/2026 | F3 completada per a les accions identificades; inici de F4; comprovació estructural dels 29 Markdown intervinguts i correcció dels salts de línia literals als capítols 28 i 29. |
 | 1.6 | 05/11/2026 | Primera comprovació semàntica dels capítols 28–29: procediments de receptes i materials dels exercicis cotejats amb l'original; codis de pintura restituïts a les llistes. F4 continua oberta. |
 | 1.7 | 05/11/2026 | Precisió de la relació entre les dues fonts de la segona síntesi i els 39 fitxers Markdown de treball; correcció de l'estat dels capítols SC i de les properes actuacions, que passen a centrar-se en F4. |
+| 1.8 | 05/11/2026 | F4: coteig de fidelitat documental completat per a C28–C29; comprovades les receptes A–K/A–Q, els materials dels sis exercicis de cada capítol i la correspondència dels codis de pintura. Correccions lingüístiques menors aplicades; revisió transversal tècnica encara oberta. |
 
 Aquest registre és una consolidació operativa basada en l'auditoria i els resultats recuperats del projecte. Els punts marcats com a pendents o no validats s'han de comprovar amb el fitxer real i la font corresponent abans de declarar-los tancats.

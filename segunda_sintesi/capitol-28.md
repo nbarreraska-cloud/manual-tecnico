@@ -29,7 +29,7 @@ La corrosió no es distribueix necessàriament de manera uniforme. Pot concentra
 
 La corrosió pot ser una pel·lícula fina, una capa compacta, dipòsits irregulars o acumulacions voluminoses. Cal considerar gruix aparent, textura, relació amb arestes i pèrdua de definició. Una pàtina fina pot modificar sobretot color i acabat; una corrosió avançada pot mostrar escates, esquerdes i despreniments.
 
-La planificació cromàtica ha de jerarquitzar metall original, to principal de l'alteració, variacions, zones profundes, dipòsits i punts de metall exposat. rovell de ferro: vermells, taronges i marrons. Pàtines de coure i bronze: verds, turqueses, blaus, marrons i negres. Altres metalls: paleta específica.
+La planificació cromàtica ha de jerarquitzar metall original, to principal de l'alteració, variacions, zones profundes, dipòsits i punts de metall exposat. El rovell del ferro es representa amb vermells, taronges i marrons. Pàtines de coure i bronze: verds, turqueses, blaus, marrons i negres. Altres metalls: paleta específica.
 
 ## 28.4. Òxid i rovell sobre ferro i acer
 
@@ -65,7 +65,7 @@ Procediment proposat:
 5. Recuperar petits contrastos metàl·lics.
 6. Comprovar que la superfície conserva una lectura metàl·lica.
 
-**Recepta C. rovell fosca**
+**Recepta C. rovell fosc**
 - Base: Dark Rust (70.771).
 - Variació: combinació proposada de Dark Rust (70.771) i Black (70.950).
 - To intermedi: Burnt Red (70.814).
@@ -221,7 +221,7 @@ No es defineix una recepta independent: les receptes G, H i K es poden adaptar s
 
 ## 28.6. Altres metalls i estats de conservació
 
-- **Plata enfosquida:** representar pèrdua de brillantor, sovint associat a compostos de sofre, no rovell. Silver (72.052) com a metall; Dark Gunmetal (72.054) i Black (70.950) per enfosquir; Dark Sea Blue (70.898) per a variacions fredes; Ivory (70.918) per recuperar contrastos.
+- **Plata enfosquida:** representar la pèrdua de brillantor, sovint associada a compostos de sofre, no rovell. Silver (72.052) com a metall; Dark Gunmetal (72.054) i Black (70.950) per enfosquir; Dark Sea Blue (70.898) per a variacions fredes; Ivory (70.918) per recuperar contrastos.
 - **Estany i metalls clars:** poden presentar alteracions blanquinoses, grises o apagades. Es pot utilitzar Tinny Tin (72.060), Ivory (70.918), White (70.951), Deck Tan (70.986) i Black (70.950); no es defineix una recepta independent perquè depèn del metall i l'estat.
 - **Recobriments metàl·lics:** diferenciar recobriment conservat, pèrdua, material o metall subjacent i corrosió. No tota pèrdua de recobriment és rovell.
 - **Pàtina i desgast:** la pàtina modifica l'aparença mitjançant una capa o transformació; el desgast implica pèrdua o deformació física. Poden coexistir, com en un bronze patinat a les zones protegides i polit als relleus.
@@ -298,20 +298,20 @@ La superfície es pot donar per acabada quan l'efecte compleix la seva funció v
 
 ## 28.10. Exercicis pràctics
 
-### Exercici 1. Comparació entre rovell recent i madura
+### Exercici 1. Comparació entre rovell recent i rovell madur
 **Objectiu:** diferenciar dues aparences de corrosió sobre ferro.  
 **Materials:** Dark Gunmetal (72.054), Hot Orange (72.009), Burnt Red (70.814), Dark Rust (70.771), Parasite Brown (72.042) i Black (70.950).  
 **Procediment:** preparar dues superfícies metàl·liques semblants; construir-ne una amb la recepta A i l'altra amb la B; diferenciar tons principals i zones fosques; conservar àrees de metall exposat; comparar la lectura visual.  
 **Avaluació:** comprovar que les superfícies presenten estats diferenciats sense perdre la identitat metàl·lica.
 
-### Exercici 2. Construcció de rovell fosca
+### Exercici 2. Construcció de rovell fosc
 **Objectiu:** representar una superfície de ferro molt deteriorada.  
 **Materials:** Dark Rust (70.771), Burnt Red (70.814), Parasite Brown (72.042), Black (70.950) i Deck Tan (70.986).  
 **Procediment:** preparar una superfície de prova; construir una base fosca; introduir variacions rogenques i marrons; distribuir zones profundes; afegir petits accents clars; avaluar la profunditat cromàtica.  
 **Avaluació:** comprovar que la superfície presenta variacions sense convertir-se en un bloc negre o marró uniforme.
 
 ### Exercici 3. Corrosió localitzada en una peça metàl·lica
-**Objectiu:** controlar la distribució irregular de la rovell.  
+**Objectiu:** controlar la distribució irregular del rovell.  
 **Materials:** Dark Gunmetal (72.054), Dark Rust (70.771), Burnt Red (70.814), Parasite Brown (72.042) i Hot Orange (72.009).  
 **Procediment:** seleccionar una superfície amb vores i cavitats; establir la base metàl·lica; identificar les zones de corrosió; construir àrees fosques; afegir variacions càlides; mantenir metall visible; avaluar la distribució.  
 **Avaluació:** comprovar que la corrosió no apareix distribuïda de manera idèntica per tota la superfície.
@@ -336,7 +336,7 @@ La superfície es pot donar per acabada quan l'efecte compleix la seva funció v
 
 ## 28.11. Síntesi del capítol
 
-La corrosió i les pàtines modifiquen l'aparença de les superfícies metàl·liques, però no constitueixen un únic fenomen ni generen un resultat cromàtic uniforme. La rovell del ferro i l'acer sol presentar tons rogencs, taronges, marrons i foscos. Les alteracions del coure i els seus aliatges poden produir superfícies marrons, negres, verdes o blauverdoses; altres metalls poden presentar enfosquiments i canvis superficials diferents.
+La corrosió i les pàtines modifiquen l'aparença de les superfícies metàl·liques, però no constitueixen un únic fenomen ni generen un resultat cromàtic uniforme. El rovell del ferro i l'acer sol presentar tons rogencs, taronges, marrons i foscos. Les alteracions del coure i els seus aliatges poden produir superfícies marrons, negres, verdes o blauverdoses; altres metalls poden presentar enfosquiments i canvis superficials diferents.
 
 Per representar aquests efectes convé identificar primer el metall original, determinar l'estat d'alteració i planificar la distribució dels productes de corrosió. La relació entre metall exposat, alteració superficial, textura i geometria és essencial per conservar la lectura de l'objecte.
 

@@ -620,10 +620,19 @@ La segona síntesi de referència està formada per **dos fitxers** que contenen
 
 La comprovació estructural inicial cobreix 29 fitxers Markdown intervinguts (capítols 3–19, 25–34, 36 i 38). No s'hi van detectar encapçalaments duplicats, numeracions de secció duplicades ni encapçalaments buits. Els salts de línia literals detectats als capítols 28 i 29 es van corregir.
 
-La primera comprovació semàntica de C28–C29 ha contrastat els procediments de les receptes i els materials dels exercicis amb l'original, i ha restituït codis de pintura que faltaven. **Aquesta comprovació és parcial:** no tanca encara la validació de totes les explicacions tècniques, els criteris de correcció, les referències ni les delimitacions. Els dos capítols continuen oberts a F4.
+La comprovació de fidelitat documental de C28–C29 s'ha completat en aquesta passada: s'han cotejat amb l'original les 11 receptes (A–K) i les 17 receptes (A–Q), els materials dels sis exercicis de cada capítol i els codis de pintura. No s'han detectat ingredients ni codis absents o afegits en les llistes de receptes i exercicis. També s'ha comprovat que es conserva la integració de pedres i fragments amb el terreny. S'han corregit errors lingüístics puntuals. **Això tanca el coteig de fidelitat documental**, però no equival a validar experimentalment les combinacions de pintura: totes continuen identificades com a propostes orientatives. Resta una passada transversal de coherència tècnica, terminologia i referències creuades.
 
 La continuïtat de F4 ha de prioritzar el tancament de C28–C29 i, després, C38 i C11–C13. Cal preservar els límits de font documentats per a C14, C15, C16 i C18. Els capítols classificats SC no s'han de reobrir sense una incidència substancial.
 
 ### Estat de GitHub
 
 La branca de treball continua sent `intervencion-editorial-2026-11`. La comparació prèvia a aquest commit indicava 182 commits per davant de `main` i cap per darrere. Aquesta rectificació s'ha guardat en un únic commit a la branca de treball. `main` i els fitxers HTML de la primera versió no s'han modificat.
+
+
+### Actualització F4 — coteig de C28–C29 completat (05/11/2026)
+
+- C28: receptes A–K (11/11), sis exercicis (6/6) i codis de pintura cotejats amb el document original; sense omissions ni incorporacions en ingredients o materials.
+- C29: receptes A–Q (17/17), sis exercicis (6/6) i codis de pintura cotejats amb el document original; sense omissions ni incorporacions en ingredients o materials.
+- La comparació confirma també que el tractament de pedres i fragments del terreny es manté delimitat respecte del capítol 26.
+- Correccions lingüístiques aplicades: concordança de «rovell» en C28; «associada» en la referència a la plata; i errades de contracció, article i apostrofació en C29.
+- Estat: **fidelitat documental de C28–C29 completada**. La validació de les receptes com a resultats experimentals no és aplicable: es mantenen explícitament com a propostes no assajades. La revisió transversal de coherència tècnica i referències continua oberta.

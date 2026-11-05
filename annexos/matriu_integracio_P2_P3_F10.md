@@ -27,7 +27,7 @@ Les 150 composicions es numeren a partir de les P1. Les P2/P3 descrites aquí no
 | 18.5 (P2) | 18.4/18.6 | Incorporar dependències i seqüenciació flexible al diagrama de selecció i organització. | Integració prevista; validar que no duplica el text |
 | 20.2 (P1) | 20.1 | Composició conjunta de direcció de fibres, vetes, nusos, anells i patrons segons el tall. | Integració prevista; validar que no duplica el text |
 | 20.5 (P1) | 20.4 | Composició conjunta de construcció de vetes i desviació de fibres al voltant d'un nus. | Integració prevista; validar que no duplica el text |
-| 20.6 (P2) | 20.1 | Integrar secció transversal i anells a la làmina d'estructura de fusta. | Integració prevista; validar que no duplica el text |
+| 20.6 (P2) | 20.1+20.2 | Integrar la secció transversal i els anells al panell que ja mostra patrons segons el tall. | Integració confirmada en la composició 20.1+20.2 |
 | 21.10 (P2) | 21.3, si escau | Afegir la integració de vegetació a la base natural només si completa l'explicació de les masses vegetals. | Integració condicionada a llegibilitat i aportació real |
 | 23.7 (P2) | 23.6, si escau | Afegir deformació d'estampats/brodats sobre plecs només si el text ho explica amb prou detall. | Integració condicionada a llegibilitat i aportació real |
 | 30.2 (P2) | 30.1/30.3 | Diferenciar flama i material incandescent en un panell complementari, sense repetir la paleta. | Integració prevista; validar que no duplica el text |

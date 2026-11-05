@@ -12589,23 +12589,6 @@ El treball pot donar-se per finalitzat quan la ceràmica, la porcellana o la sup
 - Acrylicos Vallejo. Tutorials de modelisme.
 
 Les fonts tècniques fonamenten diferències generals entre cossos ceràmics, esmalts, porcellana i plàstics i la diversitat d'acabats. No validen les receptes cromàtiques proposades amb les pintures Squidmar × Vallejo, que continuen pendents de comprovació física.
-
-## Control editorial i límits de verificació
-
-- El capítol utilitza com a univers cromàtic de referència les 48 pintures dels quatre sets Squidmar × Vallejo.
-- Les receptes A–M són propostes cromàtiques, no mescles experimentades ni resultats comprovats.
-- No s'atribueixen propietats individuals no verificades a les pintures.
-- Es diferencia el cos ceràmic de l'esmalt superficial.
-- Es distingeix l'esmalt ceràmic, format mitjançant cocció, dels vernissos i acabats pictòrics aplicats sobre una miniatura.
-- La porcellana no s'identifica exclusivament pel color blanc o per un acabat brillant.
-- Els plàstics es tracten com una família àmplia de materials, sense atribuir-los una aparença única.
-- Es diferencia el craquelat superficial de l'esmalt de les fractures estructurals del cos ceràmic.
-- La selecció i aplicació de vernissos es reserva al capítol 37.
-- La representació del vidre i de les superfícies transparents o translúcides es reserva al capítol 34.
-- Els fonaments generals d'il·luminació, reflexos, color i comportament dels materials es desenvolupen als capítols 4, 5 i 6.
-- La brutícia i els dipòsits ambientals es remeten al capítol 29; el desgast i la transformació general, al capítol 36.
-- No s'han realitzat proves físiques ni es presenten resultats experimentals com a comprovats.
-
 # 34. VIDRE I SUPERFÍCIES TRANSPARENTS
 
 ## 34.1. Abast i criteri de representació
@@ -12803,23 +12786,6 @@ El treball pot donar-se per acabat quan l'objecte s'identifica com a vidre, la g
 - Miniatures of Death. “How to make a glass effect for miniatures” (22 d'agost de 2020).
 
 Els recursos del Corning Museum fonamenten la relació entre transmissió, reflexió, geometria i percepció de superfícies transparents. Sayim i Cavanagh tracten els senyals visuals de la transparència. El tutorial és una referència pràctica, no una validació científica de les receptes. Les fonts no validen les combinacions cromàtiques Squidmar × Vallejo, que continuen sent propostes pendents de comprovació física.
-
-## Control editorial i límits de verificació
-
-- El capítol utilitza com a univers cromàtic de referència les 48 pintures dels quatre sets Squidmar × Vallejo.
-- Les receptes A–H són propostes tècniques, no mescles experimentades ni resultats comprovats.
-- Es diferencia la transparència del material de la transparència d'una pintura.
-- Es distingeix el vidre transparent del vidre acolorit i del vidre esmerilat o tractat.
-- Es considera la relació entre transmissió, reflexió, geometria, gruix i distorsió sense repetir els fonaments dels capítols 5 i 6.
-- Els fonaments generals de transparència, translucidesa i els procediments de representació es remeten al capítol 14.
-- Els procediments específics de cristalls, gel, neu i gemmes es reserven al capítol 27.
-- La construcció del contingut líquid dels recipients es remet al capítol 31.
-- Els efectes lluminosos i sobrenaturals es mantenen delimitats respecte dels capítols 17, 30 i 32.
-- La selecció i aplicació de vernissos i altres acabats superficials es reserva al capítol 37.
-- No s'atribueixen propietats individuals no verificades a les pintures utilitzades.
-- No s'estableixen proporcions universals, temps d'assecat ni formulacions experimentals.
-- No s'han realitzat proves físiques ni es presenten resultats experimentals com a comprovats.
-
 # 35. HARMONITZACIÓ CROMÀTICA I INTEGRACIÓ AMBIENTAL
 
 ## 35.1. Finalitat i abast
@@ -12991,25 +12957,6 @@ La harmonització pot considerar-se finalitzada quan la miniatura funciona crom�
 - Fleming, R. W. (2017). “Material Perception”. *Annual Review of Vision Science*, 3, 365–388. DOI: 10.1146/annurev-vision-102016-061429.
 
 Les fonts fonamenten percepció cromàtica, organització del color i aparença dels materials. No constitueixen validació experimental dels procediments pictòrics particulars.
-
-## Control editorial i límits de verificació
-
-- El capítol aborda l'harmonització cromàtica global i la integració ambiental de miniatures.
-- No repeteix la teoria general del color del capítol 4.
-- No substitueix la planificació d'il·luminació i valors del capítol 15.
-- No desenvolupa tècniques d'aplicació ja explicades als capítols 8–17.
-- No substitueix les receptes específiques de materials i efectes dels capítols 19–34.
-- Es diferencia l'harmonització cromàtica de la uniformitat cromàtica.
-- Es diferencia la integració de materials de la pèrdua d'identitat material.
-- Es distingeix la relació entre figura i peanya de la representació específica dels materials de l'entorn.
-- Es manté la separació respecte de l'envelliment i la transformació de superfícies del capítol 36.
-- Els procediments d'envernissament i control d'acabats es reserven al capítol 37.
-- La protecció i conservació corresponen al capítol 38.
-- El diagnòstic sistemàtic i els procediments generals de correcció corresponen al capítol 39.
-- No s'estableixen receptes, proporcions ni filtres cromàtics universals.
-- Les recomanacions es presenten com a criteris d'anàlisi i propostes d'intervenció, no com a resultats experimentals.
-- No s'han realitzat proves físiques ni es presenten resultats experimentals com a comprovats.
-
 # 36. ENVELLIMENT, DESGAST I TRANSFORMACIÓ DE SUPERFÍCIES
 
 ## 36.1. Representació del pas del temps i de l'ús
@@ -13491,26 +13438,6 @@ No s'ha d'aplicar un acabat uniforme per defecte ni utilitzar la brillantor com 
 - Capítol 38: protecció, envernissament i conservació.
 
 Els catàlegs identifiquen productes i característiques declarades; no són proves comparatives independents ni garanteixen resultats idèntics sobre qualsevol superfície. Els exercicis són propostes didàctiques, no assajos propis realitzats.
-
-## Control editorial i límits de verificació
-
-- El capítol desenvolupa els fonaments dels acabats superficials i el control visual de la brillantor.
-- Es diferencien els acabats mate, setinat, brillant i els graus intermedis.
-- Es distingeix la reflexió especular de la reflexió més difusa.
-- S'evita equiparar una superfície mate amb l'absència de reflexió.
-- Es diferencia el color de l'acabat superficial.
-- Es consideren la il·luminació, l'orientació, la geometria, la textura, el producte i les condicions d'observació.
-- Es desenvolupa la selecció de l'acabat segons materials i efectes, sense establir associacions universals.
-- S'incorpora el control selectiu de la brillantor i la seva relació amb la jerarquia visual.
-- Es diferencia l'aparença superficial de la funció protectora dels productes.
-- El capítol 38 conserva el desenvolupament de protecció, envernissament i conservació.
-- Els capítols 5 i 15 mantenen el desenvolupament de la il·luminació i la construcció de valors.
-- El capítol 6 conserva els fonaments generals del comportament visual dels materials.
-- S'inclouen sis exercicis pràctics.
-- Les referències del fabricant s'utilitzen per identificar productes i característiques declarades, no com a resultats experimentals independents.
-- No s'han realitzat proves físiques ni es presenten resultats experimentals com a comprovats.
-- No s'han generat ni inserit imatges.
-
 # 38. PROTECCIÓ, ENVERNISSAMENT I CONSERVACIÓ
 
 ## 38.1. Funció i abast de la protecció superficial

@@ -1,6 +1,6 @@
 # REGISTRE MESTRE DE RECUPERACIONS EDITORIALS
 **Manual tècnic de pintura de miniatures**  
-**Versió:** 1.68 · **Data:** 05/11/2026  
+**Versió:** 1.69 · **Data:** 05/11/2026  
 **Branca:** intervencion-editorial-2026-11
 
 ## 1. Funció i abast
@@ -24,7 +24,7 @@ Aquests 39 Markdown són la representació operativa de treball sobre els contin
 | 4 | Validar els 39 capítols i estabilitzar-ne el contingut, les receptes, els exercicis, la numeració i les referències. | **Completada el 05/11/2026, amb límits documentals registrats**; els 39 capítols han rebut una revisió de contingut o una comprovació documental del material disponible. C1–C10, C12–C13, C20–C29, C33–C35 i C37–C39 tenen coteig documental completat; C11 i C14–C19 s'han contrastat amb material consolidat disponible, però les fonts declaren que no s'han recuperat originals complets; C30–C32 i C36 tenen revisió de contingut completada amb la font disponible; C38 té coteig documental completat dins dels límits registrats. La revisió semàntica de remissions C1–C39 i la comprovació estructural global dels 39 Markdown estan completades. Aquesta fase no equival a validació experimental de receptes ni de resultats pictòrics. |
 | 5 | Revisar i reconstruir els annexos A–E després d'estabilitzar els 39 capítols. | **Pendent i diferida** fins al tancament de F4. |
 | 6 | Auditoria global de coherència, referències creuades, traçabilitat i absència de pèrdues o duplicacions. | **Completada el 05/11/2026**; auditoria transversal C1–C39 tancada. No s'han detectat contradiccions globals que justifiquin reorganitzacions o retallades. No equival a validació experimental. |
-| 7 | Revisió gràfica, consolidació editorial i maquetació Word. | **Pendent**; s'abordarà després de F4 i F5. |
+| 7 | Revisió gràfica, consolidació editorial i maquetació Word. | **Pendent**; les 50 propostes MG s'han separat del contingut lector i es conserven a `PLANIFICACIO_GRAFICA_MG_FASE_POSTERIOR.md`; la producció i maquetació gràfica encara no s'han iniciat. |
 
 La primera versió amb l'estructura completa sintetitzada i la segona síntesi dels 39 capítols són fonts diferenciades. La tercera versió és el resultat del treball actual sobre els 39 Markdown. La compilació documental única dels capítols 1–39 ja s'ha creat i verificat, però continua sent una compilació de treball fins al tancament de F4. La fase gràfica i els annexos no s'han d'avançar a la validació i estabilització dels capítols.
 
@@ -74,7 +74,7 @@ Una mateixa intervenció pot tenir més d'una categoria.
 5. Distingir les propostes de mescla dels resultats experimentals. Les receptes no assajades continuen identificades com a propostes.
 6. Respectar l'arquitectura de 39 capítols. No crear capítols nous ni alterar-ne l'ordre sense una justificació substancial.
 7. No reobrir capítol tancat per observacions menors. Reobrir només davant errors reals, contradiccions importants o incidències de coherència global.
-8. Les propostes de figures es mantenen com a especificacions editorials; no es presenten com a imatges produïdes ni com a proves físiques.
+8. Les propostes de figures es mantenen com a especificacions editorials en un document MG independent; no formen part del contingut lector de la tercera síntesi ni es presenten com a imatges produïdes o proves físiques.
 9. Cada intervenció ha de distingir quatre estats: **diagnosticada**, **decidida**, **aplicada** i **validada**. Un canvi aplicat no queda automàticament validat.
 10. La branca intervencion-editorial-2026-11 és la branca de treball; main no s'ha de modificar.
 11. L'objectiu d'extensió de la tercera versió és aproximadament 350–375 pàgines, amb un límit orientatiu d'unes 400. És un criteri de control, no una ordre de retall: no s'ha de suprimir contingut tècnic, procediments, receptes, exercicis, variants ni advertiments només per reduir pàgines.
@@ -509,3 +509,10 @@ S'ha completat el coteig de C3 amb «manual con estructura completa.docx». Es c
 S'ha completat la revisió de contingut o del material documental disponible per als 39 capítols. Els límits de font de C11 i C14–C19 queden explícits: no s'han recuperat originals complets i, per tant, no s'afirma fidelitat integral a aquests originals. C30–C32 i C36 s'han revisat contra el contingut disponible. La resta de capítols tenen coteig documental completat segons l'abast descrit a la matriu. La revisió semàntica de remissions i la comprovació estructural global ja estaven completades. F4 queda tancada com a validació documental/editorial dins de les fonts disponibles, no com a validació experimental de receptes, mescles o resultats pictòrics.
 
 | 1.67 | 05/11/2026 | F4 tancada: revisats els 39 capítols amb coteig complet o límits de font explícits; no equival a validació experimental. |
+
+### Correcció de separació editorial MG (05/11/2026)
+
+S'han retirat els blocs de propostes gràfiques dels fitxers Markdown de C1, C2, C3, C33, C34, C35 i C37, així com de la compilació C1–C39. També s'han retirat els criteris de producció gràfica de C3 i les mencions a figures incloses en els resums de control editorial de C33–C35 i C37. Les 50 propostes de figures i els criteris de producció s'han conservat, sense resumir-los, a «PLANIFICACIO_GRAFICA_MG_FASE_POSTERIOR.md». La compilació s'ha sincronitzat amb els fitxers corregits. No s'ha alterat contingut tècnic, didàctic o procedimental destinat a la lectura.
+
+| 1.68 | 05/11/2026 | Correcció editorial MG: 50 propostes i criteris gràfics traslladats a document independent; retirats del cos de set capítols i de la compilació. |
+

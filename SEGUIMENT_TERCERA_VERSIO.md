@@ -645,3 +645,10 @@ S'ha cotejat l'estructura del C38 Markdown amb l'original: els apartats 38.1–3
 En el coteig s'han recuperat tres detalls tècnics que havien quedat massa comprimits: la llista de comprovació per seleccionar barnissos acrílics, l'existència de formulacions de poliuretà de base aquosa aplicables a pinzell o aerògraf quan el fabricant ho indiqui, i les condicions i riscos específics dels aerosols (ventilació, temperatura/humitat, inflamabilitat, pressurització, inhalació, compatibilitat i advertiments).
 
 La validació transversal encara no es tanca. S'ha detectat una inconsistència terminològica entre `barnís/barnissos/barnissat` i `vernís/vernissar` als capítols 37–39. Es normalitzarà de manera conjunta a tots els capítols afectats, després de comprovar-ne l'abast en els 39 Markdown. No s'han fet canvis parcials de terminologia.
+
+
+### Actualització F4 — capítol 11 i priorització (05/11/2026)
+
+S'ha comprovat la correspondència estructural del C11 Markdown amb el material disponible: es mantenen els apartats 11.1–11.10.6, els vuit blocs d'errors i els sis exercicis. Tanmateix, el mateix document de referència declara que **no s'ha recuperat el text original complet** i que el capítol està tancat editorialment. Per tant, aquesta passada és una comprovació limitada sobre el text consolidat disponible, no un coteig integral amb l'original. No s'han fet canvis al capítol ni es reobre la decisió editorial.
+
+La prioritat immediata de F4 passa als capítols 12 i 13. C28–C29 tenen completat el coteig de fidelitat documental; C38 té recuperats els detalls tècnics omesos i continua pendent de la passada transversal de terminologia, coherència i referències.

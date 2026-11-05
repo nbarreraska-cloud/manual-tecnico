@@ -1,6 +1,6 @@
 # REGISTRE MESTRE DE RECUPERACIONS EDITORIALS
 **Manual tècnic de pintura de miniatures**  
-**Versió:** 1.8 · **Data:** 05/11/2026  
+**Versió:** 1.9 · **Data:** 05/11/2026  
 **Branca:** intervencion-editorial-2026-11
 
 ## 1. Funció i abast
@@ -95,7 +95,7 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 8 | SC | Contingut protegit en l'auditoria inicial. Posteriorment s'hi van ampliar errors, controls i exercicis; validació global pendent. |
 | 9 | SC | Contingut protegit; es va reservar una possible redundància interna entre §9.7 i §9.9 per a revisió global, sense reobertura automàtica. |
 | 10 | SC | Contingut protegit per l'auditoria inicial. Posteriorment s'hi va desenvolupar i reorganitzar contingut de veladures/glassejats; validació global pendent. |
-| 11 | RT · alta | Recuperar sis procediments que s'havien comprimit. Intervenció aplicada amb modalitats de rentats, tintes, pigments, acumulacions, sis procediments, vuit errors i sis exercicis; validació pendent. |
+| 11 | RT · alta | Intervenció aplicada i tancada editorialment. F4: comprovada l'estructura 11.1–11.10.6, els vuit blocs d'errors i els sis exercicis sobre el text consolidat disponible. El mateix document de referència declara que no s'ha recuperat l'original complet; per tant, no es pot afirmar un coteig integral amb l'original. No reobrir sense una incidència substancial. |
 | 12 | RT · alta | Recuperar passos específics dels perfilats. Intervenció aplicada amb fonaments, cinc tipus de perfilat, sis procediments, controls, errors i exercicis; validació pendent. |
 | 13 | RT · alta | Recuperar variables i limitacions de les tècniques de textura. Intervenció aplicada a pinzell sec, puntejat, ratllat i esponjat, amb criteris, errors i exercicis; validació pendent. |
 | 14 | SC | Contingut protegit en l'auditoria inicial. Ampliació posterior documentada sobre la consolidació disponible de la primera versió; no hi ha text original complet localitzat. |
@@ -122,7 +122,7 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 35 | SC | Contingut protegit; no es va identificar recuperació prioritària. |
 | 36 | RD / MG · baixa | Intervenció aplicada el 05/11/2026: recuperats i desenvolupats els sis exercicis amb objectiu i procediment; afegits criteris d'avaluació proposats com a millora didàctica, diferenciats del text original; recuperada la síntesi; mantinguts els criteris de selecció i adaptació per material. Les 10 propostes gràfiques originals es reserven per a MG. Validació semàntica pendent. |
 | 37 | SC | Contingut protegit. G-08 va ajustar §§37.1, 37.6 i 37.7 a l'HTML i va preservar els apartats 38.1 i 38.2.5; no és una modificació del Markdown actual. Mantenir la seva funció d'acabats visuals i control del brillantor. |
-| 38 | RT / RD / MG · alta | Recuperació tècnica i didàctica aplicada. F4: estructura i procediments cotejats amb l'original; sis exercicis conservats i desenvolupats, amb criteris d'avaluació identificats com a propostes editorials. S'han recuperat tres detalls tècnics omesos de la síntesi (llista de comprovació dels barnissos acrílics, distinció dels poliuretans de base aquosa i condicions/riscos específics dels aerosols). Resta la revisió transversal de terminologia, coherència i referències. Les 10 propostes gràfiques es reserven per a MG. |
+| 38 | RT / RD / MG · alta | F4: estructura i procediments cotejats amb l'original; sis exercicis conservats i desenvolupats, amb criteris d'avaluació identificats com a propostes editorials. Recuperats tres detalls tècnics omesos: comprovacions per seleccionar barnissos acrílics, distinció dels poliuretans de base aquosa i condicions/riscos específics dels aerosols. Resta la revisió transversal de terminologia, coherència i referències. Les 10 propostes gràfiques es reserven per a MG. |
 | 39 | SC / MG | Contingut textual protegit; mantenir i planificar el material gràfic de suport sense convertir propostes en imatges ja produïdes. |
 
 ### Lectura global de la matriu
@@ -175,7 +175,7 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 
 1. Completar la conciliació fina de la traçabilitat entre la matriu, els fitxers Markdown, els commits i el document de seguiment.
 2. Continuar F4: validar semànticament i tècnicament els 29 capítols Markdown intervinguts, sense repetir l'auditoria F1 ni reobrir els capítols SC sense una incidència substancial.
-3. Prioritzar el tancament del coteig de C28–C29 (la comprovació actual només cobreix procediments de receptes i materials dels exercicis) i continuar després amb els capítols d'alta prioritat C38 i C11–C13.
+3. Continuar F4 amb els capítols d'alta prioritat C12–C13. C11 queda amb el límit documental explícit de no disposar de l'original complet; C28–C29 tenen el coteig de fidelitat documental completat; C38 té recuperats els detalls tècnics omesos i resta la revisió transversal.
 4. Comprovar, per a cada capítol, la fidelitat a la font disponible, la conservació de receptes i ingredients, la seqüència dels procediments, els exercicis, la numeració, les referències i les delimitacions.
 5. Mantenir explícits els límits documentals de C14, C15, C16 i C18: no atribuir al document original complet continguts que s'han ampliat a partir de la primera versió o d'acords recuperats.
 6. Després d'estabilitzar els 39 capítols, abordar els annexos A–E, la coherència global, les referències creuades i la fase gràfica.
@@ -194,6 +194,7 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 1.6 | 05/11/2026 | Primera comprovació semàntica dels capítols 28–29: procediments de receptes i materials dels exercicis cotejats amb l'original; codis de pintura restituïts a les llistes. F4 continua oberta. |
 | 1.7 | 05/11/2026 | Precisió de la relació entre les dues fonts de la segona síntesi i els 39 fitxers Markdown de treball; correcció de l'estat dels capítols SC i de les properes actuacions, que passen a centrar-se en F4. |
 | 1.8 | 05/11/2026 | F4: coteig de fidelitat documental completat per a C28–C29; comprovades les receptes A–K/A–Q, els materials dels sis exercicis de cada capítol i la correspondència dels codis de pintura. Correccions lingüístiques menors aplicades; revisió transversal tècnica encara oberta. |
+| 1.9 | 05/11/2026 | F4: recuperació de detalls tècnics omesos a C38; comprovació limitada de C11 amb preservació del límit documental (original complet no recuperat i tancament editorial previ). Continuïtat de F4 prioritzada a C12–C13. |
 
 Aquest registre és una consolidació operativa basada en l'auditoria i els resultats recuperats del projecte. Els punts marcats com a pendents o no validats s'han de comprovar amb el fitxer real i la font corresponent abans de declarar-los tancats.
 

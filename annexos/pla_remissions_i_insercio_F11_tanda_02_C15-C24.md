@@ -14,7 +14,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 15.1 — Anàlisi de geometria, volums i superfícies
 
-- **Identificadors P1 d'origen:** 15.1.
+- **Identificadors P1 d'origen:** 15.1
 - **Ubicació editorial F10:** 15.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 15.2.
 - **Remissió textual proposada:** «La Figura 15.1 presenta una síntesi visual: anàlisi de geometria, volums i superfícies.»
@@ -24,7 +24,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 15.2 — Mapa de valors
 
-- **Identificadors P1 d'origen:** 15.3.
+- **Identificadors P1 d'origen:** 15.3
 - **Ubicació editorial F10:** 15.6.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 15.6.
 - **Remissió textual proposada:** «La Figura 15.2 presenta una síntesi visual: mapa de valors.»
@@ -34,7 +34,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 15.3 — Distribució del contrast
 
-- **Identificadors P1 d'origen:** 15.6.
+- **Identificadors P1 d'origen:** 15.6
 - **Ubicació editorial F10:** 15.4 o 15.8.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 15.4.
 - **Remissió textual proposada:** «La Figura 15.3 presenta una síntesi visual: distribució del contrast.»
@@ -44,7 +44,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 15.4 — Procés integral d'anàlisi a avaluació
 
-- **Identificadors P1 d'origen:** 15.8.
+- **Identificadors P1 d'origen:** 15.8
 - **Ubicació editorial F10:** 15.1 o 15.9.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 15.9.
 - **Remissió textual proposada:** «La Figura 15.4 presenta una síntesi visual: procés integral d'anàlisi a avaluació.»
@@ -56,7 +56,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 16.1 — Metàl·lic i no metàl·lic
 
-- **Identificadors P1 d'origen:** 16.1.
+- **Identificadors P1 d'origen:** 16.1
 - **Ubicació editorial F10:** 16.1.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 16.1.
 - **Remissió textual proposada:** «La Figura 16.1 presenta una síntesi visual: metàl·lic i no metàl·lic.»
@@ -66,7 +66,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 16.2 — Influència de la geometria en els reflexos
 
-- **Identificadors P1 d'origen:** 16.2.
+- **Identificadors P1 d'origen:** 16.2
 - **Ubicació editorial F10:** 16.2 i/o 16.6.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 16.2.
 - **Remissió textual proposada:** «La Figura 16.2 presenta una síntesi visual: influència de la geometria en els reflexos.»
@@ -76,7 +76,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 16.3 — Mapa tonal d'una peça metàl·lica
 
-- **Identificadors P1 d'origen:** 16.4.
+- **Identificadors P1 d'origen:** 16.4
 - **Ubicació editorial F10:** 16.3.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 16.3.
 - **Remissió textual proposada:** «La Figura 16.3 presenta una síntesi visual: mapa tonal d'una peça metàl·lica.»
@@ -86,7 +86,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 16.4 — Construcció progressiva de base a reflexos i accents
 
-- **Identificadors P1 d'origen:** 16.6.
+- **Identificadors P1 d'origen:** 16.6
 - **Ubicació editorial F10:** 16.5.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 16.5.
 - **Remissió textual proposada:** «La Figura 16.4 presenta una síntesi visual: construcció progressiva de base a reflexos i accents.»
@@ -96,7 +96,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 16.5 — Errors i correccions
 
-- **Identificadors P1 d'origen:** 16.8.
+- **Identificadors P1 d'origen:** 16.8
 - **Ubicació editorial F10:** 16.8.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 16.8.
 - **Remissió textual proposada:** «La Figura 16.5 presenta una síntesi visual: errors i correccions.»
@@ -108,7 +108,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 17.1 — Font emissora, superfície il·luminada i reflex localitzat
 
-- **Identificadors P1 d'origen:** 17.1.
+- **Identificadors P1 d'origen:** 17.1
 - **Ubicació editorial F10:** 17.2.1–17.2.3.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 17.2.1–17.2.3.
 - **Remissió textual proposada:** «La Figura 17.1 presenta una síntesi visual: font emissora, superfície il·luminada i reflex localitzat.»
@@ -118,7 +118,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 17.2 — Geometria, orientació i bloqueig
 
-- **Identificadors P1 d'origen:** 17.3.
+- **Identificadors P1 d'origen:** 17.3
 - **Ubicació editorial F10:** 17.3.4–17.3.6.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 17.3.4–17.3.6.
 - **Remissió textual proposada:** «La Figura 17.2 presenta una síntesi visual: geometria, orientació i bloqueig.»
@@ -128,7 +128,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 17.3 — Jerarquia de valors
 
-- **Identificadors P1 d'origen:** 17.4.
+- **Identificadors P1 d'origen:** 17.4
 - **Ubicació editorial F10:** 17.4.1–17.4.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 17.4.1–17.4.2.
 - **Remissió textual proposada:** «La Figura 17.3 presenta una síntesi visual: jerarquia de valors.»
@@ -138,7 +138,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 17.4 — Il·luminació general i reflexos en superfícies mates i brillants
 
-- **Identificadors P1 d'origen:** 17.7.
+- **Identificadors P1 d'origen:** 17.7
 - **Ubicació editorial F10:** 17.6.4–17.6.5.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 17.6.4–17.6.5.
 - **Remissió textual proposada:** «La Figura 17.4 presenta una síntesi visual: il·luminació general i reflexos en superfícies mates i brillants.»
@@ -148,7 +148,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 17.5 — Seqüència de construcció i integració de l'OSL
 
-- **Identificadors P1 d'origen:** 17.8.
+- **Identificadors P1 d'origen:** 17.8
 - **Ubicació editorial F10:** 17.5.1–17.5.7.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 17.5.1–17.5.7.
 - **Remissió textual proposada:** «La Figura 17.5 presenta una síntesi visual: seqüència de construcció i integració de l'osl.»
@@ -158,7 +158,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 17.6 — Errors freqüents
 
-- **Identificadors P1 d'origen:** 17.10.
+- **Identificadors P1 d'origen:** 17.10
 - **Ubicació editorial F10:** 17.8.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 17.8.
 - **Remissió textual proposada:** «La Figura 17.6 presenta una síntesi visual: errors freqüents.»
@@ -170,7 +170,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 18.1 — Mapa del procés integral
 
-- **Identificadors P1 d'origen:** 18.1.
+- **Identificadors P1 d'origen:** 18.1
 - **Ubicació editorial F10:** 18.1.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 18.1.
 - **Remissió textual proposada:** «La Figura 18.1 presenta una síntesi visual: mapa del procés integral.»
@@ -180,7 +180,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 18.2 — Planificació cromàtica, tonal i lumínica
 
-- **Identificadors P1 d'origen:** 18.3.
+- **Identificadors P1 d'origen:** 18.3
 - **Ubicació editorial F10:** 18.3.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 18.3.
 - **Remissió textual proposada:** «La Figura 18.2 presenta una síntesi visual: planificació cromàtica, tonal i lumínica.»
@@ -190,7 +190,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 18.3 — Arbre de selecció de tècniques
 
-- **Identificadors P1 d'origen:** 18.4.
+- **Identificadors P1 d'origen:** 18.4
 - **Ubicació editorial F10:** 18.4.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 18.4.
 - **Remissió textual proposada:** «La Figura 18.3 presenta una síntesi visual: arbre de selecció de tècniques.»
@@ -200,7 +200,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 18.4 — Organització per zones, materials i fases
 
-- **Identificadors P1 d'origen:** 18.6.
+- **Identificadors P1 d'origen:** 18.6
 - **Ubicació editorial F10:** 18.5.4.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 18.5.4.
 - **Remissió textual proposada:** «La Figura 18.4 presenta una síntesi visual: organització per zones, materials i fases.»
@@ -212,7 +212,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 19.1 — Construcció TMM d'acer i plata
 
-- **Identificadors P1 d'origen:** 19.3.
+- **Identificadors P1 d'origen:** 19.3
 - **Ubicació editorial F10:** 19.2–19.3.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 19.2–19.3.
 - **Remissió textual proposada:** «La Figura 19.1 presenta una síntesi visual: construcció tmm d'acer i plata.»
@@ -222,7 +222,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 19.2 — Construcció TMM d'or
 
-- **Identificadors P1 d'origen:** 19.4.
+- **Identificadors P1 d'origen:** 19.4
 - **Ubicació editorial F10:** 19.4.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 19.4.2.
 - **Remissió textual proposada:** «La Figura 19.2 presenta una síntesi visual: construcció tmm d'or.»
@@ -232,7 +232,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 19.3 — Construcció de coure i bronze
 
-- **Identificadors P1 d'origen:** 19.5.
+- **Identificadors P1 d'origen:** 19.5
 - **Ubicació editorial F10:** apartats 19.5.2 i 19.6.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 19.5.2 i 19.6.2.
 - **Remissió textual proposada:** «La Figura 19.3 presenta una síntesi visual: construcció de coure i bronze.»
@@ -243,7 +243,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 19.4 — Comparació entre TMM i NMM
 
-- **Identificadors P1 d'origen:** 19.6.
+- **Identificadors P1 d'origen:** 19.6
 - **Ubicació editorial F10:** apartat 19.1, després de definir els dos enfocaments.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 19.1. La figura és E0: comparació conceptual TMM/NMM, no recepta E1.
 - **Remissió textual proposada:** «La Figura 19.4 presenta una síntesi visual: comparació entre tmm i nmm.»
@@ -254,7 +254,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 19.5 — Errors i control
 
-- **Identificadors P1 d'origen:** 19.9.
+- **Identificadors P1 d'origen:** 19.9
 - **Ubicació editorial F10:** 19.9.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 19.9.
 - **Remissió textual proposada:** «La Figura 19.5 presenta una síntesi visual: errors i control.»
@@ -266,7 +266,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 20.1 — Direcció de fibres, vetes, nusos, anells i patrons segons el tall
 
-- **Identificadors P1 d'origen:** 20.1, 20.2.
+- **Identificadors P1 d'origen:** 20.1, 20.2
 - **Ubicació editorial F10:** 20.1–20.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 20.1–20.2. Integra 20.2 i el detall P2 20.6; no crear figures independents.
 - **Remissió textual proposada:** «La Figura 20.1 presenta una síntesi visual: direcció de fibres, vetes, nusos, anells i patrons segons el tall.»
@@ -277,7 +277,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 20.2 — Construcció de vetes i desviació de fibres al voltant d'un nus
 
-- **Identificadors P1 d'origen:** 20.4, 20.5.
+- **Identificadors P1 d'origen:** 20.4, 20.5
 - **Ubicació editorial F10:** 20.8.1–20.8.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 20.8.1–20.8.2. Integra 20.5 en la seqüència de vetes i nusos.
 - **Remissió textual proposada:** «La Figura 20.2 presenta una síntesi visual: construcció de vetes i desviació de fibres al voltant d'un nus.»
@@ -288,7 +288,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 20.3 — Adaptació a geometries
 
-- **Identificadors P1 d'origen:** 20.7.
+- **Identificadors P1 d'origen:** 20.7
 - **Ubicació editorial F10:** 20.9.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 20.9.2.
 - **Remissió textual proposada:** «La Figura 20.3 presenta una síntesi visual: adaptació a geometries.»
@@ -298,7 +298,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 20.4 — Fusta natural, envellida, desgastada i humida
 
-- **Identificadors P1 d'origen:** 20.8.
+- **Identificadors P1 d'origen:** 20.8
 - **Ubicació editorial F10:** 20.7.1–20.7.4.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 20.7.1–20.7.4.
 - **Remissió textual proposada:** «La Figura 20.4 presenta una síntesi visual: fusta natural, envellida, desgastada i humida.»
@@ -308,7 +308,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 20.5 — Errors i correccions
 
-- **Identificadors P1 d'origen:** 20.9.
+- **Identificadors P1 d'origen:** 20.9
 - **Ubicació editorial F10:** 20.9.3.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 20.9.3.
 - **Remissió textual proposada:** «La Figura 20.5 presenta una síntesi visual: errors i correccions.»
@@ -320,7 +320,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 21.1 — Tipus principals de vegetació
 
-- **Identificadors P1 d'origen:** 21.1.
+- **Identificadors P1 d'origen:** 21.1
 - **Ubicació editorial F10:** 21.1–21.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 21.1–21.2.
 - **Remissió textual proposada:** «La Figura 21.1 presenta una síntesi visual: tipus principals de vegetació.»
@@ -330,7 +330,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 21.2 — Morfologia de fulles
 
-- **Identificadors P1 d'origen:** 21.2.
+- **Identificadors P1 d'origen:** 21.2
 - **Ubicació editorial F10:** 21.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 21.2.
 - **Remissió textual proposada:** «La Figura 21.2 presenta una síntesi visual: morfologia de fulles.»
@@ -340,7 +340,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 21.3 — Agrupació, densitat i superposició
 
-- **Identificadors P1 d'origen:** 21.3.
+- **Identificadors P1 d'origen:** 21.3
 - **Ubicació editorial F10:** 21.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 21.2.
 - **Remissió textual proposada:** «La Figura 21.3 presenta una síntesi visual: agrupació, densitat i superposició.»
@@ -350,7 +350,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 21.4 — Branques i agrupacions aciculars
 
-- **Identificadors P1 d'origen:** 21.5.
+- **Identificadors P1 d'origen:** 21.5
 - **Ubicació editorial F10:** 21.5.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 21.5.
 - **Remissió textual proposada:** «La Figura 21.4 presenta una síntesi visual: branques i agrupacions aciculars.»
@@ -360,7 +360,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 21.5 — Tiges, fulles i gramínies
 
-- **Identificadors P1 d'origen:** 21.6.
+- **Identificadors P1 d'origen:** 21.6
 - **Ubicació editorial F10:** 21.6.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 21.6.
 - **Remissió textual proposada:** «La Figura 21.5 presenta una síntesi visual: tiges, fulles i gramínies.»
@@ -370,7 +370,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 21.6 — Formes de molsa
 
-- **Identificadors P1 d'origen:** 21.7.
+- **Identificadors P1 d'origen:** 21.7
 - **Ubicació editorial F10:** 21.7.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 21.7.
 - **Remissió textual proposada:** «La Figura 21.6 presenta una síntesi visual: formes de molsa.»
@@ -380,7 +380,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 21.7 — Formes de líquens
 
-- **Identificadors P1 d'origen:** 21.8.
+- **Identificadors P1 d'origen:** 21.8
 - **Ubicació editorial F10:** 21.8.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 21.8.
 - **Remissió textual proposada:** «La Figura 21.7 presenta una síntesi visual: formes de líquens.»
@@ -392,7 +392,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 22.1 — Gra del cuir
 
-- **Identificadors P1 d'origen:** 22.1.
+- **Identificadors P1 d'origen:** 22.1
 - **Ubicació editorial F10:** 22.1–22.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 22.1–22.2.
 - **Remissió textual proposada:** «La Figura 22.1 presenta una síntesi visual: gra del cuir.»
@@ -402,7 +402,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 22.2 — Cuir natural, corregit, ante i nobuk, amb detall comparatiu
 
-- **Identificadors P1 d'origen:** 22.2, 22.5.
+- **Identificadors P1 d'origen:** 22.2, 22.5
 - **Ubicació editorial F10:** 22.2, amb ampliació específica de l'ante i el nobuk; remissió a 22.6 quan calgui.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 22.2. Integra 22.5; des de l'apartat 22.6 cal remetre al detall d'ante i nobuk.
 - **Remissió textual proposada:** «La Figura 22.2 presenta una síntesi visual: cuir natural, corregit, ante i nobuk, amb detall comparatiu.»
@@ -413,7 +413,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 22.3 — Construcció de cuir natural
 
-- **Identificadors P1 d'origen:** 22.4.
+- **Identificadors P1 d'origen:** 22.4
 - **Ubicació editorial F10:** 22.4.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 22.4.
 - **Remissió textual proposada:** «La Figura 22.3 presenta una síntesi visual: construcció de cuir natural.»
@@ -423,7 +423,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 22.4 — Plecs i deformacions
 
-- **Identificadors P1 d'origen:** 22.6.
+- **Identificadors P1 d'origen:** 22.6
 - **Ubicació editorial F10:** 22.9.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 22.9.
 - **Remissió textual proposada:** «La Figura 22.4 presenta una síntesi visual: plecs i deformacions.»
@@ -433,7 +433,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 22.5 — Cantells, gruix i costures
 
-- **Identificadors P1 d'origen:** 22.7.
+- **Identificadors P1 d'origen:** 22.7
 - **Ubicació editorial F10:** 22.9.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 22.9.
 - **Remissió textual proposada:** «La Figura 22.5 presenta una síntesi visual: cantells, gruix i costures.»
@@ -443,7 +443,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 22.6 — Errors freqüents
 
-- **Identificadors P1 d'origen:** 22.9.
+- **Identificadors P1 d'origen:** 22.9
 - **Ubicació editorial F10:** apartat de control i errors del C22.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 22.10.1.
 - **Remissió textual proposada:** «La Figura 22.6 presenta una síntesi visual: errors freqüents.»
@@ -455,7 +455,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 23.1 — Tafetà, sarja i setí
 
-- **Identificadors P1 d'origen:** 23.1.
+- **Identificadors P1 d'origen:** 23.1
 - **Ubicació editorial F10:** 23.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 23.2.
 - **Remissió textual proposada:** «La Figura 23.1 presenta una síntesi visual: tafetà, sarja i setí.»
@@ -465,7 +465,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 23.2 — Famílies de teixits
 
-- **Identificadors P1 d'origen:** 23.2.
+- **Identificadors P1 d'origen:** 23.2
 - **Ubicació editorial F10:** 23.1–23.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 23.1–23.2.
 - **Remissió textual proposada:** «La Figura 23.2 presenta una síntesi visual: famílies de teixits.»
@@ -475,7 +475,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 23.3 — Construcció cromàtica de teixits clars
 
-- **Identificadors P1 d'origen:** 23.3.
+- **Identificadors P1 d'origen:** 23.3
 - **Ubicació editorial F10:** 23.4.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 23.4.
 - **Remissió textual proposada:** «La Figura 23.3 presenta una síntesi visual: construcció cromàtica de teixits clars.»
@@ -485,7 +485,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 23.4 — Teixits gruixuts i de pèl
 
-- **Identificadors P1 d'origen:** 23.5.
+- **Identificadors P1 d'origen:** 23.5
 - **Ubicació editorial F10:** 23.5.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 23.5–23.7.
 - **Remissió textual proposada:** «La Figura 23.4 presenta una síntesi visual: teixits gruixuts i de pèl.»
@@ -495,7 +495,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 23.5 — Plecs i punts de tensió
 
-- **Identificadors P1 d'origen:** 23.6.
+- **Identificadors P1 d'origen:** 23.6
 - **Ubicació editorial F10:** 23.9.1–23.9.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 23.9.1–23.9.2.
 - **Remissió textual proposada:** «La Figura 23.5 presenta una síntesi visual: plecs i punts de tensió.»
@@ -505,7 +505,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 23.6 — Errors freqüents
 
-- **Identificadors P1 d'origen:** 23.8.
+- **Identificadors P1 d'origen:** 23.8
 - **Ubicació editorial F10:** 23.9.4.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 23.9.4.
 - **Remissió textual proposada:** «La Figura 23.6 presenta una síntesi visual: errors freqüents.»
@@ -517,7 +517,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 24.1 — Pigmentacions clares, intermèdies i profundes
 
-- **Identificadors P1 d'origen:** 24.2.
+- **Identificadors P1 d'origen:** 24.2
 - **Ubicació editorial F10:** 24.2 i 24.4–24.5.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 24.2.
 - **Remissió textual proposada:** «La Figura 24.1 presenta una síntesi visual: pigmentacions clares, intermèdies i profundes.»
@@ -527,7 +527,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 24.2 — Mapa cromàtic del rostre
 
-- **Identificadors P1 d'origen:** 24.3.
+- **Identificadors P1 d'origen:** 24.3
 - **Ubicació editorial F10:** 24.7.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 24.7.
 - **Remissió textual proposada:** «La Figura 24.2 presenta una síntesi visual: mapa cromàtic del rostre.»
@@ -537,7 +537,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 24.3 — Construcció de pell clara
 
-- **Identificadors P1 d'origen:** 24.4.
+- **Identificadors P1 d'origen:** 24.4
 - **Ubicació editorial F10:** 24.4.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 24.4.
 - **Remissió textual proposada:** «La Figura 24.3 presenta una síntesi visual: construcció de pell clara.»
@@ -547,7 +547,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 24.4 — Construcció de pell profunda
 
-- **Identificadors P1 d'origen:** 24.5.
+- **Identificadors P1 d'origen:** 24.5
 - **Ubicació editorial F10:** 24.5.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 24.5.
 - **Remissió textual proposada:** «La Figura 24.4 presenta una síntesi visual: construcció de pell profunda.»
@@ -557,7 +557,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 24.5 — Masses musculars i diferenciació dels teixits orgànics
 
-- **Identificadors P1 d'origen:** 24.7, 24.8.
+- **Identificadors P1 d'origen:** 24.7, 24.8
 - **Ubicació editorial F10:** 24.8.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 24.8. Integra 24.8; preservar la diferenciació entre múscul, teixit adipós i teixit connectiu.
 - **Remissió textual proposada:** «La Figura 24.5 presenta una síntesi visual: masses musculars i diferenciació dels teixits orgànics.»
@@ -568,7 +568,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 24.6 — Errors freqüents
 
-- **Identificadors P1 d'origen:** 24.9.
+- **Identificadors P1 d'origen:** 24.9
 - **Ubicació editorial F10:** 24.9.3.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 24.9.3.
 - **Remissió textual proposada:** «La Figura 24.6 presenta una síntesi visual: errors freqüents.»

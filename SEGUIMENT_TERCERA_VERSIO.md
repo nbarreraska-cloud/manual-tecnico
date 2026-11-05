@@ -190,11 +190,11 @@ La branca `main` no forma part d'aquesta intervenció.
 
 ### Precisió de l'abast i estructura documental
 
-S'ha comprovat l'arbre real de la branca de treball. La segona síntesi conté 39 fitxers Markdown, distribuïts en dues carpetes:
+La segona síntesi font consta de **dos fitxers** i conté exclusivament els 39 capítols del manual. En aquesta branca de treball, per facilitar el control individual i la traçabilitat, els 39 capítols estan desplegats en 39 fitxers Markdown:
 - `segunda_sintesis/`: capítols 01–11.
 - `segunda_sintesi/`: capítols 12–39.
 
-La primera versió amb l'estructura completa es conserva separadament en HTML. La revisió de la tercera versió continua limitada als 39 fitxers Markdown. No s'ha modificat l'HTML.
+Aquests 39 Markdown són la representació operativa dels continguts de la segona síntesi i el suport de la tercera versió; no són els dos fitxers font originals de la segona síntesi. La primera versió amb l'estructura completa es conserva separadament en HTML. La revisió actual s'aplica als continguts dels 39 capítols en la seva representació Markdown. No s'ha modificat l'HTML.
 
 ### Fases i situació actual
 
@@ -596,4 +596,34 @@ S'ha comprovat l'arbre recursiu de la branca: hi ha **39 fitxers Markdown de cap
 - 11 fitxers a segunda_sintesis/ (capítols 01–11).
 - 28 fitxers a segunda_sintesi/ (capítols 12–39).
 
-La branca intervencion-editorial-2026-11 continua 181 commits per davant de main i 0 per darrere en el moment de la comprovació. main no s'ha modificat. Els fitxers REGISTRE_MESTRE_RECUPERACIONS.md i SEGUIMENT_TERCERA_VERSIO.md es mantenen a l'arrel com a documents de control.
+En la comprovació prèvia a aquesta actualització, la branca intervencion-editorial-2026-11 estava 182 commits per davant de main i 0 per darrere. Aquesta actualització documental s'afegeix com un únic commit a la branca de treball. main no s'ha modificat. Els fitxers REGISTRE_MESTRE_RECUPERACIONS.md i SEGUIMENT_TERCERA_VERSIO.md es mantenen a l'arrel com a documents de control.
+
+
+---
+
+## Rectificació de continuïtat i estat vigent — 05/11/2026
+
+### Distinció documental corregida
+
+La segona síntesi de referència està formada per **dos fitxers** que contenen exclusivament els 39 capítols. Els 39 fitxers Markdown que hi ha a la branca de treball són el desglossament operatiu, capítol per capítol, utilitzat per aplicar i traçar la tercera versió. Les dues fonts de la segona síntesi i els 39 Markdown de treball no són el mateix conjunt de fitxers. La primera versió amb estructura completa continua separada en HTML.
+
+### Fases
+
+- **F0 — preservació i traçabilitat:** completada.
+- **F1 — auditoria comparativa dels 39 capítols:** completada (39/39).
+- **F2 — Registre Mestre:** consolidat fins a la versió 1.7; es manté la conciliació fina de la traçabilitat.
+- **F3 — aplicació de les recuperacions identificades:** completada per a les accions RT/RD/AE de la matriu; no equival a validació.
+- **F4 — validació tècnica, semàntica i estructural:** en curs.
+- **F5 — annexos A–E; F6 — coherència global; F7 — gràfica i maquetació:** pendents i en l'ordre acordat.
+
+### Estat de F4
+
+La comprovació estructural inicial cobreix 29 fitxers Markdown intervinguts (capítols 3–19, 25–34, 36 i 38). No s'hi van detectar encapçalaments duplicats, numeracions de secció duplicades ni encapçalaments buits. Els salts de línia literals detectats als capítols 28 i 29 es van corregir.
+
+La primera comprovació semàntica de C28–C29 ha contrastat els procediments de les receptes i els materials dels exercicis amb l'original, i ha restituït codis de pintura que faltaven. **Aquesta comprovació és parcial:** no tanca encara la validació de totes les explicacions tècniques, els criteris de correcció, les referències ni les delimitacions. Els dos capítols continuen oberts a F4.
+
+La continuïtat de F4 ha de prioritzar el tancament de C28–C29 i, després, C38 i C11–C13. Cal preservar els límits de font documentats per a C14, C15, C16 i C18. Els capítols classificats SC no s'han de reobrir sense una incidència substancial.
+
+### Estat de GitHub
+
+La branca de treball continua sent `intervencion-editorial-2026-11`. La comparació prèvia a aquest commit indicava 182 commits per davant de `main` i cap per darrere. Aquesta rectificació s'ha guardat en un únic commit a la branca de treball. `main` i els fitxers HTML de la primera versió no s'han modificat.

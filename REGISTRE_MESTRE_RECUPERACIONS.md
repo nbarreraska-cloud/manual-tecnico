@@ -1,17 +1,17 @@
 # REGISTRE MESTRE DE RECUPERACIONS EDITORIALS
 **Manual tècnic de pintura de miniatures**  
-**Versió:** 1.6 · **Data:** 05/11/2026  
+**Versió:** 1.7 · **Data:** 05/11/2026  
 **Branca:** intervencion-editorial-2026-11
 
 ## 1. Funció i abast
 
 Aquest registre és el document operatiu únic per controlar les recuperacions detectades en l'auditoria comparativa dels 39 capítols de la segona síntesi. No substitueix els capítols, les fonts ni el document de seguiment: relaciona diagnòstic, decisió editorial, prioritat, aplicació i validació.
 
-La primera versió és el document amb l'estructura completa sintetitzada, conservat al repositori com a HTML. La segona síntesi és el conjunt dels 39 capítols Markdown, distribuïts actualment en dues carpetes del repositori:
+La primera versió és el document amb l'estructura completa sintetitzada, conservat al repositori com a HTML. La segona síntesi font consta de **dos fitxers** i conté exclusivament els 39 capítols del manual, sense els annexos. Per facilitar el treball i la traçabilitat per capítol, aquesta branca desplega el contingut en **39 fitxers Markdown individuals**, distribuïts en dues carpetes:
 - segunda_sintesis/: capítols 01–11.
 - segunda_sintesi/: capítols 12–39.
 
-La tercera versió és el resultat de les intervencions sobre aquests 39 Markdown. L'HTML de la primera versió queda fora d'aquest flux i no s'hi ha d'intervenir durant aquesta fase.
+Aquests 39 Markdown són la representació operativa de treball sobre els continguts de la segona síntesi i el suport de la tercera versió; no s'han de confondre amb els dos fitxers font de la segona síntesi. La tercera versió és el resultat de les intervencions aplicades a aquesta representació per capítol. L'HTML de la primera versió queda fora d'aquest flux i no s'hi ha d'intervenir durant aquesta fase.
 
 ## 2. Fases generals i estat
 
@@ -144,7 +144,7 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 6–13 | Recuperacions/ampliacions aplicades i documentades en commits individuals; fer validació global sense repetir diagnòstics ja tancats. |
 | 14–18 | Ampliacions aplicades i documentades. C14, C15, C16 i C18 tenen límits de font: no s'ha localitzat un original complet; les ampliacions es basen en la consolidació disponible de la primera versió i els acords recuperats. |
 | 19 | Recuperació de contingut metàl·lic i criteris de formulació aplicada; les receptes són propostes si no hi ha assaig documentat. |
-| 20–24, 35, 37, 39 | Capítols presents a la segona síntesi i auditats comparativament. Les accions RT/RD/AE de la matriu encara s'han de conciliar amb el registre de commits i executar segons prioritat; SC es protegeix de canvis innecessaris. |
+| 20–24, 35, 37, 39 | Capítols auditats i classificats com a SC. No hi ha recuperacions RT/RD pendents identificades per executar en aquests capítols; es mantenen protegits de canvis innecessaris. La seva coherència es comprovarà transversalment a F4/F6 quan afecti referències o límits amb altres capítols. |
 | 28 | Recuperació tècnica aplicada el 05/11/2026: desenvolupament dels procediments per a A–K, ampliació de controls i correccions, recuperació dels sis exercicis amb objectius/materials/procediment/avaluació i síntesi del capítol. Primera comprovació estructural superada; validació semàntica i coteig final pendents. |
 | 29 | Recuperació tècnica aplicada el 05/11/2026: desenvolupament dels procediments de les 17 receptes A–Q, adaptació a geometries i escales, controls i correccions, recuperació dels sis exercicis complets, síntesi i enllaços de referència. Primera comprovació estructural superada; validació semàntica i coteig final pendents. |
 | 25 | Recuperació didàctica/editorial aplicada el 05/11/2026: sis exercicis amb objectiu, materials, procediment i avaluació; recuperació de la síntesi; incorporació de dues referències absents i restauració de l'enllaç BHS; ampliació de dos errors i del criteri de selecció cromàtica. Primera comprovació estructural superada; validació semàntica i coteig final pendents. |
@@ -173,13 +173,13 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 
 ## 8. Properes actuacions operatives
 
-1. Conciliar aquest registre amb l'historial real de commits i el document SEGUIMENT_TERCERA_VERSIO.md; corregir qualsevol estat desfasat.
-2. Completar les intervencions RT/RD/AE pendents en ordre de prioritat, sense tornar a auditar des de zero els capítols SC.
-3. Després de cada bloc d'intervenció, executar comprovacions estructurals i de contingut proporcionades i registrar per separat aplicació i validació.
-4. C28 i C29 aplicats: mantenir pendent la validació completa abans de marcar-los com a tancats.
-5. Continuar amb la recuperació complementària de prioritat baixa del capítol 36 i els ajustos AE identificats, sense reobrir els capítols SC.
-6. Després d'estabilitzar els 39 capítols, abordar annexos, referències globals i fase gràfica.
-7. Mantenir la branca intervencion-editorial-2026-11; no modificar main.
+1. Completar la conciliació fina de la traçabilitat entre la matriu, els fitxers Markdown, els commits i el document de seguiment.
+2. Continuar F4: validar semànticament i tècnicament els 29 capítols Markdown intervinguts, sense repetir l'auditoria F1 ni reobrir els capítols SC sense una incidència substancial.
+3. Prioritzar el tancament del coteig de C28–C29 (la comprovació actual només cobreix procediments de receptes i materials dels exercicis) i continuar després amb els capítols d'alta prioritat C38 i C11–C13.
+4. Comprovar, per a cada capítol, la fidelitat a la font disponible, la conservació de receptes i ingredients, la seqüència dels procediments, els exercicis, la numeració, les referències i les delimitacions.
+5. Mantenir explícits els límits documentals de C14, C15, C16 i C18: no atribuir al document original complet continguts que s'han ampliat a partir de la primera versió o d'acords recuperats.
+6. Després d'estabilitzar els 39 capítols, abordar els annexos A–E, la coherència global, les referències creuades i la fase gràfica.
+7. Mantenir la branca intervencion-editorial-2026-11; no modificar main ni intervenir en l'HTML de la primera versió durant aquesta fase.
 
 ## 9. Historial del registre
 
@@ -192,5 +192,6 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 1.4 | 05/11/2026 | Registre de la recuperació del capítol 3 (vuit errors i síntesi operativa de vuit passos), actualització de la fase F3 i precisió dels estats d'aplicació/validació dels capítols 36 i 38. |
 | 1.5 | 05/11/2026 | F3 completada per a les accions identificades; inici de F4; comprovació estructural dels 29 Markdown intervinguts i correcció dels salts de línia literals als capítols 28 i 29. |
 | 1.6 | 05/11/2026 | Primera comprovació semàntica dels capítols 28–29: procediments de receptes i materials dels exercicis cotejats amb l'original; codis de pintura restituïts a les llistes. F4 continua oberta. |
+| 1.7 | 05/11/2026 | Precisió de la relació entre les dues fonts de la segona síntesi i els 39 fitxers Markdown de treball; correcció de l'estat dels capítols SC i de les properes actuacions, que passen a centrar-se en F4. |
 
 Aquest registre és una consolidació operativa basada en l'auditoria i els resultats recuperats del projecte. Els punts marcats com a pendents o no validats s'han de comprovar amb el fitxer real i la font corresponent abans de declarar-los tancats.

@@ -830,3 +830,23 @@ Després d'actualitzar les fitxes per reflectir les sis integracions, s'ha repet
 La comprovació confirma que les sis integracions no han eliminat ni duplicat cap identificador P1 i que les ubicacions citades existeixen com a apartats o subapartats de la tercera síntesi. És una verificació estructural, no una aprovació de la qualitat gràfica ni de la remissió textual exacta.
 
 **Integritat de branques:** la branca de treball continua sent `intervencion-editorial-2026-11`; `main` es manté a `a4ce8192e30178b0171ea02a3af230b60efd3768`. No s'ha fet merge ni s'ha modificat cap capítol.
+
+
+## 25. Matriu d'evidències i remissions — 05/11/2026
+
+S'ha creat `annexos/matriu_evidencies_i_remissions_F10.md` per establir tres nivells de representació:
+- **E0:** esquema conceptual o comparació explicativa.
+- **E1:** seqüència tècnica o recepta proposada no assajada, sempre identificada com a proposta.
+- **E2:** resultat físic o comportament atribuït a un producte concret, que requereix mostra, fotografia o registre de prova documentat.
+
+S'hi identifiquen les composicions que necessiten evidència física si es volen presentar com a resultats reals: 3.1, 3.2, 7.6, 11.6, 38.8 i 39.7. També s'hi enumeren les seqüències E1 de receptes no assajades i les alternatives conceptuals admissibles quan no hi ha proves.
+
+### Remissions
+
+La cerca a la tercera síntesi no ha trobat cap referència textual explícita als 156 identificadors P1. Això és coherent amb el fet que les figures encara no s'han integrat. Les remissions definitives s'hauran d'afegir a F11, un cop establertes les composicions, les llegendes i la numeració editorial.
+
+### Actius gràfics
+
+L'arbre de fitxers de la branca no conté imatges independents de mostres físiques (PNG, JPEG, WebP, TIFF o SVG). Això no exclou que existeixin fora del repositori; simplement no n'hi ha cap de documentada a la branca actual. Les figures E2 s'han de mantenir com a esquemes conceptuals fins que hi hagi evidència real.
+
+No s'ha generat ni inserit cap imatge ni s'ha modificat cap capítol. F10 continua oberta.

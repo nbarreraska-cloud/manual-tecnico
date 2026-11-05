@@ -1004,3 +1004,8 @@ Revisat C17 contra el contingut consolidat disponible; no s'ha recuperat un orig
 ### F4 — revisió limitada i recuperació gràfica de C18 (05/11/2026)
 
 Revisat C18 contra el contingut consolidat disponible; no s'ha recuperat un original complet. Es mantenen els deu apartats, sis exercicis, les eines de planificació/avaluació i la remissió conciliada a C35–C38. S'ha recuperat la proposta gràfica omesa del mapa del procés integral, que relaciona anàlisi, planificació, selecció, execució, control i avaluació. El capítol conserva ara nou propostes de figures. La compilació C1–C39 s'ha sincronitzat i verificat. No equival a coteig integral amb l'original ni a validació experimental.
+
+
+### F4 — coteig documental complet i recuperacions de C20 (05/11/2026)
+
+Cotejat C20 amb el document original. Es mantenen les nou receptes A–I i els codis de les deu pintures de la paleta, sense inventar proporcions ni atribuir assaigs. S'han recuperat les seqüències de G–I, els procediments de vetes, nusos i anells, l'adaptació a escala i geometria, els deu errors amb diagnòstic i correcció, els sis exercicis amb desenvolupament i avaluació, i les tres referències bibliogràfiques que faltaven. Les nou figures originals es conserven. C20 i la compilació C1–C39 s'han sincronitzat i verificat. Les receptes continuen sent propostes no assajades.

@@ -59,13 +59,13 @@ Les receptes concretes per a acer, plata, or, coure i bronze es desenvolupen al 
 
 ## 16.5. Procediment general de construcció del NMM
 
-### 16.6.1. Preparació de la superfície
+### 16.5.1. Preparació de la superfície
 
 Abans de començar convé comprovar que la superfície està preparada per rebre les aplicacions pictòriques. La geometria ha d'estar identificada i la zona de treball ha de permetre distingir els principals plans i detalls.
 
 La preparació material de la miniatura i de les pintures correspon al capítol 7. La capa base i la construcció progressiva del color es desenvolupen al capítol 8. En aquest capítol es parteix d'una superfície preparada i el procediment se centra en l'organització visual de l'efecte metàl·lic.
 
-### 16.4.2. Establiment de la base cromàtica
+### 16.6.2. Establiment de la base cromàtica
 
 La primera aplicació ha de proporcionar una referència cromàtica adequada per desenvolupar les zones fosques, intermèdies i clares. La selecció depèn de la família cromàtica i del patró de reflexos previst.
 
@@ -73,7 +73,7 @@ Es pot utilitzar una base relativament fosca quan es pretén construir una super
 
 La decisió ha de respondre al procediment escollit i a les característiques de la superfície.
 
-### 16.4.3. Construcció de les regions fosques
+### 16.6.3. Construcció de les regions fosques
 
 Les regions fosques permeten establir part de l'estructura reflectant. La seva distribució ha de respondre al patró de reflexos i a la geometria de la peça.
 
@@ -81,7 +81,7 @@ Es poden utilitzar per separar zones de reflex, reforçar canvis de pla, suggeri
 
 No totes les zones fosques han d'assolir el mateix valor. Convé establir una jerarquia entre ombres generals i accents de màxima foscor. Una distribució excessivament uniforme pot fer que la superfície perdi profunditat.
 
-### 16.4.4. Construcció de les regions intermèdies
+### 16.6.4. Construcció de les regions intermèdies
 
 Les regions intermèdies permeten relacionar les zones fosques amb els reflexos clars.
 
@@ -91,7 +91,7 @@ La distribució dependrà de la geometria i del patró escollit. En superfícies
 
 Els procediments concrets de degradat i transició corresponen al capítol 9. En el NMM s'apliquen amb la finalitat específica d'integrar les relacions tonals d'una superfície metàl·lica.
 
-### 16.4.5. Construcció dels reflexos clars
+### 16.6.5. Construcció dels reflexos clars
 
 Els reflexos clars constitueixen una part fonamental de l'aparença metàl·lica. La seva posició ha de respondre a l'esquema definit prèviament.
 
@@ -99,7 +99,7 @@ Es poden representar mitjançant franges estretes, àrees allargades, zones loca
 
 La forma del reflex s'ha d'adaptar a la geometria. Una franja aplicada sense considerar l'orientació de la peça pot trencar la lectura del volum. Per contra, una distribució coherent pot reforçar la forma fins i tot mitjançant pocs traços.
 
-### 16.4.6. Aplicació dels accents màxims
+### 16.6.6. Aplicació dels accents màxims
 
 Els accents de màxima claredat i foscor s'utilitzen per reforçar determinades zones del patró. No s'han de distribuir indiscriminadament.
 
@@ -107,7 +107,7 @@ Els reflexos més clars poden reservar-se per a punts concrets on es pretén sug
 
 La quantitat i l'extensió d'aquests accents dependran de l'escala, la geometria i la intenció visual. Una superfície no necessita presentar reflexos blancs o gairebé blancs a totes les zones per resultar metàl·lica.
 
-### 16.4.7. Integració de la superfície
+### 16.6.7. Integració de la superfície
 
 Un cop establertes les principals regions tonals, convé revisar-ne la relació.
 
@@ -125,7 +125,7 @@ En una placa d'armadura, per exemple, poden diferenciar-se diversos plans mitjan
 
 És important evitar que les regions tonals es distribueixin com a taques arbitràries. La seva posició ha de reforçar la lectura dels plans i dels seus límits.
 
-### 16.5.2. Superfícies corbes
+### 16.6.2. Superfícies corbes
 
 Les superfícies corbes presenten canvis continus d'orientació. Per això, la distribució dels reflexos pot requerir transicions més progressives que en una superfície plana.
 
@@ -133,7 +133,7 @@ En peces cilíndriques o arrodonides, les bandes de reflex poden adaptar-se a la
 
 No s'ha de suposar que tota superfície corba necessita una franja central clara i dues laterals fosques. Aquesta és una simplificació possible, no una regla universal. La distribució ha de respondre al patró d'il·luminació i al volum representat.
 
-### 16.5.3. Superfícies esfèriques
+### 16.6.3. Superfícies esfèriques
 
 Les formes esfèriques presenten una geometria contínua en diferents direccions.
 
@@ -141,15 +141,15 @@ La representació pot utilitzar zones de reflex localitzades, àrees intermèdie
 
 En miniatures petites pot ser necessari simplificar el patró per evitar que massa regions competeixin entre si.
 
-### 16.5.4. Fulles, filos i superfícies allargades
+### 16.6.4. Fulles, filos i superfícies allargades
 
-Les fulles d'espasa, les cuchilles i altres superfícies allargades requereixen una planificació que tingui en compte l'eix longitudinal i la disposició de les cares.
+Les fulles d'espasa, els ganivets i altres superfícies allargades requereixen una planificació que tingui en compte l'eix longitudinal i la disposició de les cares.
 
 Els reflexos es poden organitzar mitjançant bandes longitudinals, canvis entre cares i accents pròxims al tall. La distribució ha de conservar la lectura de la forma i no convertir tota la peça en una successió de línies decoratives.
 
 El tall es pot destacar mitjançant un accent específic, però el seu tractament s'ha de diferenciar del patró general dels reflexos.
 
-### 16.5.5. Superfícies facetades i geometries complexes
+### 16.6.5. Superfícies facetades i geometries complexes
 
 Les superfícies facetades presenten canvis definits d'orientació. En aquests casos, la distribució tonal es pot organitzar mitjançant regions diferenciades que reforcin cada pla.
 
@@ -157,7 +157,7 @@ Les peces amb geometries complexes poden requerir una combinació de transicions
 
 La simplificació és especialment important. Intentar representar tots els canvis d'orientació pot generar una distribució excessivament fragmentada. Convé seleccionar els plans principals i establir una jerarquia entre ells.
 
-### 16.5.6. Adaptació a l'escala de la miniatura
+### 16.6.6. Adaptació a l'escala de la miniatura
 
 L'escala condiciona la quantitat d'informació que es pot representar.
 

@@ -279,19 +279,3 @@ El treball pot donar-se per finalitzat quan la ceràmica, la porcellana o la sup
 - Acrylicos Vallejo. Tutorials de modelisme.
 
 Les fonts tècniques fonamenten diferències generals entre cossos ceràmics, esmalts, porcellana i plàstics i la diversitat d'acabats. No validen les receptes cromàtiques proposades amb les pintures Squidmar × Vallejo, que continuen pendents de comprovació física.
-
-## Control editorial i límits de verificació
-
-- El capítol utilitza com a univers cromàtic de referència les 48 pintures dels quatre sets Squidmar × Vallejo.
-- Les receptes A–M són propostes cromàtiques, no mescles experimentades ni resultats comprovats.
-- No s'atribueixen propietats individuals no verificades a les pintures.
-- Es diferencia el cos ceràmic de l'esmalt superficial.
-- Es distingeix l'esmalt ceràmic, format mitjançant cocció, dels vernissos i acabats pictòrics aplicats sobre una miniatura.
-- La porcellana no s'identifica exclusivament pel color blanc o per un acabat brillant.
-- Els plàstics es tracten com una família àmplia de materials, sense atribuir-los una aparença única.
-- Es diferencia el craquelat superficial de l'esmalt de les fractures estructurals del cos ceràmic.
-- La selecció i aplicació de vernissos es reserva al capítol 37.
-- La representació del vidre i de les superfícies transparents o translúcides es reserva al capítol 34.
-- Els fonaments generals d'il·luminació, reflexos, color i comportament dels materials es desenvolupen als capítols 4, 5 i 6.
-- La brutícia i els dipòsits ambientals es remeten al capítol 29; el desgast i la transformació general, al capítol 36.
-- No s'han realitzat proves físiques ni es presenten resultats experimentals com a comprovats.

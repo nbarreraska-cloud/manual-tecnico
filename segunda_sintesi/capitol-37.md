@@ -165,22 +165,3 @@ No s'ha d'aplicar un acabat uniforme per defecte ni utilitzar la brillantor com 
 - Capítol 38: protecció, envernissament i conservació.
 
 Els catàlegs identifiquen productes i característiques declarades; no són proves comparatives independents ni garanteixen resultats idèntics sobre qualsevol superfície. Els exercicis són propostes didàctiques, no assajos propis realitzats.
-
-## Control editorial i límits de verificació
-
-- El capítol desenvolupa els fonaments dels acabats superficials i el control visual de la brillantor.
-- Es diferencien els acabats mate, setinat, brillant i els graus intermedis.
-- Es distingeix la reflexió especular de la reflexió més difusa.
-- S'evita equiparar una superfície mate amb l'absència de reflexió.
-- Es diferencia el color de l'acabat superficial.
-- Es consideren la il·luminació, l'orientació, la geometria, la textura, el producte i les condicions d'observació.
-- Es desenvolupa la selecció de l'acabat segons materials i efectes, sense establir associacions universals.
-- S'incorpora el control selectiu de la brillantor i la seva relació amb la jerarquia visual.
-- Es diferencia l'aparença superficial de la funció protectora dels productes.
-- El capítol 38 conserva el desenvolupament de protecció, envernissament i conservació.
-- Els capítols 5 i 15 mantenen el desenvolupament de la il·luminació i la construcció de valors.
-- El capítol 6 conserva els fonaments generals del comportament visual dels materials.
-- S'inclouen sis exercicis pràctics.
-- Les referències del fabricant s'utilitzen per identificar productes i característiques declarades, no com a resultats experimentals independents.
-- No s'han realitzat proves físiques ni es presenten resultats experimentals com a comprovats.
-- No s'han generat ni inserit imatges.

@@ -169,21 +169,3 @@ La harmonització pot considerar-se finalitzada quan la miniatura funciona crom�
 - Fleming, R. W. (2017). “Material Perception”. *Annual Review of Vision Science*, 3, 365–388. DOI: 10.1146/annurev-vision-102016-061429.
 
 Les fonts fonamenten percepció cromàtica, organització del color i aparença dels materials. No constitueixen validació experimental dels procediments pictòrics particulars.
-
-## Control editorial i límits de verificació
-
-- El capítol aborda l'harmonització cromàtica global i la integració ambiental de miniatures.
-- No repeteix la teoria general del color del capítol 4.
-- No substitueix la planificació d'il·luminació i valors del capítol 15.
-- No desenvolupa tècniques d'aplicació ja explicades als capítols 8–17.
-- No substitueix les receptes específiques de materials i efectes dels capítols 19–34.
-- Es diferencia l'harmonització cromàtica de la uniformitat cromàtica.
-- Es diferencia la integració de materials de la pèrdua d'identitat material.
-- Es distingeix la relació entre figura i peanya de la representació específica dels materials de l'entorn.
-- Es manté la separació respecte de l'envelliment i la transformació de superfícies del capítol 36.
-- Els procediments d'envernissament i control d'acabats es reserven al capítol 37.
-- La protecció i conservació corresponen al capítol 38.
-- El diagnòstic sistemàtic i els procediments generals de correcció corresponen al capítol 39.
-- No s'estableixen receptes, proporcions ni filtres cromàtics universals.
-- Les recomanacions es presenten com a criteris d'anàlisi i propostes d'intervenció, no com a resultats experimentals.
-- No s'han realitzat proves físiques ni es presenten resultats experimentals com a comprovats.

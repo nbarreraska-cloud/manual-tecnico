@@ -4,8 +4,9 @@
 
 Data de separació: 2026-11-05
 Origen: branca intervencion-editorial-2026-11
-Capítols amb propostes identificades: 1, 2, 3, 33, 34, 35 i 37.
-Total de figures: 50 (C1: 2; C2: 2; C3: 6; C33–C35 i C37: 10 cadascun).
+Propostes recuperades del Word original: 50 (C1: 2; C2: 2; C3: 6; C33: 10; C34: 10; C35: 10; C37: 10).
+Propostes addicionals elaborades durant la tercera síntesi: 90 (C15–C24).
+Total actual arxivat: 140 propostes. Inventari del Word original pendent de completar per a C4–C7, C11, C30–C32, C36, C38 i C39.
 
 ## segunda_sintesis/capitol-01.md
 

@@ -195,19 +195,3 @@ El treball pot donar-se per acabat quan l'objecte s'identifica com a vidre, la g
 - Miniatures of Death. “How to make a glass effect for miniatures” (22 d'agost de 2020).
 
 Els recursos del Corning Museum fonamenten la relació entre transmissió, reflexió, geometria i percepció de superfícies transparents. Sayim i Cavanagh tracten els senyals visuals de la transparència. El tutorial és una referència pràctica, no una validació científica de les receptes. Les fonts no validen les combinacions cromàtiques Squidmar × Vallejo, que continuen sent propostes pendents de comprovació física.
-
-## Control editorial i límits de verificació
-
-- El capítol utilitza com a univers cromàtic de referència les 48 pintures dels quatre sets Squidmar × Vallejo.
-- Les receptes A–H són propostes tècniques, no mescles experimentades ni resultats comprovats.
-- Es diferencia la transparència del material de la transparència d'una pintura.
-- Es distingeix el vidre transparent del vidre acolorit i del vidre esmerilat o tractat.
-- Es considera la relació entre transmissió, reflexió, geometria, gruix i distorsió sense repetir els fonaments dels capítols 5 i 6.
-- Els fonaments generals de transparència, translucidesa i els procediments de representació es remeten al capítol 14.
-- Els procediments específics de cristalls, gel, neu i gemmes es reserven al capítol 27.
-- La construcció del contingut líquid dels recipients es remet al capítol 31.
-- Els efectes lluminosos i sobrenaturals es mantenen delimitats respecte dels capítols 17, 30 i 32.
-- La selecció i aplicació de vernissos i altres acabats superficials es reserva al capítol 37.
-- No s'atribueixen propietats individuals no verificades a les pintures utilitzades.
-- No s'estableixen proporcions universals, temps d'assecat ni formulacions experimentals.
-- No s'han realitzat proves físiques ni es presenten resultats experimentals com a comprovats.

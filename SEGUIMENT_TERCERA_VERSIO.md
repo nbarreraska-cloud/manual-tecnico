@@ -999,3 +999,8 @@ Revisat C16 contra el contingut consolidat disponible; no s'ha recuperat un orig
 ### F4 — revisió limitada de C17 (05/11/2026)
 
 Revisat C17 contra el contingut consolidat disponible; no s'ha recuperat un original complet. Es conserven els fonaments de l'OSL, la distinció entre font emissora, superfície il·luminada i reflex, la planificació espacial i cromàtica, el procediment, l'adaptació a geometries i materials, els controls, els dotze errors, els sis exercicis i les deu propostes de figures. No s'han detectat omissions substancials en aquests blocs i no s'ha modificat el capítol. La compilació conté exactament el fitxer vigent. No equival a coteig integral amb l'original ni a validació experimental.
+
+
+### F4 — revisió limitada i recuperació gràfica de C18 (05/11/2026)
+
+Revisat C18 contra el contingut consolidat disponible; no s'ha recuperat un original complet. Es mantenen els deu apartats, sis exercicis, les eines de planificació/avaluació i la remissió conciliada a C35–C38. S'ha recuperat la proposta gràfica omesa del mapa del procés integral, que relaciona anàlisi, planificació, selecció, execució, control i avaluació. El capítol conserva ara nou propostes de figures. La compilació C1–C39 s'ha sincronitzat i verificat. No equival a coteig integral amb l'original ni a validació experimental.

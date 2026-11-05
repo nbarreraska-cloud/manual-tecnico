@@ -28,12 +28,13 @@ La documentació oficial situa aquesta referència dins de Model Color. No s'ha 
 
 ## 4. Presència i funció dins del manual
 
-Les files següents són referències de taules dels capítols de receptes on apareixen conjuntament el nom i el codi d'aquesta pintura. S'hi reprodueix la funció consignada al manual; això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
+Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n reprodueix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
 
 - **Capítol 21:** `| Yellow Green | 70.954 | Verds groguencs |`
-- **Capítol 27:** `| Yellow Green | 70.954 | Tons verds groguencs |`
+- **Capítol 27:** `|- **Capítol 23:** `| Yellow Green | 70.954 | Verds groguencs |`
+ Yellow Green | 70.954 | Tons verds groguencs |`
 
-Capítols amb files de taula identificades: C21, C27.
+Capítols amb aparicions identificades: C21, C23, C27.
 
 ## 5. Aplicacions potencials i criteri d'ús
 
@@ -49,7 +50,6 @@ La selecció per a un procediment concret ha de considerar la superfície, el fo
 - **Caracterització tècnica individual:** incompleta quan no hi ha dades específiques del fabricant.
 - **Aplicacions del manual:** traçades a les files de taula indicades, sense atribuir validació experimental.
 - **Proves físiques pròpies:** no documentades en aquesta fitxa.
-- **Estat editorial:** fitxa regenerada documentalment el 05/11/2026; pendent d'ampliació si s'aporten fitxes tècniques individuals del fabricant o resultats de proves físiques.
 
 ## 7. Fonts
 

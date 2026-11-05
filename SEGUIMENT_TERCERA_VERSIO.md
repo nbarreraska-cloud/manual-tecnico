@@ -336,3 +336,30 @@ Comprovació inicial:
 ### Continuïtat immediata
 
 Continuar amb les recuperacions didàctiques de prioritat mitjana dels capítols 25–27 i 32. Els capítols 28–30 i 38 ja tenen intervencions aplicades, però encara no es consideren validats fins a completar el coteig semàntic i editorial.
+
+
+### Capítol 25 — ossos i estructures queratíniques (05/11/2026)
+
+S'ha recuperat el contingut didàctic del capítol 25 comparant la segona síntesi amb el text original.
+
+Intervenció aplicada:
+- Recuperats els sis exercicis amb objectiu, materials, procediment i avaluació.
+- Recuperada la síntesi conceptual.
+- Restaurades les dues referències opcionals que no apareixien a la segona síntesi (American Museum of Natural History i Oxford University Museum of Natural History) i l'enllaç de la British Horse Society que no s'havia conservat.
+- Reforçats dos errors freqüents que s'havien comprimit: transicions idèntiques en banyes i urpes, i representació de totes les superfícies com a llises.
+- Completat el criteri de selecció cromàtica amb el nivell de contrast necessari per mantenir la lectura.
+- Mantingudes les tretze receptes A–M i les seves combinacions; no s'han alterat ingredients ni s'han incorporat productes externs.
+- Les 10 propostes de figures originals no s'han inserit al capítol; queden reservades per a la fase MG.
+
+Comprovació inicial:
+- 13 receptes A–M presents.
+- 6 exercicis complets presents.
+- Síntesi i referències diferenciades.
+- Les vuit referències del text original queden representades, incloent-hi els enllaços recuperats.
+- Cap encapçalament duplicat detectat.
+
+**Estat:** recuperació aplicada; comprovació estructural inicial superada; validació semàntica i coteig complet pendents. Les receptes continuen sent propostes no assajades.
+
+### Continuïtat immediata
+
+Continuar amb les recuperacions didàctiques de prioritat mitjana dels capítols 26 i 27, sense modificar els capítols SC ni reobrir decisions ja tancades sense una incidència substancial.

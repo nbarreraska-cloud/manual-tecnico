@@ -2,7 +2,7 @@
 
 ## 39.1. Diagnosticar abans d'intervenir
 
-Durant la pintura poden aparèixer defectes d'aplicació, volum, materials, integració cromàtica i acabat, així com danys per manipulació, barnissat, transport i conservació. Corregir no consisteix simplement a cobrir amb una altra capa: cal identificar què passa, considerar causes possibles i valorar una actuació que resolgui el problema sense generar danys addicionals.
+Durant la pintura poden aparèixer defectes d'aplicació, volum, materials, integració cromàtica i acabat, així com danys per manipulació, envernissament, transport i conservació. Corregir no consisteix simplement a cobrir amb una altra capa: cal identificar què passa, considerar causes possibles i valorar una actuació que resolgui el problema sense generar danys addicionals.
 
 Cal distingir:
 - **Símptoma:** manifestació observable, com acumulació, marca de pinzell, transició irregular o pèrdua de definició.
@@ -17,7 +17,7 @@ Intervenir abans d'identificar l'origen pot ocultar el símptoma sense resoldre 
 
 ### 39.2.1. Aturar i observar
 
-Quan aparegui un problema, aturar temporalment pintura, barnís o altres productes. Observar:
+Quan aparegui un problema, aturar temporalment pintura, vernís o altres productes. Observar:
 - a distància normal, per valorar lectura general;
 - de prop, per localitzar irregularitats;
 - amb llum lateral, per detectar relleus i acumulacions;
@@ -131,14 +131,14 @@ No hi ha una correcció general aplicable indistintament a transparències, líq
 
 | Símptoma | Causes possibles | Orientació de correcció |
 |---|---|---|
-| Brillantor no desitjada | Selecció d'acabat o distribució irregular del barnís | Determinar si és problema d'aparença o d'aplicació. |
+| Brillantor no desitjada | Selecció d'acabat o distribució irregular del vernís | Determinar si és problema d'aparença o d'aplicació. |
 | Aspecte blanquinós o tèrbol | Alteració del producte, condicions o incompatibilitat | Aturar aplicacions i comprovar instruccions. |
-| Acumulacions de barnís | Excés o aplicació irregular | Avaluar estat de pel·lícula abans d'intervenir. |
+| Acumulacions de vernís | Excés o aplicació irregular | Avaluar estat de pel·lícula abans d'intervenir. |
 | Pèrdua de transparència | Alteració superficial o incompatibilitat | Identificar capes abans de cobrir. |
-| Efectes especials modificats després de barnissar | Interacció protector-material previ | Comprovar compatibilitat i valorar recuperació específica. |
+| Efectes especials modificats després de envernissar | Interacció protector-material previ | Comprovar compatibilitat i valorar recuperació específica. |
 | Superfície enganxosa o inestable | Assecat insuficient, aplicació incorrecta o incompatibilitat | No manipular ni afegir productes fins identificar causa. |
 
-Els defectes de barnissat exigeixen prudència: una nova capa pot empitjorar alteració, brillantor o definició.
+Els defectes de envernissament exigeixen prudència: una nova capa pot empitjorar alteració, brillantor o definició.
 
 ### 39.3.8. Danys físics i deteriorament posterior
 
@@ -232,7 +232,7 @@ Abans d'actuar, valorar si es poden perdre detalls, aixecar capes, alterar acaba
 
 ## 39.6. Compatibilitat, seguretat i límits
 
-La correcció pot combinar pintures, barnissos, netejadors, adhesius, abrasius i sistemes d'eliminació; no són intercanviables. La compatibilitat depèn de formulació concreta, suport, capes existents, assecat i condicions.
+La correcció pot combinar pintures, vernissos, netejadors, adhesius, abrasius i sistemes d'eliminació; no són intercanviables. La compatibilitat depèn de formulació concreta, suport, capes existents, assecat i condicions.
 
 Precaucions:
 - consultar instruccions del fabricant abans d'aplicar productes;
@@ -265,7 +265,7 @@ El registre pot incloure:
 |---|---|
 | Zona afectada | Localització del problema. |
 | Símptoma | Descripció objectiva. |
-| Productes implicats | Pintures, medis, barnissos i altres productes. |
+| Productes implicats | Pintures, medis, vernissos i altres productes. |
 | Condicions | Eina, aplicació i estat d'assecat. |
 | Causa probable | Explicació provisional. |
 | Intervenció | Procediment aplicat o decisió de no intervenir. |
@@ -335,7 +335,7 @@ La decisió més adequada no sempre és corregir: pot ser suficient integrar una
 ## 39.11. Referències i recursos de consulta
 
 Per resoldre problemes concrets, consultar prioritàriament:
-- instruccions d'ús del fabricant de cada pintura, barnís, adhesiu, netejador o producte d'eliminació;
+- instruccions d'ús del fabricant de cada pintura, vernís, adhesiu, netejador o producte d'eliminació;
 - fitxes tècniques i fitxes de dades de seguretat;
 - capítols específics del manual relacionats amb tècnica, material o acabat afectat;
 - documentació del fabricant del suport o materials de la miniatura quan sigui rellevant.

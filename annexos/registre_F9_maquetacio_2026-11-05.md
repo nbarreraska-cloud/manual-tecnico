@@ -66,3 +66,6 @@ La fidelitat estructural queda confirmada per recompte (39 capítols, A–F, 48 
 ## Segona generació — desencadenament de validació (05/11/2026)
 
 Després de corregir el generador, s'ha actualitzat aquest registre per desencadenar una nova execució del workflow F9 a la branca de treball. La nova maqueta només es considerarà validada quan s'hagi descarregat i inspeccionat l'artefacte resultant.
+
+
+S'ha ajustat també el camp de l'índex automàtic perquè mostri els nivells 1–2 en lloc d'1–3. La primera actualització amb LibreOffice va generar un índex de 30 pàgines, massa extens per a una consulta funcional; es manté el nivell de capítols i apartats principals, evitant desplegar tots els subapartats i les 48 fitxes a l'índex general. Cal validar la paginació de la nova versió.

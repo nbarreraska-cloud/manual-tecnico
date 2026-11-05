@@ -235,7 +235,7 @@ Intervenció aplicada:
 - Restituïda l'estructura de procediments: preparació, construcció de superfícies oxidades, construcció de pàtines, corrosió sota pintura, control de distribució/intensitat i compatibilitat de tècniques.
 - Recuperats els dotze errors i les seves correccions en format consultable.
 - Recuperats els criteris d'avaluació i de finalització.
-- Desenvolupats els sis exercicis amb objectiu, materials, procediment i avaluació.
+- Desenvolupats els sis exercicis amb objectiu i procediment. Els criteris d'avaluació incorporats s'identifiquen com a propostes didàctiques noves; l'original no prescrivia materials específics per a aquests exercicis.
 - Recuperada la síntesi conceptual del capítol.
 - Corregida la terminologia catalana (rovell, verdet) i la numeració de referències.
 
@@ -448,7 +448,7 @@ S'ha recuperat el contingut didàctic del capítol 31 comparant la segona sínte
 
 Intervenció aplicada:
 - Recuperada la síntesi conceptual del capítol.
-- Desenvolupats els sis exercicis amb objectiu, procediment i avaluació.
+- Desenvolupats els sis exercicis amb objectiu i procediment. Els criteris d'avaluació incorporats s'identifiquen com a propostes didàctiques noves, no com a text recuperat de l'original.
 - Mantinguda la diferenciació entre sang fresca, acumulada o coagulada, seca i fluids no sanguinis aquosos, viscosos o tèrbols.
 - Conservades les cinc receptes A–E, les referències de l'inventari i la documentació científica i tècnica.
 - Les vuit propostes de figures originals no s'han inserit al capítol; queden reservades per a la fase MG.

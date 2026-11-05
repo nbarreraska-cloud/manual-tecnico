@@ -1254,3 +1254,16 @@ S'ha arxivat sense modificacions la versió anterior a `annexos/historic/annex-d
 - No s'han inventat proporcions ni s'han modificat les receptes dels capítols. No hi ha validació experimental documentada.
 
 F6 haurà de revisar la cobertura semàntica i la coherència global dels annexos A–E amb C1–C39; F8 manté el control final de numeració, remissions i presentació.
+
+
+### Regeneració de l'Annex E — 05/11/2026
+
+S'ha arxivat sense modificacions la versió anterior a `annexos/historic/annex-e-auditoria-anterior-2026-11-05.md` i s'ha reconstruït `annexos/annex-e.md` com a guia de selecció i planificació, contrastant-la amb C1–C39 i els annexos A–D regenerats.
+
+- S'ha mantingut la funció de guia de consulta: orienta la selecció de materials, receptes, pintures, tècniques i seqüències sense duplicar els procediments dels capítols.
+- S'ha ampliat la remissió per a la representació dels materials per incloure el capítol 6, a més dels capítols 19–34.
+- S'han comprovat les remissions a tots els capítols 1–39: tots existeixen a la compilació consolidada.
+- S'ha comprovat la presència dels annexos A–D citats i la coherència de la seva funció general amb les indicacions de la guia.
+- Es manté la planificació com a orientativa i flexible; no s'hi estableix una seqüència universal ni s'afegeixen receptes, proporcions o propietats de productes no documentades.
+
+**F5 — regeneració A–E completada.** Això no equival encara a tancar la fase: F6 ha de fer l'auditoria semàntica transversal dels cinc annexos amb C1–C39, i F8 ha de revisar la numeració, les remissions creuades i la presentació final.

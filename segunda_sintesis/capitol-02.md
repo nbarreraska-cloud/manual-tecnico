@@ -84,21 +84,3 @@ La paleta de referència del manual està formada per 48 pintures distribuïdes 
 La relació individual de les pintures i les seves dades identificatives es recull a l'annex A. Les característiques i propietats tècniques s'estudien al capítol 3, mentre que les aplicacions concretes es desenvolupen als capítols de tècniques i receptes.
 
 La identificació d'un producte no s'ha de confondre amb la comprovació del seu comportament. Mantenir aquesta distinció permet organitzar la informació amb rigor i evitar que les dades comercials, les propostes tècniques i els resultats comprovats es presentin com si tinguessin el mateix nivell de suport.
-
-## Propostes de figures per a MG
-
-Les dues figures següents queden reservades per a la fase final de disseny i il·lustració. No formen part encara del contingut gràfic definitiu.
-
-### Figura 2.1. Organització de la paleta de referència
-- **Ubicació:** apartat 2.2, després de la taula de composició dels quatre conjunts.
-- **Format proposat:** esquema de quatre blocs.
-- **Contingut:** representació d'Essential, Dark Future, Fantasy i Special FX, amb les referències corresponents i dotze pintures per conjunt.
-- **Funció:** mostrar visualment l'estructura general de la paleta i la seva distribució.
-
-### Figura 2.2. Organització documental de la informació sobre les pintures
-- **Ubicació:** apartat 2.5, després d'explicar la distribució entre el capítol 2, l'annex A, les fitxes individuals i el capítol 3.
-- **Format proposat:** diagrama de relacions.
-- **Contingut:** identificació i inventari (capítol 2), catàleg (annex A), caracterització tècnica (capítol 3) i aplicació pràctica (capítols de tècniques i receptes).
-- **Funció:** explicar com es relacionen els diferents recursos documentals sense duplicar informació.
-
-Les figures queden pendents de producció fins a la fase gràfica final.

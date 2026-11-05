@@ -959,3 +959,8 @@ Aquesta comprovació acredita la consistència formal bàsica dels encapçalamen
 ### F4 — coteig documental de contingut de C6 (05/11/2026)
 
 Cotejat el contingut de C6 amb «manual con estructura completa.docx». Es conserven els blocs conceptuals, els deu errors freqüents, la fitxa d'anàlisi, el mètode d'observació, els quatre exercicis i les cinc referències bibliogràfiques. No s'han detectat pèrdues substancials que justifiquin modificar el capítol. Les vuit propostes de figures continuen reservades a MG. No s'ha modificat C6; la compilació consolidada conté exactament el fitxer actual. F4 continua oberta i aquest coteig no equival a validació experimental.
+
+
+### F4 — coteig documental de contingut de C7 (05/11/2026)
+
+Cotejat el contingut de C7 amb «manual con estructura completa.docx». Es conserven els blocs d'organització, eines, preparació de la miniatura, imprimació, gestió de pintures, control d'aplicació, neteja i manteniment, seguretat i prevenció. S'han comprovat els quatre exercicis complets i les tres referències de consulta sobre seguretat. Les subdivisions de l'original s'han agrupat en apartats més compactes sense perdre les funcions operatives principals. No s'han identificat omissions tècniques o didàctiques substancials que justifiquin modificar el capítol. Les vuit propostes de figures continuen reservades a MG. C7 no s'ha modificat; la compilació consolidada conté exactament el fitxer vigent. F4 continua oberta i el coteig no equival a validació experimental.

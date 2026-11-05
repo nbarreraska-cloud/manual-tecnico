@@ -363,3 +363,28 @@ Comprovació inicial:
 ### Continuïtat immediata
 
 Continuar amb les recuperacions didàctiques de prioritat mitjana dels capítols 26 i 27, sense modificar els capítols SC ni reobrir decisions ja tancades sense una incidència substancial.
+
+
+### Capítol 26 — roques, pedres i minerals (05/11/2026)
+
+S'ha recuperat el contingut didàctic del capítol 26 comparant la segona síntesi amb el text original.
+
+Intervenció aplicada:
+- Recuperats els sis exercicis amb objectiu, materials, procediment i avaluació.
+- Recuperada la síntesi conceptual del capítol.
+- Afegits dos errors freqüents que s'havien omès o comprimit: aclarits excessivament blancs i excés de components minerals.
+- Mantingudes les deu receptes A–J, les combinacions cromàtiques i les sis referències existents.
+- Les nou propostes de figures originals no s'han inserit al capítol; queden reservades per a la fase MG.
+
+Comprovació inicial:
+- 10 receptes A–J presents.
+- 6 exercicis complets presents.
+- Síntesi i referències diferenciades.
+- 6 enllaços de referència presents.
+- Cap encapçalament duplicat detectat.
+
+**Estat:** recuperació aplicada; comprovació estructural inicial superada; validació semàntica i coteig complet pendents. Les receptes continuen sent propostes no assajades.
+
+### Continuïtat immediata
+
+Continuar amb el capítol 27, classificat com a recuperació didàctica de prioritat mitjana. Mantenir la separació conceptual amb el capítol 26: les superfícies rocoses i els minerals que en formen part es tracten al 26; els cristalls individuals, el gel, la neu i les gemmes, al 27.

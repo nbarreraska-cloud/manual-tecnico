@@ -66,6 +66,15 @@ Cal recuperar procediments, explicacions tècniques, fonaments, advertiments, de
 - Restituïdes les precaucions diferenciades per a aerosols pressuritzats, pulverització, protecció personal, pols, higiene, emmagatzematge i eliminació.
 - Desenvolupats els quatre exercicis originals amb objectius, materials, procediments i criteris d'avaluació, i recuperada la síntesi del capítol.
 
+### Capítol 8 — Capes base i construcció progressiva del color
+
+- Ampliats els sis errors de construcció de capes amb manifestacions, possibles causes i criteris d'intervenció diferenciats.
+- Recuperats els criteris detallats d'avaluació de cobertura, distribució, coherència cromàtica, límits, geometria i integritat de la superfície.
+- Recuperat el criteri de finalització: continuar, corregir o aturar-se segons l'objectiu i l'estat real de la superfície.
+- Desenvolupats els quatre exercicis pràctics amb objectius, materials, procediments, aspectes d'observació i resultats esperats.
+- Conservat l'exercici integrador final amb la seva taula de comprovació.
+- Les propostes de figures de l'original es mantenen fora del cos del capítol perquè són especificacions de producció gràfica.
+
 ## Tasques pendents
 
 1. Validar la integritat textual i estructural dels capítols 4 i 5 després de les recuperacions.

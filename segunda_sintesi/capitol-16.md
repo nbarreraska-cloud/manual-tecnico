@@ -43,9 +43,23 @@ Cal assignar funcions als tons foscos, intermedis, clars i als reflexos màxims.
 
 El matís no determina per si sol la funció d'un reflex. Un groc saturat pot no tenir prou valor per actuar com a reflex màxim d'un or, i un blau intens pot continuar sent fosc. Cal valorar les mescles també per la seva claredat i foscor. Les receptes específiques per a acer, plata, or, coure i bronze corresponen al capítol 19.
 
-## 16.4. Procediment general de construcció del NMM
+## 16.4. Diferenciació cromàtica entre metalls
 
-### 16.4.1. Preparació de la superfície
+Tot i que el procediment general del NMM comparteix fonaments, els diferents metalls poden requerir solucions cromàtiques distintes.
+
+- **Acer i plata:** solen representar-se mitjançant gammes relativament neutres o fredes.
+- **Or:** requereix una organització cromàtica càlida, en què els grocs, ocres i marrons poden complir funcions diferents.
+- **Coure:** pot incorporar relacions entre taronges, vermells i tons terrosos.
+- **Bronze:** pot presentar una aparença més apagada o terrosa, segons l'acabat que es vulgui representar.
+- **Metalls fantàstics o estilitzats:** poden utilitzar altres famílies cromàtiques si la intenció visual ho justifica.
+
+Aquestes associacions no s'han de convertir en receptes tancades. La representació final depèn del valor, l'entorn, la geometria i la intenció artística.
+
+Les receptes concretes per a acer, plata, or, coure i bronze es desenvolupen al capítol 19, dedicat als metalls. Aquest capítol estableix el procediment general del NMM i no substitueix les formulacions específiques.
+
+## 16.5. Procediment general de construcció del NMM
+
+### 16.6.1. Preparació de la superfície
 
 Abans de començar convé comprovar que la superfície està preparada per rebre les aplicacions pictòriques. La geometria ha d'estar identificada i la zona de treball ha de permetre distingir els principals plans i detalls.
 
@@ -101,7 +115,7 @@ La integració pot requerir ajustar la continuïtat de determinades transicions,
 
 La integració no implica suavitzar tots els límits. En determinades superfícies metàl·liques, els canvis definits entre regions poden ser necessaris per conservar l'aparença reflectant. La decisió ha de respondre al patró escollit i al tipus de geometria.
 
-## 16.5. Adaptació a diferents geometries i escales
+## 16.6. Adaptació a diferents geometries i escales
 
 ### 16.5.1. Superfícies planes
 

@@ -744,13 +744,13 @@ S'ha creat `annexos/fitxes_editorials_figures_F10.md` com a document de treball 
 - **P1 classificades:** 156 identificadors.
 - **Identificadors inclosos en fitxes editorials:** 156.
 - **Identificadors absents o duplicats:** cap.
-- **Composicions de treball:** 154, perquè al C20 s'han fusionat 20.1+20.2 i 20.4+20.5 en dues làmines compostes.
+- **Composicions de treball:** 152, després de les fusions 20.1+20.2, 20.4+20.5, 22.2+22.5 i 24.7+24.8. La composició anatòmica 24.7+24.8 és condicionada a la llegibilitat.
 - **Distribució:** 34 identificadors de C1–C7/C11; 58 de C15–C24; 64 de C30–C39.
 - **Llengua:** títols i llegendes de treball en català.
 
 ### Verificació de les ubicacions
 
-S'ha comprovat automàticament que les ubicacions de les 154 composicions de C1–C7/C11, C15–C24 i C30–C39 corresponen a encapçalaments existents de la tercera síntesi consolidada. No s'han detectat apartats inexistents.
+S'ha comprovat automàticament que les ubicacions de les 152 composicions de C1–C7/C11, C15–C24 i C30–C39 corresponen a encapçalaments existents de la tercera síntesi consolidada. No s'han detectat apartats inexistents.
 
 Aquesta comprovació és estructural: confirma que els apartats citats existeixen, però no substitueix la revisió semàntica final de cada ubicació ni la comprovació de la llegenda i la remissió exactes a la maqueta.
 
@@ -764,4 +764,4 @@ Els quatre identificadors originals es conserven per a la traçabilitat. No s'ha
 
 ### Abast i estat
 
-Aquesta consolidació normalitza les 156 propostes prioritàries i fixa 154 composicions de treball. No implica que les 154 figures estiguin aprovades definitivament per a producció: encara cal una passada transversal de redundàncies entre capítols, verificació de remissions, numeració editorial estable i decisió sobre evidències físiques disponibles. No s'ha generat ni inserit cap imatge i no s'ha modificat cap capítol.
+Aquesta consolidació normalitza les 156 propostes prioritàries i fixa 152 composicions de treball. No implica que les 152 figures estiguin aprovades definitivament per a producció: encara cal una passada transversal de redundàncies entre capítols, verificació de remissions, numeració editorial estable i decisió sobre evidències físiques disponibles. No s'ha generat ni inserit cap imatge i no s'ha modificat cap capítol.

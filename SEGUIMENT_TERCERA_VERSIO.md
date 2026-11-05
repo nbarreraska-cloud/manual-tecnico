@@ -867,7 +867,7 @@ Aquesta secció és la referència operativa més recent i preval sobre les inst
 - **F2:** completada el 05/11/2026; Registre Mestre versió 1.74. Revisades les 39 files de la matriu, conciliats els estats obsolets de C28–C29 i verificada la correspondència dels 39 Markdown amb la compilació C1–C39 (39/39).
 - **F3:** completada per a les accions RT/RD/AE identificades a la matriu.
 - **F4:** completada amb limitacions documentals. Tots els 39 capítols disposen d'un nivell de revisió documentat, i les limitacions de font s'han mantingut explícites. La revisió semàntica de remissions C1–C39 i la comprovació estructural global estan completades. No es presenta el coteig documental com a validació experimental.
-- **F5:** pendent; F2, F4 i F6 estan tancades i la compilació C1–C39 està estabilitzada. F5 és la següent fase operativa: regeneració i auditoria dels annexos A–E.
+- **F5:** en curs; iniciada l'auditoria de l'Annex C: 183/183 entrades i lletres contrastades amb C19–C34, 170 referències actualitzades. Resta la comprovació amb l'Annex D i l'auditoria d'A, B, D i E.
 - **F6:** completada el 05/11/2026; auditoria global de coherència transversal C1–C39 tancada. No equival a validació experimental.
 - **F7:** pendent; revisió gràfica i maquetació Word després de F5.
 
@@ -1135,3 +1135,10 @@ La verificació final confirma que la compilació consolidada manté els 39 cap�
 S'ha conciliat la denominació «arenisca» de C26 amb la terminologia catalana de ciències de la Terra. TERMCAT/IEC recull «gres» com a terme català corresponent a l'espanyol «arenisca» (https://cit.iec.cat/progdct/default.asp?id=51290&opcio=99). S'han normalitzat les vuit aparicions del capítol: denominació de la roca, títol de l'apartat 26.6, receptes E i F, exercici 2 i referències dins del text. També s'ha ajustat la concordança de gènere («el gres», «format», «groguenc», «rogenc»). No s'han alterat les receptes ni les seves combinacions de pintura. La compilació C1–C39 s'ha sincronitzat i s'ha comprovat que no conserva cap aparició de «arenisca».
 
 La revisió de GitHub confirma F4 i F6 tancades amb els límits documentals registrats. F2 continua en curs per la conciliació final de la matriu i les anotacions històriques. F5 (annexos A–E) queda com a següent fase després de tancar F2; F7 (gràfica i maquetació Word) continua posterior a F5.
+
+
+### F5 — auditoria de l'Annex C i ajustos terminològics (05/11/2026)
+
+S'han contrastat les 183 entrades de l'Annex C amb les receptes vigents dels capítols 19–34. Les 183 lletres i correspondències de recepta s'han localitzat; s'han actualitzat 170 referències perquè apuntin a l'apartat real de cada recepta, mentre que 13 ja eren correctes. La verificació final confirma 183/183 remissions concordants amb la secció on apareix cada recepta. No s'han modificat les formulacions ni les seqüències de pintura.
+
+Durant el coteig s'han corregit dues incidències lingüístiques concretes als capítols: «gema» s'ha normalitzat a «gemma» a C27, d'acord amb el Diccionari de gemmologia del TERMCAT; a C29 s'ha corregit el gènere femení de «pols» i la concordança dels adjectius associats. Els dos canvis s'han sincronitzat a la compilació C1–C39. L'Annex C queda amb el coteig de les 183 entrades completat; resta la comprovació de coherència amb l'Annex D i l'auditoria global dels annexos A, B, D i E.

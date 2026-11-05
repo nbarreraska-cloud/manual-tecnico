@@ -154,3 +154,136 @@ F10 continua oberta. La primera tanda C1–C3 queda documentada a l'apartat 3. L
 5. La comparació òptica de 6.4 ha de quedar diferenciada de la reflexió especular/difusa del capítol 5 i de les figures de llum, per evitar duplicació conceptual.
 
 **Resultat de la segona tanda:** contrastades les propostes C4, C5, C6, C7 i C11 amb el contingut consolidat. Es mantenen les P1 inicials, amb les condicions i fusions indicades; no s'ha produït cap imatge ni modificat cap capítol. La següent tanda passa a C15–C24.
+
+
+## 8. Tercera tanda de validació — C15–C24
+
+Les 90 propostes addicionals de C15–C24 no provenen del Word original: es van elaborar durant la tercera síntesi. Es validen com a esquemes de suport al contingut lector i no com a imatges que documentin resultats físics. La numeració interna (15.1–24.9/24.10) es manté com a identificador estable de proposta; no s'ha de confondre encara amb la numeració editorial definitiva de les figures.
+
+### C15 — Planificació de la il·luminació
+
+| Identificador | Prioritat inicial | Decisió F10 | Justificació i condicions |
+|---|---|---|---|
+| 15.1 — Anàlisi de geometria, volums i superfícies | P1 | **Mantenir P1** | Dona suport a l'anàlisi inicial del capítol. Ha de destacar les superfícies principals i la seva orientació, sense avançar-se al mapa d'il·luminació. |
+| 15.3 — Mapa de valors | P1 | **Mantenir P1** | Recurs operatiu central per planificar la jerarquia tonal. Els nivells han de ser funcionals i relatius, no receptes cromàtiques ni mescles universals. |
+| 15.6 — Distribució uniforme i jerarquitzada del contrast | P1 | **Mantenir P1** | La comparació ajuda a identificar la funció de la jerarquia visual. Cal evitar que «uniforme» es presenti sempre com a error: pot ser una decisió deliberada segons l'objectiu. |
+| 15.8 — Procés integral d'anàlisi a avaluació | P1 | **Mantenir P1** | Síntesi visual del procés del capítol. Ha de mostrar una seqüència flexible i punts de revisió, no una cadena rígida obligatòria. |
+| 15.2, 15.4, 15.5 i 15.7 | P2 | **Mantenir P2; fusionables** | Les comparacions de direcció, mapes d'il·luminació/valors i planificació per zones poden integrar-se en 15.1, 15.3 o 15.8. No produir una figura separada si repeteix el mateix mapa. |
+
+### C16 — Construcció de metalls no metàl·lics (NMM)
+
+| Identificador | Prioritat inicial | Decisió F10 | Justificació i condicions |
+|---|---|---|---|
+| 16.1 — Comparació metàl·lic/no metàl·lic | P1 | **Mantenir P1** | Diferència essencial per comprendre l'aparença NMM. La comparació ha de referir-se a senyals visuals i no atribuir propietats físiques a una pintura concreta. |
+| 16.2 — Influència de la geometria en els reflexos | P1 | **Mantenir P1** | Útil per mostrar com canvia el patró segons la forma. Cal diferenciar exemples de reflexos de regles universals. |
+| 16.4 — Mapa tonal d'una peça metàl·lica | P1 | **Mantenir P1** | Eina de planificació coherent amb el capítol; ha de correspondre a una geometria identificable i mantenir una jerarquia de valors llegible. |
+| 16.6 — Construcció progressiva de base a reflexos i accents | P1 | **Mantenir P1** | Seqüència procedimental central. No afegir proporcions ni combinacions cromàtiques que el text no avali. |
+| 16.8 — Errors i correccions | P1 | **Mantenir P1** | Té valor de diagnòstic. Cada error ha de correspondre als casos descrits al capítol i no s'ha de representar com a resultat universal. |
+| 16.3, 16.5 i 16.7 | P2 | **Mantenir P2; candidates a fusió** | Patrons de reflex, famílies cromàtiques i adaptacions geomètriques poden funcionar com a subpanells de 16.2, 16.4 o 16.6. Evitar tres figures que fragmentin una mateixa explicació. |
+
+### C17 — OSL i representació de fonts lluminoses
+
+| Identificador | Prioritat inicial | Decisió F10 | Justificació i condicions |
+|---|---|---|---|
+| 17.1 — Font emissora, superfície il·luminada i reflex localitzat | P1 | **Mantenir P1** | Distinció conceptual imprescindible per no confondre emissió amb il·luminació rebuda o reflex. |
+| 17.3 — Geometria, orientació i bloqueig de la llum | P1 | **Mantenir P1** | Permet representar la relació espacial entre font i superfícies receptores. Ha de correspondre a la geometria del cas representat. |
+| 17.4 — Jerarquia de valors | P1 | **Mantenir P1** | Aporta un esquema clar de la relació entre font, zona d'influència i transició. No establir valors numèrics ni proporcions universals. |
+| 17.7 — Il·luminació general i reflexos en superfícies mates i brillants | P1 | **Mantenir P1** | Aporta la diferència entre il·luminació i reflex dins l'OSL. Cal delimitar-la respecte de les figures de resposta òptica de C5 i C6. |
+| 17.8 — Seqüència de construcció i integració de l'OSL | P1 | **Mantenir P1** | Seqüència tècnica principal del capítol. La font ha de continuar sent identificable durant tots els passos. |
+| 17.10 — Errors freqüents | P1 | **Mantenir P1** | Útil per diagnosticar halos sense font, distribució uniforme i pèrdua de geometria. No reduir causes diferents a una única explicació. |
+| 17.2, 17.5, 17.6 i 17.9 | P2 | **Mantenir P2; fusionables** | Posició de la font, color local, pèrdua d'influència i ombres poden integrar-se en 17.1, 17.3, 17.4 o 17.8. Només separar-les si aporten una lectura no coberta. |
+
+### C18 — Planificació integral del procés
+
+| Identificador | Prioritat inicial | Decisió F10 | Justificació i condicions |
+|---|---|---|---|
+| 18.1 — Mapa del procés integral | P1 | **Mantenir P1** | Resumeix anàlisi, planificació, selecció, execució, control i avaluació. Ha de mostrar iteració i retorns, no només una seqüència lineal. |
+| 18.3 — Planificació cromàtica, tonal i lumínica | P1 | **Mantenir P1** | Reuneix tres dimensions de planificació que s'han de coordinar sense confondre-les. |
+| 18.4 — Arbre de selecció de tècniques | P1 | **Mantenir P1** | Aporta una eina de decisió pràctica. Les branques han de partir de l'objectiu i les condicions, no d'una correspondència universal entre efecte i tècnica. |
+| 18.6 — Comparació d'organització per zones, materials i fases | P1 | **Mantenir P1 amb correcció d'ubicació** | El contingut correspon a 18.5.4 (organització per zones, materials o fases), no al 18.6 sobre compatibilitat de tècniques. Corregir la ubicació abans de produir. |
+| 18.2, 18.5, 18.7, 18.8 i 18.9 | P2 | **Mantenir P2; fusionar instruments redundants** | La fitxa inicial, la seqüenciació, el cicle de control, l'avaluació i el registre de modificacions poden reduir-se a un conjunt coordinat de recursos. Evitar tres fitxes de control que repeteixin els mateixos camps. |
+
+### C19 — Metalls TMM
+
+| Identificador | Prioritat inicial | Decisió F10 | Justificació i condicions |
+|---|---|---|---|
+| 19.3 — Construcció TMM d'acer i plata | P1 | **Mantenir P1** | La seqüència ha de basar-se en els procediments del capítol i distingir acer i plata quan les receptes o els resultats difereixin. No simular proves físiques. |
+| 19.4 — Construcció TMM d'or | P1 | **Mantenir P1** | Procediment específic amb valor didàctic. Les mostres concretes han de ser reals o bé l'esquema s'ha d'identificar com a conceptual. |
+| 19.5 — Construcció de coure i bronze | P1 | **Mantenir P1** | Pot comparar les diferències de color i construcció descrites al capítol. No introduir fórmules noves. |
+| 19.6 — Comparació TMM i NMM | P1 | **Mantenir P1** | Comparació central per distingir dues aproximacions pictòriques. Cal fer servir una geometria i una il·luminació comparables. |
+| 19.9 — Errors i control | P1 | **Mantenir P1** | Resum de diagnòstic útil, vinculat als criteris de control del capítol. |
+| 19.1, 19.2, 19.7 i 19.8 | P2 | **Mantenir P2; revisar redundància** | La comparació de les quatre pintures metàl·liques només s'ha de produir amb mostres reals comparables; la selecció de receptes i la relació TMM/NMM poden integrar-se en 19.6. No crear una làmina només per mostrar productes sense evidència. |
+
+### C20 — Fusta
+
+| Identificador | Prioritat inicial | Decisió F10 | Justificació i condicions |
+|---|---|---|---|
+| 20.1 — Direcció de fibres, vetes, nusos i anells | P1 | **Mantenir P1** | Fonament visual per interpretar l'estructura de la fusta. Distingir els patrons segons l'orientació i el tall. |
+| 20.2 — Patrons segons el tall | P1 | **Mantenir P1; integrar amb 20.1 si és més clar** | La comparació longitudinal/transversal és útil, però pot formar part d'una mateixa làmina d'estructura. No duplicar els anells ja presents a 20.1. |
+| 20.4 — Construcció de vetes principals i secundàries | P1 | **Mantenir P1** | Seqüència de construcció amb jerarquia de patrons. Evitar que totes les vetes tinguin la mateixa intensitat o regularitat. |
+| 20.5 — Integració d'un nus i desviació de fibres | P1 | **Mantenir P1** | Detall específic que explica com el nus modifica la direcció de les fibres. Pot ser un panell de 20.4. |
+| 20.7 — Adaptació a tauló, biga, barril, mànec i tronc | P1 | **Mantenir P1** | Mostra la dependència entre geometria i representació; adaptar el patró a cada forma sense reutilitzar una textura plana. |
+| 20.8 — Fusta natural, envellida, desgastada i humida | P1 | **Mantenir P1** | Comparació de variacions d'aparença amb criteris diferenciats. No suggerir que un únic canvi cromàtic defineix universalment cada estat. |
+| 20.9 — Errors i correccions | P1 | **Mantenir P1** | Resum diagnòstic vinculat als errors del capítol. |
+| 20.3 i 20.6 | P2 | **Mantenir P2; candidates a fusió** | La comparació cromàtica de famílies de fusta pot integrar-se a 20.8; els anells transversals, a 20.1/20.2. Evitar una làmina separada per a cada variació. |
+
+### C21 — Vegetació
+
+| Identificador | Prioritat inicial | Decisió F10 | Justificació i condicions |
+|---|---|---|---|
+| 21.1 — Tipus principals de vegetació | P1 | **Mantenir P1** | Comparació de fullatge, coníferes, herbes, molsa i líquens. Les formes han de ser recognoscibles i no confondre grups botànics diferents. |
+| 21.2 — Morfologia de fulles | P1 | **Mantenir P1** | Aporta criteris de forma, vores i nerviació; no cal representar una classificació botànica exhaustiva. |
+| 21.3 — Agrupació, densitat i superposició | P1 | **Mantenir P1** | Explica la construcció de masses vegetals i els buits; és més útil que una col·lecció d'elements aïllats. |
+| 21.5 — Branques i agrupacions aciculars | P1 | **Mantenir P1** | Procediment específic per a coníferes, amb direcció i organització de les agulles. |
+| 21.6 — Tiges, fulles i gramínies | P1 | **Mantenir P1** | Ajuda a representar la direcció i estructura de les plantes herbàcies. |
+| 21.7 — Formes de molsa | P1 | **Mantenir P1** | Comparació de coixins, coixinets i tapissos, sense atribuir-los espècies si no s'identifiquen. |
+| 21.8 — Formes de líquens | P1 | **Mantenir P1** | Distingir formes crustàcies, foliàcies i fruticuloses amb morfologia correcta. |
+| 21.4, 21.9 i 21.10 | P2 | **Mantenir P2; fusionables** | La paleta de verds pot integrar-se en 21.1/21.3; la vegetació estacional i la integració a la base poden quedar en una figura composta o en exercicis si no aporten informació nova. |
+
+### C22 — Cuir i pells
+
+| Identificador | Prioritat inicial | Decisió F10 | Justificació i condicions |
+|---|---|---|---|
+| 22.1 — Estructura visual del gra del cuir | P1 | **Mantenir P1** | Diferenciar gra i textura sense convertir-los en una textura repetitiva uniforme. |
+| 22.2 — Cuir natural, corregit, ante i nobuk | P1 | **Mantenir P1** | Comparació material útil; les diferències han de correspondre a les definicions del capítol. |
+| 22.4 — Construcció de cuir natural | P1 | **Mantenir P1** | Seqüència de construcció cromàtica i superficial, sense receptes addicionals. |
+| 22.5 — Diferenciació entre ante i nobuk | P1 | **Mantenir P1** | Comparació necessària perquè les dues superfícies poden confondre's; representar diferències de tractament i aparença amb rigor. |
+| 22.6 — Plecs i deformacions | P1 | **Mantenir P1** | Relacionar plecs amb tensió, gruix i geometria, no amb bandes de llum genèriques. |
+| 22.7 — Cantells, gruix i costures | P1 | **Mantenir P1** | Detalls constructius que ajuden a donar escala i identitat material. |
+| 22.9 — Errors freqüents | P1 | **Mantenir P1** | Comparació de diagnòstic vinculada als errors descrits, evitant simplificacions que puguin confondre materials. |
+| 22.3, 22.8 i 22.10 | P2 | **Mantenir P2; fusionables** | Famílies cromàtiques, acabats i accessori integrador poden quedar com a panells de 22.2/22.4/22.7 o arxivar-se si només repeteixen el text. |
+
+### C23 — Teixits
+
+| Identificador | Prioritat inicial | Decisió F10 | Justificació i condicions |
+|---|---|---|---|
+| 23.1 — Tafetà, sarja i setí | P1 | **Mantenir P1** | Els patrons d'entrellaçat són estructuralment diferents i es beneficien d'una comparació visual. Cal representar correctament l'ordre dels fils. |
+| 23.2 — Lli/cotó, llana, seda/setí i vellut | P1 | **Mantenir P1** | Comparació de famílies materials. Evitar que l'acabat superficial es confongui amb l'estructura tèxtil. |
+| 23.3 — Construcció cromàtica de teixits clars | P1 | **Mantenir P1** | Seqüència pràctica per construir volum i textura sense convertir el teixit en una superfície blanca plana. |
+| 23.5 — Teixits gruixuts i de pèl | P1 | **Mantenir P1** | Aporta una lectura de gruix i textura que no queda resolta per la comparació general de teixits. |
+| 23.6 — Plecs i punts de tensió | P1 | **Mantenir P1** | Relaciona geometria, caiguda i tensió del teixit. Evitar patrons de plecs genèrics que no responguin al material. |
+| 23.8 — Errors freqüents | P1 | **Mantenir P1** | Útil com a diagnòstic si els errors s'associen a causes i correccions del capítol. |
+| 23.4 i 23.7 | P2 | **Mantenir P2; fusionables** | La comparació mat/setinat pot integrar-se a 23.2; estampats i brodats sobre plecs només es produiran si la deformació del patró s'explica i es representa amb prou detall. |
+
+### C24 — Pell i teixits orgànics
+
+| Identificador | Prioritat inicial | Decisió F10 | Justificació i condicions |
+|---|---|---|---|
+| 24.2 — Pigmentacions clares, intermèdies i profundes | P1 | **Mantenir P1** | La comparació ha de mostrar matisos i variacions, sense convertir les categories en una escala rígida ni homogeneïtzar cada grup. |
+| 24.3 — Mapa cromàtic orientatiu del rostre | P1 | **Mantenir P1, condicionada** | Ha de ser un mapa orientatiu i no una cartografia universal de colors de pell. La distribució depèn de la il·luminació, la persona de referència i l'objectiu pictòric. |
+| 24.4 — Construcció de pell clara | P1 | **Mantenir P1** | Seqüència cromàtica i tonal vinculada al procediment del capítol; evitar una recepta universal. |
+| 24.5 — Construcció de pell profunda | P1 | **Mantenir P1** | Ha de preservar el criteri del capítol de no aplicar aclarits desaturats de manera generalitzada; les llums s'han de relacionar amb el color local i la il·luminació. |
+| 24.7 — Masses musculars i direcció dels grups principals | P1 | **Mantenir P1** | Esquema anatòmic simplificat per a lectura pictòrica, no làmina mèdica ni substitut d'una referència anatòmica fiable. |
+| 24.8 — Múscul, teixit adipós i teixit connectiu | P1 | **Mantenir P1** | Ajuda a diferenciar formes i transicions orgàniques. Cal evitar afirmacions anatòmiques que excedeixin l'abast del capítol. |
+| 24.9 — Errors freqüents | P1 | **Mantenir P1** | Resum de diagnòstic coherent amb el text; no convertir exemples en regles absolutes. |
+| 24.1 i 24.6 | P2 | **Mantenir P2; producció condicionada** | L'estructura simplificada de la pell pot ser excessiva per a la finalitat del manual i ha de ser anatòmicament fiable; la comparació natural/fantàstica és complementària i només s'incorporarà si aporta una diferència pictòrica clara. |
+
+## 9. Controls transversals de la tercera tanda
+
+1. Les propostes C15–C24 són esquemes didàctics nous i no han de simular mostres, resultats de proves o fotografies de miniatures pintades.
+2. La numeració de propostes es conserva com a identificador intern; la numeració final de figura s'assignarà després de fusionar i excloure propostes.
+3. **Incidència de C18:** la proposta 18.6 descriu organització per zones, materials i fases, que correspon al contingut de 18.5.4; corregir la ubicació abans de produir.
+4. Les fusions de C15–C24 s'han de valorar com a composicions integradores, no com a simple reducció de nombre: cap pas tècnic o diferència material útil no es pot perdre.
+5. Els exemples de pell, vegetació, fusta, cuir i teixits han de respectar l'estructura i la morfologia descrites al capítol; no s'han de generar detalls anatòmics o botànics decoratius sense fonament.
+
+**Resultat de la tercera tanda:** contrastades les 90 propostes de C15–C24 amb l'estructura i el contingut dels capítols consolidats. Es mantenen les prioritats P1 com a candidates, amb fusions i condicions per a les P2. No s'ha produït cap imatge ni modificat cap capítol. La següent tanda és C30–C39.

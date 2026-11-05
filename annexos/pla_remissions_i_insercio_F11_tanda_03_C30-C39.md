@@ -14,7 +14,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 30.1 — Estructura visual d'una flama
 
-- **Identificadors P1 d'origen:** 30.1.
+- **Identificadors P1 d'origen:** 30.1
 - **Ubicació editorial F10:** 30.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 30.2.
 - **Remissió textual proposada:** «La Figura 30.1 presenta una síntesi visual: estructura visual d'una flama.»
@@ -25,7 +25,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 30.2 — Planificació cromàtica del foc
 
-- **Identificadors P1 d'origen:** 30.3.
+- **Identificadors P1 d'origen:** 30.3
 - **Ubicació editorial F10:** 30.3.1–30.3.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 30.3.1–30.3.2.
 - **Remissió textual proposada:** «La Figura 30.2 presenta una síntesi visual: planificació cromàtica del foc.»
@@ -36,7 +36,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 30.3 — Construcció pictòrica d'una flama
 
-- **Identificadors P1 d'origen:** 30.4.
+- **Identificadors P1 d'origen:** 30.4
 - **Ubicació editorial F10:** 30.5.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 30.5.
 - **Remissió textual proposada:** «La Figura 30.3 presenta una síntesi visual: construcció pictòrica d'una flama.»
@@ -47,7 +47,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 30.4 — Integració de foc, fum i material carbonitzat
 
-- **Identificadors P1 d'origen:** 30.8.
+- **Identificadors P1 d'origen:** 30.8
 - **Ubicació editorial F10:** 30.9.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 30.9.
 - **Remissió textual proposada:** «La Figura 30.4 presenta una síntesi visual: integració de foc, fum i material carbonitzat.»
@@ -60,7 +60,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 31.1 — Estats visuals de la sang
 
-- **Identificadors P1 d'origen:** 31.1.
+- **Identificadors P1 d'origen:** 31.1
 - **Ubicació editorial F10:** 31.1–31.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 31.2.
 - **Remissió textual proposada:** «La Figura 31.1 presenta una síntesi visual: estats visuals de la sang.»
@@ -71,7 +71,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 31.2 — Diferenciació entre sang i altres fluids
 
-- **Identificadors P1 d'origen:** 31.2.
+- **Identificadors P1 d'origen:** 31.2
 - **Ubicació editorial F10:** 31.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 31.2.
 - **Remissió textual proposada:** «La Figura 31.2 presenta una síntesi visual: diferenciació entre sang i altres fluids.»
@@ -82,7 +82,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 31.3 — Distribució de fluids sobre diferents geometries
 
-- **Identificadors P1 d'origen:** 31.3.
+- **Identificadors P1 d'origen:** 31.3
 - **Ubicació editorial F10:** 31.3 i 31.4.3.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 31.3 i 31.4.3.
 - **Remissió textual proposada:** «La Figura 31.3 presenta una síntesi visual: distribució de fluids sobre diferents geometries.»
@@ -93,7 +93,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 31.4 — Construcció de sang fresca
 
-- **Identificadors P1 d'origen:** 31.4.
+- **Identificadors P1 d'origen:** 31.4
 - **Ubicació editorial F10:** 31.4.2–31.4.3.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 31.4.2–31.4.3.
 - **Remissió textual proposada:** «La Figura 31.4 presenta una síntesi visual: construcció de sang fresca.»
@@ -104,7 +104,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 31.5 — Construcció de sang seca
 
-- **Identificadors P1 d'origen:** 31.5.
+- **Identificadors P1 d'origen:** 31.5
 - **Ubicació editorial F10:** 31.5.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 31.5.
 - **Remissió textual proposada:** «La Figura 31.5 presenta una síntesi visual: construcció de sang seca.»
@@ -115,7 +115,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 31.6 — Errors freqüents en la representació de sang i fluids
 
-- **Identificadors P1 d'origen:** 31.8.
+- **Identificadors P1 d'origen:** 31.8
 - **Ubicació editorial F10:** 31.7.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 31.7.
 - **Remissió textual proposada:** «La Figura 31.6 presenta una síntesi visual: errors freqüents en la representació de sang i fluids.»
@@ -128,7 +128,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 32.1 — Jerarquia visual d'una manifestació energètica
 
-- **Identificadors P1 d'origen:** 32.2.
+- **Identificadors P1 d'origen:** 32.2
 - **Ubicació editorial F10:** 32.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 32.2.
 - **Remissió textual proposada:** «La Figura 32.1 presenta una síntesi visual: jerarquia visual d'una manifestació energètica.»
@@ -139,7 +139,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 32.2 — Fluorescència, color convencional i aparença lluminosa
 
-- **Identificadors P1 d'origen:** 32.3.
+- **Identificadors P1 d'origen:** 32.3
 - **Ubicació editorial F10:** 32.2.4 i 32.4.1.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 32.2.4 i 32.4.1.
 - **Remissió textual proposada:** «La Figura 32.2 presenta una síntesi visual: fluorescència, color convencional i aparença lluminosa.»
@@ -150,7 +150,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 32.3 — Construcció d'una esfera d'energia
 
-- **Identificadors P1 d'origen:** 32.4.
+- **Identificadors P1 d'origen:** 32.4
 - **Ubicació editorial F10:** 32.3 i 32.5.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 32.5.
 - **Remissió textual proposada:** «La Figura 32.3 presenta una síntesi visual: construcció d'una esfera d'energia.»
@@ -161,7 +161,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 32.4 — Estructura d'una descàrrega
 
-- **Identificadors P1 d'origen:** 32.5.
+- **Identificadors P1 d'origen:** 32.5
 - **Ubicació editorial F10:** 32.3.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 32.3.
 - **Remissió textual proposada:** «La Figura 32.4 presenta una síntesi visual: estructura d'una descàrrega.»
@@ -172,7 +172,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 32.5 — Font energètica i il·luminació projectada
 
-- **Identificadors P1 d'origen:** 32.8.
+- **Identificadors P1 d'origen:** 32.8
 - **Ubicació editorial F10:** 32.2.4 i 32.6; remissió a C17.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 32.2.4 i 32.6. Cal remetre al procediment OSL del capítol 17, sense duplicar-lo.
 - **Remissió textual proposada:** «La Figura 32.5 presenta una síntesi visual: font energètica i il·luminació projectada.»
@@ -185,7 +185,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 33.1 — Comparació de cossos ceràmics
 
-- **Identificadors P1 d'origen:** 33.1.
+- **Identificadors P1 d'origen:** 33.1
 - **Ubicació editorial F10:** 33.2.1–33.2.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 33.2.1–33.2.2.
 - **Remissió textual proposada:** «La Figura 33.1 presenta una síntesi visual: comparació de cossos ceràmics.»
@@ -196,7 +196,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 33.2 — Ceràmica sense esmaltar i superfícies esmaltades
 
-- **Identificadors P1 d'origen:** 33.2.
+- **Identificadors P1 d'origen:** 33.2
 - **Ubicació editorial F10:** 33.2.1 i 33.2.3.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 33.2.1 i 33.2.3.
 - **Remissió textual proposada:** «La Figura 33.2 presenta una síntesi visual: ceràmica sense esmaltar i superfícies esmaltades.»
@@ -207,7 +207,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 33.3 — Construcció d'una superfície de terracota
 
-- **Identificadors P1 d'origen:** 33.5.
+- **Identificadors P1 d'origen:** 33.5
 - **Ubicació editorial F10:** 33.4.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 33.4.
 - **Remissió textual proposada:** «La Figura 33.3 presenta una síntesi visual: construcció d'una superfície de terracota.»
@@ -218,7 +218,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 33.4 — Construcció d'un esmalt acolorit
 
-- **Identificadors P1 d'origen:** 33.6.
+- **Identificadors P1 d'origen:** 33.6
 - **Ubicació editorial F10:** 33.5.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 33.5.
 - **Remissió textual proposada:** «La Figura 33.4 presenta una síntesi visual: construcció d'un esmalt acolorit.»
@@ -229,7 +229,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 33.5 — Craquelat i pèrdua localitzada de l'esmalt
 
-- **Identificadors P1 d'origen:** 33.7.
+- **Identificadors P1 d'origen:** 33.7
 - **Ubicació editorial F10:** 33.6.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 33.6.
 - **Remissió textual proposada:** «La Figura 33.5 presenta una síntesi visual: craquelat i pèrdua localitzada de l'esmalt.»
@@ -240,7 +240,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 33.6 — Reflexos sobre superfícies plàstiques
 
-- **Identificadors P1 d'origen:** 33.9.
+- **Identificadors P1 d'origen:** 33.9
 - **Ubicació editorial F10:** 33.7–33.8.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 33.7–33.8.
 - **Remissió textual proposada:** «La Figura 33.6 presenta una síntesi visual: reflexos sobre superfícies plàstiques.»
@@ -253,7 +253,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 34.1 — Tipus de vidre i diferències entre transparència i difusió
 
-- **Identificadors P1 d'origen:** 34.1, 34.7.
+- **Identificadors P1 d'origen:** 34.1, 34.7
 - **Ubicació editorial F10:** 34.2; remissió des de 34.7.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 34.2. Integra també la proposta 34.7; aquesta no tindrà figura autònoma.
 - **Remissió textual proposada:** «La Figura 34.1 presenta una síntesi visual: tipus de vidre i diferències entre transparència i difusió.»
@@ -264,7 +264,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 34.2 — Senyals visuals del vidre
 
-- **Identificadors P1 d'origen:** 34.2.
+- **Identificadors P1 d'origen:** 34.2
 - **Ubicació editorial F10:** 34.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 34.2.
 - **Remissió textual proposada:** «La Figura 34.2 presenta una síntesi visual: senyals visuals del vidre.»
@@ -275,7 +275,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 34.3 — Construcció d'un panell i d'un recipient de vidre transparent
 
-- **Identificadors P1 d'origen:** 34.3.
+- **Identificadors P1 d'origen:** 34.3
 - **Ubicació editorial F10:** 34.4.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 34.4. Integra 34.4 (P3) com a segon panell de geometria corba.
 - **Remissió textual proposada:** «La Figura 34.3 presenta una síntesi visual: construcció d'un panell i d'un recipient de vidre transparent.»
@@ -286,7 +286,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 34.4 — Vidre acolorit
 
-- **Identificadors P1 d'origen:** 34.5.
+- **Identificadors P1 d'origen:** 34.5
 - **Ubicació editorial F10:** 34.5.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 34.5.
 - **Remissió textual proposada:** «La Figura 34.4 presenta una síntesi visual: vidre acolorit.»
@@ -297,7 +297,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 34.5 — Esquerdes, fractures i fragments de vidre
 
-- **Identificadors P1 d'origen:** 34.9.
+- **Identificadors P1 d'origen:** 34.9
 - **Ubicació editorial F10:** 34.8.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 34.8.
 - **Remissió textual proposada:** «La Figura 34.5 presenta una síntesi visual: esquerdes, fractures i fragments de vidre.»
@@ -310,7 +310,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 35.1 — Anàlisi global i distribució de masses cromàtiques
 
-- **Identificadors P1 d'origen:** 35.1, 35.2.
+- **Identificadors P1 d'origen:** 35.1, 35.2
 - **Ubicació editorial F10:** 35.2–35.3.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 35.2–35.3. Integra 35.2 en un segon panell de mapa de masses.
 - **Remissió textual proposada:** «La Figura 35.1 presenta una síntesi visual: anàlisi global i distribució de masses cromàtiques.»
@@ -321,7 +321,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 35.2 — Harmonització i uniformitat
 
-- **Identificadors P1 d'origen:** 35.4.
+- **Identificadors P1 d'origen:** 35.4
 - **Ubicació editorial F10:** 35.3.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 35.3.
 - **Remissió textual proposada:** «La Figura 35.2 presenta una síntesi visual: harmonització i uniformitat.»
@@ -332,7 +332,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 35.3 — Integració cromàtica entre materials
 
-- **Identificadors P1 d'origen:** 35.5.
+- **Identificadors P1 d'origen:** 35.5
 - **Ubicació editorial F10:** 35.4.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 35.4.
 - **Remissió textual proposada:** «La Figura 35.3 presenta una síntesi visual: integració cromàtica entre materials.»
@@ -343,7 +343,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 35.4 — Integració cromàtica de figura i peanya
 
-- **Identificadors P1 d'origen:** 35.6.
+- **Identificadors P1 d'origen:** 35.6
 - **Ubicació editorial F10:** 35.5.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 35.5.
 - **Remissió textual proposada:** «La Figura 35.4 presenta una síntesi visual: integració cromàtica de figura i peanya.»
@@ -354,7 +354,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 35.5 — Correccions localitzades i globals
 
-- **Identificadors P1 d'origen:** 35.8.
+- **Identificadors P1 d'origen:** 35.8
 - **Ubicació editorial F10:** 35.7.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 35.7.
 - **Remissió textual proposada:** «La Figura 35.5 presenta una síntesi visual: correccions localitzades i globals.»
@@ -365,7 +365,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 35.6 — Seqüència d'harmonització cromàtica
 
-- **Identificadors P1 d'origen:** 35.9.
+- **Identificadors P1 d'origen:** 35.9
 - **Ubicació editorial F10:** 35.8.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 35.8. Integra 35.10 (P3) com a panell d'avaluació i errors.
 - **Remissió textual proposada:** «La Figura 35.6 presenta una síntesi visual: seqüència d'harmonització cromàtica.»
@@ -378,7 +378,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 36.1 — Envelliment, desgast i deteriorament
 
-- **Identificadors P1 d'origen:** 36.1.
+- **Identificadors P1 d'origen:** 36.1
 - **Ubicació editorial F10:** 36.2.1.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 36.2.1.
 - **Remissió textual proposada:** «La Figura 36.1 presenta una síntesi visual: envelliment, desgast i deteriorament.»
@@ -389,7 +389,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 36.2 — Distribució del desgast segons la geometria i l'ús
 
-- **Identificadors P1 d'origen:** 36.2.
+- **Identificadors P1 d'origen:** 36.2
 - **Ubicació editorial F10:** 36.3.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 36.3.
 - **Remissió textual proposada:** «La Figura 36.2 presenta una síntesi visual: distribució del desgast segons la geometria i l'ús.»
@@ -400,7 +400,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 36.3 — Abrasió, fregadures i ratllades
 
-- **Identificadors P1 d'origen:** 36.3.
+- **Identificadors P1 d'origen:** 36.3
 - **Ubicació editorial F10:** 36.4.1–36.4.3.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 36.4.1–36.4.3.
 - **Remissió textual proposada:** «La Figura 36.3 presenta una síntesi visual: abrasió, fregadures i ratllades.»
@@ -411,7 +411,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 36.4 — Impactes i danys localitzats
 
-- **Identificadors P1 d'origen:** 36.4.
+- **Identificadors P1 d'origen:** 36.4
 - **Ubicació editorial F10:** 36.4.4.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 36.4.4.
 - **Remissió textual proposada:** «La Figura 36.4 presenta una síntesi visual: impactes i danys localitzats.»
@@ -422,7 +422,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 36.5 — Estructura de capes i pèrdua de recobriment
 
-- **Identificadors P1 d'origen:** 36.5.
+- **Identificadors P1 d'origen:** 36.5
 - **Ubicació editorial F10:** 36.5.1.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 36.5.1.
 - **Remissió textual proposada:** «La Figura 36.5 presenta una síntesi visual: estructura de capes i pèrdua de recobriment.»
@@ -433,7 +433,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 36.6 — Desconxats petits i pèrdues extenses
 
-- **Identificadors P1 d'origen:** 36.6.
+- **Identificadors P1 d'origen:** 36.6
 - **Ubicació editorial F10:** 36.5.2–36.5.3.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 36.5.2–36.5.3.
 - **Remissió textual proposada:** «La Figura 36.6 presenta una síntesi visual: desconxats petits i pèrdues extenses.»
@@ -444,7 +444,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 36.7 — Desgast en materials diferents
 
-- **Identificadors P1 d'origen:** 36.8.
+- **Identificadors P1 d'origen:** 36.8
 - **Ubicació editorial F10:** 36.7.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 36.7.
 - **Remissió textual proposada:** «La Figura 36.7 presenta una síntesi visual: desgast en materials diferents.»
@@ -455,7 +455,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 36.8 — Seqüència de construcció d'una superfície desgastada
 
-- **Identificadors P1 d'origen:** 36.9.
+- **Identificadors P1 d'origen:** 36.9
 - **Ubicació editorial F10:** 36.8.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 36.8.
 - **Remissió textual proposada:** «La Figura 36.8 presenta una síntesi visual: seqüència de construcció d'una superfície desgastada.»
@@ -468,7 +468,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 37.1 — Reflexió especular i reflexió més difusa
 
-- **Identificadors P1 d'origen:** 37.2.
+- **Identificadors P1 d'origen:** 37.2
 - **Ubicació editorial F10:** 37.2.1.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 37.2.1.
 - **Remissió textual proposada:** «La Figura 37.1 presenta una síntesi visual: reflexió especular i reflexió més difusa.»
@@ -479,7 +479,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 37.2 — Orientació, il·luminació i brillantor percebuda
 
-- **Identificadors P1 d'origen:** 37.3.
+- **Identificadors P1 d'origen:** 37.3
 - **Ubicació editorial F10:** 37.2.1–37.3.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 37.2.1–37.3.
 - **Remissió textual proposada:** «La Figura 37.2 presenta una síntesi visual: orientació, il·luminació i brillantor percebuda.»
@@ -490,7 +490,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 37.3 — Relació entre acabat, textura i reflexos
 
-- **Identificadors P1 d'origen:** 37.4.
+- **Identificadors P1 d'origen:** 37.4
 - **Ubicació editorial F10:** 37.2.1–37.3.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 37.2.1–37.3.
 - **Remissió textual proposada:** «La Figura 37.3 presenta una síntesi visual: relació entre acabat, textura i reflexos.»
@@ -501,7 +501,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 37.4 — Selecció de l'acabat segons materials i efectes
 
-- **Identificadors P1 d'origen:** 37.6.
+- **Identificadors P1 d'origen:** 37.6
 - **Ubicació editorial F10:** 37.4.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 37.4.
 - **Remissió textual proposada:** «La Figura 37.4 presenta una síntesi visual: selecció de l'acabat segons materials i efectes.»
@@ -512,7 +512,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 37.5 — Diferenciació de materials mitjançant acabats selectius
 
-- **Identificadors P1 d'origen:** 37.7.
+- **Identificadors P1 d'origen:** 37.7
 - **Ubicació editorial F10:** 37.5.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 37.5.
 - **Remissió textual proposada:** «La Figura 37.5 presenta una síntesi visual: diferenciació de materials mitjançant acabats selectius.»
@@ -523,7 +523,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 37.6 — Distribució localitzada de la brillantor
 
-- **Identificadors P1 d'origen:** 37.8.
+- **Identificadors P1 d'origen:** 37.8
 - **Ubicació editorial F10:** 37.5.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 37.5.
 - **Remissió textual proposada:** «La Figura 37.6 presenta una síntesi visual: distribució localitzada de la brillantor.»
@@ -534,7 +534,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 37.7 — Seqüència d'anàlisi i selecció de l'acabat
 
-- **Identificadors P1 d'origen:** 37.9.
+- **Identificadors P1 d'origen:** 37.9
 - **Ubicació editorial F10:** 37.6.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 37.6.
 - **Remissió textual proposada:** «La Figura 37.7 presenta una síntesi visual: seqüència d'anàlisi i selecció de l'acabat.»
@@ -545,7 +545,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 37.8 — Errors freqüents i criteris de correcció
 
-- **Identificadors P1 d'origen:** 37.10.
+- **Identificadors P1 d'origen:** 37.10
 - **Ubicació editorial F10:** 37.7.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 37.7.
 - **Remissió textual proposada:** «La Figura 37.8 presenta una síntesi visual: errors freqüents i criteris de correcció.»
@@ -558,7 +558,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 38.1 — Fases d'assecat i estabilització
 
-- **Identificadors P1 d'origen:** 38.2.
+- **Identificadors P1 d'origen:** 38.2
 - **Ubicació editorial F10:** 38.2.4.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 38.2.4.
 - **Remissió textual proposada:** «La Figura 38.1 presenta una síntesi visual: fases d'assecat i estabilització.»
@@ -569,7 +569,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 38.2 — Selecció del sistema de protecció segons l'ús
 
-- **Identificadors P1 d'origen:** 38.4.
+- **Identificadors P1 d'origen:** 38.4
 - **Ubicació editorial F10:** 38.4.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 38.4.
 - **Remissió textual proposada:** «La Figura 38.2 presenta una síntesi visual: selecció del sistema de protecció segons l'ús.»
@@ -580,7 +580,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 38.3 — Seqüència de preparació i inspecció
 
-- **Identificadors P1 d'origen:** 38.5.
+- **Identificadors P1 d'origen:** 38.5
 - **Ubicació editorial F10:** 38.5.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 38.5.
 - **Remissió textual proposada:** «La Figura 38.3 presenta una síntesi visual: seqüència de preparació i inspecció.»
@@ -591,7 +591,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 38.4 — Aplicació amb pinzell, aerògraf i aerosol
 
-- **Identificadors P1 d'origen:** 38.6.
+- **Identificadors P1 d'origen:** 38.6
 - **Ubicació editorial F10:** 38.6.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 38.6.
 - **Remissió textual proposada:** «La Figura 38.4 presenta una síntesi visual: aplicació amb pinzell, aerògraf i aerosol.»
@@ -602,7 +602,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 38.5 — Distribució controlada i acumulació excessiva
 
-- **Identificadors P1 d'origen:** 38.7.
+- **Identificadors P1 d'origen:** 38.7
 - **Ubicació editorial F10:** 38.6 i 38.7.3.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 38.6 i 38.7.3.
 - **Remissió textual proposada:** «La Figura 38.5 presenta una síntesi visual: distribució controlada i acumulació excessiva.»
@@ -613,7 +613,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 38.6 — Alteracions per incompatibilitat o aplicació incorrecta
 
-- **Identificadors P1 d'origen:** 38.8.
+- **Identificadors P1 d'origen:** 38.8
 - **Ubicació editorial F10:** 38.7.1–38.7.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 38.7.1–38.7.2.
 - **Remissió textual proposada:** «La Figura 38.6 presenta una síntesi visual: alteracions per incompatibilitat o aplicació incorrecta.»
@@ -624,7 +624,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 38.7 — Seqüència integral de protecció i conservació
 
-- **Identificadors P1 d'origen:** 38.10.
+- **Identificadors P1 d'origen:** 38.10
 - **Ubicació editorial F10:** 38.8 i síntesi.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 38.8 i síntesi.
 - **Remissió textual proposada:** «La Figura 38.7 presenta una síntesi visual: seqüència integral de protecció i conservació.»
@@ -637,7 +637,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 39.1 — Seqüència general de diagnòstic
 
-- **Identificadors P1 d'origen:** 39.1.
+- **Identificadors P1 d'origen:** 39.1
 - **Ubicació editorial F10:** 39.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 39.2.
 - **Remissió textual proposada:** «La Figura 39.1 presenta una síntesi visual: seqüència general de diagnòstic.»
@@ -648,7 +648,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 39.2 — Diferència entre símptoma, causa i correcció
 
-- **Identificadors P1 d'origen:** 39.2.
+- **Identificadors P1 d'origen:** 39.2
 - **Ubicació editorial F10:** 39.2.2–39.2.5.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 39.2.2–39.2.5.
 - **Remissió textual proposada:** «La Figura 39.2 presenta una síntesi visual: diferència entre símptoma, causa i correcció.»
@@ -659,7 +659,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 39.3 — Inspecció d'una miniatura
 
-- **Identificadors P1 d'origen:** 39.3.
+- **Identificadors P1 d'origen:** 39.3
 - **Ubicació editorial F10:** 39.2.1.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 39.2.1.
 - **Remissió textual proposada:** «La Figura 39.3 presenta una síntesi visual: inspecció d'una miniatura.»
@@ -670,7 +670,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 39.4 — Classificació dels problemes habituals
 
-- **Identificadors P1 d'origen:** 39.4.
+- **Identificadors P1 d'origen:** 39.4
 - **Ubicació editorial F10:** 39.3.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 39.3.
 - **Remissió textual proposada:** «La Figura 39.4 presenta una síntesi visual: classificació dels problemes habituals.»
@@ -681,7 +681,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 39.5 — Nivells d'intervenció
 
-- **Identificadors P1 d'origen:** 39.5.
+- **Identificadors P1 d'origen:** 39.5
 - **Ubicació editorial F10:** 39.5.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 39.5.
 - **Remissió textual proposada:** «La Figura 39.5 presenta una síntesi visual: nivells d'intervenció.»
@@ -692,7 +692,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 39.6 — Diagnòstic d'alteracions superficials
 
-- **Identificadors P1 d'origen:** 39.7.
+- **Identificadors P1 d'origen:** 39.7
 - **Ubicació editorial F10:** 39.7.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 39.7.
 - **Remissió textual proposada:** «La Figura 39.6 presenta una síntesi visual: diagnòstic d'alteracions superficials.»
@@ -703,7 +703,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ### Figura 39.7 — Arbre de decisió: corregir o conservar
 
-- **Identificadors P1 d'origen:** 39.10.
+- **Identificadors P1 d'origen:** 39.10
 - **Ubicació editorial F10:** 39.5.1–39.5.2.
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 39.5.1–39.5.2.
 - **Remissió textual proposada:** «La Figura 39.7 presenta una síntesi visual: arbre de decisió: corregir o conservar.»

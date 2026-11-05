@@ -244,7 +244,7 @@ def main():
     current_group = None
     for path in fiche_paths:
         fiche_text = path.read_text(encoding="utf-8")
-        group_match = re.search(r'\|\s*Conjunt Squidmar\s*[×x]\s*Vallejo\s*\|\s*\*\*(.*?)\s*\(', fiche_text)
+        group_match = re.search(r'\|\s*Conjunt Squidmar\s*[×x]\s*Vallejo\s*\|\s*\*{0,2}(.*?)\*{0,2}\s*\(', fiche_text)
         group_name = group_match.group(1).strip() if group_match else None
         if group_name and group_name != current_group:
             doc.add_heading(group_name, level=2)

@@ -1594,3 +1594,1481 @@ Aquest coneixement proporciona una base conceptual per als capítols posteriors,
 - Marschner, S. R., Westin, S. H., Arbree, A. i Moon, J. T. (2005). “Measuring and Modeling the Appearance of Finished Wood”. *ACM Transactions on Graphics*, 24(3), 727–734. https://doi.org/10.1145/1073204.1073254
 
 Les referències sobre percepció material sustenten els fonaments conceptuals. La representació pictòrica descrita aquí és una aplicació didàctica i no una identificació física o química dels materials.
+
+
+---
+
+# 7. EINES, PREPARACIÓ I CONTROL DE L'APLICACIÓ
+
+## 7.1. Funció i criteris de preparació
+
+La qualitat del treball depèn de les tècniques i també de les condicions en què s'executen. La preparació de la miniatura, l'estat de les eines, l'organització de l'espai i el control dels materials condicionen les aplicacions posteriors. Una superfície mal preparada, una pintura poc homogeneïtzada, una eina deteriorada o una càrrega excessiva poden provocar irregularitats que s'atribueixin erròniament a una tècnica incorrecta.
+
+Aquest capítol estableix les condicions materials i operatives per treballar amb ordre, precisió i seguretat: preparació de l'entorn i del suport; selecció, condicionament, neteja i conservació d'eines i pintures; control de l'aplicació i prevenció de riscos. Preparar una miniatura no és pintar-la; condicionar una pintura no és aplicar una tècnica; i controlar una eina no equival a dominar tots els procediments que permet. Les tècniques específiques es desenvolupen als capítols corresponents.
+
+## 7.2. Organització de l'espai i condicions de treball
+
+El lloc de treball ha de permetre manipular la miniatura amb precisió, accedir als materials i mantenir unes condicions adequades d'il·luminació, neteja i seguretat. És útil diferenciar cinc zones funcionals:
+- **Pintura:** manipulació de la miniatura i aplicació de productes.
+- **Preparació:** tall, llimat, neteja, muntatge i condicionament de components.
+- **Materials:** pintures, eines, recipients i accessoris.
+- **Neteja:** rentat de pinzells i utensilis.
+- **Assecat i emmagatzematge temporal:** espai protegit per deixar les peces sense manipular-les.
+
+No cal disposar de superfícies independents, però sí evitar interferències. La pols del llimat, per exemple, pot contaminar una paleta oberta o una miniatura acabada de pintar.
+
+### 7.2.1. Distribució funcional
+
+Cal mantenir accessibles les eines d'ús freqüent i separar les operacions que generen pols, residus o esquitxades de les zones de pintura i assecat. Les superfícies auxiliars han de permetre dipositar i preparar productes sense contaminar els envasos originals.
+
+### 7.2.2. Il·luminació, ergonomia i estabilitat
+
+La il·luminació ha de ser estable i permetre distingir colors, observar detalls i detectar defectes. Convé una font prou intensa i amb reproducció cromàtica adequada, evitant reflexos molestos, ombres excessives i canvis continus. Els fonaments físics de la llum i la percepció del volum s'expliquen al capítol 5.
+
+Per reduir tensions i moviments involuntaris:
+- Situar la miniatura a una altura que no obligui a forçar el coll.
+- Recolzar els avantbraços quan sigui possible.
+- Evitar tensions mantingudes a espatlles i canells.
+- Utilitzar suports que estabilitzin la peça.
+- Mantenir les eines habituals a l'abast.
+- Fer pauses en operacions prolongades de precisió.
+
+L'estabilitat del cos i de la miniatura facilita una aplicació consistent.
+
+### 7.2.3. Neteja i condicions ambientals
+
+El lloc ha d'estar lliure de pols, restes de pintura seca i residus de preparació. La temperatura, la humitat i la circulació d'aire poden influir en l'assecat i l'aplicació de pintures, imprimacions, vernissos i adhesius. No hi ha condicions ambientals universals: cal seguir les recomanacions de cada fabricant i evitar situacions extremes o incompatibles amb el producte.
+
+## 7.3. Eines i criteris de selecció
+
+La selecció ha de respondre a les necessitats reals. No cal acumular utensilis, sinó disposar dels adequats, compatibles amb les operacions previstes i en bon estat. Es poden classificar en:
+- **Essencials:** necessaris per a les operacions habituals.
+- **Complementaris:** faciliten tasques o milloren comoditat i precisió.
+- **Especialitzats:** destinats a procediments concrets.
+
+### 7.3.1. Pinzells
+
+El pinzell consta de tres parts: **pèl o filament**, que recull, reté i distribueix la pintura; **virolla**, que uneix i manté el pèl; i **mànec**, que permet subjectar i dirigir l'eina.
+
+Les formes habituals inclouen punta rodona, punta fina, plana, angular i configuracions especials. Cadascuna facilita determinades aplicacions, però la forma per si sola no en determina la utilitat. La mida tampoc no equival directament a precisió: un pinzell relativament gran pot oferir un control excel·lent si conserva una bona punta i reté una quantitat adequada de pintura.
+
+Cal valorar estabilitat de la punta, elasticitat, capacitat de retenció, facilitat de neteja, resistència i compatibilitat amb el producte. Els pèls naturals i sintètics tenen comportaments diferents, però no hi ha una superioritat universal: la tria depèn de l'operació i de les característiques concretes.
+
+### 7.3.2. Paletes
+
+- **Paleta seca:** superfície no absorbent per dipositar i barrejar pintures.
+- **Paleta humida:** sistema amb material absorbent humitejat i una membrana permeable que ajuda a conservar la humitat de determinades pintures.
+
+La paleta humida és útil amb moltes pintures acríliques, però no substitueix el control de consistència ni és adequada per a totes les formulacions. Tintes i productes especials poden comportar-se de manera diferent; cal comprovar-ne la compatibilitat.
+
+### 7.3.3. Mescla, dosificació i recipients
+
+Mescladors, espàtules, varetes, pipetes, comptagotes i recipients auxiliars permeten preparar i manipular petites quantitats, facilitar la dosificació i reduir la contaminació dels envasos originals. Han d'estar nets i ser compatibles amb els productes. És recomanable separar els recipients destinats a pintura, aigua de neteja i altres auxiliars.
+
+### 7.3.4. Subjecció i manipulació
+
+Mànecs i suports per a miniatures, pinces, bases auxiliars i sistemes de fixació temporal estabilitzen la peça i redueixen el contacte amb superfícies pintades. La tria depèn de la mida, el pes i la configuració. Un suport adequat facilita l'accés a diferents zones i redueix el risc de malmetre aplicacions recents.
+
+### 7.3.5. Tall, muntatge i preparació
+
+La preparació pot requerir alicates de tall, ganivets de modelisme, llimes, eines abrasives, pinces de precisió, accessoris de muntatge i adhesius compatibles. Cal utilitzar-los segons la seva funció i mantenir-los en bon estat. S'ha de distingir l'eliminació d'imperfeccions de fabricació d'una modificació estructural de la peça, que pot exigir procediments i precaucions addicionals.
+
+### 7.3.6. Observació i precisió
+
+Lupes i sistemes d'il·luminació amb augment poden facilitar l'observació de detalls petits. Un augment excessiu, però, redueix el camp de visió i pot dificultar la percepció global. Han de complementar una postura estable i una il·luminació adequada, no substituir-les.
+
+### 7.3.7. Aerògraf i aerosol
+
+Tots dos permeten aplicar productes per pulverització, però funcionen de manera diferent.
+
+- **Aerògraf:** dispositiu reutilitzable que utilitza aire comprimit per atomitzar i projectar pintura preparada per l'usuari. Els components habituals són cos, dipòsit, agulla, broquet, mecanisme d'accionament, connexió d'aire, mànega i font d'aire comprimit, normalment un compressor. La pintura ha de ser compatible amb l'equip i tenir característiques adequades per circular i pulveritzar-se. L'ús bàsic exigeix conèixer els components, seguir les instruccions, preparar el producte, comprovar el funcionament, fer proves sobre una superfície auxiliar i netejar l'equip després.
+- **Aerosol:** envàs pressuritzat amb un producte preparat per aplicar mitjançant una vàlvula pulveritzadora. Pot contenir imprimació, pintura o vernís. Cal respectar les instruccions específiques d'agitació, distància, condicions ambientals, assecat i seguretat.
+
+L'aerògraf utilitza aire comprimit i pintura preparada per l'usuari; l'aerosol conté el producte en un envàs pressuritzat d'aplicació directa. El primer requereix neteja i manteniment reutilitzable; el segon, les precaucions pròpies del seu envàs. Aquest capítol tracta el funcionament i manteniment bàsics, no les tècniques avançades d'aerografia.
+
+### 7.3.8. Selecció raonada d'eines
+
+La selecció ha de basar-se en la necessitat real, no en l'acumulació de material. Abans d'adquirir una eina convé valorar quina operació permetrà fer, amb quina freqüència s'utilitzarà, si existeix una alternativa més senzilla, si és compatible amb els materials disponibles, quin manteniment requereix i si la seva adquisició aporta una millora pràctica apreciable.
+
+Una col·lecció àmplia d'eines no garanteix millors resultats. La familiaritat amb un conjunt reduït d'eines adequades sol ser més útil que disposar de molts accessoris sense conèixer-ne el funcionament.
+
+## 7.4. Preparació i condicionament de la miniatura
+
+La preparació ha de deixar la peça neta, estable i lliure de defectes que interfereixin en les fases posteriors.
+
+### 7.4.1. Inspecció i eliminació d'imperfeccions
+
+Abans del muntatge definitiu, examinar rebaves, línies de motlle, restes de material, defectes superficials, components deformats, danys i unions deficients. Utilitzar una il·luminació suficient i, si cal, augment.
+
+Les rebaves i línies de motlle poden fer-se més visibles després de pintar. Es poden retirar amb ganivets, llimes o abrasius adequats, eliminant només el material necessari. Cal evitar pressions excessives, marques profundes, alteracions de la geometria i danys en detalls o components fràgils. L'eina s'ha d'adaptar al material i a la zona.
+
+### 7.4.2. Neteja de la superfície
+
+La superfície ha d'estar lliure de pols, restes de fabricació, greix i altres contaminants que puguin perjudicar l'adherència. El mètode depèn del material i de les recomanacions del fabricant. Si s'utilitza aigua o un producte auxiliar, cal comprovar-ne la compatibilitat i deixar assecar prou la peça. No s'han d'aplicar dissolvents o productes agressius sense verificar-ne la idoneïtat.
+
+### 7.4.3. Muntatge i correcció de juntes
+
+El muntatge pot fer-se abans o després de la imprimació segons l'accés a les zones, l'estabilitat de les unions, la possibilitat de pintar components separadament, la fragilitat i la necessitat d'ocultar juntes. No hi ha una seqüència universal: algunes miniatures es beneficien d'un muntatge parcial i d'altres s'han d'assemblar completament.
+
+Els buits, esglaons i irregularitats es poden corregir amb massilles, adhesius o altres materials compatibles. Un cop endurits, pot caldre regularitzar la superfície amb abrasió, preservant la geometria i els detalls pròxims.
+
+### 7.4.4. Comprovació prèvia
+
+Abans d'imprimar, verificar que:
+- La peça està muntada de manera estable.
+- No queden rebaves ni línies de motlle rellevants.
+- Les juntes i els defectes estan prou corregits.
+- Les superfícies són netes i seques.
+- No queden restes de pols.
+- La miniatura es pot manipular sense comprometre'n l'estabilitat.
+
+## 7.5. Imprimació i preparació del suport
+
+La imprimació és una capa preparatòria que s'aplica sobre la superfície de la miniatura per facilitar les fases posteriors del treball pictòric. La seva funció principal és proporcionar una base adequada per a l'aplicació de pintura i afavorir l'adherència del sistema pictòric. També pot contribuir a uniformitzar visualment el suport i facilitar l'observació de la superfície abans de començar a pintar.
+
+No s'ha de confondre la imprimació amb una capa base. La imprimació prepara el suport; la capa base forma part del procés de construcció pictòrica desenvolupat al capítol 8.
+
+### 7.5.1. Funcions de la imprimació
+
+Entre les seves funcions principals hi ha afavorir l'adherència de les capes posteriors, proporcionar una superfície adequada per pintar, uniformitzar el suport quan el material original presenta diferències, facilitar la detecció de defectes superficials i preparar la miniatura per rebre el sistema de pintura escollit.
+
+La funció concreta depèn de la formulació del producte i del material sobre el qual s'aplica. No totes les imprimacions presenten les mateixes propietats ni són compatibles amb tots els suports.
+
+### 7.5.2. Selecció de la imprimació
+
+Per escollir una imprimació cal valorar:
+
+- El material de la miniatura.
+- La compatibilitat indicada pel fabricant.
+- El sistema de pintura que s'utilitzarà posteriorment.
+- El mètode d'aplicació.
+- L'acabat requerit.
+- Les condicions de treball.
+- Les recomanacions de preparació i assecat.
+
+Hi ha imprimacions formulades per aplicar amb pinzell, aerògraf o aerosol. Els mètodes no s'han d'intercanviar automàticament: un producte dissenyat per a pulverització pot requerir condicions diferents d'un altre destinat a l'aplicació directa amb pinzell.
+
+### 7.5.3. Preparació prèvia
+
+Abans d'aplicar la imprimació cal comprovar que la miniatura és neta i seca, que no hi queden restes de pols o greix, que el producte és compatible amb el suport, que l'envàs està correctament identificat, que s'han llegit les instruccions del fabricant i que l'espai de treball permet aplicar el producte amb seguretat.
+
+Quan s'utilitzi un producte que requereixi agitació, dilució o preparació prèvia, cal seguir les indicacions específiques del fabricant. No s'han d'establir proporcions universals de dilució ni procediments idèntics per a totes les imprimacions.
+
+### 7.5.4. Aplicació i control bàsic
+
+La imprimació s'ha d'aplicar de manera controlada, evitant acumulacions excessives i procurant que la superfície quedi coberta adequadament. La quantitat de producte i el procediment depenen de la formulació i del sistema d'aplicació.
+
+Durant l'operació convé observar:
+
+- La continuïtat i uniformitat de la cobertura.
+- Les acumulacions de producte.
+- La possible obstrucció de detalls.
+- L'aparició d'irregularitats superficials.
+- Les zones del suport que hagin quedat exposades.
+
+Una capa excessivament gruixuda pot ocultar detalls i generar defectes. Una cobertura insuficient pot deixar zones del suport sense preparar. La solució no consisteix necessàriament a aplicar més producte d'una sola vegada: cal respectar el comportament del material i les indicacions del fabricant.
+
+### 7.5.5. Assecat i comprovació
+
+Un cop aplicada, la imprimació s'ha de deixar assecar durant el temps indicat pel fabricant. No s'ha de manipular ni cobrir amb altres pintures abans que estigui en condicions adequades.
+
+La comprovació final ha de valorar:
+
+- La uniformitat de la superfície.
+- La conservació dels detalls.
+- L'absència d'acumulacions importants.
+- L'absència de despreniments o defectes visibles.
+- La continuïtat general de la cobertura.
+
+L'observació visual permet identificar defectes superficials, però no substitueix una prova específica d'adherència quan sigui necessària. Si apareixen problemes, convé identificar-ne la causa abans de continuar. La imprimació no s'ha de considerar una operació purament automàtica: una preparació deficient pot condicionar tot el treball posterior.
+
+## 7.6. Preparació i gestió operativa de les pintures
+
+Abans d'utilitzar una pintura cal comprovar-ne l'estat, homogeneïtzar-la quan correspongui i preparar una quantitat adequada per al treball previst. Aquestes operacions permeten reduir diferències d'aplicació, contaminació i malbaratament de material.
+
+Aquest apartat se centra en la gestió física i operativa de les pintures. La teoria del color, les mescles cromàtiques i la construcció de paletes es desenvolupen al capítol 4; les propietats i característiques de les pintures s'estudien al capítol 3.
+
+### 7.6.1. Comprovació de l'estat de la pintura
+
+Abans d'utilitzar una pintura convé comprovar-ne la identificació, l'estat de l'envàs, la presència de residus o contaminació, la consistència aparent, la possible separació de components i les indicacions de conservació del fabricant.
+
+Una pintura que presenta separació de components no està necessàriament deteriorada. Algunes formulacions requereixen homogeneïtzació abans de l'ús. Tanmateix, canvis anòmals d'olor, textura, aparença o comportament poden indicar que el producte està alterat. Davant una alteració important, no s'ha d'assumir que una simple agitació recuperarà les propietats originals.
+
+### 7.6.2. Homogeneïtzació
+
+La homogeneïtzació consisteix a distribuir uniformement els components de la pintura abans d'utilitzar-la. Es pot fer agitant l'envàs o utilitzant mescladors manuals, varetes, espàtules o accessoris compatibles, segons el format i les recomanacions del fabricant.
+
+Ha de ser suficient per evitar diferències de composició entre les primeres i les darreres porcions utilitzades. No s'ha d'introduir brutícia, aigua o altres productes a l'envàs original.
+
+### 7.6.3. Dosificació
+
+La pintura s'ha d'extreure en una quantitat raonable per al treball previst. Treballar amb petites quantitats facilita el control del producte i redueix el risc de malbaratament. La dosificació es pot fer mitjançant comptagotes, pipetes, espàtules o altres accessoris adequats.
+
+Convé evitar retornar a l'envàs original pintura que ja hagi estat en contacte amb aigua, eines o superfícies auxiliars.
+
+### 7.6.4. Dilució i consistència operativa
+
+La consistència d'una pintura influeix en la seva manipulació i aplicació. La necessitat de dilució depèn de la formulació, l'estat del producte, l'eina utilitzada i el resultat operatiu buscat. No hi ha una proporció universal d'aigua o diluent que funcioni per a totes les pintures.
+
+Abans de modificar la consistència cal considerar les recomanacions del fabricant, la compatibilitat del diluent, l'eina d'aplicació, la superfície de treball i el comportament observat en una prova. Una dilució inadequada pot modificar la cobertura, la distribució, l'adherència o altres característiques de la pintura.
+
+Quan es desconegui la resposta d'un producte, és preferible fer una prova sobre una superfície auxiliar abans d'aplicar-lo a la miniatura.
+
+### 7.6.5. Quantitat de pintura i gestió durant el treball
+
+La quantitat de pintura preparada s'ha d'adaptar a la durada prevista de l'operació. Una quantitat excessiva pot assecar-se abans d'utilitzar-la, contaminar-se o generar malbaratament. Una quantitat insuficient pot obligar a repetir mescles i provocar diferències entre aplicacions successives.
+
+Convé treballar amb quantitats que permetin mantenir un control raonable del producte i reposar-les quan sigui necessari.
+
+### 7.6.6. Prevenció de contaminacions
+
+La contaminació es pot produir quan s'introdueixen restes d'altres pintures, pols, aigua bruta o residus d'eines en el producte. Per reduir aquest risc convé:
+
+- Utilitzar eines netes.
+- No introduir directament pinzells bruts als envasos.
+- Mantenir tancats els recipients quan no s'utilitzin.
+- Evitar retornar a l'envàs original les restes de pintura de la paleta.
+- Separar els recipients de neteja dels recipients de treball.
+- Mantenir netes les superfícies auxiliars.
+
+### 7.6.7. Control de l'assecat i conservació
+
+Durant el treball cal evitar que la pintura s'assequi prematurament a la paleta o a les eines. El comportament depèn de la formulació i de les condicions ambientals.
+
+Els recipients s'han de tancar després de l'ús i conservar-se seguint les recomanacions del fabricant. No s'han d'emmagatzemar en condicions que puguin alterar-ne l'estabilitat ni utilitzar pintures l'estat de les quals sigui clarament anòmal.
+
+## 7.7. Control bàsic de les eines i l'aplicació
+
+El control operatiu consisteix a utilitzar les eines de manera estable, precisa i adequada a les característiques del material. No implica dominar les tècniques pictòriques específiques, sinó adquirir les habilitats bàsiques que permetran executar-les posteriorment amb més consistència.
+
+### 7.7.1. Càrrega i descàrrega de pintura
+
+La càrrega consisteix a recollir una quantitat de pintura adequada amb l'eina. En el cas del pinzell, la quantitat ha de permetre treballar sense que el producte s'acumuli de manera descontrolada.
+
+Una càrrega excessiva pot provocar gotes, acumulacions, pèrdua de precisió, contaminació de zones pròximes i dificultat per controlar el recorregut. Una càrrega insuficient pot dificultar la continuïtat de l'aplicació i obligar a repetir moviments.
+
+La descàrrega consisteix a retirar l'excés de producte abans d'aplicar-lo. Es pot fer mitjançant un contacte controlat amb la paleta o una superfície auxiliar adequada. No s'ha de confondre la descàrrega amb eliminar tota la pintura del pinzell.
+
+### 7.7.2. Estabilitat i subjecció
+
+L'eina i la miniatura s'han de mantenir estables. Per millorar el control convé subjectar l'eina de manera còmoda, mantenir punts de suport que redueixin moviments involuntaris, utilitzar suports per estabilitzar la miniatura, evitar tensions excessives a la mà i ajustar la postura a l'operació.
+
+La precisió depèn tant del moviment de l'eina com de l'estabilitat del conjunt.
+
+### 7.7.3. Pressió i contacte
+
+La pressió aplicada s'ha d'adaptar a l'eina i a la superfície. Una pressió excessiva pot deformar el pèl del pinzell, desplaçar el producte irregularment o dificultar-ne el control. Una pressió insuficient pot impedir el contacte adequat quan l'operació el requereix.
+
+El contacte ha de ser conscient i controlat. No totes les superfícies ni totes les eines exigeixen la mateixa pressió.
+
+### 7.7.4. Orientació i recorregut
+
+L'orientació de l'eina condiciona el contacte amb la superfície i el control del moviment. Convé adaptar l'angle de treball a la geometria de la miniatura i evitar posicions que dificultin la visibilitat o l'estabilitat.
+
+El recorregut s'ha de fer de manera controlada, evitant moviments bruscos o innecessaris. La direcció i la forma del moviment dependran de la tècnica concreta, que es desenvoluparà als capítols posteriors.
+
+### 7.7.5. Control de la quantitat aplicada
+
+La quantitat de producte ha de ser suficient per a l'operació, però no tan elevada que provoqui acumulacions o pèrdua de detall. El control requereix observar la superfície durant l'aplicació i detectar possibles excessos.
+
+En cas d'acumulació, convé intervenir abans que el producte s'assequi, sempre que sigui possible i que la correcció no deteriori la superfície. No s'ha d'intentar solucionar qualsevol irregularitat afegint més pintura. Primer cal identificar si el problema prové de la quantitat, la consistència, l'eina o la preparació del suport.
+
+### 7.7.6. Adaptació a diferents superfícies
+
+La geometria de la miniatura condiciona l'accés i el control de l'eina. Les superfícies àmplies, els relleus, les cavitats, les vores i els elements petits presenten dificultats diferents.
+
+Convé adaptar la posició de la miniatura, l'eina i la postura per mantenir una aplicació controlada. Aquesta adaptació no s'ha de confondre amb el desenvolupament d'una tècnica específica per a cada material: els procediments d'aplicació s'estudien als capítols corresponents.
+
+### 7.7.7. Proves sobre superfícies auxiliars
+
+Quan es desconegui el comportament d'una pintura, eina o combinació de materials, convé fer una prova prèvia. Es pot utilitzar una peça de prova, una superfície auxiliar o una miniatura destinada a assajos.
+
+Les proves permeten comprovar la consistència operativa, la quantitat recollida, la resposta de l'eina, la distribució del producte, la presència d'acumulacions i la compatibilitat aparent entre materials. Aquestes comprovacions redueixen el risc d'experimentar directament sobre una miniatura en què ja s'ha invertit temps de preparació.
+
+## 7.8. Neteja, manteniment i conservació
+
+El manteniment permet conservar les eines en condicions adequades i reduir el deteriorament derivat de l'ús. Una eina bruta o deteriorada pot dificultar el control de l'aplicació i produir resultats irregulars. La neteja s'ha d'adaptar al tipus d'eina i al producte utilitzat.
+
+### 7.8.1. Neteja de pinzells
+
+Després d'utilitzar un pinzell convé retirar-ne la pintura abans que s'assequi. El procediment ha de respectar les característiques del pèl i les recomanacions del fabricant.
+
+Com a criteri general:
+
+1. Retirar l'excés de pintura.
+2. Netejar el pinzell amb un producte compatible.
+3. Evitar pressionar o deformar innecessàriament el pèl.
+4. Esbandir quan correspongui.
+5. Recuperar suaument la forma de la punta.
+6. Deixar-lo assecar en una posició adequada.
+
+No és recomanable deixar els pinzells submergits durant períodes prolongats, especialment si l'aigua o el producte de neteja poden afectar la unió entre pèl, virolla i mànec.
+
+### 7.8.2. Conservació de la punta i del pèl
+
+La punta és una de les parts més importants per al control d'un pinzell. Per conservar-la convé evitar arrossegar el pinzell amb pressió excessiva, utilitzar-lo sobre superfícies abrasives quan no hi estigui destinat, deixar pintura seca prop de la virolla, doblegar el pèl de manera forçada, guardar-lo amb la punta deformada i netejar-lo amb moviments agressius.
+
+Un pinzell deteriorat pot continuar sent útil per a tasques menys exigents, però no s'ha d'utilitzar quan el seu estat impedeixi un control adequat.
+
+### 7.8.3. Neteja de paletes i recipients
+
+Les paletes i els recipients s'han de netejar abans que les restes de pintura s'endureixin, sempre que el material ho permeti. Els productes de neteja han de ser compatibles amb la superfície de l'estri.
+
+Convé retirar els residus de manera controlada i evitar que les restes de pintura acabin en llocs inadequats.
+
+### 7.8.4. Manteniment de les eines de preparació
+
+Les eines de tall, llimat i muntatge s'han de mantenir netes i en bon estat. Les fulles han de conservar un fil adequat i guardar-se protegides. Les eines abrasives s'han de revisar per detectar desgast o acumulacions.
+
+Una eina deteriorada pot exigir més pressió i augmentar el risc de perdre'n el control.
+
+### 7.8.5. Neteja i manteniment bàsic de l'aerògraf
+
+L'aerògraf requereix una neteja adequada després de cada utilització. Les restes de pintura poden acumular-se al dipòsit, el broquet, l'agulla i altres components, i dificultar-ne el funcionament posterior.
+
+Com a manteniment bàsic convé seguir les instruccions del fabricant, utilitzar productes de neteja compatibles amb la pintura i l'aerògraf, retirar les restes del dipòsit, netejar els components accessibles segons les indicacions, evitar forçar l'agulla o el broquet, comprovar l'estat de les connexions i guardar l'equip net i protegit.
+
+El desmuntatge s'ha de limitar a les operacions que l'usuari conegui i que estiguin previstes a les instruccions de l'equip. No s'han d'utilitzar dissolvents incompatibles ni eines improvisades que puguin danyar components delicats.
+
+### 7.8.6. Emmagatzematge dels materials
+
+Les pintures i les eines s'han d'emmagatzemar en condicions adequades. Convé tancar correctament els envasos, mantenir les pintures identificades, evitar temperatures extremes, protegir els pinzells perquè no es deformin, guardar les eines de tall protegides i mantenir separats els productes químics quan les seves característiques ho requereixin.
+
+També és important conservar les instruccions i les fitxes de seguretat dels productes. L'emmagatzematge ha de seguir les indicacions del fabricant i les condicions específiques de cada material.
+
+### 7.8.7. Conservació de les eines segons la seva funció
+
+No totes les eines requereixen el mateix manteniment. Els pinzells necessiten conservar la forma del pèl; les eines de tall requereixen protecció i control del fil; els recipients han de mantenir-se nets, i els equips de pulverització necessiten una neteja específica.
+
+La conservació s'ha d'adaptar a la funció i al material de cada eina.
+
+## 7.9. Seguretat, prevenció i comprovació abans de pintar
+
+La pintura de miniatures implica operacions manuals, manipulació d'eines i utilització de productes que poden presentar riscos diferents segons la seva composició i el mètode d'aplicació. La seguretat ha de formar part de la preparació del treball i no s'ha de considerar una operació secundària.
+
+Les mesures adequades depenen del producte, l'eina, la quantitat utilitzada i les condicions de l'espai.
+
+### 7.9.1. Manipulació d'eines de tall
+
+Les fulles, alicates i eines abrasives poden produir talls, punxades o lesions. Per reduir els riscos convé utilitzar cada eina per a la funció prevista, mantenir una posició estable durant el tall, dirigir el moviment lluny de les mans i del cos, no aplicar una força excessiva, guardar les fulles protegides, substituir els elements deteriorats i evitar deixar eines tallants soltes sobre la taula.
+
+Les peces petites s'han de subjectar de manera estable per evitar desplaçaments inesperats.
+
+### 7.9.2. Manipulació de pintures, productes auxiliars i aerosols
+
+No totes les pintures i els productes auxiliars presenten els mateixos perills. Les pintures acríliques, tintes, imprimacions, vernissos, adhesius, dissolvents i productes de neteja poden tenir composicions i característiques diferents.
+
+Abans d'utilitzar un producte convé consultar:
+
+- L'etiqueta.
+- Les instruccions del fabricant.
+- Les advertències de seguretat.
+- La fitxa de dades de seguretat, quan estigui disponible o sigui aplicable.
+
+La fitxa de dades de seguretat proporciona informació sobre perills, manipulació, emmagatzematge, mesures de control, primers auxilis i eliminació, entre altres aspectes. No s'ha d'assumir que un producte és innocu pel fet d'estar destinat al modelisme o de ser una pintura a l'aigua.
+
+**Precaucions específiques per a aerosols pressuritzats**
+
+Els aerosols requereixen precaucions addicionals per les característiques del recipient. Un envàs pressuritzat pot rebentar si s'escalfa, independentment que el producte contingut tingui o no una classificació específica d'inflamabilitat.
+
+Cal respectar les advertències de l'etiquetatge i les instruccions del fabricant. Quan així s'indiqui, l'envàs s'ha de protegir de la llum solar i de les temperatures elevades, mantenir-se allunyat de fonts de calor, superfícies calentes, espurnes i flames, i no perforar-se ni cremar-se, ni tan sols després de l'ús.
+
+La classificació d'inflamabilitat no és idèntica per a tots els aerosols: s'ha de comprovar a l'etiqueta i a la informació de seguretat del producte concret. El risc associat al recipient pressuritzat s'ha de considerar per separat d'aquesta classificació.
+
+### 7.9.3. Ventilació i exposició a partícules
+
+La pulverització mitjançant aerògraf o aerosol pot generar boires i partícules que es poden inhalar. El risc depèn del producte, la seva composició, el mètode d'aplicació, la durada de l'exposició i les condicions de l'espai.
+
+Per tant:
+
+- No s'ha de pulveritzar en un espai tancat sense valorar les condicions de ventilació i control de l'exposició.
+- Cal seguir les instruccions de seguretat del fabricant.
+- Convé evitar la presència d'altres persones o animals a la zona de pulverització.
+- S'han d'utilitzar les mesures de protecció indicades per al producte i el procediment.
+- No s'ha de dirigir la pulverització cap a persones ni superfícies no protegides.
+
+El fet que una pintura sigui acrílica o estigui formulada a l'aigua no elimina automàticament els riscos associats a la inhalació de boires. Quan no es puguin garantir condicions adequades de control de l'exposició, no s'ha de fer la pulverització en aquell espai.
+
+### 7.9.4. Protecció personal
+
+Les mesures de protecció s'han de seleccionar en funció del producte i del risc real. Poden incloure, segons el cas, guants compatibles amb el producte, protecció ocular, protecció respiratòria adequada, roba de treball i sistemes de ventilació o extracció apropiats.
+
+No totes les mascaretes ofereixen la mateixa protecció. La selecció de protecció respiratòria ha de respondre al risc i a les indicacions de seguretat del producte. Una protecció inadequada no s'ha d'utilitzar com a substitut d'una ventilació o d'un sistema de control insuficient.
+
+### 7.9.5. Pols i operacions abrasives
+
+El llimat i altres operacions abrasives poden generar pols procedent de la miniatura, les massilles, les imprimacions o les pintures. La naturalesa i el risc d'aquesta pols depenen del material treballat.
+
+Convé reduir-ne la generació, evitar-ne la dispersió i utilitzar mètodes de neteja adequats. No és recomanable retirar la pols mitjançant accions que la dispersin per l'espai de treball.
+
+### 7.9.6. Higiene personal
+
+Durant el treball convé evitar menjar o beure a la zona de manipulació de productes, rentar-se les mans després d'utilitzar pintures i productes auxiliars, evitar tocar-se els ulls o la boca amb les mans contaminades, mantenir els recipients tancats, no utilitzar estris de treball per a activitats alimentàries i netejar les superfícies quan es produeixin vessaments.
+
+### 7.9.7. Emmagatzematge i eliminació
+
+Els productes s'han d'emmagatzemar segons les indicacions del fabricant i les advertències de seguretat. No s'han de barrejar productes diferents sense conèixer-ne la compatibilitat.
+
+Els aerosols pressuritzats s'han de conservar d'acord amb les indicacions específiques de l'etiquetatge, protegits del sol i de les temperatures elevades quan així s'indiqui, i allunyats de fonts d'ignició quan correspongui.
+
+Els residus de pintura, dissolvents, aerosols i productes químics s'han de gestionar d'acord amb les seves característiques i les normes locals aplicables. No s'ha d'abocar automàticament qualsevol residu pel desguàs ni llençar un envàs pressuritzat com si fos un recipient ordinari.
+
+### 7.9.8. Principi general de prevenció
+
+La seguretat no es pot reduir a utilitzar guants o una mascareta. Requereix identificar els riscos, conèixer els productes i seleccionar les mesures adequades per a cada operació.
+
+Quan hi hagi dubtes sobre la composició d'un producte, la seva compatibilitat o les condicions segures d'aplicació, cal consultar la documentació del fabricant abans d'utilitzar-lo.
+
+### 7.9.9. Comprovació final i exercicis de preparació
+
+Abans de començar a pintar convé revisar que el lloc està organitzat, la miniatura està preparada, els materials es troben en condicions adequades i es coneixen les precaucions necessàries per treballar-hi.
+
+Els exercicis següents permeten desenvolupar les habilitats operatives necessàries abans d'abordar les tècniques específiques de pintura. L'objectiu no és produir un resultat pictòric acabat, sinó aprendre a preparar materials, utilitzar eines i controlar les operacions bàsiques.
+
+#### 7.9.9.1. Inspecció i preparació d'una miniatura
+
+**Objectiu:** identificar i corregir els defectes de preparació d'una miniatura.
+
+**Materials:** miniatura, eines de tall i abrasió, suport de subjecció i elements de neteja adequats.
+
+**Procediment:**
+1. Examinar la miniatura.
+2. Identificar rebaves, línies de motlle i defectes.
+3. Comprovar les unions i els components.
+4. Eliminar les imperfeccions que correspongui.
+5. Netejar la superfície.
+6. Comprovar que la peça està seca i preparada.
+
+**Criteris d'avaluació:** identificació correcta dels defectes, eliminació controlada de rebaves, conservació dels detalls, neteja adequada i preparació final satisfactòria.
+
+#### 7.9.9.2. Selecció d'eines i organització del lloc
+
+**Objectiu:** aprendre a seleccionar les eines segons l'operació i organitzar l'espai de treball.
+
+**Materials:** diferents pinzells, paletes, eines de mescla, suports, estris de preparació, pintures i recipients.
+
+**Procediment:**
+1. Identificar les eines disponibles.
+2. Classificar-les segons la seva funció.
+3. Seleccionar les necessàries per a una operació determinada.
+4. Justificar per què s'utilitza cadascuna.
+5. Identificar quines eines serien innecessàries.
+6. Distribuir els materials per zones i comprovar que el lloc permet treballar sense interferències.
+
+**Criteris d'avaluació:** identificació correcta, selecció funcional, justificació de les eleccions, capacitat d'evitar eines innecessàries i organització adequada del lloc.
+
+#### 7.9.9.3. Preparació i gestió de pintures
+
+**Objectiu:** practicar la comprovació, homogeneïtzació i dosificació operativa de pintures.
+
+**Materials:** pintures, paleta, mesclador i accessoris de dosificació.
+
+**Procediment:**
+1. Comprovar l'estat de diversos productes.
+2. Identificar si requereixen homogeneïtzació.
+3. Barrejar-los seguint les indicacions corresponents.
+4. Dipositar una quantitat controlada a la paleta.
+5. Evitar la contaminació de l'envàs original.
+6. Preparar una quantitat addicional quan sigui necessari.
+
+**Criteris d'avaluació:** homogeneïtzació adequada, dosificació controlada, absència de contaminació i gestió raonable del producte.
+
+#### 7.9.9.4. Control d'eines, manteniment i comprovació final
+
+**Objectiu:** desenvolupar el control bàsic de les eines i establir una rutina de comprovació prèvia al treball.
+
+**Materials:** pinzells, pintura, superfície auxiliar, paletes, recipients i eines de preparació.
+
+**Procediment:**
+1. Recollir una quantitat controlada de pintura amb el pinzell.
+2. Retirar-ne l'excés quan sigui necessari.
+3. Fer aplicacions de prova sobre una superfície auxiliar.
+4. Practicar diferents nivells de pressió i observar com canvia el contacte amb la superfície.
+5. Comprovar l'estabilitat de la mà i de la miniatura.
+6. Netejar les eines amb mètodes compatibles.
+7. Revisar-ne l'estat i guardar-les adequadament.
+8. Abans de començar una sessió, comprovar l'espai, la il·luminació, la preparació de la miniatura, l'estat dels materials, les precaucions de seguretat i la disponibilitat d'una zona de neteja i emmagatzematge temporal.
+
+**Criteris d'avaluació:** control de la càrrega, absència d'acumulacions excessives, estabilitat de l'eina, regularitat del moviment, neteja adequada, conservació dels estris, identificació dels riscos i capacitat per detectar deficiències abans de començar a pintar.
+
+La repetició d'aquests exercicis permet establir una rutina de treball més consistent. La preparació no s'ha d'entendre com una fase independent de la pintura, sinó com una condició necessària perquè les tècniques posteriors es puguin executar correctament.
+
+## Síntesi del capítol
+
+La preparació del treball pictòric comprèn l'organització de l'espai, la selecció i conservació de les eines, el condicionament de la miniatura, la imprimació i la gestió operativa de les pintures.
+
+El control bàsic de l'aplicació permet utilitzar les eines amb més estabilitat i precisió, sense anticipar les tècniques específiques que es desenvolupen als capítols posteriors.
+
+La prevenció requereix identificar els riscos reals de cada producte i operació, consultar la documentació corresponent i adaptar les mesures de seguretat a les condicions de treball.
+
+## Referències i recursos
+
+- European Chemicals Agency (ECHA). *CLP Pictograms*. Informació sobre pictogrames, classificació i etiquetatge de perills conforme al Reglament CLP. https://echa.europa.eu/regulations/clp/clp-pictograms
+- Institut Nacional de Seguretat i Salut en el Treball (INSST). *Riscos laborals químics*. Informació sobre identificació de perills, etiquetes, fitxes de dades de seguretat i avaluació de l'exposició. https://www.insst.es/materias/riesgos/riesgos-quimicos
+- Federal Public Service Economy, Bèlgica. *Safety of aerosols*. Informació sobre riscos dels recipients pressuritzats, etiquetatge i precaucions d'ús i emmagatzematge. https://economie.fgov.be/en/themes/quality-and-safety/safety-products-and-services/specific-regulations/pressure-equipments/safety-aerosols
+
+Les mesures concretes s'han d'ajustar a la composició, l'etiquetatge, les instruccions del fabricant i les condicions reals d'utilització.
+
+---
+
+# 8. CAPES BASE I CONSTRUCCIÓ PROGRESSIVA DEL COLOR
+
+## 8.1. Introducció: construcció d'una superfície mitjançant capes
+
+La construcció del color és un procés progressiu en què es desenvolupa l'aparença cromàtica de les superfícies mitjançant aplicacions successives. Cada aplicació pot establir, completar, modificar o diferenciar una zona. El resultat depèn de la pintura, la distribució, la relació amb les aplicacions anteriors i la finalitat de cada intervenció.
+
+La successió de capes no implica necessàriament cobrir del tot la capa anterior ni construir sempre transicions graduals. Algunes superfícies requereixen uniformitat; d'altres han de conservar plans cromàtics diferenciats o mostrar modificacions parcials. L'objectiu és construir-les ordenadament, controlant cada intervenció i evitant acumulacions que perjudiquin la geometria o la definició.
+
+## 8.2. Definició i fonaments de la construcció mitjançant capes
+
+La construcció mitjançant capes desenvolupa una superfície pictòrica a través d'aplicacions successives, cadascuna amb una finalitat determinada.
+
+### 8.2.1. Capa base i primera aplicació cromàtica
+
+La **capa base** és la primera aplicació cromàtica sobre la superfície preparada i proporciona una referència de color per a les intervencions posteriors. Cal distingir-la de la imprimació:
+- **Imprimació:** prepara el suport i afavoreix les condicions d'adherència.
+- **Capa base:** estableix la primera referència cromàtica.
+- **Aplicacions posteriors:** completen, modifiquen o desenvolupen la superfície pintada.
+
+La capa base no ha de resoldre necessàriament tota l'aparença final. En una superfície uniforme pot establir el color que es vol mantenir; en una peça amb diversos plans, cada zona pot requerir una base pròpia. Una distribució irregular no prevista, una cobertura insuficient o una acumulació excessiva poden dificultar les fases posteriors.
+
+### 8.2.2. Aplicació, capa pictòrica i superposició
+
+- **Aplicació:** operació de dipositar pintura sobre una superfície mitjançant un procediment.
+- **Capa pictòrica:** pel·lícula que queda dipositada després de l'aplicació.
+- **Superposició:** aplicació sobre una superfície que ja conté una o més capes.
+
+El gruix, la distribució i el comportament depenen de la pintura, les condicions d'aplicació i el suport. Una superposició pot completar la cobertura, modificar parcialment l'aparença, establir una zona diferenciada o complir altres funcions. La finalitat determina el paper de la intervenció, no simplement el fet de posar pintura sobre una capa anterior.
+
+### 8.2.3. Cobertura, transparència, continuïtat i uniformitat
+
+La **cobertura** indica fins a quin punt una aplicació oculta o redueix la visibilitat de la superfície inferior. La **transparència** condiciona quanta informació cromàtica anterior continua visible. La **continuïtat cromàtica** és la coherència visual d'una superfície o conjunt de zones i no exigeix un color idèntic a tot arreu. La **uniformitat** implica absència de diferències no previstes en una superfície concebuda com una unitat.
+
+En síntesi:
+- La cobertura determina quant s'oculta la superfície inferior.
+- La transparència condiciona quant en continua visible.
+- La continuïtat expressa la coherència visual del conjunt.
+- La uniformitat evita diferències involuntàries dins una superfície concebuda com a unitat.
+
+Una cobertura parcial no és necessàriament un defecte: pot ser intencionada.
+
+### 8.2.4. Relació entre aplicacions successives
+
+Cada aplicació ha de tenir una finalitat identificable:
+- Completar una cobertura.
+- Reforçar una zona.
+- Modificar l'aparença cromàtica existent.
+- Introduir una zona diferenciada.
+- Recuperar una separació entre superfícies.
+- Corregir una irregularitat del procés.
+
+No totes les aplicacions han de cobrir completament les anteriors, ni totes les superfícies necessiten el mateix nombre de capes. La decisió depèn del comportament de la pintura, la geometria i la funció de cada intervenció. No hi ha una quantitat universal de capes que garanteixi una construcció correcta.
+
+## 8.3. Materials i condicions específiques d'aplicació
+
+### 8.3.1. Selecció funcional de les pintures
+
+La selecció respon a la funció de cada aplicació. Pigmentació, opacitat, transparència, consistència i acabat influeixen en la construcció. Abans de començar, cal determinar el comportament necessari:
+- Per establir cobertura, convé una pintura que proporcioni l'aparença prevista sense acumulacions innecessàries.
+- Per conservar visible part de la superfície anterior, pot interessar un comportament menys cobridor.
+- Per modificar parcialment l'aparença, cal valorar transparència, intensitat cromàtica i distribució.
+
+Cal considerar opacitat, cobertura, transparència, intensitat, consistència, facilitat de distribució, acabat i compatibilitat amb el procediment. Les dades del fabricant orienten, però no garanteixen un comportament idèntic en totes les condicions: fins i tot dins una gamma hi pot haver diferències entre colors i formulacions. Les propietats generals es desenvolupen al capítol 3.
+
+### 8.3.2. Condicions de la superfície i de les aplicacions
+
+Abans de superposar pintura, la capa anterior ha d'estar en condicions adequades. En les pintures acríliques cal distingir entre **assecat al tacte** i **formació completa de la pel·lícula**. L'assecat al tacte indica que la superfície ha perdut bona part de la humitat superficial, però les propietats finals poden continuar desenvolupant-se.
+
+No sempre cal esperar el curat complet. En molts procediments es pot continuar quan la capa té prou estabilitat per no ser arrossegada o malmesa. El temps depèn del producte, el gruix, el suport i les condicions ambientals; no s'han d'establir temps universals.
+
+### 8.3.3. Comprovacions prèvies
+
+Abans de cada nova aplicació, comprovar que:
+- La superfície està preparada.
+- La capa anterior es troba en un estat adequat.
+- La pintura correspon a la funció prevista.
+- No hi ha defectes que dificultin la intervenció.
+- Els límits i detalls continuen sent recognoscibles.
+- La nova aplicació té una finalitat definida.
+
+Aquestes comprovacions redueixen les intervencions innecessàries i eviten acumular errors.
+
+## 8.4. Procediment d'aplicació de la capa base
+
+La capa base estableix la primera referència cromàtica. S'ha de distribuir d'acord amb la geometria i permetre desenvolupar aplicacions posteriors sense introduir irregularitats.
+
+### 8.4.1. Establiment del color inicial
+
+Identificar la superfície, els límits, la geometria i els detalls que cal preservar. Després, determinar el color que actuarà com a referència inicial. La capa ha de respondre al resultat previst i evitar concentracions innecessàries. No totes les capes base necessiten cobertura completa des de la primera aplicació: es pot completar més endavant o establir directament l'aparença desitjada.
+
+### 8.4.2. Adaptació a la geometria
+
+La geometria condiciona la distribució:
+- **Plans:** permeten observar les diferències de cobertura, però cal evitar irregularitats que alterin el conjunt.
+- **Superfícies corbes:** exigeixen controlar els canvis d'orientació i la continuïtat.
+- **Zones estretes o allargades:** cal limitar l'extensió per no envair zones contigües.
+- **Relleus i cavitats:** poden dificultar l'accés i afavorir acumulacions.
+- **Superfícies petites o fragmentades:** exigeixen precisió per conservar límits i no afectar elements pròxims.
+
+No hi ha una única distribució adequada per a totes les geometries.
+
+### 8.4.3. Desenvolupament de la cobertura
+
+Després de la primera aplicació, valorar si la cobertura és:
+- **Suficient:** la superfície presenta l'aparença necessària.
+- **Incompleta però regular:** part de la superfície anterior continua visible de manera coherent; pot ser provisional o intencionada.
+- **Irregular:** hi ha diferències no previstes en la distribució o visibilitat del suport.
+
+No s'ha de buscar cobertura màxima sistemàticament. Si cal completar-la, limitar la intervenció a les zones que ho necessiten.
+
+### 8.4.4. Comprovació i correcció
+
+Revisar cobertura, distribució, acumulacions, zones sense treballar, límits i conservació de relleus i detalls. Si hi ha una irregularitat important, valorar-ne l'abast i corregir-la abans de construir noves capes. La correcció s'ha de limitar al necessari per no deteriorar les zones ja resoltes.
+
+## 8.5. Procediment de construcció progressiva mitjançant capes
+
+Un cop establerta la capa base, es pot desenvolupar la superfície amb aplicacions que en completin, modifiquin o diferenciïn l'aparença.
+
+### 8.5.1. Organització de les aplicacions successives
+
+Abans de cada intervenció, definir-ne la finalitat, la zona que es vol modificar, la relació amb les capes anteriors, el comportament de la pintura i el resultat esperat. No cal aplicar pintura sistemàticament a tota la superfície: si l'objectiu afecta una zona, limitar-hi la intervenció sempre que sigui viable.
+
+### 8.5.2. Superposició i continuïtat cromàtica
+
+El resultat depèn de la cobertura, transparència i distribució de la nova aplicació, així com de les característiques de les capes anteriors. Si es busca uniformitat, cal mantenir la continuïtat; si es vol modificar només una part, es pot introduir una diferència localitzada.
+
+No tota superposició produeix una transició gradual: una aplicació pot establir un límit definit i crear un pla cromàtic independent. Els degradats, les veladures i les acumulacions específiques s'estudien als capítols corresponents.
+
+### 8.5.3. Construcció de zones cromàtiques diferenciades
+
+Quan una superfície consta de diversos plans o peces —plaques d'una armadura, panells d'una peça de roba o components d'equipament—, cada zona pot requerir identitat cromàtica pròpia. Cal reconèixer les divisions geomètriques, desenvolupar cada pla independentment i evitar invasions accidentals de les zones contigües.
+
+La coherència no exigeix que tots els plans tinguin el mateix color, sinó que les diferències responguin a una organització reconeixible. Els plans no funcionen aïlladament: formen part d'una mateixa miniatura i han de mantenir una relació visual coherent.
+
+### 8.5.4. Conservació i recuperació de límits
+
+Si una aplicació modifica accidentalment la separació entre superfícies, cal valorar si afecta la lectura del conjunt i si s'ha de recuperar el límit. La correcció ha de restablir la divisió cromàtica sense intervenir innecessàriament en zones resoltes. No s'ha de confondre amb el perfilat: aquí es conserva l'organització cromàtica, no s'ensenya una tècnica específica de definició de contorns.
+
+### 8.5.5. Comprovació entre aplicacions
+
+Després de cada intervenció, comprovar si ha complert la seva finalitat i si cal continuar. No s'ha d'afegir una nova capa sense identificar què es vol millorar o modificar. El procés avança mitjançant decisions justificades, no per repetició automàtica.
+
+## 8.6. Variants de construcció cromàtica
+
+L'organització depèn del resultat buscat. Es distingeixen tres plantejaments principals.
+
+### 8.6.1. Superfícies uniformes
+
+Es busca una aparença cromàtica coherent sobre una superfície percebuda com una unitat. Cal controlar continuïtat, coherència i conservació del relleu. Les diferències d'accés poden exigir més atenció en algunes zones, però no han de generar irregularitats involuntàries. No hi ha un nombre predeterminat d'aplicacions: la superfície està acabada quan presenta la cobertura i continuïtat necessàries.
+
+### 8.6.2. Plans cromàtics diferenciats
+
+Permet construir independentment peces, plans o elements, mantenint-ne la separació. Primer s'identifiquen les unitats cromàtiques segons la geometria, els canvis de relleu, les separacions entre peces o l'organització prevista. Després es desenvolupa cada zona sense alterar les contigües. Una separació clara pot ser precisament el resultat buscat.
+
+### 8.6.3. Modificació progressiva de l'aparença cromàtica
+
+La finalitat és modificar gradualment l'aparença inicial amb noves aplicacions, sense substituir necessàriament tot el color anterior. La intervenció pot afectar tota una zona o només una part, conservant visible una porció de les aplicacions prèvies. Permet reforçar una zona o introduir diferències localitzades, però no implica necessàriament una transició suau ni constitueix per si mateixa una veladura o un glacis.
+
+La permanència de la capa anterior ha de ser intencionada. Una cobertura insuficient o una irregularitat accidental no s'han de considerar automàticament una variant vàlida.
+
+## 8.7. Control tècnic de la construcció cromàtica
+
+Cada aplicació modifica el resultat acumulat. El control ha de valorar tant la intervenció individual com l'estat global de la superfície.
+
+### 8.7.1. Control de cada aplicació
+
+Revisar:
+- **Extensió:** ocupa la zona prevista.
+- **Cobertura:** assoleix el grau necessari.
+- **Distribució:** no presenta acumulacions, interrupcions o diferències involuntàries.
+- **Integritat:** conserva relleus, separacions i detalls.
+- **Relació amb capes anteriors:** completa, reforça o modifica correctament el resultat previ.
+
+Això permet detectar problemes abans que les noves aplicacions en dificultin la correcció.
+
+### 8.7.2. Control de la superfície acumulada
+
+La superfície s'ha d'avaluar com el resultat de totes les aplicacions, no com una suma de capes independents. Cada intervenció afegeix gruix i modifica la relació entre pintura i geometria. Comprovar que relleus, arestes i detalls continuen llegibles; que les separacions es mantenen definides; que no hi ha acumulacions localitzades; que la distribució és compatible amb la geometria i que una nova capa aportarà una millora real.
+
+Més capes no equivalen necessàriament a un resultat millor. Cal aturar-se quan s'han assolit els objectius sense perjudicar la superfície.
+
+### 8.7.3. Control de continuïtat i límits
+
+En una superfície uniforme cal evitar interrupcions i diferències involuntàries que la fragmentin. En una superfície formada per plans diferenciats, les separacions han de continuar sent recognoscibles. No s'ha d'aplicar un únic criteri de continuïtat a totes les superfícies: una divisió definida pot ser correcta en una construcció per plans i constituir un defecte en una superfície uniforme.
+
+### 8.7.4. Decisió: continuar, corregir o aturar-se
+
+- **Continuar:** l'aplicació ha complert la funció, la superfície està en condicions i queden objectius pendents.
+- **Corregir:** hi ha una desviació respecte del resultat previst i es pot resoldre amb una intervenció proporcionada.
+- **Aturar-se:** el resultat s'ha assolit i noves aplicacions no aportarien una millora necessària.
+
+Abans de corregir, identificar l'origen: una cobertura insuficient, una invasió d'un altre pla i una acumulació localitzada exigeixen intervencions diferents.
+
+## 8.8. Errors freqüents i procediments de correcció
+
+Els errors durant la construcció progressiva del color poden aparèixer tant en una aplicació individual com en el resultat acumulat de diverses capes. Per corregir-los adequadament cal identificar primer què ha passat i quina part de la construcció s'ha vist afectada.
+
+Una correcció eficaç no consisteix a afegir pintura automàticament, sinó a intervenir sobre el problema concret sense perjudicar les zones que ja estan correctament resoltes.
+
+Aquest apartat es limita als problemes directament relacionats amb la construcció de capes. El diagnòstic general d'errors i els procediments sistemàtics de recuperació es desenvolupen al capítol 39.
+
+### 8.8.1. Cobertura irregular o insuficient
+
+Una cobertura irregular apareix quan la pintura no presenta una distribució coherent sobre la superfície. Es pot manifestar mitjançant zones desigualment cobertes, interrupcions, diferències d'aparença o parts on la superfície subjacent continua sent massa visible.
+
+No tota cobertura incompleta constitueix un error. Pot ser una decisió intencionada durant una construcció per fases. El problema apareix quan la distribució obtinguda no correspon al resultat previst.
+
+**Possibles causes:**
+- Distribució irregular de la pintura.
+- Dificultat per accedir a determinades parts de la geometria.
+- Diferències de comportament entre les pintures utilitzades.
+- Aplicacions que no han complert la funció prevista.
+- Continuació del treball sense comprovar l'estat de la superfície anterior.
+
+**Criteri d'intervenció:** primer cal identificar si la irregularitat afecta tota la superfície o només zones concretes. Si el problema està localitzat, la correcció s'ha de centrar en aquestes zones i evitar intervenir innecessàriament sobre les parts que ja presenten un resultat adequat. Si afecta el conjunt, cal revisar la construcció i determinar si convé completar la cobertura o reorganitzar el treball.
+
+### 8.8.2. Acumulacions involuntàries de pintura
+
+Les acumulacions involuntàries apareixen quan la pintura es concentra en determinades zones i genera una distribució irregular del material. Es poden produir en cavitats, unions, canvis de pla, vores o àrees de difícil accés.
+
+**Possibles conseqüències:**
+- Aparició de zones amb un gruix excessiu.
+- Pèrdua de definició en relleus petits.
+- Alteració de les separacions entre peces.
+- Superfícies amb una textura o aparença no prevista.
+- Dificultat per continuar aplicant pintura de manera controlada.
+
+**Criteri d'intervenció:** la intervenció depèn de l'estat de la pintura i de la naturalesa de l'acumulació. No s'ha d'intentar cobrir-la automàticament amb més pintura, perquè això pot augmentar el problema. Si la pel·lícula encara no és estable, cal evitar manipular-la de manera que s'arrossegui o es deteriori. Si ja és seca i la irregularitat persisteix, cal valorar si es pot corregir mitjançant una intervenció superficial o si és necessari recuperar la superfície abans de continuar. No totes les acumulacions es poden corregir sense afectar la geometria original.
+
+### 8.8.3. Pèrdua de definició de relleus i detalls
+
+La pèrdua de definició es produeix quan l'acumulació de pintura redueix la lectura dels elements geomètrics de la miniatura. Pot afectar separacions entre plaques, petites arestes, detalls mecànics, plecs o elements decoratius. De vegades apareix progressivament com a conseqüència de diverses capes que, considerades individualment, semblaven acceptables.
+
+**Possibles causes:**
+- Acumulació excessiva de pintura.
+- Repetició d'aplicacions sense una finalitat clara.
+- Distribució inadequada del material sobre detalls petits.
+- Correccions successives que augmenten el gruix de la pel·lícula pictòrica.
+
+**Criteri d'intervenció:** cal determinar si el detall s'ha perdut visualment per una acumulació superficial o si la seva lectura s'ha alterat per altres factors. Si la pintura encara no ha format una pel·lícula estable, s'ha d'evitar manipular-la de manera que s'arrossegui o es deteriori. Si ja és seca, qualsevol correcció s'ha de fer amb precaució i valorant el risc de danyar la geometria original. Quan la pèrdua de definició és important, pot ser necessari recuperar la superfície abans de continuar. No s'ha d'assumir que una nova capa de color resoldrà un problema de gruix acumulat.
+
+### 8.8.4. Alteració involuntària dels límits cromàtics
+
+Aquest error apareix quan una aplicació envaeix una zona que havia de conservar una identitat cromàtica diferent o modifica accidentalment una separació ja establerta. És freqüent en superfícies dividides en plaques, panells, peces d'equipament o elements decoratius.
+
+**Possibles causes:**
+- Extensió excessiva de l'aplicació.
+- Falta de control sobre la zona d'intervenció.
+- Dificultat per treballar a prop dels límits geomètrics.
+- Correccions que afecten superfícies contigües.
+
+**Criteri d'intervenció:** la intervenció s'ha de centrar a recuperar la separació prevista entre les zones cromàtiques. Si la invasió és petita, pot ser suficient restablir el color de la superfície afectada, sempre que la intervenció no perjudiqui el pla contigu. Si el problema afecta una zona àmplia, cal revisar els límits i reconstruir les superfícies afectades de manera ordenada.
+
+### 8.8.5. Modificació cromàtica no prevista
+
+Pot passar que una nova aplicació alteri l'aparença d'una superfície d'una manera diferent de l'esperada. El canvi pot afectar el matís, el valor, el croma o la relació visual entre les zones.
+
+**Possibles causes:**
+- Selecció inadequada de la pintura per a la funció prevista.
+- Comportament diferent de l'esperat en superposar aplicacions.
+- Cobertura més gran o més petita de la prevista.
+- Repetició d'aplicacions que modifica progressivament l'aparença.
+- Falta de comprovació del resultat abans de continuar.
+
+**Criteri d'intervenció:** primer cal identificar quin aspecte ha canviat i si el resultat és realment incompatible amb l'objectiu previst. Si la modificació afecta una zona concreta, la correcció es pot limitar a aquesta superfície. Si altera la relació cromàtica del conjunt, pot ser necessari revisar diverses zones per recuperar-ne la coherència inicial. La intervenció ha de respondre a l'origen del problema i a l'aparença que es vol recuperar.
+
+### 8.8.6. Excés d'intervencions i correccions successives
+
+Un dels errors menys evidents consisteix a continuar intervenint sobre una superfície que ja presenta un resultat adequat. La repetició d'aplicacions i correccions pot generar un procés acumulatiu en què cada intervenció introdueix noves modificacions i augmenta el risc de deteriorar allò que ja estava resolt.
+
+**Possibles conseqüències:**
+- Augment innecessari del gruix pictòric.
+- Pèrdua progressiva de detalls.
+- Alteracions cromàtiques no previstes.
+- Aparició de noves irregularitats durant les correccions.
+- Dificultat per recuperar l'estat anterior de la superfície.
+
+**Criteri d'intervenció:** cal aturar les intervencions i valorar l'estat global de la superfície. No s'ha d'afegir pintura per corregir un problema la causa del qual encara no s'ha identificat. Si la superfície ja compleix la seva funció, s'ha de donar per acabada. Si hi ha un defecte, cal intervenir només en la mesura necessària per corregir-lo. La capacitat d'aturar-se forma part del control tècnic de la pintura.
+
+## 8.9. Resultat esperat i criteris d'avaluació
+
+El resultat d'una construcció progressiva del color ha de respondre a l'organització cromàtica prevista i conservar les característiques geomètriques de la miniatura.
+
+No hi ha un únic aspecte final vàlid per a totes les superfícies. Una zona uniforme, un conjunt de plans diferenciats i una superfície construïda mitjançant aplicacions successives poden presentar aparences diferents i ser tècnicament correctes.
+
+L'avaluació final ha de valorar si s'ha assolit el resultat previst i si la superfície conserva les condicions necessàries per continuar amb les fases següents del treball.
+
+### 8.9.1. Criteris d'avaluació
+
+**Cobertura i distribució**
+
+La superfície ha de presentar el grau de cobertura previst. Les aplicacions s'han de distribuir de manera coherent amb la seva funció, sense interrupcions ni irregularitats involuntàries.
+
+**Coherència cromàtica**
+
+Les diferents aplicacions han de mantenir una relació compatible amb el resultat previst. La coherència no exigeix que totes les zones comparteixin el mateix color ni que presentin una aparença idèntica. Exigeix que les modificacions cromàtiques tinguin una funció recognoscible i que el conjunt no mostri alteracions accidentals.
+
+**Definició de superfícies i límits**
+
+Les zones cromàtiques han de conservar l'organització prevista. En una superfície uniforme no hi hauria d'haver divisions accidentals que en fragmentin l'aparença. En una construcció per plans, les separacions han de continuar sent recognoscibles.
+
+**Conservació de la geometria i els detalls**
+
+Els relleus, les arestes, les separacions i els detalls han de continuar sent llegibles. La pintura no ha d'ocultar innecessàriament la informació geomètrica del model ni modificar-ne l'aparença per una acumulació excessiva.
+
+**Integritat de la superfície pictòrica**
+
+La superfície acabada ha de presentar una aplicació estable i visualment coherent amb l'acabat previst. No hi haurien de quedar acumulacions accidentals, irregularitats produïdes durant les aplicacions ni zones deteriorades per correccions successives.
+
+### 8.9.2. Criteri de finalització
+
+La construcció es pot considerar acabada quan s'han assolit els objectius cromàtics previstos i les noves aplicacions ja no aporten una millora necessària.
+
+Per prendre aquesta decisió cal valorar conjuntament:
+
+- La cobertura i la distribució.
+- La coherència cromàtica.
+- L'organització de les zones i els seus límits.
+- La conservació dels relleus i els detalls.
+- L'absència d'acumulacions i irregularitats involuntàries.
+- L'adequació del resultat a la finalitat de la superfície.
+
+El resultat correcte no és necessàriament el que presenta més capes, més cobertura o una aparença completament uniforme. És aquell en què cada aplicació ha complert la seva funció i la superfície conserva la qualitat tècnica i visual necessària per continuar amb les fases següents del treball.
+
+La construcció progressiva del color constitueix així una base sobre la qual es poden desenvolupar posteriorment altres procediments pictòrics.
+
+## 8.10. Exercicis pràctics
+
+Els exercicis següents permeten aplicar els principis de construcció progressiva del color sobre superfícies d'una miniatura. La finalitat és practicar l'organització de les aplicacions, controlar la cobertura, conservar els detalls i avaluar el resultat acumulat.
+
+Es recomana fer les primeres pràctiques sobre peces de prova o superfícies de miniatures que permetin treballar sense interferir amb altres zones ja acabades.
+
+### 8.10.1. Exercici 1. Construcció d'una superfície uniforme
+
+**Objectiu:** construir una superfície d'aparença cromàtica uniforme mitjançant aplicacions successives, controlant la cobertura i evitant acumulacions innecessàries.
+
+**Materials:**
+- Una miniatura o peça de prova amb una superfície relativament àmplia.
+- Pintura acrílica adequada per establir el color inicial.
+- Pintura del mateix color per a les aplicacions posteriors, si són necessàries.
+- Pinzells apropiats per a la geometria.
+- Paleta i aigua.
+- Material auxiliar de neteja.
+
+**Procediment:**
+1. Seleccionar una superfície que es pugui treballar com una unitat cromàtica.
+2. Identificar-ne els límits geomètrics i els detalls que cal conservar.
+3. Establir la primera aplicació cromàtica sobre la superfície.
+4. Deixar que l'aplicació assoleixi un estat adequat per continuar sense arrossegar ni deteriorar la pel·lícula anterior.
+5. Examinar la cobertura des de diferents perspectives.
+6. Identificar les zones que necessiten una nova aplicació.
+7. Fer una nova intervenció únicament on sigui necessària.
+8. Comparar el resultat amb l'estat anterior.
+9. Aturar el procés quan la superfície presenti una aparença coherent i compleixi la seva finalitat.
+
+**Aspectes que cal observar:**
+- Diferències de cobertura entre zones.
+- Continuïtat cromàtica.
+- Conservació dels relleus i els detalls.
+- Acumulacions en vores i cavitats.
+- Efecte de cada nova aplicació sobre el resultat anterior.
+
+**Resultat esperat:** una superfície cromàticament coherent, amb una distribució adequada de la pintura i sense acumulacions involuntàries que en perjudiquin la geometria.
+
+### 8.10.2. Exercici 2. Construcció de plans cromàtics diferenciats
+
+**Objectiu:** construir una superfície composta per diverses zones cromàtiques independents, conservant-ne els límits i evitant que les aplicacions d'una zona n'alterin les contigües.
+
+**Materials:**
+- Una miniatura o peça de prova amb dos o més plans diferenciats.
+- Pintures acríliques de colors diferents.
+- Pinzells adequats a les dimensions i la geometria de cada pla.
+- Paleta i aigua.
+- Material auxiliar de neteja.
+
+**Procediment:**
+1. Seleccionar una superfície dividida en diferents plans.
+2. Identificar les zones que han de mantenir una identitat cromàtica pròpia.
+3. Determinar quin color correspon a cada pla i reconèixer els límits que cal conservar.
+4. Establir la primera aplicació cromàtica de cada zona, treballant-hi independentment.
+5. Comprovar que les aplicacions no envaeixen accidentalment els plans contigus.
+6. Revisar la cobertura de cada superfície.
+7. Completar les zones que ho requereixin, procurant conservar la separació cromàtica prevista.
+8. Examinar el conjunt i valorar si els diferents plans mantenen una relació visual coherent.
+
+**Aspectes que cal observar:**
+- Correspondència entre els plans geomètrics i la distribució cromàtica.
+- Independència de les zones.
+- Definició dels límits.
+- Diferències de cobertura entre superfícies.
+- Coherència visual del conjunt.
+
+**Resultat esperat:** una superfície formada per diversos plans cromàtics recognoscibles, correctament construïts i relacionats entre si, sense invasions accidentals ni alteracions innecessàries dels seus límits.
+
+### 8.10.3. Exercici 3. Modificació progressiva de l'aparença cromàtica
+
+**Objectiu:** comprovar com les aplicacions successives poden modificar l'aparença inicial d'una superfície i aprendre a controlar quina part del resultat anterior es conserva.
+
+**Materials:**
+- Una peça de prova amb una superfície prou àmplia.
+- Dues pintures acríliques amb característiques adequades per a l'exercici.
+- Pinzells apropiats.
+- Paleta i aigua.
+- Material auxiliar de neteja.
+
+**Procediment:**
+1. Seleccionar una superfície de prova i establir una primera aplicació cromàtica.
+2. Deixar que l'aplicació assoleixi un estat adequat per continuar treballant.
+3. Observar i registrar l'aparença inicial de la superfície.
+4. Seleccionar una segona pintura i determinar quina modificació es vol introduir.
+5. Fer una nova aplicació sobre una zona delimitada, sense cobrir necessàriament tota l'aplicació anterior.
+6. Comprovar com ha canviat l'aparença de la zona intervinguda i quina part del resultat inicial continua visible.
+7. Valorar si la modificació respon a l'objectiu previst.
+8. Si cal, fer una correcció localitzada i comparar el resultat amb la superfície inicial.
+9. Aturar l'exercici quan la modificació cromàtica prevista sigui recognoscible.
+
+**Aspectes que cal observar:**
+- Relació entre l'aparença inicial i la modificada.
+- Extensió de la nova aplicació.
+- Part de la superfície anterior que continua visible.
+- Diferències entre les zones intervingudes i les no intervingudes.
+- Conservació dels detalls i de la geometria.
+
+**Resultat esperat:** una superfície l'aparença cromàtica de la qual s'ha modificat intencionadament mitjançant aplicacions successives, conservant una relació recognoscible entre l'estat inicial i el resultat obtingut.
+
+Aquest exercici no pretén ensenyar la realització de degradats ni de veladures. La seva finalitat és comprendre com una nova aplicació pot modificar una superfície sense substituir necessàriament tota la seva aparença anterior.
+
+### 8.10.4. Exercici 4. Identificació i correcció d'errors
+
+**Objectiu:** reconèixer problemes habituals durant la construcció de capes i seleccionar una intervenció adequada per corregir-los.
+
+**Materials:**
+- Diverses peces de prova o superfícies preparades prèviament.
+- Pintures acríliques.
+- Pinzells adequats.
+- Paleta i aigua.
+- Material auxiliar de neteja.
+
+**Preparació de l'exercici**
+
+L'instructor prepararà, en peces o zones de prova diferents, alguns dels problemes següents:
+
+- Cobertura irregular.
+- Acumulació localitzada de pintura.
+- Pèrdua parcial de definició d'un relleu.
+- Invasió accidental d'un pla cromàtic contigu.
+- Modificació cromàtica no prevista.
+
+No cal reproduir tots els errors en una mateixa superfície. És preferible disposar de mostres diferenciades perquè cada problema es pugui identificar i analitzar.
+
+**Procediment:**
+1. Observar les mostres sense intervenir-hi.
+2. Identificar el problema present en cada superfície.
+3. Descriure quin aspecte de la construcció s'ha vist afectat.
+4. Proposar-ne una possible causa.
+5. Determinar si convé continuar, corregir o aturar el procés.
+6. Seleccionar una correcció adequada per a cada cas.
+7. Fer la intervenció sobre una mostra de prova quan sigui tècnicament viable.
+8. Comparar l'estat anterior i posterior a la correcció.
+9. Valorar si la intervenció ha resolt el problema o ha introduït noves irregularitats.
+
+**Aspectes que cal observar:**
+- Capacitat per identificar el problema.
+- Relació entre l'error i la seva possible causa.
+- Adequació de la correcció seleccionada.
+- Control de les superfícies pròximes.
+- Conservació dels detalls.
+- Capacitat per evitar intervencions innecessàries.
+
+**Resultat esperat:** una superfície correctament avaluada, en què els problemes identificats s'hagin corregit de manera proporcionada o s'hagi decidit justificadament no intervenir-hi.
+
+### 8.10.5. Exercici integrador d'avaluació final
+
+Un cop realitzats els exercicis anteriors, se seleccionarà una superfície d'una miniatura i es construirà aplicant els principis del capítol.
+
+Abans de començar, cal determinar si es vol aconseguir una superfície uniforme, una construcció mitjançant plans cromàtics diferenciats o una modificació progressiva de l'aparença inicial.
+
+Durant el treball es registraran les aplicacions realitzades, la seva finalitat i les decisions preses. En acabar, s'avaluarà el resultat mitjançant aquests criteris:
+
+| Criteri | Aspecte que cal comprovar |
+|---|---|
+| Organització | Les aplicacions responen a una finalitat definida. |
+| Cobertura | La superfície presenta el grau de cobertura previst. |
+| Distribució | No hi ha irregularitats involuntàries. |
+| Coherència cromàtica | Les aplicacions mantenen una relació visual adequada. |
+| Límits | Les zones diferenciades conserven la separació prevista. |
+| Geometria | Els relleus i els detalls continuen sent llegibles. |
+| Acumulació | No hi ha un gruix innecessari de pintura. |
+| Finalització | El procés s'ha aturat quan s'ha assolit el resultat previst. |
+
+**Conclusió de l'exercici**
+
+La construcció progressiva del color no consisteix a repetir aplicacions fins a aconseguir una cobertura màxima. Consisteix a organitzar cada intervenció d'acord amb una finalitat, controlar-ne l'efecte sobre la superfície i reconèixer quan el resultat ja és suficient.
+
+La qualitat del treball depèn tant de l'execució de les aplicacions com de les decisions preses durant el procés.
+
+---
+
+# 9. DEGRADATS I TRANSICIONS CROMÀTIQUES
+
+## 9.1. Fonaments dels degradats i les transicions cromàtiques
+
+Un **degradat** és una variació progressiva de l'aparença cromàtica entre dues o més zones d'una superfície. Permet connectar colors, modificar gradualment el valor o el croma i construir canvis de matís sense límits involuntàriament bruscos.
+
+La transició pot afectar:
+- **Matís:** evolució entre famílies cromàtiques.
+- **Valor:** variació entre zones més clares i més fosques.
+- **Croma:** augment o reducció de la intensitat cromàtica relativa.
+- **Diverses dimensions alhora:** modificació combinada de matís, valor i/o croma.
+
+Els termes degradat i transició cromàtica estan relacionats: degradat sol descriure el resultat progressiu; transició pot referir-se al procés o a la relació visual entre zones.
+
+No s'ha de confondre un degradat amb una simple successió de tons ni amb la construcció d'una superfície mitjançant capes. En aquesta última es poden mantenir plans diferenciats; el degradat relaciona les zones mitjançant una evolució visual controlada. Una successió de colors només constitueix una transició quan les diferències, els límits i la distribució produeixen la continuïtat prevista.
+
+Es poden distingir tres configuracions:
+- **Transició contínua:** el canvi progressa sense límits intermedis clarament definits.
+- **Transició esglaonada:** s'organitza amb tons intermedis els límits dels quals continuen sent perceptibles. Pot ser una decisió estilística o una fase de construcció.
+- **Separació entre plans cromàtics:** manté zones diferenciades amb límits relativament definits. No és necessàriament un degradat, encara que en pot ser el punt de partida.
+
+Cap configuració és, per si sola, un nivell universal de qualitat. El criteri és aconseguir l'efecte previst, no suavitzar indiscriminadament tots els canvis.
+
+La continuïtat depèn de la relació entre colors i de la seva distribució. Els tons intermedis poden ocupar extensions diferents i el canvi pot ser regular, asimètric o concentrar-se en una zona. No cal una variació uniforme, però les irregularitats han de respondre a una intenció i no produir taques, bandes o interrupcions accidentals.
+
+Les mescles de pigments tampoc no generen necessàriament progressions equilibrades. Una mescla intermèdia pot alterar matís, valor o croma de manera inesperada. Dividir una mescla en proporcions iguals no garanteix una transició regular: cal comprovar els colors i valorar si convé introduir un tercer to per orientar-ne l'evolució.
+
+## 9.2. Variables que condicionen la construcció d'un degradat
+
+Abans de construir un degradat cal definir els colors de partida, el resultat desitjat i les condicions d'aplicació. La planificació estableix una direcció cromàtica i evita improvisar mescles sense finalitat.
+
+Cal determinar:
+- Color de partida i color d'arribada.
+- Dimensió o dimensions cromàtiques que s'han de modificar.
+- Direcció i extensió de la transició.
+- Distribució de les zones intermèdies.
+- Grau de continuïtat desitjat.
+- Procediment d'aplicació més adequat.
+
+Els tons intermedis s'han de valorar com una seqüència, no només individualment. Si una mescla desvia matís, valor o croma, convé corregir-la abans de continuar. La barreja directa dels colors extrems no sempre proporciona una evolució adequada.
+
+### Variables relacionades amb les pintures
+
+Les propietats del producte condicionen la transició:
+- **Opacitat:** determina quant modifica cada aplicació l'aparença dels colors anteriors.
+- **Transparència:** permet que les capes inferiors continuïn influint, però pot introduir modificacions difícils de preveure.
+- **Consistència:** afecta la distribució i el control.
+- **Comportament durant l'aplicació:** determina el temps disponible per integrar colors i mantenir la transició.
+- **Diferències entre productes:** pintures d'aparença semblant poden respondre diferent en mesclar-se o aplicar-se.
+
+No s'han d'atribuir propietats idèntiques a totes les pintures acríliques ni establir proporcions universals de dilució. La selecció ha de basar-se en les característiques del producte i el comportament observat. Les propietats generals es desenvolupen al capítol 3.
+
+### Geometria, extensió i quantitat
+
+La geometria i l'espai disponible condicionen la distribució. En un pla, el canvi pot seguir una direcció relativament regular; en una superfície corba, s'ha d'adaptar a la forma i a la continuïtat dels plans. Les superfícies àmplies permeten transicions més esteses; les petites solen exigir una distribució concentrada i menys etapes. No hi ha un nombre fix de tons intermedis.
+
+Cal controlar la quantitat de pintura: l'excés pot provocar acumulacions, pèrdua de detall i desplaçaments involuntaris; una quantitat insuficient pot dificultar la integració quan es treballa amb colors humits. El temps disponible depèn del producte, la quantitat, la superfície i les condicions ambientals. Quan la pintura comença a assecar-se, no convé prolongar-ne la manipulació perquè poden aparèixer marques i deteriorament de la capa.
+
+### Sentit de construcció
+
+La transició pot començar pel color fosc, pel clar o per una zona intermèdia. No hi ha una direcció obligatòria: depèn de l'extensió de cada zona, l'opacitat relativa, la geometria i el procediment. Cal conservar referències clares dels colors extrems i evitar que les aplicacions intermèdies en desplacin involuntàriament l'aparença.
+
+## 9.3. Procediments de construcció de degradats
+
+Els degradats es poden construir amb mescles preparades a la paleta, integració de colors humits o aplicacions successives de tons intermedis. Són procediments diferents, amb avantatges i limitacions pròpies.
+
+### 9.3.1. Mescles preparades a la paleta
+
+Consisteix a preparar una sèrie de mescles entre els colors de partida i aplicar-les ordenadament.
+
+**Procediment:**
+1. Seleccionar els colors que defineixen els extrems.
+2. Preparar petites mostres de tots dos.
+3. Elaborar mescles intermèdies incorporant progressivament un color a l'altre.
+4. Comprovar l'evolució de matís, valor i croma.
+5. Ajustar les mescles que produeixin desviacions no desitjades.
+6. Ordenar els tons segons la progressió prevista.
+7. Aplicar-los a la superfície seguint la distribució planificada.
+8. Integrar els límits quan el procediment i l'estat de la pintura ho permetin.
+9. Avaluar i corregir les discontinuïtats necessàries.
+
+El nombre de mescles depèn de la diferència entre els colors i de l'extensió disponible; no hi ha una quantitat fixa. L'avantatge principal és anticipar i controlar els colors intermedis. La limitació és que les mescles no sempre generen una progressió equilibrada, especialment quan els pigments tenen comportaments diferents.
+
+### 9.3.2. Integració de colors humits
+
+Consisteix a integrar dos colors mentre continuen prou humits per conservar la mobilitat necessària.
+
+**Procediment:**
+1. Definir la direcció i l'extensió.
+2. Aplicar un color en un extrem.
+3. Aplicar el segon a l'extrem oposat, deixant una zona de contacte controlable.
+4. Aproximar progressivament els colors amb moviments suaus.
+5. Integrar la zona de trobada sense arrossegar excessivament la pintura ni envair els extrems.
+6. Comprovar la continuïtat i corregir només les zones necessàries.
+7. Aturar la manipulació quan la pintura comenci a perdre la humitat adequada.
+8. Deixar assecar i avaluar.
+
+Es pot fer amb petits desplaçaments del pinzell, aproximacions successives o altres moviments controlats. No convé insistir repetidament a la mateixa zona: la manipulació excessiva pot retirar pintura, generar acumulacions i deixar marques.
+
+És útil quan hi ha prou espai i les pintures tenen un comportament compatible. La limitació principal és el temps disponible, que pot ser insuficient en superfícies petites o amb productes que perden ràpidament la humitat.
+
+### 9.3.3. Aplicacions successives de tons intermedis
+
+La transició es construeix aplicant ordenadament colors intermedis. A diferència de la mescla humida, no cal que tots els tons romanguin humits alhora.
+
+**Procediment:**
+1. Establir els colors extrems i l'extensió.
+2. Preparar els tons intermedis.
+3. Aplicar el color inicial a la zona corresponent.
+4. Incorporar el primer to intermedi en part de la zona de transició.
+5. Afegir els tons següents mantenint una relació cromàtica coherent entre colors contigus.
+6. Ajustar l'extensió per evitar bandes massa regulars o límits massa marcats.
+7. Comprovar la transició un cop seques les aplicacions.
+8. Corregir localment les discontinuïtats.
+
+La finalitat no és simplement superposar capes, sinó reduir progressivament les diferències cromàtiques entre zones contigües. Permet més control en superfícies petites o quan la mescla humida és difícil. Pot generar un resultat esglaonat si les diferències entre tons són excessives o els límits massa definits.
+
+### 9.3.4. Combinació de procediments
+
+Es poden combinar procediments quan cap tècnica per si sola permet controlar tota la transició. Per exemple, preparar mescles intermèdies per establir l'evolució cromàtica i integrar amb mescla humida només les zones de contacte; o construir les zones principals amb aplicacions successives i integrar localment els límits més evidents.
+
+La combinació ha de respondre a una necessitat concreta: no cal utilitzar tots els procediments en un mateix degradat.
+
+La transparència pot influir en algunes transicions, però no s'ha de confondre la construcció d'un degradat amb la tècnica específica de veladures i glacis, desenvolupada al capítol 10.
+
+## 9.4. Procediment general de planificació i execució
+
+La construcció es pot organitzar en sis fases:
+
+1. **Definir el resultat.** Establir colors de partida i arribada, dimensions cromàtiques que han de variar, direcció, extensió i continuïtat. La planificació ha de respondre a l'aparença buscada, no a una progressió mecànica de mescles.
+2. **Preparar els colors intermedis.** Determinar com evolucionaran els tons. Si es preparen a la paleta, comprovar les mostres abans d'aplicar-les. Si una mescla trenca la progressió, ajustar-la abans de continuar.
+3. **Distribuir la transició.** Adaptar l'extensió i la posició del canvi a la geometria. Decidir on se situa el canvi principal i quines zones conserven els colors extrems. La transició pot concentrar-se prop d'un límit, estendre's per una superfície o recórrer una zona corba; també pot ser asimètrica.
+4. **Escollir el sentit de construcció.** Començar pel color fosc, clar o una zona intermèdia segons l'extensió, l'opacitat, la geometria i el procediment. Conservar referències dels extrems.
+5. **Aplicar i integrar.** Seguir el procediment escollit i controlar els límits. Evitar arrossegar pintura cap a zones definides, modificar excessivament els extrems, insistir quan la pintura s'asseca, introduir mescles no comprovades o corregir tota la superfície quan el problema és local.
+6. **Deixar assecar i avaluar.** L'aparença humida pot diferir de la seca. Les correccions importants s'han de basar en una superfície prou seca. Comprovar la relació entre colors, els salts i l'extensió; decidir si cal continuar, corregir localment o aturar-se.
+
+## 9.5. Variants de transició cromàtica
+
+Les transicions es poden classificar segons les dimensions que modifiquen i la seva distribució. Les categories no són excloents: un mateix degradat pot combinar-ne diverses.
+
+### Segons les dimensions cromàtiques
+
+- **De valor:** connecten zones més clares i més fosques. El matís pot mantenir-se relativament estable, tot i que les mescles reals poden introduir variacions. No s'han de confondre amb la planificació de llums i ombres: el degradat és un procediment per construir una variació; la ubicació de zones il·luminades i fosques correspon al capítol 15.
+- **De matís:** connecten famílies cromàtiques diferents, com blau i verd, vermell i taronja o groc i verd. La mescla directa pot no donar el resultat desitjat; pot caldre un color intermedi que orienti l'evolució i eviti zones imprevistes.
+- **De croma:** modifiquen progressivament la intensitat cromàtica relativa, des de colors intensos cap a d'altres més apagats o a l'inrevés. El matís i el valor també poden canviar; incorporar un neutre no redueix necessàriament només el croma.
+- **Combinades:** modifiquen dues o més dimensions alhora, per exemple d'un vermell fosc i intens a un taronja més clar i menys saturat. Cal identificar quina dimensió ha de tenir més protagonisme i comprovar l'evolució de les altres.
+
+### Segons la distribució
+
+- **Suaus:** el canvi es desenvolupa progressivament en una extensió relativament àmplia.
+- **Marcades:** la variació es concentra en una zona més reduïda, però conserva continuïtat.
+- **Localitzades:** afecten una part concreta.
+- **Esteses:** recorren una zona àmplia i connecten àrees cromàtiques allunyades.
+
+Aquestes variants descriuen l'organització del resultat, no procediments independents. Es poden construir amb qualsevol de les tècniques anteriors quan les condicions ho permetin.
+
+## 9.6. Control tècnic i avaluació de la transició
+
+L'avaluació ha de considerar continuïtat, distribució dels tons intermedis, extensió i estat de la superfície. No n'hi ha prou amb comprovar que dos colors s'han barrejat.
+
+Una transició controlada ha de complir:
+- Els tons intermedis mantenen una progressió cromàtica coherent.
+- No apareixen salts, bandes o interrupcions involuntàries.
+- L'extensió correspon a la geometria i a l'efecte buscat.
+- Els colors extrems conserven la presència prevista.
+- Les zones que han de romandre diferenciades no queden envaïdes.
+- La superfície no presenta acumulacions, marques excessives, irregularitats ni pèrdua de definició.
+- Els límits responen a l'efecte buscat.
+
+La continuïtat no exigeix una variació perfectament uniforme. Una transició pot ser més ràpida en una zona i més gradual en una altra si ho preveu la planificació.
+
+### 9.6.1. Control de la continuïtat visual
+
+Una transició presenta continuïtat quan el canvi cromàtic es percep de manera coherent i no apareixen interrupcions involuntàries. Per avaluar-la convé observar:
+
+- Si hi ha salts massa evidents entre colors.
+- Si els tons intermedis mantenen una relació lògica.
+- Si apareixen bandes no previstes.
+- Si hi ha zones on el canvi cromàtic s'interromp.
+- Si els límits entre colors responen a l'efecte buscat.
+
+La continuïtat no implica que la superfície hagi de presentar una variació perfectament uniforme. La regularitat és una possibilitat, no una exigència.
+
+### 9.6.2. Control de l'extensió
+
+L'extensió ha de correspondre a la superfície disponible i a l'efecte buscat. Una transició massa curta pot generar un canvi brusc; una de massa extensa pot reduir la presència dels colors extrems i alterar la distribució cromàtica prevista.
+
+També cal comprovar que la transició no envaeixi zones que haurien de conservar una aparença diferenciada.
+
+### 9.6.3. Control dels colors intermedis
+
+Els colors intermedis han de mantenir una progressió coherent. Una mescla aparentment adequada pot produir, quan s'aplica al costat de les altres, una zona massa fosca, massa clara o cromàticament desviada.
+
+Per això convé valorar la seqüència completa i no cada mescla de manera aïllada. Quan una transició presenta un color intermedi no previst, cal identificar quina mescla o aplicació ha provocat la desviació abans de modificar la resta.
+
+### 9.6.4. Control de la superfície
+
+A més de la continuïtat cromàtica, cal comprovar que la construcció no hagi deteriorat la superfície. S'ha d'observar si hi ha:
+
+- Acumulacions involuntàries.
+- Marques de pinzell massa visibles.
+- Pèrdua de definició als límits.
+- Irregularitats d'aplicació.
+- Zones amb una aparença superficial diferent de la resta.
+
+Aquests problemes poden afectar la lectura del degradat fins i tot quan la relació cromàtica entre els colors és adequada.
+
+### 9.6.5. Criteri de finalització
+
+Un degradat es pot considerar acabat quan compleix la funció prevista i manté una continuïtat adequada al tipus de transició escollit.
+
+No cal eliminar qualsevol variació ni afegir indefinidament més tons intermedis. Si el resultat ja presenta la relació cromàtica desitjada, continuar intervenint-hi pot introduir irregularitats o deteriorar zones que estaven correctament resoltes.
+
+## 9.7. Errors freqüents i procediments de correcció
+
+### 9.7.1. Aparició de bandes o esglaons no desitjats
+
+Es produeix quan les diferències entre els tons intermedis són massa evidents o els seus límits continuen excessivament definits.
+
+**Possibles causes:**
+- Pocs tons intermedis per a l'extensió disponible.
+- Diferències cromàtiques massa grans entre mescles consecutives.
+- Distribució irregular dels colors.
+- Aplicacions amb límits massa marcats.
+
+**Correcció:** identifica primer la zona on s'interromp la continuïtat. Si la superfície ho permet, introdueix un to intermedi adequat o ajusta la relació entre els colors contigus. No cal reconstruir tot el degradat si el problema està limitat a una zona concreta.
+
+### 9.7.2. Transició discontínua o irregular
+
+Es produeix quan el canvi cromàtic presenta interrupcions, taques o zones que no segueixen l'evolució prevista.
+
+**Possibles causes:**
+- Distribució irregular dels colors.
+- Manipulació excessiva de la pintura.
+- Diferències d'aplicació entre zones.
+- Pèrdua de control durant la integració.
+
+**Correcció:** determina si la discontinuïtat és cromàtica o superficial. Si el problema es troba en la relació entre els colors, ajusta la transició amb una mescla intermèdia. Si es deu a una irregularitat d'aplicació, corregeix únicament la zona afectada.
+
+### 9.7.3. Acumulació excessiva de pintura
+
+Pot aparèixer quan es diposita massa pintura a les zones de contacte o s'insisteix repetidament sobre una mateixa àrea.
+
+**Possibles conseqüències:**
+- Pèrdua de detall.
+- Relleus involuntaris.
+- Acabat irregular.
+- Dificultat per integrar els colors.
+
+**Correcció:** evita continuar manipulant una superfície que ja presenta acumulació. Un cop seca, valora si és possible recuperar la zona mitjançant una correcció localitzada o si cal reconstruir-ne una part. La correcció s'ha de fer sense afegir pintura indiscriminadament.
+
+### 9.7.4. Pèrdua de claredat cromàtica
+
+Es produeix quan les mescles generen colors apagats, poc definits o diferents dels previstos.
+
+**Possibles causes:**
+- Mescla directa de pintures que produeixen resultats cromàtics no desitjats.
+- Incorporació excessiva de colors modificadors.
+- Acumulació de mescles successives sense una direcció definida.
+- Falta de comprovació dels tons intermedis.
+
+**Correcció:** revisa l'evolució cromàtica des dels colors de partida i identifica quina mescla ha provocat la desviació. Prepara una nova mescla intermèdia quan sigui necessari, evitant afegir més colors sense una finalitat concreta.
+
+### 9.7.5. Transició massa curta o massa extensa
+
+Una transició massa curta pot produir un canvi abrupte. Una de massa extensa pot ocupar zones que haurien de conservar els colors extrems.
+
+**Correcció:** reorganitza la distribució dels colors intermedis i ajusta l'extensió de la zona de canvi. No cal modificar tota la superfície si els extrems cromàtics estan correctament establerts.
+
+### 9.7.6. Correccions successives que deterioren el degradat
+
+La repetició d'intervencions pot provocar acumulació de pintura, pèrdua de definició i modificacions cromàtiques no previstes.
+
+**Correcció:** atura el procés i valora el resultat en condicions d'observació estables. Identifica el defecte principal i decideix si requereix una intervenció localitzada o si el degradat ja compleix la seva funció. La correcció ha de ser proporcional al problema. Afegir noves aplicacions sense identificar-ne la finalitat pot empitjorar el resultat.
+
+## 9.8. Resultat esperat i criteris d'avaluació
+
+En acabar, el lector ha de poder:
+- Diferenciar la construcció mitjançant capes d'un degradat.
+- Identificar les dimensions cromàtiques que s'han de modificar.
+- Seleccionar colors de partida i preparar tons intermedis.
+- Distingir mescles preparades, mescla humida i aplicacions successives.
+- Adaptar la transició a la geometria i l'extensió.
+- Escollir un sentit de construcció i conservar els colors extrems.
+- Planificar la distribució i controlar-ne la continuïtat.
+- Reconèixer bandes, discontinuïtats, acumulacions i desviacions cromàtiques.
+- Identificar-ne les causes i corregir-les localment.
+- Avaluar quan la transició està prou construïda.
+
+La qualitat no es valora només per la suavitat, sinó també per la coherència cromàtica, l'adequació a la superfície, el control de l'aplicació i la correspondència amb l'objectiu. Una transició marcada pot ser correcta si és intencionada; una de molt suau pot ser inadequada si modifica zones que haurien de conservar límits definits.
+
+El criteri de finalització és aconseguir l'efecte previst amb el mínim d'intervencions necessàries i preservant la integritat de la superfície.
+
+## 9.9. Exercicis pràctics
+
+Els exercicis estan organitzats de manera progressiva. Cadascun treballa un aspecte concret de la construcció de transicions i permet avaluar el resultat sense recórrer a tècniques que encara no s'han desenvolupat en capítols posteriors.
+
+### 9.9.1. Exercici 1. Construcció d'una transició de valor
+
+**Objectiu:** construir un degradat entre dos colors d'una mateixa família cromàtica, modificant principalment el valor.
+
+**Materials:**
+- Una superfície de prova llisa.
+- Dues pintures d'una família cromàtica similar, amb valors diferenciats.
+- Paleta.
+- Pinzell adequat per a la superfície.
+
+**Procediment:**
+1. Seleccionar un color més fosc i un altre de més clar.
+2. Preparar diverses mescles intermèdies.
+3. Ordenar-les segons la seva progressió de valor.
+4. Aplicar-les sobre la superfície de prova seguint una direcció definida.
+5. Integrar els límits mitjançant el procediment seleccionat.
+6. Deixar assecar i observar el resultat.
+
+**Criteris d'avaluació:**
+- La transició connecta els colors de partida.
+- Els tons intermedis mantenen una progressió coherent.
+- No apareixen bandes involuntàries.
+- La superfície conserva una aplicació controlada.
+
+### 9.9.2. Exercici 2. Transició entre dues famílies cromàtiques
+
+**Objectiu:** construir una transició entre dos colors de famílies cromàtiques diferents.
+
+**Materials:**
+- Dues pintures de famílies cromàtiques diferents.
+- Pintures addicionals per preparar tons intermedis, si són necessàries.
+- Superfície de prova.
+- Paleta i pinzell.
+
+**Procediment:**
+1. Seleccionar dos colors que s'hagin de connectar.
+2. Fer una petita prova de mescla directa.
+3. Observar si la mescla produeix una evolució cromàtica adequada.
+4. Si el resultat no és satisfactori, introduir un color intermedi que permeti orientar la transició.
+5. Preparar les mescles necessàries.
+6. Aplicar-les de manera progressiva.
+7. Avaluar la continuïtat un cop seca la superfície.
+
+**Criteris d'avaluació:**
+- L'evolució del matís és coherent.
+- Les mescles intermèdies no generen desviacions cromàtiques no previstes.
+- La transició conserva els colors de partida.
+- El resultat respon a l'objectiu inicial.
+
+### 9.9.3. Exercici 3. Comparació de procediments de construcció
+
+**Objectiu:** comprendre les diferències entre la mescla humida, les mescles intermèdies preparades i les aplicacions successives.
+
+**Materials:**
+- Dos colors de partida.
+- Pintures necessàries per preparar mescles intermèdies.
+- Tres superfícies de prova equivalents.
+- Paleta i pinzells.
+
+**Procediment:**
+1. Preparar tres superfícies de prova en condicions equivalents.
+2. Construir la primera transició mitjançant mescla humida.
+3. Construir la segona mitjançant mescles intermèdies preparades a la paleta.
+4. Construir la tercera mitjançant aplicacions successives de tons intermedis.
+5. Deixar assecar les tres superfícies.
+6. Comparar la continuïtat, el control cromàtic, la regularitat i la facilitat d'aplicació.
+
+**Criteris d'avaluació:**
+- Es reconeixen les diferències entre els procediments.
+- S'identifiquen els avantatges i les limitacions de cadascun.
+- Es determina quin procediment resulta més adequat per a cada superfície.
+- La comparació es basa en resultats observables i no en preferències assumides.
+
+### 9.9.4. Exercici 4. Construcció d'una transició combinada
+
+**Objectiu:** construir un degradat en què canviïn simultàniament el matís i el valor.
+
+**Materials:**
+- Dos colors de partida amb diferències de matís i valor.
+- Pintures per preparar tons intermedis.
+- Superfície de prova.
+- Paleta i pinzell.
+
+**Procediment:**
+1. Seleccionar els colors de partida.
+2. Determinar quina evolució de matís i valor es busca.
+3. Preparar les mescles intermèdies.
+4. Comprovar la progressió cromàtica abans d'aplicar-la.
+5. Construir la transició mitjançant el procediment més adequat.
+6. Avaluar si les variacions de matís i valor mantenen la relació prevista.
+7. Corregir les desviacions que afectin la continuïtat.
+
+**Criteris d'avaluació:**
+- Es controla l'evolució de més d'una dimensió cromàtica.
+- Els colors intermedis mantenen la coherència.
+- La transició no presenta canvis involuntaris.
+- El resultat respon a la planificació inicial.
+
+### 9.9.5. Exercici 5. Identificació i correcció de transicions defectuoses
+
+**Objectiu:** desenvolupar la capacitat d'analitzar un degradat i identificar els problemes que n'afecten la continuïtat.
+
+**Materials:**
+- Diverses superfícies de prova amb transicions diferents.
+- Pinzells i pintures adequades per fer correccions localitzades.
+
+**Procediment:**
+1. Preparar o seleccionar superfícies amb defectes diferents: bandes, salts cromàtics, transició massa curta, pèrdua de claredat o acumulacions.
+2. Observar cada superfície un cop seca.
+3. Identificar el defecte principal.
+4. Determinar-ne la possible causa.
+5. Seleccionar una correcció proporcionada al problema.
+6. Aplicar la correcció únicament on sigui necessària.
+7. Comparar el resultat abans i després de la intervenció.
+
+**Criteris d'avaluació:**
+- S'identifica correctament el defecte.
+- Es diferencia entre problemes cromàtics i problemes d'aplicació.
+- La correcció respon a una causa concreta.
+- S'evita intervenir sobre zones que ja presenten un resultat adequat.
+
+### 9.9.6. Exercici integrador. Planificació i construcció d'un degradat complet
+
+**Objectiu:** aplicar de manera autònoma els coneixements del capítol per planificar, executar i avaluar una transició cromàtica.
+
+**Materials:**
+- Una superfície de prova amb geometria plana o corba.
+- Dues o més pintures seleccionades per l'alumne.
+- Materials necessaris per preparar mescles intermèdies.
+- Paleta i pinzells.
+
+**Procediment:**
+1. Escollir una superfície i definir el resultat cromàtic desitjat.
+2. Seleccionar els colors de partida.
+3. Determinar quines dimensions cromàtiques s'han de modificar.
+4. Decidir l'extensió i la direcció del degradat.
+5. Seleccionar el procediment de construcció.
+6. Preparar i comprovar els colors intermedis.
+7. Executar la transició.
+8. Avaluar el resultat un cop sec.
+9. Identificar possibles defectes.
+10. Fer únicament les correccions necessàries.
+11. Registrar els materials, el procediment i les observacions.
+
+**Criteris d'avaluació:**
+- La transició està planificada abans d'aplicar-la.
+- El procediment escollit és adequat per a la superfície.
+- Els colors intermedis presenten una evolució coherent.
+- La continuïtat respon a l'objectiu previst.
+- Es manté el control de la quantitat de pintura i de la superfície.
+- Les correccions són localitzades i justificades.
+- El resultat final compleix la funció cromàtica establerta.
+
+L'exercici ha de permetre comprovar que el lector no només sap executar un degradat, sinó que comprèn com planificar-lo, quin procediment seleccionar i com avaluar-ne els resultats.
+
+## Síntesi del capítol
+
+Els degradats permeten construir transicions progressives entre dues o més zones cromàtiques. El resultat depèn de la relació entre els colors de partida, els tons intermedis, l'extensió de la transició, la geometria de la superfície i el procediment d'aplicació.
+
+Les mescles intermèdies preparades a la paleta, la mescla humida sobre la superfície i les aplicacions successives són procediments diferents que es poden utilitzar de manera independent o combinada.
+
+La tria ha de respondre a l'objectiu visual i a les condicions concretes de treball. No hi ha un nombre universal de tons intermedis ni una distribució única que garanteixi una transició correcta.
+
+El control tècnic exigeix observar la continuïtat cromàtica, identificar possibles bandes o discontinuïtats i evitar acumulacions o correccions innecessàries.
+
+El criteri fonamental és construir una transició intencionada i controlada, no aconseguir la màxima suavitat en qualsevol circumstància.

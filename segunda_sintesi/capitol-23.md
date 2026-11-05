@@ -140,7 +140,7 @@ La seda i els teixits setinats poden presentar superfícies més llises i reflec
 - Ombres: mescla proposada de Dark Green i Black.
 - Reflexos: Yellow Green, localitzat.
 
-**Construcció:** establir base; identificar plans de reflexió; crear ombres prou profundes; organitzar transicions; reservar els reflexos intensos per a zones concretes. No distribuir línies clares uniformement per tota la peça. Les receptes no garanteixen per si mateixes un acabat setinat: el brillantor final també depèn del tractament superficial (capítol 37).
+**Construcció:** establir base; identificar plans de reflexió; crear ombres prou profundes; organitzar transicions; reservar els reflexos intensos per a zones concretes. No distribuir línies clares uniformement per tota la peça. Les receptes no garanteixen per si mateixes un acabat setinat: la brillantor final també depèn del tractament superficial (capítol 37).
 
 ## 23.7. Vellut i teixits amb pèl
 

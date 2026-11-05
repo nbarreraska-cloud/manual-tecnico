@@ -645,7 +645,7 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 - **Límits:** no suggerir que l'aparença permet deduir sempre la composició del material.
 
 ### 6.4 — Respostes òptiques dels materials
-- **Ubicació:** apartat 6.4.
+- **Ubicació corregida:** apartat 6.3 (la compilació vigent desenvolupa aquí les respostes òptiques; 6.4 correspon a transparència, translucidesa i profunditat interna).
 - **Llegenda prevista:** «Comparació de superfícies amb reflexos definits, estesos, fragmentats o poc perceptibles.»
 - **Representació:** mostres de diferents respostes superficials i materials.
 - **Funció didàctica:** mostrar com la resposta òptica contribueix al reconeixement dels materials.

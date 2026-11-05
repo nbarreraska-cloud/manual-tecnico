@@ -61,3 +61,8 @@ Aquesta correcció és estrictament de maquetació i preservació de la numeraci
 L'escaneig de les 339 pàgines confirma que, a més de la pàgina de l'índex pendent d'actualització, les pàgines 35 i 284 són les dues pàgines pràcticament buides detectades. S'han revisat visualment mostres de portada, índex, cos dels capítols, annexos i fitxes; això no equival a una inspecció visual individual de cada pàgina ni a una verificació exhaustiva de cada cel·la de les 159 taules.
 
 La fidelitat estructural queda confirmada per recompte (39 capítols, A–F, 48 fitxes i 336 seccions), però la comparació textual exhaustiva caràcter a caràcter amb totes les fonts Markdown continua pendent. També resta pendent actualitzar i verificar l'índex amb Microsoft Word; la conversió de comprovació no n'ha calculat els camps.
+
+
+## Segona generació — desencadenament de validació (05/11/2026)
+
+Després de corregir el generador, s'ha actualitzat aquest registre per desencadenar una nova execució del workflow F9 a la branca de treball. La nova maqueta només es considerarà validada quan s'hagi descarregat i inspeccionat l'artefacte resultant.

@@ -4,7 +4,7 @@
 
 Una miniatura pintada integra materials i capes que poden deteriorar-se durant manipulació, exposició, transport i emmagatzematge. Els productes protectors poden contribuir a conservar la pel·lícula pictòrica, però no garanteixen per si sols la conservació absoluta.
 
-Cal distingir protecció, modificació de l'acabat i altres tractaments superficials. Un producte transparent que modifica la brillantor no ofereix necessàriament resistència mecànica; un producte decoratiu no és automàticament un barnís protector. Cal identificar la funció declarada: modificar brillantor, crear una superfície específica, protegir la pintura o aportar una característica funcional. El capítol 37 estudia la selecció i el control de l'aparença superficial, especialment el brillantor; aquest capítol tracta la funció protectora, els procediments de barnissat i la conservació. Un barnís pot modificar alhora l'aparença i la protecció, però aquestes dues funcions s'han d'avaluar per separat.
+Cal distingir protecció, modificació de l'acabat i altres tractaments superficials. Un producte transparent que modifica la brillantor no ofereix necessàriament resistència mecànica; un producte decoratiu no és automàticament un vernís protector. Cal identificar la funció declarada: modificar brillantor, crear una superfície específica, protegir la pintura o aportar una característica funcional. El capítol 37 estudia la selecció i el control de l'aparença superficial, especialment la brillantor; aquest capítol tracta la funció protectora, els procediments de envernissament i la conservació. Un vernís pot modificar alhora l'aparença i la protecció, però aquestes dues funcions s'han d'avaluar per separat.
 
 ## 38.2. Fonaments de la protecció superficial
 
@@ -18,13 +18,13 @@ Una capa protectora constitueix una pel·lícula addicional sobre la superfície
 - Reduir l'exposició directa a la humitat ambiental o a esquitxades accidentals quan el producte declara aquesta resistència.
 - Unificar o modificar l'aparença superficial.
 
-Aquestes funcions no equivalen a una protecció absoluta. Un barnís no impedeix necessàriament les ratllades profundes, els impactes, les fractures, la deformació del suport ni el deteriorament causat per una exposició ambiental inadequada.
+Aquestes funcions no equivalen a una protecció absoluta. Un vernís no impedeix necessàriament les ratllades profundes, els impactes, les fractures, la deformació del suport ni el deteriorament causat per una exposició ambiental inadequada.
 
 ### 38.2.2. Protecció de la pel·lícula pictòrica
 
-La pintura aplicada sobre una miniatura forma una pel·lícula la resistència de la qual depèn de la preparació del suport, l'adherència, la formulació, el gruix i les condicions d'assecat. El barnís s'incorpora com una capa addicional i no substitueix una preparació adequada.
+La pintura aplicada sobre una miniatura forma una pel·lícula la resistència de la qual depèn de la preparació del suport, l'adherència, la formulació, el gruix i les condicions d'assecat. El vernís s'incorpora com una capa addicional i no substitueix una preparació adequada.
 
-Si la pintura presenta una adherència deficient, acumulacions inestables o zones que no s'han assecat correctament, el barnissat no garanteix que aquests problemes quedin resolts. La protecció s'ha de considerar una fase posterior a una execució pictòrica correctament preparada i estabilitzada.
+Si la pintura presenta una adherència deficient, acumulacions inestables o zones que no s'han assecat correctament, el envernissament no garanteix que aquests problemes quedin resolts. La protecció s'ha de considerar una fase posterior a una execució pictòrica correctament preparada i estabilitzada.
 
 ### 38.2.3. Protecció i resistència no són conceptes absoluts
 
@@ -37,11 +37,11 @@ La resistència d'un recobriment es pot avaluar davant agents diferents:
 - Determinats productes químics.
 - Exposició a radiació ultraviolada.
 
-Un producte pot comportar-se adequadament davant un agent i oferir una protecció limitada davant d'un altre. No s'ha d'afirmar que un barnís resisteix tots aquests factors sense documentació tècnica que ho justifiqui.
+Un producte pot comportar-se adequadament davant un agent i oferir una protecció limitada davant d'un altre. No s'ha d'afirmar que un vernís resisteix tots aquests factors sense documentació tècnica que ho justifiqui.
 
 ### 38.2.4. Assecat i formació de la pel·lícula
 
-Després d'aplicar un barnís, el producte ha d'assolir l'estat d'assecat i estabilització indicat pel fabricant. Cal distingir:
+Després d'aplicar un vernís, el producte ha d'assolir l'estat d'assecat i estabilització indicat pel fabricant. Cal distingir:
 - **Assecat superficial:** la superfície deixa de presentar l'estat humit inicial.
 - **Assecat al tacte:** el contacte lleuger no produeix una transferència apreciable ni deixa marca, segons les condicions indicades per al producte.
 - **Estabilització o curat:** evolució de la pel·lícula fins a assolir les propietats previstes per la formulació.
@@ -50,7 +50,7 @@ Aquests termes no són intercanviables i no tots els fabricants els utilitzen am
 
 ### 38.2.5. Límits de la protecció
 
-La protecció superficial no substitueix les mesures de conservació. Un barnís no garanteix:
+La protecció superficial no substitueix les mesures de conservació. Un vernís no garanteix:
 - Resistència davant qualsevol impacte o caiguda.
 - Protecció completa davant la humitat o l'aigua.
 - Absència de ratllades.
@@ -63,15 +63,15 @@ La conservació requereix combinar una protecció adequada amb manipulació acur
 
 ## 38.3. Tipus de productes protectors
 
-### 38.3.1. Barnissos acrílics
+### 38.3.1. Vernissos acrílics
 
 Són habituals en pintura de miniatures i poden presentar diferents graus de brillantor. Les característiques depenen de la formulació i del producte concret. Cal consultar-ne la documentació i no generalitzar-ne el comportament. Abans d'utilitzar-los, convé comprovar-ne la compatibilitat amb el suport i les capes pictòriques, el mètode d'aplicació, la necessitat de dilució, les condicions d'assecat, la resistència declarada i les recomanacions de conservació i seguretat.
 
-### 38.3.2. Barnissos de poliuretà
+### 38.3.2. Vernissos de poliuretà
 
 Hi ha formulacions destinades a proporcionar pel·lícules resistents i duradores. En modelisme també existeixen productes de poliuretà de base aquosa que poden aplicar-se a pinzell o aerògraf quan el fabricant ho preveu. No s'ha de pressuposar que tots tenen les mateixes propietats, compatibilitat o condicions d'aplicació, ni que ofereixen una resistència superior en qualsevol circumstància. La selecció s'ha de basar en la fitxa tècnica i l'ús previst.
 
-### 38.3.3. Barnissos en aerosol
+### 38.3.3. Vernissos en aerosol
 
 Distribueixen el producte per pulverització i poden ser pràctics per a superfícies extenses o de geometria complexa. Requereixen controlar la ventilació, la temperatura i la humitat recomanades, la distància, el moviment, la quantitat aplicada i la compatibilitat amb els materials de la miniatura. Cal tenir presents la inflamabilitat i la pressurització de l'envàs, els riscos d'inhalació i totes les indicacions de seguretat del fabricant. No s'han d'utilitzar en espais tancats ni sense ventilació i protecció adequades.
 
@@ -79,7 +79,7 @@ Distribueixen el producte per pulverització i poden ser pràctics per a superf�
 
 Existeixen recobriments destinats a necessitats concretes. La selecció ha de basar-se en funció declarada, suport i compatibilitat, no només en l'aparença final.
 
-### 38.3.5. Barnís protector i producte d'acabat
+### 38.3.5. Vernís protector i producte d'acabat
 
 No tots els productes que modifiquen brillantor protegeixen la pintura. Cal distingir productes que alteren aparença, recobriments decoratius i sistemes de protecció. L'aparença final no és un indicador suficient de resistència.
 
@@ -97,7 +97,7 @@ El contacte repetit pot desgastar vores, sortints, armes, eines, extremitats, zo
 
 ### 38.4.3. Miniatures amb elements delicats
 
-Identificar pigments en pols sense fixar, efectes de sang o fluids, transparències, materials amb brillantor específica, elements fluorescents, acumulacions i textures en relleu, components mòbils o unions amb adhesius sensibles. El barnís pot alterar-ne aparença o distribució. Segons proves i objectiu, pot convenir protecció selectiva o deixar zones sense barnissar si no hi ha sistema compatible.
+Identificar pigments en pols sense fixar, efectes de sang o fluids, transparències, materials amb brillantor específica, elements fluorescents, acumulacions i textures en relleu, components mòbils o unions amb adhesius sensibles. El vernís pot alterar-ne aparença o distribució. Segons proves i objectiu, pot convenir protecció selectiva o deixar zones sense envernissar si no hi ha sistema compatible.
 
 ### 38.4.4. Selecció segons el suport
 
@@ -107,11 +107,11 @@ Les miniatures poden combinar plàstic, resina, metall i altres materials, així
 
 Pinzell, aerògraf i aerosol es trien segons extensió, complexitat geomètrica, producte, precisió, experiència, condicions de treball i recomanacions del fabricant. Cap mètode és universalment superior.
 
-## 38.5. Preparació abans del barnissat
+## 38.5. Preparació abans del envernissament
 
 ### 38.5.1. Comprovació de la pintura
 
-Abans de barnissar, comprovar:
+Abans de envernissar, comprovar:
 - que no queden zones humides;
 - que no hi ha transferència en un contacte accidental;
 - que no hi ha acumulacions inestables;
@@ -123,7 +123,7 @@ No existeix un temps d'espera universal: depèn de pintures, gruixos, ambient i 
 
 ### 38.5.2. Inspecció de la superfície
 
-Amb il·luminació suficient i des de diversos angles, identificar pols, partícules, fibres, brutícia, acumulacions, elements mal adherits i defectes que podrien quedar coberts. El barnís no ha d'ocultar defectes ni fixar materials d'estabilitat desconeguda.
+Amb il·luminació suficient i des de diversos angles, identificar pols, partícules, fibres, brutícia, acumulacions, elements mal adherits i defectes que podrien quedar coberts. El vernís no ha d'ocultar defectes ni fixar materials d'estabilitat desconeguda.
 
 ### 38.5.3. Identificació de zones sensibles
 
@@ -148,7 +148,7 @@ Els procediments són criteris generals i s'han d'adaptar a cada producte; no s�
 3. Preparar el producte segons instruccions; no diluir si no està previst.
 4. Utilitzar un pinzell net i adequat, preferiblement reservat a acabats.
 5. Carregar una quantitat controlada.
-6. Estendre el barnís de manera contínua i evitar acumulacions.
+6. Estendre el vernís de manera contínua i evitar acumulacions.
 7. Revisar cavitats i detalls.
 8. Deixar assecar sense manipular.
 9. Avaluar quan s'hagi assolit l'estat indicat.
@@ -157,7 +157,7 @@ Evitar repassar repetidament una zona quan el producte comença a assecar: pot a
 
 ### 38.6.2. Aplicació amb aerògraf
 
-1. Comprovar que el barnís és apte per a aerografia.
+1. Comprovar que el vernís és apte per a aerografia.
 2. Consultar si s'utilitza directament o cal diluir-lo.
 3. Preparar l'equip segons instruccions.
 4. Fer una prova de pulverització.
@@ -167,7 +167,7 @@ Evitar repassar repetidament una zona quan el producte comença a assecar: pot a
 8. Deixar assecar segons instruccions.
 9. Netejar l'equip amb el producte recomanat.
 
-Pressió, distància, broquet i dilució depenen del barnís i de l'equip; no s'han d'establir paràmetres universals.
+Pressió, distància, broquet i dilució depenen del vernís i de l'equip; no s'han d'establir paràmetres universals.
 
 ### 38.6.3. Aplicació amb aerosol
 
@@ -204,7 +204,7 @@ No es pot deduir compatibilitat només perquè dos productes siguin acrílics, d
 
 ### 38.7.2. Alteracions cromàtiques i òptiques
 
-Un barnís transparent pot modificar l'aparença: augment o reducció de brillantor, enfosquiment aparent, canvi d'intensitat cromàtica percebuda, pèrdua de definició de textures, modificació de pigments i alteració de transparències o efectes especials. Depèn del producte i la superfície; transparència del barnís no significa conservació garantida de l'aparença.
+Un vernís transparent pot modificar l'aparença: augment o reducció de brillantor, enfosquiment aparent, canvi d'intensitat cromàtica percebuda, pèrdua de definició de textures, modificació de pigments i alteració de transparències o efectes especials. Depèn del producte i la superfície; transparència del vernís no significa conservació garantida de l'aparença.
 
 ### 38.7.3. Control d'acumulacions
 
@@ -220,7 +220,7 @@ Per avaluar un producte, fer proves controlades sobre mostres equivalents, no so
 
 ## 38.8. Conservació, manipulació i emmagatzematge
 
-El barnissat no posa fi a la conservació.
+El envernissament no posa fi a la conservació.
 
 ### 38.8.1. Manipulació
 
@@ -232,11 +232,11 @@ Controlar temperatura, humitat, pols, llum solar directa, cops i vibracions; sep
 
 ### 38.8.3. Exposició a la llum
 
-L'exposició prolongada pot deteriorar pigments, materials i recobriments. La resistència depèn de la composició. Un barnís transparent o protector no ofereix necessàriament protecció UV suficient. Reduir llum solar directa i utilitzar sistemes d'il·luminació i exposició adequats.
+L'exposició prolongada pot deteriorar pigments, materials i recobriments. La resistència depèn de la composició. Un vernís transparent o protector no ofereix necessàriament protecció UV suficient. Reduir llum solar directa i utilitzar sistemes d'il·luminació i exposició adequats.
 
 ### 38.8.4. Pols i brutícia
 
-Vitrines, caixes i sistemes d'emmagatzematge redueixen deposició de pols. La neteja ha de ser suau i adequada als materials i recobriments. No aplicar automàticament aigua, alcohol, dissolvents o productes domèstics sobre una miniatura barnissada: la compatibilitat ha d'estar documentada o comprovada.
+Vitrines, caixes i sistemes d'emmagatzematge redueixen deposició de pols. La neteja ha de ser suau i adequada als materials i recobriments. No aplicar automàticament aigua, alcohol, dissolvents o productes domèstics sobre una miniatura envernissada: la compatibilitat ha d'estar documentada o comprovada.
 
 ### 38.8.5. Transport
 
@@ -250,21 +250,21 @@ Revisar desgast en vores i contactes, ratllades, pèrdua d'adherència, pols, al
 
 | Error | Conseqüència | Correcció |
 |---|---|---|
-| Barnissar abans que la pintura estigui preparada | Arrossegaments, alteracions o problemes d'adherència | Respectar assecat i comprovar estabilitat. |
+| Envernissar abans que la pintura estigui preparada | Arrossegaments, alteracions o problemes d'adherència | Respectar assecat i comprovar estabilitat. |
 | Aplicar una capa massa abundant | Acumulacions, pèrdua de detalls i problemes d'assecat | Controlar quantitat i seguir instruccions. |
 | Preparar malament el producte | Acabat irregular o diferent del previst | Consultar etiqueta i preparar segons instruccions. |
 | Utilitzar producte incompatible | Canvis cromàtics, terbolesa o pèrdua d'adherència | Provar abans i verificar compatibilitat. |
 | Aplicar aerosol en condicions inadequades | Veladures, acumulacions o cobertura deficient | Respectar condicions, provar i fer passades controlades. |
 | Confondre assecat superficial i resistència final | Marques o danys en manipular | Respectar estabilització abans de manipular o embalar. |
 | Alterar efectes especials | Pèrdua parcial de l'efecte | Identificar zones sensibles i provar; protegir selectivament si escau. |
-| Utilitzar barnís per corregir defectes pictòrics | Defectes persistents o més visibles | Corregir abans de protegir. |
+| Utilitzar vernís per corregir defectes pictòrics | Defectes persistents o més visibles | Corregir abans de protegir. |
 | Emmagatzemar sense protecció física | Cops, pressió i fregaments | Utilitzar sistemes adaptats a geometria i fragilitat. |
 
 ### 38.9.10. Criteris d'avaluació final
 
 Abans de finalitzar, comprovar:
 - Que la pintura estava preparada per rebre el producte.
-- Que el barnís és adequat per al suport i les capes existents.
+- Que el vernís és adequat per al suport i les capes existents.
 - Que el mètode d'aplicació correspon al producte.
 - Que no hi ha acumulacions o irregularitats importants.
 - Que els detalls es mantenen definits.
@@ -354,7 +354,7 @@ Abans de finalitzar, comprovar:
 
 ### 38.10.6. Exercici integrador: protecció i conservació d'una miniatura
 
-**Objectiu:** planificar una protecció coherent amb la peça i el seu ús, sense considerar el barnissat una garantia de conservació absoluta.
+**Objectiu:** planificar una protecció coherent amb la peça i el seu ús, sense considerar el envernissament una garantia de conservació absoluta.
 
 **Procediment:**
 1. Determinar l'ús previst de la peça.
@@ -370,7 +370,7 @@ Abans de finalitzar, comprovar:
 
 ## 38.11. Síntesi del capítol
 
-La protecció superficial permet reduir determinats riscos de deteriorament de la pintura i facilita la conservació de les miniatures. El barnissat s'ha de realitzar sobre una superfície preparada i mitjançant productes compatibles amb el suport i les capes pictòriques.
+La protecció superficial permet reduir determinats riscos de deteriorament de la pintura i facilita la conservació de les miniatures. El envernissament s'ha de realitzar sobre una superfície preparada i mitjançant productes compatibles amb el suport i les capes pictòriques.
 
 La selecció del producte depèn de la resistència requerida, l'ús previst, el material, el mètode d'aplicació i les característiques declarades pel fabricant. Els procediments a pinzell, aerògraf i aerosol presenten condicions i limitacions diferents. No s'han d'aplicar proporcions, temps o paràmetres universals sense consultar la documentació corresponent.
 
@@ -379,8 +379,8 @@ La protecció s'ha de complementar amb manipulació acurada, emmagatzematge adeq
 ## 38.12. Referències i recursos
 
 **Documentació del fabricant**
-- Acrylicos Vallejo. *Using Vallejo Varnishes*. Tutorial tècnic sobre barnissos mats, satinats i brillants, aplicació amb aerògraf, capes controlades i prevenció d'acumulacions.
-- Acrylicos Vallejo. *Catalogue 2026 — Models & Miniatures*. Documentació comercial de productes auxiliars i famílies de barnissos.
-- Acrylicos Vallejo. *Model Color — User Guide*. Indicacions generals sobre aplicació de barnissos amb pinzell i aerògraf.
+- Acrylicos Vallejo. *Using Vallejo Varnishes*. Tutorial tècnic sobre vernissos mats, satinats i brillants, aplicació amb aerògraf, capes controlades i prevenció d'acumulacions.
+- Acrylicos Vallejo. *Catalogue 2026 — Models & Miniatures*. Documentació comercial de productes auxiliars i famílies de vernissos.
+- Acrylicos Vallejo. *Model Color — User Guide*. Indicacions generals sobre aplicació de vernissos amb pinzell i aerògraf.
 
-Les indicacions d'un producte concret no s'han de traslladar automàticament a altres barnissos, encara que siguin de la mateixa família. Les fonts descriuen productes i característiques declarades; no són assajos propis ni comparatives independents. La resistència efectiva requereix documentació tècnica o proves específiques en condicions controlades.
+Les indicacions d'un producte concret no s'han de traslladar automàticament a altres vernissos, encara que siguin de la mateixa família. Les fonts descriuen productes i característiques declarades; no són assajos propis ni comparatives independents. La resistència efectiva requereix documentació tècnica o proves específiques en condicions controlades.

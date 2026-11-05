@@ -107,11 +107,11 @@ Les miniatures poden combinar plàstic, resina, metall i altres materials, així
 
 Pinzell, aerògraf i aerosol es trien segons extensió, complexitat geomètrica, producte, precisió, experiència, condicions de treball i recomanacions del fabricant. Cap mètode és universalment superior.
 
-## 38.5. Preparació abans dl'envernissament
+## 38.5. Preparació abans de l'envernissament
 
 ### 38.5.1. Comprovació de la pintura
 
-Abans de envernissar, comprovar:
+Abans d'envernissar, comprovar:
 - que no queden zones humides;
 - que no hi ha transferència en un contacte accidental;
 - que no hi ha acumulacions inestables;
@@ -220,7 +220,7 @@ Per avaluar un producte, fer proves controlades sobre mostres equivalents, no so
 
 ## 38.8. Conservació, manipulació i emmagatzematge
 
-El envernissament no posa fi a la conservació.
+L'envernissament no posa fi a la conservació.
 
 ### 38.8.1. Manipulació
 
@@ -370,7 +370,7 @@ Abans de finalitzar, comprovar:
 
 ## 38.11. Síntesi del capítol
 
-La protecció superficial permet reduir determinats riscos de deteriorament de la pintura i facilita la conservació de les miniatures. El envernissament s'ha de realitzar sobre una superfície preparada i mitjançant productes compatibles amb el suport i les capes pictòriques.
+La protecció superficial permet reduir determinats riscos de deteriorament de la pintura i facilita la conservació de les miniatures. L'envernissament s'ha de realitzar sobre una superfície preparada i mitjançant productes compatibles amb el suport i les capes pictòriques.
 
 La selecció del producte depèn de la resistència requerida, l'ús previst, el material, el mètode d'aplicació i les característiques declarades pel fabricant. Els procediments a pinzell, aerògraf i aerosol presenten condicions i limitacions diferents. No s'han d'aplicar proporcions, temps o paràmetres universals sense consultar la documentació corresponent.
 

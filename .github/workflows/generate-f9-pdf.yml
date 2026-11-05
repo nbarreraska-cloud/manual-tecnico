@@ -1,0 +1,61 @@
+name: Build F9 final PDF
+
+on:
+  push:
+    branches:
+      - intervencion-editorial-2026-11
+    paths:
+      - ".github/workflows/generate-f9-pdf.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build-f9-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out closed F9 working branch
+        uses: actions/checkout@v4
+        with:
+          ref: intervencion-editorial-2026-11
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install document builder
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install python-docx
+      - name: Install LibreOffice and PDF inspection tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libreoffice-writer poppler-utils
+      - name: Generate and audit F9 Word master
+        run: |
+          python tools/generate_f9_docx.py
+          python tools/validate_f9_text.py
+      - name: Convert final Word master to PDF
+        run: |
+          mkdir -p dist/pdf
+          libreoffice --headless --convert-to pdf --outdir dist/pdf dist/Manual_tecnic_pintura_miniatures_F9.docx
+          test -s dist/pdf/Manual_tecnic_pintura_miniatures_F9.pdf
+      - name: Verify PDF integrity and pagination
+        run: |
+          pdfinfo dist/pdf/Manual_tecnic_pintura_miniatures_F9.pdf | tee dist/pdf/pdfinfo.txt
+          pdftotext -layout dist/pdf/Manual_tecnic_pintura_miniatures_F9.pdf dist/pdf/Manual_tecnic_pintura_miniatures_F9.txt
+          test -s dist/pdf/Manual_tecnic_pintura_miniatures_F9.txt
+          pages=$(pdfinfo dist/pdf/Manual_tecnic_pintura_miniatures_F9.pdf | awk '/^Pages:/ {print $2}')
+          test "$pages" -ge 1
+          echo "PDF_PAGES=$pages" | tee dist/pdf/verification.txt
+          echo "PDF_TEXT_BYTES=$(wc -c < dist/pdf/Manual_tecnic_pintura_miniatures_F9.txt)" | tee -a dist/pdf/verification.txt
+      - name: Upload final PDF and inspection text
+        uses: actions/upload-artifact@v4
+        with:
+          name: Manual-tecnic-pintura-miniatures-F9-PDF
+          path: |
+            dist/pdf/Manual_tecnic_pintura_miniatures_F9.pdf
+            dist/pdf/pdfinfo.txt
+            dist/pdf/verification.txt
+          if-no-files-found: error
+          retention-days: 30

@@ -1,6 +1,6 @@
 # REGISTRE MESTRE DE RECUPERACIONS EDITORIALS
 **Manual tècnic de pintura de miniatures**  
-**Versió:** 1.14 · **Data:** 05/11/2026  
+**Versió:** 1.15 · **Data:** 05/11/2026  
 **Branca:** intervencion-editorial-2026-11
 
 ## 1. Funció i abast
@@ -101,8 +101,8 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 14 | SC · reobert per incidència substancial F4 | El text original complet no està localitzat; la versió és una consolidació basada en material disponible. En el coteig d'aquest material s'ha recuperat una distinció tècnica central que faltava explícitament al Markdown: transparència del producte pictòric versus transparència de l'objecte representat, inclosa com a error freqüent a la font. Recuperació puntual aplicada; no s'afirma validació integral de l'original. |
 | 15 | SC | F4 limitada: comprovada la correspondència estructural de deu apartats, sis exercicis i el focus de planificació lumínica amb el material disponible. No s'ha localitzat un text original complet; el capítol és una consolidació nova basada en l'índex i els acords recuperats. No es pot declarar coteig integral amb l'original. Sense canvis en aquesta passada. |
 | 16 | AE | Ajust de numeració i estructura de les geometries aplicat; contingut NMM ampliat posteriorment. F4 limitada: es comproven l'estructura de deu apartats, els sis exercicis i el procediment general disponible. La font declara que no s'ha recuperat un original complet; no es pot afirmar coteig integral. |
-| 17 | SC | Contingut protegit en l'auditoria inicial. Ampliació posterior d'OSL aplicada; validació global pendent. |
-| 18 | SC | Contingut protegit en l'auditoria inicial. Ampliació posterior de planificació, seqüenciació, control, avaluació i exercicis aplicada; no hi ha text original complet localitzat. |
+| 17 | SC | F4 limitada: comprovada l'estructura de deu apartats, sis exercicis i el criteri central de coherència espacial entre font i superfícies receptores. La font declara que és una versió consolidada nova i que no s'ha recuperat un original complet; no es pot afirmar coteig integral. Sense canvis de contingut. |
+| 18 | SC | F4 limitada: comprovada l'estructura de deu apartats, sis exercicis i les eines de planificació/avaluació. La font declara que no s'ha recuperat un original complet; no es pot afirmar coteig integral. Sense canvis de contingut. |
 | 19 | SC | Receptes i ingredients protegits per l'auditoria. Posteriorment s'ha ampliat el contingut de metalls i la paleta/formulació; les propostes no s'han de presentar com a assajades. |
 | 20 | SC | Receptes i contingut protegits; no s'hi va identificar recuperació prioritària en l'auditoria. |
 | 21 | SC | Receptes i contingut protegits; conservar la denominació original «Combinació cromàtica proposta». |

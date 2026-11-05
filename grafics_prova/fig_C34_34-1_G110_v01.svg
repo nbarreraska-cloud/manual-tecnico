@@ -11,9 +11,9 @@
 <rect x="35" y="90" width="1330" height="275" rx="16" class="panel"/>
 <text x="700" y="130" text-anchor="middle" class="sub">Mostres de materials</text>
 <g transform="translate(130 165)">
- <rect width="230" height="150" fill="#d8edf3" fill-opacity=".16" stroke="#8ab8c4" stroke-width="7"/>
- <rect x="330" width="230" height="150" fill="#d8edf3" fill-opacity=".58" stroke="#6dabb9" stroke-width="7"/>
- <rect x="660" width="230" height="150" fill="#d8edf3" fill-opacity=".8" stroke="#83aeb7" stroke-width="7"/>
+ <use href="#scene"/><rect width="230" height="145" fill="#b9e3ed" fill-opacity=".08" stroke="#8ab8c4" stroke-width="7"/>
+ <use href="#scene" x="330"/><rect x="330" width="230" height="145" fill="#4aa8c5" fill-opacity=".24" stroke="#6dabb9" stroke-width="7"/>
+ <use href="#scene" x="660" filter="url(#diffuse)"/><rect x="660" width="230" height="145" fill="#c7dce2" fill-opacity=".38" stroke="#83aeb7" stroke-width="7"/>
  <g class="label" text-anchor="middle"><text x="115" y="185">Transparent incolor</text><text x="445" y="185">Transparent acolorit</text><text x="775" y="185">Esmerilat</text></g>
 </g>
 <rect x="35" y="395" width="1330" height="410" rx="16" class="panel"/>

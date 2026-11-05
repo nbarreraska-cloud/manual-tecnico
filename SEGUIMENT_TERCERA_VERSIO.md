@@ -137,6 +137,16 @@ Cal recuperar procediments, explicacions tècniques, fonaments, advertiments, de
 - Mantingudes les vuit propostes de figures i el registre editorial del fitxer.
 - **Límit documental:** no s'ha localitzat un text original complet del capítol 15. L'ampliació es basa en la consolidació disponible de la primera versió i en l'índex i els acords editorials recuperats; no es presenta com una recuperació íntegra d'un original.
 
+### Capítol 16 — Metall no metàl·lic (NMM)
+
+- Recuperat el procediment general en set fases: preparació, base cromàtica, regions fosques i intermèdies, reflexos clars, accents i integració.
+- Desenvolupada l'adaptació a sis geometries i escales: superfícies planes, corbes, esfèriques, allargades, facetades i miniatures de mida diferent.
+- Ampliat el control tècnic en sis dimensions i desenvolupats deu errors amb criteris de correcció.
+- Restituïts els criteris d'avaluació i els sis exercicis, corregint la numeració dels apartats.
+- Recuperada la diferenciació cromàtica general entre acer/plata, or, coure, bronze i metalls estilitzats, mantenint les receptes específiques al capítol 19.
+- Mantingudes les propostes de figures i el registre editorial.
+- **Límit documental:** el registre del document de referència descriu el capítol 16 com una versió consolidada nova perquè no s'ha recuperat un text original complet. La revisió es basa en aquesta consolidació disponible, no en un original independent.
+
 ## Tasques pendents
 
 1. Validar la integritat textual i estructural dels capítols 4 i 5 després de les recuperacions.

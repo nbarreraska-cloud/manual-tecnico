@@ -32,8 +32,8 @@ Només es permet aplicar estils, ajustar espais, marges, salts, amplades de taul
 ## 4. Validacions automàtiques abans de generar
 
 - 39 capítols detectats a la compilació consolidada.
-- Cinc fitxers d'annex A–E presents.
-- 48 fitxes enllaçades des de l'índex general.
+- Cinc fitxers font d'annex A–E presents; l'Annex F es genera a partir de les 48 fitxes individuals i de l'índex general.
+- 48 fitxes identificades a l'índex general i incloses a l'Annex F.
 - Set seccions numerades a cadascuna de les 48 fitxes.
 - Cap fitxa omesa o duplicada en l'ordre d'integració.
 

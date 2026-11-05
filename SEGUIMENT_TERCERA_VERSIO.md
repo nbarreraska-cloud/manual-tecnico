@@ -1267,3 +1267,19 @@ S'ha arxivat sense modificacions la versió anterior a `annexos/historic/annex-e
 - Es manté la planificació com a orientativa i flexible; no s'hi estableix una seqüència universal ni s'afegeixen receptes, proporcions o propietats de productes no documentades.
 
 **F5 — regeneració A–E completada.** Això no equival encara a tancar la fase: F6 ha de fer l'auditoria semàntica transversal dels cinc annexos amb C1–C39, i F8 ha de revisar la numeració, les remissions creuades i la presentació final.
+
+
+### F6 — primera passada transversal del paquet C1–C39 i annexos A–E (05/11/2026)
+
+S'ha iniciat la segona auditoria transversal després de regenerar els cinc annexos. L'informe detallat queda a `annexos/auditoria_transversal_F6_2026-11-05.md`.
+
+**Comprovacions realitzades:**
+- **A:** 48 pintures identificades, 48 referències úniques i quatre conjunts de 12.
+- **B:** 63 entrades; 260 apartats de destinació únics després de desplegar els intervals, tots existents a la compilació C1–C39.
+- **C:** 183 entrades; totes les denominacions localitzades al capítol de procedència i les 62 referències d'apartat úniques existents.
+- **D:** 92 entrades; totes vinculades a una entrada de C per capítol, lletra i referència, amb denominacions concordants. Les 26 pintures identificades a les formulacions consten al catàleg A.
+- **E:** remissions funcionals revisades; s'ha precisat E.4.3 perquè el capítol 3 s'utilitzi com a marc d'interpretació de propietats documentades, sense suggerir una caracterització individual no acreditada.
+
+**Incidència oberta:** C2.5 atribueix a l'Annex A la fitxa individual corresponent a cada pintura i C2.5/C3.1 descriuen les fitxes individuals com a recursos documentals. En canvi, A.5 declara que la col·lecció completa de 48 fitxes no s'ha pogut establir al repositori; la inspecció de l'arbre de la branca tampoc no ha localitzat 48 fitxes independents. Això no demostra que no existeixin fora del repositori. No s'han modificat C2 ni C3. Cal determinar si les fitxes existeixen i s'han d'incorporar o si cal aprovar una correcció acotada dels capítols.
+
+**Estat:** primera passada transversal completada; F6 continua oberta fins a resoldre i registrar aquesta incidència. F8 i la maquetació textual continuen pendents. No s'han modificat receptes, proporcions ni procediments, i no s'ha afirmat cap validació experimental.

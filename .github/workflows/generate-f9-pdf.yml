@@ -7,6 +7,12 @@ on:
     paths:
       - ".github/workflows/generate-f9-pdf.yml"
       - "tools/export_f9_pdf.py"
+      - "tools/generate_f9_docx.py"
+      - "tools/validate_f9_text.py"
+      - "TERCERA_SINTESI_CONSOLIDADA_C01-C39.md"
+      - "annexos/**/*.md"
+      - "fitxes-pinturas/**/*.md"
+      - "fitxes-pintures/**/*.md"
   workflow_dispatch:
 
 permissions:

@@ -681,3 +681,22 @@ S'ha revisat la relació entre les figures P1 de capítols diferents que compart
 | C36 (representació del desgast) i C39 (diagnòstic/correcció) | **Mantenir separades.** C36 ensenya a representar alteracions; C39 ensenya a diagnosticar problemes i decidir si cal intervenir. |
 
 **Resultat:** no s'identifica cap motiu per fusionar cap P1 només per coincidència de tema. Les delimitacions anteriors s'han d'incorporar a les especificacions de producció. Les P2 que repeteixen una funció ja resolta es mantenen en reserva o s'integren com a panells.
+
+
+## 18. Especificacions preliminars de producció C15–C24 — 05/11/2026
+
+S'han traslladat les 58 propostes P1 cotejades a l'apartat 13 a `annexos/llista_preliminar_produccio_grafica_F10.md` (apartat 8), amb format proposat, contingut visual, funció, ubicació corregida i condicions de producció.
+
+Decisions i cauteles destacades:
+- **20.1 + 20.2:** composició única; 20.2 com a panell integrat, no com a figura independent.
+- **19.3–19.6:** seqüències didàctiques de receptes proposades, no fotografies ni resultats experimentals.
+- **15.6:** la distribució uniforme del contrast no s'ha d'etiquetar automàticament com a error.
+- **17.1:** distingir font emissora, superfície il·luminada i reflex especular; no equiparar color intens i emissió.
+- **21.7–21.8:** mantenir la diferència morfològica entre molsa i líquens.
+- **22.5:** la distinció visual entre ante i nobuk és orientativa i depèn del producte.
+- **24.2–24.3:** evitar categories de pigmentació tancades i mapes cromàtics facials universals.
+- **24.7–24.8:** qualsevol esquema anatòmic ha de ser fiable i no afegir estructures no sustentades.
+
+Les ubicacions corregides de l'apartat 13 s'han respectat: 16.4→16.3; 16.6→16.5; 17.1→17.2; 17.7→17.6; 17.8→17.5; 17.10→17.8; 18.6→18.5.4; 20.7→20.9.2; 20.8→20.7; 20.9→20.9.3; 22.6/22.7→22.9; 23.3→23.4; 23.6→23.9.1–23.9.2; 23.8→23.9.4; 24.3→24.7; 24.7/24.8→24.8; 24.9→24.9.3.
+
+**Abast de la feina:** especificacions preliminars, no llista definitiva. No s'ha generat ni inserit cap imatge i no s'ha modificat cap capítol. El següent bloc de redacció d'especificacions és C30–C39.

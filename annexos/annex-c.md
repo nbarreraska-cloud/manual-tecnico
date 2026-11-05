@@ -287,6 +287,5 @@ L'índex es reconstrueix a partir de les denominacions i les ubicacions de les r
 - Les denominacions s'han ajustat als títols vigents de les receptes i combinacions, incloses les actualitzacions terminològiques i les variants de redacció.
 - Les referències s'han contrastat amb l'apartat que conté cada entrada; no s'han inferit a partir de l'índex anterior.
 - No s'han afegit ingredients, proporcions, seqüències ni resultats experimentals.
-- La verificació de les referències no substitueix la revisió transversal F6 ni el control final F8.
 
-**Estat de regeneració F5:** 183/183 entrades localitzades i identificades; 183/183 referències corresponen a apartats que contenen la recepta o combinació indicada. No s'ha modificat cap recepta, ingredient, proporció ni procediment.
+

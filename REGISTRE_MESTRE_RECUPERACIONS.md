@@ -1,6 +1,6 @@
 # REGISTRE MESTRE DE RECUPERACIONS EDITORIALS
 **Manual tècnic de pintura de miniatures**  
-**Versió:** 1.81 · **Data:** 05/11/2026  
+**Versió:** 1.82 · **Data:** 05/11/2026  
 **Branca:** intervencion-editorial-2026-11
 
 ## 1. Funció i abast
@@ -26,7 +26,7 @@ Aquests 39 Markdown són la representació operativa de treball sobre els contin
 | 6 | Auditoria global de coherència, referències creuades, traçabilitat i absència de pèrdues o duplicacions. | **F6 completada (05/11/2026).** Auditoria transversal C1–C39 i A–E registrada a `annexos/auditoria_transversal_F6_2026-11-05.md`. Les 48 fitxes individuals es van regenerar documentalment i es van vincular des de l'Annex A. Les limitacions de dades no documentades i la manca de validació experimental es mantenen explícites. |
 | 7 | Revisió, selecció i producció del material gràfic. | **Ajornada fins després de la primera maqueta textual**. Inventari i classificació previs conservats: 243 propostes (157 P1, 83 P2, 3 P3); validació estructural P1 i revisió individual P2 documentades. No s'han aprovat visualment ni produït totes les figures. La revisió/selecció final i la producció no bloquegen la maqueta textual sense imatges. |
 | 8 | Auditoria final del document textual complet abans de la primera maquetació. | **F8 completada (05/11/2026), amb correcció documental aplicada.** Revisats 39 capítols, annexos A–E i 48 fitxes; 38 correspondències exactes i una discrepància ortogràfica a C28, corregida. Estructura, numeració, taules, residus editorials, annexos i enllaços interns comprovats. Informe: `annexos/auditoria_F8_2026-11-05.md`. No equival a validació experimental. |
-| 9 | Maquetació completa de la versió textual en Word, sense imatges. | **Autoritzada com a fase següent; encara no iniciada.** Incloure 39 capítols i sis annexos (A–F). L'Annex F contindrà les 48 fitxes individuals després de l'Annex E, en format compacte sense pèrdua de les set seccions previstes. Verificar estils, jerarquia, taules, índexs, encapçalaments, peus, salts i paginació real. No retallar contingut. |
+| 9 | Maquetació completa de la versió textual en Word, sense imatges. | **F9 iniciada (05/11/2026), encara no completada.** Especificació a annexos/F9_ESPECIFICACIO_MAQUETACIO.md; generador a tools/generate_f9_docx.py; workflow manual a .github/workflows/generate-f9-docx.yml. Abast: 39 capítols i annexos A–F, amb 48 fitxes compactes i íntegres a F. La generació real del DOCX i la revisió visual resten pendents. |
 
 La primera versió amb l'estructura completa sintetitzada i la segona síntesi dels 39 capítols són fonts diferenciades. La tercera versió és el resultat del treball sobre els 39 Markdown. La compilació documental única dels capítols 1–39 s'ha creat i sincronitzat amb els 39 Markdown. F2, F4 i F6 consten tancades amb els límits documentals registrats. L'auditoria anterior dels annexos es conserva com a antecedent. La regeneració A–E, F6 i F8 consten tancades segons els informes vigents. La fase gràfica (F7) queda ajornada fins després de la primera maqueta textual (F9).
 
@@ -598,3 +598,8 @@ Aquesta actualització fixa l'estat vigent i preval sobre qualsevol anotació hi
 - **F8:** auditoria textual final completada el 05/11/2026. La discrepància ortogràfica de C28 s'ha corregit al fitxer individual mitjançant dues substitucions de «gema» per «gemma». La compilació ja contenia la forma correcta. L'informe és `annexos/auditoria_F8_2026-11-05.md`.
 - **F9:** queda autoritzada i és la següent fase; encara no consta iniciada en aquesta actualització. El Word incorporarà els 39 capítols i els annexos A–F, amb les 48 fitxes com a Annex F independent després de l'Annex E. Les fitxes s'han de maquetar de manera compacta, preservant les set seccions i tota la informació especificada; no s'autoritza una nova síntesi del seu contingut.
 - **Límits:** ni F8 ni la regeneració documental de les fitxes constitueixen validació experimental de pintures, receptes o mescles. `main` i la versió publicada continuen fora de l'àmbit d'intervenció.
+
+
+### Actualització F9 — inici de maquetació (05/11/2026 · versió 1.82)
+
+F9 queda iniciada en la branca intervencion-editorial-2026-11. S'han preparat l'especificació editorial, el generador i el workflow manual. El DOCX encara no s'ha generat ni revisat; per tant, F9 continua oberta. Es manté el bloqueig de canvis a main i la prohibició de reobrir contingut tècnic aprovat. L'Annex F incorporarà les 48 fitxes després d'E, amb set seccions cadascuna i compactació exclusivament tipogràfica i de composició.

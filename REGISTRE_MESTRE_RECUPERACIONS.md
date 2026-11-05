@@ -1,6 +1,6 @@
 # REGISTRE MESTRE DE RECUPERACIONS EDITORIALS
 **Manual tècnic de pintura de miniatures**  
-**Versió:** 1.1 · **Data:** 05/11/2026  
+**Versió:** 1.2 · **Data:** 05/11/2026  
 **Branca:** intervencion-editorial-2026-11
 
 ## 1. Funció i abast
@@ -76,7 +76,8 @@ Una mateixa intervenció pot tenir més d'una categoria.
 7. No reobrir capítol tancat per observacions menors. Reobrir només davant errors reals, contradiccions importants o incidències de coherència global.
 8. Les propostes de figures es mantenen com a especificacions editorials; no es presenten com a imatges produïdes ni com a proves físiques.
 9. Cada intervenció ha de distingir quatre estats: **diagnosticada**, **decidida**, **aplicada** i **validada**. Un canvi aplicat no queda automàticament validat.
-10. La branca intervencion-editorial-2026-11 és la branca de treball; main no s'ha de modificar.\n11. L'objectiu d'extensió de la tercera versió és aproximadament 350–375 pàgines, amb un límit orientatiu d'unes 400. És un criteri de control, no una ordre de retall: no s'ha de suprimir contingut tècnic, procediments, receptes, exercicis, variants ni advertiments només per reduir pàgines.
+10. La branca intervencion-editorial-2026-11 és la branca de treball; main no s'ha de modificar.
+11. L'objectiu d'extensió de la tercera versió és aproximadament 350–375 pàgines, amb un límit orientatiu d'unes 400. És un criteri de control, no una ordre de retall: no s'ha de suprimir contingut tècnic, procediments, receptes, exercicis, variants ni advertiments només per reduir pàgines.
 
 ## 5. Matriu de classificació de l'auditoria 39/39
 
@@ -185,6 +186,6 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | Versió | Data | Canvis |
 |---|---|---|
 | 1.0 | 05/11/2026 | Primera consolidació de categories RT/RD/AE/MG/SC, prioritats, dictamen 39/39, estat de les intervencions i fases. |
-| 1.1 | 05/11/2026 | Correcció de la seqüència F0–F7; incorporació de la traçabilitat G-01–G-11 a l'HTML; distinció explícita entre les intervencions històriques de la primera versió i les recuperacions actuals dels 39 Markdown; actualització de l'estat de C33–C34 i correcció del recompte de passos de C4. |
+| 1.1 | 05/11/2026 | Correcció de la seqüència F0–F7; incorporació de la traçabilitat G-01–G-11 a l'HTML; distinció explícita entre les intervencions històriques de la primera versió i les recuperacions actuals dels 39 Markdown; actualització de l'estat de C33–C34 i correcció del recompte de passos de C4. |\n| 1.2 | 05/11/2026 | Precisió de la fase F0 (traçabilitat) i incorporació del criteri d'extensió de 350–375 pàgines, amb límit orientatiu de 400 i prohibició de retallar contingut tècnic per raons quantitatives. |
 
 Aquest registre és una consolidació operativa basada en l'auditoria i els resultats recuperats del projecte. Els punts marcats com a pendents o no validats s'han de comprovar amb el fitxer real i la font corresponent abans de declarar-los tancats.

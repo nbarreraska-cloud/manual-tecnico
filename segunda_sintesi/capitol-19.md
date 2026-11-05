@@ -20,6 +20,33 @@ Les funcions són orientacions de treball, no resultats de proves comparatives. 
 
 Les receptes són **propostes tècniques**, no formulacions experimentals validades. Cal distingir la base metàl·lica, que aporta la superfície reflectant; la modificació cromàtica, que introdueix matís o temperatura; i la construcció tonal, que organitza ombres, mitjos tons i llums. No s'han d'inventar proporcions quan el document no les especifica. Les modificacions amb colors convencionals han de ser controlades perquè una cobertura massa opaca pot reduir l'efecte metàl·lic.
 
+### 19.1.1. Pintures metàl·liques disponibles a la paleta
+
+Dins de les 48 pintures Squidmar × Vallejo s'inclouen quatre referències metàl·liques:
+
+| Pintura | Referència | Utilització orientativa |
+|---|---:|---|
+| Silver | 72.052 | Bases metàl·liques clares, reflexos i aclarits |
+| Dark Gunmetal | 72.054 | Bases fosques i ombres metàl·liques |
+| Glorious Gold | 72.056 | Bases daurades i combinacions càlides |
+| Tinny Tin | 72.060 | Alternativa metàl·lica per a tons foscos i combinacions d'aspecte envellit |
+
+La denominació comercial identifica els productes, però no permet deduir per si sola totes les seves propietats. Les funcions proposades són orientacions de treball, no resultats de proves comparatives realitzades amb aquestes pintures.
+
+El catàleg del fabricant inclou altres referències metàl·liques, com Chainmail, Polished Gold, Bright Bronze i Hammered Copper, que no formen part de les 48 pintures del projecte. Per tant, no s'utilitzen com a components de les receptes principals.
+
+### 19.1.2. Criteris de formulació de les receptes
+
+Les combinacions es presenten com a propostes tècniques de treball. Cal distingir tres tipus d'intervenció:
+
+- **Aplicació de pintura metàl·lica:** estableix la superfície reflectant.
+- **Modificació cromàtica:** introdueix variacions de temperatura i matís mitjançant pintures convencionals o tintes.
+- **Construcció tonal:** organitza les zones fosques, intermèdies i lluminoses per millorar la lectura del volum.
+
+Les pintures convencionals barrejades directament amb una pintura metàl·lica poden modificar-ne l'aparença i reduir la intensitat del reflex. Per això, quan es vol conservar l'efecte metàl·lic, sol ser preferible utilitzar les pintures convencionals en aplicacions localitzades o transparents sobre la superfície metàl·lica, en lloc d'incorporar-les indiscriminadament a tota la mescla.
+
+Les proporcions concretes s'han d'ajustar mitjançant proves. No s'estableixen formulacions universals ni es presenten les combinacions com a resultats experimentals comprovats.
+
 ## 19.2. Acer
 
 L'acer es representa habitualment amb una gamma grisa neutra o freda. Pot ser fosc, polit, setinat o desgastat. Es diferencia de la plata sobretot per la lluminositat general i la intensitat dels reflexos, no només pel color base.

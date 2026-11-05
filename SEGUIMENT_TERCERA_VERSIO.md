@@ -47,6 +47,15 @@ Cal recuperar procediments, explicacions tècniques, fonaments, advertiments, de
 - Ampliat l'apartat 5.5 amb el bloqueig i l'oclusió de la llum, la geometria de les ombres, la seva mida, direcció i extensió, mantenint els continguts de l'ombra pròpia i projectada, umbra i penombra, ombres de contacte i il·luminació indirecta.
 - Ampliat l'apartat 5.8 amb les llistes d'observació originals per identificar la font, analitzar la geometria, interpretar les regions i separar il·luminació observada i representada.
 
+### Capítol 6 — Comportament visual dels materials
+
+- Desenvolupats els patrons estructurals i les discontinuïtats: vetes, fibres, estrats, grans, partícules, porus i fractures, incloent-hi la seva relació amb la geometria i la regularitat.
+- Recuperada l'explicació diferenciada de transparència, translucidesa, opacitat, dispersió interna i senyals de transmissió.
+- Restituïdes les distincions sobre senyals compartides, influència de la forma i el context, alteracions per ús i conservació, i límits de la identificació visual.
+- Ampliada la representació a escala miniatura amb criteris de selecció, simplificació, exageració controlada, coherència i jerarquia.
+- Recuperat el mètode d'observació de set passos, desenvolupats els quatre exercicis amb objectius, procediments i resultats esperats, i afegida la síntesi del capítol.
+- La proposta de figures del document original s'ha mantingut fora del cos del capítol perquè és material de producció gràfica, no contingut didàctic destinat a la lectura principal.
+
 ## Tasques pendents
 
 1. Validar la integritat textual i estructural dels capítols 4 i 5 després de les recuperacions.

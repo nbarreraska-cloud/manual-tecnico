@@ -243,13 +243,15 @@ La diferenciació anatòmica és especialment important per no confondre les ast
 
 L'objectiu és seleccionar i adaptar els procediments segons el material, la geometria i l'escala, evitant dependre d'una única recepta per a totes les superfícies clares o orgàniques.
 
-## 25.11. Referències i recursos
+## 25.12. Referències i recursos
 
 - Wang, B., Yang, W., McKittrick, J. i Meyers, M. A. (2016). “Keratin: Structure, mechanical properties, occurrence in biological organisms, and efforts at bioinspiration”. *Progress in Materials Science*, 76, 229–318. DOI: 10.1016/j.pmatsci.2015.06.001.
 - Marshall, R. C., Orwin, D. F. G. i Gillespie, J. M. (1991). “Structure and biochemistry of mammalian hard keratin”. *Electron Microscopy Reviews*, 4(1), 47–83. DOI: 10.1016/0892-0354(91)90016-6.
 - Tombolato, L. et al. (2010). “Microstructure, elastic properties and deformation mechanisms of horn keratin”. *Acta Biomaterialia*, 6(2), 319–330. DOI: 10.1016/j.actbio.2009.06.033.
-- British Horse Society. *Hoof Anatomy*.
+- British Horse Society. [Hoof Anatomy](https://www.bhs.org.uk/horse-care-and-welfare/health-care-management/hoof-care/hoof-anatomy/).
 - Robey, P. G. (1996). “Vertebrate mineralized matrix proteins: structure and function”. *Connective Tissue Research*. DOI: 10.3109/03008209609029183.
-- American Museum of Natural History. [Fur and Feathers: Composition and Structure](https://www.amnh.org/research/science-conservation/material-type/feathers-and-fur/composition-structure).\n- Oxford University Museum of Natural History. [The Incredible Diversity of Skin](https://oumnh.ox.ac.uk/the-incredible-diversity-of-skin).\n- Vallejo Colors. [Tutorials de modelisme](https://vallejocolors.com/pages/tutoriales).
+- American Museum of Natural History. [Fur and Feathers: Composition and Structure](https://www.amnh.org/research/science-conservation/material-type/feathers-and-fur/composition-structure).
+- Oxford University Museum of Natural History. [The Incredible Diversity of Skin](https://oumnh.ox.ac.uk/the-incredible-diversity-of-skin).
+- Vallejo Colors. [Tutorials de modelisme](https://vallejocolors.com/pages/tutoriales).
 
 Les fonts anatòmiques i de materials fonamenten les diferències entre os, teixits dentals i queratina. Els recursos de pintura són exemples d'aplicació; no validen experimentalment les receptes.

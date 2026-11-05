@@ -989,3 +989,8 @@ Revisat C14 contra el material consolidat disponible, no contra un original comp
 ### F4 — revisió limitada i recuperació didàctica de C15 (05/11/2026)
 
 Revisat C15 contra el contingut consolidat disponible, no contra un original complet (que continua sense localitzar-se). S'han recuperat desenvolupaments condensats: funcions del valor i jerarquia tonal, cinc nivells funcionals no obligatoris, planificació per zones, diagnòstic i correcció dels deu errors, vuit criteris d'avaluació i seqüències ampliades dels sis exercicis. Es mantenen les vuit propostes de figures per a MG. Corregit «sombra» per «ombra». La compilació C1–C39 s'ha sincronitzat amb el C15 vigent i la comprovació posterior ha confirmat la correspondència exacta. Aquesta revisió no equival a coteig integral amb l'original ni a validació experimental.
+
+
+### F4 — revisió limitada i recuperació tècnica/didàctica de C16 (05/11/2026)
+
+Revisat C16 contra el contingut consolidat disponible; no s'ha recuperat un original complet. S'han ampliat els fonaments visuals del NMM, la funció del contrast, el reflex com a informació de l'entorn, la simplificació pictòrica, l'orientació i els patrons de reflexos, la planificació prèvia, els vuit criteris d'avaluació i les seqüències dels sis exercicis. Es conserven el procediment general, les adaptacions geomètriques, els deu errors i les vuit propostes de figures per a MG. S'ha evitat duplicar les famílies cromàtiques ja desenvolupades a 16.4. La compilació C1–C39 s'ha sincronitzat i verificat amb el C16 actual. No equival a coteig integral amb l'original ni a validació experimental.

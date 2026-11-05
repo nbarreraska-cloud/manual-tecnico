@@ -954,3 +954,8 @@ No s'han modificat receptes, ingredients, proporcions ni procediments. No s'atri
 S'ha executat una comprovació estructural dels 39 fitxers Markdown de treball. Resultat: 39/39 fitxers amb un únic encapçalament principal H1, tots corresponents al número de capítol; no s'han detectat encapçalaments buits o duplicats, numeracions d'apartat repetides, numeracions que pertanyin a un altre capítol ni marcadors evidents de contingut pendent (TODO/TBD/XXX o equivalents).
 
 Aquesta comprovació acredita la consistència formal bàsica dels encapçalaments i la numeració. No substitueix el coteig de contingut amb les fonts, la revisió tècnica de procediments ni la validació experimental de receptes.
+
+
+### F4 — coteig documental de contingut de C6 (05/11/2026)
+
+Cotejat el contingut de C6 amb «manual con estructura completa.docx». Es conserven els blocs conceptuals, els deu errors freqüents, la fitxa d'anàlisi, el mètode d'observació, els quatre exercicis i les cinc referències bibliogràfiques. No s'han detectat pèrdues substancials que justifiquin modificar el capítol. Les vuit propostes de figures continuen reservades a MG. No s'ha modificat C6; la compilació consolidada conté exactament el fitxer actual. F4 continua oberta i aquest coteig no equival a validació experimental.

@@ -682,3 +682,8 @@ Aquesta distinció apareixia en el material de referència com a error específi
 
 - **C14:** el material disponible confirma sis exercicis i identifica com a distinció central la transparència del producte pictòric davant la transparència de l'objecte. Aquesta distinció s'ha recuperat a 14.2 i a la llista d'errors 14.9. No s'ha localitzat un original complet; la recuperació és puntual i no tanca la validació integral.
 - **C15:** la font disponible declara expressament que no s'ha localitzat un original complet i que la versió és una consolidació nova basada en l'índex i els acords recuperats. S'ha comprovat la correspondència estructural (deu apartats, sis exercicis i enfocament de planificació lumínica), sense canviar el contingut ni presentar-ho com un coteig integral.
+
+
+### Actualització F4 — capítol 16 (05/11/2026)
+
+La font disponible declara que el C16 és una versió consolidada nova perquè no s'ha recuperat un text original complet. S'ha comprovat la correspondència estructural de deu apartats, sis exercicis i el focus del capítol en el procediment general NMM; també es manté la delimitació amb el recetari del capítol 19. No s'han fet canvis de contingut ni es presenta aquesta passada com un coteig integral amb l'original.

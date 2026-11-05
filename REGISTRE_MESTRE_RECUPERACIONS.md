@@ -93,7 +93,7 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 26 | RD · mitjana | Recuperació didàctica; mantenir les distincions i l'aplicació pròpies del capítol. |
 | 27 | RD · mitjana | Recuperació didàctica; mantenir les distincions de cristalls, gel, neu i gemmes. |
 | 28 | RT · alta / MG | Recuperació tècnica prioritària. La centralització de codis no es va considerar una pèrdua; preservar-la. Recuperació aplicada el 05/11/2026; validació tècnica i de contingut pendent. Les 10 propostes gràfiques originals es reserven per a la fase MG. |
-| 29 | RT · alta | Recuperació tècnica prioritària. La centralització de codis no es va considerar una pèrdua; preservar-la. |
+| 29 | RT · alta / MG | Recuperació tècnica prioritària. La centralització de codis no es va considerar una pèrdua; preservar-la. Recuperació aplicada el 05/11/2026; validació tècnica i de contingut pendent. Les 10 propostes gràfiques originals es reserven per a la fase MG. |
 | 30 | RT / RD · mitjana | Recuperar contingut tècnic i didàctic identificat; l'estat editorial previ constava pendent de confirmació. |
 | 31 | RT / RD · baixa | Recuperació complementària de materials i contingut didàctic; l'auditoria va observar que la segona síntesi havia recuperat materials respecte de la primera versió. |
 | 32 | RD · mitjana | Recuperació didàctica; preservar la distinció entre efecte intens, font lluminosa/OSL i fluorescència/fosforescència. |
@@ -124,7 +124,7 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 6–13 | Recuperacions/ampliacions aplicades i documentades en commits individuals; fer validació global sense repetir diagnòstics ja tancats. |
 | 14–18 | Ampliacions aplicades i documentades. C14, C15, C16 i C18 tenen límits de font: no s'ha localitzat un original complet; les ampliacions es basen en la consolidació disponible de la primera versió i els acords recuperats. |
 | 19 | Recuperació de contingut metàl·lic i criteris de formulació aplicada; les receptes són propostes si no hi ha assaig documentat. |
-| 20–27, 29–39 | Capítols presents a la segona síntesi i auditats comparativament. Les accions RT/RD/AE de la matriu encara s'han de conciliar amb el registre de commits i executar segons prioritat; SC es protegeix de canvis innecessaris. |\n| 28 | Recuperació tècnica aplicada el 05/11/2026: desenvolupament dels procediments per a A–K, ampliació de controls i correccions, recuperació dels sis exercicis amb objectius/materials/procediment/avaluació i síntesi del capítol. Primera comprovació estructural superada; validació semàntica i coteig final pendents. |
+| 20–27, 30–39 | Capítols presents a la segona síntesi i auditats comparativament. Les accions RT/RD/AE de la matriu encara s'han de conciliar amb el registre de commits i executar segons prioritat; SC es protegeix de canvis innecessaris. |\n| 28 | Recuperació tècnica aplicada el 05/11/2026: desenvolupament dels procediments per a A–K, ampliació de controls i correccions, recuperació dels sis exercicis amb objectius/materials/procediment/avaluació i síntesi del capítol. Primera comprovació estructural superada; validació semàntica i coteig final pendents. |\n| 29 | Recuperació tècnica aplicada el 05/11/2026: desenvolupament dels procediments de les 17 receptes A–Q, adaptació a geometries i escales, controls i correccions, recuperació dels sis exercicis complets, síntesi i enllaços de referència. Primera comprovació estructural superada; validació semàntica i coteig final pendents. |
 
 **No interpretar “aplicat” com “validat”.** La validació ha de comprovar el capítol complet, la coherència amb l'original o la font disponible, la numeració, les referències, les receptes i els exercicis que pertoquin.
 
@@ -143,8 +143,8 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 
 1. Conciliar aquest registre amb l'historial real de commits i el document SEGUIMENT_TERCERA_VERSIO.md; corregir qualsevol estat desfasat.
 2. Completar les intervencions RT/RD/AE pendents en ordre de prioritat, sense tornar a auditar des de zero els capítols SC.
-3. Després de cada bloc d'intervenció, executar comprovacions estructurals i de contingut proporcionades i registrar per separat aplicació i validació.\n4. C28 aplicat: mantenir pendent la validació completa abans de marcar-lo com a tancat.
-5. Prioritzar les recuperacions pendents d'alta prioritat identificades a la matriu.
+3. Després de cada bloc d'intervenció, executar comprovacions estructurals i de contingut proporcionades i registrar per separat aplicació i validació.\n4. C28 i C29 aplicats: mantenir pendent la validació completa abans de marcar-los com a tancats.
+5. Prioritzar la recuperació pendent d'alta prioritat del capítol 38 i, després, les intervencions de prioritat mitjana.
 6. Després d'estabilitzar els 39 capítols, abordar annexos, referències globals i fase gràfica.
 7. Mantenir la branca intervencion-editorial-2026-11; no modificar main.
 

@@ -521,21 +521,64 @@ Aquesta primera entrega recull 34 propostes P1 de C1–C7 i C11, incloent les fu
 | 39.7 | 39.7 | Fitxa de prevenció i registre amb zona, símptoma, productes, condicions, causa probable, intervenció i resultat. | El registre és observacional, no validació experimental universal. |
 | 39.10 | 39.5.1–39.5.2 | Arbre de decisió entre corregir, integrar, reconstruir, recuperar o conservar. | Ubicació corregida; no substitueix el diagnòstic previ. |
 
-## 10. Fusions P2/P3 i figures en reserva
+## 10. Fusions P2/P3 i propostes en reserva
 
-### Fusions incorporades a les composicions principals
-- 3.5 → 3.3: comportament de la pintura sobre relleus i cavitats.
-- 5.14 → 5.6: llei de la reflexió.
-- 11.2 → 11.3: rentat general/localitzat i distribució en relleus.
-- 20.2 → 20.1: patrons segons el tall integrats amb l'estructura de la fusta.
-- 20.5 → 20.4: nus i desviació de fibres integrats en la construcció de vetes.
-- 34.4 → 34.3: recipient corb dins la seqüència de vidre transparent.
-- 35.10 → 35.9: errors i avaluació dins la seqüència d'harmonització.
-- 39.6 → 39.5: correcció localitzada i intervenció extensa dins els nivells d'intervenció.
+### 10.1. Fusions integrades en figures principals
 
-### Propostes P2 que continuen en reserva
-No s'inclouen com a figures autònomes en aquesta llista: 1.1, 2.1, 3.4, 3.6, 4.1, 4.2, 4.5, 5.1, 5.2, 5.3, 5.5, 5.8, 5.9, 5.10, 6.2, 6.3, 6.6, 7.1, 7.3, 7.8, 11.4, 11.7, 15.2, 15.4, 15.5, 15.7, 16.3, 16.5, 16.7, 17.2, 17.5, 17.6, 17.9, 18.2, 18.5, 18.7, 18.8, 18.9, 19.1, 19.2, 19.7, 19.8, 20.3, 20.6, 21.4, 21.9, 21.10, 22.3, 22.8, 22.10, 23.4, 23.7, 24.1, 24.6, 30.2, 30.5, 30.6, 30.7, 31.6, 31.7, 32.1, 32.6, 32.7, 33.3, 33.4, 33.8, 33.10, 34.6, 34.8, 34.10, 35.3, 35.7, 36.7, 36.10, 37.1, 37.5, 38.1, 38.3, 38.9, 39.8.
-- Les P2 19.1/19.2 només es reconsideraran si hi ha mostres físiques comparables.
-- La P2 38.3 només es reconsiderarà amb dades o proves reals de productes.
-- La P2 3.6 queda en reserva perquè duplica la taula de 3.4 i la seqüència 3.7.
+| Proposta d'origen | Destinació | Tractament |
+|---|---|---|
+| 3.5 (P2) | 3.3 | Afegir el panell de comportament sobre relleus i cavitats a la figura de distribució de pintura. |
+| 5.1 i 5.10 (P2) | 5.16 | Incorporar font–objecte–observador i llum directa/indirecta a l'anàlisi integrada, si la llegibilitat ho permet. |
+| 5.5 (P2) | 5.4/5.6 | Integrar normals i variació en superfícies corbes als esquemes geomètrics existents. |
+| 5.14 (P3) | 5.6 | Incorporar la llei de la reflexió amb normal, raig incident i reflectit; preservar dos panells si cal. |
+| 6.2 (P2) | 6.1/6.8 | Integrar estructura, geometria i escala d'observació en l'esquema de material/aparença o simplificació. |
+| 11.2 (P2) | 11.3 | Afegir la distribució del rentat sobre relleus a la comparació general/localitzada. |
+| 11.7 (P2) | 11.8 | Afegir els tipus d'acumulació com a panell només si aporta diagnòstic no repetit. |
+| 15.4 (P2) | 15.3/15.6 | Diferenciar mapa d'il·luminació i mapa de valors en la composició de planificació. |
+| 15.7 (P2) | 15.8 | Integrar exemples d'errors dins del procés d'anàlisi i avaluació. |
+| 16.5 (P2) | 16.4 | Incorporar les famílies cromàtiques al mapa tonal/cromàtic només si mantenen una funció procedimental. |
+| 17.2 (P2) | 17.1 | Integrar la posició de la font i la superfície receptora en el diagrama de fonaments OSL. |
+| 17.5 i 17.6 (P2) | 17.4/17.8 | Integrar color emissor, superfície receptora i pèrdua d'influència en la jerarquia i el procediment, sense lleis quantitatives universals. |
+| 17.9 (P2) | 17.3 | Incorporar ombres projectades i zones protegides al diagrama de geometria i bloqueig. |
+| 18.2 (P2) | 18.1 | Integrar la fitxa d'anàlisi inicial en el mapa del procés integral. |
+| 18.5 (P2) | 18.4/18.6 | Incorporar dependències i seqüenciació flexible al diagrama de selecció i organització. |
+| 20.2 (P1) | 20.1 | Composició conjunta de direcció de fibres, vetes, nusos, anells i patrons segons el tall. |
+| 20.5 (P1) | 20.4 | Composició conjunta de construcció de vetes i desviació de fibres al voltant d'un nus. |
+| 20.6 (P2) | 20.1 | Integrar secció transversal i anells a la làmina d'estructura de fusta. |
+| 21.10 (P2) | 21.3, si escau | Afegir la integració de vegetació a la base natural només si completa l'explicació de les masses vegetals. |
+| 23.7 (P2) | 23.6, si escau | Afegir deformació d'estampats/brodats sobre plecs només si el text ho explica amb prou detall. |
+| 30.2 (P2) | 30.1/30.3 | Diferenciar flama i material incandescent en un panell complementari, sense repetir la paleta. |
+| 31.6 (P2) | 31.3/31.4 | Integrar salpicadures i rastres en els esquemes de distribució de fluids si la composició és clara. |
+| 32.6 i 32.7 (P2) | 32.1, si s'activa | Integrar runes i portals com a exemples de famílies d'efectes; no produir-los com a fonaments independents. |
+| 33.8 i 33.10 (P2) | composició complementària C33 | Una sola comparació de famílies de plàstics i errors, només si aporta valor no cobert per 33.9 i el text. |
+| 34.4 (P3) | 34.3 | Integrar el recipient corb amb el panell de vidre pla, preservant la diferència geomètrica. |
+| 34.10 (P2) | 34.2/34.9 | Afegir errors de lectura del vidre als esquemes de senyals i fractures, sense crear una làmina final redundant. |
+| 35.7 (P2) | 35.6 | Integrar influències ambientals a la relació figura–peanya només quan la il·luminació i la proximitat les justifiquin. |
+| 35.10 (P3) | 35.9 | Integrar el resultat i els errors freqüents en la seqüència d'harmonització. |
+| 37.1 i 37.5 (P2) | composició complementària C37 | Comparació única de mat, setinat i brillant sobre una mateixa base cromàtica; només si no duplica les P1 de reflexió i selecció. |
+| 38.1 (P2) | 38.2 | Integrar la funció de la capa protectora en l'esquema de pel·lícula i assecat. |
+| 39.6 (P2) | 39.5 | Integrar correcció localitzada/extensa en els nivells d'intervenció. |
+| 39.9 (P2) | 39.1/39.2 | Integrar la fitxa de registre de símptoma, causa, intervenció i resultat en el flux de diagnòstic. |
+
+### 10.2. Propostes P2 que queden en reserva
+
+No s'inclouen com a figures autònomes en aquesta llista. Només es recuperaran si, després de la primera maqueta gràfica, es detecta una necessitat visual no resolta:
+
+- **C1–C4:** 1.1, 2.1, 3.4, 4.1, 4.2 i 4.5.
+- **C5–C7:** 5.2 + 5.3 (una possible comparació de font puntual/extensa, distància i mida aparent); 5.8, 5.9; 6.3 + 6.6 (una possible làmina de textures i patrons); 7.1, 7.3 i 7.8.
+- **C11–C18:** 11.4; 15.2, 15.5; 16.3, 16.7; 18.7–18.9 (una possible fitxa/cicle coordinat de control i registre).
+- **C19–C24:** 19.1 + 19.2 (només amb mostres físiques comparables); 19.7, 19.8; 20.3; 21.4, 21.9; 22.3, 22.8, 22.10; 23.4; 24.1 (esquema anatòmic simplificat, no làmina mèdica) i 24.6.
+- **C30–C39:** 30.5, 30.6, 30.7; 31.7; 32.1 (si cal una tipologia general); 33.3, 33.4; 34.6, 34.8; 35.3; 36.7, 36.10; 38.3 (només amb dades/proves reals), 38.9; 39.8.
+- **Reclassificada:** 3.6 queda en reserva com a P2 perquè el procés de selecció ja està cobert per la taula de 3.4 i la seqüència de 3.7.
+
+### 10.3. Recompte de treball
+
+- Propostes P1 inicials: 157.
+- Reclassificació 3.6 de P1 a P2: 156 P1 i 84 P2.
+- P3 que es fusionen: 3.
+- Dues parelles P1 fusionades en composicions úniques: 20.1+20.2 i 20.4+20.5.
+- **Composicions principals resultants si es produeixen totes les P1:** 154, abans de possibles fusions addicionals que es puguin justificar durant la maqueta.
+- Les P2 integrades no augmenten automàticament el nombre de composicions; les P2 en reserva no s'inclouen en la primera producció.
+
+Aquest recompte és de planificació, no una quota obligatòria. Si una figura no aporta una lectura clara, es revisarà la composició o la necessitat de produir-la; no es crearà per complir un número.
 

@@ -5,7 +5,7 @@
 
 El document font conserva 243 propostes: 153 recuperades del Word original i 90 elaborades durant la tercera síntesi. La classificació assigna 156 P1, 84 P2 i 3 P3. Aquesta matriu traça cadascuna de les P1 des de l'identificador i el títol d'origen fins a la fitxa, la composició, el número i la ubicació lectora. Els títols d'origen es conserven literals per facilitar el coteig.
 
-**Validació estructural:** 156/156 P1 presents una sola vegada a les fitxes; 150 composicions; sis fusions de dues P1; cap identificador sense fitxa, número o ubicació.
+**Validació estructural:** 156/156 P1 presents una sola vegada a les fitxes; 150 composicions; sis fusions de dues P1; cap identificador sense fitxa, número o ubicació. La ubicació de la Figura 6.2 queda corregida a l'apartat 6.3 després del coteig amb la compilació consolidada.
 
 | ID d'origen | Procedència | Títol d'origen | Composició | Número proposat | Títol editorial | Ubicació lectora |
 |---|---|---|---|---|---|---|
@@ -29,7 +29,7 @@ El document font conserva 243 propostes: 153 recuperades del Word original i 90 
 | 5.15 | Word original | Construcción visual del volumen. | 5.15 | Figura 5.7 (G018) | Construcció visual del volum | apartat 5.7. |
 | 5.16 | Word original | Análisis de iluminación de una miniatura. | 5.16 | Figura 5.8 (G019) | Anàlisi d'il·luminació d'una miniatura | apartat 5.8.4. |
 | 6.1 | Word original | Material, apariencia y representación pictórica | 6.1 | Figura 6.1 (G020) | Material, aparença i representació pictòrica | apartat 6.1. |
-| 6.4 | Word original | Respuestas ópticas de los materiales | 6.4 | Figura 6.2 (G021) | Respostes òptiques dels materials | apartat 6.4. |
+| 6.4 | Word original | Respuestas ópticas de los materiales | 6.4 | Figura 6.2 (G021) | Respostes òptiques dels materials | apartat 6.3. |
 | 6.5 | Word original | Opacidad, transparencia y translucidez | 6.5 | Figura 6.3 (G022) | Opacitat, transparència i translucidesa | apartats 6.4.1–6.4.2. |
 | 6.7 | Word original | Identificación mediante señales combinadas | 6.7 | Figura 6.4 (G023) | Identificació de materials mitjançant senyals combinades | apartat 6.5.1. |
 | 6.8 | Word original | Simplificación y jerarquía visual a escala miniatura | 6.8 | Figura 6.5 (G024) | Simplificació i jerarquia visual a escala miniatura | apartat 6.6. |

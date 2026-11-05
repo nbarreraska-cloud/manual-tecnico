@@ -310,3 +310,29 @@ Comprovació inicial:
 ### Continuïtat immediata
 
 Les recuperacions RT d'alta prioritat dels capítols 28 i 29 i la recuperació RT/RD d'alta prioritat del capítol 38 ja estan aplicades. Continuar amb les intervencions RT/RD de prioritat mitjana encara pendents, sense reobrir els capítols classificats SC. La validació de les intervencions ja aplicades continua sent una tasca separada i no s'ha de donar per completada per les comprovacions estructurals inicials.
+
+
+### Capítol 30 — foc, fum i cendres (05/11/2026)
+
+S'ha recuperat l'estructura didàctica del capítol 30 comparant la segona síntesi amb el text original.
+
+Intervenció aplicada:
+- Restituïda la distinció entre característiques visuals del foc, organització de valors, temperatura cromàtica i preparació de l'aplicació.
+- Separades les cinc receptes A–E i estructurades amb objectiu, pintures de referència, procediment, control visual i variants.
+- Mantinguda la diferenciació entre flama, material incandescent, fum, cendres i superfícies carbonitzades.
+- Conservats els sis errors freqüents i les seves correccions, els criteris d'avaluació i els cinc exercicis.
+- Recuperada la síntesi conceptual del capítol.
+- Les vuit propostes de figures del document original no s'han inserit al capítol; queden reservades per a la fase MG.
+
+Comprovació inicial:
+- Cinc receptes A–E presents.
+- Cinc exercicis pràctics presents.
+- Apartats diferenciats de planificació cromàtica, preparació, errors, avaluació i síntesi.
+- Cap encapçalament duplicat detectat.
+- Les referències a OSL (capítol 17), fusta (capítol 20) i efectes sobrenaturals (capítol 32) es mantenen.
+
+**Estat:** recuperació aplicada; comprovació estructural inicial superada; validació semàntica i coteig complet pendents. No s'han afegit fórmules, propietats de pintura ni resultats experimentals no documentats. El capítol original no aporta un apartat específic de bibliografia.
+
+### Continuïtat immediata
+
+Continuar amb les recuperacions didàctiques de prioritat mitjana dels capítols 25–27 i 32. Els capítols 28–30 i 38 ja tenen intervencions aplicades, però encara no es consideren validats fins a completar el coteig semàntic i editorial.

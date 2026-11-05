@@ -96,7 +96,19 @@ Quan comenci la fase d'inserció:
 5. Es compararan les dues versions per verificar que el text, l'estructura i els elements no gràfics s'han conservat.
 6. La còpia il·lustrada tindrà identificació de versió i traçabilitat pròpies.
 
-## 7. Estat i continuació
+
+## 8. Auditoria editorial complementària
+
+S'ha creat [l'auditoria editorial F11 d'evidències i remissions creuades](auditoria_editorial_F11_remissions_evidencies.md). Aquesta revisió diferencia la traçabilitat quantitativa de la validació editorial i fixa:
+
+- Les sis composicions E2 i les tretze E1 amb els seus límits de representació.
+- La figura 19.4 com a comparació conceptual E0.
+- Les remissions creuades obligatòries de C22, C32, C34 i C35, i els criteris de conservació del contingut integrat al C5.
+- La correcció documental de la figura 5.3 (ancoratge únic a 5.3.1) i de la figura 6.2 (ubicació corregida a 6.3, ja actualitzada a la matriu i a la fitxa F10).
+
+**Reserva editorial:** les fórmules repetitives de remissió de les tandes 02 i 03 continuen sent propostes provisionals; no s'han d'inserir literalment en bloc. Cal revisar-les individualment i ometre les que no aportin valor al text lector.
+
+## 9. Estat i continuació
 
 La preparació de les tres tandes queda completada. Encara no s'han inserit remissions al text lector ni s'han produït imatges. El següent pas de F11 és la revisió editorial global de les 150 remissions i la conciliació documental de les discrepàncies detectades, abans de modificar la compilació lectora.
 

@@ -77,7 +77,7 @@ No produir-la de manera independent quan:
 - requereix una fotografia o una prova física que no existeix;
 - no aporta informació verificable o pot induir a interpretar com a universal un exemple orientatiu.
 
-La classificació individual ja s'ha completat per a les 243 propostes i consta a `CLASSIFICACIO_INDIVIDUAL_PROPOSTES_GRAFIQUES_MG.md`: 157 P1, 83 P2 i 3 P3. La priorització temàtica d'aquest document és una orientació de conjunt; la matriu individual és el registre operatiu de cada identificador.
+La classificació individual es va iniciar amb 157 P1, 83 P2 i 3 P3. Després del coteig del C3, la proposta 3.6 passa a P2; el recompte vigent és 156 P1, 84 P2 i 3 P3. La priorització temàtica d'aquest document és una orientació de conjunt; la matriu individual és el registre operatiu de cada identificador.
 
 ## 3. Priorització temàtica inicial
 
@@ -132,7 +132,7 @@ Aquest document no valida receptes ni resultats pictòrics, no declara cap imatg
 
 ## 8. Resultat de la classificació individual
 
-La matriu completa cobreix els 243 identificadors, sense duplicats ni propostes sense assignació: **157 P1, 83 P2 i 3 P3**. Les tres P3 es fusionaran amb figures associades, sense perdre informació. La classificació és editorial i preliminar respecte a la integració final: cada P1 encara s'ha de validar contra el capítol consolidat abans de produir-la.
+La matriu completa cobreix els 243 identificadors, sense duplicats ni propostes sense assignació: **156 P1, 84 P2 i 3 P3**. Les tres P3 es fusionen amb figures associades, sense perdre informació. La classificació és editorial i no equival a aprovació de producció: cada composició encara ha de superar la validació final de llegendes, remissions i evidències.
 
 
 ## 6. Actualització del recompte i estat de producció preliminar — 05/11/2026

@@ -172,6 +172,10 @@ El detall individual de les 150 composicions —codi G, identificadors P1 d'orig
 | Insercions a la còpia il·lustrada | 0 |
 | Modificacions del manual mestre | 0 |
 
+## 11. Briefs de prova d'estil
+
+Els quatre encàrrecs pilot estan desenvolupats a [F14 — Briefs de prova d'estil](briefs_prova_estil_F14.md): figura 4.1 (E0), figura 3.1 (E2 amb alternativa E0), figura 16.4 (E1) i figura 34.1 (E0). Aquests quatre casos cobreixen esquemes comparatius, evidència condicionada, seqüències tècniques i representació de materials. La seva execució servirà per validar les convencions visuals abans d'estendre-les a la resta del registre.
+
 ## 11. Criteri de tancament
 
 La fase de producció gràfica només es considerarà tancada quan les 150 composicions tinguin un màster aprovat o una incidència explícita que n'impedeixi la producció, les sis E2 disposin de prova o s'hagin convertit en E0, les remissions creuades estiguin resoltes i la còpia il·lustrada hagi superat la comparació amb la versió mestra.

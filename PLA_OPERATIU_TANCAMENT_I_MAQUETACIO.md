@@ -90,4 +90,6 @@ La referència actual és d'aproximadament 300 pàgines per als 39 capítols sen
 - **D:** regenerat i arxivat l'anterior; 92 entrades vinculades a les receptes i referències de C, amb pintures contrastades amb A i els apartats d'origen; pendent de F6/F8.
 - **E:** regenerat i arxivat l'anterior; guia de consulta contrastada amb C1–C39 i A–D; remissions als 39 capítols i presència dels annexos A–D verificades; pendent de F6/F8.
 
-**Següent acció:** iniciar F6, auditoria transversal dels annexos A–E contra els 39 capítols consolidats. No iniciar la selecció/producció gràfica ni inserir imatges durant F6–F9. No iniciar la selecció/producció gràfica ni inserir imatges durant F5–F9.
+**F6 — segona passada transversal: en curs (05/11/2026).** La primera passada conjunta de C1–C39 i A–E està documentada a `annexos/auditoria_transversal_F6_2026-11-05.md`. Les comprovacions estructurals i de correspondència d'A–E no han detectat remissions inexistents ni desajustos C–D. Resta oberta una contradicció documental sobre la disponibilitat de les 48 fitxes individuals de pintura (C2.5/C3.1 davant A.5). No s'han modificat capítols aprovats.
+
+**Següent acció:** resoldre documentalment si les 48 fitxes individuals existeixen fora del paquet actual o si cal aprovar una correcció acotada a C2.5/C3.1. Després, actualitzar l'informe F6 i decidir-ne el tancament. No iniciar la selecció/producció gràfica ni inserir imatges durant F6–F9.

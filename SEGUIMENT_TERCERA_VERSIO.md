@@ -197,9 +197,9 @@ Aquests 39 Markdown són la representació operativa dels continguts de la segon
 
 - Fase 0 — preservació de versions, fonts i branca de treball: completada.
 - Fase 1 — auditoria comparativa dels 39 capítols: completada (39/39).
-- Fase 2 — consolidació del Registre Mestre: en curs; versió 1.28. Resta conciliar la matriu per capítol amb els estats finals de F4 i les anotacions històriques.
+- Fase 2 — consolidació del Registre Mestre: en curs; versió 1.29. Resta conciliar la matriu per capítol amb els estats finals de F4 i les anotacions històriques.
 - Fase 3 — aplicació de recuperacions RT/RD i ajustos AE: completada per a les accions identificades a la matriu.
-- Fase 4 — validació dels 39 capítols: en curs. La revisió semàntica de remissions C1–C39 està completada; s'ha precisat una remissió a C18. C5 té coteig de contingut i bibliografia completat; C4 i C6 tenen revisió de correspondència estructural i didàctica principal. Resta completar els cotejos documentals i les comprovacions estructurals dels capítols encara no validats.
+- Fase 4 — validació dels 39 capítols: en curs. La revisió semàntica de remissions C1–C39 està completada; s'ha precisat una remissió a C18. C5 té coteig de contingut i bibliografia completat; C4 i C6 tenen revisió de correspondència estructural i didàctica principal; C7 té revisió estructural i operativa, inclosa la seguretat. Resta completar els cotejos documentals i les comprovacions estructurals dels capítols encara no validats.
 - Fase 5 — annexos A–E: pendent; no iniciar fins a estabilitzar els 39 capítols.
 - Fase 6 — auditoria global de coherència: completada el 05/11/2026, amb passada transversal C1–C39.
 - Fase 7 — revisió gràfica i maquetació Word: pendent, després de F4 i F5.
@@ -864,7 +864,7 @@ Aquesta secció és la referència operativa més recent i preval sobre les inst
 
 - **F0:** completada.
 - **F1:** auditoria comparativa completada per als 39 capítols.
-- **F2:** en curs; el Registre Mestre està actualitzat a la versió 1.28. Resta conciliar la matriu per capítol i les entrades històriques amb l'estat final de F4.
+- **F2:** en curs; el Registre Mestre està actualitzat a la versió 1.29. Resta conciliar la matriu per capítol i les entrades històriques amb l'estat final de F4.
 - **F3:** completada per a les accions RT/RD/AE identificades a la matriu.
 - **F4:** en curs. La revisió semàntica de remissions C1–C39 està completada i documentada; s'ha precisat una remissió a C18. C5 té coteig de contingut i bibliografia completat; C4 té revisió de correspondència estructural i didàctica principal. La fidelitat documental s'ha cotejat per a C12–C13, C25–C29 i C38, amb els límits de font descrits al Registre Mestre. C30–C32 i C36 tenen revisió de contingut amb la font disponible. C19 té un coteig limitat a la font disponible. No es considera validada la totalitat dels 39 capítols.
 - **F5:** pendent fins al tancament de F4.
@@ -880,7 +880,7 @@ La integritat de la compilació s'ha verificat recuperant de nou els 39 fitxers 
 ### Ordre operatiu vigent
 
 1. Conciliar el Registre Mestre i el Seguiment amb els estats reals de les auditories, retirant les instruccions històriques que ja no siguin vigents.
-2. Completar F4, prioritzant el coteig documental i les comprovacions estructurals dels capítols encara no cotejats; la revisió semàntica de remissions C1–C39 ja està completada. C5 té coteig de contingut/bibliografia completat i C4–C6 revisió estructural/didàctica principal.
+2. Completar F4, prioritzant el coteig documental i les comprovacions estructurals dels capítols encara no cotejats; la revisió semàntica de remissions C1–C39 ja està completada. C5 té coteig de contingut/bibliografia completat, C4–C6 revisió estructural/didàctica principal i C7 revisió estructural/operativa de seguretat i exercicis.
 3. Sincronitzar i tornar a verificar la compilació consolidada si F4 produeix canvis als capítols.
 4. Només després de l'estabilització dels 39 capítols, iniciar F5 (annexos A–E).
 5. Abordar F7 (gràfica i maquetació Word) després dels annexos.
@@ -911,3 +911,12 @@ S'han recuperat vuit referències bibliogràfiques omeses respecte de l'original
 S'ha contrastat l'estructura i els elements didàctics principals de C6 amb la font disponible. Es mantenen els blocs sobre estructura, geometria i textura; patrons superficials; resposta òptica; transparència, translucidesa i profunditat interna; reconeixement dels materials; representació a escala miniatura; fitxa d'anàlisi i mètode d'observació. Es conserven els deu errors conceptuals/visuals, el mètode d'observació de set passos, els quatre exercicis i les cinc referències bibliogràfiques. No s'han identificat omissions substancials en aquests elements.
 
 Les vuit propostes de figures originals continuen reservades a MG. Aquesta passada és una comprovació estructural i didàctica principal, no un coteig textual integral. No s'han modificat receptes, ingredients, proporcions ni procediments.
+
+
+### F4 — revisió estructural i operativa de C7 (05/11/2026)
+
+S'ha contrastat la correspondència estructural i operativa de C7 amb la font disponible. La síntesi manté els blocs d'organització de l'espai, eines i selecció, preparació de la miniatura, imprimació, gestió de pintures, control de l'aplicació, manteniment i conservació, seguretat i prevenció. Les subdivisions de l'original s'han agrupat en apartats més compactes sense perdre les funcions operatives principals.
+
+S'han comprovat especialment les precaucions sobre eines de tall, consulta d'etiquetes i fitxes de dades de seguretat, aerosols pressuritzats, ventilació i exposició a partícules, protecció personal, pols, higiene, emmagatzematge i eliminació. Es mantenen els quatre exercicis de preparació i les tres referències de consulta sobre seguretat. No s'han identificat omissions substancials en aquests blocs. Les vuit propostes de figures originals continuen reservades a MG.
+
+Aquesta passada és una revisió estructural i operativa, no un coteig textual integral de cada paràgraf. No s'han modificat receptes, ingredients, proporcions ni procediments.

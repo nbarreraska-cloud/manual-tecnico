@@ -25,7 +25,7 @@ La continuïtat depèn de la relació entre colors i de la seva distribució. El
 
 Les mescles de pigments tampoc no generen necessàriament progressions equilibrades. Una mescla intermèdia pot alterar matís, valor o croma de manera inesperada. Dividir una mescla en proporcions iguals no garanteix una transició regular: cal comprovar els colors i valorar si convé introduir un tercer to per orientar-ne l'evolució.
 
-## 9.2. Planificació cromàtica i variables d'aplicació
+## 9.3. Variables que condicionen la construcció d'un degradat
 
 Abans de construir un degradat cal definir els colors de partida, el resultat desitjat i les condicions d'aplicació. La planificació estableix una direcció cromàtica i evita improvisar mescles sense finalitat.
 
@@ -60,7 +60,7 @@ Cal controlar la quantitat de pintura: l'excés pot provocar acumulacions, pèrd
 
 La transició pot començar pel color fosc, pel clar o per una zona intermèdia. No hi ha una direcció obligatòria: depèn de l'extensió de cada zona, l'opacitat relativa, la geometria i el procediment. Cal conservar referències clares dels colors extrems i evitar que les aplicacions intermèdies en desplacin involuntàriament l'aparença.
 
-## 9.3. Procediments de construcció
+## 9.4. Procediments de construcció de degradats
 
 Els degradats es poden construir amb mescles preparades a la paleta, integració de colors humits o aplicacions successives de tons intermedis. Són procediments diferents, amb avantatges i limitacions pròpies.
 
@@ -123,7 +123,7 @@ La combinació ha de respondre a una necessitat concreta: no cal utilitzar tots 
 
 La transparència pot influir en algunes transicions, però no s'ha de confondre la construcció d'un degradat amb la tècnica específica de veladures i glacis, desenvolupada al capítol 10.
 
-## 9.4. Planificació i execució del degradat
+## 9.5. Procediment general de planificació i execució
 
 La construcció es pot organitzar en sis fases:
 
@@ -134,7 +134,7 @@ La construcció es pot organitzar en sis fases:
 5. **Aplicar i integrar.** Seguir el procediment escollit i controlar els límits. Evitar arrossegar pintura cap a zones definides, modificar excessivament els extrems, insistir quan la pintura s'asseca, introduir mescles no comprovades o corregir tota la superfície quan el problema és local.
 6. **Deixar assecar i avaluar.** L'aparença humida pot diferir de la seca. Les correccions importants s'han de basar en una superfície prou seca. Comprovar la relació entre colors, els salts i l'extensió; decidir si cal continuar, corregir localment o aturar-se.
 
-## 9.5. Variants de transició cromàtica
+## 9.6. Variants de transició cromàtica
 
 Les transicions es poden classificar segons les dimensions que modifiquen i la seva distribució. Les categories no són excloents: un mateix degradat pot combinar-ne diverses.
 
@@ -154,7 +154,7 @@ Les transicions es poden classificar segons les dimensions que modifiquen i la s
 
 Aquestes variants descriuen l'organització del resultat, no procediments independents. Es poden construir amb qualsevol de les tècniques anteriors quan les condicions ho permetin.
 
-## 9.6. Control tècnic, errors i correccions
+## 9.7. Control tècnic i avaluació de la transició
 
 L'avaluació ha de considerar continuïtat, distribució dels tons intermedis, extensió i estat de la superfície. No n'hi ha prou amb comprovar que dos colors s'han barrejat.
 
@@ -169,20 +169,111 @@ Una transició controlada ha de complir:
 
 La continuïtat no exigeix una variació perfectament uniforme. Una transició pot ser més ràpida en una zona i més gradual en una altra si ho preveu la planificació.
 
-### Errors freqüents
+### 9.7.1. Control de la continuïtat visual
 
-| Problema | Causes i criteri de correcció |
-|---|---|
-| Bandes o esglaons no desitjats | Poden provenir de pocs tons intermedis, diferències excessives entre mescles, distribució irregular o límits massa definits. Introduir un to adequat o ajustar la relació entre colors contigus. Si és localitzat, no cal reconstruir tota la transició. |
-| Transició discontínua o irregular | Pot deure's a distribució desigual, manipulació excessiva, diferències d'aplicació o pèrdua de control. Determinar si el defecte és cromàtic o superficial; ajustar la mescla intermèdia o corregir només la zona afectada. |
-| Acumulació excessiva | Pot causar pèrdua de detall, relleus involuntaris, acabat irregular i dificultat d'integració. No continuar manipulant la superfície. Un cop seca, valorar una correcció local o la reconstrucció parcial. |
-| Pèrdua de claredat cromàtica | Les mescles poden generar colors apagats o diferents dels previstos per mescles directes inadequades, excés de modificadors o manca de direcció. Identificar la mescla que provoca la desviació i preparar-ne una altra d'intermèdia si cal. |
-| Transició massa curta o extensa | Una extensió insuficient produeix un canvi abrupte; una de massa gran envaeix zones que haurien de conservar els extrems. Reorganitzar els tons intermedis i ajustar la zona de canvi. |
-| Correccions successives que deterioren el degradat | La repetició acumula pintura, redueix definició i altera colors. Aturar-se, observar en condicions estables, identificar el defecte principal i corregir localment. |
+Una transició presenta continuïtat quan el canvi cromàtic es percep de manera coherent i no apareixen interrupcions involuntàries. Per avaluar-la convé observar:
 
-Un degradat està prou construït quan compleix la seva funció i manté la continuïtat adequada al tipus de transició. No cal eliminar qualsevol variació ni afegir tons indefinidament. Continuar sobre una superfície resolta pot introduir irregularitats i deteriorar zones correctes.
+- Si hi ha salts massa evidents entre colors.
+- Si els tons intermedis mantenen una relació lògica.
+- Si apareixen bandes no previstes.
+- Si hi ha zones on el canvi cromàtic s'interromp.
+- Si els límits entre colors responen a l'efecte buscat.
 
-## 9.7. Resultat esperat i criteris d'avaluació
+La continuïtat no implica que la superfície hagi de presentar una variació perfectament uniforme. La regularitat és una possibilitat, no una exigència.
+
+### 9.7.2. Control de l'extensió
+
+L'extensió ha de correspondre a la superfície disponible i a l'efecte buscat. Una transició massa curta pot generar un canvi brusc; una de massa extensa pot reduir la presència dels colors extrems i alterar la distribució cromàtica prevista.
+
+També cal comprovar que la transició no envaeixi zones que haurien de conservar una aparença diferenciada.
+
+### 9.7.3. Control dels colors intermedis
+
+Els colors intermedis han de mantenir una progressió coherent. Una mescla aparentment adequada pot produir, quan s'aplica al costat de les altres, una zona massa fosca, massa clara o cromàticament desviada.
+
+Per això convé valorar la seqüència completa i no cada mescla de manera aïllada. Quan una transició presenta un color intermedi no previst, cal identificar quina mescla o aplicació ha provocat la desviació abans de modificar la resta.
+
+### 9.7.4. Control de la superfície
+
+A més de la continuïtat cromàtica, cal comprovar que la construcció no hagi deteriorat la superfície. S'ha d'observar si hi ha:
+
+- Acumulacions involuntàries.
+- Marques de pinzell massa visibles.
+- Pèrdua de definició als límits.
+- Irregularitats d'aplicació.
+- Zones amb una aparença superficial diferent de la resta.
+
+Aquests problemes poden afectar la lectura del degradat fins i tot quan la relació cromàtica entre els colors és adequada.
+
+### 9.7.5. Criteri de finalització
+
+Un degradat es pot considerar acabat quan compleix la funció prevista i manté una continuïtat adequada al tipus de transició escollit.
+
+No cal eliminar qualsevol variació ni afegir indefinidament més tons intermedis. Si el resultat ja presenta la relació cromàtica desitjada, continuar intervenint-hi pot introduir irregularitats o deteriorar zones que estaven correctament resoltes.
+
+## 9.8. Errors freqüents i procediments de correcció
+
+### 9.8.1. Aparició de bandes o esglaons no desitjats
+
+Es produeix quan les diferències entre els tons intermedis són massa evidents o els seus límits continuen excessivament definits.
+
+**Possibles causes:**
+- Pocs tons intermedis per a l'extensió disponible.
+- Diferències cromàtiques massa grans entre mescles consecutives.
+- Distribució irregular dels colors.
+- Aplicacions amb límits massa marcats.
+
+**Correcció:** identifica primer la zona on s'interromp la continuïtat. Si la superfície ho permet, introdueix un to intermedi adequat o ajusta la relació entre els colors contigus. No cal reconstruir tot el degradat si el problema està limitat a una zona concreta.
+
+### 9.8.2. Transició discontínua o irregular
+
+Es produeix quan el canvi cromàtic presenta interrupcions, taques o zones que no segueixen l'evolució prevista.
+
+**Possibles causes:**
+- Distribució irregular dels colors.
+- Manipulació excessiva de la pintura.
+- Diferències d'aplicació entre zones.
+- Pèrdua de control durant la integració.
+
+**Correcció:** determina si la discontinuïtat és cromàtica o superficial. Si el problema es troba en la relació entre els colors, ajusta la transició amb una mescla intermèdia. Si es deu a una irregularitat d'aplicació, corregeix únicament la zona afectada.
+
+### 9.8.3. Acumulació excessiva de pintura
+
+Pot aparèixer quan es diposita massa pintura a les zones de contacte o s'insisteix repetidament sobre una mateixa àrea.
+
+**Possibles conseqüències:**
+- Pèrdua de detall.
+- Relleus involuntaris.
+- Acabat irregular.
+- Dificultat per integrar els colors.
+
+**Correcció:** evita continuar manipulant una superfície que ja presenta acumulació. Un cop seca, valora si és possible recuperar la zona mitjançant una correcció localitzada o si cal reconstruir-ne una part. La correcció s'ha de fer sense afegir pintura indiscriminadament.
+
+### 9.8.4. Pèrdua de claredat cromàtica
+
+Es produeix quan les mescles generen colors apagats, poc definits o diferents dels previstos.
+
+**Possibles causes:**
+- Mescla directa de pintures que produeixen resultats cromàtics no desitjats.
+- Incorporació excessiva de colors modificadors.
+- Acumulació de mescles successives sense una direcció definida.
+- Falta de comprovació dels tons intermedis.
+
+**Correcció:** revisa l'evolució cromàtica des dels colors de partida i identifica quina mescla ha provocat la desviació. Prepara una nova mescla intermèdia quan sigui necessari, evitant afegir més colors sense una finalitat concreta.
+
+### 9.8.5. Transició massa curta o massa extensa
+
+Una transició massa curta pot produir un canvi abrupte. Una de massa extensa pot ocupar zones que haurien de conservar els colors extrems.
+
+**Correcció:** reorganitza la distribució dels colors intermedis i ajusta l'extensió de la zona de canvi. No cal modificar tota la superfície si els extrems cromàtics estan correctament establerts.
+
+### 9.8.6. Correccions successives que deterioren el degradat
+
+La repetició d'intervencions pot provocar acumulació de pintura, pèrdua de definició i modificacions cromàtiques no previstes.
+
+**Correcció:** atura el procés i valora el resultat en condicions d'observació estables. Identifica el defecte principal i decideix si requereix una intervenció localitzada o si el degradat ja compleix la seva funció. La correcció ha de ser proporcional al problema. Afegir noves aplicacions sense identificar-ne la finalitat pot empitjorar el resultat.
+
+## 9.9. Resultat esperat i criteris d'avaluació
 
 En acabar, el lector ha de poder:
 - Diferenciar la construcció mitjançant capes d'un degradat.
@@ -200,110 +291,173 @@ La qualitat no es valora només per la suavitat, sinó també per la coherència
 
 El criteri de finalització és aconseguir l'efecte previst amb el mínim d'intervencions necessàries i preservant la integritat de la superfície.
 
-## 9.8. Exercicis pràctics
+## 9.10. Exercicis pràctics
 
-Els exercicis avancen des de transicions senzilles fins a la planificació, comparació i correcció. Cal fer-los sobre superfícies de prova per poder comparar resultats sense intervenir innecessàriament en una miniatura acabada.
+Els exercicis estan organitzats de manera progressiva. Cadascun treballa un aspecte concret de la construcció de transicions i permet avaluar el resultat sense recórrer a tècniques que encara no s'han desenvolupat en capítols posteriors.
 
-### Exercici 1. Degradat de valor
+### 9.10.1. Exercici 1. Construcció d'una transició de valor
 
-**Objectiu:** construir un degradat entre dos colors d'una mateixa família, modificant principalment el valor.
+**Objectiu:** construir un degradat entre dos colors d'una mateixa família cromàtica, modificant principalment el valor.
 
-**Materials:** superfície de prova llisa, dues pintures d'una família cromàtica similar amb valors diferenciats, paleta, pinzell adequat.
+**Materials:**
+- Una superfície de prova llisa.
+- Dues pintures d'una família cromàtica similar, amb valors diferenciats.
+- Paleta.
+- Pinzell adequat per a la superfície.
 
 **Procediment:**
-1. Seleccionar un color fosc i un de clar.
+1. Seleccionar un color més fosc i un altre de més clar.
 2. Preparar diverses mescles intermèdies.
-3. Ordenar-les segons la progressió de valor.
-4. Aplicar-les seguint una direcció definida.
-5. Integrar els límits amb el procediment escollit.
-6. Deixar assecar i observar.
+3. Ordenar-les segons la seva progressió de valor.
+4. Aplicar-les sobre la superfície de prova seguint una direcció definida.
+5. Integrar els límits mitjançant el procediment seleccionat.
+6. Deixar assecar i observar el resultat.
 
-**Avaluació:** la transició connecta els colors de partida, els tons intermedis progressen coherentment, no hi ha bandes involuntàries i la superfície conserva una aplicació controlada.
+**Criteris d'avaluació:**
+- La transició connecta els colors de partida.
+- Els tons intermedis mantenen una progressió coherent.
+- No apareixen bandes involuntàries.
+- La superfície conserva una aplicació controlada.
 
-### Exercici 2. Transició de matís
+### 9.10.2. Exercici 2. Transició entre dues famílies cromàtiques
 
-**Objectiu:** construir una transició entre dues famílies cromàtiques diferents.
+**Objectiu:** construir una transició entre dos colors de famílies cromàtiques diferents.
 
-**Materials:** dues pintures de famílies diferents, altres pintures per preparar tons intermedis si cal, superfície de prova, paleta i pinzell.
+**Materials:**
+- Dues pintures de famílies cromàtiques diferents.
+- Pintures addicionals per preparar tons intermedis, si són necessàries.
+- Superfície de prova.
+- Paleta i pinzell.
 
 **Procediment:**
-1. Seleccionar els dos colors.
+1. Seleccionar dos colors que s'hagin de connectar.
 2. Fer una petita prova de mescla directa.
-3. Comprovar si l'evolució és adequada.
-4. Introduir un color intermedi si cal orientar la transició.
-5. Preparar i aplicar les mescles progressivament.
-6. Avaluar la continuïtat un cop seca la superfície.
+3. Observar si la mescla produeix una evolució cromàtica adequada.
+4. Si el resultat no és satisfactori, introduir un color intermedi que permeti orientar la transició.
+5. Preparar les mescles necessàries.
+6. Aplicar-les de manera progressiva.
+7. Avaluar la continuïtat un cop seca la superfície.
 
-**Avaluació:** evolució coherent del matís, absència de desviacions imprevistes, conservació dels colors de partida i correspondència amb l'objectiu.
+**Criteris d'avaluació:**
+- L'evolució del matís és coherent.
+- Les mescles intermèdies no generen desviacions cromàtiques no previstes.
+- La transició conserva els colors de partida.
+- El resultat respon a l'objectiu inicial.
 
-### Exercici 3. Comparació de procediments
+### 9.10.3. Exercici 3. Comparació de procediments de construcció
 
-**Objectiu:** comprendre les diferències entre mescla humida, mescles preparades i aplicacions successives.
+**Objectiu:** comprendre les diferències entre la mescla humida, les mescles intermèdies preparades i les aplicacions successives.
 
-**Materials:** dos colors de partida, pintures per a mescles intermèdies, tres superfícies de prova equivalents, paleta i pinzells.
-
-**Procediment:**
-1. Preparar tres superfícies en condicions equivalents.
-2. Construir la primera transició amb mescla humida.
-3. Construir la segona amb mescles preparades a la paleta.
-4. Construir la tercera amb aplicacions successives.
-5. Deixar assecar totes tres.
-6. Comparar continuïtat, control cromàtic, regularitat i facilitat d'aplicació.
-
-**Avaluació:** reconèixer diferències, avantatges i limitacions i determinar quin procediment és més adequat per a cada superfície. La comparació s'ha de basar en resultats observables, no en preferències assumides.
-
-### Exercici 4. Transició combinada de matís i valor
-
-**Objectiu:** construir un degradat en què canviïn simultàniament matís i valor.
-
-**Materials:** dos colors de partida amb diferències de matís i valor, pintures per a tons intermedis, superfície de prova, paleta i pinzell.
+**Materials:**
+- Dos colors de partida.
+- Pintures necessàries per preparar mescles intermèdies.
+- Tres superfícies de prova equivalents.
+- Paleta i pinzells.
 
 **Procediment:**
-1. Seleccionar els colors.
-2. Definir l'evolució desitjada de matís i valor.
+1. Preparar tres superfícies de prova en condicions equivalents.
+2. Construir la primera transició mitjançant mescla humida.
+3. Construir la segona mitjançant mescles intermèdies preparades a la paleta.
+4. Construir la tercera mitjançant aplicacions successives de tons intermedis.
+5. Deixar assecar les tres superfícies.
+6. Comparar la continuïtat, el control cromàtic, la regularitat i la facilitat d'aplicació.
+
+**Criteris d'avaluació:**
+- Es reconeixen les diferències entre els procediments.
+- S'identifiquen els avantatges i les limitacions de cadascun.
+- Es determina quin procediment resulta més adequat per a cada superfície.
+- La comparació es basa en resultats observables i no en preferències assumides.
+
+### 9.10.4. Exercici 4. Construcció d'una transició combinada
+
+**Objectiu:** construir un degradat en què canviïn simultàniament el matís i el valor.
+
+**Materials:**
+- Dos colors de partida amb diferències de matís i valor.
+- Pintures per preparar tons intermedis.
+- Superfície de prova.
+- Paleta i pinzell.
+
+**Procediment:**
+1. Seleccionar els colors de partida.
+2. Determinar quina evolució de matís i valor es busca.
 3. Preparar les mescles intermèdies.
-4. Comprovar la progressió abans d'aplicar.
-5. Construir la transició amb el procediment més adequat.
-6. Avaluar la relació entre els canvis de matís i valor.
-7. Corregir desviacions que afectin la continuïtat.
+4. Comprovar la progressió cromàtica abans d'aplicar-la.
+5. Construir la transició mitjançant el procediment més adequat.
+6. Avaluar si les variacions de matís i valor mantenen la relació prevista.
+7. Corregir les desviacions que afectin la continuïtat.
 
-**Avaluació:** control de més d'una dimensió, coherència dels intermedis, absència de canvis involuntaris i correspondència amb la planificació.
+**Criteris d'avaluació:**
+- Es controla l'evolució de més d'una dimensió cromàtica.
+- Els colors intermedis mantenen la coherència.
+- La transició no presenta canvis involuntaris.
+- El resultat respon a la planificació inicial.
 
-### Exercici 5. Anàlisi i correcció de degradats
+### 9.10.5. Exercici 5. Identificació i correcció de transicions defectuoses
 
-**Objectiu:** analitzar transicions i identificar problemes de continuïtat.
+**Objectiu:** desenvolupar la capacitat d'analitzar un degradat i identificar els problemes que n'afecten la continuïtat.
 
-**Materials:** diverses superfícies de prova amb transicions diferents, pinzells i pintures adequades per a correccions localitzades.
+**Materials:**
+- Diverses superfícies de prova amb transicions diferents.
+- Pinzells i pintures adequades per fer correccions localitzades.
 
 **Procediment:**
-1. Seleccionar o preparar superfícies amb bandes, salts cromàtics, transicions massa curtes, pèrdua de claredat o acumulacions.
-2. Observar-les un cop seques.
+1. Preparar o seleccionar superfícies amb defectes diferents: bandes, salts cromàtics, transició massa curta, pèrdua de claredat o acumulacions.
+2. Observar cada superfície un cop seca.
 3. Identificar el defecte principal.
-4. Determinar-ne la causa possible.
-5. Seleccionar una correcció proporcionada.
-6. Aplicar-la només on calgui.
-7. Comparar el resultat abans i després.
+4. Determinar-ne la possible causa.
+5. Seleccionar una correcció proporcionada al problema.
+6. Aplicar la correcció únicament on sigui necessària.
+7. Comparar el resultat abans i després de la intervenció.
 
-**Avaluació:** identificació correcta, distinció entre problemes cromàtics i d'aplicació, correcció vinculada a una causa concreta i absència d'intervencions en zones ja adequades.
+**Criteris d'avaluació:**
+- S'identifica correctament el defecte.
+- Es diferencia entre problemes cromàtics i problemes d'aplicació.
+- La correcció respon a una causa concreta.
+- S'evita intervenir sobre zones que ja presenten un resultat adequat.
 
-### Exercici 6. Planificació i execució autònoma
+### 9.10.6. Exercici integrador. Planificació i construcció d'un degradat complet
 
-**Objectiu:** planificar, executar i avaluar una transició cromàtica de manera autònoma.
+**Objectiu:** aplicar de manera autònoma els coneixements del capítol per planificar, executar i avaluar una transició cromàtica.
 
-**Materials:** superfície de prova plana o corba, dues o més pintures escollides, materials per preparar mescles intermèdies, paleta i pinzells.
+**Materials:**
+- Una superfície de prova amb geometria plana o corba.
+- Dues o més pintures seleccionades per l'alumne.
+- Materials necessaris per preparar mescles intermèdies.
+- Paleta i pinzells.
 
 **Procediment:**
-1. Escollir la superfície i definir el resultat cromàtic.
+1. Escollir una superfície i definir el resultat cromàtic desitjat.
 2. Seleccionar els colors de partida.
-3. Determinar quines dimensions han de canviar.
-4. Decidir extensió i direcció.
-5. Seleccionar el procediment.
+3. Determinar quines dimensions cromàtiques s'han de modificar.
+4. Decidir l'extensió i la direcció del degradat.
+5. Seleccionar el procediment de construcció.
 6. Preparar i comprovar els colors intermedis.
 7. Executar la transició.
 8. Avaluar el resultat un cop sec.
-9. Identificar defectes i fer només les correccions necessàries.
-10. Registrar materials, procediment i observacions.
+9. Identificar possibles defectes.
+10. Fer únicament les correccions necessàries.
+11. Registrar els materials, el procediment i les observacions.
 
-**Avaluació:** planificació prèvia, adequació del procediment a la superfície, progressió coherent dels intermedis, continuïtat prevista, control de quantitat i estat de la superfície, correccions localitzades i justificades i compliment de la funció cromàtica.
+**Criteris d'avaluació:**
+- La transició està planificada abans d'aplicar-la.
+- El procediment escollit és adequat per a la superfície.
+- Els colors intermedis presenten una evolució coherent.
+- La continuïtat respon a l'objectiu previst.
+- Es manté el control de la quantitat de pintura i de la superfície.
+- Les correccions són localitzades i justificades.
+- El resultat final compleix la funció cromàtica establerta.
 
-L'exercici comprova no només l'execució del degradat, sinó també la capacitat de planificar-lo, seleccionar-ne el procediment i avaluar-ne els resultats.
+L'exercici ha de permetre comprovar que el lector no només sap executar un degradat, sinó que comprèn com planificar-lo, quin procediment seleccionar i com avaluar-ne els resultats.
+
+## Síntesi del capítol
+
+Els degradats permeten construir transicions progressives entre dues o més zones cromàtiques. El resultat depèn de la relació entre els colors de partida, els tons intermedis, l'extensió de la transició, la geometria de la superfície i el procediment d'aplicació.
+
+Les mescles intermèdies preparades a la paleta, la mescla humida sobre la superfície i les aplicacions successives són procediments diferents que es poden utilitzar de manera independent o combinada.
+
+La tria ha de respondre a l'objectiu visual i a les condicions concretes de treball. No hi ha un nombre universal de tons intermedis ni una distribució única que garanteixi una transició correcta.
+
+El control tècnic exigeix observar la continuïtat cromàtica, identificar possibles bandes o discontinuïtats i evitar acumulacions o correccions innecessàries.
+
+El criteri fonamental és construir una transició intencionada i controlada, no aconseguir la màxima suavitat en qualsevol circumstància.

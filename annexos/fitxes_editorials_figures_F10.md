@@ -374,7 +374,7 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 ### 37.10 — Errors freqüents i criteris de correcció
 - **Ubicació:** 37.7.
 - **Llegenda prevista:** «Errors de brillantor excessiva, acabat uniforme, pèrdua de diferenciació material i aplicació selectiva inadequada.»
-- **Representació:** parelles diagnòstiques d'error i criteri de correcció.
+- **Representació:** parelles diagnòstiques d'error i versió corregida, amb exemples de brillantor excessiva, acabat uniforme, pèrdua de diferenciació material i aplicació selectiva inadequada. Les versions corregides s'han de plantejar com a exemples didàctics, no com a resultats experimentals.
 - **Funció didàctica:** facilitar l'avaluació crítica de l'acabat.
 - **Límits:** no inventar resultats corregits ni atribuir defectes a una sola causa quan hi pugui haver diverses variables.
 
@@ -920,6 +920,7 @@ Les fitxes següents normalitzen en català les 58 propostes addicionals de la t
 
 #### 20.1 + 20.2 — Direcció de fibres, vetes, nusos, anells i patrons segons el tall
 - **Identificadors integrats:** 20.1 i 20.2.
+- **Identificador complementari integrat:** 20.6 (P2), com a detall de la secció transversal i dels anells.
 - **Ubicació:** 20.1–20.2.
 - **Llegenda de treball:** «Direcció de les fibres i les vetes, nusos i orientació dels anells segons el tall de la fusta.»
 - **Representació:** una làmina composta amb patrons longitudinals i transversals, direcció de les fibres, nusos i seccions que mostrin l'orientació dels anells.
@@ -934,10 +935,10 @@ Les fitxes següents normalitzen en català les 58 propostes addicionals de la t
 - **Funció didàctica:** mostrar la continuïtat estructural de les vetes i com s'adapten al voltant d'un nus.
 - **Condicions i límits:** una composició seqüencial coordinada; el nus no pot aparèixer com un cercle aïllat. Les fibres han de girar al seu voltant i mantenir una continuïtat plausible.
 
-#### 20.7 — Adaptació a geometries
+#### 20.7 — Adaptació de les vetes a diferents formes de peça
 - **Ubicació:** 20.9.2.
-- **Llegenda de treball:** «Adaptació a geometries: Comparació de vetes sobre tauler, cilindre, peça corba i element irregular.»
-- **Representació:** Comparació de vetes sobre tauler, cilindre, peça corba i element irregular.
+- **Llegenda de treball:** «Adaptació de les vetes a taulons, bigues, barrils, mànecs i troncs.»
+- **Representació:** comparació de tauló, biga, barril, mànec i tronc, amb la continuïtat i l'orientació de les vetes adaptades a cada geometria.
 - **Condicions i límits:** Ubicació corregida; mantenir continuïtat de patró segons la forma del suport.
 
 #### 20.8 — Fusta natural, envellida, desgastada i humida
@@ -956,14 +957,14 @@ Les fitxes següents normalitzen en català les 58 propostes addicionals de la t
 
 #### 21.1 — Tipus principals de vegetació
 - **Ubicació:** 21.1–21.2.
-- **Llegenda de treball:** «Tipus principals de vegetació: Làmina comparativa de fullatge ample, coníferes, herbàcies, molsa, líquens i vegetació seca.»
-- **Representació:** Làmina comparativa de fullatge ample, coníferes, herbàcies, molsa, líquens i vegetació seca.
+- **Llegenda de treball:** «Comparació de fullatge de fulla ampla, coníferes, herbàcies, molsa i líquens.»
+- **Representació:** làmina comparativa de fullatge de fulla ampla, coníferes, herbàcies, molsa i líquens. La vegetació seca queda fora d'aquesta composició i es manté com a proposta P2 21.9 en reserva.
 - **Condicions i límits:** Diferenciar estructura, creixement i densitat; no classificar només pel color.
 
-#### 21.2 — Morfologia de fulles
+#### 21.2 — Morfologia de les fulles
 - **Ubicació:** 21.2.
-- **Llegenda de treball:** «Morfologia de fulles: Comparació simplificada de formes i agrupacions de fulles.»
-- **Representació:** Comparació simplificada de formes i agrupacions de fulles.
+- **Llegenda de treball:** «Comparació de fulles simples i compostes, formes de la vora i patrons de nerviació.»
+- **Representació:** panells de fulles simples i compostes, amb exemples de vores i nerviacions clarament diferenciades.
 - **Condicions i límits:** No convertir-la en una classificació botànica exhaustiva ni afegir espècies no necessàries.
 
 #### 21.3 — Agrupació, densitat i superposició
@@ -978,10 +979,10 @@ Les fitxes següents normalitzen en català les 58 propostes addicionals de la t
 - **Representació:** Construcció en dos nivells: capçada/branques i agrupacions d'agulles direccionals.
 - **Condicions i límits:** Respectar orientació i densitat; evitar patrons repetitius o radials artificials.
 
-#### 21.6 — Tiges, fulles i gramínies
+#### 21.6 — Tiges, fulles, espigues i gramínies
 - **Ubicació:** 21.6.
-- **Llegenda de treball:** «Tiges, fulles i gramínies: Comparació de tiges, fulles allargades, espigues i fulles seques.»
-- **Representació:** Comparació de tiges, fulles allargades, espigues i fulles seques.
+- **Llegenda de treball:** «Comparació de tiges, fulles allargades, espigues i direccions de creixement de les gramínies.»
+- **Representació:** panells amb tiges, fulles, espigues i agrupacions de gramínies, fent visible la direcció i l'orientació dels elements.
 - **Condicions i límits:** Diferenciar direcció, alçada i agrupació; adaptar la simplificació a escala.
 
 #### 21.7 — Formes de molsa
@@ -1046,8 +1047,8 @@ Les fitxes següents normalitzen en català les 58 propostes addicionals de la t
 
 #### 23.2 — Famílies de teixits
 - **Ubicació:** 23.1–23.2.
-- **Llegenda de treball:** «Famílies de teixits: Matriu de fibra, estructura, gruix, caiguda, textura i acabat.»
-- **Representació:** Matriu de fibra, estructura, gruix, caiguda, textura i acabat.
+- **Llegenda de treball:** «Comparació de lli i cotó, llana, seda i setí, i vellut segons estructura, caiguda, textura i acabat.»
+- **Representació:** matriu comparativa que inclogui lli/cotó, llana, seda/setí i vellut, diferenciant fibra, estructura del teixit, gruix, caiguda, textura i acabat. El setí no s'ha de presentar com una fibra.
 - **Condicions i límits:** Les associacions són orientatives; no atribuir una aparença única a cada fibra.
 
 #### 23.3 — Construcció cromàtica de teixits clars
@@ -1110,8 +1111,8 @@ Les fitxes següents normalitzen en català les 58 propostes addicionals de la t
 
 #### 24.9 — Errors freqüents
 - **Ubicació:** 24.9.3.
-- **Llegenda de treball:** «Errors freqüents: Làmina diagnòstica de pigmentació plana, variacions excessives, anatomia poc llegible i llums/ombres incoherents.»
-- **Representació:** Làmina diagnòstica de pigmentació plana, variacions excessives, anatomia poc llegible i llums/ombres incoherents.
+- **Llegenda de treball:** «Errors de pell plana, excés de blanc, ombres uniformes, múscul estriat i confusió entre teixits.»
+- **Representació:** làmina diagnòstica que inclogui pell plana, excés de blanc, ombres uniformes, múscul representat com a ratlles i confusió entre múscul, teixit adipós i teixit connectiu.
 - **Condicions i límits:** Els exemples han de correspondre als errors i correccions del capítol.
 
 ### Control de la tanda C15–C24

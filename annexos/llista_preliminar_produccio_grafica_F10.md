@@ -566,7 +566,7 @@ No s'inclouen com a figures autònomes en aquesta llista. Només es recuperaran 
 
 - **C1–C4:** 1.1, 2.1, 3.4, 4.1, 4.2 i 4.5.
 - **C5–C7:** 5.2 + 5.3 (una possible comparació de font puntual/extensa, distància i mida aparent); 5.8, 5.9; 6.3 + 6.6 (una possible làmina de textures i patrons); 7.1, 7.3 i 7.8.
-- **C11–C18:** 11.4; 15.2, 15.5; 16.3, 16.7; 18.7–18.9 (una possible fitxa/cicle coordinat de control i registre).
+- **C11–C18:** 11.4; 15.2, 15.5; 16.3, 16.7; 18.7, 18.8 i 18.9 (una possible fitxa/cicle coordinat de control i registre).
 - **C19–C24:** 19.1 + 19.2 (només amb mostres físiques comparables); 19.7, 19.8; 20.3; 21.4, 21.9; 22.3, 22.8, 22.10; 23.4; 24.1 (esquema anatòmic simplificat, no làmina mèdica) i 24.6.
 - **C30–C39:** 30.5, 30.6, 30.7; 31.7; 32.1 (si cal una tipologia general); 33.3, 33.4; 34.6, 34.8; 35.3; 36.7, 36.10; 38.3 (només amb dades/proves reals), 38.9; 39.8.
 - **Reclassificada:** 3.6 queda en reserva com a P2 perquè el procés de selecció ja està cobert per la taula de 3.4 i la seqüència de 3.7.

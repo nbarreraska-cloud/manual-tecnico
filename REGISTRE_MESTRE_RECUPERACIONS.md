@@ -1,6 +1,6 @@
 # REGISTRE MESTRE DE RECUPERACIONS EDITORIALS
 **Manual tècnic de pintura de miniatures**  
-**Versió:** 1.82 · **Data:** 05/11/2026  
+**Versió:** 1.83 · **Data:** 05/11/2026  
 **Branca:** intervencion-editorial-2026-11
 
 ## 1. Funció i abast
@@ -26,7 +26,7 @@ Aquests 39 Markdown són la representació operativa de treball sobre els contin
 | 6 | Auditoria global de coherència, referències creuades, traçabilitat i absència de pèrdues o duplicacions. | **F6 completada (05/11/2026).** Auditoria transversal C1–C39 i A–E registrada a `annexos/auditoria_transversal_F6_2026-11-05.md`. Les 48 fitxes individuals es van regenerar documentalment i es van vincular des de l'Annex A. Les limitacions de dades no documentades i la manca de validació experimental es mantenen explícites. |
 | 7 | Revisió, selecció i producció del material gràfic. | **Ajornada fins després de la primera maqueta textual**. Inventari i classificació previs conservats: 243 propostes (157 P1, 83 P2, 3 P3); validació estructural P1 i revisió individual P2 documentades. No s'han aprovat visualment ni produït totes les figures. La revisió/selecció final i la producció no bloquegen la maqueta textual sense imatges. |
 | 8 | Auditoria final del document textual complet abans de la primera maquetació. | **F8 completada (05/11/2026), amb correcció documental aplicada.** Revisats 39 capítols, annexos A–E i 48 fitxes; 38 correspondències exactes i una discrepància ortogràfica a C28, corregida. Estructura, numeració, taules, residus editorials, annexos i enllaços interns comprovats. Informe: `annexos/auditoria_F8_2026-11-05.md`. No equival a validació experimental. |
-| 9 | Maquetació completa de la versió textual en Word, sense imatges. | **F9 iniciada (05/11/2026), encara no completada.** Especificació a annexos/F9_ESPECIFICACIO_MAQUETACIO.md; generador a tools/generate_f9_docx.py; workflow manual a .github/workflows/generate-f9-docx.yml. Abast: 39 capítols i annexos A–F, amb 48 fitxes compactes i íntegres a F. La generació real del DOCX i la revisió visual resten pendents. |
+| 9 | Maquetació completa de la versió textual en Word, sense imatges. | **Primera generació completada (05/11/2026); F9 oberta per revisió.** DOCX de 417.239 bytes generat per GitHub Actions (execució 42074514905); comprovació PDF: 339 pàgines A4. 39 capítols, annexos A–F, 48 fitxes úniques i 336 seccions de fitxa. Resten revisió visual integral, verificació de fidelitat i actualització de l'índex automàtic. Registre: annexos/registre_F9_maquetacio_2026-11-05.md. |
 
 La primera versió amb l'estructura completa sintetitzada i la segona síntesi dels 39 capítols són fonts diferenciades. La tercera versió és el resultat del treball sobre els 39 Markdown. La compilació documental única dels capítols 1–39 s'ha creat i sincronitzat amb els 39 Markdown. F2, F4 i F6 consten tancades amb els límits documentals registrats. L'auditoria anterior dels annexos es conserva com a antecedent. La regeneració A–E, F6 i F8 consten tancades segons els informes vigents. La fase gràfica (F7) queda ajornada fins després de la primera maqueta textual (F9).
 
@@ -603,3 +603,8 @@ Aquesta actualització fixa l'estat vigent i preval sobre qualsevol anotació hi
 ### Actualització F9 — inici de maquetació (05/11/2026 · versió 1.82)
 
 F9 queda iniciada en la branca intervencion-editorial-2026-11. S'han preparat l'especificació editorial, el generador i el workflow manual. El DOCX encara no s'ha generat ni revisat; per tant, F9 continua oberta. Es manté el bloqueig de canvis a main i la prohibició de reobrir contingut tècnic aprovat. L'Annex F incorporarà les 48 fitxes després d'E, amb set seccions cadascuna i compactació exclusivament tipogràfica i de composició.
+
+
+### Actualització F9 — primera generació (05/11/2026 · versió 1.83)
+
+La primera maqueta Word textual s'ha generat correctament. La verificació estructural confirma 39 capítols, sis annexos A–F, 48 fitxes úniques i set seccions per fitxa (336 encapçalaments), amb quatre agrupacions de set. La conversió de comprovació dona 339 pàgines A4. El camp de l'índex és present però la conversió PDF no l'ha actualitzat; cal verificar-lo a Word. La revisió visual integral i la comprovació de fidelitat continuen pendents. F9 no queda tancada en aquesta primera generació.

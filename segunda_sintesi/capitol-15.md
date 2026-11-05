@@ -91,7 +91,7 @@ Abans de pintar convé determinar quines zones presentaran els valors més clars
 
 - Zones de llum.
 - Zones de transició.
-- Zones de sombra.
+- Zones d'ombra.
 - Accents de màxima claredat.
 - Accents de màxima foscor.
 

@@ -223,3 +223,32 @@ La branca de treball continua sent `intervencion-editorial-2026-11`. La branca `
 ### Continuïtat immediata
 
 Continuar la fase 3 a partir de les recuperacions encara pendents de prioritat alta, començant pel capítol 28 i el capítol 29 segons la matriu. Abans de modificar cada fitxer, recuperar el Markdown actual i contrastar-lo amb la font disponible; registrar qualsevol límit documental. No tornar a fer una auditoria general dels 39 capítols ni reescriure contingut classificat SC sense motiu verificable.
+
+
+### Capítol 28 — òxid, corrosió i pàtines (05/11/2026)
+
+S'ha recuperat el contingut del capítol 28 comparant el Markdown de la segona síntesi amb el capítol corresponent de «manual con estructura completa.docx».
+
+Intervenció aplicada:
+- Desenvolupats els procediments de les onze receptes A–K, sense substituir les combinacions cromàtiques originals.
+- Recuperada la distinció específica de les pàtines sobre llautó i objectes daurats.
+- Restituïda l'estructura de procediments: preparació, construcció de superfícies oxidades, construcció de pàtines, corrosió sota pintura, control de distribució/intensitat i compatibilitat de tècniques.
+- Recuperats els dotze errors i les seves correccions en format consultable.
+- Recuperats els criteris d'avaluació i de finalització.
+- Desenvolupats els sis exercicis amb objectiu, materials, procediment i avaluació.
+- Recuperada la síntesi conceptual del capítol.
+- Corregida la terminologia catalana (rovell, verdet) i la numeració de referències.
+
+Comprovació inicial:
+- 11 receptes A–K presents.
+- 6 exercicis presents.
+- 6 subseccions de procediment presents.
+- Cap encapçalament duplicat detectat.
+- La síntesi i les referències queden diferenciades.
+- Les 10 propostes de figures del document original no s'han inserit al cos del capítol: es mantenen com a material MG per a la fase gràfica.
+
+**Estat:** recuperació aplicada; comprovació estructural inicial superada; validació semàntica i coteig complet pendents. Les receptes continuen sent propostes no assajades.
+
+### Continuïtat immediata
+
+Continuar amb el capítol 29, també classificat RT d'alta prioritat. Recuperar el text original complet, comparar-lo amb el Markdown i restituir els procediments, controls, adaptacions geomètriques i exercicis que aportin valor, sense alterar les receptes A–Q ni incorporar productes aliens a les 48 pintures.

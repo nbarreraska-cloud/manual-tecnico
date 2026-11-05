@@ -1,16 +1,12 @@
 # Fitxes individuals de les 48 pintures
 
-**Versió:** 1.0 — regeneració documental  
-**Data:** 05/11/2026  
-**Branca:** `intervencion-editorial-2026-11`
-
 ## Finalitat
 
-Aquest directori recupera la funció documental de les 48 fitxes individuals que el manual original preveia com a recursos independents de caracterització i consulta. Les fitxes s'han **regenerat**, no recuperat literalment: el document original conservava l'estructura prevista i la relació amb l'Annex A, però no el contingut individual.
+Aquest annex reuneix les 48 fitxes individuals de les pintures de referència. Les fitxes es poden consultar com a part del manual i es conserven també com a documents independents per facilitar-ne l'actualització. Les fitxes s'han **regenerat**, no recuperat literalment: el document original conservava l'estructura prevista i la relació amb l'Annex A, però no el contingut individual.
 
 ## Criteri de rigor
 
-Cada fitxa separa identificació comercial, família comercial confirmada, informació declarada pel fabricant a escala de família, caracterització cromàtica orientativa, funcions traçables a les taules dels capítols 19–34 i propietats individuals pendents de documentació o prova física.
+Cada fitxa separa identificació comercial, família comercial confirmada, informació declarada pel fabricant a escala de família, caracterització cromàtica orientativa, funcions traçables a les taules i mencions explícites dels capítols del manual i propietats individuals pendents de documentació o prova física.
 
 Les propietats generals d'una família no es presenten com a mesuraments individuals. No s'han inventat valors d'opacitat, cobertura, poder tintori, viscositat, assecat o acabat. Tampoc s'ha afirmat que cap recepta estigui validada experimentalment.
 
@@ -66,7 +62,7 @@ Les propietats generals d'una família no es presenten com a mesuraments individ
 - [Fluorescent Orange — 72.156](72-156-fluorescent-orange.md)
 - [Fluorescent Magenta — 72.158](72-158-fluorescent-magenta.md)
 - [Fluorescent Green — 72.104](72-104-fluorescent-green.md)
-- [Fluorescent Cold Green — 72.161](72-161-fluorescent-cold-green.md)
+- [Fluorescent Cool Green — 72.161](72-161-fluorescent-cold-green.md)
 - [Chameleon Orange — 72.455](72-455-chameleon-orange.md)
 - [Seraph Red — 72.479](72-479-seraph-red.md)
 - [Red Ink — 72.086](72-086-red-ink.md)

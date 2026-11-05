@@ -814,3 +814,19 @@ El recompte queda en **156 identificadors P1 i 150 composicions de treball**. Le
 5. Marcar per a cada figura si necessita fotografia/prova física o si és un esquema conceptual.
 
 Aquesta passada és una primera resolució de les relacions més evidents, no una certificació definitiva de totes les dependències. No s'han generat ni inserit imatges ni modificat els capítols.
+
+
+## 24. Revalidació de cobertura i ubicacions després de les integracions — 05/11/2026
+
+Després d'actualitzar les fitxes per reflectir les sis integracions, s'ha repetit la comprovació automàtica:
+
+- **Composicions editorials:** 150.
+- **Identificadors P1 representats:** 156.
+- **Identificadors únics:** 156.
+- **Identificadors absents:** 0.
+- **Identificadors duplicats:** 0.
+- **Ubicacions de les 150 composicions sense encapçalament lector corresponent:** 0.
+
+La comprovació confirma que les sis integracions no han eliminat ni duplicat cap identificador P1 i que les ubicacions citades existeixen com a apartats o subapartats de la tercera síntesi. És una verificació estructural, no una aprovació de la qualitat gràfica ni de la remissió textual exacta.
+
+**Integritat de branques:** la branca de treball continua sent `intervencion-editorial-2026-11`; `main` es manté a `a4ce8192e30178b0171ea02a3af230b60efd3768`. No s'ha fet merge ni s'ha modificat cap capítol.

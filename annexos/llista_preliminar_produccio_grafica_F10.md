@@ -664,9 +664,9 @@ Les 58 propostes P1 d'aquesta tanda ja disposen de coteig lector al registre F10
 | Proposta | Ubicació | Format i contingut | Condicions de producció |
 |---|---|---|---|
 | 22.1 — Gra del cuir | 22.1–22.2 | Detall comparatiu de gra natural, gra corregit i superfície tractada. | Simplificar porus i irregularitats a escala; no dibuixar cada porus. |
-| 22.2 — Cuir natural, corregit, ante i nobuk | 22.2 | Quatre panells de textura i resposta superficial. | Diferenciar gra, fibra vellutada i acabat; la distinció ante/nobuk és orientativa i depèn del producte. |
+| 22.2 + 22.5 — Cuir natural, corregit, ante i nobuk | 22.2, amb detall ampliat d'ante/nobuk | Quatre panells principals i un detall ampliat de les superfícies d'ante i nobuk. | Una sola composició; distingir gra i fibra vellutada. La diferència és orientativa i depèn del producte. |
 | 22.4 — Construcció de cuir natural | 22.4 | Seqüència de base, variacions, ombres, llums, cantells i marques d'ús. | Adaptar a geometria i gruix; les receptes són propostes no assajades. |
-| 22.5 — Ante i nobuk | 22.2 i 22.6 | Comparació de superfície fibrosa de l'ante i lectura de gra més perceptible del nobuk. | Evitar reflexos brillants i no convertir la distinció orientativa en regla absoluta. |
+
 | 22.6 — Plecs i deformacions | 22.9 | Detalls de plecs, compressions, tensions i deformacions. | Ubicació corregida; respectar gruix, flexibilitat i punts de subjecció. |
 | 22.7 — Cantells, gruix i costures | 22.9 | Detalls de secció, vores, costures i unions. | Ubicació corregida; no confondre costura decorativa amb estructura del material. |
 | 22.9 — Errors freqüents | apartat de control i errors del C22 | Làmina diagnòstica de cuir excessivament brillant, textura desproporcionada, plecs incoherents i confusió entre cuir, ante i nobuk. | Vincular cada error amb una correcció del text; evitar solucions universals. |
@@ -690,20 +690,22 @@ Les 58 propostes P1 d'aquesta tanda ja disposen de coteig lector al registre F10
 | 24.3 — Mapa cromàtic del rostre | 24.7 | Mapa facial orientatiu de variacions locals sobre una referència concreta. | No és universal; dependrà de la referència, la pigmentació i la il·luminació. |
 | 24.4 — Construcció de pell clara | 24.4 | Seqüència de base, tons mitjans, ombres, variacions locals i llums. | Respectar les receptes del capítol; no reduir la pell a blanc, rosa i beix. |
 | 24.5 — Construcció de pell profunda | 24.5 | Seqüència de base, profunditat cromàtica, variacions i llums. | No aplicar aclarits desaturats generalitzats ni neutralitzar la base. |
-| 24.7 — Masses musculars | 24.8 | Esquema anatòmic simplificat de masses i volums musculars. | Ha de ser anatòmicament fiable a nivell general; no és una il·lustració mèdica ni ha d'afegir detalls no sustentats. |
-| 24.8 — Múscul, teixit adipós i connectiu | 24.8 | Comparació esquemàtica de feixos musculars, teixit adipós i estructures connectives. | Diferenciar els teixits sense inventar anatomia ni confondre estructures òssies o queratíniques. |
+| 24.7 + 24.8 — Masses musculars i diferenciació dels teixits | 24.8 | Làmina anatòmica de dos panells: masses musculars i comparació de múscul, teixit adipós i connectiu. | Preservar els dos continguts; anatomia fiable i simplificada, sense afegir estructures no sustentades. Separar si la llegibilitat se'n ressent. |
+
 | 24.9 — Errors freqüents | 24.9.3 | Làmina diagnòstica de pigmentació plana, variacions excessives, anatomia poc llegible i llums/ombres incoherents. | Els exemples han de correspondre als errors i correccions del capítol. |
 
 ### 8.1. Composició i fusions pendents de resoldre
 
 - **20.1 + 20.2:** una sola làmina de patrons de fusta; 20.2 passa a ser panell intern.
 - **20.4 + 20.5:** una sola seqüència integrada de construcció de vetes i desviació de fibres al voltant d'un nus.
+- **22.2 + 22.5:** integrar el detall d'ante/nobuk dins de la comparació general de superfícies de cuir.
+- **24.7 + 24.8:** làmina anatòmica de dos panells, sempre que es mantingui la llegibilitat.
 - Les altres propostes d'aquesta tanda es mantenen com a candidates independents en aquesta fase, però poden compartir làmina si la composició final millora la lectura sense eliminar informació.
 - **C15.6:** decidir si la comparació s'insereix a 15.4 o 15.8 segons el flux final de la pàgina.
 - **C17.7/17.8/17.10:** mantenir la numeració de proposta només com a traçabilitat; aplicar les ubicacions corregides del registre.
 - **C24.7 + 24.8:** poden formar una làmina anatòmica coordinada de masses i tipus de teixit, però no s'han de fusionar si això redueix la llegibilitat o suggereix una anatomia incorrecta.
 
-**Resultat d'aquesta tanda:** 58 identificadors P1 de C15–C24 convertits en especificacions preliminars i 56 composicions de treball després de fusionar 20.1+20.2 i 20.4+20.5. Encara no és una llista definitiva de figures: cal normalitzar els textos originals, validar les llegendes i assignar la numeració editorial després de resoldre les fusions.
+**Resultat d'aquesta tanda:** 58 identificadors P1 de C15–C24 convertits en especificacions preliminars i 54 composicions de treball després de les fusions 20.1+20.2, 20.4+20.5, 22.2+22.5 i 24.7+24.8. Encara no és una llista definitiva de figures: cal normalitzar els textos originals, validar les llegendes i assignar la numeració editorial després de resoldre les fusions.
 
 
 ## 9. C30–C39 — Especificacions preliminars de producció

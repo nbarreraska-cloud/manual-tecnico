@@ -6,7 +6,7 @@
 
 ## Criteri d'integració
 
-Cada composició s'ancora després del desenvolupament conceptual o procedimental corresponent. La remissió textual s'ha d'incloure quan ajudi el lector a localitzar o interpretar la figura; si la proximitat i la llegenda ja compleixen aquesta funció, s'evita la repetició. Les fusions conserven tots els identificadors P1 i les propostes complementàries s'integren com a panells, no com a figures autònomes.
+Cada composició s'ancora després del desenvolupament conceptual o procedimental corresponent. La remissió textual s'inclou quan ajuda el lector a localitzar o interpretar la figura; si la proximitat i la llegenda ja compleixen aquesta funció, s'evita la repetició. Les fusions conserven tots els identificadors P1 i les propostes complementàries s'integren com a panells, no com a figures autònomes.
 
 Les frases són propostes de redacció en català. No s'ha modificat el text lector ni s'ha generat o inserit cap imatge. Les seqüències E1 s'identificaran com a procediments proposats; les composicions E2 sense prova documentada es representaran com a esquemes conceptuals E0.
 
@@ -251,6 +251,17 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ## Capítol 34
 
+### Figura 34.1 — Tipus de vidre i diferències entre transparència i difusió
+
+- **Identificadors P1 d'origen:** 34.1, 34.7.
+- **Ubicació editorial F10:** 34.2; remissió des de 34.7..
+- **Punt d'inserció proposat:** després del desenvolupament de l'apartat 34.2. Integra també la proposta 34.7; aquesta no tindrà figura autònoma.
+- **Remissió textual proposada:** «La Figura 34.1 mostra tipus de vidre i diferències entre transparència i difusió.»
+- **Llegenda de treball:** «Comparació de vidre transparent incolor, acolorit i esmerilat, amb una mateixa escena vista a través de vidre transparent i esmerilat.».
+- **Nucli de representació:** làmina amb tres mostres de tipus de vidre i un detall comparatiu que mantingui la mateixa escena al darrere de dues superfícies: una que conserva la definició i una altra que la difumina.
+- **Funció didàctica:** distingir la coloració del vidre de la transmissió definida o difusa, i fer visible la diferència entre transparència i esmerilat.
+- **Límits editorials:** una sola composició; conservar el mateix fons i les mateixes condicions en el detall comparatiu. No confondre esmerilat amb opacitat absoluta ni amb un simple acabat mat.
+
 ### Figura 34.2 — Senyals visuals del vidre
 
 - **Identificadors P1 d'origen:** 34.2.
@@ -296,6 +307,17 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** mantenir coherència geomètrica dels fragments i no confondre les vores amb reflexos.
 
 ## Capítol 35
+
+### Figura 35.1 — Anàlisi global i distribució de masses cromàtiques
+
+- **Identificadors P1 d'origen:** 35.1, 35.2.
+- **Ubicació editorial F10:** 35.2–35.3..
+- **Punt d'inserció proposat:** després del desenvolupament de l'apartat 35.2–35.3. Integra 35.2 en un segon panell de mapa de masses.
+- **Remissió textual proposada:** «La Figura 35.1 mostra anàlisi global i distribució de masses cromàtiques.»
+- **Llegenda de treball:** «Identificació dels colors dominants, secundaris i accents d'una miniatura i representació simplificada de les seves masses cromàtiques.».
+- **Nucli de representació:** dos panells coordinats: (A) miniatura anotada amb dominants, secundaris i accents; (B) mapa simplificat de les masses cromàtiques i del seu pes visual.
+- **Funció didàctica:** passar de l'observació del conjunt a la lectura de la distribució cromàtica abans d'intervenir.
+- **Límits editorials:** preservar la diferència entre extensió física i pes perceptiu; no basar la jerarquia només en saturació ni reduir el mapa a una còpia de la miniatura.
 
 ### Figura 35.4 — Harmonització i uniformitat
 
@@ -690,384 +712,10 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Funció didàctica:** evitar intervencions innecessàries i ajustar l'abast de la correcció.
 - **Límits editorials:** no substituir el diagnòstic inicial ni convertir les opcions en una jerarquia automàtica.
 
-### Figura 1.2 — Classificació de la informació tècnica
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 1.5..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 1.5.
-- **Remissió textual proposada:** «La Figura 1.2 mostra classificació de la informació tècnica.»
-- **Llegenda de treball:** «Quatre categories d'informació: fonament tècnic, dada del fabricant, proposta tècnica i resultat comprovat.».
-- **Nucli de representació:** esquema comparatiu de quatre blocs, amb una definició breu i diferenciada de cada categoria.
-- **Funció didàctica:** permetre identificar la naturalesa i la procedència de la informació emprada al manual.
-- **Límits editorials:** no representar les categories com una escala de qualitat ni confondre naturalesa documental i grau de verificació.
-
-### Figura 2.2 — Organització documental de la informació sobre les pintures
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 2.5..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 2.5.
-- **Remissió textual proposada:** «La Figura 2.2 mostra organització documental de la informació sobre les pintures.»
-- **Llegenda de treball:** «Relació entre inventari, catàleg, fitxes individuals, caracterització tècnica i aplicació pràctica de les pintures.».
-- **Nucli de representació:** mapa de relacions entre el capítol 2, l'annex A, les fitxes, el capítol 3 i els capítols tècnics.
-- **Funció didàctica:** indicar on es troba cada tipus d'informació i com es connecten els recursos documentals.
-- **Límits editorials:** no repetir la taula dels quatre conjunts ni suggerir propietats que no estiguin verificades.
-
-### Figura 3.1 — Comportament d'opacitat i transparència de les pintures
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 3.1..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 3.1.
-- **Remissió textual proposada:** «La Figura 3.1 mostra comportament d'opacitat i transparència de les pintures.»
-- **Llegenda de treball:** «Comparació de pintures opaques, semiopàques, semitransparents i transparents sobre un mateix fons.».
-- **Nucli de representació:** mostres amb diferents graus d'ocultació del fons i cobertura de la capa.
-- **Funció didàctica:** distingir l'ocultació del fons, la transmissió visual i la cobertura pictòrica.
-- **Límits editorials:** no convertir els comportaments en categories comercials rígides ni confondre opacitat, transparència, cobertura i uniformitat.
-
-### Figura 3.2 — Influència del fons en una mateixa capa de pintura
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 3.2.1..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 3.2.1.
-- **Remissió textual proposada:** «La Figura 3.2 mostra influència del fons en una mateixa capa de pintura.»
-- **Llegenda de treball:** «Una mateixa capa de pintura transparent o semitransparent sobre fons blanc, gris i negre.».
-- **Nucli de representació:** tres panells equivalents que només variïn el color del fons.
-- **Funció didàctica:** mostrar com el fons modifica l'aparença de la capa i la lectura del seu color.
-- **Límits editorials:** si no hi ha fotografies de mostres físiques documentades, identificar-ho com a esquema conceptual; no atribuir resultats a un producte concret.
-
-### Figura 3.3 — Distribució de la pintura sobre relleus i cavitats
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 3.3..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 3.3.
-- **Remissió textual proposada:** «La Figura 3.3 mostra distribució de la pintura sobre relleus i cavitats.»
-- **Llegenda de treball:** «Distribució d'una pintura sobre zones elevades, planes i cavitats d'una superfície en relleu.».
-- **Nucli de representació:** esquema espacial o secció ampliada que mostri la distribució descrita per al producte Xpress Color.
-- **Funció didàctica:** explicar la relació entre geometria del suport i comportament funcional descrit pel fabricant.
-- **Límits editorials:** atribuir explícitament el comportament a la documentació del fabricant; no presentar-lo com a prova pròpia ni com a regla universal de totes les pintures.
-
-### Figura 4.3 — Mescla additiva RGB i mescla sostractiva CMY
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartats 4.3.2–4.3.3..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartats 4.3.2–4.3.3.
-- **Remissió textual proposada:** «La Figura 4.3 mostra mescla additiva RGB i mescla sostractiva CMY.»
-- **Llegenda de treball:** «Comparació entre la mescla additiva de llum RGB i la mescla sostractiva CMY de pigments o colorants.».
-- **Nucli de representació:** dos esquemes independents però comparables: llum vermella, verda i blava; cian, magenta i groc.
-- **Funció didàctica:** evitar la confusió entre mescla de llum i mescla de pigments.
-- **Límits editorials:** no suggerir que les pintures comercials reprodueixen un model ideal.
-
-### Figura 4.4 — Dimensions del color: matís, valor i croma
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 4.4..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 4.4.
-- **Remissió textual proposada:** «La Figura 4.4 mostra dimensions del color: matís, valor i croma.»
-- **Llegenda de treball:** «Dimensions del color —matís, valor i croma— representades en un espai tridimensional i en tres escales independents.».
-- **Nucli de representació:** esquema inspirat en Munsell amb els tres eixos i escales separades de variació.
-- **Funció didàctica:** facilitar la comprensió i comparació de les tres dimensions.
-- **Límits editorials:** no representar l'espai com un sòlid geomètric regular ni utilitzar croma com a sinònim universal de saturació.
-
-### Figura 4.6 — Harmonies cromàtiques
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 4.6..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 4.6.
-- **Remissió textual proposada:** «La Figura 4.6 mostra harmonies cromàtiques.»
-- **Llegenda de treball:** «Relacions cromàtiques monocromàtiques, anàlogues, complementàries i complementàries dividides.».
-- **Nucli de representació:** làmina de relacions sobre el cercle cromàtic RYB quan aquest sigui el model utilitzat al text.
-- **Funció didàctica:** facilitar la consulta visual de les relacions entre colors.
-- **Límits editorials:** incloure només les harmonies definides al capítol; no presentar-les com a fórmules que garanteixin un resultat atractiu.
-
-### Figura 4.7 — Tipus de contrast cromàtic
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 4.7..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 4.7.
-- **Remissió textual proposada:** «La Figura 4.7 mostra tipus de contrast cromàtic.»
-- **Llegenda de treball:** «Comparació dels contrastos de matís, valor, croma, temperatura i context cromàtic.».
-- **Nucli de representació:** panells comparatius que aïllin cada tipus de contrast.
-- **Funció didàctica:** mostrar com els contrastos separen superfícies i estableixen jerarquia visual.
-- **Límits editorials:** no confondre contrast de valor amb contrast de matís ni reduir la jerarquia a la saturació.
-
-### Figura 4.8 — Mescla i modificació cromàtica
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 4.8..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 4.8.
-- **Remissió textual proposada:** «La Figura 4.8 mostra mescla i modificació cromàtica.»
-- **Llegenda de treball:** «Quatre processos diferenciats: mescla física, modificació amb un tercer color, mescla òptica i superposició transparent.».
-- **Nucli de representació:** seqüència comparativa dels quatre processos sobre mostres esquemàtiques.
-- **Funció didàctica:** distingir processos que poden produir canvis visuals semblants però no són equivalents.
-- **Límits editorials:** les mostres digitals són conceptuals, no proves experimentals de pintures reals.
-
-### Figura 4.9 — Planificació cromàtica d'una miniatura amb armadura blava
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 4.9..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 4.9.
-- **Remissió textual proposada:** «La Figura 4.9 mostra planificació cromàtica d'una miniatura amb armadura blava.»
-- **Llegenda de treball:** «Planificació d'una paleta per a una miniatura amb armadura blava: color dominant, secundaris, accents i relacions entre zones.».
-- **Nucli de representació:** cas aplicat anotat amb la intenció cromàtica i la distribució de colors.
-- **Funció didàctica:** mostrar com els conceptes del capítol es converteixen en una planificació cromàtica concreta.
-- **Límits editorials:** no afegir receptes ni mescles que el text no descrigui; la planificació ha de poder revisar-se.
-
-### Figura 5.4 — Orientació dels plans respecte de la font
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 5.3.1..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 5.3.1.
-- **Remissió textual proposada:** «La Figura 5.4 mostra orientació dels plans respecte de la font.»
-- **Llegenda de treball:** «Diferents orientacions de superfície davant d'una mateixa font lluminosa i les normals geomètriques corresponents.».
-- **Nucli de representació:** diversos plans amb orientacions diferents; les normals s'han de representar com a referències perpendiculars a cada pla.
-- **Funció didàctica:** relacionar orientació de superfície i incidència de la llum.
-- **Límits editorials:** la normal no és un raig de llum ni una trajectòria de propagació.
-
-### Figura 5.6 — Angle d'incidència i llei de la reflexió
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 5.3.2; remissió conceptual a 5.4.1..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 5.3.2; remissió conceptual a 5.4.1.
-- **Remissió textual proposada:** «La Figura 5.6 mostra angle d'incidència i llei de la reflexió.»
-- **Llegenda de treball:** «Angle d'incidència i angle de reflexió mesurats respecte de la normal geomètrica.».
-- **Nucli de representació:** superfície, normal, raig incident i raig reflectit; dos panells si cal separar incidència i reflexió.
-- **Funció didàctica:** aclarir la convenció angular i preservar la relació entre incidència i reflexió.
-- **Límits editorials:** no mesurar els angles respecte del pla ni sobrecarregar un únic esquema. La proposta 5.14 no es produirà com a figura independent.
-
-### Figura 5.7 — Il·luminació de superfícies planes i corbes
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartats 5.3.1 i 5.3.4..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartats 5.3.1 i 5.3.4.
-- **Remissió textual proposada:** «La Figura 5.7 mostra il·luminació de superfícies planes i corbes.»
-- **Llegenda de treball:** «Distribució de la il·luminació sobre un pla d'orientació constant i una superfície corba amb normals variables.».
-- **Nucli de representació:** comparació de seccions geomètriques sota condicions de llum equivalents.
-- **Funció didàctica:** relacionar els canvis d'orientació amb les variacions d'il·luminació.
-- **Límits editorials:** no afirmar que qualsevol degradat demostra curvatura; considerar la font, l'entorn i el material.
-
-### Figura 5.11 — Bloqueig de llum i formació de l'ombra
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 5.5.1..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 5.5.1.
-- **Remissió textual proposada:** «La Figura 5.11 mostra bloqueig de llum i formació de l'ombra.»
-- **Llegenda de treball:** «Relació espacial entre font lluminosa, objecte bloquejador i superfície receptora de l'ombra.».
-- **Nucli de representació:** esquema de font, objecte i superfície, amb bloqueig total o parcial.
-- **Funció didàctica:** mostrar la relació espacial que origina l'ombra.
-- **Límits editorials:** no anticipar la classificació entre ombra pròpia i projectada.
-
-### Figura 5.12 — Ombra pròpia i ombra projectada
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 5.5.2..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 5.5.2.
-- **Remissió textual proposada:** «La Figura 5.12 mostra ombra pròpia i ombra projectada.»
-- **Llegenda de treball:** «Diferència entre l'ombra situada sobre l'objecte i l'ombra projectada sobre una altra superfície.».
-- **Nucli de representació:** dos panells amb una mateixa font i una geometria coherent.
-- **Funció didàctica:** evitar la confusió entre les dues localitzacions de l'ombra.
-- **Límits editorials:** mantenir constants les condicions de comparació.
-
-### Figura 5.13 — Umbra i penombra
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 5.5.3..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 5.5.3.
-- **Remissió textual proposada:** «La Figura 5.13 mostra umbra i penombra.»
-- **Llegenda de treball:** «Formació de l'umbra i la penombra quan una font extensa queda bloquejada parcialment.».
-- **Nucli de representació:** font extensa, objecte bloquejador i superfície receptora amb les dues regions identificades.
-- **Funció didàctica:** explicar el bloqueig complet i parcial de la font.
-- **Límits editorials:** la penombra ha de correspondre al bloqueig parcial de la font, no a una gradació decorativa.
-
-### Figura 5.15 — Construcció visual del volum
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 5.7..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 5.7.
-- **Remissió textual proposada:** «La Figura 5.15 mostra construcció visual del volum.»
-- **Llegenda de treball:** «Senyals visuals que suggereixen profunditat i volum: llums, ombres, contorns, reflexos, orientació i superposició.».
-- **Nucli de representació:** comparació anotada entre un objecte tridimensional i la seva representació bidimensional.
-- **Funció didàctica:** mostrar com diferents senyals visuals contribueixen a la percepció del volum.
-- **Límits editorials:** no atribuir totes les transicions a la curvatura ni confondre fenomen físic i interpretació pictòrica.
-
-### Figura 5.16 — Anàlisi d'il·luminació d'una miniatura
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 5.8.4..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 5.8.4.
-- **Remissió textual proposada:** «La Figura 5.16 mostra anàlisi d'il·luminació d'una miniatura.»
-- **Llegenda de treball:** «Anàlisi d'una miniatura: font principal, plans, llum directa, zones protegides, ombres i aportacions de l'entorn.».
-- **Nucli de representació:** miniatura esquemàtica anotada amb els elements d'il·luminació rellevants.
-- **Funció didàctica:** integrar els fonaments del capítol en un cas pràctic d'observació.
-- **Límits editorials:** mantenir coherència espacial; no incorporar el procediment complet d'OSL.
-
-### Figura 6.1 — Material, aparença i representació pictòrica
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 6.1..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 6.1.
-- **Remissió textual proposada:** «La Figura 6.1 mostra material, aparença i representació pictòrica.»
-- **Llegenda de treball:** «Del material real als indicis visuals percebuts i a la seva representació pictòrica simplificada.».
-- **Nucli de representació:** esquema de tres nivells connectats.
-- **Funció didàctica:** mostrar que representar un material consisteix a comunicar-ne els indicis visuals rellevants, no a reproduir-ne la composició física.
-- **Límits editorials:** no suggerir que l'aparença permet deduir sempre la composició del material.
-
-### Figura 6.4 — Respostes òptiques dels materials
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 6.4..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 6.4.
-- **Remissió textual proposada:** «La Figura 6.4 mostra respostes òptiques dels materials.»
-- **Llegenda de treball:** «Comparació de superfícies amb reflexos definits, estesos, fragmentats o poc perceptibles.».
-- **Nucli de representació:** mostres de diferents respostes superficials i materials.
-- **Funció didàctica:** mostrar com la resposta òptica contribueix al reconeixement dels materials.
-- **Límits editorials:** no incloure normals, angles ni lleis físiques de reflexió; evitar duplicar C5 i els acabats de C37.
-
-### Figura 6.5 — Opacitat, transparència i translucidesa
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartats 6.4.1–6.4.2..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartats 6.4.1–6.4.2.
-- **Remissió textual proposada:** «La Figura 6.5 mostra opacitat, transparència i translucidesa.»
-- **Llegenda de treball:** «Informació del fons conservada, difuminada o no transmesa a través de materials transparents, translúcids i opacs.».
-- **Nucli de representació:** tres materials davant d'un mateix fons.
-- **Funció didàctica:** visualitzar quina informació es conserva, es difumina o desapareix en travessar el material.
-- **Límits editorials:** distingir transmissió de llum i visibilitat d'una imatge; no confondre amb la cobertura de pintura del C3.
-
-### Figura 6.7 — Identificació de materials mitjançant senyals combinades
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 6.5.1..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 6.5.1.
-- **Remissió textual proposada:** «La Figura 6.7 mostra identificació de materials mitjançant senyals combinades.»
-- **Llegenda de treball:** «Materials diferents que comparteixen un indici visual però es diferencien per estructura, textura i resposta òptica.».
-- **Nucli de representació:** comparació de materials amb indicis compartits i indicis diferenciadors.
-- **Funció didàctica:** demostrar que la identificació depèn de la combinació de senyals.
-- **Límits editorials:** cap característica aïllada s'ha de presentar com a prova definitiva.
-
-### Figura 6.8 — Simplificació i jerarquia visual a escala miniatura
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 6.6..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 6.6.
-- **Remissió textual proposada:** «La Figura 6.8 mostra simplificació i jerarquia visual a escala miniatura.»
-- **Llegenda de treball:** «De la referència material a la selecció dels indicis essencials i la seva representació simplificada a escala miniatura.».
-- **Nucli de representació:** seqüència referència–selecció–representació.
-- **Funció didàctica:** mostrar com adaptar la informació visual sense saturar la superfície de detalls.
-- **Límits editorials:** no afegir detalls que l'escala no permeti llegir.
-
-### Figura 7.2 — Components i característiques funcionals del pinzell
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 7.3.1..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 7.3.1.
-- **Remissió textual proposada:** «La Figura 7.2 mostra components i característiques funcionals del pinzell.»
-- **Llegenda de treball:** «Components del pinzell i formes de punta: pèl o filament, virolla i mànec.».
-- **Nucli de representació:** esquema anatòmic del pinzell i comparació de diferents puntes.
-- **Funció didàctica:** identificar els components i comprendre criteris bàsics de selecció.
-- **Límits editorials:** no atribuir superioritat universal a un material ni associar mida directament amb precisió.
-
-### Figura 7.4 — Comparació de sistemes d'aplicació
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 7.3.7..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 7.3.7.
-- **Remissió textual proposada:** «La Figura 7.4 mostra comparació de sistemes d'aplicació.»
-- **Llegenda de treball:** «Aplicació manual amb pinzell, pulverització amb aerògraf i aplicació amb aerosol pressuritzat.».
-- **Nucli de representació:** tres panells amb el principi funcional de cada sistema.
-- **Funció didàctica:** distingir l'aplicació manual, la pulverització amb aire comprimit i els envasos pressuritzats.
-- **Límits editorials:** no afegir pressions, distàncies o valors universals.
-
-### Figura 7.5 — Seqüència de preparació d'una miniatura
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 7.4..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 7.4.
-- **Remissió textual proposada:** «La Figura 7.5 mostra seqüència de preparació d'una miniatura.»
-- **Llegenda de treball:** «Inspecció, eliminació de rebaves i línies de motlle, neteja, muntatge, correcció de juntes i comprovació final.».
-- **Nucli de representació:** seqüència d'acondicionament del suport amb un detall esquemàtic abans/després d'eliminar una imperfecció.
-- **Funció didàctica:** ordenar la preparació i mostrar quins defectes cal detectar.
-- **Límits editorials:** els detalls abans/després han de ser esquemàtics o documentats; no atribuir defectes a productes sense prova.
-
-### Figura 7.6 — Control de la imprimació
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 7.5..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 7.5.
-- **Remissió textual proposada:** «La Figura 7.6 mostra control de la imprimació.»
-- **Llegenda de treball:** «Comparació de cobertura insuficient, adequada i excessiva i de la conservació del detall.».
-- **Nucli de representació:** tres estats de cobertura sobre geometries equivalents.
-- **Funció didàctica:** facilitar la detecció de problemes en la preparació del suport.
-- **Límits editorials:** si es mostren productes reals, calen mostres comparables documentades; altrament, esquema conceptual.
-
-### Figura 7.7 — Preparació operativa de pintures
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 7.6..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 7.6.
-- **Remissió textual proposada:** «La Figura 7.7 mostra preparació operativa de pintures.»
-- **Llegenda de treball:** «Comprovació del producte, homogeneïtzació, dosificació, prova i ajust de consistència quan correspongui.».
-- **Nucli de representació:** seqüència operativa amb les accions diferenciades.
-- **Funció didàctica:** evitar que homogeneïtzació, dosificació i dilució s'interpretin com una mateixa operació.
-- **Límits editorials:** no incloure proporcions o valors universals; seguir les indicacions del fabricant.
-
-### Figura 11.1 — Diferència entre rentat, tinta i pigment en pols
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 11.1..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 11.1.
-- **Remissió textual proposada:** «La Figura 11.1 mostra diferència entre rentat, tinta i pigment en pols.»
-- **Llegenda de treball:** «Comparació de la naturalesa, presentació i comportament del rentat, la tinta i el pigment en pols.».
-- **Nucli de representació:** tres famílies de procediment amb els seus trets diferenciadors.
-- **Funció didàctica:** distingir productes i procediments que no són equivalents.
-- **Límits editorials:** no atribuir una composició química única a tots els productes d'una família.
-
-### Figura 11.3 — Rentat general i rentat localitzat
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartats 11.2.3–11.2.4..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartats 11.2.3–11.2.4.
-- **Remissió textual proposada:** «La Figura 11.3 mostra rentat general i rentat localitzat.»
-- **Llegenda de treball:** «Comparació entre l'aplicació general d'un rentat i la seva aplicació localitzada sobre relleus i cavitats.».
-- **Nucli de representació:** geometries equivalents amb aplicació extensa i aplicació localitzada; incloure el panell de distribució sobre relleus de 11.2.
-- **Funció didàctica:** mostrar com canvien la distribució i el control segons la modalitat.
-- **Límits editorials:** no representar acumulacions involuntàries com a resultat desitjat; adaptar el comportament a la geometria i al producte.
-
-### Figura 11.5 — Aplicació de pigments en sec
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartats 11.4.2 i 11.7.4..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartats 11.4.2 i 11.7.4.
-- **Remissió textual proposada:** «La Figura 11.5 mostra aplicació de pigments en sec.»
-- **Llegenda de treball:** «Seqüència d'aplicació de pigment sec: càrrega, dipòsit, distribució i retirada de l'excés.».
-- **Nucli de representació:** quatre fases consecutives del procediment.
-- **Funció didàctica:** explicar el control de la quantitat i la distribució del pigment.
-- **Límits editorials:** distingir l'aplicació en sec de la dispersió o mescla; no simular mostres reals sense proves.
-
-### Figura 11.6 — Pigment sec i pigment fixat
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartats 11.4.5 i 11.7.5..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartats 11.4.5 i 11.7.5.
-- **Remissió textual proposada:** «La Figura 11.6 mostra pigment sec i pigment fixat.»
-- **Llegenda de treball:** «Comparació de l'aparença i la distribució del pigment abans i després de la fixació.».
-- **Nucli de representació:** dues mostres equivalents abans i després d'aplicar un fixador.
-- **Funció didàctica:** mostrar que la fixació pot modificar l'aparença i la permanència del pigment.
-- **Límits editorials:** només presentar-ho com a resultat real amb fotografies de proves documentades; altrament, esquema conceptual sense atribució a un producte concret.
-
-### Figura 11.8 — Errors freqüents en rentats, tintes i pigments
-
-- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
-- **Ubicació editorial F10:** apartat 11.8..
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat apartat 11.8.
-- **Remissió textual proposada:** «La Figura 11.8 mostra errors freqüents en rentats, tintes i pigments.»
-- **Llegenda de treball:** «Errors de rentat, acumulació, intensitat de tinta, distribució de pigment i canvis després de la fixació.».
-- **Nucli de representació:** làmina diagnòstica amb excés de rentat, manca de concentració a cavitats, acumulacions involuntàries, tinta massa intensa, pigment irregular i dipòsits massa uniformes.
-- **Funció didàctica:** relacionar símptomes amb criteris de correcció.
-- **Límits editorials:** cada exemple ha de correspondre als errors del capítol; no reduir causes múltiples a una causa única.
-
 ## Control de la tanda
 
-- Composicions descrites: **188**.
-- Identificadors P1 traçats: **46**.
+- Composicions descrites: **62**.
+- Identificadors P1 traçats: **64**.
 - Imatges generades o inserides: **0**.
 - Capítols modificats: **0**.
 - Versió mestra sense imatges: **inalterada**.

@@ -41,7 +41,7 @@ def add_toc_field(paragraph):
     run = paragraph.add_run()
     begin = OxmlElement("w:fldChar"); begin.set(qn("w:fldCharType"), "begin")
     instr = OxmlElement("w:instrText"); instr.set(qn("xml:space"), "preserve")
-    instr.text = ' TOC \\o "1-3" \\h \\z \\u '
+    instr.text = ' TOC \\o "1-2" \\h \\z \\u '
     separate = OxmlElement("w:fldChar"); separate.set(qn("w:fldCharType"), "separate")
     text = OxmlElement("w:t"); text.text = "Actualitzeu la taula de continguts en obrir el document a Word."
     end = OxmlElement("w:fldChar"); end.set(qn("w:fldCharType"), "end")

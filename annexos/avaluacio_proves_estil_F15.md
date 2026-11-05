@@ -80,7 +80,19 @@ Cap prototip no es considera aprovat fins que s'hagin completat aquests controls
 5. Confirmar que no s'hi han afegit dades, mesures, marques ni resultats no documentats.
 6. Registrar qualsevol correcció i conservar versions anteriors.
 
-## 5. Estat de producció
+## 5. Verificació de repositori i integritat bàsica
+
+Després de crear els quatre SVG s'ha tornat a consultar cada fitxer a GitHub:
+
+- Els quatre fitxers existeixen a la branca de treball i presenten una única arrel `<svg>` amb tancament corresponent.
+- Els identificadors interns utilitzats per a patrons, filtres i escenes estan declarats; les dues referències a l'escena de vidre apunten a l'element declarat.
+- F13 conserva 150 composicions úniques i 156 identificadors P1 únics.
+- Els quatre registres pilot enllacen directament amb els SVG corresponents.
+- La compilació consolidada conserva el SHA `193b7b0fa60e10fef7dc46910b03957c2f9c3a5a`.
+
+Aquesta és una comprovació d'integritat del contingut i de la traçabilitat a GitHub, **no** una validació de renderització. Encara cal obrir els SVG en un renderitzador compatible i comprovar-ne el resultat visual a mida de pàgina abans d'aprovar-los.
+
+## 6. Estat de producció
 
 | Element | Estat |
 |---|---|
@@ -94,7 +106,7 @@ Cap prototip no es considera aprovat fins que s'hagin completat aquests controls
 
 Els quatre registres corresponents de F13 passen a «Prototip vectorial v01 · en revisió». Les altres 146 composicions continuen pendents d'encàrrec.
 
-## 6. Decisió de continuïtat
+## 7. Decisió de continuïtat
 
 No s'ha d'estendre encara l'estil a les altres 146 figures. Primer cal validar la renderització i la lectura dels quatre SVG. Si els quatre casos superen la revisió, es podrà congelar una primera guia visual comuna i començar la producció per tandes. Si un cas falla, es corregirà abans d'estendre'n les convencions.
 

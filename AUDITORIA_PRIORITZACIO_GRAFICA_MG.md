@@ -109,8 +109,8 @@ Aquesta priorització és temàtica, no una assignació definitiva de P1/P2/P3 a
 
 ## 5. Incidències documentals detectades en el fitxer de propostes
 
-- El bloc identificat com a criteris de producció de C3 inclou subseccions de C33–C35; cal conservar-ne el contingut però normalitzar l'organització i els encapçalaments per evitar que sembli part de C3.
-- El bloc de C4 conté fragments de prosa del capítol original entre les descripcions de figures. Aquests fragments no són propostes gràfiques i s'han de separar o retirar del document de planificació sense tocar el capítol lector.
+- A C3 hi havia dos encapçalaments consecutius per als mateixos criteris gràfics. S'han normalitzat en un únic subencapçalament «Criteris de producció gràfica (C3)»; no s'ha detectat que aquest bloc incorpori subseccions de C33–C35.
+- A C4 hi havia fragments de prosa original intercalats entre les propostes. S'han traslladat íntegrament a `ARXIU_FRAGMENTS_TEXTUALS_C4_SEPARATS_DE_MG.md` i retirat del registre gràfic. El coteig amb la compilació consolidada C1–C39 confirma que els continguts d'aquests fragments (adaptació visual, RGB, dimensions del color, harmonies, funcions cromàtiques, mescla física i errors) ja estan representats al C4 final; no s'ha identificat una recuperació textual addicional necessària.
 - Les propostes originals conserven diverses descripcions en castellà. Cal traduir-les al català durant la preparació de les figures, sense alterar-ne el sentit tècnic.
 - Algunes propostes combinen diverses comparacions o passos; cal valorar si convé una figura composta en lloc de múltiples figures separades.
 

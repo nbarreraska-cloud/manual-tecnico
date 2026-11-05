@@ -9056,32 +9056,191 @@ El pergamí ha de conservar una aparença relativament rígida, amb vores, ondul
 
 ## 22.10. Control, errors i avaluació
 
-Errors principals i correccions:
-1. **Un sol marró per a tots els cuirs:** identificar el material i seleccionar una família cromàtica específica.
-2. **Línies paral·leles:** variar direcció, longitud i distribució; utilitzar-les només si corresponen a l'estructura.
-3. **Excés de marques:** reduir la textura i preservar geometria i lectura.
-4. **Confondre ante i nobuk:** suggerir una textura més fibrosa per a l'ante i més fina i pròxima al gra per al nobuk, quan l'escala ho permeti.
-5. **Reflexos intensos en superfícies mates:** reduir-ne definició i extensió.
-6. **Enfosquir uniformement per simular envelliment:** combinar canvis de to, marques i desgast localitzat.
-7. **Representar humitat només amb negre o blau:** considerar distribució, material i reflexos.
-8. **Desgast uniforme:** concentrar-lo en vores, punts de contacte i zones exposades.
-9. **Ignorar la geometria:** adaptar plecs, costures i marques a la construcció.
-10. **Confondre color i acabat:** planificar separadament el to del material i el seu brillantor.
+### 22.10.1. Errors freqüents i correccions
 
-L'avaluació comprova que el material es reconeix, la família cromàtica és coherent, la textura correspon a l'escala, els plecs segueixen la geometria, els cantells i costures són proporcionats, l'acabat és adequat i les marques d'ús són selectives. No cal aplicar tots els recursos a cada peça.
+| Error | Problema que produeix | Correcció |
+|---|---|---|
+| Utilitzar un únic marró per a tots els cuirs | Una mateixa família cromàtica no permet representar indistintament cuir natural, ante, nobuk, cuir polit i pergamí. | Identificar primer el material i seleccionar una combinació adequada a la seva aparença. |
+| Representar el cuir mitjançant línies paral·leles | Les línies regulars poden fer que la superfície sembli fusta o teixit. | Variar la direcció, la longitud i la distribució de les marques i utilitzar-les només quan corresponguin a l'estructura. |
+| Excés de vetes i marques superficials | Una textura massa densa pot ocultar la geometria i perjudicar la lectura del material. | Reduir el nombre de marques i reservar-les per a les zones on aportin informació visual. |
+| Confondre ante i nobuk | Tots dos poden semblar afelpats, però no procedeixen de la mateixa cara de la pell. | Suggerir una textura més clarament fibrosa per a l'ante i una de més fina i pròxima al gra per al nobuk, quan l'escala ho permeti. |
+| Utilitzar reflexos massa definits en superfícies mates | Els reflexos intensos poden fer que l'ante sembli cuir polit o una superfície plàstica. | Reduir la definició i l'extensió dels reflexos i prioritzar variacions més difuses. |
+| Enfosquir uniformement per simular envelliment | L'envelliment no implica necessàriament una reducció uniforme del valor. | Combinar canvis de to, marques, desgast localitzat i diferències entre zones exposades i protegides. |
+| Representar la humitat només amb negre o blau | La humitat pot modificar l'aparença, però no s'ha de reduir a una capa fosca uniforme. | Considerar la distribució de la humitat, el material de base i la variació dels reflexos. |
+| Aplicar el desgast de manera uniforme | Un desgast homogeni pot fer que la peça sembli artificial. | Concentrar les variacions en vores, punts de contacte i zones exposades, atenent a l'ús representat. |
+| Ignorar la geometria de la peça | Els plecs, les costures i les marques perden credibilitat si no segueixen la forma de l'objecte. | Identificar l'estructura abans d'afegir detalls i adaptar cada intervenció a la geometria. |
+| Confondre color i acabat superficial | Una superfície fosca no és necessàriament brillant, i una de clara no ha de ser obligatòriament mate. | Planificar per separat el color del material i l'aparença del seu acabat. |
+
+### 22.10.2. Criteris d'avaluació
+
+Una representació de cuir o pell pot considerar-se adequada quan:
+- La superfície es reconeix com el material previst.
+- La família cromàtica és coherent amb l'aparença buscada.
+- Les variacions de to no destrueixen la continuïtat del material.
+- La textura està adaptada a l'escala.
+- Els plecs responen a la geometria i a la flexibilitat de la peça.
+- Les vores i el gruix estan representats de manera proporcionada.
+- Les costures i els detalls segueixen la construcció de l'objecte.
+- L'acabat superficial és coherent amb l'aparença desitjada.
+- Les marques i els efectes d'ús estan distribuïts selectivament.
+- El resultat conserva una lectura clara a la distància habitual d'observació.
+
+No és necessari incorporar tots aquests recursos a cada peça. Una superfície petita pot requerir únicament una base cromàtica, algunes variacions i un perfil de vora ben definit.
 
 ## 22.11. Exercicis pràctics
 
-1. **Comparació de cuir clar i marró:** preparar mostres amb A i D i comparar matís, valor i variacions.
-2. **Cuir rogenc:** aplicar F, introduir Burnt Red i Dark Rust i comprovar que continua llegint-se com a cuir.
-3. **Cuir mat i brillant:** comparar dues superfícies de base semblant, una amb variacions suaus i una altra amb reflexos localitzats; estudiar després l'acabat segons el capítol 37.
-4. **Ante i nobuk:** preparar dues mostres amb textura fibrosa difusa i textura fina pròxima al gra.
-5. **Plecs i vores:** identificar plans, ombres, cantells, gruix i una costura en una peça flexible.
-6. **Exercici integrador:** pintar un cinturó, bossa, funda o bota; seleccionar recepta, construir ombres i variacions, afegir plecs, vores, costures i marques d'ús selectives.
+Els exercicis següents permeten practicar la selecció cromàtica i la representació de diferents superfícies de cuir i pells. Les receptes són punts de partida i s'han d'adaptar a les condicions reals d'aplicació.
+
+### 22.11.1. Comparació de cuirs clars i marrons
+
+**Objectiu:** reconèixer les diferències cromàtiques entre diverses famílies de cuir.
+
+**Materials:**
+- Deck Tan.
+- Japanese Uniform WWII.
+- Parasite Brown.
+- Dark Rust.
+- Ivory.
+- Suport de prova.
+
+**Procediment:**
+1. Preparar diverses superfícies de prova.
+2. Construir una mostra de cuir clar utilitzant la recepta A.
+3. Construir una mostra de cuir marró mitjançant la recepta D.
+4. Comparar les diferències de matís i valor.
+5. Introduir petites variacions de to.
+6. Avaluar quins senyals permeten diferenciar les dues superfícies.
+
+**Avaluació:** comprovar si les dues mostres mantenen una identitat visual diferenciada sense dependre únicament de la intensitat del color.
+
+### 22.11.2. Construcció de cuir rogenc
+
+**Objectiu:** representar un cuir de tendència càlida i rogenca.
+
+**Materials:**
+- Parasite Brown.
+- Burnt Red.
+- Dark Rust.
+- Japanese Uniform WWII.
+- Deck Tan.
+
+**Procediment:**
+1. Establir la base amb Parasite Brown.
+2. Introduir Burnt Red a les zones on es vulgui reforçar la tendència rogenca.
+3. Construir les ombres amb Dark Rust.
+4. Recuperar variacions mitjanes amb Japanese Uniform WWII.
+5. Afegir aclarits selectius amb Deck Tan.
+6. Avaluar la coherència de la superfície.
+
+**Avaluació:** comprovar que el material conserva una aparença de cuir rogenc i no es converteix en una superfície predominantment vermella.
+
+### 22.11.3. Comparació entre cuir mat i brillant
+
+**Objectiu:** diferenciar el color del material de l'aparença del seu acabat.
+
+**Materials:**
+- Japanese Uniform WWII.
+- Dark Rust.
+- Black.
+- Parasite Brown.
+- Ivory.
+
+**Procediment:**
+1. Dividir el suport de prova en dues superfícies.
+2. Construir una base cromàtica semblant en totes dues.
+3. A la primera, organitzar variacions suaus i poc definides.
+4. A la segona, reservar contrastos més marcats per a zones concretes.
+5. Comparar la lectura visual de les dues superfícies.
+6. Si es disposa de productes d'acabat, estudiar-ne posteriorment la influència seguint el procediment del capítol 37.
+
+**Avaluació:** identificar quines diferències permeten suggerir una superfície mate i una altra de més polida sense canviar necessàriament el color de base.
+
+### 22.11.4. Representació d'ante i nobuk
+
+**Objectiu:** practicar la diferenciació visual entre dues superfícies d'aparença afelpada.
+
+**Materials:**
+- Japanese Uniform WWII.
+- Parasite Brown.
+- Deck Tan.
+- Dark Rust.
+- Ivory.
+
+**Procediment:**
+1. Construir una mostra d'ante amb una base marró.
+2. Introduir petites variacions irregulars que suggereixin una superfície fibrosa.
+3. Construir una segona mostra de nobuk.
+4. Mantenir-hi una textura més fina i relativament uniforme.
+5. Comparar totes dues superfícies a la distància habitual d'observació.
+
+**Avaluació:** comprovar si les dues mostres presenten diferències visuals sense recórrer a una textura exagerada.
+
+### 22.11.5. Construcció de plecs i vores
+
+**Objectiu:** representar la geometria i el gruix d'una peça de cuir.
+
+**Materials:**
+- Una miniatura o una peça de prova amb una superfície flexible.
+- Una combinació cromàtica de cuir.
+- Pinzells adequats a la geometria.
+
+**Procediment:**
+1. Identificar els plecs principals.
+2. Determinar quines zones corresponen a plans exposats i protegits.
+3. Construir les ombres dels plecs.
+4. Recuperar els plans intermedis.
+5. Definir les vores i el gruix.
+6. Afegir, si escau, una costura senzilla.
+7. Avaluar la relació entre la geometria i els canvis cromàtics.
+
+**Avaluació:** comprovar que els plecs i les vores reforcen la lectura tridimensional de la peça.
+
+### 22.11.6. Exercici integrador: accessori de cuir usat
+
+**Objectiu:** integrar la selecció cromàtica, les variacions superficials i els detalls constructius en un mateix element.
+
+**Materials:**
+- Una miniatura amb cinturó, bossa, funda, bota o un altre accessori de cuir.
+- Una combinació cromàtica adequada.
+- Pinzells i suport de prova.
+
+**Procediment:**
+1. Identificar el tipus de cuir i el seu estat de conservació.
+2. Seleccionar una de les receptes proposades.
+3. Establir la base cromàtica.
+4. Construir les ombres i les variacions de to.
+5. Afegir plecs, vores i costures quan correspongui.
+6. Introduir marques d'ús de manera selectiva.
+7. Avaluar la coherència de l'acabat i la lectura general de l'accessori.
+
+**Avaluació:** comprovar si l'element es reconeix com a cuir, si la seva geometria és clara i si els efectes d'ús estan integrats sense ocultar-ne l'estructura original.
 
 ## Síntesi del capítol
 
 La representació de cuir i pells comença per identificar el tipus de superfície i el seu tractament. Cuir de gra natural o corregit, ante, nobuk, cuir rígid, cuir polit, pell sense adobar i pergamí no són intercanviables: exigeixen textures, contrastos i tractaments diferenciats. Les disset receptes A–Q ofereixen propostes cromàtiques per a cuirs clars, mitjans, rogenques, foscos, tractats i superfícies orgàniques clares. Els plecs, cantells, costures i marques han de respondre a la construcció de l'objecte i a l'escala. El color i l'acabat superficial s'han de planificar per separat.
+
+## Referències i recursos
+
+- Canadian Conservation Institute. *Caring for leather, skin and fur: Preventive conservation guidelines for collections*. Government of Canada.
+- Canadian Conservation Institute. *Care of Alum, Vegetable and Mineral-tanned Leather*. Government of Canada.
+- German Leather Federation. *Leather Production*.
+- German Leather Federation. *Leather A–Z*.
+- UNIC – Concerie Italiane. *The Production Process*.
+- Leather Working Group. *List of Definitions*.
+- European Commission, Joint Research Centre. *Best Available Techniques (BAT) Reference Document for the Tanning of Hides and Skins*.
+
+Aquestes referències fonamenten les diferències entre tipus de pell, processos de transformació i tractaments superficials. No constitueixen una validació experimental de les receptes pictòriques proposades.
+
+## Control editorial i límits de verificació
+
+- Les combinacions A–Q són propostes tècniques, no formulacions experimentades.
+- No s'atribueixen resultats físics comprovats a les pintures.
+- Les funcions cromàtiques assignades a les referències són orientatives.
+- La resposta de cada combinació depèn de la superfície, l'aplicació i les condicions d'observació.
+- La representació de pells amb pèl es limita a la seva identificació i relació amb la base material; no desenvolupa un procediment complet de pelatge.
+- La regulació de la brillantor mitjançant vernissos i productes d'acabat es reserva al capítol 37.
+- La protecció i conservació de les superfícies es desenvolupen al capítol 38.
+- El diagnòstic general d'errors i els seus procediments sistemàtics de correcció corresponen al capítol 39.
 
 ## Figures proposades per a la fase gràfica final
 
@@ -9102,8 +9261,6 @@ La representació de cuir i pells comença per identificar el tipus de superfíc
 - Receptes: disset propostes (A–Q); no s'hi afegeixen proporcions.
 - Delimitacions: pell corporal i carn al capítol 24; tèxtils al 23; acabats al 37; protecció al 38; diagnòstic general al 39.
 - Estat: síntesi basada en el document original; les combinacions són propostes no assajades.
-
-
 ---
 
 # 23. TEIXITS I TELES

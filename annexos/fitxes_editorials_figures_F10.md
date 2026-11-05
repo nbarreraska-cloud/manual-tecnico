@@ -896,17 +896,19 @@ Les fitxes següents normalitzen en català les 58 propostes addicionals de la t
 - **Representació:** Seqüència de base, variacions cromàtiques, ombres i llums per a les variants descrites.
 - **Condicions i límits:** Respectar variants i paleta disponible; no afegir productes o proporcions absents del text.
 
-#### 19.5 — Construcció de coure
-- **Ubicació:** 19.5.2.
-- **Llegenda de treball:** «Construcció de coure: Seqüència de modificació cromàtica d'una base metàl·lica disponible per suggerir coure.»
-- **Representació:** Seqüència de modificació cromàtica d'una base metàl·lica disponible per suggerir coure.
-- **Condicions i límits:** No suggerir que el catàleg conté una pintura metàl·lica específica de coure.
+#### 19.5 — Construcció de coure i bronze
+- **Ubicació:** apartats 19.5.2 i 19.6.2.
+- **Llegenda de treball:** «Construcció de coure i bronze: dues seqüències TMM diferenciades a partir de les bases metàl·liques disponibles i les modificacions cromàtiques descrites.»
+- **Representació:** dos panells coordinats: (A) coure, amb variants i modificacions taronja/vermell sobre Silver o Tinny Tin; (B) bronze, amb variants i modificacions terroses/daurades sobre Glorious Gold o Tinny Tin.
+- **Funció didàctica:** conservar en una sola composició la proposta original de construcció de coure i bronze, distingint-ne les bases, les modificacions i els criteris de diferenciació.
+- **Condicions i límits:** les receptes són propostes tècniques, no assajos; no inventar proporcions ni presentar resultats com a proves reals. No atribuir a la paleta pintures metàl·liques específiques de coure o bronze.
 
-#### 19.6 — Construcció de bronze
-- **Ubicació:** 19.6.2.
-- **Llegenda de treball:** «Construcció de bronze: Seqüència de modificació cromàtica i tonal per suggerir bronze.»
-- **Representació:** Seqüència de modificació cromàtica i tonal per suggerir bronze.
-- **Condicions i límits:** No atribuir el resultat a una pintura específica de bronze absent de la paleta.
+#### 19.6 — Comparació entre TMM i NMM
+- **Ubicació:** apartat 19.1, després de definir els dos enfocaments.
+- **Llegenda de treball:** «Comparació entre TMM i NMM: reflexos aportats per pigments metàl·lics i reflexos construïts pictòricament sobre una geometria equivalent.»
+- **Representació:** dues versions de la mateixa forma i amb una il·luminació equivalent: (A) TMM amb pintura metal·litzada i resposta reflectant del producte; (B) NMM amb pintura convencional i reflexos simulats mitjançant valors i contrastos.
+- **Funció didàctica:** fer visible la diferència entre el comportament òptic de les pintures metàl·liques i la representació pictòrica de l'aparença metàl·lica.
+- **Condicions i límits:** no presentar TMM i NMM com a materials equivalents ni suggerir que una tècnica és universalment superior.
 
 #### 19.9 — Errors i control
 - **Ubicació:** 19.9.

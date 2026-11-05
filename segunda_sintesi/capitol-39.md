@@ -138,7 +138,7 @@ No hi ha una correcció general aplicable indistintament a transparències, líq
 | Efectes especials modificats després d'envernissar | Interacció protector-material previ | Comprovar compatibilitat i valorar recuperació específica. |
 | Superfície enganxosa o inestable | Assecat insuficient, aplicació incorrecta o incompatibilitat | No manipular ni afegir productes fins identificar causa. |
 
-Els defectes de envernissament exigeixen prudència: una nova capa pot empitjorar alteració, brillantor o definició.
+Els defectes d'envernissament exigeixen prudència: una nova capa pot empitjorar alteració, brillantor o definició.
 
 ### 39.3.8. Danys físics i deteriorament posterior
 

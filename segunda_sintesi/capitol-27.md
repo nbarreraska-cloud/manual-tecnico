@@ -4,7 +4,7 @@
 
 El capítol tracta quatre àmbits: cristalls minerals, gel, neu i gemmes. Comparteixen fenòmens relacionats amb la interacció entre llum i matèria, però no són equivalents. Cal identificar geometria, cares, facetes, arestes, transparència, translucidesa o opacitat, inclusions, fractures, reflexos, acumulació i compactació. No tots els cristalls són transparents, ni totes les gemmes translúcides, ni tot el gel clar.
 
-Les receptes són propostes cromàtiques orientatives, no mescles assajades ni resultats comprovats.
+Les receptes són propostes cromàtiques orientatives, no mescles assajades ni resultats comprovats. Els efectes màgics o sobrenaturals corresponen al capítol 32 i no s'han de confondre amb la representació de cristalls o gemmes convencionals.
 
 ## 27.2. Estructura i característiques visuals
 

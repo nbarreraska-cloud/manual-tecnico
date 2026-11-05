@@ -17,6 +17,7 @@ La primera decisió consisteix a identificar què cal resoldre. No és el mateix
 | Necessitat | Consulta principal | Referències complementàries |
 |---|---|---|
 | Identificar una pintura de l'inventari | Annex A | Capítols 2 i 3 |
+| Consultar la informació documental individual d'una pintura | Annex F | Annex A i capítol 3 |
 | Comprendre i representar un material o una superfície | Capítol 6 i capítols 19–34 | Annex C |
 | Trobar una recepta concreta | Annex C | Capítols 19–34 |
 | Consultar una tècnica d'aplicació | Annex B | Capítols 7–17 |
@@ -108,9 +109,10 @@ Els fonaments es desenvolupen al capítol 4 i els criteris d'integració al cap�
 Per seleccionar productes concrets:
 
 1. Consultar l'Annex A per identificar les pintures disponibles.
-2. Revisar el capítol 3 per aplicar els criteris d'interpretació de les propietats i característiques documentades; no s'hi han de deduir propietats individuals que no estiguin verificades.
-3. Consultar l'Annex D quan es necessiti una mescla o combinació cromàtica documentada.
-4. Comprovar la recepta original i la seva funció abans de modificar la selecció.
+2. Revisar el capítol 3 per aplicar els criteris d'interpretació de les propietats i característiques documentades.
+3. Consultar l'Annex F per revisar la informació individual disponible, les fonts i els límits documentals de cada pintura. Les dades de família no s'han de presentar com a propietats individuals verificades.
+4. Consultar l'Annex D quan es necessiti una mescla o combinació cromàtica documentada.
+5. Comprovar la recepta original i la seva funció abans de modificar la selecció.
 
 No s'han de deduir propietats tècniques únicament del nom comercial o del color aparent. Tampoc no s'han d'assignar proporcions que no estiguin documentades.
 
@@ -214,7 +216,7 @@ La selecció i la planificació s'han d'entendre com un procés de presa de deci
 
 L'objectiu visual determina quins materials i efectes s'han de representar. Aquests condicionen la selecció de receptes, pintures i tècniques. La geometria, l'accessibilitat i les dependències entre operacions determinen l'organització del treball.
 
-Els annexos A–D faciliten la localització de pintures, tècniques, receptes i formulacions. Els capítols 1–39 contenen els fonaments i procediments necessaris per comprendre i executar les decisions.
+Els annexos A–F faciliten la localització de pintures, tècniques, receptes, formulacions i fitxes individuals. Els capítols 1–39 contenen els fonaments i procediments necessaris per comprendre i executar les decisions.
 
 La guia no pretén oferir una solució tancada per a cada miniatura, sinó facilitar que el lector trobi la informació adequada, seleccioni els recursos necessaris i organitzi un procés coherent i adaptable.
 
@@ -226,6 +228,6 @@ La guia no pretén oferir una solució tancada per a cada miniatura, sinó facil
 - No s'han d'afegir proporcions no documentades.
 - La planificació és flexible i no estableix una seqüència universal.
 - La comprovació final no substitueix l'avaluació durant l'execució.
-- Les remissions s'han contrastat amb l'estructura vigent dels capítols 1–39 i dels annexos A–D.
+- Les remissions s'han contrastat amb l'estructura vigent dels capítols 1–39 i dels annexos A–F.
 
 

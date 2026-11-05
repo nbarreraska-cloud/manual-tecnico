@@ -94,7 +94,9 @@ La referència actual és d'aproximadament 300 pàgines per als 39 capítols sen
 
 **F8 — resultat:** auditoria textual completada. S'han comprovat els 39 títols i l'ordre dels capítols, la correspondència entre fitxers i compilació (38 coincidències exactes i una discrepància ortogràfica a C28, corregida), la numeració, les taules, els residus editorials, els annexos A–E, les 48 fitxes i els 49 destinataris interns de l'Annex A. La correcció de C28 normalitza dues aparicions de «gema» a «gemma». No s'han identificat incidències estructurals addicionals. Les receptes i les fitxes continuen sense validació experimental. El registre detallat és `annexos/auditoria_F8_2026-11-05.md`.
 
-**F9 — primera generació completada (05/11/2026); revisió editorial oberta:** el DOCX s'ha generat correctament mitjançant GitHub Actions (execució 42074514905). La comprovació PDF dona 339 pàgines A4. Conté 39 capítols, annexos A–F, 48 fitxes úniques amb 336 seccions numerades i quatre agrupacions comercials. L'Annex F s'ha mostrat compacte en les pàgines examinades. Resten la revisió visual integral, la comprovació de fidelitat i l'actualització/verificació de l'índex automàtic. Registre: `annexos/registre_F9_maquetacio_2026-11-05.md`. F9 continua oberta. No iniciar F10 ni inserir imatges durant F9.
+**F9 — tancada (05/11/2026):** la maqueta textual sense imatges s'ha regenerat i validat a la branca de treball, incloent els ajustos de l'Annex F i la paginació. El registre detallat i els límits de verificació consten a `annexos/registre_F9_maquetacio_2026-11-05.md`. La paginació continuarà sent provisional fins a integrar les imatges a F11 i repaginar a F12.
+
+**F10 — iniciada (05/11/2026):** revisió i selecció gràfica de les 243 propostes. La preselecció de les quatre tandes (C1–C3, C4–C7/C11, C15–C24 i C30–C39) ja està registrada; resten el coteig detallat de les P1, la decisió definitiva de les P2 i les fusions P3, la traducció/neteja de les descripcions originals i la llista final de producció. Registre: `annexos/registre_F10_seleccio_grafica_2026-11-05.md`. No s'han produït ni inserit imatges.
 
 
 ## 7. Registre d'inici de F9 — 05/11/2026
@@ -107,3 +109,12 @@ F9 s'ha iniciat sense modificar contingut tècnic aprovat. La composició i el p
 La segona generació de la maqueta ha finalitzat correctament a GitHub Actions (run 42075834908). S'han corregit al generador els salts que provocaven pàgines pràcticament buides i la numeració automàtica acumulativa de llistes. L'índex s'ha actualitzat i ajustat als nivells 1–2; la versió de comprovació resultant té 352 pàgines A4, amb índex a les pàgines 2–12. L'escaneig no detecta pàgines pràcticament buides i les mostres visuals examinades són llegibles.
 
 F9 continua oberta: falta la comparació textual exhaustiva amb totes les fonts Markdown i una inspecció visual completa de les pàgines i taules. No iniciar F10 fins a completar aquestes comprovacions. Vegeu `annexos/registre_F9_maquetacio_2026-11-05.md`.
+
+
+## 9. Tancament F9 i inici F10 — 05/11/2026
+
+F9 queda tancada en el seu abast aprovat: maquetació textual completa sense imatges dels 39 capítols i els annexos A–F. Els ajustos finals de l'Annex F, el registre de paginació i els artefactes Word/PDF es documenten a `annexos/registre_F9_maquetacio_2026-11-05.md`. Les anotacions dels apartats 7 i 8 d'aquest pla descriuen generacions anteriors i s'han de llegir com a historial, no com a estat vigent.
+
+S'inicia F10 — revisió i selecció gràfica. La classificació preliminar de les 243 propostes (157 P1, 83 P2 i 3 P3) no implica que totes s'hagin de produir. El registre d'execució és `annexos/registre_F10_seleccio_grafica_2026-11-05.md`. Les primeres quatre tandes tenen una preselecció documentada; la validació detallada de cada proposta, la revisió definitiva de P2/P3, la depuració de les descripcions i la llista final de figures continuen pendents. No s'iniciarà F11 fins que F10 estigui tancada.
+
+**Protecció:** continuar exclusivament a `intervencion-editorial-2026-11`. No modificar `main`, no fusionar la PR #1 i no inserir imatges durant F10.

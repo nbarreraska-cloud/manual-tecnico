@@ -120,4 +120,4 @@ Aquest índex es complementa amb l'Annex C, dedicat a la localització de recept
 - L'índex localitza continguts, però no substitueix les explicacions completes dels capítols.
 - Les receptes i les combinacions cromàtiques es localitzen a l'Annex C; les mescles i formulacions, a l'Annex D.
 
-**Control de regeneració F5:** 63 entrades. Totes les remissions indicades corresponen a apartats existents. S'ha incorporat la combinació de tècniques de textura (13.7), ampliat la localització de transparències i translucidesa (14.5–14.7) i ajustat la delimitació de les aplicacions de terra, pols, fang i brutícia (29.2–29.6). No s'han modificat els procediments ni les receptes dels capítols.
+

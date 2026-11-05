@@ -228,3 +228,8 @@ La forma `vernís` i el verb `envernissar` coincideixen amb el DIEC; TERMCAT rec
 - S'han corregit les concordances de «brillantor» a C22, C23, C31, C33, C34 i C37. La comprovació dirigida dels 39 Markdown no ha detectat altres aparicions de les formes masculines errònies.
 - A C33, sis aparicions de «hendidures» s'han normalitzat com a «cavitats», d'acord amb el sentit de depressions o zones enfonsades en els contextos de relleu de les receptes.
 - No s'han modificat receptes, ingredients, proporcions ni procediments. C33–C34 continuen protegits quant al contingut tècnic.
+
+
+### Auditoria semàntica de remissions — blocs C19–C29, C30–C32 i C35–C39 (05/11/2026)
+
+S'ha revisat la coherència funcional de les remissions entre els capítols dels blocs indicats. No s'han identificat remissions incorrectes que justifiquin canvis de contingut. Es mantenen les delimitacions entre material i efectes (C19–C27), corrosió i pàtines (C28), brutícia i dipòsits (C29), foc (C30), sang i fluids (C31), efectes sobrenaturals (C32), integració cromàtica (C35), desgast (C36), acabats (C37), protecció i conservació (C38) i diagnòstic (C39). Aquesta passada és una auditoria semàntica de remissions; no constitueix un nou coteig integral de tots els procediments amb la font original. No s'han modificat capítols tècnics, receptes, ingredients ni procediments.

@@ -1,6 +1,6 @@
 # REGISTRE MESTRE DE RECUPERACIONS EDITORIALS
 **Manual tècnic de pintura de miniatures**  
-**Versió:** 1.67 · **Data:** 05/11/2026  
+**Versió:** 1.68 · **Data:** 05/11/2026  
 **Branca:** intervencion-editorial-2026-11
 
 ## 1. Funció i abast
@@ -19,7 +19,7 @@ Aquests 39 Markdown són la representació operativa de treball sobre els contin
 |---|---|---|
 | 0 | Preservar les versions, les fonts, la traçabilitat i la branca de treball; vincular cada intervenció amb capítol/apartat/font i mantenir main intacta. | **Completada** |
 | 1 | Auditoria comparativa dels 39 capítols Markdown: contingut conservat, simplificacions, pèrdues, redundàncies i millores de la segona síntesi. | **Completada (39/39)** |
-| 2 | Consolidar el Registre Mestre amb categories RT/RD/AE/MG/SC, prioritats, decisions, fonts i estat real dels canvis. | **En curs**; versió vigent 1.67. S'ha actualitzat la matriu amb els cotejos documentals completats de C1–C10, C12–C13, C20–C24, C25–C29, C33–C35, C37–C39 i C38, així com les revisions limitades de C11 i C14–C19 contra el material disponible, amb els límits de font documentats. Resta una conciliació final de totes les files i anotacions històriques per assegurar que no quedin estats contradictoris. |
+| 2 | Consolidar el Registre Mestre amb categories RT/RD/AE/MG/SC, prioritats, decisions, fonts i estat real dels canvis. | **En curs**; versió vigent 1.67. S'ha actualitzat la matriu amb el tancament documental de F4 per als 39 capítols: coteigs complets, revisions limitades per absència d'original íntegre i revisions del contingut disponible, amb els límits de font documentats. Resta una conciliació final de totes les files i anotacions històriques per assegurar que no quedin estats contradictoris. |
 | 3 | Aplicar les recuperacions tècniques, didàctiques i els ajustos editorials justificats a la tercera versió dels 39 Markdown. | **Completada per a les accions identificades a la matriu**; recuperacions aplicades als capítols 3–19, 25–32, 36 i 38; ajustos AE als capítols 33–34; els capítols SC es mantenen protegits, excepte ajustos editorials documentats. |
 | 4 | Validar els 39 capítols i estabilitzar-ne el contingut, les receptes, els exercicis, la numeració i les referències. | **Completada el 05/11/2026, amb límits documentals registrats**; els 39 capítols han rebut una revisió de contingut o una comprovació documental del material disponible. C1–C10, C12–C13, C20–C29, C33–C35 i C37–C39 tenen coteig documental completat; C11 i C14–C19 s'han contrastat amb material consolidat disponible, però les fonts declaren que no s'han recuperat originals complets; C30–C32 i C36 tenen revisió de contingut completada amb la font disponible; C38 té coteig documental completat dins dels límits registrats. La revisió semàntica de remissions C1–C39 i la comprovació estructural global dels 39 Markdown estan completades. Aquesta fase no equival a validació experimental de receptes ni de resultats pictòrics. |
 | 5 | Revisar i reconstruir els annexos A–E després d'estabilitzar els 39 capítols. | **Pendent i diferida** fins al tancament de F4. |

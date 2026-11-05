@@ -119,3 +119,18 @@
 - La guia no substitueix l'avaluació del procés ni els procediments tècnics originals.
 
 
+
+
+## Regeneració complementària de les 48 fitxes individuals (05/11/2026)
+
+Aquesta actuació complementa la regeneració A–E i resol la incidència detectada durant F6. No modifica retroactivament el registre del treball F5: documenta una recuperació documental addicional posterior a la primera passada transversal.
+
+- **Origen:** el document original «manual con estructura completa.docx» conservava la funció, els camps previstos i la independència documental de les fitxes, però no els continguts individuals.
+- **Resultat:** 48 fitxes noves a `fitxes-pintures/`, una per referència, i índex general `fitxes-pintures/INDEX.md`.
+- **Correspondència:** 48 referències úniques, 12 per set; cada entrada de l'Annex A enllaça amb el fitxer individual corresponent.
+- **Fonts:** catàleg oficial Vallejo 2026, carta Game Color 2025, pàgina oficial Xpress Color i taules de receptes dels capítols 19–34.
+- **Criteri:** les propietats declarades pel fabricant a escala de família es diferencien de les propietats individuals. Quan no s'ha localitzat documentació individual, opacitat, transparència, cobertura, poder tintori, fluïdesa, assecat, acabat i colorimetria no es completen per inferència.
+- **Noms:** en les tintes es conserva el nom del set i s'afegeix la denominació actual de la carta quan és diferent, sense duplicar codis.
+- **Límit:** regeneració documental 1.0; no és recuperació literal de les fitxes perdudes ni validació experimental.
+
+La incorporació de les fitxes resol la discrepància documental detectada a F6. Les 48 fitxes queden incloses en l'abast de F8.

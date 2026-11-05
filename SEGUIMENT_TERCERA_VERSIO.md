@@ -1283,3 +1283,18 @@ S'ha iniciat la segona auditoria transversal després de regenerar els cinc anne
 **Incidència oberta:** C2.5 atribueix a l'Annex A la fitxa individual corresponent a cada pintura i C2.5/C3.1 descriuen les fitxes individuals com a recursos documentals. En canvi, A.5 declara que la col·lecció completa de 48 fitxes no s'ha pogut establir al repositori; la inspecció de l'arbre de la branca tampoc no ha localitzat 48 fitxes independents. Això no demostra que no existeixin fora del repositori. No s'han modificat C2 ni C3. Cal determinar si les fitxes existeixen i s'han d'incorporar o si cal aprovar una correcció acotada dels capítols.
 
 **Estat:** primera passada transversal completada; F6 continua oberta fins a resoldre i registrar aquesta incidència. F8 i la maquetació textual continuen pendents. No s'han modificat receptes, proporcions ni procediments, i no s'ha afirmat cap validació experimental.
+
+
+### Regeneració documental de les 48 fitxes individuals i tancament de F6 (05/11/2026)
+
+El document original «manual con estructura completa.docx» descrivia la funció i l'estructura prevista de les 48 fitxes, però no en conservava el contingut individual. Per tant, les fitxes s'han regenerat com a nova versió documental 1.0, no com a recuperació literal.
+
+- 48 fitxes independents creades a `fitxes-pintures/`, una per referència.
+- Índex general creat a `fitxes-pintures/INDEX.md`.
+- Els 48 noms de l'Annex A enllacen directament amb la fitxa corresponent.
+- Cada fitxa incorpora identificació, família comercial, informació oficial disponible a escala de família, límits de caracterització individual i funcions traçades a les taules de receptes quan s'han localitzat.
+- En les tintes, es conserven els noms del set i s'indica la denominació abreujada de la carta oficial actual quan difereix.
+- No s'han inventat valors d'opacitat, transparència, cobertura, fluïdesa, assecat, acabat ni colorimetria; aquests camps romanen pendents si no hi ha font individual.
+- No s'han afirmat proves físiques ni validació experimental.
+
+La incidència de fitxes individuals detectada a F6 queda resolta documentalment. **F6 es tanca el 05/11/2026.** La següent fase és F8, auditoria textual final del paquet complet, incloses les 48 fitxes. No s'inicia encara la maquetació Word ni la fase gràfica.

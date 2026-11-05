@@ -3,7 +3,7 @@
 **Data:** 05/11/2026  
 **Branca:** `intervencion-editorial-2026-11`  
 **Abast:** tercera síntesi consolidada C1–C39 i annexos A–E regenerats.  
-**Estat:** primera passada transversal completada; F6 continua oberta per una contradicció documental que requereix decisió editorial.
+**Estat:** F6 completada el 05/11/2026 després de la regeneració documental de les 48 fitxes individuals.
 
 ## 1. Mètode i límits
 
@@ -70,33 +70,25 @@ La comprovació d'una remissió confirma que el destí existeix; no equival, per
 
 **Resultat:** remissions funcionals coherents en la passada realitzada; no s'hi detecten destinacions inexistents.
 
-## 3. Incidència oberta — fitxes individuals de les 48 pintures
+## 3. Incidència resolta — regeneració de les 48 fitxes individuals
 
-**Gravetat:** alta, per contradicció entre el text dels capítols i l'abast declarat de l'Annex A.
+**Estat:** resolta documentalment el 05/11/2026.
 
-### Evidència
+La inspecció del document original va confirmar que aquest descrivia l'estructura i la funció de les fitxes independents, però no conservava el contingut de les 48 fitxes. La col·lecció no s'ha pogut recuperar literalment. D'acord amb la decisió de l'usuari, s'ha regenerat com a nova versió documental a partir de la relació de productes de l'Annex A, la tercera síntesi C1–C39, les taules de receptes, el catàleg 2026 i les cartes oficials de Vallejo.
 
-1. C2.5 atribueix a l'Annex A, entre les seves dades, «la fitxa individual corresponent» per a cada producte.
-2. C2.5 descriu també les fitxes individuals com a recursos que desenvolupen la documentació específica de cada pintura.
-3. C3.1 afirma que les fitxes individuals mantenen la seva funció documental.
-4. A.5 declara explícitament que l'annex no reprodueix fitxes individuals i que, en la revisió del repositori, no s'ha pogut establir una col·lecció completa de 48 fitxes independents disponible per enllaçar-hi.
-5. La inspecció de l'arbre complet de la branca no ha localitzat 48 fitxes individuals separades ni un conjunt de fitxers que acrediti aquesta col·lecció.
+**Comprovacions:** 48 fitxes creades, 48 referències úniques, 12 per set, enllaç unívoc des de l'Annex A; declaracions del fabricant etiquetades com a informació de família; cap valor individual d'opacitat, cobertura, fluïdesa, assecat, acabat o colorimetria inventat; funcions traçades a taules dels capítols 19–34 quan s'han localitzat. No s'han afegit proves físiques ni s'ha afirmat validació experimental.
 
-### Interpretació
+**Límit:** les fitxes són una versió documental 1.0, no una recuperació literal de les fitxes perdudes ni una caracterització experimental completa. Els camps individuals no sustentats per fonts específiques romanen pendents de verificació.
 
-La contradicció no és que A hagi de contenir les fitxes —A.5 ja delimita correctament la seva funció de catàleg—, sinó que C2 i C3 continuen descrivint les fitxes com a recursos disponibles o integrats sense que el paquet de treball les acrediti.
+## 4. Estat de F6 i següents passos
 
-Aquesta inspecció només permet afirmar que la col·lecció completa no s'ha localitzat a la branca revisada. No permet afirmar que no existeixi fora del repositori o en una altra ubicació documental.
-
-### Resolució necessària
-
-Cal determinar documentalment si les 48 fitxes individuals existeixen i formen part del lliurable:
-
-- **Si existeixen:** incorporar-les o identificar-ne la ubicació i verificar la correspondència individual de les 48 referències.
-- **Si no formen part del lliurable:** proposar una correcció acotada a C2.5 i C3.1 perquè descriguin les fitxes com a recursos previstos o no incorporats, sense atribuir-ne disponibilitat actual.
-
-No s'han modificat C2 ni C3. Aquesta incidència queda oberta perquè els capítols estan protegits contra canvis no aprovats i la decisió altera el significat documental del manual.
-
+- La passada transversal C1–C39 i A–E no ha detectat referències inexistents a B, C o D ni desajustos de correspondència entre C i D.
+- Les 48 fitxes individuals s'han regenerat i s'han integrat a l'Annex A amb enllaços directes.
+- La discrepància documental de C2.5/C3.1 davant A.5 queda resolta: les fitxes tornen a formar part del paquet com a documents independents.
+- **F6 es considera completada el 05/11/2026**, amb el límit explícit que la regeneració és documental i no experimental.
+- F8 —auditoria textual final del paquet complet— queda com a següent fase.
+- No s'han modificat els capítols 2 ni 3, ni receptes, proporcions o procediments.
+- No s'ha iniciat la maquetació Word ni la fase gràfica.
 ## 4. Estat de F6 i següents passos
 
 - La primera passada transversal dels annexos A–E contra C1–C39 està completada.

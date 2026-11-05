@@ -3,7 +3,7 @@
 **Data:** 06/11/2026  
 **Branca:** `intervencion-editorial-2026-11`  
 **Font:** matriu de traçabilitat P1 F10 i fitxes editorials F10, amb correccions d'ancoratge documentades a F11.  
-**Estat inicial:** totes les composicions pendents de producció. Aquest registre no autoritza la generació ni la inserció d'imatges.
+**Estat actual:** quatre composicions tenen prototip vectorial v01 en revisió; les altres 146 continuen pendents d'encàrrec. Aquest registre no autoritza la inserció al manual.
 
 ## 1. Control de cobertura
 
@@ -21,10 +21,10 @@
 |---|---|---|---|---|---|
 | 1.1 / G001 | 1.2 | apartat 1.5 | E0 | Classificació de la informació tècnica | Pendent d'encàrrec |
 | 2.1 / G002 | 2.2 | apartat 2.5 | E0 | Organització documental de la informació sobre les pintures | Pendent d'encàrrec |
-| 3.1 / G003 | 3.1 | apartat 3.1 | E2 | «Comparació de pintures opaques, semiopàques, semitransparents i transparents sobre un mateix fons.» | Prototip vectorial v01 · en revisió |
+| 3.1 / G003 | 3.1 | apartat 3.1 | E2 | «Comparació de pintures opaques, semiopàques, semitransparents i transparents sobre un mateix fons.» | [Prototip SVG v01 · en revisió](../grafics_prova/fig_C03_3-1_G003_v01.svg) |
 | 3.2 / G004 | 3.2 | apartat 3.2.1 | E2 | «Una mateixa capa de pintura transparent o semitransparent sobre fons blanc, gris i negre.» | Pendent d'encàrrec |
 | 3.3 / G005 | 3.3 | apartat 3.3 | E0 | «Distribució d'una pintura sobre zones elevades, planes i cavitats d'una superfície en relleu.» | Pendent d'encàrrec |
-| 4.1 / G006 | 4.3 | apartats 4.3.2–4.3.3 | E0 | Mescla additiva RGB i mescla sostractiva CMY | Prototip vectorial v01 · en revisió |
+| 4.1 / G006 | 4.3 | apartats 4.3.2–4.3.3 | E0 | Mescla additiva RGB i mescla sostractiva CMY | [Prototip SVG v01 · en revisió](../grafics_prova/fig_C04_4-1_G006_v01.svg) |
 | 4.2 / G007 | 4.4 | apartat 4.4 | E0 | Dimensions del color: matís, valor i croma | Pendent d'encàrrec |
 | 4.3 / G008 | 4.6 | apartat 4.6 | E0 | «Comparació entre la mescla additiva de llum RGB i la mescla sostractiva CMY de pigments o colorants.» | Pendent d'encàrrec |
 | 4.4 / G009 | 4.7 | apartat 4.7 | E0 | «Dimensions del color —matís, valor i croma— representades en un espai tridimensional i en tres escales independents.» | Pendent d'encàrrec |
@@ -60,7 +60,7 @@
 | 16.1 / G039 | 16.1 | 16.1 | E0 | Metàl·lic i no metàl·lic | Pendent d'encàrrec |
 | 16.2 / G040 | 16.2 | 16.2 i/o 16.6 | E0 | Influència de la geometria en els reflexos | Pendent d'encàrrec |
 | 16.3 / G041 | 16.4 | 16.3 | E0 | Mapa tonal d'una peça metàl·lica | Pendent d'encàrrec |
-| 16.4 / G042 | 16.6 | 16.5 | E1 | Construcció progressiva de base a reflexos i accents | Prototip vectorial v01 · en revisió |
+| 16.4 / G042 | 16.6 | 16.5 | E1 | Construcció progressiva de base a reflexos i accents | [Prototip SVG v01 · en revisió](../grafics_prova/fig_C16_16-4_G042_v01.svg) |
 | 16.5 / G043 | 16.8 | 16.8 | E0 | Errors i correccions | Pendent d'encàrrec |
 | 17.1 / G044 | 17.1 | 17.2.1–17.2.3 | E0 | Font emissora, superfície il·luminada i reflex localitzat | Pendent d'encàrrec |
 | 17.2 / G045 | 17.3 | 17.3.4–17.3.6 | E0 | Geometria, orientació i bloqueig | Pendent d'encàrrec |
@@ -128,7 +128,7 @@
 | 33.4 / G107 | 33.6 | 33.5 | E1 | Construcció d'un esmalt acolorit | Pendent d'encàrrec |
 | 33.5 / G108 | 33.7 | 33.6 | E0 | «Seqüència cromàtica d'una superfície de terracota: base, variacions rogences, ombres i aclarits.» | Pendent d'encàrrec |
 | 33.6 / G109 | 33.9 | 33.7–33.8 | E0 | «Construcció cromàtica d'un esmalt acolorit i organització dels reflexos sobre la superfície.» | Pendent d'encàrrec |
-| 34.1 / G110 | 34.1, 34.7 | 34.2; remissió des de 34.7 | E0 | «Comparació de vidre transparent incolor, acolorit i esmerilat, amb una mateixa escena vista a través de vidre transparent i esmerilat.» | Prototip vectorial v01 · en revisió |
+| 34.1 / G110 | 34.1, 34.7 | 34.2; remissió des de 34.7 | E0 | «Comparació de vidre transparent incolor, acolorit i esmerilat, amb una mateixa escena vista a través de vidre transparent i esmerilat.» | [Prototip SVG v01 · en revisió](../grafics_prova/fig_C34_34-1_G110_v01.svg) |
 | 34.2 / G111 | 34.2 | 34.2 | E0 | «Vores, reflexos, fons transmès, gruix i distorsió com a indicis visuals del vidre.» | Pendent d'encàrrec |
 | 34.3 / G112 | 34.3 | 34.4 | E0 | «Construcció de vidre transparent pla i corb: conservació del fons, vores, gruix i reflexos adaptats a la geometria.» | Pendent d'encàrrec |
 | 34.4 / G113 | 34.5 | 34.5 | E0 | Vidre acolorit | Pendent d'encàrrec |

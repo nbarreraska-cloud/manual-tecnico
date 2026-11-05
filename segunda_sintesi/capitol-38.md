@@ -279,8 +279,6 @@ Abans de finalitzar, comprovar:
 
 **Objectiu:** identificar diferències entre productes protectors sense assumir que pertanyen a una mateixa categoria funcional.
 
-**Materials:** diverses mostres equivalents, productes protectors compatibles i la documentació tècnica corresponent.
-
 **Procediment:**
 1. Preparar diverses mostres amb la mateixa pintura i el mateix estat de preparació.
 2. Identificar la funció declarada de cada producte.
@@ -289,13 +287,11 @@ Abans de finalitzar, comprovar:
 5. Comparar l'aparença, el grau de brillantor i les diferències observables.
 6. Registrar quines propietats estan documentades i quines no s'han comprovat.
 
-**Avaluació:** comprovar que es diferencien les funcions declarades, l'aparença final i els límits de la informació disponible.
+**Criteri d'avaluació proposat:** comprovar que es diferencien les funcions declarades, l'aparença final i els límits de la informació disponible.
 
 ### 38.10.2. Aplicació a pinzell
 
 **Objectiu:** controlar la distribució del producte i evitar acumulacions en una aplicació localitzada.
-
-**Materials:** una superfície de prova, un barnís adequat a pinzell i un pinzell net.
 
 **Procediment:**
 1. Comprovar que la superfície de prova està preparada.
@@ -307,13 +303,11 @@ Abans de finalitzar, comprovar:
 7. Deixar assecar sense manipular.
 8. Observar la continuïtat i les possibles acumulacions.
 
-**Avaluació:** comprovar que el producte s'ha distribuït de manera controlada i que no ha ocultat detalls ni alterat innecessàriament la superfície.
+**Criteri d'avaluació proposat:** comprovar que el producte s'ha distribuït de manera controlada i que no ha ocultat detalls ni alterat innecessàriament la superfície.
 
 ### 38.10.3. Aplicació mitjançant aerògraf
 
 **Objectiu:** observar la cobertura i les condicions necessàries per aplicar un producte formulat per a aerografia.
-
-**Materials:** una mostra de prova, un barnís apte per a aerògraf i l'equip corresponent.
 
 **Procediment:**
 1. Comprovar que el producte és adequat per a aerografia.
@@ -325,13 +319,11 @@ Abans de finalitzar, comprovar:
 7. Revisar relleus, cavitats i zones ocultes.
 8. Deixar assecar i netejar l'equip segons les indicacions del fabricant.
 
-**Avaluació:** comprovar la regularitat de la cobertura i identificar els factors que han condicionat l'aplicació, sense convertir pressió, distància o dilució en valors universals.
+**Criteri d'avaluació proposat:** comprovar la regularitat de la cobertura i identificar els factors que han condicionat l'aplicació, sense convertir pressió, distància o dilució en valors universals.
 
 ### 38.10.4. Aplicació mitjançant aerosol
 
 **Objectiu:** observar la distribució del producte i la influència de les condicions ambientals.
-
-**Materials:** una superfície de prova, un aerosol adequat i els equips de ventilació i protecció exigits pel fabricant.
 
 **Procediment:**
 1. Llegir les instruccions i advertiments de l'envàs.
@@ -343,13 +335,11 @@ Abans de finalitzar, comprovar:
 7. Evitar aturar la pulverització sobre un mateix punt.
 8. Respectar els intervals i les condicions d'assecat indicats.
 
-**Avaluació:** comprovar la distribució, la continuïtat i l'absència d'acumulacions o alteracions atribuïbles a una aplicació incorrecta.
+**Criteri d'avaluació proposat:** comprovar la distribució, la continuïtat i l'absència d'acumulacions o alteracions atribuïbles a una aplicació incorrecta.
 
 ### 38.10.5. Compatibilitat amb efectes especials
 
 **Objectiu:** observar possibles alteracions en pigments, transparències i superfícies amb brillantor específica.
-
-**Materials:** mostres de prova amb diferents recursos pictòrics i un producte protector la compatibilitat del qual estigui raonablement justificada.
 
 **Procediment:**
 1. Preparar mostres amb pigments, transparències o superfícies brillants.
@@ -360,13 +350,11 @@ Abans de finalitzar, comprovar:
 6. Comparar l'aparença anterior i posterior.
 7. Registrar les modificacions observades.
 
-**Avaluació:** identificar quins efectes s'han mantingut i quins han canviat, sense generalitzar el resultat a productes o suports diferents.
+**Criteri d'avaluació proposat:** identificar quins efectes s'han mantingut i quins han canviat, sense generalitzar el resultat a productes o suports diferents.
 
 ### 38.10.6. Exercici integrador: protecció i conservació d'una miniatura
 
 **Objectiu:** planificar una protecció coherent amb la peça i el seu ús, sense considerar el barnissat una garantia de conservació absoluta.
-
-**Materials:** una miniatura acabada, la documentació dels productes compatibles i els recursos necessaris per al mètode seleccionat.
 
 **Procediment:**
 1. Determinar l'ús previst de la peça.
@@ -378,7 +366,7 @@ Abans de finalitzar, comprovar:
 7. Planificar l'emmagatzematge i el transport.
 8. Establir criteris de revisió periòdica.
 
-**Avaluació:** comprovar que la decisió té en compte l'ús, els materials, la compatibilitat, el mètode, l'assecat i les mesures posteriors de conservació.
+**Criteri d'avaluació proposat:** comprovar que la decisió té en compte l'ús, els materials, la compatibilitat, el mètode, l'assecat i les mesures posteriors de conservació.
 
 ## 38.11. Síntesi del capítol
 

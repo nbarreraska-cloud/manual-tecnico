@@ -4909,3 +4909,1052 @@ No totes les vores necessiten perfilar-se i no totes les línies han de presenta
 La definició de volums mitjançant perfilats complementa la representació pictòrica, però no substitueix la construcció de llums, ombres i transicions ni la planificació de la il·luminació.
 
 El criteri fonamental consisteix a utilitzar el perfilat de manera selectiva: intervenir on aporta informació visual i aturar-se quan la separació i l'estructura ja es reconeixen amb claredat.
+
+
+---
+
+# 13. TÈCNIQUES DE TEXTURA: PINZELL SEC, PUNTEJAT, RATLLAT I ESPONJAT
+
+## 13.1. Introducció: construcció de textures mitjançant l'aplicació de pintura
+
+La representació d'una textura permet suggerir visualment les característiques d'una superfície mitjançant la distribució de marques, irregularitats, patrons i variacions locals. En la pintura de miniatures, aquestes característiques s'han d'interpretar i simplificar perquè es puguin reconèixer a una escala reduïda.
+
+Les tècniques de textura permeten modificar l'aparença d'una superfície sense necessitat de cobrir-la mitjançant una aplicació uniforme. En lloc de construir una capa contínua, dipositen la pintura de manera selectiva i generen patrons que poden suggerir rugositat, desgast, irregularitat, granulat o variacions superficials.
+
+Aquest capítol desenvolupa quatre procediments:
+
+- **Pinzell sec:** deposició de pintura mitjançant el contacte controlat d'un pinzell amb les zones sortints d'una superfície.
+- **Puntejat:** construcció d'una textura mitjançant l'aplicació repetida de punts o petites marques.
+- **Ratllat:** creació de línies i traços per representar marques, estries, fibres, esgarrapades o irregularitats lineals.
+- **Esponjat:** aplicació de pintura mitjançant una eina porosa que genera marques irregulars i discontínues.
+
+Tot i que les quatre tècniques es poden utilitzar per construir textures, els seus mecanismes d'aplicació i els resultats visuals són diferents. La tria depèn de la superfície, l'escala de l'element, el tipus d'irregularitat que es vol representar i el grau de control necessari.
+
+També es poden combinar per obtenir resultats més complexos. Tanmateix, l'acumulació de procediments no garanteix una textura més convincent. Cada intervenció ha de respondre a una característica visual concreta i mantenir una relació coherent amb la geometria i la identitat del material.
+
+## 13.2. Fonaments de la representació de textures
+
+### 13.2.1. Textura real i textura representada
+
+La textura real correspon a les irregularitats físiques d'una superfície. Pot presentar relleus, depressions, fibres, porus, rugositat o marques produïdes per l'ús.
+
+La textura representada és la informació visual que s'incorpora mitjançant la pintura per suggerir aquestes característiques.
+
+En una miniatura, totes dues no han de coincidir necessàriament. Una superfície físicament llisa pot adquirir una aparença rugosa mitjançant la distribució de petites marques de color. De la mateixa manera, un relleu físic pot necessitar una intervenció pictòrica perquè les seves característiques resultin més perceptibles.
+
+Per tant, la representació d'una textura no consisteix necessàriament a reproduir totes les irregularitats d'un material, sinó a seleccionar els senyals visuals que permeten reconèixer-lo.
+
+### 13.2.2. Distribució de les marques
+
+L'aparença d'una textura depèn tant de les marques individuals com de la seva distribució sobre la superfície.
+
+Entre els factors més importants hi ha:
+
+- Mida de les marques.
+- Forma i orientació.
+- Separació entre marques.
+- Densitat d'aplicació.
+- Regularitat o irregularitat.
+- Distribució sobre la geometria.
+- Relació cromàtica amb el fons.
+
+Una superfície amb marques petites i pròximes pot transmetre una sensació diferent d'una altra amb traços grans i separats, encara que totes dues utilitzin el mateix color.
+
+La distribució s'ha d'adaptar a l'efecte buscat. Una textura natural pot necessitar variacions de mida, orientació i densitat, mentre que una superfície fabricada pot presentar patrons més regulars.
+
+### 13.2.3. Escala i simplificació
+
+L'escala de la miniatura condiciona la quantitat d'informació que es pot representar.
+
+Una textura real pot contenir irregularitats massa petites per reproduir-les individualment. En aquests casos cal simplificar-la mitjançant marques de mida relativa més gran o mitjançant una distribució que en suggereixi l'aparença general.
+
+La simplificació no s'ha de confondre amb una reducció indiscriminada del detall. Una textura pot resultar més convincent quan se'n conserven les característiques principals i s'eliminen les irregularitats que no contribueixen al reconeixement.
+
+Convé valorar el resultat des de la distància habitual d'observació i no únicament mitjançant ampliacions.
+
+### 13.2.4. Relació entre textura, geometria i material
+
+La textura s'ha d'integrar amb la forma de la peça.
+
+Les marques no es poden distribuir independentment de la geometria: una superfície corba, una aresta, una cavitat o un pla ampli en condicionen l'orientació i la continuïtat.
+
+També cal considerar la identitat del material. Una distribució de marques adequada per representar una roca pot resultar poc convincent sobre una superfície metàl·lica polida.
+
+La tria de la tècnica ha de respondre a la combinació de tres aspectes:
+
+1. L'estructura i la geometria de la superfície.
+2. La textura que es vol representar.
+3. L'aparença general del material.
+
+El capítol 6 proporciona els fonaments per interpretar les característiques visuals dels materials. Aquí es desenvolupen els procediments pictòrics per construir determinades textures.
+
+## 13.3. Pinzell sec
+
+### 13.3.1. Definició i funcionament
+
+El pinzell sec és una tècnica d'aplicació que utilitza una quantitat reduïda de pintura al pinzell per dipositar-la principalment sobre les zones sortints o de més relleu d'una superfície.
+
+El seu funcionament es basa en el contacte entre les cerres i les parts elevades de la geometria. Quan el pinzell es desplaça sobre el relleu, les zones prominents reben pintura amb més facilitat, mentre que les cavitats i depressions profundes tendeixen a conservar una part més gran de la seva aparença anterior.
+
+El resultat permet destacar relleus, fer visibles determinades irregularitats i generar una distribució discontínua de pintura.
+
+Tot i que s'utilitza freqüentment per representar textures, no és exclusivament una tècnica de textura. També es pot emprar per reforçar la lectura de relleus i destacar detalls geomètrics.
+
+### 13.3.2. Preparació de la pintura i del pinzell
+
+El pinzell sec requereix una càrrega reduïda de pintura i un comportament que en permeti la deposició controlada.
+
+La quantitat ha de ser suficient per produir marques visibles, però no tanta que generi una aplicació contínua o cobreixi indiscriminadament les depressions.
+
+El procediment general consisteix a:
+
+1. Seleccionar un pinzell adequat a la superfície.
+2. Carregar-ne una quantitat reduïda de pintura.
+3. Retirar-ne l'excés sobre una superfície de descàrrega apropiada.
+4. Comprovar la quantitat restant mitjançant una aplicació de prova.
+5. Ajustar la càrrega abans d'intervenir sobre la miniatura.
+
+La descàrrega és una fase fonamental. No es tracta d'eliminar absolutament tota la pintura, sinó de conservar-ne una quantitat que permeti una deposició lleugera i selectiva.
+
+No hi ha un nombre universal de passades ni una proporció fixa de pintura. El resultat depèn del pinzell, la pintura, el relleu, la quantitat dipositada i la pressió utilitzada.
+
+### 13.3.3. Procediment d'aplicació
+
+Un cop preparada la càrrega, el pinzell es desplaça sobre la superfície mitjançant moviments controlats.
+
+El procediment es pot organitzar així:
+
+1. Identificar les zones sortints que es volen destacar.
+2. Orientar la miniatura per facilitar-hi l'accés.
+3. Recolzar les cerres sobre la superfície sense exercir una pressió excessiva.
+4. Desplaçar el pinzell de manera que contacti principalment amb els relleus.
+5. Observar la distribució de la pintura.
+6. Modificar la direcció del moviment quan la geometria ho requereixi.
+7. Aturar l'aplicació quan les zones seleccionades presentin una definició suficient.
+
+El moviment es pot fer en direccions diferents. Tanmateix, l'orientació s'ha d'escollir tenint en compte l'estructura de la superfície i la distribució que es vol aconseguir.
+
+En determinades peces, un desplaçament transversal al relleu permet destacar millor les parts elevades. En altres, pot ser necessari modificar el recorregut per arribar a zones de geometria irregular.
+
+### 13.3.4. Variables que condicionen el resultat
+
+El resultat del pinzell sec depèn de diverses variables:
+
+- **Quantitat de pintura:** condiciona la intensitat i la continuïtat de la deposició.
+- **Pressió:** modifica el contacte de les cerres amb la superfície.
+- **Orientació:** determina quines zones reben més contacte.
+- **Geometria del pinzell:** influeix en l'extensió i la forma de les marques.
+- **Geometria de la miniatura:** condiciona l'accés als relleus.
+- **Estat de les cerres:** influeix en la precisió i la regularitat de l'aplicació.
+
+Una càrrega excessiva pot produir taques o cobrir superfícies que haurien de conservar una aparença diferenciada. Una càrrega massa reduïda pot generar marques pràcticament imperceptibles.
+
+### 13.3.5. Aplicacions i limitacions
+
+El pinzell sec es pot utilitzar per destacar:
+
+- Relleus de roques i superfícies pètries.
+- Irregularitats de fusta.
+- Textures de teixits gruixuts.
+- Vores i detalls de superfícies desgastades.
+- Elements escultòrics i ornamentals.
+- Relleus d'equipament i estructures.
+
+La seva utilitat depèn que hi hagi una geometria capaç de rebre la pintura de manera selectiva.
+
+En superfícies completament llises, el pinzell sec no genera per si mateix una textura física. Pot produir marques superficials, però el resultat no s'ha de confondre amb el d'altres tècniques de deposició irregular.
+
+## 13.4. Puntejat
+
+### 13.4.1. Definició i funcionament
+
+El puntejat consisteix a construir una textura mitjançant l'aplicació repetida de punts, petites marques o dipòsits localitzats de pintura.
+
+A diferència del pinzell sec, que depèn principalment del contacte amb els relleus, el puntejat permet crear patrons sobre superfícies llises o irregulars.
+
+Les marques es poden fer mitjançant contactes breus i controlats del pinzell, utilitzant-ne la punta o una altra part de les cerres segons la mida i la forma buscades.
+
+El resultat depèn de la distribució dels punts i de la seva relació amb el fons.
+
+### 13.4.2. Característiques de les marques
+
+Els punts poden presentar característiques diferents:
+
+- Mida uniforme o variable.
+- Forma arrodonida, irregular o allargada.
+- Distribució regular o aleatòria.
+- Separació constant o variable.
+- Densitat homogènia o localitzada.
+- Intensitat cromàtica uniforme o diferenciada.
+
+La combinació d'aquestes variables permet generar textures molt diferents.
+
+Una distribució de punts petits i pròxims pot produir una aparença granulada. Una distribució irregular amb marques de mides diferents pot suggerir una superfície erosionada o amb variacions naturals.
+
+Aquests resultats no són automàtics. La interpretació també depèn del color, el contrast, la geometria i l'escala.
+
+### 13.4.3. Procediment d'aplicació
+
+El procediment general consisteix a:
+
+1. Seleccionar la superfície i definir la zona que es vol texturitzar.
+2. Determinar la mida aproximada i la distribució de les marques.
+3. Preparar la pintura amb una consistència que permeti controlar cada contacte.
+4. Carregar el pinzell amb una quantitat adequada.
+5. Fer contactes breus sobre la superfície.
+6. Variar la posició i la separació dels punts segons el patró previst.
+7. Comprovar la densitat i la distribució.
+8. Aturar l'aplicació quan la textura sigui prou recognoscible.
+
+L'aplicació es pot fer de manera ordenada o irregular. En textures naturals, la variació de les marques sol ajudar a evitar patrons excessivament repetitius.
+
+### 13.4.4. Distribució i densitat
+
+La densitat determina quant espai ocupa el conjunt de marques sobre la superfície.
+
+Una densitat elevada pot generar una aparença més compacta, mentre que una distribució dispersa conserva una presència visual més gran del fons.
+
+La densitat no ha de ser uniforme necessàriament. Es pot concentrar en determinades zones per representar variacions superficials o establir diferències entre parts d'una mateixa peça.
+
+També es pot modificar progressivament la mida dels punts, tot evitant una transició mecànica que produeixi un patró artificial.
+
+### 13.4.5. Aplicacions i limitacions
+
+El puntejat es pot utilitzar per representar:
+
+- Granulat de roques i minerals.
+- Porositat i petites irregularitats.
+- Superfícies orgàniques.
+- Variacions de terra i fang.
+- Taques petites sobre teixits.
+- Patrons superficials de determinats materials.
+- Efectes de desgast localitzat.
+
+El seu principal avantatge és que permet controlar la distribució de les marques independentment que la superfície presenti un relleu físic pronunciat.
+
+La limitació principal és el risc de generar un patró repetitiu o excessivament regular. Per evitar-ho, convé variar de manera raonada la mida, l'orientació, la separació i la concentració dels punts.
+
+## 13.5. Ratllat
+
+### 13.5.1. Definició i funcionament
+
+El ratllat consisteix a aplicar línies o traços estrets sobre una superfície per representar marques lineals, estries, fibres, esgarrapades, esquerdes superficials o irregularitats allargades.
+
+La tècnica permet construir patrons direccionals i resulta especialment útil quan la textura presenta una orientació recognoscible.
+
+A diferència del puntejat, que utilitza marques localitzades, el ratllat organitza la textura mitjançant traços lineals.
+
+La longitud, l'amplada, la continuïtat, l'orientació i la separació de les línies en determinen l'aparença.
+
+### 13.5.2. Característiques dels traços
+
+Els traços poden variar en:
+
+- Longitud.
+- Amplada.
+- Continuïtat.
+- Intensitat.
+- Orientació.
+- Separació.
+- Curvatura.
+- Regularitat.
+
+Una textura formada per línies paral·leles pot suggerir fibres o estries. Una distribució de traços creuats pot generar una aparença més irregular. Les línies curtes i discontínues poden representar esgarrapades o petites marques superficials.
+
+La tria depèn de l'estructura del material i de la característica que es vol destacar.
+
+### 13.5.3. Procediment d'aplicació
+
+El procediment general es pot organitzar de la manera següent:
+
+1. Identificar la direcció dominant de la textura.
+2. Determinar la longitud i l'amplada aproximades dels traços.
+3. Seleccionar un pinzell que permeti controlar el recorregut.
+4. Preparar la pintura perquè es pugui desplaçar sense generar dipòsits excessius.
+5. Aplicar els traços mitjançant moviments controlats.
+6. Variar-ne la longitud i la separació quan el patró ho requereixi.
+7. Comprovar la relació entre els traços i la geometria de la superfície.
+8. Aturar l'aplicació quan la textura sigui recognoscible.
+
+No tots els traços s'han de fer en una única direcció. En materials naturals pot ser necessari introduir variacions, encara que convé conservar una orientació general coherent amb la seva estructura.
+
+### 13.5.4. Ratllat direccional i creuat
+
+El ratllat direccional organitza els traços seguint una orientació predominant. Es pot utilitzar per representar fibres, vetes, estries o marques allargades. La direcció s'ha d'adaptar a la geometria de l'element i no s'ha d'aplicar arbitràriament.
+
+El ratllat creuat combina traços de diferents orientacions. Pot generar una textura més densa o complexa, encara que també augmenta el risc de saturar visualment la superfície.
+
+La combinació s'ha d'utilitzar quan l'estructura del material la justifiqui i no com una manera automàtica d'afegir detall.
+
+### 13.5.5. Aplicacions i limitacions
+
+El ratllat es pot utilitzar per representar:
+
+- Vetes i fibres de fusta.
+- Estries de superfícies pètries.
+- Esgarrapades i marques de desgast.
+- Fibres de determinats teixits.
+- Solcs i marques lineals.
+- Irregularitats allargades de superfícies orgàniques.
+- Detalls d'estructures i materials fabricats.
+
+La principal limitació és que els traços poden resultar massa regulars, gruixuts o repetitius.
+
+També és possible que una acumulació excessiva de línies converteixi una textura en un conjunt de dibuixos independents. Per evitar-ho, convé mantenir una relació entre les marques i la superfície que les conté.
+
+## 13.6. Esponjat
+
+### 13.6.1. Definició i funcionament
+
+L'esponjat consisteix a dipositar pintura mitjançant una eina porosa, normalment una esponja, per generar marques irregulars i discontínues.
+
+L'estructura de l'eina produeix contactes de mides i formes diferents. Això permet crear patrons que difícilment s'obtindrien mitjançant una aplicació convencional amb pinzell.
+
+El resultat depèn de la porositat, l'estructura i la mida de l'eina, així com de la quantitat de pintura i de la pressió exercida.
+
+La tècnica es pot utilitzar per generar textures granulars, taques irregulars i variacions superficials.
+
+### 13.6.2. Selecció i preparació de l'eina
+
+L'esponja ha de presentar una estructura adequada a la mida de les marques que es volen aconseguir.
+
+No totes les esponges produeixen el mateix patró. Algunes generen marques petites i relativament uniformes, mentre que d'altres presenten porus i discontinuïtats de mida més gran.
+
+Abans de treballar sobre la miniatura convé comprovar-ne el comportament sobre una superfície de prova.
+
+L'eina s'ha de preparar amb una quantitat de pintura que permeti transferir marques sense produir dipòsits continus o taques massa grans.
+
+### 13.6.3. Procediment d'aplicació
+
+El procediment general consisteix a:
+
+1. Seleccionar una esponja amb una estructura adequada.
+2. Preparar una petita quantitat de pintura.
+3. Carregar parcialment la superfície de contacte de l'esponja.
+4. Retirar-ne l'excés quan sigui necessari.
+5. Fer contactes suaus sobre la zona seleccionada.
+6. Variar l'orientació i la posició de l'eina.
+7. Comprovar la distribució de les marques.
+8. Ajustar la quantitat de pintura i la pressió si el resultat no és adequat.
+
+L'aplicació es pot fer mitjançant contactes aïllats o successius. La intensitat depèn de la quantitat de pintura transferida i de la repetició dels contactes.
+
+No convé exercir una pressió excessiva, ja que pot deformar l'eina i generar marques diferents de les previstes.
+
+### 13.6.4. Distribució i control de les marques
+
+L'esponjat permet produir una textura irregular, però això no significa que s'hagi d'aplicar sense planificació.
+
+La distribució s'ha d'adaptar a la geometria de la peça i a l'aparença que es vol aconseguir.
+
+Es pot utilitzar una densitat variable per evitar una textura uniforme sobre tota la superfície. També és possible concentrar les marques en zones determinades i deixar-ne d'altres menys treballades.
+
+Convé observar el resultat des d'una distància normal de lectura, ja que una textura aparentment interessant de prop pot resultar massa densa o confusa quan s'observa la miniatura en conjunt.
+
+### 13.6.5. Aplicacions i limitacions
+
+L'esponjat es pot utilitzar per representar:
+
+- Irregularitats de pedra i roca.
+- Superfícies erosionades.
+- Variacions de terra i fang.
+- Desgast superficial.
+- Taques i alteracions cromàtiques.
+- Textures granulars.
+- Superfícies amb dipòsits irregulars.
+
+El seu principal avantatge és la rapidesa amb què permet generar una distribució complexa de marques.
+
+La seva limitació és la menor precisió respecte dels procediments realitzats directament amb la punta del pinzell. En zones petites o pròximes a límits definits pot resultar difícil controlar l'extensió de les marques.
+
+## 13.7. Combinació de tècniques i construcció de textures
+
+### 13.7.1. Diferències funcionals entre les quatre tècniques
+
+Les quatre tècniques poden produir textures, però no actuen de la mateixa manera.
+
+| Tècnica | Mecanisme d'aplicació | Característica visual principal | Control predominant |
+|---|---|---|---|
+| Pinzell sec | Contacte reduït del pinzell amb els relleus | Destaca zones sortints i genera marques condicionades per la geometria | Càrrega, pressió i orientació |
+| Puntejat | Aplicació repetida de punts o petites marques | Construeix patrons localitzats i granulars | Mida, separació i densitat |
+| Ratllat | Aplicació de línies i traços | Genera textures direccionals i lineals | Longitud, orientació i amplada |
+| Esponjat | Transferència de pintura mitjançant una eina porosa | Produeix marques irregulars i discontínues | Porositat, càrrega i pressió |
+
+La tria no depèn únicament del material representat. També cal considerar el tipus de textura, la mida de la superfície i el grau de precisió requerit.
+
+### 13.7.2. Criteris per combinar tècniques
+
+Les tècniques es poden combinar quan cadascuna aporta una característica diferent.
+
+Per exemple, una superfície pot rebre una distribució irregular mitjançant esponjat i, posteriorment, incorporar petites marques de puntejat per reforçar determinades zones.
+
+També es pot utilitzar el pinzell sec per destacar els relleus d'una superfície prèviament texturitzada mitjançant altres aplicacions.
+
+El ratllat pot complementar una textura granular quan el material presenta, a més, una estructura lineal.
+
+La combinació ha de respondre a una seqüència funcional:
+
+1. Identificar les característiques principals de la textura.
+2. Seleccionar la tècnica que permeti representar-les.
+3. Aplicar primer els procediments que estableixen la distribució general.
+4. Incorporar tècniques complementàries únicament quan aportin informació addicional.
+5. Comprovar el resultat abans d'afegir noves marques.
+
+No hi ha una seqüència universal. L'ordre depèn del procediment i de la superfície.
+
+### 13.7.3. Jerarquia i densitat de la textura
+
+Una textura no necessita presentar el mateix nivell de detall en tota la seva extensió.
+
+Les zones principals poden rebre una densitat més gran de marques, mentre que d'altres poden conservar una aparença més senzilla.
+
+Aquesta variació permet evitar superfícies excessivament saturades i mantenir una lectura visual clara.
+
+També convé diferenciar entre textura dominant i textura secundària. Si totes les marques presenten la mateixa mida, contrast i intensitat, poden competir entre si i dificultar el reconeixement de la superfície.
+
+### 13.7.4. Relació amb la geometria
+
+La textura ha de seguir l'organització de la superfície.
+
+En una peça corba, les marques poden necessitar adaptar-se a la direcció de la forma. En una superfície plana, la distribució pot organitzar-se d'una altra manera. En una aresta, la textura pot interrompre's o canviar d'orientació.
+
+No convé aplicar un patró uniforme sobre tota la miniatura sense considerar-ne els diferents plans i elements.
+
+La geometria ha de condicionar tant la posició de les marques com la tècnica seleccionada.
+
+### 13.7.5. Relació amb la representació del material
+
+Les tècniques d'aquest capítol són procediments generals. La seva aplicació concreta a materials determinats es desenvoluparà al recetari.
+
+Com a referència general:
+
+- El pinzell sec pot destacar relleus de pedra, fusta, teixits gruixuts i superfícies erosionades.
+- El puntejat pot representar granulat, porositat i petites irregularitats.
+- El ratllat pot suggerir fibres, vetes, estries i esgarrapades.
+- L'esponjat pot generar taques, dipòsits irregulars i superfícies heterogènies.
+
+Aquestes associacions no són exclusives. Una mateixa textura es pot construir mitjançant tècniques diferents i una tècnica es pot utilitzar per representar materials diversos.
+
+La selecció definitiva ha de considerar l'estructura, la geometria, el color i l'aparença del material.
+
+## 13.8. Errors freqüents i procediments de correcció
+
+### 13.8.1. Textura massa uniforme
+
+Una distribució excessivament regular pot produir un patró artificial, especialment quan es vol representar un material natural.
+
+Convé revisar la mida, l'orientació, la separació i la densitat de les marques. La variació s'ha d'introduir de manera coherent, evitant substituir una regularitat excessiva per una distribució completament aleatòria.
+
+### 13.8.2. Excés de densitat
+
+Una acumulació excessiva de marques pot ocultar el fons, reduir la claredat de la superfície i dificultar la lectura de la geometria.
+
+La correcció pot requerir reduir la intervenció a les zones més saturades o recuperar parcialment l'aparença de la superfície inferior.
+
+No és necessari mantenir la mateixa densitat en tota la peça.
+
+### 13.8.3. Marques massa grans
+
+Quan la mida de les marques no guarda proporció amb la miniatura, la textura pot semblar exagerada.
+
+Convé ajustar la mida de les eines i els moviments d'aplicació, tenint en compte l'escala i la distància d'observació.
+
+L'ampliació d'una miniatura no s'ha de convertir en l'únic criteri per avaluar la mida de la textura.
+
+### 13.8.4. Pinzell sec amb excés de pintura
+
+Una càrrega excessiva pot generar aplicacions massa contínues i cobrir zones que haurien de conservar la seva aparença anterior.
+
+Convé reduir la quantitat de pintura, millorar la descàrrega i comprovar el resultat abans de continuar.
+
+Si l'aplicació ja ha cobert massa la superfície, pot ser necessari recuperar parcialment les zones afectades mitjançant una intervenció localitzada.
+
+### 13.8.5. Puntejat repetitiu
+
+La repetició de punts amb la mateixa mida, separació i orientació pot produir una aparença mecànica.
+
+Convé variar-ne la distribució quan la textura ho requereixi, mantenint una relació coherent amb el material i la geometria.
+
+### 13.8.6. Ratllat excessivament regular
+
+Els traços massa paral·lels, uniformes o repetits poden fer que una superfície sembli decorada en lloc de texturitzada.
+
+La correcció requereix revisar la direcció dominant i modificar la longitud, la separació o la continuïtat de les línies.
+
+Tanmateix, una textura estructurada pot necessitar regularitat. La variació no s'ha d'introduir si contradiu la naturalesa del material.
+
+### 13.8.7. Esponjat amb taques massa grans
+
+Una eina massa porosa o una càrrega excessiva poden generar taques que dominin la superfície.
+
+Convé reduir la quantitat de pintura, modificar l'eina o comprovar-ne el contacte mitjançant proves prèvies.
+
+Si les marques resulten desproporcionades, pot ser necessari recuperar part del fons abans de continuar.
+
+### 13.8.8. Textura incompatible amb la geometria
+
+Les marques poden resultar visualment contradictòries quan ignoren l'orientació de la superfície o travessen límits que haurien de mantenir-se diferenciats.
+
+La correcció ha de recuperar la relació entre textura i forma, limitant o modificant les marques que dificulten la lectura de la peça.
+
+### 13.8.9. Combinació innecessària de tècniques
+
+Utilitzar diverses tècniques sobre una mateixa superfície sense una finalitat diferenciada pot produir saturació i pèrdua de claredat.
+
+Convé identificar què aporta cada procediment i eliminar les intervencions redundants.
+
+Una textura senzilla i ben integrada pot resultar més convincent que una altra construïda mitjançant nombroses aplicacions.
+
+## 13.9. Resultat esperat i criteris d'avaluació
+
+El resultat d'una tècnica de textura ha de permetre reconèixer una característica superficial concreta i mantenir-ne la integració amb la geometria i l'aparença general del material.
+
+| Criteri | Resultat esperat |
+|---|---|
+| Identitat de la textura | Les marques suggereixen la característica superficial prevista. |
+| Escala | La mida de les marques és proporcionada a la miniatura. |
+| Distribució | La densitat i la separació responen a l'efecte buscat. |
+| Coherència geomètrica | Les marques respecten la forma i l'orientació de la superfície. |
+| Control tècnic | La pintura es diposita a les zones previstes. |
+| Jerarquia visual | La textura no oculta innecessàriament l'estructura de la peça. |
+| Integració | La intervenció manté una relació adequada amb el material i el conjunt. |
+
+El criteri de finalització no depèn de la quantitat de marques ni de la complexitat de la tècnica utilitzada.
+
+Una textura es pot considerar prou desenvolupada quan la seva característica principal és recognoscible, conserva una escala adequada i no necessita noves intervencions per complir la seva funció visual.
+
+## 13.10. Exercicis pràctics
+
+### 13.10.1. Comparació de les quatre tècniques sobre una superfície de prova
+
+Preparar una superfície dividida en quatre zones.
+
+Aplicar a cadascuna una tècnica diferent: pinzell sec, puntejat, ratllat i esponjat.
+
+Comparar:
+
+- La forma de les marques.
+- La seva distribució.
+- El grau de control.
+- La relació amb la superfície.
+- L'aparença final.
+
+L'objectiu és reconèixer les diferències funcionals entre els quatre procediments.
+
+### 13.10.2. Construcció d'una textura granular mitjançant puntejat
+
+Seleccionar una superfície de prova i construir una textura mitjançant punts de mides i separacions diferents.
+
+Modificar progressivament la densitat i comparar els resultats.
+
+Avaluar quan la distribució permet reconèixer una textura granular i quan comença a ocultar excessivament el fons.
+
+### 13.10.3. Construcció d'una textura direccional mitjançant ratllat
+
+Preparar una superfície de prova i fer traços amb orientacions, longituds i separacions diferents.
+
+Comparar un patró predominantment paral·lel amb un altre que incorpori variacions de direcció.
+
+L'objectiu és comprendre com l'orientació de les marques modifica l'aparença de la textura.
+
+### 13.10.4. Comparació d'esponges i condicions d'aplicació
+
+Utilitzar eines poroses amb estructures diferents.
+
+Fer aplicacions de prova modificant la càrrega de pintura i la pressió.
+
+Comparar la mida, la forma i la distribució de les marques obtingudes.
+
+L'objectiu és identificar com les característiques de l'eina condicionen el resultat.
+
+### 13.10.5. Aplicació de pinzell sec sobre una superfície amb relleu
+
+Seleccionar una superfície amb relleus i depressions.
+
+Aplicar pinzell sec després de preparar i descarregar adequadament el pinzell.
+
+Comparar diferents quantitats de pintura i observar com canvia la distribució sobre les zones sortints.
+
+L'objectiu és reconèixer la relació entre geometria, càrrega i deposició selectiva.
+
+### 13.10.6. Exercici integrador: combinació de tècniques
+
+Seleccionar una superfície l'aparença de la qual requereixi més d'un tipus de textura.
+
+Identificar les característiques que es volen representar i escollir les tècniques adequades.
+
+Aplicar els procediments de manera progressiva, justificant la funció de cada intervenció.
+
+En acabar, comprovar l'escala, la densitat, la coherència geomètrica i la integració de la textura.
+
+L'objectiu és aprendre a combinar procediments sense acumular marques innecessàries ni perdre la lectura general de la superfície.
+
+## Síntesi del capítol
+
+El pinzell sec, el puntejat, el ratllat i l'esponjat permeten construir textures mitjançant mecanismes diferents de deposició de pintura.
+
+El pinzell sec destaca principalment els relleus; el puntejat genera patrons de punts i petites marques; el ratllat construeix estructures lineals i direccionals, i l'esponjat produeix distribucions irregulars mitjançant una eina porosa.
+
+Les quatre tècniques es poden utilitzar per separat o combinar-se quan cada procediment aporta una característica visual diferenciada.
+
+La seva aplicació requereix controlar la mida, la forma, l'orientació, la densitat i la distribució de les marques, així com la seva relació amb la geometria i l'escala de la miniatura.
+
+La finalitat no és acumular detalls ni reproduir totes les irregularitats d'un material, sinó seleccionar i representar les característiques superficials que permeten reconèixer-lo i mantenir una lectura visual coherent.
+
+L'aplicació concreta d'aquestes tècniques a materials i efectes determinats es desenvoluparà als capítols corresponents del recetari.
+
+---
+
+# 14. TRANSPARÈNCIES I SUPERFÍCIES TRANSLÚCIDES
+
+## 14.1. Fonaments de la representació
+
+Els materials transparents i translúcids plantegen una dificultat diferent de les superfícies opaques: la seva aparença no depèn només de la llum reflectida a l'exterior, sinó també de la llum que travessa l'objecte i de la informació del fons o de la seva estructura interna.
+
+Representar-los no consisteix simplement a aplicar un color clar, utilitzar pintura transparent o deixar una zona sense pintar. Cal organitzar senyals visuals que comuniquin què es veu a través del material, com es modifica la informació i quines característiques permeten reconèixer la superfície i la profunditat.
+
+Aquest capítol tracta:
+- Materials transparents, que permeten reconèixer elements situats darrere.
+- Materials translúcids, que transmeten llum però difuminen la informació del fons.
+- Objectes amb transmissió combinada, amb zones transparents, translúcides i opaques.
+- Materials amb profunditat interna, inclusions, variacions de gruix o estructures visibles.
+
+L'objectiu és representar aquests comportaments amb recursos pictòrics adaptats a la geometria i a l'escala. Les aplicacions específiques al vidre, els cristalls, el gel, les gemmes i els líquids es desenvolupen als capítols corresponents del recetari.
+
+## 14.2. Transparència, translucidesa i opacitat
+
+Un material transparent permet que la llum el travessi conservant prou informació espacial per reconèixer els objectes situats al darrere. No és visualment invisible: pot presentar reflexos superficials, vores visibles, distorsions i variacions relacionades amb la geometria i el gruix. La representació ha de comunicar tant la presència física de l'objecte com la transmissió de la informació posterior.
+
+Un material translúcid transmet llum, però en dispersa una part a l'interior i redueix la nitidesa de la informació de l'altre costat. Els elements del fons poden aparèixer difuminats, parcialment ocults o sense contorns definits. El grau de difusió varia segons el material.
+
+| Comportament | Transmissió de llum | Informació del fons |
+|---|---|---|
+| Transparent | Relativament direccional | Conserva prou definició per reconèixer els elements, tot i que pot modificar-los |
+| Translúcid | Amb dispersió | Redueix la nitidesa i difumina la informació |
+| Opac | Sense transmissió apreciable en les condicions considerades | Oculta els elements situats darrere |
+
+Cal distingir la **transparència del producte pictòric** de la **transparència de l'objecte representat**. La primera descriu la capacitat d'una pintura o tinta de deixar veure, en major o menor grau, la capa inferior; la segona descriu el comportament del material representat davant la llum i la informació situada al darrere. Una pintura transparent pot servir per modificar cromàticament una superfície opaca, però no converteix per si mateixa l'objecte en transparent. Aquesta distinció es relaciona amb les propietats dels productes del capítol 3.
+
+Els límits entre categories no sempre són absoluts. La composició, l'estructura interna, el gruix i les condicions d'il·luminació i observació en condicionen l'aparença. No s'ha de classificar un material només pel color o l'acabat: una superfície mat pot reflectir llum difusament sense ser translúcida, i una de brillant no ha de ser necessàriament transparent.
+
+Un mateix objecte pot combinar zones transparents, translúcides i opaques o mostrar variacions locals per gruix, curvatura, inclusions i irregularitats internes. La representació ha de reflectir aquestes diferències quan siguin rellevants.
+
+## 14.3. Senyals visuals que identifiquen el material
+
+La identificació depèn de la combinació de diverses senyals. Cap no s'ha d'aplicar automàticament: la seva importància varia segons el material, la geometria i el comportament que es vol comunicar.
+
+### 14.3.1. Informació visible del fons
+
+És una de les senyals principals de transparència. Es pot conservar la continuïtat de formes, colors o línies que haurien de veure's a través del material. No cal reproduir tot el fons: alguns elements recognoscibles poden ser suficients. La informació s'ha d'adaptar a la posició i la geometria. Ocultar-la completament pot fer que l'objecte sembli opac; conservar-la sense cap modificació quan hi hauria d'haver distorsió o difusió pot resultar poc convincent.
+
+### 14.3.2. Contorns i vores
+
+Els límits poden ser més visibles que les zones interiors, especialment quan hi ha canvis de gruix, superfícies corbes o variacions d'orientació. Es poden representar amb línies, contrastos o petites variacions cromàtiques. No tots els contorns necessiten la mateixa intensitat: un perfilat continu i uniforme pot fer que l'objecte sembli una peça opaca delimitada per una línia.
+
+### 14.3.3. Reflexos superficials
+
+Els reflexos comuniquen la presència física i l'orientació de la superfície. Poden aparèixer com bandes, línies o zones clares relacionades amb la geometria i la il·luminació. No són detalls decoratius independents: posició, extensió i intensitat han de ser coherents amb la forma.
+
+Una acumulació indiscriminada de zones clares pot ocultar la informació transmesa i fer que l'objecte sembli opac o metàl·lic. Cal seleccionar els reflexos amb moderació.
+
+### 14.3.4. Refracció i distorsió
+
+La refracció pot modificar la direcció de la llum i alterar la posició aparent, la forma o la continuïtat dels elements vistos a través del material. En miniatura es pot suggerir amb petits desplaçaments, modificacions de contorns o variacions de la informació del fons. No cal reproduir exactament el fenomen òptic: n'hi ha prou amb senyals coherents que indiquin que la informació travessa un objecte físic.
+
+### 14.3.5. Difusió i estructura interna
+
+En materials translúcids, la dispersió redueix la definició de la informació transmesa. Es pot representar mitjançant una pèrdua selectiva de contrast i nitidesa, transicions més suaus i variacions de claredat.
+
+L'interior pot contenir inclusions i partícules, bombolles i esquerdes, vetes i capes, variacions de densitat o zones amb diferents graus de transmissió. Aquests elements aporten profunditat i ajuden a distingir un material translúcid d'una superfície simplement pintada de clar. Han d'integrar-se en l'aparença del material i no semblar ornaments superposats.
+
+### 14.3.6. Gruix i curvatura
+
+El gruix i la curvatura poden modificar la transmissió, la visibilitat de les vores i l'aparença interna. En objectes corbs, la informació transmesa pot variar segons la zona; les superfícies planes solen requerir menys modificacions, però els límits i reflexos continuen sent importants. Cal conservar aquestes diferències quan ajudin a reconèixer la geometria.
+
+## 14.4. Anàlisi i planificació
+
+### 14.4.1. Identificació del comportament del material
+
+Abans de pintar convé determinar quin comportament ha de comunicar l'objecte. Cal preguntar-se si és transparent, translúcid, opac o combina comportaments; si es pot reconèixer el fons; si la informació conserva la definició o apareix difuminada; si el material té color propi; si presenta una estructura interna visible; si el gruix o la curvatura en modifiquen l'aparença, i quina importància tenen les vores i els reflexos.
+
+Aquestes qüestions permeten seleccionar els recursos pictòrics necessaris i evitar intervencions que contradiguin la naturalesa del material.
+
+### 14.4.2. Anàlisi de la geometria
+
+La forma de l'objecte condiciona la distribució de la informació visual. Una superfície plana, una peça corba, un recipient, una esfera o una làmina presenten diferències que afecten els contorns, els reflexos i la transmissió.
+
+La planificació ha de considerar la forma general, el gruix aparent, la curvatura, l'orientació de les superfícies, els límits visibles i la relació entre les zones interiors i exteriors. No convé aplicar un mateix patró de reflexos i contorns a objectes amb geometries diferents.
+
+### 14.4.3. Relació amb el fons
+
+El fons és un dels elements més importants per representar transparència. Quan l'objecte permet reconèixer el que hi ha darrere, la pintura ha de conservar prou informació perquè aquesta relació resulti comprensible.
+
+Si el fons desapareix completament, l'objecte es pot interpretar com una superfície opaca. Per contra, conservar tota la informació sense cap modificació pot resultar insuficient quan la geometria o les característiques del material haurien de produir distorsions.
+
+La planificació ha d'establir quins elements del fons es conserven, quins es modifiquen i quins es poden ometre.
+
+### 14.4.4. Selecció de senyals visuals
+
+No tots els materials necessiten representar totes les senyals possibles. En funció de l'objecte, es poden seleccionar la continuïtat de la informació del fons, contorns parcials, reflexos superficials, distorsions de la imatge transmesa, variacions de color, zones de diferent claredat, inclusions i estructures internes, i canvis d'aparença relacionats amb el gruix.
+
+La selecció ha de prioritzar les característiques que permetin reconèixer el material amb el menor nombre d'intervencions necessàries.
+
+### 14.4.5. Adaptació a l'escala de la miniatura
+
+L'escala limita la quantitat d'informació que es pot reproduir. Alguns reflexos, inclusions o distorsions presents en el material real poden ser massa petits per representar-los individualment. D'altres poden necessitar simplificar-se o exagerar-se per conservar-ne la llegibilitat.
+
+La representació ha de mantenir una relació equilibrada entre fidelitat visual, claredat i escala. L'objectiu no és reproduir tots els fenòmens òptics, sinó construir una il·lusió prou coherent perquè el material sigui recognoscible.
+
+## 14.5. Construcció d'una superfície transparent
+
+La construcció d'una superfície transparent ha de prioritzar la relació entre l'objecte i el fons. La seqüència s'adapta a si el fons ja està pintat, si es pot treballar independentment o si l'objecte s'incorpora com una peça separada.
+
+### 14.5.1. Identificació de la geometria
+
+Identificar la forma general, els límits, el gruix aparent, la curvatura i l'orientació de les superfícies. Aquestes característiques condicionen la visibilitat de les vores, els reflexos i les possibles distorsions.
+
+### 14.5.2. Selecció i adaptació de la informació del fons
+
+Determinar quina informació del fons ha de continuar visible. No sempre és necessari reproduir-lo completament: alguns elements recognoscibles poden ser suficients per comunicar la transmissió.
+
+Conservar o adaptar els elements que s'han d'observar a través del material segons la seva geometria. Si hi ha distorsió, es pot suggerir mitjançant petits desplaçaments, canvis de contorn o variacions de continuïtat.
+
+### 14.5.3. Contorns, reflexos i avaluació
+
+Incorporar els contorns necessaris per identificar la superfície física. No tots els límits han de presentar la mateixa intensitat: un perfilat continu i uniforme pot fer que l'objecte sembli opac.
+
+Afegir els reflexos que ajudin a comunicar la presència i l'orientació de la superfície. La seva distribució ha de respondre a la geometria i no ha d'ocultar innecessàriament la informació transmesa.
+
+Comprovar que la informació del fons, els contorns i els reflexos mantenen una relació coherent. La representació ha de permetre reconèixer l'objecte i, alhora, interpretar que es pot veure a través seu.
+
+No existeix una seqüència única per a tots els casos. El procediment depèn de si l'objecte està integrat en una escena ja pintada, si el fons es pot representar independentment o si es tracta d'una peça transparent afegida a la miniatura.
+
+## 14.6. Construcció d'una superfície translúcida
+
+La representació d'un material translúcid ha de suggerir el pas de llum sense conservar la nitidesa pròpia d'un material transparent.
+
+### 14.6.1. Determinació del grau de translucidesa i coloració
+
+Establir si el material permet reconèixer formes generals, si difumina fortament els contorns o si transmet llum sense proporcionar informació espacial prou clara per identificar el fons.
+
+Cal establir la coloració pròpia del material i valorar si es distribueix uniformement o presenta variacions relacionades amb el gruix, la composició o l'estructura interna.
+
+### 14.6.2. Variacions de claredat i reducció de la definició
+
+Organitzar diferències de claredat i intensitat cromàtica segons les zones. Algunes parts poden transmetre més llum, mentre que d'altres poden presentar una aparença més densa o difusa.
+
+Reduir selectivament la definició dels elements interns o del fons quan correspongui. La pèrdua de contrast no ha de ser necessàriament uniforme: pot variar segons el gruix i l'estructura representats.
+
+### 14.6.3. Estructures internes i avaluació
+
+Afegir les inclusions o irregularitats necessàries, com ara bombolles, partícules, vetes, capes o variacions de densitat. Aquests elements han de contribuir a la identitat del material i no convertir-se en una decoració independent.
+
+Comprovar que el resultat comunica el pas de llum a través del material i no simplement una superfície opaca de color clar o amb un acabat mat.
+
+## 14.7. Materials amb comportaments combinats i profunditat interna
+
+### 14.7.1. Objectes amb transmissió combinada
+
+Alguns objectes presenten zones transparents, translúcides i opaques. En aquests casos, la representació ha de diferenciar les àrees segons el seu comportament visual.
+
+Cal identificar les zones amb comportaments diferents, determinar quina informació es transmet en cadascuna, establir-ne els límits, representar les diferències de definició, color i profunditat, integrar les àrees en una mateixa geometria i comprovar que el resultat no sembli una combinació arbitrària de superfícies independents.
+
+Aquesta diferenciació pot ser especialment important en objectes amb parets de gruix diferent, estructures internes o components de materials diferents.
+
+### 14.7.2. Representació de la profunditat interna
+
+La profunditat interna es pot suggerir mitjançant l'organització de diferents plans visuals. Entre els recursos disponibles hi ha variacions cromàtiques internes, inclusions i partícules, contorns parcialment visibles, diferències de claredat, capes o estructures internes, canvis de definició i diferents intensitats de transmissió.
+
+Aquests elements s'han d'organitzar de manera que l'observador interpreti que hi ha una estructura situada dins del material i no únicament una decoració aplicada sobre la superfície.
+
+La quantitat d'informació interna s'ha d'adaptar a la mida de l'objecte i a la seva llegibilitat.
+
+### 14.7.3. Integració de contorns, reflexos i estructura interna
+
+La representació final ha de mantenir una relació coherent entre els diferents elements:
+
+- **Contorns:** identifiquen els límits de l'objecte.
+- **Reflexos:** comuniquen la presència de superfícies físiques i la seva orientació.
+- **Informació transmesa o difusa:** permet interpretar el comportament del material.
+- **Inclusions i variacions internes:** poden aportar profunditat.
+
+Cap d'aquests recursos no ha de dominar automàticament sobre els altres. Un excés de reflexos pot ocultar la transparència; un excés de detalls interns pot eliminar la sensació de transmissió, i un contorn massa uniforme pot convertir visualment l'objecte en una peça opaca.
+
+## 14.8. Control tècnic i avaluació de la representació
+
+### 14.8.1. Control de la transparència
+
+Una superfície transparent ha de permetre interpretar que hi ha informació situada darrere de l'objecte. Cal comprovar si el fons conserva elements recognoscibles, si els contorns resulten prou visibles, si els reflexos contribueixen a identificar la superfície, si les distorsions mantenen una relació amb la geometria i si la intervenció pictòrica no converteix l'objecte en una superfície opaca.
+
+### 14.8.2. Control de la translucidesa
+
+En una superfície translúcida s'ha de percebre el pas de llum sense que la informació del fons conservi necessàriament la seva nitidesa. Convé comprovar si hi ha una aparença de transmissió difusa, si la pèrdua de definició és coherent, si la coloració interna manté una distribució adequada, si les variacions de gruix o estructura resulten comprensibles i si la superfície conserva una aparença diferent de la d'un material opac.
+
+### 14.8.3. Control de la profunditat interna
+
+La profunditat interna s'ha d'integrar amb la superfície exterior. Cal comprovar que les inclusions, capes o irregularitats semblen formar part del material i no estar simplement col·locades a sobre. També convé revisar que la quantitat d'informació interna no dificulti la lectura general de l'objecte.
+
+### 14.8.4. Control dels reflexos i contorns
+
+Els reflexos i contorns han de reforçar la identificació del material sense substituir la informació que comunica la seva transparència o translucidesa. Convé revisar-ne la intensitat, l'extensió, la posició i la relació amb la geometria.
+
+### 14.8.5. Criteri de finalització
+
+La representació es pot considerar prou desenvolupada quan el comportament del material és recognoscible, la informació transmesa o difusa està organitzada de manera coherent, els contorns i reflexos permeten identificar la superfície, la profunditat interna és comprensible quan existeix, la quantitat de detalls és adequada a l'escala i l'objecte manté una lectura visual integrada amb la resta de la miniatura.
+
+El criteri de finalització no depèn de reproduir tots els fenòmens òptics possibles, sinó de comunicar clarament la identitat visual del material.
+
+## 14.9. Errors freqüents i procediments de correcció
+
+- **Confondre la transparència del producte amb la de l'objecte:** una pintura transparent no converteix automàticament la superfície representada en un material transparent. Cal revisar la relació entre l'objecte i el fons, així com els senyals de superfície i profunditat.
+- **Objecte aparentment invisible:** deixar zones sense informació pot impedir reconèixer-ne la presència. Cal incorporar contorns, reflexos i variacions necessàries sense cobrir el fons innecessàriament.
+- **Aparença opaca:** si desapareix la informació del darrere, cal recuperar els elements que s'haurien de veure i moderar les intervencions superficials.
+- **Fons massa nítid:** si es conserven tots els contorns i contrastos, cal reduir selectivament la definició quan la geometria o el material ho exigeixin.
+- **Excés de reflexos:** cal reduir-ne l'extensió o la intensitat i recuperar la relació entre superfície i transmissió.
+- **Senyals incoherents amb la forma:** cal revisar l'orientació, la curvatura i la posició dels reflexos i límits.
+- **Inclusió aparentment superposada:** cal revisar-ne la distribució, el contrast i la relació amb les zones de transmissió.
+- **Excés de detalls interns:** cal conservar només els elements que aporten informació útil.
+- **Confusió entre mat i translúcid:** una superfície mat pot reflectir difusament sense transmetre llum a través seu. Cal representar la transmissió i la relació entre il·luminació, interior i fons.
+
+La correcció ha de recuperar la relació entre el comportament del material, la seva geometria i la informació visual transmesa. No s'han d'afegir detalls automàticament per resoldre una representació poc clara.
+
+## 14.10. Resultat esperat i criteris d'avaluació
+
+El resultat ha de permetre diferenciar visualment els materials transparents, translúcids i aquells que presenten comportaments combinats.
+
+| Criteri | Resultat esperat |
+|---|---|
+| Identificació del material | El comportament transparent o translúcid és recognoscible. |
+| Transmissió | La informació situada darrere es conserva o es difumina segons el material representat. |
+| Superfície | Els contorns i reflexos contribueixen a identificar la geometria. |
+| Profunditat interna | Les inclusions i estructures, quan existeixen, semblen integrades en el material. |
+| Coherència geomètrica | La distribució dels senyals visuals respon a la forma de l'objecte. |
+| Escala | La informació se simplifica sense perdre les característiques essencials. |
+| Integració | La representació manté una relació coherent amb el conjunt de la miniatura. |
+
+Una representació pot considerar-se satisfactòria quan l'observador identifica el comportament del material sense necessitat que se'n reprodueixin tots els detalls físics.
+
+## 14.11. Exercicis pràctics
+
+1. **Transparència, translucidesa i opacitat:** preparar tres mostres; una conserva la definició del fons, una transmet llum amb menys nitidesa i una oculta la informació posterior. Comparar les senyals que permeten distingir-les.
+2. **Relació entre objecte i fons:** representar una forma senzilla davant d'un fons amb elements reconeixibles. Conservar la informació que s'hauria de veure a través del material i incorporar contorns i reflexos necessaris.
+3. **Transmissió difusa:** reduir selectivament definició i contrast del fons i incorporar coloració pròpia quan correspongui. Comparar diferents graus de difusió.
+4. **Variació de gruix:** representar una forma amb zones de gruix aparent diferent i introduir variacions de claredat, color i informació interna.
+5. **Contorns i reflexos:** comparar una distribució uniforme amb una altra adaptada a la geometria; evitar que aquests elements ocultin el comportament principal.
+6. **Representació integradora:** escollir un objecte transparent, translúcid o mixt; analitzar geometria, fons, estructura interna i senyals superficials; planificar i executar la representació i avaluar la coherència, l'escala i la profunditat.
+
+Els exercicis integren els fonaments del capítol i prioritzen la relació entre l'objecte i la informació que el travessa, no la simple aplicació de colors clars o transparents.
+
+## Síntesi del capítol
+
+La transparència i la translucidesa descriuen comportaments diferents dels materials que transmeten llum.
+
+Els materials transparents permeten conservar informació visual del fons, encara que la geometria i la refracció la puguin modificar. Els materials translúcids transmeten llum, però en redueixen la nitidesa a causa de la dispersió interna.
+
+La seva representació pictòrica requereix organitzar senyals visuals com la visibilitat del fons, els contorns, els reflexos, les distorsions, les variacions de gruix i les estructures internes.
+
+La tria dels recursos depèn del material, la geometria, l'escala i el comportament que es vol comunicar.
+
+És fonamental diferenciar la transparència d'una pintura de la transparència de l'objecte representat. Una pel·lícula pictòrica transparent es pot utilitzar per modificar una superfície, però no reprodueix per si mateixa la transmissió de llum d'un material.
+
+Els procediments específics per representar vidre, cristalls, gel, gemmes, líquids i altres materials es desenvoluparan als capítols corresponents del recetari.
+
+---
+
+# 15. IL·LUMINACIÓ APLICADA I PLANIFICACIÓ DE VALORS
+
+## 15.1. Funció de la planificació lumínica
+
+La il·luminació d'una miniatura s'ha de planificar abans i durant l'aplicació de la pintura. No n'hi ha prou d'aclarir les zones elevades i enfosquir les enfonsades: cal decidir com es distribueix la llum, quins elements han de destacar i quina jerarquia de valors facilitarà la lectura dels volums.
+
+Aquest capítol tracta l'aplicació pràctica dels fonaments d'il·luminació desenvolupats al capítol 5. No repeteix la física de la llum ni els procediments de construcció cromàtica dels capítols 8–12. Se centra en analitzar la miniatura, seleccionar un esquema lumínic, organitzar els valors, elaborar mapes i controlar-ne la coherència durant el procés.
+
+La planificació és una eina de decisió, no una recepta fixa. Pot simplificar o modificar la il·luminació observada per afavorir la lectura, sempre que mantingui una lògica visual recognoscible.
+
+## 15.2. Anàlisi inicial de la miniatura
+
+### 15.2.1. Identificació de l'estructura general
+
+Abans de decidir la il·luminació, cal estudiar la miniatura com un conjunt tridimensional. L'anàlisi ha d'identificar la silueta, els volums principals, l'orientació dels plans, les superfícies planes i corbes, les arestes, les superposicions, les zones protegides i els elements que sobresurten.
+
+La geometria orienta la distribució tonal, però no determina automàticament quines zones han de ser clares o fosques. L'orientació respecte de la font, la posició de l'observador, el material i la intenció visual també hi intervenen.
+
+### 15.2.2. Identificació dels elements principals i secundaris
+
+Cal establir una jerarquia entre els elements de la miniatura. El rostre, una armadura o una arma poden actuar com a focus d'interès; els ornaments, els accessoris i la peanya poden requerir un contrast més contingut.
+
+Aquesta jerarquia no depèn només de la lluminositat: també hi influeixen el contrast, la mida, la posició i la saturació. La planificació ha de determinar quins elements han de destacar i quins han d'acompanyar la lectura general.
+
+### 15.2.3. Condicions d'observació i referències
+
+Quan s'utilitzen fotografies o altres referències, convé distingir la il·luminació real de l'objecte, la seva aparença des del punt de vista de l'observador i la interpretació pictòrica que es vol construir.
+
+L'exposició, el processament fotogràfic i la il·luminació de l'entorn poden alterar els valors. Per tant, les referències serveixen per estudiar relacions, no per copiar-les mecànicament.
+
+Quan no hi ha una referència específica, es pot establir un esquema propi, sempre que les decisions mantinguin una relació visual coherent.
+
+### 15.2.4. Anàlisi de les zones superposades
+
+Les parts que se superposen poden projectar ombres, ocultar superfícies o modificar-ne la llegibilitat. Abans de pintar convé identificar els punts de contacte, les zones protegides, les cavitats i els elements que sobresurten.
+
+Aquesta anàlisi permet anticipar quines parts necessitaran més contrast per separar-se i quines poden mantenir una transició més suau.
+
+## 15.3. Selecció de l'esquema d'il·luminació
+
+### 15.3.1. Elecció del plantejament general
+
+El plantejament pot ser naturalista, direccional, relativament uniforme, dramàtic o simplificat per millorar la lectura. Aquestes opcions no són categories rígides ni mútuament excloents. La tria depèn de la geometria, la composició, els materials, l'escala i la intenció expressiva.
+
+Una il·luminació molt contrastada pot resultar adequada per a una figura dramàtica, però dificultar la lectura d'una miniatura amb molts elements petits. Una distribució més uniforme pot facilitar la identificació dels volums, encara que produeixi una aparença menys expressiva.
+
+### 15.3.2. Selecció de la font principal
+
+És recomanable establir una font principal identificable i definir-ne la posició, la direcció, la mida aparent i la intensitat relativa.
+
+Per a una primera planificació, treballar amb una font dominant simplifica les decisions i facilita mantenir la coherència. Això no implica que tota la il·luminació hagi de procedir exclusivament d'aquesta font: també hi poden intervenir contribucions ambientals i indirectes.
+
+### 15.3.3. Direcció de la il·luminació
+
+La direcció pot ser superior, lateral, frontal, posterior o obliqua. Cadascuna modifica la relació entre plans, volums, silueta i ombres.
+
+- Una direcció superior pot destacar superfícies orientades cap amunt i generar ombres sota els volums.
+- Una direcció lateral pot reforçar la separació entre plans i destacar la profunditat.
+- Una direcció frontal pot facilitar la lectura d'alguns detalls i reduir determinades diferències d'orientació.
+- Una direcció posterior pot destacar la silueta i separar elements del fons.
+- Una direcció obliqua pot combinar diferències d'orientació i produir una distribució més complexa.
+
+Aquestes descripcions són orientatives. No s'ha d'adoptar automàticament una il·luminació zenital: cal escollir la que millor respongui a la miniatura i al resultat buscat.
+
+### 15.3.4. Contribucions ambientals i fonts secundàries
+
+També es poden considerar contribucions ambientals, indirectes o fonts secundàries per conservar informació en zones fosques, separar elements superposats o relacionar la figura amb l'entorn.
+
+Aquestes contribucions han de tenir una funció clara i no anul·lar la jerarquia de la font dominant. Si s'incorporen sense un criteri definit, poden aparèixer contradiccions entre les diferents superfícies. No cal il·luminar totes les zones en ombra.
+
+### 15.3.5. Coherència global
+
+La coherència global no exigeix reproduir exactament la física de la llum. Exigeix que les diferències entre superfícies es puguin justificar per la seva orientació, geometria, material, exposició o per una decisió artística deliberada.
+
+Convé revisar especialment el cap i el rostre, el tors, les extremitats, les armes i accessoris, els plecs i les superfícies superposades. Les diferències locals han de contribuir a la lectura del conjunt i no semblar esquemes d'il·luminació independents.
+
+## 15.4. Planificació dels valors tonals
+
+El valor organitza les diferències de claredat i foscor que permeten llegir els volums, separar elements i dirigir l'atenció. Cal distingir quatre funcions que poden coincidir, però no són equivalents:
+
+- **Color local:** valor propi del color del material.
+- **Valor d'il·luminació:** modificació tonal que representa la llum rebuda.
+- **Separació:** diferència necessària per distingir superfícies o peces contigües.
+- **Èmfasi:** contrast utilitzat per dirigir l'atenció.
+
+Una superfície de color fosc pot rebre una il·luminació intensa; una superfície clara pot romandre en ombra. Per això, no s'ha de confondre el color local amb el valor final que tindrà en la representació.
+
+Abans de pintar, convé establir una jerarquia entre llums, transicions, ombres i accents extrems. Es poden utilitzar pocs nivells o subdivisions més detallades: importa més la relació entre ells que no pas la quantitat. Una escala funcional de cinc nivells —molt clar, clar, intermedi, fosc i molt fosc— pot servir de guia, però no és obligatòria ni representa proporcions de mescla mesurades.
+
+Els contrastos s'han de distribuir selectivament. Cal diferenciar el contrast que defineix la geometria, el que separa elements, el que destaca un focus i el que correspon a l'aparença del material. Una il·luminació suau pot requerir diferències moderades; una de dramàtica pot concentrar contrastos més amplis. Els valors màxims, tant clars com foscos, han de reservar-se per a les zones on compleixin una funció concreta. No hi ha una proporció universal de llums i ombres.
+
+## 15.5. Planificació per zones
+
+La divisió per zones facilita l'organització del treball, però cada part s'ha d'integrar després en la miniatura completa.
+
+- **Cap i rostre:** cal considerar l'orientació dels plans, la relació entre front, galtes, nas i mandíbula, les ombres projectades i la separació respecte del cabell, casc o accessoris. Si el rostre no és el focus principal, la seva jerarquia pot ser més continguda.
+- **Tronc i volums principals:** cal identificar plans frontals, superfícies superiors i laterals, volums corbs, peces superposades i zones protegides. No totes les superfícies superiors han de rebre automàticament els valors més clars.
+- **Extremitats:** braços i cames canvien d'orientació i se superposen al tronc. Cal revisar especialment mans, genolls, colzes i botes, sense permetre que els elements secundaris competeixin innecessàriament amb els principals.
+- **Armes i accessoris:** la seva orientació, posició, relació amb el cos, punts de contacte i funció compositiva determinen el tractament. Poden destacar o quedar subordinats segons la seva importància.
+- **Integració:** cal comprovar la continuïtat de la direcció general, la relació entre superfícies pròximes, la separació dels volums, la coherència de les ombres i la distribució dels punts de màxima claredat.
+
+## 15.6. Mapes d'il·luminació i de valors
+
+El **mapa d'il·luminació** representa de manera simplificada la direcció i la distribució prevista de la llum. Es pot elaborar sobre una silueta, un dibuix o una fotografia anotada. Ha de mostrar la font dominant i les principals zones il·luminades i en ombra, sense necessitat de reproduir tots els detalls.
+
+El **mapa de valors** concreta com es traduirà aquest plantejament en zones clares, intermèdies i fosques. Els dos mapes estan relacionats, però no són equivalents: el primer descriu el plantejament lumínic; el segon, l'organització tonal escollida per representar-lo. Un mateix esquema de llum pot donar lloc a mapes de valors diferents segons el color local, la intenció artística i la jerarquia visual.
+
+Per elaborar-los:
+
+1. Identificar les superfícies i els volums principals.
+2. Establir la direcció de la font dominant.
+3. Marcar les zones de llum, transició i ombra.
+4. Situar els accents tonals principals.
+5. Revisar la separació dels elements i la coherència entre zones.
+6. Comprovar que el conjunt es llegeix a l'escala de la miniatura.
+
+Abans de pintar, cal verificar que la direcció sigui comprensible, que les ombres mantinguin una relació coherent, que hi hagi una jerarquia tonal i que els accents estiguin justificats. És preferible corregir les contradiccions en el mapa abans de traslladar-les a la superfície.
+
+## 15.7. Aplicació i control
+
+La planificació determina quines relacions de claredat i foscor es volen aconseguir; la construcció cromàtica determina com es materialitzen mitjançant colors i aplicacions successives. Són processos relacionats, però diferents. Les capes base, els degradats, les veladures i els perfilats es desenvolupen als capítols tècnics corresponents; aquí es decideix quina informació lumínica cal construir i on.
+
+Durant l'execució s'ha de revisar periòdicament:
+
+- Si les zones il·luminades mantenen la direcció prevista.
+- Si les ombres i les diferències de valor continuen sent coherents.
+- Si els contrastos es concentren en les zones adequades.
+- Si els elements principals conserven la jerarquia.
+- Si algun accent o superfície ha adquirit un protagonisme no previst.
+
+Cal alternar l'observació propera —útil per detectar problemes d'aplicació— amb la distància habitual, que permet valorar la lectura general. Si apareixen problemes, es pot modificar la intensitat d'una llum, reforçar o reduir una ombra, recuperar la separació entre peces, reordenar un accent o simplificar una distribució massa fragmentada. Sovint n'hi ha prou amb una correcció localitzada.
+
+La planificació és una referència flexible: es pot modificar quan l'execució ho exigeixi, però els canvis han de respondre a una decisió conscient. L'avaluació final ha de comprovar la direcció general, la lectura dels volums, la jerarquia entre elements i la coherència de la miniatura com a conjunt.
+
+## 15.8. Errors freqüents i correccions
+
+| Error | Correcció |
+|---|---|
+| Començar sense un criteri lumínic | Aturar l'aplicació, definir una direcció general i revisar les zones principals. |
+| Adoptar sempre una llum zenital | Escollir la direcció segons la geometria, la composició i la intenció visual. |
+| Confondre superfícies superiors amb superfícies il·luminades | Valorar l'orientació real dels plans respecte de la font. |
+| Aplicar la mateixa distribució tonal a tota la figura | Adaptar el tractament a la geometria i la funció de cada zona, mantenint una lògica comuna. |
+| Utilitzar massa valors sense jerarquia | Reduir els nivells i diferenciar-ne les funcions principals i secundàries. |
+| Repetir els contrastos màxims per tota la miniatura | Concentrar-los en els focus d'interès i moderar la resta. |
+| Confondre color local i il·luminació | Analitzar per separat el color del material i la funció tonal de la zona. |
+| Afegir fonts secundàries sense jerarquia | Definir una font dominant i justificar cada contribució addicional. |
+| Mantenir un mapa rígid malgrat els problemes | Modificar-lo quan hi hagi una raó visual clara i conservar la coherència global. |
+| Avaluar només de prop | Alternar la revisió de detall amb l'observació de la miniatura completa. |
+
+## 15.9. Resultat esperat i criteris d'avaluació
+
+El resultat ha de permetre reconèixer els volums, diferenciar els elements i comprendre la jerarquia visual. La planificació és satisfactòria quan orienta l'execució i permet avaluar-la sense dependre d'una direcció de llum o d'una distribució tonal universal.
+
+Cal valorar la coherència de la direcció principal, la relació entre llums i ombres, la separació de superfícies, la selecció dels accents, la jerarquia entre elements i la llegibilitat des de la distància habitual. La fidelitat física no és l'únic criteri: també compta que les simplificacions artístiques siguin intencionades i visualment consistents.
+
+## 15.10. Exercicis pràctics
+
+### 15.10.1. Comparació de direccions d'il·luminació
+Seleccionar una miniatura o una forma tridimensional i elaborar esquemes amb llum superior, lateral, frontal i posterior. Identificar les zones il·luminades, les ombres i els volums que guanyen protagonisme. Comparar-ne la lectura i justificar la tria.
+
+### 15.10.2. Elaboració d'un mapa de valors
+Representar les superfícies principals d'una miniatura i distribuir-hi zones clares, intermèdies i fosques. Situar els accents i comprovar si la jerarquia es reconeix abans de començar a pintar.
+
+### 15.10.3. Planificació per zones
+Dividir la figura en cap, tronc, extremitats, armes i accessoris. Assignar una funció tonal a cada zona i comprovar que les decisions respecten la direcció general.
+
+### 15.10.4. Comparació de jerarquies tonals
+Preparar dos mapes per a una mateixa miniatura: un amb contrastos distribuïts de manera uniforme i un altre amb els contrastos principals concentrats en els focus d'interès. Comparar-ne la llegibilitat sense assumir que una solució és sempre superior.
+
+### 15.10.5. Revisió de la coherència lumínica
+Analitzar una miniatura pintada o un esquema previ. Detectar contradiccions en la direcció, les ombres, la intensitat de les llums i els accents. Proposar correccions localitzades.
+
+### 15.10.6. Exercici integrador
+Planificar una miniatura completa: analitzar-ne la geometria i la jerarquia, seleccionar la font i la direcció principals, valorar les contribucions secundàries, elaborar els mapes d'il·luminació i valors, distribuir el tractament per zones, aplicar-lo progressivament i revisar-ne la coherència i la llegibilitat.
+
+## Síntesi del capítol
+
+La il·luminació aplicada requereix analitzar la geometria i la funció dels elements, seleccionar un esquema coherent i traduir-lo en una jerarquia de valors. Els mapes d'il·luminació i de valors permeten anticipar les decisions, però no són equivalents ni constitueixen receptes fixes. Durant l'execució cal revisar el resultat des de diferents distàncies i ajustar les zones que ho necessitin. No hi ha una direcció lumínica ni una proporció de llums i ombres universal: la solució depèn de la miniatura, la intenció visual i la llegibilitat del conjunt.
+
+## Figures proposades per a la fase gràfica final
+
+1. Anàlisi de la geometria, els volums i les superfícies principals.
+2. Comparació de diferents direccions d'il·luminació sobre una mateixa miniatura.
+3. Mapa de valors amb nivells funcionals, sense associar-los a mescles universals.
+4. Comparació entre mapa d'il·luminació i mapa de valors.
+5. Planificació per zones de la figura.
+6. Distribució uniforme i distribució jerarquitzada del contrast.
+7. Exemples de coherència i contradicció lumínica, diferenciant els errors de les simplificacions deliberades.
+8. Procés integral des de l'anàlisi inicial fins a l'avaluació.
+
+## Registre editorial
+
+- Estructura: deu apartats, síntesi i sis exercicis.
+- Enfocament: anàlisi, selecció de l'esquema, jerarquia tonal, mapes, planificació per zones, aplicació i avaluació.
+- Delimitació: els fonaments físics i perceptius corresponen al capítol 5; la teoria del color, al capítol 4; les tècniques d'aplicació, als capítols corresponents. Aquest capítol no les repeteix.
+- Criteri central: no hi ha una direcció de llum, una proporció de llums i ombres ni una escala tonal universal.
+- Estat de verificació: síntesi basada en el contingut disponible del document de referència. Les receptes i els resultats no es presenten com a proves físiques verificades.

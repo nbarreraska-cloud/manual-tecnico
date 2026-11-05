@@ -779,4 +779,14 @@ S'ha reprès la revisió de C38 a partir del Markdown de la branca i del documen
 - S'ha corregit a C38 l'error gramatical «el brillantor» per «la brillantor».
 - No s'han modificat receptes, ingredients, proporcions ni procediments tècnics. No s'han alterat els capítols SC més enllà de les remissions o ajustos terminològics necessaris.
 
-La conciliació AE de C33–C34 i la revisió global de coherència i referències continuen pendents. Els capítols SC continuen protegits.
+La conciliació AE de C33–C34 s'ha completat amb la font disponible. La revisió global de coherència i referències continua pendent. Els capítols SC continuen protegits.
+
+### Actualització F4 — conciliació AE de C33–C34 i correccions terminològiques (05/11/2026)
+
+- C33 conserva les 13 receptes A–M i sis exercicis; C34 conserva les vuit receptes A–H i sis exercicis. No s'han identificat omissions que justifiquin reobrir-ne el contingut tècnic.
+- Les remissions de C33 i C34 a C37 per a la selecció i aplicació de vernissos i altres acabats superficials coincideixen amb la font disponible. C38 continua reservat a protecció i conservació; no s'han de confondre les dues funcions.
+- Confirmades les remissions C33→C34 (translucidesa/vidre), C34→C33 (materials), C34→C31 (contingut líquid) i C33/C34→C37 (acabats).
+- Corregides les concordances de «brillantor» a C22, C23, C31, C33, C34 i C37. La comprovació dirigida dels 39 Markdown no ha detectat altres aparicions de les formes masculines errònies.
+- A C33, «hendidures» s'ha substituït per «cavitats» en sis aparicions, perquè en aquests procediments es refereix a zones enfonsades o recessos de la superfície.
+- També s'han regularitzat les construccions «la selecció i l'aplicació ... corresponen/es desenvolupen» a C33–C34.
+- No s'han alterat receptes, ingredients, proporcions ni procediments tècnics. La següent actuació és la revisió global de coherència i referències dels 39 capítols.

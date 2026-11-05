@@ -158,30 +158,139 @@ Les proporcions són dades d'una mescla concreta, no receptes universals. Les pi
 
 ## 4.9. Construcció i planificació de paletes
 
-Una paleta s'ha de planificar com un conjunt, no com una acumulació de colors triats individualment. La coherència depèn de les relacions entre superfícies, la funció de cada color i la jerarquia visual. El procés es pot ordenar així:
+Una paleta és una selecció organitzada de colors que s'utilitzaran en una composició. La seva planificació permet anticipar les relacions cromàtiques i evitar decisions improvisades que puguin generar una composició poc coherent.
 
-1. **Definir la intenció cromàtica:** establir la sensació o identitat visual buscada, per exemple una composició freda, càlida, naturalista, ombrívola o de contrast elevat.
-2. **Seleccionar un color dominant:** triar el color que establirà la identitat principal de la figura.
-3. **Escollir els colors secundaris:** incorporar colors que complementin el dominant i permetin diferenciar superfícies.
-4. **Introduir accents:** seleccionar colors per destacar detalls o punts d'interès.
-5. **Incorporar neutres o colors de croma baix:** equilibrar la composició i evitar que tots els elements competeixin.
-6. **Planificar per superfícies:** assignar colors a armadures, teixits, pell, accessoris i altres elements, considerant-ne les relacions.
-7. **Comprovar la paleta:** preparar mostres conjuntes, valorar diferències de matís, valor i croma i revisar la jerarquia abans de començar.
+No cal seleccionar tots els colors d'una miniatura abans de començar a pintar, però convé establir una orientació general. La planificació inicial ha de permetre modificacions durant l'execució.
 
-La selecció no ha de dependre exclusivament del cercle cromàtic. També cal considerar l'extensió de cada superfície, la seva funció dins la figura i la llegibilitat des de la distància habitual d'observació.
+### 4.9.1. Definir la intenció cromàtica
+
+Abans de seleccionar les pintures, convé identificar quin tipus de resultat es vol aconseguir. Algunes possibilitats són:
+
+- Una composició predominantment càlida.
+- Una composició predominantment freda.
+- Una paleta naturalista.
+- Una paleta fantàstica o estilitzada.
+- Una composició de contrast elevat.
+- Una composició de contrast moderat.
+- Una paleta limitada i unificada.
+- Una composició amb accents cromàtics intensos.
+
+La intenció cromàtica ha d'orientar la selecció posterior.
+
+### 4.9.2. Seleccionar un color dominant
+
+El color dominant estableix la identitat cromàtica principal de la composició. No ha de ser necessàriament el color més intens ni el que ocupa la superfície més gran. La seva importància depèn de la funció visual que exerceix dins del conjunt.
+
+Pot ser un color relativament apagat que permeti que altres elements destaquin mitjançant contrastos controlats.
+
+### 4.9.3. Seleccionar colors secundaris
+
+Els colors secundaris permeten diferenciar superfícies i enriquir la composició. La seva elecció ha de considerar:
+
+- La relació de matís amb el color dominant.
+- Les diferències de valor.
+- Les diferències de croma.
+- La temperatura relativa.
+- La funció de cada superfície.
+
+### 4.9.4. Introduir accents cromàtics
+
+Els accents són petites zones de color que poden atreure l'atenció. Es poden utilitzar en ulls, gemmes, detalls decoratius, símbols, efectes màgics o elements d'equipament.
+
+La seva eficàcia depèn de la relació amb el conjunt. Si tots els detalls presenten una intensitat cromàtica elevada, poden perdre la seva funció jeràrquica.
+
+### 4.9.5. Incorporar colors neutres
+
+Els colors neutres o de baixa intensitat cromàtica poden ajudar a equilibrar una paleta. Permeten reduir la competència entre superfícies i crear zones de transició visual.
+
+La seva utilització no implica que hagin de ser sempre grisos, negres o blancs. També es poden emprar colors cromàtics amb un croma reduït.
+
+### 4.9.6. Planificar per superfícies
+
+Una miniatura es pot dividir en superfícies o grups d'elements:
+
+- Superfície principal.
+- Superfícies secundàries.
+- Elements naturals.
+- Elements decoratius.
+- Detalls d'interès.
+- Base i entorn.
+
+Aquesta divisió permet assignar funcions cromàtiques sense tractar cada peça com un element independent. La paleta ha d'integrar la figura completa i, quan correspongui, la seva peanya o l'entorn.
+
+### 4.9.7. Comprovar la paleta abans d'aplicar-la
+
+Un cop seleccionats els colors, convé fer una prova conjunta. L'avaluació ha de considerar:
+
+- La coherència general dels matisos.
+- Les diferències suficients de valor.
+- La distribució dels cromes.
+- L'equilibri entre temperatures.
+- La jerarquia dels elements.
+- La lectura de la composició a diferents distàncies.
+
+La paleta es pot modificar durant el procés. La planificació inicial no s'ha de convertir en una limitació que impedeixi corregir decisions que no funcionin.
 
 ## 4.10. Aplicació pràctica: planificació cromàtica d'una armadura blava
 
-La planificació d'una armadura blava permet integrar les dimensions i relacions estudiades sense establir una recepta tancada:
+Aquest exemple mostra com aplicar els conceptes del capítol a la planificació cromàtica d'una superfície concreta. No constitueix una recepta de pintura validada ni estableix proporcions universals. La seva finalitat és mostrar un procés de presa de decisions abans de seleccionar i aplicar les pintures.
 
-1. **Definir la intenció:** decidir si es busca una armadura freda i sòbria, una aparença fantàstica més saturada o una combinació de contrast elevat.
-2. **Identificar les dimensions:** seleccionar el matís blau i decidir quines diferències de valor i croma calen per separar les superfícies.
-3. **Escollir una relació cromàtica:** una organització monocromàtica manté la unitat; una d'anàloga introdueix continuïtat, i una de complementària pot generar contrast amb elements ataronjats.
-4. **Planificar els colors secundaris:** triar els colors dels teixits, detalls, ornaments i elements propers, evitant que tots tinguin la mateixa presència.
-5. **Establir la jerarquia:** decidir quines superfícies han de dominar, quines han de quedar en segon pla i on s'introduiran els accents.
-6. **Avaluar i corregir:** preparar mostres conjuntes, observar-les a certa distància i comprovar si l'armadura es diferencia de la resta. Si no destaca, cal identificar si el problema és el matís, el valor, el croma o la relació amb els colors veïns abans de modificar la mescla.
+### 4.10.1. Definir la intenció
 
-La planificació és una base de treball que ha de continuar oberta als ajustos durant l'execució.
+Es planteja pintar una armadura blava que ha de transmetre una sensació d'unitat, però conservar prou diferenciació visual respecte dels elements pròxims.
+
+La intenció inicial és construir una paleta basada en una família de blaus, amb variacions de valor i temperatura.
+
+### 4.10.2. Identificar les dimensions del color
+
+Abans de seleccionar les pintures, es defineixen les necessitats cromàtiques:
+
+- **Matís:** família blava.
+- **Valor:** disposar de tons foscos, mitjans i clars.
+- **Croma:** mantenir una intensitat suficient per reconèixer el blau, sense exigir que totes les zones tinguin la mateixa intensitat.
+
+Aquesta decisió evita confondre la necessitat d'aclarir una superfície amb la necessitat d'augmentar-ne el croma o modificar-ne el matís.
+
+### 4.10.3. Escollir una relació cromàtica
+
+Es pot plantejar una harmonia monocromàtica o una d'anàloga.
+
+En la primera, les variacions es mantenen principalment dins de la família blava. En la segona, s'incorporen colors pròxims, com ara determinats blaus verdosos o violacis.
+
+La tria dependrà del resultat visual que es vulgui aconseguir i de la relació amb la resta de la miniatura.
+
+### 4.10.4. Planificar els colors secundaris
+
+Un cop definida l'armadura, cal valorar els elements que l'envolten. Per exemple:
+
+- Els teixits podrien utilitzar una família cromàtica diferent.
+- Els elements metàl·lics podrien actuar com a superfícies de contrast.
+- Els detalls decoratius podrien incorporar petits accents.
+- La peanya podria ajudar a integrar la figura mitjançant una relació cromàtica coherent.
+
+La selecció ha d'evitar que tots els elements competeixin visualment amb l'armadura.
+
+### 4.10.5. Comprovar la jerarquia
+
+Abans de començar a pintar, es pot fer un esquema senzill de la miniatura i assignar a cada superfície una funció cromàtica. Després es comprova:
+
+- Si l'armadura es reconeix com a element principal.
+- Si les superfícies secundàries es diferencien prou.
+- Si els detalls d'interès destaquen sense dominar tota la composició.
+- Si hi ha diferències de valor suficients per separar les formes.
+
+La construcció de llums i ombres sobre l'armadura es realitzarà posteriorment seguint els criteris del capítol 5.
+
+### 4.10.6. Avaluació i correcció
+
+La planificació cromàtica es considera adequada quan permet establir una relació coherent entre les superfícies i una jerarquia visual clara.
+
+Si el resultat no funciona, no cal modificar tota la paleta. Pot ser suficient ajustar-ne una dimensió:
+
+- Canviar el matís d'un element secundari.
+- Augmentar o reduir una diferència de valor.
+- Disminuir el croma d'un detall.
+- Modificar la temperatura relativa d'una superfície.
 
 ## 4.11. Errors habituals en l'aplicació de la teoria del color
 

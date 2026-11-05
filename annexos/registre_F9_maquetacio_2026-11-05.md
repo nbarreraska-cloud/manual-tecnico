@@ -183,3 +183,16 @@ S'ha actualitzat `tools/generate_f9_docx.py` (commit `7754dfd10e9859da66bc071b3b
 - PDF: workflow `42120149896`, conclusió `success`; 295 pàgines A4, LibreOffice 26.2.6.3, índex actualitzat i instrucció provisional absent. SHA-256: `a23e6c14dec19e1fab1b4af8122ece7a4da6c0341dd779e5402048a501fb6876`. Artefacte `13456709726`.
 
 **Límit de verificació:** els workflows confirmen generació, fidelitat textual, integritat i paginació, però no constitueixen una inspecció visual ampliada de totes les targetes. Cal confirmar especialment que les fitxes amb més entrades no presentin text comprimit o desbordat. No s'ha modificat `main`.
+
+## Ajust de separació i control de paràgrafs — 05/11/2026
+
+A petició de l'usuari, s'ha pres la fitxa Sepia Ink (72.091) com a referència de densitat textual per augmentar la separació entre blocs de les 48 fitxes, mantenint el cos tipogràfic ampliat i la quadrícula de sis fitxes per pàgina. L'ajust afecta els espais després de les línies d'identificació, les característiques de gamma i les entrades de presència al manual; no modifica el text de les fitxes.
+
+S'han reforçat al generador les propietats de composició dels paràgrafs (keep_together, widow_control i, als encapçalaments, keep_with_next). Les files de les targetes continuen protegides contra divisió (cantSplit) i mantenen l'alçada de 7,75 cm. El canvi final del generador és al commit 7d28fd08c5b1d83ee6a8db6b3f868a6ede6413df.
+
+Regeneració final sobre aquest commit:
+- Word: workflow 42121260760, conclusió success; auditoria textual superada (39 capítols, 6 annexos A–F, 48 fitxes × 7 seccions). Artefacte 13459625615.
+- PDF: workflow 42121260751, conclusió success; 296 pàgines A4, 6.610.029 bytes, LibreOffice 26.2.6.3; índex actualitzat i instrucció provisional absent. SHA-256: 8c79ab0a2140a6ad2ae7dd4e28b7df780eea244209abe7fad6a8adbb1532e6f9. Artefacte 13460155051.
+- Auditoria de text: 146.374 paraules de fonts principals, 150.416 paraules al cos DOCX; ordre de fonts preservat i 48 identitats de l'Annex F i 11 referències de capítol comprovades.
+
+Límit de verificació pendent: aquesta execució PDF comprova exportació, índex, integritat i recompte de pàgines, però no genera ni adjunta fulls de contacte ni imatges de les pàgines. Per tant, no s'ha pogut fer des d'aquesta execució una inspecció visual ampliada de la fitxa Sepia Ink ni de les 48 targetes, ni confirmar visualment que cap targeta no desbordi el marc. Tampoc s'ha fet una comprovació geomètrica exhaustiva de tots els salts de pàgina del cos. Les regles tipogràfiques redueixen el risc de dividir paràgrafs i separar títols del text, però no són prova visual de zero incidències.

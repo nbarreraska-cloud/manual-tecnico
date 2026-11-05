@@ -379,16 +379,6 @@ Les referències sobre fibres i estructures tèxtils fonamenten les diferències
 - La protecció i conservació es desenvolupen al capítol 38.
 - El diagnòstic general d'errors correspon al capítol 39.
 
-## Referències i recursos
-
-- Canadian Conservation Institute. *Caring for textiles and costumes: Preventive conservation guidelines for collections*. Government of Canada. https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/textiles-costumes.html
-- Canadian Conservation Institute. *Natural Fibres – CCI Notes 13/11*. Government of Canada. https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/natural-fibres.html
-- Canadian Conservation Institute. *The Identification of Natural Fibres – CCI Notes 13/18*. Government of Canada. https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/identification-natural-fibres.html
-- The George Washington University Museum and The Textile Museum. *Fiber*. https://museum.gwu.edu/fiber
-- Andrea Press. *Frequently Asked Questions about painting figure techniques*. Apartat dedicat a teixits i teles. https://www.andrea-world.com/descargas/AP%20030I%20TEXTS%20ENG.pdf
-
-Les referències sobre fibres i estructures tèxtils fonamenten les diferències materials descrites. Els recursos de pintura s'utilitzen com a orientació pràctica, no com a validació experimental de les receptes proposades.
-
 ## Figures proposades per a la fase gràfica final
 
 1. Comparació esquemàtica de tafetà, sarga i satí.

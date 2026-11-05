@@ -10,7 +10,7 @@ Cal distingir el metall original de l'alteració superficial. Una peça pot cons
 
 L'**oxidació** és un procés químic relacionat amb la pèrdua d'electrons i pot formar part de la corrosió. La **corrosió** és la degradació d'un metall per interacció química o electroquímica amb l'entorn. No tota oxidació és rovell ni tots els productes de corrosió tenen el mateix color.
 
-- **Ferro i acer:** la rovell està relacionada especialment amb aigua i oxigen; humitat, sals i contaminants poden accelerar-la. Pot ser taronja, vermella terrosa, marró, fosca o gairebé negra; compacta, pulverulenta, escamosa, esquerdada o despreses.
+- **Ferro i acer:** el rovell es forma especialment en presència d'aigua i oxigen; la humitat, les sals i determinats contaminants poden accelerar el procés. Pot presentar tons taronges, vermells terrosos, marrons rogencs, marrons foscos o zones gairebé negres, i aparèixer compacta, pulverulenta, escamosa, esquerdada o amb despreniments.
 - **Coure, bronze i llautó:** poden desenvolupar alteracions marrons, rogenques, negres, verdes, blaves o blauverdoses. El bronze és un aliatge de coure i estany; el llautó combina coure i zinc. Una pàtina no implica necessàriament corrosió activa i destructiva: algunes capes són estables i adherents, d'altres pulverulentes o amb despreniments.
 - **Pàtina natural i artificial:** la primera es forma per exposició ambiental; la segona, mitjançant tractaments intencionats. Poden semblar-se visualment sense tenir la mateixa composició ni comportament físic.
 - **Altres metalls:** la plata pot enfosquir-se per compostos com els sulfurs; l'estany pot presentar dipòsits blanquinosos o grisos; l'alumini i el zinc no s'han de representar automàticament amb tons rogencs.
@@ -188,7 +188,7 @@ No totes les zones han de presentar la mateixa intensitat. La distribució ha de
 
 Quan el metall està recobert de pintura, la corrosió pot aparèixer en zones on el recobriment s'ha perdut o deteriorat. La seqüència visual ha de diferenciar la pintura conservada, la vora del recobriment desprès, el metall exposat, els productes de corrosió i les zones de transició.
 
-No s'han d'aplicar tons de herrumbre indiscriminadament sobre tota la pintura. Cal establir primer les pèrdues del recobriment i representar la corrosió només en les zones on sigui coherent amb el material subjacent. El procediment de desconxat es desenvolupa al capítol 36.
+No s'han d'aplicar tons de rovell indiscriminadament sobre tota la pintura. Cal establir primer les pèrdues del recobriment i representar la corrosió només en les zones on sigui coherent amb el material subjacent. El procediment de desconxat es desenvolupa al capítol 36.
 
 ### 28.7.5. Control de la distribució i la intensitat
 
@@ -205,7 +205,7 @@ No cal utilitzar totes les tècniques en una mateixa superfície. La selecció d
 ## 28.8. Errors freqüents i procediments de correcció
 
 - **Un únic color per a tota la corrosió:** pot semblar artificial i uniforme. Introduir variacions cromàtiques i diferències d'intensitat.
-- **Confondre herrumbre de ferro amb pàtina de coure:** identificar el metall original i seleccionar una família cromàtica adequada.
+- **Confondre rovell de ferro amb pàtina de coure:** identificar el metall original i seleccionar una família cromàtica adequada.
 - **Verd intens en totes les superfícies de bronze:** combinar la pàtina amb zones marrons, fosques i metàl·liques.
 - **Cobrir completament el metall original:** conservar zones exposades o recuperar-les selectivament.
 - **Distribució simètrica:** variar posició, mida i intensitat dels dipòsits segons la geometria.
@@ -225,20 +225,20 @@ La superfície es pot donar per acabada quan l'efecte compleix la seva funció v
 
 ## 28.10. Exercicis pràctics
 
-### Exercici 1. Comparació entre herrumbre recent i madura
+### Exercici 1. Comparació entre rovell recent i madura
 **Objectiu:** diferenciar dues aparences de corrosió sobre ferro.  
 **Materials:** Dark Gunmetal (72.054), Hot Orange (72.009), Burnt Red (70.814), Dark Rust (70.771), Parasite Brown (72.042) i Black (70.950).  
 **Procediment:** preparar dues superfícies metàl·liques semblants; construir-ne una amb la recepta A i l'altra amb la B; diferenciar tons principals i zones fosques; conservar àrees de metall exposat; comparar la lectura visual.  
 **Avaluació:** comprovar que les superfícies presenten estats diferenciats sense perdre la identitat metàl·lica.
 
-### Exercici 2. Construcció de herrumbre fosca
+### Exercici 2. Construcció de rovell fosca
 **Objectiu:** representar una superfície de ferro molt deteriorada.  
 **Materials:** Dark Rust (70.771), Burnt Red (70.814), Parasite Brown (72.042), Black (70.950) i Deck Tan (70.986).  
 **Procediment:** preparar una superfície de prova; construir una base fosca; introduir variacions rogenques i marrons; distribuir zones profundes; afegir petits accents clars; avaluar la profunditat cromàtica.  
 **Avaluació:** comprovar que la superfície presenta variacions sense convertir-se en un bloc negre o marró uniforme.
 
 ### Exercici 3. Corrosió localitzada en una peça metàl·lica
-**Objectiu:** controlar la distribució irregular de la herrumbre.  
+**Objectiu:** controlar la distribució irregular de la rovell.  
 **Materials:** Dark Gunmetal (72.054), Dark Rust (70.771), Burnt Red (70.814), Parasite Brown (72.042) i Hot Orange (72.009).  
 **Procediment:** seleccionar una superfície amb vores i cavitats; establir la base metàl·lica; identificar les zones de corrosió; construir àrees fosques; afegir variacions càlides; mantenir metall visible; avaluar la distribució.  
 **Avaluació:** comprovar que la corrosió no apareix distribuïda de manera idèntica per tota la superfície.
@@ -258,12 +258,12 @@ La superfície es pot donar per acabada quan l'efecte compleix la seva funció v
 ### Exercici 6. Exercici integrador: peça metàl·lica amb corrosió i pàtina
 **Objectiu:** combinar diferents estats de conservació en una mateixa peça.  
 **Materials:** Dark Gunmetal (72.054), Silver (72.052), Glorious Gold (72.056), Tinny Tin (72.060), Dark Rust (70.771), Burnt Red (70.814), Parasite Brown (72.042), Hot Orange (72.009), Cayman Green (72.067), Turquoise (72.024), Dark Green (72.028), Snake Green (72.417) i Black (70.950).  
-**Procediment:** seleccionar una peça amb diferents plans i detalls; identificar el metall original; definir zones amb herrumbre, pàtina o metall conservat; construir les superfícies metàl·liques; aplicar els efectes corresponents; introduir variacions de color i textura; conservar metall exposat; avaluar el resultat a escala.  
+**Procediment:** seleccionar una peça amb diferents plans i detalls; identificar el metall original; definir zones amb rovell, pàtina o metall conservat; construir les superfícies metàl·liques; aplicar els efectes corresponents; introduir variacions de color i textura; conservar metall exposat; avaluar el resultat a escala.  
 **Avaluació:** comprovar que els diferents estats es distingeixen, que el metall original continua sent recognoscible i que els efectes no competeixen innecessàriament.
 
 ## 28.11. Síntesi del capítol
 
-La corrosió i les pàtines modifiquen l'aparença de les superfícies metàl·liques, però no constitueixen un únic fenomen ni generen un resultat cromàtic uniforme. La herrumbre del ferro i l'acer sol presentar tons rogencs, taronges, marrons i foscos. Les alteracions del coure i els seus aliatges poden produir superfícies marrons, negres, verdes o blauverdoses; altres metalls poden presentar enfosquiments i canvis superficials diferents.
+La corrosió i les pàtines modifiquen l'aparença de les superfícies metàl·liques, però no constitueixen un únic fenomen ni generen un resultat cromàtic uniforme. La rovell del ferro i l'acer sol presentar tons rogencs, taronges, marrons i foscos. Les alteracions del coure i els seus aliatges poden produir superfícies marrons, negres, verdes o blauverdoses; altres metalls poden presentar enfosquiments i canvis superficials diferents.
 
 Per representar aquests efectes convé identificar primer el metall original, determinar l'estat d'alteració i planificar la distribució dels productes de corrosió. La relació entre metall exposat, alteració superficial, textura i geometria és essencial per conservar la lectura de l'objecte.
 

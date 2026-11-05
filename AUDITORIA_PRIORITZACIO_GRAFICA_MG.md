@@ -133,3 +133,12 @@ Aquest document no valida receptes ni resultats pictòrics, no declara cap imatg
 ## 8. Resultat de la classificació individual
 
 La matriu completa cobreix els 243 identificadors, sense duplicats ni propostes sense assignació: **157 P1, 83 P2 i 3 P3**. Les tres P3 es fusionaran amb figures associades, sense perdre informació. La classificació és editorial i preliminar respecte a la integració final: cada P1 encara s'ha de validar contra el capítol consolidat abans de produir-la.
+
+
+## 6. Actualització del recompte i estat de producció preliminar — 05/11/2026
+
+La classificació inicial de 157 P1 i 83 P2 s'ha actualitzat després del coteig del capítol 3: la proposta 3.6 passa de P1 a P2 perquè la seva funció pot duplicar la taula i la seqüència de selecció ja presents al capítol. El recompte vigent és, per tant, **156 P1, 84 P2 i 3 P3**.
+
+El coteig detallat de les P1 està registrat per a totes les tandes. Les especificacions preliminars de producció s'han redactat per als 156 identificadors P1 a annexos/llista_preliminar_produccio_grafica_F10.md, amb fusions i condicions assenyalades. Aquest pas no és una aprovació de 156 imatges finals: la llista encara ha de passar per normalització de descripcions, verificació de llegendes i remissions, resolució de fusions i comprovació final de redundàncies.
+
+La prioritat continua sent funcional i didàctica. Les P2 només s'incorporaran quan aportin informació que no estigui coberta per les P1 i el text. Cap imatge s'ha generat ni inserit durant aquesta auditoria.

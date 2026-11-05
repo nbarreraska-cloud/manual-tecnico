@@ -28,17 +28,17 @@ La documentació oficial situa aquesta referència dins de Model Color. No s'ha 
 
 ## 4. Presència i funció dins del manual
 
-Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n reprodueix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
+Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n resumeix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
 
-- **Capítol 20:** `| Ice Yellow | 70.858 | Accents groguencs lluminosos |`
-- **Capítol 21:** `| Ice Yellow | 70.858 | Aclarits groguencs |`
-- **Capítol 22:** `| Ice Yellow | 70.858 | Aclarits càlids |`
-- **Capítol 24:** `| Ice Yellow | 70.858 | Variacions groguenques |`
-- **Capítol 25:** `- **Capítol 23:** `| Ice Yellow | 70.858 | Aclarits càlids |`
-- **Capítol 26:** `| Ice Yellow | 70.858 | Variacions càlides |`
-- **Capítol 27:** `| Ice Yellow | 70.858 | Aclarits càlids |`
+- **Capítol 20:** Accents groguencs lluminosos (funció indicada a la taula).
+- **Capítol 21:** Aclarits groguencs (funció indicada a la taula).
+- **Capítol 22:** Aclarits càlids (funció indicada a la taula).
+- **Capítol 23:** Aclarits càlids (funció indicada a la taula).
+- **Capítol 24:** Variacions groguenques (funció indicada a la taula).
+- **Capítol 25:** Modificacions càlides (funció indicada a la taula).
+- **Capítol 26:** Variacions càlides (funció indicada a la taula).
+- **Capítol 27:** Aclarits càlids (funció indicada a la taula).
 - **Capítol 30:** menció contextual de Ice Yellow (70.858) al text del capítol; no és una fila de recepta.
-| Ice Yellow | 70.858 | Modificacions càlides |`
 
 Capítols amb aparicions identificades: C20, C21, C22, C23, C24, C25, C26, C27, C30.
 

@@ -200,6 +200,7 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 1.12 | 05/11/2026 | F4: C14 reobert per una omissió tècnica substantiva identificada en el material font disponible: diferència entre transparència del producte pictòric i transparència de l'objecte representat. Recuperació puntual aplicada; límit documental preservat. |
 | 1.13 | 05/11/2026 | F4: comprovació limitada de C15; es preserva el límit de font (original complet no localitzat) i es confirma la correspondència estructural disponible de deu apartats i sis exercicis. Sense canvis de contingut. |
 | 1.14 | 05/11/2026 | F4: comprovació limitada de C16; es preserva el límit de font (versió consolidada nova, original complet no recuperat) i es confirma l'estructura de deu apartats i sis exercicis. Sense canvis de contingut. |
+| 1.15 | 05/11/2026 | F4: comprovació limitada de C17 i C18; es preserven els límits documentals (originals complets no recuperats) i es confirma l'estructura de deu apartats i sis exercicis en tots dos capítols. Sense canvis de contingut. |
 
 Aquest registre és una consolidació operativa basada en l'auditoria i els resultats recuperats del projecte. Els punts marcats com a pendents o no validats s'han de comprovar amb el fitxer real i la font corresponent abans de declarar-los tancats.
 

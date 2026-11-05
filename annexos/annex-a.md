@@ -88,7 +88,7 @@ Les referències del set (72.201, 72.202, 72.203 i 72.207) no s'han de confondre
 | 37 | [Fluorescent Orange](../fitxes-pintures/72-156-fluorescent-orange.md) | 72.156 |
 | 38 | [Fluorescent Magenta](../fitxes-pintures/72-158-fluorescent-magenta.md) | 72.158 |
 | 39 | [Fluorescent Green](../fitxes-pintures/72-104-fluorescent-green.md) | 72.104 |
-| 40 | [Fluorescent Cold Green](../fitxes-pintures/72-161-fluorescent-cold-green.md) | 72.161 |
+| 40 | [Fluorescent Cool Green](../fitxes-pintures/72-161-fluorescent-cold-green.md) | 72.161 |
 | 41 | [Chameleon Orange](../fitxes-pintures/72-455-chameleon-orange.md) | 72.455 |
 | 42 | [Seraph Red](../fitxes-pintures/72-479-seraph-red.md) | 72.479 |
 | 43 | [Red Ink](../fitxes-pintures/72-086-red-ink.md) | 72.086 |
@@ -108,7 +108,7 @@ La línia comercial s'indica només quan la documentació del fabricant permet a
 | Fluorescent Orange | 72.156 | Game Color Fluo |
 | Fluorescent Magenta | 72.158 | Game Color Fluo |
 | Fluorescent Green | 72.104 | Game Color Fluo |
-| Fluorescent Cold Green | 72.161 | Game Color Fluo |
+| Fluorescent Cool Green | 72.161 | Game Color Fluo |
 | Chameleon Orange | 72.455 | Xpress Color |
 | Seraph Red | 72.479 | Xpress Color Intense |
 | Red Ink | 72.086 | Game Color Ink |
@@ -130,7 +130,7 @@ El catàleg permet identificar els colors utilitzats al llarg del manual. Per co
 - **Capítol 3:** desenvolupa els criteris per interpretar les característiques de les pintures i els límits de la informació disponible.
 - **Capítols de tècniques i receptes:** indiquen els colors utilitzats en procediments i propostes concretes.
 
-Les 48 fitxes individuals s'han regenerat documentalment i es conserven com a documents independents al directori `fitxes-pintures/`. L'[índex general de fitxes](../fitxes-pintures/INDEX.md) permet consultar-les i cada nom de la taula del catàleg enllaça directament amb la seva fitxa. La regeneració recupera l'estructura documental prevista al manual original, però no pretén reconstruir continguts perduts literalment: les dades s'han refet a partir de la tercera síntesi, les taules de receptes i la documentació oficial del fabricant. Les propietats tècniques individuals que no estan documentades continuen marcades com a pendents; les declaracions del fabricant s'identifiquen com a informació de família i no com a resultats de proves pròpies.
+Les 48 fitxes individuals s'han regenerat documentalment i s'integren en aquest manual com a **Annex F**. També es conserven com a documents independents per facilitar-ne la consulta i l'actualització. La regeneració recupera l'estructura documental prevista al manual original, però no pretén reconstruir continguts perduts literalment: les dades s'han refet a partir de la tercera síntesi, les taules de receptes i la documentació oficial del fabricant. Les propietats tècniques individuals que no estan documentades continuen marcades com a pendents; les declaracions del fabricant s'identifiquen com a informació de família i no com a resultats de proves pròpies.
 
 La presència d'un color en una recepta tampoc no implica que la combinació s'hagi validat experimentalment. Cal mantenir la distinció entre identificació comercial, proposta tècnica i resultat comprovat, d'acord amb els criteris del capítol 1.
 
@@ -163,7 +163,7 @@ Per mantenir la traçabilitat, qualsevol canvi futur ha d'indicar:
 
 - Capítol 2. Inventari i organització de les 48 pintures.
 - Capítol 3. Característiques i funcions de les pintures.
-- Versió anterior de l'Annex A, conservada a `annexos/historic/annex-a-auditoria-anterior-2026-11-05.md` com a antecedent de comparació, no com a font d'autoritat independent.
+
 
 ## A.8. Control de consistència de l'inventari
 
@@ -175,6 +175,6 @@ La reconstrucció manté els quatre sets i les 48 entrades de la paleta. El cont
 - Correspondència de cada entrada amb el set que la documentació oficial del fabricant li assigna.
 - Línia comercial consignada només quan hi ha suport documental identificable.
 - Cap propietat tècnica, proporció de mescla o resultat experimental inferit a partir del catàleg.
-- 48 fitxes individuals presents a `fitxes-pintures/`, amb una correspondència única per referència i enllaç directe des del catàleg.
+- 48 fitxes individuals integrades a l'Annex F, amb una correspondència única per referència i set seccions documentals per fitxa.
 
 **Límit de verificació:** el catàleg oficial 2026 confirma els quatre sets i la seva composició per referències. La documentació de color consultada permet contrastar denominacions i famílies per als productes identificats a A.4. No s'ha dut a terme una auditoria tècnica de les 48 pintures ni una comprovació física de les seves propietats.

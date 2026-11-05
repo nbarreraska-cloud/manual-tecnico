@@ -13232,20 +13232,35 @@ La harmonització s'ha assolit quan els elements mantenen relacions cromàtiques
 
 ## 35.9. Errors freqüents i criteris d'avaluació
 
-| Error | Correcció |
-|---|---|
-| Unificar tota la miniatura amb un mateix color | Establir relacions compartides amb ajustos selectius, conservant diferències entre materials. |
-| Reduir massa la saturació | Modificar només les zones problemàtiques. |
-| Utilitzar massa colors dominants | Revisar extensió, intensitat i posició dels colors principals i secundaris. |
-| Introduir accents sense relació | Comprovar-ne la funció; repetir-los discretament o reduir-los. |
-| Confondre integració amb pèrdua de contrast | Mantenir els contrastos necessaris per reconèixer materials i volums. |
-| Aplicar massa reflexos ambientals | Limitar-ne extensió i intensitat a les zones justificades. |
-| Separar figura i peanya com a composicions independents | Revisar colors compartits, contrastos i zones de contacte. |
-| Permetre que l'entorn domini la figura | Recuperar jerarquia sense eliminar els elements identificatius de l'escenari. |
-| Perjudicar la identitat dels materials | Avaluar cada ajust segons la resposta visual de la superfície. |
-| Acumular correccions | Definir un objectiu per intervenció i aturar-se quan s'hagi assolit. |
+| Error | Problema que produeix | Correcció |
+|---|---|---|
+| Unificar tota la miniatura amb un mateix color | Aplicar una tonalitat comuna a totes les superfícies pot reduir les diferències entre materials i modificar la paleta original. | Utilitzar relacions cromàtiques compartides i ajustos selectius, conservant les diferències necessàries. |
+| Reduir excessivament la saturació | Desaturar tots els colors pot eliminar la personalitat de la miniatura i reduir-ne l'impacte visual. | Actuar únicament sobre les zones en què la intensitat resulti problemàtica. |
+| Excés de colors dominants | Quan massa superfícies tenen una presència cromàtica elevada, l'atenció es distribueix de manera irregular. | Revisar l'extensió, la intensitat i la posició dels colors dominants i secundaris. |
+| Accents cromàtics sense relació | Un color intens aïllat pot atreure l'atenció sense contribuir a la composició. | Revisar-ne la funció i valorar si cal repetir-lo discretament en un altre element o reduir-ne la intensitat. |
+| Confondre integració amb pèrdua de contrast | Reduir els contrastos per unificar superfícies pot perjudicar la lectura dels materials i dels volums. | Mantenir els contrastos funcionals i modificar només els que dificultin la unitat general. |
+| Reflexos ambientals excessius | Introduir massa influències cromàtiques pot fer que les superfícies perdin el seu color identificatiu. | Reduir l'extensió i la intensitat dels reflexos i limitar-ne l'aplicació a zones justificades. |
+| Figura i peanya sense relació visual | Una figura i una peanya poden presentar colors incompatibles o funcionar com a composicions independents. | Identificar elements cromàtics compartits, revisar els contrastos i comprovar la relació entre les zones de contacte. |
+| Entorn massa dominant | Una peanya amb contrastos o colors massa intensos pot competir amb la figura principal. | Ajustar la jerarquia visual de l'entorn sense eliminar els elements necessaris per identificar-lo. |
+| Pèrdua d'identitat material | Les modificacions globals poden fer que una superfície metàl·lica, una tela o una zona de pell perdin les seves característiques. | Avaluar cada intervenció en relació amb el material i recuperar els senyals visuals necessaris. |
+| Correccions successives innecessàries | La repetició d'ajustos pot acumular capes, reduir la claredat cromàtica i deteriorar el resultat. | Establir un objectiu per a cada intervenció i aturar el procés quan s'hagi assolit. |
 
-La comprovació final ha de confirmar coherència entre dominants i secundaris, funció dels accents, jerarquia de saturació i contrast, identitat dels materials, coherència de llums, ombres i reflexos, relació figura-peanya, justificació de les influències ambientals i absència de problemes nous importants. La finalitat és unitat visual sense uniformitat.
+**Criteris d'avaluació**
+
+Una miniatura presenta una integració cromàtica satisfactòria quan:
+- Els colors dominants i secundaris mantenen relacions coherents.
+- Els accents cromàtics compleixen una funció reconeixible.
+- La saturació està distribuïda d'acord amb la jerarquia visual.
+- Els materials conserven la seva identitat.
+- Les llums, les ombres i els reflexos mantenen la coherència.
+- La figura i la peanya funcionen com una composició relacionada.
+- Les influències ambientals estan justificades i controlades.
+- El conjunt conserva contrast, claredat i llegibilitat.
+- Les correccions no han introduït problemes nous importants.
+
+**Criteri de finalització**
+
+La harmonització pot considerar-se finalitzada quan la miniatura funciona cromàticament com a conjunt, manté la diferenciació entre materials i presenta una relació adequada amb l'entorn. No cal que tots els elements comparteixin els mateixos colors ni que desapareguin totes les diferències cromàtiques. L'objectiu és aconseguir unitat visual sense uniformitat.
 
 ## 35.10. Exercicis pràctics
 
@@ -13270,9 +13285,21 @@ La comprovació final ha de confirmar coherència entre dominants i secundaris, 
 
 Les fonts fonamenten percepció cromàtica, organització del color i aparença dels materials. No constitueixen validació experimental dels procediments pictòrics particulars.
 
+## Propostes de figures per a MG
 
+Les deu figures següents queden reservades per a la fase gràfica final. No s'han de generar ni inserir durant aquesta etapa.
+
+1. **Anàlisi cromàtica global.** Mostrar una miniatura amb els colors dominants, secundaris i accents identificats. Explicar com s'analitza la distribució cromàtica abans d'intervenir.
+2. **Distribució de masses cromàtiques.** Representar la distribució dels colors principals mitjançant una simplificació de la miniatura. Distingir l'extensió de cada color de la seva importància visual.
+3. **Repetició i variació cromàtica.** Mostrar un mateix color o família cromàtica en diferents elements, amb variacions de valor, saturació i temperatura. Explicar com s'estableix unitat sense repetir mescles idèntiques.
+4. **Harmonització i uniformitat.** Comparar una miniatura amb colors relacionats però diferenciats amb una altra en què totes les superfícies han rebut una modificació cromàtica excessivament uniforme. Fer visible la diferència entre unitat i pèrdua d'identitat material.
+5. **Integració entre materials.** Mostrar una composició amb metall, cuir, tela i pell, assenyalant les relacions cromàtiques compartides i les diferències necessàries per conservar la identitat de cada material.
+6. **Integració de figura i peanya.** Representar una figura al costat de la peanya i assenyalar les relacions entre colors dominants, materials del terreny i elements de la figura. Mostrar com totes dues parts poden funcionar com una composició comuna.
+7. **Influències ambientals.** Mostrar variacions cromàtiques localitzades procedents de l'entorn, com ara reflexos càlids, influències fredes o relacions amb superfícies pròximes. Evitar suggerir que totes les superfícies reben la mateixa influència.
+8. **Correccions localitzades i globals.** Comparar una intervenció limitada a una superfície amb una altra que modifica una part extensa de la miniatura. Fer visible la diferència d'abast i el risc d'alterar zones que ja funcionaven correctament.
+9. **Seqüència d'harmonització.** Mostrar les etapes d'anàlisi, identificació de problemes, definició d'objectius, selecció de procediments, intervenció i avaluació final.
+10. **Resultat integrat i errors freqüents.** Comparar una composició cromàticament integrada amb exemples d'errors: excés d'uniformitat, saturació mal distribuïda, figura i peanya desconnectades, influències ambientals excessives i pèrdua d'identitat material.
 ---
-
 # 36. ENVELLIMENT, DESGAST I TRANSFORMACIÓ DE SUPERFÍCIES
 
 ## 36.1. Representació del pas del temps i de l'ús

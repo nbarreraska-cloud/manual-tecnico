@@ -25,7 +25,7 @@ La continuïtat depèn de la relació entre colors i de la seva distribució. El
 
 Les mescles de pigments tampoc no generen necessàriament progressions equilibrades. Una mescla intermèdia pot alterar matís, valor o croma de manera inesperada. Dividir una mescla en proporcions iguals no garanteix una transició regular: cal comprovar els colors i valorar si convé introduir un tercer to per orientar-ne l'evolució.
 
-## 9.3. Variables que condicionen la construcció d'un degradat
+## 9.2. Variables que condicionen la construcció d'un degradat
 
 Abans de construir un degradat cal definir els colors de partida, el resultat desitjat i les condicions d'aplicació. La planificació estableix una direcció cromàtica i evita improvisar mescles sense finalitat.
 
@@ -60,7 +60,7 @@ Cal controlar la quantitat de pintura: l'excés pot provocar acumulacions, pèrd
 
 La transició pot començar pel color fosc, pel clar o per una zona intermèdia. No hi ha una direcció obligatòria: depèn de l'extensió de cada zona, l'opacitat relativa, la geometria i el procediment. Cal conservar referències clares dels colors extrems i evitar que les aplicacions intermèdies en desplacin involuntàriament l'aparença.
 
-## 9.4. Procediments de construcció de degradats
+## 9.3. Procediments de construcció de degradats
 
 Els degradats es poden construir amb mescles preparades a la paleta, integració de colors humits o aplicacions successives de tons intermedis. Són procediments diferents, amb avantatges i limitacions pròpies.
 
@@ -123,7 +123,7 @@ La combinació ha de respondre a una necessitat concreta: no cal utilitzar tots 
 
 La transparència pot influir en algunes transicions, però no s'ha de confondre la construcció d'un degradat amb la tècnica específica de veladures i glacis, desenvolupada al capítol 10.
 
-## 9.5. Procediment general de planificació i execució
+## 9.4. Procediment general de planificació i execució
 
 La construcció es pot organitzar en sis fases:
 
@@ -134,7 +134,7 @@ La construcció es pot organitzar en sis fases:
 5. **Aplicar i integrar.** Seguir el procediment escollit i controlar els límits. Evitar arrossegar pintura cap a zones definides, modificar excessivament els extrems, insistir quan la pintura s'asseca, introduir mescles no comprovades o corregir tota la superfície quan el problema és local.
 6. **Deixar assecar i avaluar.** L'aparença humida pot diferir de la seca. Les correccions importants s'han de basar en una superfície prou seca. Comprovar la relació entre colors, els salts i l'extensió; decidir si cal continuar, corregir localment o aturar-se.
 
-## 9.6. Variants de transició cromàtica
+## 9.5. Variants de transició cromàtica
 
 Les transicions es poden classificar segons les dimensions que modifiquen i la seva distribució. Les categories no són excloents: un mateix degradat pot combinar-ne diverses.
 
@@ -154,7 +154,7 @@ Les transicions es poden classificar segons les dimensions que modifiquen i la s
 
 Aquestes variants descriuen l'organització del resultat, no procediments independents. Es poden construir amb qualsevol de les tècniques anteriors quan les condicions ho permetin.
 
-## 9.7. Control tècnic i avaluació de la transició
+## 9.6. Control tècnic i avaluació de la transició
 
 L'avaluació ha de considerar continuïtat, distribució dels tons intermedis, extensió i estat de la superfície. No n'hi ha prou amb comprovar que dos colors s'han barrejat.
 
@@ -169,7 +169,7 @@ Una transició controlada ha de complir:
 
 La continuïtat no exigeix una variació perfectament uniforme. Una transició pot ser més ràpida en una zona i més gradual en una altra si ho preveu la planificació.
 
-### 9.7.1. Control de la continuïtat visual
+### 9.6.1. Control de la continuïtat visual
 
 Una transició presenta continuïtat quan el canvi cromàtic es percep de manera coherent i no apareixen interrupcions involuntàries. Per avaluar-la convé observar:
 
@@ -181,19 +181,19 @@ Una transició presenta continuïtat quan el canvi cromàtic es percep de manera
 
 La continuïtat no implica que la superfície hagi de presentar una variació perfectament uniforme. La regularitat és una possibilitat, no una exigència.
 
-### 9.7.2. Control de l'extensió
+### 9.6.2. Control de l'extensió
 
 L'extensió ha de correspondre a la superfície disponible i a l'efecte buscat. Una transició massa curta pot generar un canvi brusc; una de massa extensa pot reduir la presència dels colors extrems i alterar la distribució cromàtica prevista.
 
 També cal comprovar que la transició no envaeixi zones que haurien de conservar una aparença diferenciada.
 
-### 9.7.3. Control dels colors intermedis
+### 9.6.3. Control dels colors intermedis
 
 Els colors intermedis han de mantenir una progressió coherent. Una mescla aparentment adequada pot produir, quan s'aplica al costat de les altres, una zona massa fosca, massa clara o cromàticament desviada.
 
 Per això convé valorar la seqüència completa i no cada mescla de manera aïllada. Quan una transició presenta un color intermedi no previst, cal identificar quina mescla o aplicació ha provocat la desviació abans de modificar la resta.
 
-### 9.7.4. Control de la superfície
+### 9.6.4. Control de la superfície
 
 A més de la continuïtat cromàtica, cal comprovar que la construcció no hagi deteriorat la superfície. S'ha d'observar si hi ha:
 
@@ -205,15 +205,15 @@ A més de la continuïtat cromàtica, cal comprovar que la construcció no hagi 
 
 Aquests problemes poden afectar la lectura del degradat fins i tot quan la relació cromàtica entre els colors és adequada.
 
-### 9.7.5. Criteri de finalització
+### 9.6.5. Criteri de finalització
 
 Un degradat es pot considerar acabat quan compleix la funció prevista i manté una continuïtat adequada al tipus de transició escollit.
 
 No cal eliminar qualsevol variació ni afegir indefinidament més tons intermedis. Si el resultat ja presenta la relació cromàtica desitjada, continuar intervenint-hi pot introduir irregularitats o deteriorar zones que estaven correctament resoltes.
 
-## 9.8. Errors freqüents i procediments de correcció
+## 9.7. Errors freqüents i procediments de correcció
 
-### 9.8.1. Aparició de bandes o esglaons no desitjats
+### 9.7.1. Aparició de bandes o esglaons no desitjats
 
 Es produeix quan les diferències entre els tons intermedis són massa evidents o els seus límits continuen excessivament definits.
 
@@ -225,7 +225,7 @@ Es produeix quan les diferències entre els tons intermedis són massa evidents 
 
 **Correcció:** identifica primer la zona on s'interromp la continuïtat. Si la superfície ho permet, introdueix un to intermedi adequat o ajusta la relació entre els colors contigus. No cal reconstruir tot el degradat si el problema està limitat a una zona concreta.
 
-### 9.8.2. Transició discontínua o irregular
+### 9.7.2. Transició discontínua o irregular
 
 Es produeix quan el canvi cromàtic presenta interrupcions, taques o zones que no segueixen l'evolució prevista.
 
@@ -237,7 +237,7 @@ Es produeix quan el canvi cromàtic presenta interrupcions, taques o zones que n
 
 **Correcció:** determina si la discontinuïtat és cromàtica o superficial. Si el problema es troba en la relació entre els colors, ajusta la transició amb una mescla intermèdia. Si es deu a una irregularitat d'aplicació, corregeix únicament la zona afectada.
 
-### 9.8.3. Acumulació excessiva de pintura
+### 9.7.3. Acumulació excessiva de pintura
 
 Pot aparèixer quan es diposita massa pintura a les zones de contacte o s'insisteix repetidament sobre una mateixa àrea.
 
@@ -249,7 +249,7 @@ Pot aparèixer quan es diposita massa pintura a les zones de contacte o s'insist
 
 **Correcció:** evita continuar manipulant una superfície que ja presenta acumulació. Un cop seca, valora si és possible recuperar la zona mitjançant una correcció localitzada o si cal reconstruir-ne una part. La correcció s'ha de fer sense afegir pintura indiscriminadament.
 
-### 9.8.4. Pèrdua de claredat cromàtica
+### 9.7.4. Pèrdua de claredat cromàtica
 
 Es produeix quan les mescles generen colors apagats, poc definits o diferents dels previstos.
 
@@ -261,19 +261,19 @@ Es produeix quan les mescles generen colors apagats, poc definits o diferents de
 
 **Correcció:** revisa l'evolució cromàtica des dels colors de partida i identifica quina mescla ha provocat la desviació. Prepara una nova mescla intermèdia quan sigui necessari, evitant afegir més colors sense una finalitat concreta.
 
-### 9.8.5. Transició massa curta o massa extensa
+### 9.7.5. Transició massa curta o massa extensa
 
 Una transició massa curta pot produir un canvi abrupte. Una de massa extensa pot ocupar zones que haurien de conservar els colors extrems.
 
 **Correcció:** reorganitza la distribució dels colors intermedis i ajusta l'extensió de la zona de canvi. No cal modificar tota la superfície si els extrems cromàtics estan correctament establerts.
 
-### 9.8.6. Correccions successives que deterioren el degradat
+### 9.7.6. Correccions successives que deterioren el degradat
 
 La repetició d'intervencions pot provocar acumulació de pintura, pèrdua de definició i modificacions cromàtiques no previstes.
 
 **Correcció:** atura el procés i valora el resultat en condicions d'observació estables. Identifica el defecte principal i decideix si requereix una intervenció localitzada o si el degradat ja compleix la seva funció. La correcció ha de ser proporcional al problema. Afegir noves aplicacions sense identificar-ne la finalitat pot empitjorar el resultat.
 
-## 9.9. Resultat esperat i criteris d'avaluació
+## 9.8. Resultat esperat i criteris d'avaluació
 
 En acabar, el lector ha de poder:
 - Diferenciar la construcció mitjançant capes d'un degradat.
@@ -291,11 +291,11 @@ La qualitat no es valora només per la suavitat, sinó també per la coherència
 
 El criteri de finalització és aconseguir l'efecte previst amb el mínim d'intervencions necessàries i preservant la integritat de la superfície.
 
-## 9.10. Exercicis pràctics
+## 9.9. Exercicis pràctics
 
 Els exercicis estan organitzats de manera progressiva. Cadascun treballa un aspecte concret de la construcció de transicions i permet avaluar el resultat sense recórrer a tècniques que encara no s'han desenvolupat en capítols posteriors.
 
-### 9.10.1. Exercici 1. Construcció d'una transició de valor
+### 9.9.1. Exercici 1. Construcció d'una transició de valor
 
 **Objectiu:** construir un degradat entre dos colors d'una mateixa família cromàtica, modificant principalment el valor.
 
@@ -319,7 +319,7 @@ Els exercicis estan organitzats de manera progressiva. Cadascun treballa un aspe
 - No apareixen bandes involuntàries.
 - La superfície conserva una aplicació controlada.
 
-### 9.10.2. Exercici 2. Transició entre dues famílies cromàtiques
+### 9.9.2. Exercici 2. Transició entre dues famílies cromàtiques
 
 **Objectiu:** construir una transició entre dos colors de famílies cromàtiques diferents.
 
@@ -344,7 +344,7 @@ Els exercicis estan organitzats de manera progressiva. Cadascun treballa un aspe
 - La transició conserva els colors de partida.
 - El resultat respon a l'objectiu inicial.
 
-### 9.10.3. Exercici 3. Comparació de procediments de construcció
+### 9.9.3. Exercici 3. Comparació de procediments de construcció
 
 **Objectiu:** comprendre les diferències entre la mescla humida, les mescles intermèdies preparades i les aplicacions successives.
 
@@ -368,7 +368,7 @@ Els exercicis estan organitzats de manera progressiva. Cadascun treballa un aspe
 - Es determina quin procediment resulta més adequat per a cada superfície.
 - La comparació es basa en resultats observables i no en preferències assumides.
 
-### 9.10.4. Exercici 4. Construcció d'una transició combinada
+### 9.9.4. Exercici 4. Construcció d'una transició combinada
 
 **Objectiu:** construir un degradat en què canviïn simultàniament el matís i el valor.
 
@@ -393,7 +393,7 @@ Els exercicis estan organitzats de manera progressiva. Cadascun treballa un aspe
 - La transició no presenta canvis involuntaris.
 - El resultat respon a la planificació inicial.
 
-### 9.10.5. Exercici 5. Identificació i correcció de transicions defectuoses
+### 9.9.5. Exercici 5. Identificació i correcció de transicions defectuoses
 
 **Objectiu:** desenvolupar la capacitat d'analitzar un degradat i identificar els problemes que n'afecten la continuïtat.
 
@@ -416,7 +416,7 @@ Els exercicis estan organitzats de manera progressiva. Cadascun treballa un aspe
 - La correcció respon a una causa concreta.
 - S'evita intervenir sobre zones que ja presenten un resultat adequat.
 
-### 9.10.6. Exercici integrador. Planificació i construcció d'un degradat complet
+### 9.9.6. Exercici integrador. Planificació i construcció d'un degradat complet
 
 **Objectiu:** aplicar de manera autònoma els coneixements del capítol per planificar, executar i avaluar una transició cromàtica.
 

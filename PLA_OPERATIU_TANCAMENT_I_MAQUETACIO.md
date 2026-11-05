@@ -115,16 +115,16 @@ F9 continua oberta: falta la comparació textual exhaustiva amb totes les fonts 
 
 F9 queda tancada en el seu abast aprovat: maquetació textual completa sense imatges dels 39 capítols i els annexos A–F. Els ajustos finals de l'Annex F, el registre de paginació i els artefactes Word/PDF es documenten a `annexos/registre_F9_maquetacio_2026-11-05.md`. Les anotacions dels apartats 7 i 8 d'aquest pla descriuen generacions anteriors i s'han de llegir com a historial, no com a estat vigent.
 
-S'inicia F10 — revisió i selecció gràfica. La classificació preliminar de les 243 propostes (157 P1, 83 P2 i 3 P3) no implica que totes s'hagin de produir. El registre d'execució és `annexos/registre_F10_seleccio_grafica_2026-11-05.md`. Les primeres quatre tandes tenen una preselecció documentada; la validació detallada de cada proposta, la revisió definitiva de P2/P3, la depuració de les descripcions i la llista final de figures continuen pendents. No s'iniciarà F11 fins que F10 estigui tancada.
+F10 es va iniciar amb una classificació preliminar de 243 propostes (157 P1, 83 P2 i 3 P3), que s'ha actualitzat a 156 P1, 84 P2 i 3 P3 després de reclassificar 3.6. El coteig de P1, la revisió individual de P2/P3, les fitxes editorials i la primera passada de redundàncies ja estan documentats. El registre d'execució és `annexos/registre_F10_seleccio_grafica_2026-11-05.md`. No s'iniciarà F11 fins que F10 estigui tancada.
 
 **Protecció:** continuar exclusivament a `intervencion-editorial-2026-11`. No modificar `main`, no fusionar la PR #1 i no inserir imatges durant F10.
 
 
 ## 10. Actualització de F10 — 05/11/2026
 
-El coteig detallat de les P1 s'ha completat per a les tandes C1–C3, C4–C7/C11, C15–C24 i C30–C39. S'han corregit les ubicacions de diverses figures perquè els identificadors de proposta no es confonguin amb la numeració dels apartats del capítol. La revisió de les 83 P2 s'ha acceptat com a criteri editorial, s'ha reclassificat 3.6 de P1 a P2 i s'han confirmat les tres fusions P3: 5.14 amb 5.6, 34.4 amb 34.3 i 35.10 amb 35.9.
+El coteig detallat de les 156 P1 s'ha completat per a les tandes C1–C3, C4–C7/C11, C15–C24 i C30–C39. S'han corregit les ubicacions de diverses figures. La revisió individual de les 84 P2 s'ha completat, 3.6 s'ha reclassificat de P1 a P2 i les tres P3 es conserven fusionades: 5.14 amb 5.6, 34.4 amb 34.3 i 35.10 amb 35.9.
 
-El recompte actual és de 156 P1, 84 P2 i 3 P3, però no representa el nombre final d'imatges: cal resoldre les fusions, evitar duplicacions entre capítols i establir quines P2 aporten una funció real. El següent treball és depurar i traduir al català les propostes seleccionades, redactar especificacions completes i crear la llista definitiva de producció abans de tancar F10. F11 continua bloquejada fins que aquesta selecció estigui tancada.
+El recompte classificatori actual és de 156 P1, 84 P2 i 3 P3. Les 156 P1 s'han convertit en 150 composicions després de sis integracions entre propostes P1; les P2/P3 complementàries tenen destinació o reserva documentada. La següent feina és acabar la revisió semàntica de redundàncies, confirmar les remissions i congelar la numeració i la llista de producció. F11 continua bloquejada fins al tancament formal de F10.
 
 
 

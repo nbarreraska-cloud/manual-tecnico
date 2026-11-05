@@ -511,7 +511,7 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 
 ### 3.1 — Comportament d'opacitat i transparència de les pintures
 - **Ubicació:** apartat 3.1.
-- **Llegenda prevista:** «Comparació de pintures opaques, semitransparents i transparents sobre un mateix fons.»
+- **Llegenda prevista:** «Comparació de pintures opaques, semiopàques, semitransparents i transparents sobre un mateix fons.»
 - **Representació:** mostres amb diferents graus d'ocultació del fons i cobertura de la capa.
 - **Funció didàctica:** distingir l'ocultació del fons, la transmissió visual i la cobertura pictòrica.
 - **Límits:** no convertir els comportaments en categories comercials rígides ni confondre opacitat, transparència, cobertura i uniformitat.

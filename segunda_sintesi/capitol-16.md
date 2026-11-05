@@ -153,18 +153,43 @@ La reducció d'escala no consisteix a reproduir tots els detalls d'una superfíc
 
 L'amplitud dels contrastos, la mida dels reflexos i la quantitat de regions s'han d'adaptar a la distància habitual d'observació.
 
-## 16.6. Control i avaluació
+## 16.7. Control tècnic i avaluació del resultat
 
-La revisió ha de considerar conjuntament:
+### 16.7.1. Coherència entre geometria i reflexos
 
-- **Geometria:** els reflexos segueixen l'orientació i els canvis de pla?
-- **Valors:** hi ha separació suficient entre regions clares i fosques? Els intermedis i els accents tenen una funció?
-- **Color:** la família cromàtica manté la identitat del material i s'integra amb la miniatura?
-- **Definició:** les transicions i els límits s'adapten a la superfície sense fragmentar-la?
-- **Aparença metàl·lica:** els reflexos suggereixen un entorn reflectit i no només una acumulació de contrastos?
-- **Escala:** la superfície continua sent llegible des de la distància habitual?
+La primera comprovació consisteix a valorar si la distribució dels reflexos resulta compatible amb la forma de la peça. Cal revisar l'orientació de les bandes i regions clares, la relació entre reflexos i canvis de pla, la continuïtat de les superfícies corbes, la posició dels accents i la coherència entre diferents parts d'una mateixa peça.
 
-L'observació en escala de grisos pot ajudar a detectar diferències de valor insuficients. La superfície es pot donar per acabada quan la geometria i l'aparença metàl·lica són recognoscibles, els reflexos són coherents i no cal afegir més detalls. La quantitat de reflexos no és un indicador de qualitat.
+Un reflex pot estar ben aplicat des del punt de vista tècnic i, tanmateix, resultar visualment inadequat si no es relaciona amb la geometria.
+
+### 16.7.2. Control dels valors
+
+L'aparença metàl·lica requereix una organització tonal prou clara. Cal comprovar si existeix separació entre les regions clares i fosques, si els valors intermedis compleixen una funció recognoscible, si els accents mantenen el seu protagonisme, si les zones fosques no dominen excessivament la superfície i si el conjunt conserva una jerarquia visual.
+
+L'observació en escala de grisos pot ajudar a detectar problemes de valor que passen desapercebuts quan s'observa únicament el color.
+
+### 16.7.3. Control cromàtic
+
+La família cromàtica ha de mantenir una identitat recognoscible. Convé revisar la relació entre els tons foscos, intermedis i clars, la coherència de les mescles, la presència de colors que alterin involuntàriament la identitat del material, la relació amb la resta de la miniatura i la influència dels colors ambientals representats.
+
+No és necessari que totes les zones utilitzin el mateix matís. Els reflexos poden incorporar variacions cromàtiques si responen a l'entorn o a una decisió artística.
+
+### 16.7.4. Control de la definició
+
+La definició de les regions tonals s'ha d'adaptar a la superfície. Algunes geometries necessiten transicions progressives, mentre que d'altres poden requerir límits més definits.
+
+Cal comprovar que els canvis de pla es reconeixen, els reflexos conserven una forma llegible, les transicions no eliminen l'estructura de la superfície, les línies i els accents no fragmenten innecessàriament el conjunt i els límits importants es mantenen diferenciats.
+
+### 16.7.5. Avaluació de l'aparença metàl·lica
+
+La comprovació final ha de valorar si la superfície es reconeix com a metàl·lica i no simplement com una superfície amb molt contrast. Cal preguntar-se si la geometria es reconeix, si els reflexos semblen respondre a una organització ambiental, si existeix una relació clara entre les zones clares i fosques, si els contrastos estan distribuïts intencionadament i si la superfície conserva la seva llegibilitat a la distància habitual.
+
+No existeix un únic criteri visual que garanteixi el reconeixement del metall. L'avaluació ha de considerar conjuntament geometria, valors, reflexos i organització cromàtica.
+
+### 16.7.6. Criteri de finalització
+
+La superfície pot considerar-se acabada quan l'aparença metàl·lica és recognoscible, els reflexos mantenen una relació coherent amb la geometria i els contrastos compleixen la seva funció sense necessitat d'afegir més intervencions.
+
+No és necessari incrementar contínuament la quantitat de detalls o reflexos. Les intervencions addicionals poden millorar la lectura, però també poden fragmentar la superfície o reduir la jerarquia tonal. La decisió de finalitzar ha de respondre a la funció visual de la peça i no a l'acumulació de detalls.
 
 ## 16.7. Errors freqüents i correccions
 

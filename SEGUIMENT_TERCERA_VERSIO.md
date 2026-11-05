@@ -197,7 +197,7 @@ Aquests 39 Markdown són la representació operativa dels continguts de la segon
 
 - Fase 0 — preservació de versions, fonts i branca de treball: completada.
 - Fase 1 — auditoria comparativa dels 39 capítols: completada (39/39).
-- Fase 2 — consolidació del Registre Mestre: en curs; versió 1.33. Resta conciliar la matriu per capítol amb els estats finals de F4 i les anotacions històriques.
+- Fase 2 — consolidació del Registre Mestre: en curs; versió vigent 1.44. Resta revisar la totalitat de les files de la matriu i les anotacions històriques per assegurar la conciliació completa dels estats.
 - Fase 3 — aplicació de recuperacions RT/RD i ajustos AE: completada per a les accions identificades a la matriu.
 - Fase 4 — validació dels 39 capítols: en curs. La revisió semàntica de remissions C1–C39 està completada; s'ha precisat una remissió a C18. C5 té coteig de contingut i bibliografia completat; C4 i C6 tenen revisió de correspondència estructural i didàctica principal; C7 té revisió estructural i operativa, inclosa la seguretat; C8 té revisió estructural i procedimental; C9 també té revisió estructural i procedimental, amb la possible redundància 9.6/9.8 conciliada; C10 té revisió estructural i tècnica. La comprovació estructural global dels 39 Markdown està completada. Resta completar els cotejos de fidelitat documental i contingut dels capítols encara no validats.
 - Fase 5 — annexos A–E: pendent; no iniciar fins a estabilitzar els 39 capítols.

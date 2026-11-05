@@ -119,3 +119,24 @@ Aquesta inspecció global no substitueix una lectura ampliada de cada taula ni g
 - Branca de treball actualitzada sense alterar `main`; `main` continua a `a4ce8192e30178b0171ea02a3af230b60efd3768`.
 
 **Conclusió:** F9 queda tancada en el seu abast aprovat de maquetació textual sense imatges. No s'ha iniciat F10.
+
+
+## Revisió final del PDF i correcció de files de taula — 05/11/2026
+
+La inspecció ampliada del PDF va detectar una incidència concreta a l'Annex B: la fila «Perfilat de vores» de la taula B.3 es dividia entre pàgines i el fragment de continuació quedava sense la primera cel·la. Es va provar la protecció de files en una còpia de treball i es va confirmar que mantenia la fila completa sense modificar-ne el contingut.
+
+S'ha incorporat la propietat `cantSplit` a totes les files de taula del generador (1.385 files en 159 taules). També s'ha ampliat el disparador del workflow PDF perquè es torni a executar quan canviïn el generador, el validador o les fonts que formen el manual. El workflow fixa el runner `ubuntu-26.04` i registra la versió de LibreOffice i la suma SHA-256 del PDF.
+
+- Commit de correcció del generador: `7e525f5516781eb543a46cbb6d5d54a179963d85`.
+- Commit del workflow i metadades: `7775a03c741482fd190bec93b0a52c9e4e9354fc`.
+- Workflow PDF de comprovació posterior a la correcció: execució `42084879151`, conclusió `success`, commit `695bbba398d3d995397cb731c847a508cccd0cb2`.
+- Artefacte PDF d'aquesta execució: ID `13443305349`.
+- PDF resultant: 326 pàgines A4; 7.614.626 bytes; LibreOffice 26.2.6.3; índex a les pàgines 2–11 i cos des de la 12; sense instrucció provisional d'actualització de l'índex.
+- SHA-256 del PDF: `cc1ed19ba125e907cf2e59be6f7ee051b184231c006a397b8117f38a883e47b2`.
+- DOCX: 39 capítols, 159 taules, 1.385 files protegides contra divisió, 48 fitxes i 336 seccions de fitxa.
+- Auditoria PDF–DOCX: es localitzen els 39 títols de capítol i les 48 fitxes; no s'hi detecten dèficits de tokens de contingut. Les diferències restants són únicament el text provisional del camp de l'índex, que s'elimina en actualitzar-lo.
+- Inspecció visual: fulls de contacte de les 326 pàgines i mostres ampliades; la fila B.3 queda íntegra. No s'observen pàgines en blanc o gairebé buides.
+
+La diferència respecte de les paginacions anteriors de 352–353 pàgines es deu al motor de maquetació. Les conversions amb LibreOffice 25.2.3.2 van produir 352–353 pàgines i continuacions de text molt curtes; l'artefacte de referència s'ha generat amb LibreOffice 26.2.6.3 i presenta 326 pàgines sense pàgines pràcticament buides. La longitud objectiu és orientativa i no s'ha d'assolir afegint espaiat artificial ni alterant contingut.
+
+**Conclusió final:** F9 queda tancada en el seu abast textual sense imatges. No s'ha modificat `main`, no s'ha fusionat la branca de treball i no s'ha iniciat F10.

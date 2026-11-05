@@ -867,7 +867,7 @@ Aquesta secció és la referència operativa més recent i preval sobre les inst
 - **F2:** completada el 05/11/2026; Registre Mestre versió 1.74. Revisades les 39 files de la matriu, conciliats els estats obsolets de C28–C29 i verificada la correspondència dels 39 Markdown amb la compilació C1–C39 (39/39).
 - **F3:** completada per a les accions RT/RD/AE identificades a la matriu.
 - **F4:** completada amb limitacions documentals. Tots els 39 capítols disposen d'un nivell de revisió documentat, i les limitacions de font s'han mantingut explícites. La revisió semàntica de remissions C1–C39 i la comprovació estructural global estan completades. No es presenta el coteig documental com a validació experimental.
-- **F5:** en curs; A, B, C i D auditats. A: 48/48 referències i composició dels conjunts verificades contra el catàleg oficial 2026; B: 62 entrades i remissions validades; C: 183 entrades, 170 referències corregides; D: 92 entrades contrastades amb els capítols i amb C. Resta E i la integració global A–E.
+- **F5:** completada el 05/11/2026. A–E auditats i integrats: A 48/48 referències i conjunts; B 62/62 entrades i remissions; C 183/183 receptes, amb 170 remissions corregides; D 92/92 formulacions i correspondències; E remissions verificades. Les fitxes individuals de pintura no són dins del repositori i no es declaren auditades.
 - **F6:** completada el 05/11/2026; auditoria global de coherència transversal C1–C39 tancada. No equival a validació experimental.
 - **F7:** pendent; revisió gràfica i maquetació Word després de F5.
 
@@ -883,7 +883,7 @@ La integritat de la compilació s'ha verificat recuperant de nou els 39 fitxers 
 2. F4 i F6 estan tancades amb els límits documentals registrats. No repetir les auditories completades ni reobrir capítols sense una incidència substancial.
 3. Mantenir explícits els límits de font de C11 i C14–C18, i els límits de revisió de C30–C32 i C36.
 4. Confirmar que la compilació C1–C39 continua sincronitzada amb els 39 Markdown després de la normalització terminològica de C26.
-5. F5 és ara la següent fase: regeneració i auditoria dels annexos A–E.
+5. F5 està tancada; la següent fase és F7: producció dels recursos gràfics i maquetació Word.
 6. Abordar F7 (producció gràfica i maquetació Word) després dels annexos, comprovant la paginació real i preservant el contingut tècnic.
 
 
@@ -1153,3 +1153,16 @@ Durant el coteig s'han corregit dues incidències lingüístiques concretes als 
 **Annex D:** s'han contrastat les 92 entrades amb les lletres de recepta i els colors indicats als capítols, i amb les entrades corresponents de l'Annex C. No s'han detectat correspondències incorrectes. S'ha aclarit que C29, C32 i C34 no aporten mescles físiques explícites a la taula, perquè descriuen seqüències d'aplicació o seleccions cromàtiques sense formulacions físiques ni proporcions.
 
 F5 continua oberta per l'auditoria de l'Annex E i la comprovació final d'integració entre A–E.
+
+
+### F5 — tancament de l'auditoria i integració dels annexos A–E (05/11/2026)
+
+S'ha completat l'auditoria dels cinc annexos i la seva integració transversal:
+
+- **A:** 48 referències úniques, quatre conjunts de 12; composició contrastada amb el catàleg oficial Vallejo 2026. Les fitxes individuals són documents independents no inclosos al repositori i no es declaren auditades.
+- **B:** 62 entrades; totes les remissions als capítols 7–39 verificades. S'han corregit 28 identificadors de subsecció obsolets en set entrades.
+- **C:** 183 entrades i lletres verificades amb C19–C34; 170 referències actualitzades i 13 ja correctes.
+- **D:** 92 entrades contrastades amb els capítols, l'Annex A i les lletres de l'Annex C. Les exclusions de C29, C32 i C34 queden justificades perquè no aporten mescles físiques explícites a la taula.
+- **E:** guia de selecció i planificació revisada; remissions als capítols 1–39 i als annexos A–D verificades.
+
+No s'han inventat proporcions, no s'han convertit seqüències d'aplicació en mescles físiques i no s'ha afirmat cap validació experimental. F5 queda tancada. La següent fase és F7: producció dels 243 recursos gràfics proposats i maquetació Word, amb comprovació del volum real.

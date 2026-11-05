@@ -512,3 +512,89 @@ S'ha fet una segona passada sobre els apartats concrets que sustenten les P1 de 
 - **C24:** 24.3 s'ubica a 24.7; 24.7 i 24.8 s'ubiquen a 24.8; 24.9 a 24.9.3.
 
 **Resultat del coteig detallat C15–C24:** les P1 examinades tenen correspondència real amb el contingut lector i es mantenen com a candidates de producció, amb les ubicacions corregides i les condicions descrites. No es modifica cap capítol ni es genera cap imatge. Les P2 continuen pendents de decisió final i les especificacions de producció encara s'han de redactar.
+
+
+## 14. Coteig detallat de les propostes P1 — C30–C39
+
+S'han contrastat les P1 d'aquesta tanda amb els apartats de contingut que sostenen cada figura. Les ubicacions indicades són les dels apartats lectors; els identificadors de figura són números interns de proposta i no han de coincidir amb la numeració dels apartats.
+
+| Proposta | Ubicació lectora recomanada | Resultat del coteig detallat |
+|---|---|---|
+| 30.1 — Estructura visual d'una flama | C30, 30.2 | **Validada.** El text diferencia nucli, zona intermèdia, exterior i base, però adverteix que no són divisions físiques universals. La figura s'ha d'identificar com a esquema pictòric. |
+| 30.3 — Planificació cromàtica del foc | C30, 30.3.1–30.3.2 | **Validada.** La paleta i la jerarquia tonal són orientatives; no convertir-les en una seqüència universal ni en caracterització experimental de les pintures. |
+| 30.4 — Construcció pictòrica d'una flama | C30, 30.5 | **Validada.** La recepta A conté una seqüència clara de base, transicions i intensificació; representar-la com a procediment proposat, no com a resultat provat. |
+| 30.8 — Integració de foc, fum i material carbonitzat | C30, 30.9 | **Validada.** L'escena ha de diferenciar flama, fum, brases i material carbonitzat, sense incorporar OSL ni efectes sobrenaturals. |
+| 31.1 — Estats visuals de la sang | C31, 31.1–31.2 | **Validada amb matís.** Sang fresca, acumulada/coagulada i seca no formen una escala cronològica universal. La figura ha de separar color, consistència, distribució i acabat. |
+| 31.2 — Sang i altres fluids | C31, 31.2 | **Validada.** Comparació pictòrica de cobertura, volum, transparència i distribució; no és una classificació mèdica. |
+| 31.3 — Distribució sobre geometries | C31, 31.3 i 31.4.3 | **Validada.** Les gotes i els rastres han de respondre a gravetat, orientació, superfície i escala. |
+| 31.4 — Construcció de sang fresca | C31, 31.4.2–31.4.3 | **Validada amb condició.** Diferenciar pel·lícula fina, gota i acumulació; les receptes són propostes no experimentades. |
+| 31.5 — Construcció de sang seca | C31, 31.5 | **Validada amb condició.** Preservar identitat rogenca i evitar una equivalència universal entre color i antiguitat. |
+| 31.8 — Errors freqüents | C31, 31.7 (control tècnic i avaluació), no 31.8 | **Validada; ubicació corregida.** L'apartat 31.8 conté receptes cromàtiques, mentre que els errors i el control es tracten a 31.7. |
+| 32.2 — Jerarquia visual d'una manifestació energètica | C32, 32.2 | **Validada.** La forma principal, la intensitat i els elements secundaris han de tenir jerarquia; no imposar sempre un nucli blanc ni un halo. |
+| 32.3 — Fluorescència, color convencional i aparença lluminosa | C32, 32.2.4 i 32.4.1 | **Validada.** La figura ha de separar fluorescència del pigment i emissió simulada pictòricament; no atribuir fosforescència a una pintura fluorescent. |
+| 32.4 — Construcció d'una esfera d'energia | C32, 32.3 i 32.5 | **Validada.** La seqüència ha de conservar forma dominant i volum; els detalls secundaris no poden competir amb l'esfera. |
+| 32.5 — Estructura d'una descàrrega | C32, 32.3 | **Validada.** Recorregut principal, ramificacions, gruix i intensitat han de ser irregulars i direccionals, no simètrics ni repetitius. |
+| 32.8 — Font energètica i il·luminació projectada | C32, 32.2.4 i 32.6; remissió a C17 | **Validada; ubicació concretada.** Separar manifestació, aparença d'emissió i llum rebuda per les superfícies; el procediment OSL correspon a C17. |
+| 33.1 — Comparació de cossos ceràmics | C33, 33.2.1–33.2.2 | **Validada.** Diferenciar ceràmica porosa, compacta i porcellana per estructura i aparença, no només per brillantor. |
+| 33.2 — Ceràmica sense esmaltar i esmaltada | C33, 33.2.1 i 33.2.3 | **Validada.** Mostrar el recobriment vitrificat i la seva influència sobre continuïtat, textura i aparença, sense confondre'l amb vernís protector. |
+| 33.5 — Construcció de terracota | C33, 33.4 | **Validada; ubicació corregida.** La figura tracta la recepta i el procediment de ceràmica natural/terracota; no s'ha de confondre amb pedra. |
+| 33.6 — Construcció d'un esmalt acolorit | C33, 33.5 | **Validada; ubicació corregida.** Separar color de l'esmalt i acabat superficial; organitzar reflexos segons geometria. |
+| 33.7 — Craquelat i pèrdua localitzada de l'esmalt | C33, 33.6 | **Validada.** Diferenciar fissures superficials de fractures del cos ceràmic i situar pèrdues en zones plausibles. |
+| 33.9 — Reflexos sobre plàstics | C33, 33.7–33.8 | **Validada; ubicació corregida.** La figura és sobre geometria i resposta dels plàstics, no sobre els errors del 33.9. |
+| 34.1 — Tipus de vidre | C34, 34.2 | **Validada.** La comparació ha de fer visible quina informació del fons es conserva i com varia la transmissió. |
+| 34.2 — Senyals visuals del vidre | C34, 34.2 | **Validada.** Vores, reflexos, fons transmès, gruix i distorsió han de respondre a la geometria; evitar perfilar tot el contorn. |
+| 34.3 — Panell de vidre transparent | C34, 34.4 | **Validada.** La seqüència ha de conservar la lectura del fons i limitar els reflexos a les zones justificades. |
+| 34.5 — Vidre acolorit | C34, 34.5 | **Validada.** El color no ha d'eliminar els senyals de transparència ni convertir l'ampolla en un objecte opac. |
+| 34.7 — Vidre transparent i esmerilat | C34, 34.7 | **Validada.** La mateixa escena ha de conservar contorns definits en el transparent i difuminar-los en l'esmerilat. |
+| 34.9 — Esquerdes i fragments | C34, 34.8 | **Validada; ubicació corregida.** L'apartat 34.9 és de control i avaluació; les fractures i els fragments es tracten a 34.8. |
+| 35.1 — Anàlisi cromàtica global | C35, 35.2 | **Validada.** Dominants, secundaris i accents s'han de diferenciar per extensió, intensitat i posició; no només per saturació. |
+| 35.2 — Distribució de masses cromàtiques | C35, 35.2–35.3 | **Validada.** La simplificació ha de distingir extensió de pes visual. |
+| 35.4 — Harmonització i uniformitat | C35, 35.3 | **Validada; ubicació corregida.** Mostrar unitat sense pèrdua d'identitat material; l'apartat 35.3 tracta harmonització i unitat. |
+| 35.5 — Integració cromàtica entre materials | C35, 35.4 | **Validada.** Les relacions compartides no han d'eliminar diferències de material, acabat i textura. |
+| 35.6 — Integració de figura i peanya | C35, 35.5 | **Validada.** Mostrar relacions de conjunt sense exigir una paleta idèntica ni una fusió cromàtica completa. |
+| 35.8 — Correccions localitzades i globals | C35, 35.7 (procediments d'harmonització i ajust) | **Validada; ubicació corregida.** Comparar abast i risc d'intervenció, preservant les zones que ja funcionen. |
+| 35.9 — Seqüència d'harmonització | C35, 35.8 | **Validada.** El procediment és diagnòstic, definició d'objectius, selecció, execució i avaluació; incorporar-hi 35.10 (P3) sense duplicar una figura final. |
+| 36.1 — Envelliment, desgast i deteriorament | C36, 36.2.1 | **Validada.** El text diferencia els tres fenòmens i les seves causes; la figura ha de preservar aquesta distinció. |
+| 36.2 — Distribució del desgast | C36, 36.3 | **Validada.** Zones de contacte, vores i superfícies protegides han de respondre a ús i geometria. |
+| 36.3 — Abrasió, fregadures i ratllades | C36, 36.4.1–36.4.3 | **Validada.** Comparar pèrdua superficial, fricció i marques lineals sense confondre-les. |
+| 36.4 — Impactes i danys localitzats | C36, 36.4.4 | **Validada.** Relacionar forma i profunditat amb material, intensitat i geometria. |
+| 36.5 — Capes i pèrdua de recobriment | C36, 36.5.1 | **Validada.** El material exposat ha de correspondre a l'estructura concreta de capes, no a una estratigrafia universal. |
+| 36.6 — Desconxats petits i pèrdues extenses | C36, 36.5.2–36.5.3 | **Validada.** Comparar forma, densitat, extensió i material exposat. |
+| 36.8 — Desgast en diferents materials | C36, 36.7 | **Validada; ubicació corregida.** La comparació de materials pertany a l'adaptació del desgast, no a l'apartat 36.8 de procediments d'aplicació. |
+| 36.9 — Seqüència de construcció del desgast | C36, 36.8 | **Validada; ubicació corregida.** La seqüència ha de seguir preparació, alteracions i control descrits al procediment. |
+| 37.2 — Reflexió especular i més difusa | C37, 37.2.1 | **Validada.** Una superfície mate també reflecteix llum; la diferència rau en la distribució i la percepció, no en l'absència de reflexió. |
+| 37.3 — Orientació i il·luminació en la brillantor percebuda | C37, 37.2.1–37.3 | **Validada.** La figura ha de mostrar la dependència respecte de llum, observador, geometria i superfície, no només del producte. |
+| 37.4 — Acabat, textura i reflexos | C37, 37.2.1–37.3 | **Validada.** No atribuir tota diferència de brillantor a la rugositat. |
+| 37.6 — Selecció de l'acabat segons material i efecte | C37, 37.4 | **Validada.** Els exemples són orientatius; no establir una associació fixa material/acabat. |
+| 37.7 — Diferenciació de materials mitjançant acabats selectius | C37, 37.5 | **Validada.** La brillantor és un dels indicis, no l'únic element d'identificació. |
+| 37.8 — Distribució localitzada de la brillantor | C37, 37.5 | **Validada.** Mostrar selecció de zones i transicions sense convertir qualsevol superfície en un mapa arbitrari de tres acabats. |
+| 37.9 — Seqüència d'anàlisi i selecció | C37, 37.6 | **Validada; ubicació corregida.** El procediment de selecció i avaluació és el 37.6; 37.9 és la síntesi. |
+| 37.10 — Errors i resultats corregits | C37, 37.7 | **Validada; ubicació corregida.** Els errors i correccions es desenvolupen al 37.7. |
+| 38.2 — Assecat superficial, al tacte i estabilització | C38, 38.2.4 | **Validada.** Distingir les fases sense establir temps universals ni confondre tacte sec amb estabilització. |
+| 38.4 — Selecció del sistema segons l'ús | C38, 38.4 | **Validada.** Diferenciar exposició, joc/manipulació i elements delicats segons necessitats reals. |
+| 38.5 — Preparació i inspecció | C38, 38.5 | **Validada.** Comprovar estat de pintura, superfície, zones sensibles i compatibilitat abans d'envernissar. |
+| 38.6 — Aplicació amb pinzell, aerògraf i aerosol | C38, 38.6 | **Validada.** Procediments generals adaptats al producte; no afegir valors universals de pressió, distància o dilució. |
+| 38.7 — Distribució i acumulació excessiva | C38, 38.6 i 38.7.3 | **Validada.** Comparar pel·lícula controlada i acumulació, especialment en cavitats i detalls. |
+| 38.8 — Alteracions per incompatibilitat o aplicació incorrecta | C38, 38.7.1–38.7.2 | **Validada.** Diferenciar causes possibles i no atribuir un defecte a una única variable sense evidència. |
+| 38.10 — Seqüència integral de protecció i conservació | C38, 38.8 i síntesi del capítol | **Validada.** Ha d'integrar aplicació, estabilització, manipulació, emmagatzematge i revisió, sense duplicar tots els procediments detallats. |
+| 39.1 — Seqüència general de diagnòstic | C39, 39.2 | **Validada.** L'ordre observació, símptoma, causes, intervenció i avaluació és explícit; mantenir el diagnòstic com a procés condicional. |
+| 39.2 — Símptoma, causa i correcció | C39, 39.2.2–39.2.5 | **Validada.** Un mateix símptoma pot tenir diverses causes; la figura ha de mostrar més d'una ruta possible. |
+| 39.3 — Inspecció d'una miniatura | C39, 39.2.1 | **Validada.** Comparar vista general, detall i llum lateral; l'ampliació no substitueix l'avaluació a distància habitual. |
+| 39.4 — Classificació dels problemes | C39, 39.3 | **Validada.** Les categories han de seguir la classificació del capítol i no duplicar ni ometre famílies. |
+| 39.5 — Nivells d'intervenció | C39, 39.5; integrar-hi 39.6 (P2) | **Validada.** Els nivells són orientatius, no una seqüència obligatòria. La comparació local/global de 39.6 pot formar-ne un panell. |
+| 39.7 — Prevenció i registre | C39, 39.7 | **Validada.** El registre ha d'incloure símptoma, productes, condicions, causa probable, intervenció i resultat, sense convertir observacions puntuals en validació universal. |
+| 39.10 — Arbre de decisió corregir/conservar | C39, 39.5.1–39.5.2 | **Validada; ubicació corregida.** L'arbre pertany als criteris de decisió, no a la síntesi 39.10; no ha de substituir el diagnòstic de 39.2. |
+
+### Correccions d'ubicació derivades del coteig
+
+- **C31:** la figura 31.8 (errors) correspon a 31.7, no a 31.8 (receptes).
+- **C32:** la figura 32.3 (fluorescència) correspon a 32.2.4/32.4.1; 32.4 i 32.5 (esfera i descàrrega) a 32.3/32.5; 32.8 (font i il·luminació projectada) a 32.2.4 i la remissió a C17.
+- **C33:** 33.5 correspon a 33.4; 33.6 a 33.5; 33.7 a 33.6; 33.9 a 33.7–33.8.
+- **C34:** 34.9 (esquerdes i fragments) correspon a 34.8, no a 34.9 (control).
+- **C35:** 35.4 correspon a 35.3; 35.8 a 35.7; 35.9 a 35.8.
+- **C36:** 36.8 correspon a 36.7; 36.9 a 36.8.
+- **C37:** 37.9 correspon a 37.6; 37.10 a 37.7.
+- **C38:** 38.10 s'ha de situar com a síntesi visual del procés de 38.4–38.8, no com a repetició dels exercicis.
+- **C39:** 39.10 correspon a 39.5.1–39.5.2; 39.6 s'integra a 39.5.
+
+**Resultat del coteig detallat C30–C39:** les P1 tenen correspondència amb el contingut consolidat i es mantenen com a candidates, amb les ubicacions corregides. Les P2 i la traducció de les descripcions originals continuen pendents. No s'ha produït cap imatge ni modificat cap capítol.

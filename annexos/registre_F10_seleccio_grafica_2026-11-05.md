@@ -882,3 +882,14 @@ S'han fet explícites a les fitxes les integracions confirmades:
 - 39.6→39.5.
 
 La resta de destinacions i condicions consten a la matriu. El recompte principal continua sent **156 identificadors P1 en 150 composicions**; les P2/P3 integrades es conserven com a contingut complementari i no s'afegeixen al recompte P1.
+
+
+## 28. Comprovació de la traçabilitat P2/P3 i numeració — 05/11/2026
+
+S'ha contrastat la matriu d'integració P2/P3 amb el mapa de numeració editorial:
+- 37 identificadors complementaris P2/P3 documentats a la matriu.
+- 31 identificadors associats a una o més de les 150 composicions P1.
+- 6 identificadors continuen en reserva perquè depenen de figures P2 no seleccionades com a composició principal: 32.6, 32.7, 33.8, 33.10, 37.1 i 37.5.
+- Cap identificador complementari en reserva s'ha assignat accidentalment a un número editorial.
+
+Aquesta comprovació garanteix que les P2/P3 associades a composicions P1 tenen una destinació traçable i que les que no disposen de destinació continuen fora de la selecció principal. Les P2 en reserva no s'han d'inserir a F11 sense una decisió editorial addicional i una actualització de la numeració.

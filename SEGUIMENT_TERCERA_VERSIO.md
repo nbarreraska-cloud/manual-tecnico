@@ -197,7 +197,7 @@ Aquests 39 Markdown són la representació operativa dels continguts de la segon
 
 - Fase 0 — preservació de versions, fonts i branca de treball: completada.
 - Fase 1 — auditoria comparativa dels 39 capítols: completada (39/39).
-- Fase 2 — consolidació del Registre Mestre: en curs; versió vigent 1.65. Resta revisar la totalitat de les files de la matriu i les anotacions històriques per assegurar la conciliació completa dels estats.
+- Fase 2 — consolidació del Registre Mestre: en curs; versió vigent 1.68. Resta revisar la totalitat de les files de la matriu i les anotacions històriques per assegurar la conciliació completa dels estats.
 - Fase 3 — aplicació de recuperacions RT/RD i ajustos AE: completada per a les accions identificades a la matriu.
 - Fase 4 — validació dels 39 capítols: **completada amb limitacions documentals**. Tots els 39 capítols tenen una revisió documentada: coteig complet de contingut per a C1–C10, C12–C13, C20–C24, C25–C29, C33–C35, C37–C39 i C38; revisions limitades de C11 i C14–C19 contra material consolidat disponible, sense originals complets recuperats quan així consta a la font; revisió del contingut disponible de C30–C32 i C36. La revisió semàntica de remissions i la comprovació estructural global dels 39 Markdown estan completades. No equival a validació experimental.
 - Fase 5 — annexos A–E: pendent; no iniciar fins a estabilitzar els 39 capítols.
@@ -864,7 +864,7 @@ Aquesta secció és la referència operativa més recent i preval sobre les inst
 
 - **F0:** completada.
 - **F1:** auditoria comparativa completada per als 39 capítols.
-- **F2:** en curs; el Registre Mestre està actualitzat a la versió 1.65. Resta revisar la totalitat de les files de la matriu i les anotacions històriques per completar la conciliació.
+- **F2:** en curs; el Registre Mestre està actualitzat a la versió 1.68. Resta revisar la totalitat de les files de la matriu i les anotacions històriques per completar la conciliació.
 - **F3:** completada per a les accions RT/RD/AE identificades a la matriu.
 - **F4:** completada amb limitacions documentals. Tots els 39 capítols disposen d'un nivell de revisió documentat, i les limitacions de font s'han mantingut explícites. La revisió semàntica de remissions C1–C39 i la comprovació estructural global estan completades. No es presenta el coteig documental com a validació experimental.
 - **F5:** pendent fins al tancament de F4.

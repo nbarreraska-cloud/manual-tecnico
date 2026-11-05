@@ -223,8 +223,6 @@ def main():
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     p.paragraph_format.space_before = Pt(120)
-    p.add_run("Branca de treball: intervencion-editorial-2026-11\n").italic = True
-    p.add_run("Maquetació textual sense imatges · 05/11/2026").italic = True
 
     doc.add_page_break()
     doc.add_heading("Índex general", level=1)
@@ -278,7 +276,7 @@ def main():
     doc.core_properties.comments = "Generat sense modificar el contingut tècnic de les fonts aprovades."
     doc.save(OUTPUT)
     print(f"Created {OUTPUT}")
-    print(f"Validated: {len(chapter_heads)} chapters, 5 annexes A-E, {len(fiche_paths)} fiches x 7 sections.")
+    print(f"Validated: {len(chapter_heads)} chapters, 6 annexes A-F, {len(fiche_paths)} fiches x 7 sections.")
 
 if __name__ == "__main__":
     main()

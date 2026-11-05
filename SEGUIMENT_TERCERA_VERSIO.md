@@ -577,4 +577,14 @@ S'ha fet una primera comprovació estructural dels 29 Markdown intervinguts (cap
 
 Aquesta comprovació és estructural, no una validació semàntica. Encara cal contrastar les receptes, els procediments, les afirmacions tècniques, les referències i els exercicis amb el text original i amb les decisions editorials. Els criteris d'avaluació afegits als capítols 36 i 38 continuen identificats com a propostes editorials, no com a text recuperat.
 
-**Estat actual:** F0 i F1 completades; F2 amb Registre Mestre 1.5 i conciliació fina encara oberta; F3 completada per a les accions identificades; F4 iniciada; F5–F7 pendents.
+**Estat actual:** F0 i F1 completades; F2 amb Registre Mestre 1.6 i conciliació fina encara oberta; F3 completada per a les accions identificades; F4 iniciada; F5–F7 pendents.
+
+
+### Primera comprovació semàntica dels capítols 28 i 29 (05/11/2026)
+
+S'ha iniciat el coteig semàntic de F4 amb els capítols d'alta prioritat:
+- C28: contrastades les onze receptes A–K, les seqüències de procediment i les llistes de materials dels sis exercicis amb el text original. S'han completat els codis de referència de pintura que faltaven a les llistes.
+- C29: contrastades les disset receptes A–Q i les llistes de materials/procediments dels sis exercicis amb el text original. S'han completat els codis de referència de pintura que faltaven a les llistes.
+- S'ha corregit una duplicació de codis introduïda durant la normalització i s'ha comprovat que cada referència apareix una sola vegada.
+
+Aquesta comprovació confirma les receptes i els materials dels exercicis, però no tanca tota la validació: encara cal revisar la coherència tècnica de les explicacions, els criteris de correcció, les referències i les delimitacions entre capítols.

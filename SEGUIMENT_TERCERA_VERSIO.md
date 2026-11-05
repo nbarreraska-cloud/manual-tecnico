@@ -197,9 +197,9 @@ Aquests 39 Markdown són la representació operativa dels continguts de la segon
 
 - Fase 0 — preservació de versions, fonts i branca de treball: completada.
 - Fase 1 — auditoria comparativa dels 39 capítols: completada (39/39).
-- Fase 2 — consolidació del Registre Mestre: en curs; versió 1.30. Resta conciliar la matriu per capítol amb els estats finals de F4 i les anotacions històriques.
+- Fase 2 — consolidació del Registre Mestre: en curs; versió 1.31. Resta conciliar la matriu per capítol amb els estats finals de F4 i les anotacions històriques.
 - Fase 3 — aplicació de recuperacions RT/RD i ajustos AE: completada per a les accions identificades a la matriu.
-- Fase 4 — validació dels 39 capítols: en curs. La revisió semàntica de remissions C1–C39 està completada; s'ha precisat una remissió a C18. C5 té coteig de contingut i bibliografia completat; C4 i C6 tenen revisió de correspondència estructural i didàctica principal; C7 té revisió estructural i operativa, inclosa la seguretat; C8 té revisió estructural i procedimental. Resta completar els cotejos documentals i les comprovacions estructurals dels capítols encara no validats.
+- Fase 4 — validació dels 39 capítols: en curs. La revisió semàntica de remissions C1–C39 està completada; s'ha precisat una remissió a C18. C5 té coteig de contingut i bibliografia completat; C4 i C6 tenen revisió de correspondència estructural i didàctica principal; C7 té revisió estructural i operativa, inclosa la seguretat; C8 té revisió estructural i procedimental; C9 també té revisió estructural i procedimental, amb la possible redundància 9.6/9.8 conciliada. Resta completar els cotejos documentals i les comprovacions estructurals dels capítols encara no validats.
 - Fase 5 — annexos A–E: pendent; no iniciar fins a estabilitzar els 39 capítols.
 - Fase 6 — auditoria global de coherència: completada el 05/11/2026, amb passada transversal C1–C39.
 - Fase 7 — revisió gràfica i maquetació Word: pendent, després de F4 i F5.
@@ -864,7 +864,7 @@ Aquesta secció és la referència operativa més recent i preval sobre les inst
 
 - **F0:** completada.
 - **F1:** auditoria comparativa completada per als 39 capítols.
-- **F2:** en curs; el Registre Mestre està actualitzat a la versió 1.30. Resta conciliar la matriu per capítol i les entrades històriques amb l'estat final de F4.
+- **F2:** en curs; el Registre Mestre està actualitzat a la versió 1.31. Resta conciliar la matriu per capítol i les entrades històriques amb l'estat final de F4.
 - **F3:** completada per a les accions RT/RD/AE identificades a la matriu.
 - **F4:** en curs. La revisió semàntica de remissions C1–C39 està completada i documentada; s'ha precisat una remissió a C18. C5 té coteig de contingut i bibliografia completat; C4 té revisió de correspondència estructural i didàctica principal. La fidelitat documental s'ha cotejat per a C12–C13, C25–C29 i C38, amb els límits de font descrits al Registre Mestre. C30–C32 i C36 tenen revisió de contingut amb la font disponible. C19 té un coteig limitat a la font disponible. No es considera validada la totalitat dels 39 capítols.
 - **F5:** pendent fins al tancament de F4.
@@ -880,7 +880,7 @@ La integritat de la compilació s'ha verificat recuperant de nou els 39 fitxers 
 ### Ordre operatiu vigent
 
 1. Conciliar el Registre Mestre i el Seguiment amb els estats reals de les auditories, retirant les instruccions històriques que ja no siguin vigents.
-2. Completar F4, prioritzant el coteig documental i les comprovacions estructurals dels capítols encara no cotejats; la revisió semàntica de remissions C1–C39 ja està completada. C5 té coteig de contingut/bibliografia completat, C4–C6 revisió estructural/didàctica principal i C7 revisió estructural/operativa de seguretat i exercicis, i C8 revisió estructural/procedimental.
+2. Completar F4, prioritzant el coteig documental i les comprovacions estructurals dels capítols encara no cotejats; la revisió semàntica de remissions C1–C39 ja està completada. C5 té coteig de contingut/bibliografia completat, C4–C6 revisió estructural/didàctica principal i C7 revisió estructural/operativa de seguretat i exercicis, i C8 i C9 revisió estructural/procedimental.
 3. Sincronitzar i tornar a verificar la compilació consolidada si F4 produeix canvis als capítols.
 4. Només després de l'estabilització dels 39 capítols, iniciar F5 (annexos A–E).
 5. Abordar F7 (gràfica i maquetació Word) després dels annexos.
@@ -929,3 +929,12 @@ S'ha contrastat la correspondència estructural i procedimental de C8 amb la fon
 S'han comprovat especialment els procediments d'aplicació i superposició, la conservació dels límits, la construcció de superfícies uniformes i plans cromàtics diferenciats, la modificació progressiva de l'aparença, el control de la superfície acumulada i la decisió de continuar, corregir o aturar-se. Es mantenen els sis errors, els quatre exercicis pràctics i l'exercici integrador, amb els seus procediments, aspectes d'observació i criteris d'avaluació. No s'han identificat omissions substancials en els elements revisats.
 
 Les vuit propostes de figures originals continuen reservades a MG. Aquesta passada és una revisió estructural i procedimental, no un coteig textual integral de cada paràgraf. No s'han modificat receptes, ingredients, proporcions ni procediments.
+
+
+### F4 — revisió estructural i procedimental de C9 (05/11/2026)
+
+S'ha contrastat la correspondència estructural i procedimental de C9 amb la font disponible. Es mantenen els fonaments de les transicions contínues, esglaonades i la separació entre plans; les variables de pintura, geometria, extensió i quantitat; els tres procediments de construcció (mescles preparades, mescla humida i aplicacions successives); el procediment general de planificació i execució; les variants segons matís, valor, croma i distribució; el control tècnic; els sis errors i els sis exercicis, inclòs l'integrador.
+
+S'ha revisat la possible redundància interna entre 9.6 (control tècnic i avaluació durant la construcció) i 9.8 (resultat esperat i criteris d'avaluació). Les funcions són complementàries: 9.6 guia el control de la transició mentre s'executa; 9.8 sintetitza les competències i els criteris de valoració final. No es justifica eliminar ni fusionar contingut.
+
+Les vuit propostes de figures originals continuen reservades a MG. No s'han modificat receptes, ingredients, proporcions ni procediments.

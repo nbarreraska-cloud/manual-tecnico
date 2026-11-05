@@ -12791,6 +12791,10 @@ La representació pot considerar-se satisfactòria quan:
 - Les irregularitats són proporcionades a l'escala.
 - La peça conserva una lectura global clara.
 
+**Criteri de finalització**
+
+El treball pot donar-se per finalitzat quan la ceràmica, la porcellana o la superfície plàstica es reconeix visualment, l'acabat està definit i els detalls secundaris no perjudiquen la lectura de la peça. No cal afegir més variacions cromàtiques o textures quan el resultat ja compleix la seva funció visual.
+
 ## 33.10. Exercicis pràctics
 
 1. **Ceràmica porosa i esmaltada:** dues superfícies amb família cromàtica semblant; comparar textura, continuïtat i reflexos.
@@ -12823,6 +12827,19 @@ Les fonts tècniques fonamenten diferències generals entre cossos ceràmics, es
 
 Les deu figures següents queden reservades per a la fase gràfica final. No s'han de generar ni inserir durant aquesta etapa.
 
+| Figura | Contingut | Ubicació prevista |
+|---|---|---|
+| 33.1 | Comparació de cossos ceràmics: porós, compacte i porcellana | 33.2 |
+| 33.2 | Ceràmica sense esmaltar i superfícies esmaltades | 33.2–33.5 |
+| 33.3 | Acabats ceràmics: mat, setinat i brillant | 33.2.3 i 33.8 |
+| 33.4 | Porcellana blanca i marfil | 33.5 |
+| 33.5 | Construcció d'una superfície de terracota | 33.4 |
+| 33.6 | Construcció d'un esmalt acolorit i distribució de reflexos | 33.5 |
+| 33.7 | Craquelat i pèrdua localitzada de l'esmalt | 33.6 |
+| 33.8 | Plàstics llisos, texturitzats, mats i brillants | 33.2 i 33.7 |
+| 33.9 | Reflexos sobre plàstics amb geometries diferents | 33.7–33.8 |
+| 33.10 | Comparació final de materials i errors freqüents | 33.9 |
+
 1. **Comparació de cossos ceràmics.** Mostrar tres cossos diferenciats per estructura i aparença: ceràmica porosa, ceràmica compacta i porcellana. La finalitat és distingir el cos del material sense utilitzar la brillantor com a únic criteri.
 2. **Ceràmica sense esmaltar i superfícies esmaltades.** Comparar una superfície ceràmica sense recobriment amb diverses superfícies esmaltades. Mostrar com el recobriment modifica la continuïtat, la textura i l'aparença general de la peça.
 3. **Acabats ceràmics.** Presentar una mateixa geometria amb acabats mat, setinat i brillant. Diferenciar l'aparença de l'esmalt i el comportament visual dels reflexos, sense desenvolupar procediments d'envernissament.
@@ -12833,7 +12850,25 @@ Les deu figures següents queden reservades per a la fase gràfica final. No s'h
 8. **Famílies visuals de materials plàstics.** Mostrar superfícies plàstiques llises, texturitzades, mates i brillants. Destacar la diversitat d'aparences dels plàstics i evitar que s'interpretin com un material visualment uniforme.
 9. **Reflexos sobre superfícies plàstiques.** Comparar la distribució dels reflexos en superfícies planes, corbes i amb relleus emmotllats. Mostrar com la geometria condiciona l'aparença de l'acabat.
 10. **Comparació final de materials i errors freqüents.** Presentar ceràmica, porcellana i plàstic en una mateixa composició. Incloure errors representatius: porcellana massa blanca, ceràmica confosa amb pedra, esmalt sense continuïtat superficial, plàstic excessivament metàl·lic i textures incompatibles.
----
+
+
+## Control editorial i límits de verificació
+
+- El capítol utilitza com a univers cromàtic de referència les 48 pintures dels quatre sets Squidmar × Vallejo.
+- Les receptes A–M són propostes cromàtiques, no mescles experimentades ni resultats comprovats.
+- No s'atribueixen propietats individuals no verificades a les pintures.
+- Es diferencia el cos ceràmic de l'esmalt superficial.
+- Es distingeix l'esmalt ceràmic, format mitjançant cocció, dels vernissos i acabats pictòrics aplicats sobre una miniatura.
+- La porcellana no s'identifica exclusivament pel color blanc o per un acabat brillant.
+- Els plàstics es tracten com una família àmplia de materials, sense atribuir-los una aparença única.
+- Es diferencia el craquelat superficial de l'esmalt de les fractures estructurals del cos ceràmic.
+- La selecció i aplicació de vernissos es reserva al capítol 37.
+- La representació del vidre i de les superfícies transparents o translúcides es reserva al capítol 34.
+- Els fonaments generals d'il·luminació, reflexos, color i comportament dels materials es desenvolupen als capítols 4, 5 i 6.
+- La brutícia i els dipòsits ambientals es remeten al capítol 29; el desgast i la transformació general, al capítol 36.
+- No s'han realitzat proves físiques ni es presenten resultats experimentals com a comprovats.
+- Les deu figures són propostes per a la fase gràfica final; no s'han generat ni inserit imatges.
+
 # 34. VIDRE I SUPERFÍCIES TRANSPARENTS
 
 ## 34.1. Abast i criteri de representació

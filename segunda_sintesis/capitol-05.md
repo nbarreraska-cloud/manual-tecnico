@@ -40,9 +40,7 @@ La luminància és una magnitud fotomètrica física i no s'ha de confondre amb 
 
 Per a una font puntual, la il·luminància disminueix aproximadament amb el quadrat de la distància:
 
-\[
-E\propto\frac{1}{d^2}
-\]
+E ∝ 1/d²
 
 Així, duplicar la distància redueix la il·luminància a una quarta part; triplicar-la, a una novena part. La llei correspon estrictament al model puntual. En fonts de mida finita només és una aproximació vàlida quan la distància és prou gran respecte de les dimensions de la font. No s'ha d'aplicar indiscriminadament a qualsevol configuració.
 
@@ -72,11 +70,9 @@ L'angle d'incidència es mesura entre la direcció d'arribada de la llum i la no
 
 Per a una font puntual, la contribució directa es pot expressar com:
 
-\[
-E=\frac{I\cos\theta}{r^2}
-\]
+E = (I · cos θ) / r²
 
-On (E) és la il·luminància (lux), (I) la intensitat lluminosa en la direcció del punt (candeles), (r) la distància (metres) i \(\theta\) l'angle entre la normal i la direcció d'il·luminació. L'expressió combina la disminució amb el quadrat de la distància i la reducció per incidència obliqua. No incorpora automàticament fonts extenses, altres fonts, llum indirecta ni tota la interacció amb el material; cal justificar-ne l'ús com a aproximació.
+On (E) és la il·luminància (lux), (I) la intensitat lluminosa en la direcció del punt (candeles), (r) la distància (metres) i θ l'angle entre la normal i la direcció d'il·luminació. L'expressió combina la disminució amb el quadrat de la distància i la reducció per incidència obliqua. No incorpora automàticament fonts extenses, altres fonts, llum indirecta ni tota la interacció amb el material; cal justificar-ne l'ús com a aproximació.
 
 ## 5.4. Interacció de la llum amb les superfícies
 

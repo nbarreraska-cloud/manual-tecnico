@@ -700,6 +700,8 @@ Les 58 propostes P1 d'aquesta tanda ja disposen de coteig lector al registre F10
 - **20.4 + 20.5:** una sola seqüència integrada de construcció de vetes i desviació de fibres al voltant d'un nus.
 - **22.2 + 22.5:** integrar el detall d'ante/nobuk dins de la comparació general de superfícies de cuir.
 - **24.7 + 24.8:** làmina anatòmica de dos panells, sempre que es mantingui la llegibilitat.
+- **34.1 + 34.7:** integrar la comparació de transparència i vidre esmerilat en la làmina de tipus de vidre.
+- **35.1 + 35.2:** integrar l'anàlisi cromàtica global i el mapa de masses en dos panells.
 - Les altres propostes d'aquesta tanda es mantenen com a candidates independents en aquesta fase, però poden compartir làmina si la composició final millora la lectura sense eliminar informació.
 - **C15.6:** decidir si la comparació s'insereix a 15.4 o 15.8 segons el flux final de la pàgina.
 - **C17.7/17.8/17.10:** mantenir la numeració de proposta només com a traçabilitat; aplicar les ubicacions corregides del registre.
@@ -757,19 +759,19 @@ Les propostes d'aquesta tanda ja disposen de coteig lector al registre F10 (apar
 
 | Proposta | Ubicació | Format i contingut | Condicions |
 |---|---|---|---|
-| 34.1 — Tipus de vidre | 34.2 | Comparació de vidres amb diferents graus de transmissió i difusió. | Mostrar la informació del fons que es conserva o es difumina. |
+| 34.1 + 34.7 — Tipus de vidre i transparència/difusió | 34.2, amb remissió des de 34.7 | Comparació de vidre transparent incolor, acolorit i esmerilat, amb detall de la mateixa escena vista a través de vidre transparent i esmerilat. | Una sola composició; mantenir el mateix fons i les mateixes condicions en el detall. |
 | 34.2 — Senyals visuals del vidre | 34.2 | Esquema de vores, reflexos, fons transmès, gruix i distorsió. | Fer respondre els senyals a la geometria; evitar perfilar tot el contorn. |
 | 34.3 — Panell de vidre transparent | 34.4 | Seqüència de construcció d'un panell transparent amb fons visible. | Limitar reflexos a zones justificades; conservar la lectura del fons. |
 | 34.5 — Vidre acolorit | 34.5 | Comparació de transmissió i color en un objecte de vidre. | El color no ha d'eliminar la transparència ni convertir l'objecte en opac. |
-| 34.7 — Vidre transparent i esmerilat | 34.7 | Mateixa escena vista a través de vidre transparent i esmerilat. | Contorns definits en el transparent i difuminats en l'esmerilat. |
+
 | 34.9 — Esquerdes i fragments | 34.8 | Esquema de fissures, fractures i fragments. | Ubicació corregida; distingir dany superficial i trencament del material. |
 
 ### C35 — Integració cromàtica
 
 | Proposta | Ubicació | Format i contingut | Condicions |
 |---|---|---|---|
-| 35.1 — Anàlisi cromàtica global | 35.2 | Miniatura anotada amb colors dominants, secundaris i accents. | Diferenciar extensió, intensitat i posició; no basar la jerarquia només en saturació. |
-| 35.2 — Distribució de masses cromàtiques | 35.2–35.3 | Mapa de masses i pes visual. | Diferenciar extensió física i pes perceptiu. |
+| 35.1 + 35.2 — Anàlisi global i masses cromàtiques | 35.2–35.3 | Dos panells: miniatura anotada amb dominants, secundaris i accents; mapa simplificat de masses i pes visual. | Una sola composició; distingir extensió física i pes perceptiu, sense basar la jerarquia només en saturació. |
+
 | 35.4 — Harmonització i uniformitat | 35.3 | Comparació d'unitat cromàtica amb i sense pèrdua d'identitat material. | Ubicació corregida; no uniformitzar materials ni superfícies diferents. |
 | 35.5 — Integració cromàtica entre materials | 35.4 | Comparació de relacions cromàtiques entre materials diferents. | Les relacions compartides no han d'eliminar textura, acabat ni identitat material. |
 | 35.6 — Integració de figura i peanya | 35.5 | Vista conjunta de figura i peanya amb relacions de color i valor. | No exigir paleta idèntica ni fusió cromàtica completa. |
@@ -833,4 +835,4 @@ Les propostes d'aquesta tanda ja disposen de coteig lector al registre F10 (apar
 - Les altres propostes es mantenen com a candidates separades; la maquetació podrà agrupar-les en làmines multipanell si conserva funcions i llegibilitat.
 - Les representacions de receptes i procediments no assajats han de ser esquemes didàctics, mai fotografies o resultats experimentals simulats.
 
-**Resultat d'aquesta tanda:** les propostes P1 cotejades de C30–C39 disposen ara d'especificacions preliminars. No s'ha generat ni inserit cap imatge. Les fusions i la numeració definitiva continuen pendents de la consolidació global de F10.
+**Resultat d'aquesta tanda:** els 64 identificadors P1 de C30–C39 disposen d'especificacions preliminars, organitzats en 62 composicions després d'integrar 34.7 a 34.1 i 35.2 a 35.1. No s'ha generat ni inserit cap imatge. La numeració definitiva continua pendent de la consolidació global de F10.

@@ -144,19 +144,33 @@ Diferenciar fissura superficial, fractura que travessa el material i superfície
 
 ## 34.9. Control tècnic i avaluació
 
-| Error | Correcció |
-|---|---|
-| Vidre completament opac | Recuperar fons, reduir cobertura i utilitzar reflexos selectius. |
-| Excés de reflexos blancs | Reduir-ne quantitat i jerarquitzar principals i secundaris. |
-| Vores massa uniformes | Interrompre contorns i variar contrast segons gruix i orientació. |
-| Vidre acolorit sense transparència | Diferenciar centre, vores i zones gruixudes; conservar transmissió. |
-| Reflexos incompatibles amb geometria | Adaptar direcció, curvatura i extensió. |
-| Contingut confós amb el vidre | Construir elements separadament i diferenciar límits i reflexos. |
-| Vidre esmerilat massa opac | Conservar variacions de llum i suggerir fons difús. |
-| Distorsions exagerades | Limitar-les i adaptar-les a curvatura i gruix. |
-| Esquerdes massa regulars | Variar direcció, longitud, ramificació i densitat. |
+| Error | Problema que produeix | Correcció |
+|---|---|---|
+| Vidre completament opac | Cobrir tota la superfície amb un color uniforme pot fer que l'objecte sembli plàstic o ceràmica esmaltada. | Recuperar informació del fons, reduir la cobertura cromàtica i utilitzar reflexos selectius. |
+| Excés de reflexos blancs | L'acumulació de línies i taques blanques pot ocultar la superfície i convertir-la en un objecte metàl·lic o lluminós. | Reduir la quantitat de reflexos i establir una jerarquia entre reflexos principals i secundaris. |
+| Vores massa uniformes | Perfilar tot el contorn amb la mateixa intensitat pot produir una silueta rígida i opaca. | Interrompre algunes vores i variar-ne el contrast segons el gruix i l'orientació. |
+| Vidre acolorit sense transparència | Una aplicació cromàtica uniforme pot fer que una ampolla sembli un objecte massís. | Diferenciar les zones centrals, les vores i les àrees de més gruix, conservant senyals de transmissió. |
+| Reflexos incompatibles amb la geometria | Les línies rectes sobre una superfície molt corba o els reflexos distribuïts sense relació amb la forma poden perjudicar la lectura de l'objecte. | Adaptar la direcció, la curvatura i l'extensió dels reflexos a la geometria. |
+| Contingut confós amb el vidre | Quan un recipient conté líquid, pot resultar difícil distingir-ne el contingut de la superfície exterior. | Construir tots dos elements per separat i diferenciar-ne els límits, els reflexos i la distribució cromàtica. |
+| Vidre esmerilat excessivament opac | Una superfície completament blanca o grisa pot semblar un material sòlid. | Conservar variacions de llum i suggerir la presència difusa del fons. |
+| Distorsions exagerades | Alterar excessivament els contorns situats darrere del vidre pot fer que la superfície sembli deformada o fantàstica. | Limitar la distorsió a zones concretes i adaptar-la a la curvatura i al gruix. |
+| Esquerdes massa regulars | Les línies repetitives, paral·leles o distribuïdes uniformement poden semblar decoració. | Variar la direcció, la longitud, la ramificació i la densitat de les fissures. |
 
-La representació és satisfactòria quan es reconeix el vidre i no una superfície opaca, vores i reflexos defineixen geometria, el fons es conserva o modifica coherentment, color correspon al tipus, reflexos no són arbitraris, gruix i curvatura són llegibles i detalls decoratius o fractures respecten escala. Finalitzar quan transparència o translucidesa, geometria i reflexos ja compleixen la seva funció.
+**Criteris d'avaluació**
+
+Una representació de vidre pot considerar-se satisfactòria quan:
+- La superfície es reconeix com a vidre i no com a material opac.
+- Les vores i els reflexos contribueixen a definir la geometria.
+- La informació situada al darrere es conserva o es modifica de manera coherent.
+- La intensitat cromàtica correspon al tipus de vidre representat.
+- Els reflexos estan organitzats i no es distribueixen arbitràriament.
+- El gruix i la curvatura se suggereixen mitjançant canvis visuals adequats.
+- Els detalls decoratius, els gravats o les fractures respecten l'escala.
+- El conjunt conserva una lectura clara.
+
+**Criteri de finalització**
+
+El treball pot donar-se per acabat quan l'objecte s'identifica com a vidre, la geometria és llegible i els reflexos i les variacions cromàtiques reforcen la transparència o translucidesa buscada. No cal afegir més reflexos, línies o distorsions quan aquests elements ja comuniquen la identitat del material.
 
 ## 34.10. Exercicis pràctics
 
@@ -181,3 +195,18 @@ La representació és satisfactòria quan es reconeix el vidre i no una superfí
 - Miniatures of Death. “How to make a glass effect for miniatures” (22 d'agost de 2020).
 
 Els recursos del Corning Museum fonamenten la relació entre transmissió, reflexió, geometria i percepció de superfícies transparents. Sayim i Cavanagh tracten els senyals visuals de la transparència. El tutorial és una referència pràctica, no una validació científica de les receptes. Les fonts no validen les combinacions cromàtiques Squidmar × Vallejo, que continuen sent propostes pendents de comprovació física.
+
+## Propostes de figures per a MG
+
+Les deu figures següents queden reservades per a la fase gràfica final. No s'han de generar ni inserir durant aquesta etapa.
+
+1. **Comparació de tipus de vidre.** Mostrar tres superfícies: vidre transparent incolor, vidre acolorit i vidre esmerilat. Fer visible com canvien la informació del fons i la intensitat cromàtica.
+2. **Senyals visuals del vidre.** Representar una superfície amb indicació de vores, reflexos, informació transmesa, gruix i distorsió. Centrar-se en els senyals que permeten reconèixer el material.
+3. **Panell de vidre transparent.** Mostrar una seqüència de construcció d'una finestra o panell pla: fons, delimitació parcial de vores, reflexos i accents de llum. Cal conservar la lectura del fons.
+4. **Recipient de vidre transparent.** Representar una ampolla o recipient corb mitjançant l'organització de les vores, el gruix i els reflexos. Mostrar que la distribució dels senyals s'adapta a la geometria.
+5. **Vidre acolorit.** Comparar quatre exemples de vidre verd, blau, ambre i rogenc. Mostrar com canvia la coloració sense perdre els senyals de transparència.
+6. **Vitrall policrom.** Mostrar un vitrall dividit en panells acolorits i separacions estructurals. La distribució s'ha d'adaptar a la geometria general i mantenir una jerarquia cromàtica clara.
+7. **Vidre transparent i esmerilat.** Comparar una mateixa escena observada a través de dues superfícies: una conserva la definició del fons i l'altra el difumina mitjançant una transmissió més dispersa.
+8. **Vidre gravat i texturitzat.** Mostrar una superfície llisa al costat d'una altra amb gravats, estries o motius superficials. Fer visible com aquests detalls modifiquen l'aparença sense eliminar necessàriament la transparència.
+9. **Esquerdes i fragments.** Comparar una superfície esquerdada, una fractura més extensa i diversos fragments separats. Diferenciar les línies de fractura de les vores i els reflexos de cada fragment.
+10. **Comparació final i errors freqüents.** Presentar exemples de vidre transparent, acolorit i esmerilat juntament amb errors representatius: excés de blanc, vores massa uniformes, reflexos incompatibles amb la geometria, vidre acolorit opac i distorsions exagerades.

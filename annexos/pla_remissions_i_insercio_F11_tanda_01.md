@@ -100,3 +100,9 @@ Quan s'autoritzi la producció i inserció gràfica:
 - La còpia il·lustrada tindrà identificació de versió i traçabilitat pròpies.
 
 Aquesta separació és independent de l'estat de F11: la preparació de remissions no autoritza encara la generació ni la inserció d'imatges.
+
+
+## Remissions creuades i contingut integrat
+
+- **Figura 5.2:** la ubicació principal continua sent l'apartat 5.3.2. Conservar la remissió conceptual cap a 5.4.1 si el desenvolupament de la reflexió la necessita; no duplicar la figura.
+- **C5, apartat 5.6:** mantenir integrat el contingut sobre la llei de la reflexió que provenia de la proposta 5.14. No crear una figura independent ni remetre a una figura eliminada.

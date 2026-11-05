@@ -42,8 +42,9 @@ Les referències indiquen el capítol i els apartats en què es desenvolupa cada
 | Pinzell sec | Deposició selectiva de pintura sobre zones sobresortints | 13.3 |
 | Puntejat | Construcció de marques i textures mitjançant punts | 13.4 |
 | Ratllat | Construcció de marques i variacions superficials lineals | 13.5 |
+| Combinació de tècniques de textura | Integració de pinzell sec, puntejat, ratllat i esponjat segons la geometria i el material | 13.7 |
 | Esponjat | Aplicació de marques irregulars mitjançant una esponja | 13.6 |
-| Representació de transparències i translucidesa | Procediments per representar materials que transmeten la llum de manera total o parcial | 14.2 i 14.6 |
+| Representació de transparències i translucidesa | Anàlisi i construcció de superfícies transparents, translúcides i de comportament combinat | 14.2 i 14.5–14.7 |
 
 ## B.4. Tècniques d'il·luminació i representació d'efectes
 
@@ -74,8 +75,8 @@ En aquesta secció es localitzen les aplicacions específiques dels procediments
 | Representació de roques, pedres i minerals | Roques ígnies, sedimentàries i metamòrfiques, vetes i variacions minerals | 26.2 i 26.4–26.8 |
 | Representació de cristalls, gel, neu i gemmes | Formacions cristal·lines, superfícies gelades, acumulacions de neu i pedres precioses | 27.2 i 27.4–27.8 |
 | Representació d'òxid, corrosió i pàtines | Rovell, alteracions del ferro i l'acer, pàtines i corrosió del coure, bronze i llautó | 28.2–28.7 |
-| Representació de terra, pols i dipòsits | Pols, terrenys, superfícies compactades i acumulacions seques | 29.2–29.5 |
-| Representació de fang i brutícia | Fang humit, sec, acumulacions i dipòsits localitzats | 29.6–29.8 |
+| Representació de terra, pols i dipòsits | Comportament dels materials, pols, dipòsits secs i terrenys compactats | 29.2–29.4 |
+| Representació de fang i brutícia | Fang humit i sec, brutícia, rastres i dipòsits localitzats | 29.5–29.6 |
 | Representació de foc, fum i cendres | Flames, brases, carbó, fum, residus i superfícies carbonitzades | 30.2–30.9 |
 | Representació de sang i fluids | Sang fresca, acumulada, seca, taques i altres fluids orgànics | 31.2–31.8 |
 | Representació de màgia, energia i efectes sobrenaturals | Famílies d'efectes, construcció visual, integració i variacions cromàtiques | 32.2–32.8 |
@@ -113,10 +114,10 @@ Aquest índex es complementa amb l'Annex C, dedicat a la localització de recept
 
 ## B.8. Control editorial i límits d'ús
 
-- Les referències s'han contrastat amb els encapçalaments vigents dels capítols 7–39; s'han corregit 28 identificadors de subsecció obsolets en set entrades de l'índex.
-- L'índex localitza tècniques i aplicacions, però no substitueix els procediments complets.
-- Les adaptacions a materials concrets es mantenen diferenciades de les tècniques generals.
-- Les referències no impliquen que totes les aplicacions hagin estat validades experimentalment.
-- Les receptes i les combinacions es localitzen a l'Annex C; les mescles i formulacions, a l'Annex D.
+- L'índex s'ha reconstruït prenent com a font principal els capítols vigents de la tercera síntesi consolidada; la versió anterior s'ha utilitzat com a material de contrast i s'ha arxivat sense modificacions.
+- Les entrades identifiquen tècniques generals, procediments de treball i aplicacions específiques a materials i efectes. No pretenen convertir cada variant de material en una tècnica independent.
+- Les referències s'han comprovat contra els encapçalaments vigents dels capítols 7–39. La comprovació de les remissions no substitueix la lectura dels procediments ni una validació experimental.
+- L'índex localitza continguts, però no substitueix les explicacions completes dels capítols.
+- Les receptes i les combinacions cromàtiques es localitzen a l'Annex C; les mescles i formulacions, a l'Annex D.
 
-**Estat F5:** les 62 entrades de l'índex i totes les remissions s'han contrastat amb els encapçalaments vigents dels capítols 7–39. S'han corregit 28 identificadors obsolets en set entrades; totes les remissions finals apunten a apartats existents. Les tècniques i els àmbits es mantenen; no s'han afegit procediments ni contingut tècnic.
+**Control de regeneració F5:** 63 entrades. Totes les remissions indicades corresponen a apartats existents. S'ha incorporat la combinació de tècniques de textura (13.7), ampliat la localització de transparències i translucidesa (14.5–14.7) i ajustat la delimitació de les aplicacions de terra, pols, fang i brutícia (29.2–29.6). No s'han modificat els procediments ni les receptes dels capítols.

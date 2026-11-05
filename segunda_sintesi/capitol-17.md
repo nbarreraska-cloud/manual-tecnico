@@ -268,30 +268,133 @@ Pot ser necessari ajustar la intensitat de la font, l'extensió de les zones il�
 
 La integració no consisteix a acolorir totes les superfícies pròximes, sinó a aconseguir que la font i els seus efectes formin una mateixa situació lluminosa.
 
-## 17.6. Adaptació a geometries i materials
+## 17.6. Adaptació a diferents geometries i materials
 
-- **Superfícies planes:** poden mostrar regions relativament definides, segons l'orientació i l'exposició.
-- **Superfícies corbes:** acostumen a requerir una distribució més progressiva que segueixi la curvatura.
-- **Superfícies facetades i arestes:** els canvis d'orientació poden justificar diferències entre plans pròxims; no totes les arestes han de rebre llum automàticament.
-- **Superfícies mates:** poden representar una influència més extensa, sense convertir-se necessàriament en superfícies brillants.
-- **Superfícies brillants:** poden mostrar reflexos més localitzats, diferenciats de la il·luminació general. La seva aparició depèn de la relació entre font, superfície i observador.
-- **Superfícies transparents i translúcides:** poden transmetre o dispersar la llum i modificar-ne l'aparença interna. La seva representació general correspon al capítol 14; aquí es considera la seva funció com a font o receptora.
-- **Escala:** en peces petites convé reduir el nombre de zones i concentrar els accents; en peces més grans es pot incorporar més informació si millora la lectura.
+### 17.6.1. Superfícies planes
 
-## 17.7. Control i avaluació
+En superfícies planes, la il·luminació es pot representar mitjançant regions relativament definides, sempre que la posició de la font i l'orientació de la peça ho justifiquin.
 
-La revisió ha de comprovar:
+Convé identificar quines parts del pla reben directament la llum i quines queden protegides. L'extensió de la zona il·luminada s'ha d'adaptar a la superfície i evitar cobrir-la uniformement sense considerar-ne l'orientació.
 
-- Que la font es reconeix com a origen de la llum.
-- Que les superfícies receptores són compatibles amb la posició i l'orientació de la font.
-- Que els obstacles i les zones protegides es respecten.
-- Que la font i les superfícies il·luminades mantenen una jerarquia.
-- Que el color lluminós s'integra amb els colors locals sense uniformitzar tots els materials.
-- Que la intensitat i l'extensió són selectives i comprensibles.
-- Que la geometria, els volums i els detalls continuen sent llegibles.
-- Que l'efecte és coherent amb la il·luminació general de la miniatura.
+### 17.6.2. Superfícies corbes
 
-El resultat no s'ha de valorar per l'extensió del halo ni per la quantitat de color aplicat. Es pot donar per acabat quan la font és identificable, les superfícies mostren una influència coherent i l'efecte s'integra sense perjudicar la lectura de l'escena.
+Les superfícies corbes presenten canvis continus d'orientació. Per això, la influència lluminosa pot requerir una distribució progressiva que segueixi la forma.
+
+En una esfera, per exemple, la zona il·luminada es pot concentrar en una regió orientada cap a la font i disminuir cap a altres àrees. En una superfície cilíndrica, la distribució pot adaptar-se al recorregut de la curvatura.
+
+No s'ha d'aplicar automàticament el mateix patró a totes les superfícies corbes.
+
+### 17.6.3. Superfícies facetades i arestes
+
+Les superfícies facetades presenten canvis d'orientació més definits. Una mateixa font pot afectar de manera diferent dos plans pròxims.
+
+La representació pot conservar aquests canvis mitjançant regions d'il·luminació diferenciades. Les arestes poden mostrar una influència més visible si la seva orientació i exposició ho justifiquen, però no s'han d'il·luminar totes per defecte.
+
+La geometria ha de continuar sent recognoscible.
+
+### 17.6.4. Superfícies mates
+
+Les superfícies mates es poden representar mitjançant una influència lluminosa distribuïda de manera relativament àmplia, sense dependre necessàriament de reflexos especulars intensos.
+
+L'efecte es pot construir mitjançant canvis de valor i color que mantinguin visible l'estructura de la superfície.
+
+No convé convertir una zona mat en una superfície brillant únicament per utilitzar-hi un color molt clar.
+
+### 17.6.5. Superfícies brillants i reflectants
+
+Les superfícies brillants poden mostrar reflexos més localitzats i definits.
+
+En aquests casos, la representació pot combinar una zona il·luminada amb un reflex de la font. Tots dos elements han de mantenir funcions diferenciades.
+
+Una superfície brillant no ha de presentar sempre un reflex visible des de qualsevol posició. La seva aparició depèn de la relació entre font, superfície i observador.
+
+### 17.6.6. Superfícies transparents i translúcides
+
+Els materials transparents i translúcids poden requerir una representació específica de la font i de la llum que els travessa o dispersa.
+
+La il·luminació pot modificar-ne l'aparença interna, generar zones de més intensitat o influir sobre els objectes pròxims.
+
+La construcció general d'aquests materials correspon al capítol 14. En l'OSL es considera la seva possible funció com a font o com a superfície receptora.
+
+No s'ha de confondre la il·luminació que travessa un material amb un simple reflex de la seva superfície.
+
+### 17.6.7. Adaptació a l'escala
+
+En miniatures petites, la distribució de l'efecte s'ha de simplificar per conservar-ne la llegibilitat.
+
+Pot ser necessari reduir el nombre de superfícies il·luminades, concentrar els accents i limitar l'extensió de les transicions.
+
+En peces més grans es pot incorporar una distribució més complexa, sempre que contribueixi a la lectura de l'efecte.
+
+La finalitat no és reproduir tots els matisos d'una escena real, sinó seleccionar els senyals visuals necessaris per representar una font i la seva influència.
+
+## 17.7. Control tècnic i avaluació del resultat
+
+### 17.7.1. Coherència entre la font i les superfícies il·luminades
+
+La primera comprovació consisteix a verificar que les zones il·luminades es poden relacionar amb la font.
+
+Convé revisar si la font està clarament identificada, si les superfícies receptores es troben en posicions compatibles, si l'orientació justifica la distribució, si hi ha obstacles que haurien de bloquejar part de la llum i si l'extensió de l'efecte resulta raonable dins de l'escena.
+
+Una zona il·luminada sense relació espacial recognoscible pot debilitar el conjunt.
+
+### 17.7.2. Control de la jerarquia visual
+
+La font i les superfícies il·luminades han de conservar funcions visuals diferenciades.
+
+Cal comprovar si la font destaca com a origen de la llum, si les superfícies receptores mostren una influència menor o diferent, si els accents no competeixen innecessàriament amb la font i si l'efecte manté una jerarquia clara respecte de la resta de la miniatura.
+
+No és obligatori que la font sigui sempre l'element més clar de tota la composició, però la seva funció emissora ha de resultar recognoscible.
+
+### 17.7.3. Control de la distribució cromàtica
+
+La influència lluminosa s'ha d'integrar amb els colors originals de les superfícies.
+
+Convé revisar si el color de la font manté la seva identitat, si les superfícies il·luminades presenten modificacions cromàtiques coherents, si les transicions conserven l'aparença del material, si el color lluminós s'ha estès excessivament i si el resultat conserva prou diferenciació tonal.
+
+La il·luminació no ha de convertir tots els objectes pròxims en superfícies del mateix color.
+
+### 17.7.4. Control de la intensitat i l'extensió
+
+La intensitat visual ha de mantenir una relació coherent amb la posició i l'exposició de les superfícies.
+
+Una zona allunyada o protegida no hauria de presentar automàticament la mateixa influència que una altra de pròxima i directament exposada.
+
+Convé comprovar si la distribució manté una pèrdua d'intensitat comprensible i si hi ha regions en què l'efecte s'hauria de reduir o desaparèixer.
+
+L'extensió de l'OSL s'ha de limitar a les zones que aporten informació rellevant.
+
+### 17.7.5. Control de la geometria i el volum
+
+L'aplicació del color lluminós no ha d'eliminar la lectura dels objectes.
+
+Cal revisar si es reconeixen els plans i les curvatures, si les zones il·luminades segueixen la forma de les superfícies, si es mantenen les diferències entre regions exposades i protegides, si les transicions no oculten detalls importants i si l'efecte respecta l'estructura general de la miniatura.
+
+Una il·luminació excessivament uniforme pot fer que els objectes semblin coberts per una capa de color en lloc d'estar il·luminats.
+
+### 17.7.6. Avaluació global de l'OSL
+
+La revisió ha de considerar conjuntament la font, les superfícies receptores i l'entorn.
+
+| Criteri | Resultat esperat |
+|---|---|
+| Identificació de la font | L'element emissor es reconeix clarament. |
+| Coherència espacial | La distribució respon a la posició de la font. |
+| Exposició | Les zones il·luminades són compatibles amb l'orientació i els obstacles. |
+| Jerarquia | Es distingeix la font de les superfícies receptores. |
+| Intensitat | La influència lluminosa presenta una distribució comprensible. |
+| Integració cromàtica | L'efecte es relaciona amb els colors originals de les superfícies. |
+| Geometria | La il·luminació conserva la lectura dels volums. |
+| Materials | La resposta representada resulta compatible amb les superfícies. |
+| Coherència global | L'efecte s'integra en la il·luminació general de la miniatura. |
+
+### 17.7.7. Criteri de finalització
+
+L'efecte es pot considerar acabat quan la font es reconeix, les superfícies receptores mostren una influència coherent i la il·luminació s'integra amb l'escena sense perjudicar la lectura dels objectes.
+
+No és necessari estendre el color a totes les zones pròximes ni afegir reflexos a cada superfície. Les intervencions addicionals poden reforçar l'efecte, però també poden convertir-lo en una distribució cromàtica excessiva.
+
+La prioritat és mantenir una relació clara entre l'origen de la llum i les seves conseqüències visuals.
 
 ## 17.8. Errors freqüents i correccions
 

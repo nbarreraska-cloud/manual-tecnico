@@ -687,3 +687,9 @@ Aquesta distinció apareixia en el material de referència com a error específi
 ### Actualització F4 — capítol 16 (05/11/2026)
 
 La font disponible declara que el C16 és una versió consolidada nova perquè no s'ha recuperat un text original complet. S'ha comprovat la correspondència estructural de deu apartats, sis exercicis i el focus del capítol en el procediment general NMM; també es manté la delimitació amb el recetari del capítol 19. No s'han fet canvis de contingut ni es presenta aquesta passada com un coteig integral amb l'original.
+
+
+### Actualització F4 — capítols 17–18 (05/11/2026)
+
+- **C17 (OSL):** la font disponible declara que és una versió consolidada nova i que no s'ha recuperat un original complet. S'ha comprovat l'estructura de deu apartats, sis exercicis i el criteri central de coherència espacial entre font, superfícies receptores, geometria i entorn. No s'ha modificat el capítol ni es presenta la comprovació com un coteig integral.
+- **C18:** la font disponible declara que no s'ha recuperat un original complet. S'ha comprovat l'estructura de deu apartats, sis exercicis i la presència de les eines de planificació, seqüenciació, control i avaluació. No s'ha modificat el capítol ni es presenta la comprovació com un coteig integral.

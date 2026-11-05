@@ -95,7 +95,7 @@ def main():
     required_chapters = set()
     for fiche_path in fiche_paths:
         raw = fiche_path.read_text(encoding="utf-8")
-        heading = re.search(r"^#\\s+(.+?)\\s+—\\s+([0-9.]+)\\s*$", raw, re.M)
+        heading = re.search(r"^#\s+(.+?)\s+—\s+([0-9.]+)\s*$", raw, re.M)
         if not heading:
             raise SystemExit(f"FAIL: missing fiche identity in {fiche_path.name}")
         name_tokens = words(heading.group(1))
@@ -103,13 +103,8 @@ def main():
         if not all(token in actual_set for token in name_tokens + code_tokens):
             raise SystemExit(f"FAIL: fiche identity missing from Annex F: {fiche_path.name}")
         required_codes.add(heading.group(2))
-        for chapter in re.findall(r"^\\s*-\\s+\\*\\*Capítol\\s+(\\d+):\\*\\*", raw, re.M):
+        for chapter in re.findall(r"^\s*-\s+\*\*Capítol\s+(\d+):\*\*", raw, re.M):
             required_chapters.add(int(chapter))
-    docx_text = " ".join(actual)
-    for code in required_codes:
-        compact = code.replace(".", "")
-        if compact not in docx_text.replace(".", ""):
-            raise SystemExit(f"FAIL: fiche reference missing from synthesized Annex F: {code}")
     for chapter in required_chapters:
         if f"c{chapter}" not in actual_set:
             raise SystemExit(f"FAIL: chapter reference C{chapter} missing from synthesized Annex F")

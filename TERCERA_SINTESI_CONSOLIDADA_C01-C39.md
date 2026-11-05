@@ -5958,3 +5958,1555 @@ La il·luminació aplicada requereix analitzar la geometria i la funció dels el
 - Delimitació: els fonaments físics i perceptius corresponen al capítol 5; la teoria del color, al capítol 4; les tècniques d'aplicació, als capítols corresponents. Aquest capítol no les repeteix.
 - Criteri central: no hi ha una direcció de llum, una proporció de llums i ombres ni una escala tonal universal.
 - Estat de verificació: síntesi basada en el contingut disponible del document de referència. Les receptes i els resultats no es presenten com a proves físiques verificades.
+
+
+---
+
+# 16. METALL NO METÀL·LIC (NMM)
+
+## 16.1. Funció i fonaments del NMM
+
+El NMM (*Non-Metallic Metal*) representa superfícies metàl·liques mitjançant pintures convencionals, sense utilitzar pigments metàl·lics per produir l'efecte principal. L'aparença es construeix pictòricament amb valors, contrastos, colors i reflexos que suggereixen la reflexió de l'entorn.
+
+A diferència del TMM, en què l'aspecte metàl·lic depèn de les partícules reflectants de la pintura, el NMM simula les senyals visuals pròpies d'una superfície reflectant. Un contrast intens no és suficient: les zones clares i fosques han de formar un patró comprensible i coherent amb la geometria.
+
+Els reflexos poden simplificar-se en bandes, blocs, franges o transicions, sense reproduir literalment els objectes de l'entorn. La simplificació és legítima quan manté la relació entre forma, il·luminació representada i aparença metàl·lica. L'escala i la distància d'observació poden justificar l'exageració selectiva dels contrastos o la reducció del nombre de reflexos.
+
+## 16.2. Anàlisi de la geometria i planificació dels reflexos
+
+Abans de pintar cal identificar la forma de la peça: superfícies planes, corbes, cilíndriques, esfèriques, facetades o mixtes. També cal reconèixer els canvis de pla, l'orientació de les cares i la relació de cada superfície amb la il·luminació i l'entorn representat.
+
+La distribució dels reflexos ha de respondre a aquesta geometria. Una placa pot admetre blocs o bandes relativament definides; una forma cilíndrica pot requerir transicions progressives; una fulla d'espasa demana considerar l'eix longitudinal, les cares i el tall. No s'ha d'aplicar el mateix patró a totes les formes.
+
+L'entorn es pot suggerir mitjançant:
+
+- Zones clares associades a regions lluminoses.
+- Regions fosques que representen parts menys lluminoses de l'entorn.
+- Bandes o blocs que indiquen canvis entre aquestes regions.
+- Reflexos cromàtics que incorporen colors pròxims.
+
+El patró pot incloure franges longitudinals o transversals, alternança de zones clares i fosques, blocs, distribucions radials o transicions àmplies. Cap patró és universal ni exclusiu d'un metall.
+
+Abans de l'aplicació convé esquematitzar la geometria, l'orientació, la distribució prevista, els reflexos principals, les regions fosques i els accents extrems. La primera decisió és tonal i estructural; no cal definir tots els colors des del començament.
+
+## 16.3. Planificació tonal i cromàtica
+
+El NMM necessita una escala de valors suficient per diferenciar els reflexos intensos de les regions fosques. Es poden utilitzar valors molt foscos, foscos, intermedis, clars i accents de màxima lluminositat, però no és obligatori emprar tots els nivells ni una quantitat fixa de tons.
+
+La distribució depèn del patró i de la forma: bandes alternes en determinades superfícies planes, transicions progressives en formes corbes i canvis més definits entre plans facetats. La jerarquia tonal importa més que el nombre de colors.
+
+Les famílies cromàtiques habituals són orientatives:
+
+- **Acer i plata:** gammes neutres o fredes.
+- **Or:** grocs, ocres i marrons.
+- **Coure:** taronges, vermells i tons terrosos.
+- **Bronze:** grocs apagats i tons terrosos.
+- **Metalls fantàstics:** altres famílies, si la intenció visual ho justifica.
+
+Cal assignar funcions als tons foscos, intermedis, clars i als reflexos màxims. No sempre cal un color diferent per a cada funció: es poden obtenir posicions tonals mitjançant mescles o modificacions progressives. La selecció ha d'evitar una acumulació de colors que confongui la lectura.
+
+El matís no determina per si sol la funció d'un reflex. Un groc saturat pot no tenir prou valor per actuar com a reflex màxim d'un or, i un blau intens pot continuar sent fosc. Cal valorar les mescles també per la seva claredat i foscor. Les receptes específiques per a acer, plata, or, coure i bronze corresponen al capítol 19.
+
+## 16.4. Diferenciació cromàtica entre metalls
+
+Tot i que el procediment general del NMM comparteix fonaments, els diferents metalls poden requerir solucions cromàtiques distintes.
+
+- **Acer i plata:** solen representar-se mitjançant gammes relativament neutres o fredes.
+- **Or:** requereix una organització cromàtica càlida, en què els grocs, ocres i marrons poden complir funcions diferents.
+- **Coure:** pot incorporar relacions entre taronges, vermells i tons terrosos.
+- **Bronze:** pot presentar una aparença més apagada o terrosa, segons l'acabat que es vulgui representar.
+- **Metalls fantàstics o estilitzats:** poden utilitzar altres famílies cromàtiques si la intenció visual ho justifica.
+
+Aquestes associacions no s'han de convertir en receptes tancades. La representació final depèn del valor, l'entorn, la geometria i la intenció artística.
+
+Les receptes concretes per a acer, plata, or, coure i bronze es desenvolupen al capítol 19, dedicat als metalls. Aquest capítol estableix el procediment general del NMM i no substitueix les formulacions específiques.
+
+## 16.5. Procediment general de construcció del NMM
+
+### 16.5.1. Preparació de la superfície
+
+Abans de començar convé comprovar que la superfície està preparada per rebre les aplicacions pictòriques. La geometria ha d'estar identificada i la zona de treball ha de permetre distingir els principals plans i detalls.
+
+La preparació material de la miniatura i de les pintures correspon al capítol 7. La capa base i la construcció progressiva del color es desenvolupen al capítol 8. En aquest capítol es parteix d'una superfície preparada i el procediment se centra en l'organització visual de l'efecte metàl·lic.
+
+### 16.5.2. Establiment de la base cromàtica
+
+La primera aplicació ha de proporcionar una referència cromàtica adequada per desenvolupar les zones fosques, intermèdies i clares. La selecció depèn de la família cromàtica i del patró de reflexos previst.
+
+Es pot utilitzar una base relativament fosca quan es pretén construir una superfície amb reflexos molt contrastats, encara que no és una condició universal. En altres plantejaments pot resultar convenient començar des d'un valor intermedi i desenvolupar les regions fosques i clares en aplicacions posteriors.
+
+La decisió ha de respondre al procediment escollit i a les característiques de la superfície.
+
+### 16.5.3. Construcció de les regions fosques
+
+Les regions fosques permeten establir part de l'estructura reflectant. La seva distribució ha de respondre al patró de reflexos i a la geometria de la peça.
+
+Es poden utilitzar per separar zones de reflex, reforçar canvis de pla, suggerir regions de l'entorn menys lluminoses, augmentar el contrast o definir determinades regions de profunditat.
+
+No totes les zones fosques han d'assolir el mateix valor. Convé establir una jerarquia entre ombres generals i accents de màxima foscor. Una distribució excessivament uniforme pot fer que la superfície perdi profunditat.
+
+### 16.5.4. Construcció de les regions intermèdies
+
+Les regions intermèdies permeten relacionar les zones fosques amb els reflexos clars.
+
+La seva funció no consisteix únicament a suavitzar les transicions. També poden representar superfícies que reflecteixen valors o colors intermedis.
+
+La distribució dependrà de la geometria i del patró escollit. En superfícies planes poden delimitar-se regions relativament diferenciades; en superfícies corbes poden necessitar una transició més progressiva.
+
+Els procediments concrets de degradat i transició corresponen al capítol 9. En el NMM s'apliquen amb la finalitat específica d'integrar les relacions tonals d'una superfície metàl·lica.
+
+### 16.5.5. Construcció dels reflexos clars
+
+Els reflexos clars constitueixen una part fonamental de l'aparença metàl·lica. La seva posició ha de respondre a l'esquema definit prèviament.
+
+Es poden representar mitjançant franges estretes, àrees allargades, zones localitzades, superfícies àmplies, accents pròxims a determinades arestes o regions de transició cap a valors intermedis.
+
+La forma del reflex s'ha d'adaptar a la geometria. Una franja aplicada sense considerar l'orientació de la peça pot trencar la lectura del volum. Per contra, una distribució coherent pot reforçar la forma fins i tot mitjançant pocs traços.
+
+### 16.5.6. Aplicació dels accents màxims
+
+Els accents de màxima claredat i foscor s'utilitzen per reforçar determinades zones del patró. No s'han de distribuir indiscriminadament.
+
+Els reflexos més clars poden reservar-se per a punts concrets on es pretén suggerir una reflexió intensa. Els valors més foscos poden reforçar separacions o regions de gran contrast.
+
+La quantitat i l'extensió d'aquests accents dependran de l'escala, la geometria i la intenció visual. Una superfície no necessita presentar reflexos blancs o gairebé blancs a totes les zones per resultar metàl·lica.
+
+### 16.5.7. Integració de la superfície
+
+Un cop establertes les principals regions tonals, convé revisar-ne la relació.
+
+La integració pot requerir ajustar la continuïtat de determinades transicions, reforçar límits entre plans, reduir contrastos excessius, recuperar zones clares que hagin perdut intensitat, modificar regions fosques massa extenses o corregir reflexos que no segueixen la geometria.
+
+La integració no implica suavitzar tots els límits. En determinades superfícies metàl·liques, els canvis definits entre regions poden ser necessaris per conservar l'aparença reflectant. La decisió ha de respondre al patró escollit i al tipus de geometria.
+
+## 16.6. Adaptació a diferents geometries i escales
+
+### 16.6.1. Superfícies planes
+
+Les superfícies planes permeten organitzar els reflexos mitjançant regions relativament definides.
+
+En una placa d'armadura, per exemple, poden diferenciar-se diversos plans mitjançant canvis de valor i color. La representació pot utilitzar bandes, blocs o zones de reflex que segueixin l'orientació de la superfície.
+
+És important evitar que les regions tonals es distribueixin com a taques arbitràries. La seva posició ha de reforçar la lectura dels plans i dels seus límits.
+
+### 16.6.2. Superfícies corbes
+
+Les superfícies corbes presenten canvis continus d'orientació. Per això, la distribució dels reflexos pot requerir transicions més progressives que en una superfície plana.
+
+En peces cilíndriques o arrodonides, les bandes de reflex poden adaptar-se a la curvatura i variar-ne l'amplada o la intensitat.
+
+No s'ha de suposar que tota superfície corba necessita una franja central clara i dues laterals fosques. Aquesta és una simplificació possible, no una regla universal. La distribució ha de respondre al patró d'il·luminació i al volum representat.
+
+### 16.6.3. Superfícies esfèriques
+
+Les formes esfèriques presenten una geometria contínua en diferents direccions.
+
+La representació pot utilitzar zones de reflex localitzades, àrees intermèdies i regions fosques que permetin suggerir la curvatura. La posició del reflex depèn de l'orientació de la forma i de l'entorn que es pretén representar.
+
+En miniatures petites pot ser necessari simplificar el patró per evitar que massa regions competeixin entre si.
+
+### 16.6.4. Fulles, filos i superfícies allargades
+
+Les fulles d'espasa, els ganivets i altres superfícies allargades requereixen una planificació que tingui en compte l'eix longitudinal i la disposició de les cares.
+
+Els reflexos es poden organitzar mitjançant bandes longitudinals, canvis entre cares i accents pròxims al tall. La distribució ha de conservar la lectura de la forma i no convertir tota la peça en una successió de línies decoratives.
+
+El tall es pot destacar mitjançant un accent específic, però el seu tractament s'ha de diferenciar del patró general dels reflexos.
+
+### 16.6.5. Superfícies facetades i geometries complexes
+
+Les superfícies facetades presenten canvis definits d'orientació. En aquests casos, la distribució tonal es pot organitzar mitjançant regions diferenciades que reforcin cada pla.
+
+Les peces amb geometries complexes poden requerir una combinació de transicions suaus i límits definits.
+
+La simplificació és especialment important. Intentar representar tots els canvis d'orientació pot generar una distribució excessivament fragmentada. Convé seleccionar els plans principals i establir una jerarquia entre ells.
+
+### 16.6.6. Adaptació a l'escala de la miniatura
+
+L'escala condiciona la quantitat d'informació que es pot representar.
+
+En miniatures petites, els reflexos i contrastos s'han de simplificar per conservar-ne la llegibilitat. En peces més grans pot ser possible introduir més variacions, sempre que contribueixin a la lectura de la superfície.
+
+La reducció d'escala no consisteix a reproduir tots els detalls d'una superfície real en dimensions menors. Requereix seleccionar els senyals visuals més importants.
+
+L'amplitud dels contrastos, la mida dels reflexos i la quantitat de regions s'han d'adaptar a la distància habitual d'observació.
+
+## 16.7. Control tècnic i avaluació del resultat
+
+### 16.7.1. Coherència entre geometria i reflexos
+
+La primera comprovació consisteix a valorar si la distribució dels reflexos resulta compatible amb la forma de la peça. Cal revisar l'orientació de les bandes i regions clares, la relació entre reflexos i canvis de pla, la continuïtat de les superfícies corbes, la posició dels accents i la coherència entre diferents parts d'una mateixa peça.
+
+Un reflex pot estar ben aplicat des del punt de vista tècnic i, tanmateix, resultar visualment inadequat si no es relaciona amb la geometria.
+
+### 16.7.2. Control dels valors
+
+L'aparença metàl·lica requereix una organització tonal prou clara. Cal comprovar si existeix separació entre les regions clares i fosques, si els valors intermedis compleixen una funció recognoscible, si els accents mantenen el seu protagonisme, si les zones fosques no dominen excessivament la superfície i si el conjunt conserva una jerarquia visual.
+
+L'observació en escala de grisos pot ajudar a detectar problemes de valor que passen desapercebuts quan s'observa únicament el color.
+
+### 16.7.3. Control cromàtic
+
+La família cromàtica ha de mantenir una identitat recognoscible. Convé revisar la relació entre els tons foscos, intermedis i clars, la coherència de les mescles, la presència de colors que alterin involuntàriament la identitat del material, la relació amb la resta de la miniatura i la influència dels colors ambientals representats.
+
+No és necessari que totes les zones utilitzin el mateix matís. Els reflexos poden incorporar variacions cromàtiques si responen a l'entorn o a una decisió artística.
+
+### 16.7.4. Control de la definició
+
+La definició de les regions tonals s'ha d'adaptar a la superfície. Algunes geometries necessiten transicions progressives, mentre que d'altres poden requerir límits més definits.
+
+Cal comprovar que els canvis de pla es reconeixen, els reflexos conserven una forma llegible, les transicions no eliminen l'estructura de la superfície, les línies i els accents no fragmenten innecessàriament el conjunt i els límits importants es mantenen diferenciats.
+
+### 16.7.5. Avaluació de l'aparença metàl·lica
+
+La comprovació final ha de valorar si la superfície es reconeix com a metàl·lica i no simplement com una superfície amb molt contrast. Cal preguntar-se si la geometria es reconeix, si els reflexos semblen respondre a una organització ambiental, si existeix una relació clara entre les zones clares i fosques, si els contrastos estan distribuïts intencionadament i si la superfície conserva la seva llegibilitat a la distància habitual.
+
+No existeix un únic criteri visual que garanteixi el reconeixement del metall. L'avaluació ha de considerar conjuntament geometria, valors, reflexos i organització cromàtica.
+
+### 16.7.6. Criteri de finalització
+
+La superfície pot considerar-se acabada quan l'aparença metàl·lica és recognoscible, els reflexos mantenen una relació coherent amb la geometria i els contrastos compleixen la seva funció sense necessitat d'afegir més intervencions.
+
+No és necessari incrementar contínuament la quantitat de detalls o reflexos. Les intervencions addicionals poden millorar la lectura, però també poden fragmentar la superfície o reduir la jerarquia tonal. La decisió de finalitzar ha de respondre a la funció visual de la peça i no a l'acumulació de detalls.
+
+## 16.8. Errors freqüents i procediments de correcció
+
+### 16.8.1. Contrast elevat sense aparença metàl·lica
+
+Una superfície pot presentar diferències molt marcades entre llums i ombres i continuar semblant no metàl·lica. Això sol passar quan els contrastos no segueixen una organització de reflexos recognoscible.
+
+**Correcció:** revisar el patró de reflexos i la seva relació amb la geometria, en lloc d'augmentar indiscriminadament la intensitat de les llums i les ombres.
+
+### 16.8.2. Reflexos incompatibles amb la geometria
+
+Les franges o taques poden interrompre la lectura de la peça si no segueixen la seva orientació o els canvis de pla.
+
+**Correcció:** simplificar la distribució, identificar els plans principals i adaptar els reflexos a la forma.
+
+### 16.8.3. Distribució massa uniforme
+
+Una superfície amb valors repartits de manera excessivament homogènia pot perdre l'aparença reflectant.
+
+**Correcció:** reorganitzar les regions tonals i establir diferències més clares entre els reflexos principals i les zones fosques.
+
+### 16.8.4. Excés de reflexos i accents
+
+L'acumulació de línies, punts i zones clares pot fer que la superfície sembli fragmentada.
+
+**Correcció:** reduir els accents i conservar únicament els que contribueixen a la lectura de la geometria i del material.
+
+### 16.8.5. Reflexos massa amples o massa estrets
+
+L'amplada dels reflexos pot resultar inadequada respecte de la geometria i l'escala.
+
+**Correcció:** ajustar-ne l'extensió i comprovar el resultat des de la distància habitual d'observació. No existeix una amplada universal.
+
+### 16.8.6. Pèrdua de contrast durant la integració
+
+Les transicions i correccions successives poden reduir les diferències entre zones clares i fosques.
+
+**Correcció:** recuperar selectivament els valors extrems i revisar la jerarquia tonal abans de continuar.
+
+### 16.8.7. Mescles cromàtiques poc diferenciades
+
+Els colors poden presentar diferències de matís, però no prou separació de valor per representar els reflexos.
+
+**Correcció:** revisar les mescles en escala de grisos i modificar-ne els valors quan sigui necessari.
+
+### 16.8.8. Ús d'una recepta universal
+
+Aplicar la mateixa seqüència cromàtica i el mateix patró a totes les superfícies pot produir resultats poc adaptats a la geometria i al material.
+
+**Correcció:** mantenir els fonaments generals del NMM, però modificar la distribució de valors, reflexos i colors segons cada peça.
+
+### 16.8.9. Excés de fragmentació en superfícies petites
+
+Intentar representar massa reflexos en una peça reduïda pot dificultar-ne la lectura.
+
+**Correcció:** simplificar el patró i conservar les diferències visuals principals.
+
+### 16.8.10. Confusió entre NMM i efectes lluminosos
+
+La introducció de reflexos molt intensos o colors brillants pot portar a representar una superfície metàl·lica com si emetés llum.
+
+**Correcció:** diferenciar la reflexió representada de l'emissió lluminosa. Els efectes de llum pròpia corresponen al capítol 17, dedicat a l'OSL.
+
+## 16.9. Resultat esperat i criteris d'avaluació
+
+El resultat ha de suggerir una superfície metàl·lica mitjançant pintures convencionals. La geometria ha de ser llegible i els reflexos han de mantenir una relació coherent amb la forma i l'entorn representat. No s'ha d'avaluar per la quantitat de tons ni per la intensitat indiscriminada del contrast, sinó per l'organització conjunta de geometria, valors, color i reflexos.
+
+## 16.10. Exercicis pràctics
+
+### 16.10.1. Comparació entre superfície metàl·lica i no metàl·lica
+Representar una mateixa forma amb una organització tonal no metàl·lica i una altra basada en reflexos NMM. Comparar valors, contrastos, reflexos i lectura de la geometria.
+
+### 16.10.2. Patró de reflexos sobre una superfície plana
+Planificar regions clares, intermèdies i fosques sobre una superfície plana i comprovar si reforcen l'orientació dels plans.
+
+### 16.10.3. Adaptació a una superfície corba
+Construir reflexos sobre una forma cilíndrica o arrodonida i comparar-ne la distribució amb la d'una superfície plana.
+
+### 16.10.4. Comparació de famílies cromàtiques
+Representar una mateixa geometria amb dues famílies cromàtiques, mantenint una organització tonal comparable. Valorar com canvia la identitat del material.
+
+### 16.10.5. Simplificació segons l'escala
+Representar una superfície amb pocs reflexos i després amb més variacions. Comparar els resultats des de diferents distàncies i identificar quina informació és imprescindible.
+
+### 16.10.6. Exercici integrador
+Seleccionar una placa, una fulla d'espasa o una altra peça metàl·lica. Identificar-ne la geometria, escollir la família cromàtica, definir el patró de reflexos, establir els valors, construir les regions fosques i clares, afegir accents, revisar-ne la coherència i corregir els problemes detectats.
+
+## Síntesi del capítol
+
+El NMM construeix l'aparença metàl·lica amb pintures convencionals mitjançant una organització intencionada de valors, contrastos, colors i reflexos. La geometria, l'orientació i l'entorn determinen el patró que convé representar. El procediment parteix de l'anàlisi de la peça i de la planificació tonal i cromàtica, continua amb la construcció de regions fosques, intermèdies i clares, i acaba amb la integració i l'avaluació. No hi ha una recepta ni un patró universal: cal adaptar-los a cada superfície i a la seva escala.
+
+## Figures proposades per a la fase gràfica final
+
+1. Comparació entre aparença metàl·lica i no metàl·lica.
+2. Influència de la geometria en superfícies planes, corbes, cilíndriques i esfèriques.
+3. Patrons possibles de reflexos, identificats com a exemples i no com a regles.
+4. Mapa tonal d'una peça metàl·lica.
+5. Famílies cromàtiques fredes, càlides i vermelloses.
+6. Construcció progressiva des de la base fins als reflexos i accents.
+7. Adaptació dels reflexos a una placa, un cilindre i una fulla d'espasa.
+8. Errors freqüents i procediments de correcció.
+
+## Registre editorial
+
+- Estructura: deu apartats, síntesi i sis exercicis.
+- Enfocament: representació de superfícies metàl·liques mitjançant pintures convencionals.
+- Delimitació: el capítol 16 desenvolupa el procediment general NMM; el capítol 19 recull les receptes específiques dels metalls.
+- Criteri central: el contrast per si sol no produeix aparença metàl·lica; els reflexos han de ser coherents amb la geometria i l'entorn.
+- Estat: síntesi basada en el document de referència. No es presenten les propostes com a resultats de proves físiques.
+
+---
+
+# 17. IL·LUMINACIÓ D'EFECTES LLUMINOSOS (OSL)
+
+## 17.1. Funció de l'OSL
+
+L'OSL (*Object Source Lighting*) representa una font que emet llum i la influència que exerceix sobre els objectes pròxims. Pot aplicar-se a flames, espelmes, brases, cristalls màgics, energia, dispositius tecnològics, pantalles o artefactes lluminosos.
+
+No consisteix a pintar un halo de color al voltant d'un element. Cal diferenciar la font emissora de les superfícies receptores i establir una relació espacial comprensible entre totes dues. La representació pot simplificar la situació física, però ha de mantenir una lògica interna.
+
+Aquest capítol desenvolupa la planificació, construcció i avaluació de l'efecte. Els fonaments generals de la llum corresponen al capítol 5; les tècniques d'aplicació, als capítols 8–10; i les representacions específiques de foc i energia, als capítols 30 i 32.
+
+## 17.2. Fonaments visuals de l'OSL
+
+### 17.2.1. Font lluminosa i superfície il·luminada
+
+El primer criteri consisteix a diferenciar la font lluminosa dels objectes que reben la seva llum.
+
+La font és l'element al qual s'atribueix l'emissió lluminosa. Pot representar-se mitjançant una flama, un cristall, un nucli energètic o un altre element que actuï com a origen de l'efecte.
+
+La superfície il·luminada és una part d'un altre objecte sobre la qual es representa la influència d'aquesta font.
+
+Tots dos elements compleixen funcions diferents: la font estableix l'origen visual de la il·luminació; les superfícies pròximes en mostren els efectes, i l'entorn proporciona referències espacials i cromàtiques per integrar el conjunt.
+
+Una font pot estar representada amb gran intensitat cromàtica i, tanmateix, no produir un efecte OSL convincent si els objectes pròxims no mostren cap influència lluminosa. De la mateixa manera, una superfície pot presentar una zona acolorida sense que existeixi una font identificable que en justifiqui l'aparició.
+
+La coherència entre tots dos elements és fonamental.
+
+### 17.2.2. Emissió lluminosa representada i color intens
+
+Un color molt saturat o clar no constitueix per si mateix una representació d'emissió lluminosa.
+
+Per suggerir que un element emet llum cal diferenciar-lo visualment de les superfícies que l'envolten. La representació pot recórrer a contrast respecte de l'entorn, intensitat cromàtica, diferències de valor, delimitació de la zona emissora i organització de les àrees il·luminades pròximes.
+
+La font ha de conservar una identitat visual pròpia. Si s'integra completament amb el color de les superfícies circumdants, pot deixar de reconèixer-se com a element emissor.
+
+En determinats efectes, la zona central de la font es pot representar amb un valor molt clar i una regió exterior més cromàtica. En altres casos, la distribució pot ser diferent segons la naturalesa de l'element i la intenció artística.
+
+No existeix una distribució cromàtica universal per a totes les fonts lluminoses.
+
+### 17.2.3. Il·luminació directa i reflexos
+
+Una superfície il·luminada rep llum procedent d'una font, però no necessàriament presenta un reflex especular visible.
+
+La il·luminació directa es pot representar mitjançant una modificació del valor i del color de la superfície. Un reflex especular, en canvi, depèn de la resposta direccional de la superfície i de la posició des de la qual s'observa.
+
+Per tant, no s'ha de confondre una zona il·luminada per una font amb un reflex brillant d'aquesta mateixa font.
+
+En una superfície mat, la influència lluminosa es pot representar mitjançant una modificació relativament àmplia de la seva aparença. En una superfície brillant, pot resultar adequat introduir un reflex més localitzat i definit.
+
+La resposta concreta depèn del material, la caracterització general del qual es desenvolupa al capítol 6.
+
+### 17.2.4. Llum directa i il·luminació indirecta
+
+La llum d'una font pot arribar directament a una superfície o influir en altres zones després d'interactuar amb l'entorn.
+
+Per a la representació OSL convé distingir:
+
+- **Il·luminació directa:** efecte de la llum que arriba a una superfície des de la font representada sense que un altre objecte intermedi la bloquegi.
+- **Il·luminació indirecta:** contribució lluminosa que es pot produir després d'interaccions amb altres superfícies de l'entorn.
+
+En miniatures, la il·luminació indirecta es pot simplificar o fins i tot ometre quan la seva representació no aporta informació visual rellevant.
+
+No obstant això, convé evitar que les zones no il·luminades directament es converteixin automàticament en regions d'obscuritat absoluta. La resta de la il·luminació de l'escena pot continuar afectant-les.
+
+La decisió de representar il·luminació indirecta ha de respondre a la complexitat de l'escena i al nivell de detall que es vulgui aconseguir.
+
+### 17.2.5. Abast i simplificació pictòrica
+
+L'OSL representa una situació lluminosa mitjançant recursos pictòrics. No constitueix una simulació física exacta de la propagació de la llum.
+
+L'escala de la miniatura, la distància d'observació i la necessitat de mantenir una lectura clara poden justificar modificacions respecte d'una il·luminació real.
+
+Per exemple, pot ser convenient exagerar lleugerament el contrast d'una zona il·luminada, reduir l'extensió de l'efecte per evitar que afecti massa superfícies, simplificar les transicions, destacar la font amb més claredat o concentrar el color lluminós en les zones més rellevants.
+
+Aquestes decisions han de conservar la relació espacial entre la font i els objectes il·luminats. La simplificació és adequada quan millora la lectura de l'efecte sense introduir contradiccions importants.
+
+## 17.3. Identificació i planificació de les fonts lluminoses
+
+### 17.3.1. Identificació de la font
+
+Abans d'aplicar pintura és necessari identificar quin element actuarà com a origen de la il·luminació.
+
+Convé determinar quina part de la miniatura emet llum, quines dimensions té la zona emissora, si la font està concentrada o distribuïda, si es representa com una font puntual o extensa, quina intensitat visual es pretén transmetre i quin color o combinació cromàtica en defineix l'aparença.
+
+La identificació ha de ser prou precisa per relacionar la font amb les superfícies pròximes.
+
+Si una miniatura conté diverses fonts lluminoses, convé analitzar-les per separat abans d'integrar-les en una mateixa composició.
+
+### 17.3.2. Posició i direcció de la il·luminació
+
+La posició de la font determina quines superfícies poden rebre directament la seva llum.
+
+La planificació ha de considerar la ubicació respecte dels objectes i l'orientació de les diferents superfícies. Una font situada sota un rostre pot il·luminar zones diferents d'una altra col·locada per sobre o a un lateral.
+
+De la mateixa manera, una font pròxima a una mà pot afectar els dits, el palmell i les parts del braç orientades cap a ella, però no necessàriament tota l'extremitat.
+
+No n'hi ha prou d'identificar quins objectes són a prop de la font. També cal analitzar quines parts de les seves superfícies tenen una orientació i una exposició compatibles amb la il·luminació representada.
+
+### 17.3.3. Distància i distribució de l'efecte
+
+La influència visual d'una font sol disminuir quan augmenta la distància, encara que el comportament depèn de les condicions d'emissió, la geometria i l'entorn.
+
+En pintura de miniatures, aquest principi s'ha d'utilitzar com a criteri de planificació, no com una regla que obligui a aplicar una reducció cromàtica idèntica a totes les superfícies.
+
+Convé establir una jerarquia entre zones pròximes amb influència més evident, zones intermèdies amb una influència menor i zones allunyades amb una contribució reduïda o inexistent en la representació.
+
+La distància no és l'únic factor. Una superfície pròxima pot quedar protegida per un altre objecte, mentre que una de més allunyada pot tenir exposició directa. La distribució ha de respondre al conjunt de relacions espacials.
+
+### 17.3.4. Geometria i orientació de les superfícies
+
+La geometria condiciona com es representa la influència d'una font sobre cada objecte.
+
+En superfícies planes, la zona il·luminada pot presentar límits relativament definits si la font i la geometria ho justifiquen. En superfícies corbes, la influència pot distribuir-se de manera més progressiva. En superfícies facetades, els canvis d'orientació poden generar diferències entre plans pròxims.
+
+També s'han de considerar les regions ocultes, les cavitats i les parts protegides per altres elements.
+
+La il·luminació no s'ha d'estendre indiscriminadament sobre totes les superfícies properes. Ha de seguir una distribució compatible amb la seva orientació i exposició.
+
+### 17.3.5. Bloqueig de la llum i ombres
+
+Un objecte pot bloquejar totalment o parcialment la llum d'una font i impedir que arribi a determinades superfícies.
+
+En la representació OSL, aquest bloqueig pot ser important per conservar la coherència de l'escena. Per exemple, si una mà sosté una esfera lluminosa, les parts orientades cap a l'esfera poden rebre'n la il·luminació, mentre que altres regions poden quedar parcialment protegides pels dits.
+
+L'absència d'il·luminació directa s'ha de diferenciar de l'absència total de llum.
+
+Les ombres i la seva formació general s'expliquen al capítol 5. Aquí s'utilitzen com a criteri per decidir on resulta coherent representar la influència de la font.
+
+### 17.3.6. Esquema de planificació
+
+Abans de pintar convé elaborar un esquema de distribució lluminosa. Es pot fer mitjançant un dibuix senzill o sobre una fotografia de la miniatura.
+
+Ha d'identificar:
+
+1. La font emissora.
+2. La posició de la font respecte de la figura.
+3. Les superfícies que reben llum directa.
+4. Les superfícies parcialment protegides.
+5. Les zones que no rebran una influència directa apreciable.
+6. La intensitat relativa prevista per a cada regió.
+7. Els possibles reflexos localitzats.
+8. La relació cromàtica entre la font i l'entorn.
+
+L'esquema no ha de representar tots els detalls. La seva funció és establir una referència coherent per al desenvolupament pictòric.
+
+## 17.4. Planificació dels valors i organització cromàtica
+
+### 17.4.1. Jerarquia de valors
+
+La font lluminosa i les superfícies il·luminades han de mantenir una jerarquia visual recognoscible.
+
+En molts plantejaments, la font constitueix el punt de màxima intensitat visual, mentre que les superfícies il·luminades presenten una influència progressivament menor. Aquesta organització ajuda a distingir l'origen de la llum dels seus efectes.
+
+Tanmateix, no és necessari que totes les fonts presentin un centre blanc ni que totes les superfícies il·luminades siguin progressivament més fosques de manera uniforme. La jerarquia s'ha d'adaptar a la naturalesa de l'efecte i a la composició de la miniatura.
+
+### 17.4.2. Organització de les zones il·luminades
+
+La planificació tonal pot diferenciar diverses regions:
+
+- Font emissora.
+- Zona de màxima influència lluminosa.
+- Zona d'influència intermèdia.
+- Zona de transició cap a l'aparença original de la superfície.
+- Superfícies sense influència directa apreciable.
+
+Aquestes regions són referències funcionals, no categories obligatòries que hagin d'aparèixer sempre separades. La seva extensió i definició depenen de la geometria, la distància i el tipus de superfície.
+
+La planificació ha d'evitar que tota la regió pròxima a la font presenti la mateixa intensitat. Una distribució massa uniforme pot produir un halo artificial i eliminar la lectura dels volums.
+
+### 17.4.3. Selecció del color lluminós
+
+La tria del color ha de respondre a la identitat de la font i a la intenció visual. Una flama, un cristall màgic o un dispositiu tecnològic poden utilitzar famílies cromàtiques diferents.
+
+El color de la font no s'ha de reproduir necessàriament de manera idèntica en totes les superfícies il·luminades. En funció de l'efecte, es poden introduir modificacions de matís, valor i croma a mesura que es representa la influència lluminosa.
+
+La teoria del color del capítol 4 proporciona els fonaments per organitzar aquestes relacions. Aquí s'apliquen a la representació d'una font emissora i dels seus efectes.
+
+### 17.4.4. Relació entre el color de la font i el de les superfícies
+
+El color de la llum representada interactua visualment amb el color propi de les superfícies. Per això, una mateixa font pot produir aparences diferents segons l'objecte il·luminat.
+
+Una superfície de color clar pot mostrar una influència cromàtica lluminosa molt visible. Una superfície fosca pot requerir una modificació tonal més evident perquè l'efecte es reconegui. En altres casos, una superfície amb un color molt diferent del de la font pot mostrar una combinació cromàtica més complexa.
+
+No s'ha de suposar que n'hi ha prou amb barrejar el color de la font amb el color base de cada objecte per obtenir una il·luminació convincent.
+
+La representació exigeix valorar conjuntament el color local, el valor, la intensitat de l'efecte i la llegibilitat de la superfície.
+
+### 17.4.5. Intensitat i pèrdua progressiva d'influència
+
+La influència visual de la font s'ha de distribuir de manera coherent.
+
+En termes generals, les regions més pròximes i exposades poden mostrar una modificació més intensa que les zones allunyades o parcialment protegides. Aquesta reducció no ha de ser lineal ni seguir una proporció fixa.
+
+Es pot representar mitjançant canvis de valor, matís, croma o una combinació d'aquests. També pot variar segons la superfície: una zona mat pot presentar una influència àmplia, mentre que una superfície brillant pot mostrar un reflex més localitzat.
+
+La pèrdua progressiva d'influència s'ha d'integrar amb el color original de la superfície, sense convertir necessàriament tota la regió il·luminada en una única taca cromàtica.
+
+### 17.4.6. Coherència amb la il·luminació general
+
+La font OSL s'ha d'integrar en la il·luminació general de la miniatura.
+
+Si la figura presenta una il·luminació principal procedent d'una direcció i una font secundària situada en una altra posició, totes dues poden coexistir. La representació ha d'establir una jerarquia entre elles.
+
+La font secundària pot modificar determinades superfícies sense substituir completament la il·luminació principal. Convé revisar que les zones afectades per totes dues fonts no generin contradiccions visuals difícils d'interpretar.
+
+En alguns casos pot ser convenient simplificar la il·luminació general perquè l'efecte OSL es percebi amb claredat.
+
+## 17.5. Procediment general de construcció de l'OSL
+
+### 17.5.1. Preparació i anàlisi de la miniatura
+
+El procés comença amb una superfície preparada i una il·luminació general prèviament considerada. La preparació de la miniatura, les eines i les pintures correspon al capítol 7.
+
+Abans d'aplicar l'efecte convé identificar la font, la seva posició i les superfícies que rebran la seva influència. També cal comprovar que la distribució prevista no contradigui elements importants de la geometria.
+
+### 17.5.2. Establiment de la font emissora
+
+La font s'ha de construir de manera que es reconegui com a origen de l'efecte lluminós.
+
+La representació pot incloure una zona central i altres regions cromàtiques al seu voltant, segons la naturalesa de l'element. La distribució ha de mantenir una jerarquia pròpia i diferenciar-se de les superfícies il·luminades.
+
+En una flama, per exemple, l'organització interna pot respondre a la representació del foc. En un cristall màgic, es pot utilitzar una distribució més localitzada o estilitzada.
+
+El capítol 30 desenvolupa la representació específica del foc, el fum i les cendres. El capítol 32 aborda la màgia, l'energia i altres efectes sobrenaturals. Aquí es considera únicament la funció de la font com a origen de la il·luminació.
+
+### 17.5.3. Identificació de les superfícies receptores
+
+Un cop establerta la font, cal identificar les superfícies sobre les quals es representarà la seva influència.
+
+La selecció ha de considerar la distància respecte de la font, l'orientació de cada superfície, l'exposició directa, els possibles obstacles, la geometria i el material representat.
+
+Convé limitar inicialment l'efecte a les regions més justificades. Ampliar-lo després resulta més senzill que haver de recuperar grans zones de color original si la il·luminació s'ha estès massa.
+
+### 17.5.4. Aplicació de la influència lluminosa
+
+La il·luminació es construeix modificant visualment les superfícies receptores.
+
+Es pot recórrer a una aplicació localitzada o a una distribució més àmplia, segons la geometria i la intensitat prevista. La zona il·luminada no ha de cobrir necessàriament tota la superfície receptora. Convé conservar part de la informació del color original i dels volums.
+
+L'efecte es pot desenvolupar mitjançant aplicacions successives, procurant que la modificació cromàtica mantingui una relació progressiva amb la zona il·luminada.
+
+El capítol 8 explica la construcció mitjançant capes; el capítol 9 desenvolupa els degradats i les transicions, i el capítol 10 aborda les veladures i els glassejats. Aquests procediments s'apliquen aquí amb una finalitat específica: representar la influència de la font lluminosa.
+
+No s'estableix un nombre obligatori d'aplicacions ni una proporció universal de dilució.
+
+### 17.5.5. Construcció de les zones de transició
+
+La transició permet integrar la influència lluminosa amb l'aparença original de la superfície. Pot ser àmplia o localitzada, contínua o relativament definida. La seva extensió ha de respondre a la geometria i a la distribució de l'efecte.
+
+Una transició massa brusca pot fer que la il·luminació sembli una taca superficial. Una transició excessivament àmplia pot convertir tota la peça en una superfície acolorida sense una relació clara amb la font.
+
+No és necessari suavitzar tots els límits. En determinades superfícies poden existir canvis definits d'il·luminació.
+
+### 17.5.6. Representació de reflexos localitzats
+
+Algunes superfícies poden mostrar reflexos més intensos o definits de la font. Aquests reflexos s'han de diferenciar de la il·luminació general de la superfície.
+
+La seva representació pot ser especialment rellevant en materials brillants, polits o amb una resposta especular marcada.
+
+La posició ha de ser compatible amb l'orientació de la superfície i amb la posició de l'observador. No totes les superfícies il·luminades necessiten un reflex localitzat. Incorporar-lo indiscriminadament pot generar punts de brillantor que no contribueixen a la coherència de l'efecte.
+
+### 17.5.7. Integració de la font i l'entorn
+
+Un cop construïda la il·luminació sobre les superfícies receptores, convé revisar el conjunt.
+
+La font ha de continuar sent recognoscible i les superfícies il·luminades han de mostrar una influència compatible amb la seva posició.
+
+Pot ser necessari ajustar la intensitat de la font, l'extensió de les zones il·luminades, el contrast entre la font i l'entorn, la transició cap als colors originals, la definició dels reflexos i la relació amb la il·luminació general.
+
+La integració no consisteix a acolorir totes les superfícies pròximes, sinó a aconseguir que la font i els seus efectes formin una mateixa situació lluminosa.
+
+## 17.6. Adaptació a diferents geometries i materials
+
+### 17.6.1. Superfícies planes
+
+En superfícies planes, la il·luminació es pot representar mitjançant regions relativament definides, sempre que la posició de la font i l'orientació de la peça ho justifiquin.
+
+Convé identificar quines parts del pla reben directament la llum i quines queden protegides. L'extensió de la zona il·luminada s'ha d'adaptar a la superfície i evitar cobrir-la uniformement sense considerar-ne l'orientació.
+
+### 17.6.2. Superfícies corbes
+
+Les superfícies corbes presenten canvis continus d'orientació. Per això, la influència lluminosa pot requerir una distribució progressiva que segueixi la forma.
+
+En una esfera, per exemple, la zona il·luminada es pot concentrar en una regió orientada cap a la font i disminuir cap a altres àrees. En una superfície cilíndrica, la distribució pot adaptar-se al recorregut de la curvatura.
+
+No s'ha d'aplicar automàticament el mateix patró a totes les superfícies corbes.
+
+### 17.6.3. Superfícies facetades i arestes
+
+Les superfícies facetades presenten canvis d'orientació més definits. Una mateixa font pot afectar de manera diferent dos plans pròxims.
+
+La representació pot conservar aquests canvis mitjançant regions d'il·luminació diferenciades. Les arestes poden mostrar una influència més visible si la seva orientació i exposició ho justifiquen, però no s'han d'il·luminar totes per defecte.
+
+La geometria ha de continuar sent recognoscible.
+
+### 17.6.4. Superfícies mates
+
+Les superfícies mates es poden representar mitjançant una influència lluminosa distribuïda de manera relativament àmplia, sense dependre necessàriament de reflexos especulars intensos.
+
+L'efecte es pot construir mitjançant canvis de valor i color que mantinguin visible l'estructura de la superfície.
+
+No convé convertir una zona mat en una superfície brillant únicament per utilitzar-hi un color molt clar.
+
+### 17.6.5. Superfícies brillants i reflectants
+
+Les superfícies brillants poden mostrar reflexos més localitzats i definits.
+
+En aquests casos, la representació pot combinar una zona il·luminada amb un reflex de la font. Tots dos elements han de mantenir funcions diferenciades.
+
+Una superfície brillant no ha de presentar sempre un reflex visible des de qualsevol posició. La seva aparició depèn de la relació entre font, superfície i observador.
+
+### 17.6.6. Superfícies transparents i translúcides
+
+Els materials transparents i translúcids poden requerir una representació específica de la font i de la llum que els travessa o dispersa.
+
+La il·luminació pot modificar-ne l'aparença interna, generar zones de més intensitat o influir sobre els objectes pròxims.
+
+La construcció general d'aquests materials correspon al capítol 14. En l'OSL es considera la seva possible funció com a font o com a superfície receptora.
+
+No s'ha de confondre la il·luminació que travessa un material amb un simple reflex de la seva superfície.
+
+### 17.6.7. Adaptació a l'escala
+
+En miniatures petites, la distribució de l'efecte s'ha de simplificar per conservar-ne la llegibilitat.
+
+Pot ser necessari reduir el nombre de superfícies il·luminades, concentrar els accents i limitar l'extensió de les transicions.
+
+En peces més grans es pot incorporar una distribució més complexa, sempre que contribueixi a la lectura de l'efecte.
+
+La finalitat no és reproduir tots els matisos d'una escena real, sinó seleccionar els senyals visuals necessaris per representar una font i la seva influència.
+
+## 17.7. Control tècnic i avaluació del resultat
+
+### 17.7.1. Coherència entre la font i les superfícies il·luminades
+
+La primera comprovació consisteix a verificar que les zones il·luminades es poden relacionar amb la font.
+
+Convé revisar si la font està clarament identificada, si les superfícies receptores es troben en posicions compatibles, si l'orientació justifica la distribució, si hi ha obstacles que haurien de bloquejar part de la llum i si l'extensió de l'efecte resulta raonable dins de l'escena.
+
+Una zona il·luminada sense relació espacial recognoscible pot debilitar el conjunt.
+
+### 17.7.2. Control de la jerarquia visual
+
+La font i les superfícies il·luminades han de conservar funcions visuals diferenciades.
+
+Cal comprovar si la font destaca com a origen de la llum, si les superfícies receptores mostren una influència menor o diferent, si els accents no competeixen innecessàriament amb la font i si l'efecte manté una jerarquia clara respecte de la resta de la miniatura.
+
+No és obligatori que la font sigui sempre l'element més clar de tota la composició, però la seva funció emissora ha de resultar recognoscible.
+
+### 17.7.3. Control de la distribució cromàtica
+
+La influència lluminosa s'ha d'integrar amb els colors originals de les superfícies.
+
+Convé revisar si el color de la font manté la seva identitat, si les superfícies il·luminades presenten modificacions cromàtiques coherents, si les transicions conserven l'aparença del material, si el color lluminós s'ha estès excessivament i si el resultat conserva prou diferenciació tonal.
+
+La il·luminació no ha de convertir tots els objectes pròxims en superfícies del mateix color.
+
+### 17.7.4. Control de la intensitat i l'extensió
+
+La intensitat visual ha de mantenir una relació coherent amb la posició i l'exposició de les superfícies.
+
+Una zona allunyada o protegida no hauria de presentar automàticament la mateixa influència que una altra de pròxima i directament exposada.
+
+Convé comprovar si la distribució manté una pèrdua d'intensitat comprensible i si hi ha regions en què l'efecte s'hauria de reduir o desaparèixer.
+
+L'extensió de l'OSL s'ha de limitar a les zones que aporten informació rellevant.
+
+### 17.7.5. Control de la geometria i el volum
+
+L'aplicació del color lluminós no ha d'eliminar la lectura dels objectes.
+
+Cal revisar si es reconeixen els plans i les curvatures, si les zones il·luminades segueixen la forma de les superfícies, si es mantenen les diferències entre regions exposades i protegides, si les transicions no oculten detalls importants i si l'efecte respecta l'estructura general de la miniatura.
+
+Una il·luminació excessivament uniforme pot fer que els objectes semblin coberts per una capa de color en lloc d'estar il·luminats.
+
+### 17.7.6. Avaluació global de l'OSL
+
+La revisió ha de considerar conjuntament la font, les superfícies receptores i l'entorn.
+
+| Criteri | Resultat esperat |
+|---|---|
+| Identificació de la font | L'element emissor es reconeix clarament. |
+| Coherència espacial | La distribució respon a la posició de la font. |
+| Exposició | Les zones il·luminades són compatibles amb l'orientació i els obstacles. |
+| Jerarquia | Es distingeix la font de les superfícies receptores. |
+| Intensitat | La influència lluminosa presenta una distribució comprensible. |
+| Integració cromàtica | L'efecte es relaciona amb els colors originals de les superfícies. |
+| Geometria | La il·luminació conserva la lectura dels volums. |
+| Materials | La resposta representada resulta compatible amb les superfícies. |
+| Coherència global | L'efecte s'integra en la il·luminació general de la miniatura. |
+
+### 17.7.7. Criteri de finalització
+
+L'efecte es pot considerar acabat quan la font es reconeix, les superfícies receptores mostren una influència coherent i la il·luminació s'integra amb l'escena sense perjudicar la lectura dels objectes.
+
+No és necessari estendre el color a totes les zones pròximes ni afegir reflexos a cada superfície. Les intervencions addicionals poden reforçar l'efecte, però també poden convertir-lo en una distribució cromàtica excessiva.
+
+La prioritat és mantenir una relació clara entre l'origen de la llum i les seves conseqüències visuals.
+
+## 17.8. Errors freqüents i procediments de correcció
+
+### 17.8.1. Crear un halo sense una font identificable
+
+El color es distribueix al voltant d'una zona, però no queda clar quin element emet la llum.
+
+**Correcció:** definir i reforçar visualment la font abans d'ampliar-ne la influència sobre les superfícies pròximes.
+
+### 17.8.2. Il·luminar indiscriminadament tots els objectes propers
+
+L'efecte s'estén per proximitat sense considerar orientació, geometria o obstacles.
+
+**Correcció:** revisar les superfícies receptores i limitar la il·luminació a les regions l'exposició de les quals resulti coherent.
+
+### 17.8.3. Confondre la font amb la superfície il·luminada
+
+La font i les zones receptores presenten la mateixa intensitat i aparença cromàtica.
+
+**Correcció:** establir una jerarquia visual que permeti reconèixer l'element emissor i diferenciar-ne els efectes.
+
+### 17.8.4. Utilitzar el color de la font sense modificar els valors
+
+La superfície es cobreix amb un color lluminós, però no mostra una modificació tonal que suggereixi il·luminació.
+
+**Correcció:** revisar els valors de les superfícies receptores i construir una relació entre la seva aparença original i la influència lluminosa.
+
+### 17.8.5. Estendre massa la il·luminació
+
+L'efecte ocupa regions allunyades o protegides sense una justificació visual clara.
+
+**Correcció:** reduir-ne l'extensió i establir una distribució més selectiva.
+
+### 17.8.6. Distribuir l'efecte de manera uniforme
+
+Totes les superfícies presenten una intensitat i una extensió semblants.
+
+**Correcció:** diferenciar les regions segons la seva posició, orientació i exposició.
+
+### 17.8.7. Perdre la geometria dels objectes
+
+L'aplicació cromàtica cobreix plans, detalls i curvatures fins a dificultar la lectura de la forma.
+
+**Correcció:** recuperar selectivament l'estructura tonal i ajustar la il·luminació a la geometria.
+
+### 17.8.8. Confondre il·luminació i reflex
+
+Totes les superfícies il·luminades reben punts o línies de brillantor intensa, independentment de les seves característiques.
+
+**Correcció:** diferenciar la il·luminació general dels reflexos localitzats i reservar aquests últims per a les superfícies i orientacions que els justifiquin.
+
+### 17.8.9. Utilitzar transicions excessivament brusques
+
+Les zones il·luminades apareixen com a taques aïllades sense integració amb el color original.
+
+**Correcció:** revisar la transició entre regions i adaptar-la a la geometria i al tipus de superfície.
+
+### 17.8.10. Suavitzar totes les transicions en excés
+
+La il·luminació perd definició i es converteix en una zona cromàtica extensa i poc estructurada.
+
+**Correcció:** recuperar els límits i contrastos necessaris per mantenir la lectura dels volums.
+
+### 17.8.11. Confondre emissió lluminosa amb color saturat
+
+La font presenta un color intens, però no destaca respecte de l'entorn ni transmet una aparença emissora.
+
+**Correcció:** revisar la jerarquia de valors, el contrast amb l'entorn i la definició de la zona emissora.
+
+### 17.8.12. Introduir diverses fonts sense jerarquia
+
+La miniatura conté diferents elements lluminosos, però els seus efectes se superposen sense una organització clara.
+
+**Correcció:** analitzar cada font per separat, establir-ne la importància i revisar posteriorment la interacció entre elles.
+
+## 17.9. Resultat esperat i criteris d'avaluació
+
+El resultat esperat és una representació en què una font lluminosa es pugui identificar com a origen d'un efecte i les superfícies pròximes mostrin una influència visual compatible amb la seva posició i geometria.
+
+| Criteri | Resultat esperat |
+|---|---|
+| Identificació de la font | L'element emissor es reconeix clarament. |
+| Coherència espacial | La distribució respon a la posició de la font. |
+| Exposició | Les zones il·luminades són compatibles amb l'orientació i els obstacles. |
+| Jerarquia | Es distingeix la font de les superfícies receptores. |
+| Intensitat | La influència lluminosa presenta una distribució comprensible. |
+| Integració cromàtica | L'efecte es relaciona amb els colors originals de les superfícies. |
+| Geometria | La il·luminació conserva la lectura dels volums. |
+| Materials | La resposta representada resulta compatible amb les superfícies. |
+| Coherència global | L'efecte s'integra en la il·luminació general de la miniatura. |
+
+L'OSL no s'ha d'avaluar per la quantitat de color lluminós aplicada ni per l'extensió del halo. La seva qualitat depèn de la coherència entre la font, les superfícies receptores i l'entorn.
+
+La simplificació pot ser necessària per millorar la lectura, però ha de mantenir una lògica espacial recognoscible.
+
+## 17.10. Exercicis pràctics
+
+Els exercicis permeten practicar l'anàlisi de la font, la selecció de les superfícies receptores i la planificació de la influència lluminosa abans de construir l'efecte complet.
+
+### 17.10.1. Identificació de la font i les superfícies receptores
+
+**Objectiu:** diferenciar la font emissora de les superfícies que reben la seva llum.
+
+**Procediment:**
+1. Seleccionar una miniatura o composició senzilla amb un element que pugui actuar com a font.
+2. Identificar i delimitar la font.
+3. Assenyalar les superfícies que podrien rebre'n la influència.
+4. Distingir les regions exposades de les que quedarien protegides per la geometria.
+5. Justificar la selecció de cada superfície receptora.
+
+**Resultat esperat:** una identificació clara de l'origen de la llum i de les superfícies afectades.
+
+### 17.10.2. Planificació d'una font situada en diferents posicions
+
+**Objectiu:** comprendre com la posició de la font modifica la distribució de la il·luminació.
+
+**Procediment:**
+1. Utilitzar una mateixa figura.
+2. Plantejar tres ubicacions diferents per a la font: superior, lateral i inferior.
+3. Dibuixar la distribució prevista de les superfícies il·luminades en cada situació.
+4. Identificar els canvis d'exposició i les zones protegides.
+5. Comparar la lectura de la figura en els tres esquemes.
+
+**Resultat esperat:** reconèixer la influència de la posició i l'orientació sobre la planificació de l'efecte.
+
+### 17.10.3. Distribució de la intensitat lluminosa
+
+**Objectiu:** planificar una pèrdua progressiva d'influència sense recórrer a una distribució uniforme.
+
+**Procediment:**
+1. Seleccionar una font i una superfície receptora.
+2. Elaborar un esquema amb zones de màxima influència, influència intermèdia i absència d'il·luminació directa apreciable.
+3. Considerar la distància, l'orientació i els obstacles.
+4. Revisar que la distribució no segueixi una proporció fixa aplicada indiscriminadament.
+5. Comparar el resultat amb una distribució uniforme.
+
+**Resultat esperat:** una planificació selectiva de la intensitat i l'extensió de l'efecte.
+
+### 17.10.4. Influència de la geometria
+
+**Objectiu:** adaptar la distribució de l'OSL a superfícies amb geometries diferents.
+
+**Procediment:**
+1. Preparar diverses superfícies de prova: plana, corba i facetada.
+2. Situar una mateixa font respecte de cadascuna.
+3. Planificar les regions exposades i protegides.
+4. Representar les diferències de distribució.
+5. Comparar com la geometria modifica l'aparença de la il·luminació.
+
+**Resultat esperat:** comprendre que la forma i l'orientació condicionen la influència lluminosa.
+
+### 17.10.5. Comparació entre il·luminació i reflex
+
+**Objectiu:** diferenciar una zona il·luminada d'un reflex localitzat.
+
+**Procediment:**
+1. Seleccionar dues superfícies amb respostes visuals diferents.
+2. Representar en una zona mate una influència lluminosa de distribució àmplia.
+3. Representar en una superfície brillant un reflex més localitzat.
+4. Comparar la funció visual de tots dos recursos.
+5. Revisar si els reflexos estan justificats per la geometria i la posició de l'observador.
+
+**Resultat esperat:** evitar que totes les superfícies il·luminades es representin mitjançant punts o línies de brillantor.
+
+### 17.10.6. Exercici integrador: construcció d'un efecte OSL
+
+**Objectiu:** integrar els criteris del capítol en una representació completa d'una font i els seus efectes.
+
+**Procediment:**
+1. Seleccionar una miniatura amb un element que pugui actuar com a font lluminosa.
+2. Identificar i delimitar la font.
+3. Determinar-ne la posició i l'orientació.
+4. Seleccionar les superfícies receptores.
+5. Identificar possibles obstacles.
+6. Establir la jerarquia de valors.
+7. Seleccionar l'organització cromàtica.
+8. Construir l'aparença de la font.
+9. Aplicar-ne la influència sobre les superfícies receptores.
+10. Integrar les transicions i els possibles reflexos.
+11. Comprovar la coherència amb la geometria i la il·luminació general.
+12. Corregir les zones que presentin contradiccions.
+13. Avaluar el resultat des de la distància habitual d'observació.
+
+**Resultat esperat:** una representació en què la font sigui recognoscible i les superfícies receptores mostrin una influència coherent amb la situació espacial plantejada.
+
+## Síntesi del capítol
+
+L'OSL representa una font emissora i la influència que exerceix sobre les superfícies pròximes. La coherència depèn de la relació espacial entre font, orientació, exposició, obstacles, geometria i material. El procediment exigeix identificar la font, seleccionar les superfícies receptores, planificar valors i colors, aplicar la influència de manera selectiva i integrar-la amb la il·luminació general. No equival a crear un halo: la qualitat depèn de la relació recognoscible entre l'origen de la llum i les seves conseqüències visuals.
+
+## Figures proposades per a la fase gràfica final
+
+1. Diferència entre font emissora, superfície il·luminada i reflex localitzat.
+2. Posició de la font i distribució de les superfícies receptores.
+3. Geometria, orientació i bloqueig de la llum.
+4. Jerarquia de valors entre font, zona d'influència i transició.
+5. Relació entre el color de la font i els diferents colors locals.
+6. Pèrdua progressiva d'influència segons exposició i distància, sense proporcions universals.
+7. Diferència entre il·luminació general i reflexos en superfícies mates i brillants.
+8. Seqüència de construcció i integració de l'OSL.
+9. Exemples d'ombres projectades i zones protegides.
+10. Errors freqüents: halo sense font, distribució uniforme i pèrdua de geometria.
+
+## Registre editorial
+
+- Estructura: deu apartats, síntesi i sis exercicis.
+- Enfocament: representació de fonts emissores i de la seva influència sobre l'entorn.
+- Delimitacions: fonaments generals al capítol 5; transparències al 14; NMM al 16; receptes de foc i energia als capítols 30 i 32.
+- Criteri central: l'OSL exigeix coherència espacial entre font, superfícies receptores, geometria i entorn.
+- Estat: síntesi basada en el document de referència. No es presenten les propostes com a resultats de proves físiques.
+
+---
+
+# 18. PLANIFICACIÓ, SEQÜENCIACIÓ I AVALUACIÓ DEL PROCÉS INTEGRAL
+
+## 18.1. Funció de la planificació integral
+
+Pintar una miniatura exigeix coordinar decisions tècniques, cromàtiques i visuals. La planificació integral determina quin resultat es busca, quines característiques de la peça condicionen el treball, quins recursos calen i en quin ordre convé actuar.
+
+No consisteix a aplicar totes les tècniques disponibles ni a seguir una seqüència universal. Cal seleccionar els procediments que responen a les necessitats reals de cada miniatura i revisar les decisions a mesura que avança l'execució. Aquest capítol integra els continguts dels capítols 7–17: no repeteix les tècniques, sinó que estableix criteris per seleccionar-les, combinar-les, seqüenciar-les i avaluar-les.
+
+## 18.2. Anàlisi inicial i definició d'objectius
+
+### 18.2.1. Identificació de les característiques generals
+
+Abans de decidir com pintar una miniatura, convé analitzar-ne les característiques principals.
+
+L'observació inicial ha de considerar:
+
+- Dimensions i escala.
+- Complexitat de la geometria.
+- Nombre i disposició de les peces.
+- Elements principals i secundaris.
+- Superfícies predominants.
+- Detalls petits o de difícil accés.
+- Zones d'unió i separació entre elements.
+- Possibles limitacions derivades del muntatge o de la postura.
+
+L'anàlisi ha de permetre comprendre l'estructura general i anticipar quines parts poden exigir una atenció especial.
+
+No totes les peces presenten les mateixes dificultats. Una miniatura amb grans superfícies planes requereix decisions diferents d'una altra dominada per relleus, elements petits o geometries molt fragmentades.
+
+### 18.2.2. Identificació de materials i superfícies
+
+La identificació dels materials que es pretenen representar condiciona la selecció de tècniques i l'organització del treball.
+
+Convé elaborar una relació de les superfícies principals i de les seves característiques visuals:
+
+- Material representat.
+- Color local previst.
+- Textura i patrons rellevants.
+- Resposta superficial que es vol comunicar.
+- Presència de transparència, translucidesa o reflexos.
+- Possibles efectes de desgast, brutícia o transformació.
+
+Una mateixa miniatura pot combinar materials amb respostes visuals molt diferents. Per exemple, una figura pot contenir teixit, cuir, metall, fusta, pedra i elements lluminosos.
+
+No és necessari desenvolupar en aquesta fase les receptes concretes de cada material. Aquesta informació correspon als capítols 19–34. L'objectiu és identificar les necessitats per poder consultar i seleccionar posteriorment els procediments adequats.
+
+### 18.2.3. Detecció de dificultats tècniques
+
+L'anàlisi inicial també ha d'identificar els aspectes que poden condicionar l'execució.
+
+Entre ells es troben:
+
+- Superfícies de difícil accés.
+- Relleus molt petits.
+- Unions entre materials.
+- Límits cromàtics complexos.
+- Elements que poden quedar parcialment ocults.
+- Zones en què una tècnica podria perjudicar-ne una altra ja realitzada.
+- Superfícies especialment sensibles a l'acumulació de pintura.
+- Efectes que requereixen una planificació espacial prèvia, com NMM o OSL.
+
+La identificació anticipada permet decidir si convé modificar l'ordre de muntatge, treballar per components o reservar determinades zones per a fases posteriors.
+
+### 18.2.4. Definició del resultat buscat
+
+La planificació ha de començar amb una idea prou clara del resultat final.
+
+Convé determinar:
+
+- El nivell d'acabat desitjat.
+- La importància visual de cada element.
+- El grau de realisme, estilització o simplificació.
+- La paleta general.
+- La il·luminació prevista.
+- Els materials que requereixen més atenció.
+- Els efectes especials que es volen incorporar.
+- El temps i els recursos disponibles.
+
+L'objectiu no s'ha de formular únicament com una llista de tècniques. És més útil descriure què es pretén aconseguir visualment.
+
+Per exemple, en lloc d'establir com a objectiu «aplicar degradats, rentats i pinzell sec», es pot plantejar «aconseguir una armadura amb volums definits, zones de desgast i una lectura metàl·lica coherent».
+
+La primera formulació enumera operacions; la segona defineix un resultat que permet valorar si aquestes operacions són necessàries.
+
+### 18.2.5. Priorització d'objectius
+
+No tots els elements tenen la mateixa importància dins d'una miniatura.
+
+Convé distingir:
+
+- **Objectius principals:** determinen la lectura general de la peça.
+- **Objectius secundaris:** enriqueixen la representació, però no condicionen per si sols el resultat.
+- **Detalls complementaris:** aporten acabat o interès addicional i poden ometre's si no són necessaris.
+
+Aquesta jerarquia ajuda a distribuir el temps i evita dedicar massa recursos a detalls que gairebé no influeixen en la percepció global.
+
+També permet prendre decisions quan hi ha limitacions de temps, materials o experiència tècnica.
+
+## 18.3. Planificació cromàtica, tonal i lumínica
+
+### 18.3.1. Construcció d'una visió cromàtica general
+
+La planificació cromàtica ha de considerar la relació entre els diferents elements de la miniatura.
+
+Abans de seleccionar pintures concretes, convé establir:
+
+- Colors predominants.
+- Colors secundaris.
+- Accents cromàtics.
+- Relacions entre materials.
+- Contrastos rellevants.
+- Zones que han d'atreure l'atenció.
+- Grau d'integració entre figura i entorn, quan correspongui.
+
+La finalitat és evitar que cada superfície es resolgui de manera independent i que el conjunt acabi presentant una acumulació de colors sense jerarquia.
+
+La teoria del color del capítol 4 proporciona els fonaments per a aquestes decisions. En aquest capítol s'utilitzen per organitzar el conjunt, sense repetir els sistemes cromàtics ni les relacions d'harmonia i contrast.
+
+### 18.3.2. Planificació dels valors
+
+L'organització tonal ha d'establir quins elements necessiten més contrast i quines regions han de mantenir una aparença més continguda.
+
+Convé identificar:
+
+- Zones de valor més elevat.
+- Regions d'ombra.
+- Contrastos principals.
+- Transicions necessàries.
+- Diferències entre plans.
+- Elements que han de destacar respecte dels altres.
+
+La distribució no ha de ser uniforme en tota la miniatura. Pot ser convenient concentrar el contrast en el rostre, les mans, una arma o un altre element important.
+
+La planificació dels valors ha de respondre tant a la geometria com a la jerarquia visual.
+
+### 18.3.3. Planificació de la il·luminació
+
+La il·luminació s'ha de considerar abans d'executar tècniques que depenguin d'una direcció o distribució lluminosa determinada.
+
+Convé establir:
+
+- La direcció principal de la llum.
+- La presència de fonts secundàries.
+- Les zones que rebran més il·luminació.
+- Les regions protegides.
+- La relació entre il·luminació general i efectes específics.
+- La coherència entre les diferents superfícies.
+
+Si es pretén representar una font lluminosa mitjançant OSL o una superfície metàl·lica mitjançant NMM, aquestes decisions s'han d'incorporar al plantejament general abans d'executar-ne els procediments específics.
+
+Els capítols 15, 16 i 17 desenvolupen la planificació de valors, el NMM i l'OSL, respectivament. Aquest capítol integra els seus resultats dins de l'organització global del treball.
+
+### 18.3.4. Referències visuals i documentació prèvia
+
+Les referències poden ajudar a establir l'aparença desitjada i reduir les decisions improvisades.
+
+Es poden utilitzar fotografies, il·lustracions, imatges de materials reals, miniatures de referència o esquemes propis.
+
+Convé seleccionar referències que aportin informació concreta:
+
+- Distribució de colors.
+- Aparença dels materials.
+- Textures i patrons.
+- Direcció de la il·luminació.
+- Relacions de contrast.
+- Desgast i estat superficial.
+
+És preferible treballar amb referències complementàries que amb una única imatge que no resolgui tots els aspectes de la miniatura.
+
+Les referències s'han d'utilitzar com a suport per prendre decisions, no com a models que s'hagin de reproduir literalment.
+
+## 18.4. Selecció de tècniques, eines i materials
+
+### 18.4.1. Selecció de tècniques segons l'objectiu
+
+La tria d'una tècnica ha de respondre a una necessitat concreta.
+
+Per decidir convé considerar:
+
+- Quin efecte es pretén aconseguir.
+- Quines característiques té la superfície.
+- Quin grau de control requereix l'operació.
+- Quines tècniques poden produir el resultat.
+- Quines limitacions presenta cada procediment.
+- Quines operacions posteriors poden veure's afectades.
+
+Una mateixa finalitat es pot assolir mitjançant procediments diferents. Per exemple, una transició cromàtica es pot construir mitjançant mescles intermèdies, mescla humida o aplicacions successives.
+
+La selecció no s'ha de basar únicament en la familiaritat amb una tècnica. Convé triar el procediment que permeti resoldre l'objectiu amb un nivell adequat de control.
+
+### 18.4.2. Selecció d'eines i productes
+
+Un cop identificades les tècniques necessàries, se seleccionen les eines i les pintures adequades.
+
+La decisió ha de considerar:
+
+- Tipus de producte.
+- Propietats funcionals.
+- Compatibilitat amb la superfície.
+- Eina necessària.
+- Precisió requerida.
+- Accessibilitat de la zona.
+- Possibles interaccions amb aplicacions anteriors.
+
+Les propietats generals de les pintures i els criteris de selecció es desenvolupen als capítols 3 i 7. En aquesta fase s'utilitzen per comprovar que els recursos escollits són adequats per a l'operació prevista.
+
+No és necessari disposar de totes les eines o productes possibles. La selecció ha de ser proporcional a les necessitats reals del projecte.
+
+### 18.4.3. Avaluació d'alternatives
+
+Abans d'incorporar una tècnica especialment complexa, convé valorar si existeix una alternativa més senzilla que permeti aconseguir un resultat suficient.
+
+La decisió pot considerar:
+
+- Temps d'execució.
+- Dificultat tècnica.
+- Risc de deteriorar altres zones.
+- Necessitat de materials addicionals.
+- Possibilitat de corregir el resultat.
+- Importància visual de l'efecte.
+
+Una tècnica avançada no és necessàriament la millor elecció. La seva utilització es justifica quan aporta una millora rellevant respecte d'altres alternatives.
+
+### 18.4.4. Proves prèvies i superfícies d'assaig
+
+Quan hi ha incertesa sobre el comportament d'un producte o la compatibilitat de diverses operacions, pot ser convenient fer proves en una superfície independent o en una zona poc visible.
+
+Les proves poden servir per comprovar:
+
+- Compatibilitat entre productes.
+- Intensitat cromàtica.
+- Comportament d'una mescla.
+- Distribució d'una tècnica.
+- Aparença després de l'assecat.
+- Efectes d'una aplicació posterior sobre una superfície ja treballada.
+
+La prova ha de reproduir, en la mesura del possible, les condicions rellevants del treball definitiu.
+
+No s'ha de suposar que una prova feta sobre una superfície diferent garanteix el mateix resultat en tots els materials o geometries.
+
+## 18.5. Organització i seqüenciació de les operacions
+
+### 18.5.1. Principis generals de seqüenciació
+
+La seqüenciació consisteix a decidir l'ordre de les operacions perquè cadascuna es pugui realitzar en condicions adequades i no perjudiqui innecessàriament les anteriors.
+
+L'organització ha de considerar dependències entre tècniques, accessibilitat de les superfícies, estat de les aplicacions anteriors, compatibilitat dels productes, necessitat de protegir determinades zones, possibilitat de fer correccions i risc d'ocultar detalls o deteriorar acabats.
+
+No existeix una seqüència universal. L'ordre depèn de la miniatura, els materials, les tècniques seleccionades i el resultat buscat.
+
+### 18.5.2. Dependència entre operacions
+
+Algunes operacions requereixen que d'altres s'hagin completat prèviament.
+
+Per exemple, la preparació de la miniatura ha de precedir l'aplicació de la pintura; la capa base estableix una referència cromàtica sobre la qual es desenvolupen aplicacions posteriors; determinats degradats requereixen disposar dels colors que formen la transició; els efectes de desgast poden dependre de l'estat de les superfícies sobre les quals s'apliquen, i els acabats finals han de considerar les tècniques i els productes anteriors.
+
+Aquestes relacions permeten establir dependències, però no obliguen a utilitzar sempre les mateixes tècniques ni a seguir una seqüència idèntica.
+
+### 18.5.3. Operacions que poden realitzar-se en diferent ordre
+
+Algunes tècniques admeten variacions en la seva posició dins del procés.
+
+Per exemple, el moment d'aplicar determinats rentats, textures, perfilats o efectes d'acumulació pot dependre del resultat buscat i de la compatibilitat entre productes.
+
+En aquests casos convé valorar què aporta cada ordre i quines conseqüències pot tenir. Una operació pot facilitar la lectura d'una altra, mentre que en una seqüència diferent pot quedar parcialment oculta o modificada.
+
+La decisió s'ha de fonamentar en el resultat previst i, quan hi hagi incertesa, en proves prèvies.
+
+### 18.5.4. Organització per zones, materials o fases
+
+El treball es pot organitzar mitjançant diferents criteris.
+
+**Organització per zones:** consisteix a completar determinades regions de la miniatura abans de passar a d'altres. Pot resultar útil quan les zones presenten límits clars o quan cal controlar l'acumulació d'operacions en àrees concretes.
+
+**Organització per materials:** consisteix a treballar agrupant superfícies que comparteixen característiques o requereixen procediments similars. Pot facilitar la preparació de colors i la consulta de receptes, però cal evitar tractar com a idèntiques superfícies que presenten diferències rellevants.
+
+**Organització per fases:** consisteix a agrupar operacions segons la seva funció general: preparació, construcció cromàtica, definició, efectes i acabat. Aquesta organització facilita la visió global, però no s'ha d'interpretar com una seqüència rígida. Algunes operacions es poden avançar, retardar o repetir segons les necessitats.
+
+Els tres criteris es poden combinar. La tria dependrà de la complexitat de la peça i de la forma de treball més eficient.
+
+### 18.5.5. Accessibilitat i ordre de muntatge
+
+La seqüència també ha de considerar si la miniatura es pinta muntada o parcialment desmuntada.
+
+Algunes peces poden resultar difícils d'assolir un cop assemblades. En aquests casos pot ser convenient treballar determinats components per separat.
+
+La decisió ha de considerar l'accés a les superfícies, la possibilitat de manipular les peces sense deteriorar-les, les zones d'unió que s'hauran de corregir posteriorment, la continuïtat visual entre components i el risc de danyar les aplicacions durant el muntatge.
+
+No hi ha una regla general que obligui a pintar sempre abans o després del muntatge. Cal valorar cada cas.
+
+### 18.5.6. Elaboració d'un pla de treball
+
+Un cop analitzades les operacions, convé elaborar una seqüència orientativa.
+
+| Fase o operació | Objectiu | Tècniques previstes | Dependències i precaucions |
+|---|---|---|---|
+| Preparació | Disposar d'un suport adequat | Neteja, muntatge i imprimació | Accessibilitat i estat de les peces |
+| Construcció inicial | Establir els colors de referència | Capes base | Delimitació de superfícies |
+| Desenvolupament cromàtic | Construir relacions i transicions | Capes, degradats i veladures, quan correspongui | Compatibilitat i control de les aplicacions |
+| Definició | Millorar la lectura de formes i detalls | Perfilats i tècniques de textura | No deteriorar les superfícies ja construïdes |
+| Efectes específics | Representar materials i fenòmens concrets | NMM, OSL i altres procediments necessaris | Coherència amb la planificació general |
+| Avaluació i ajustos | Comprovar i corregir el resultat | Correccions selectives | Evitar intervencions innecessàries |
+
+La taula és una eina d'organització, no un ordre obligatori. Les fases es poden canviar, combinar o ometre en determinats projectes.
+
+## 18.6. Compatibilitat i combinació de tècniques
+
+### 18.6.1. Compatibilitat entre procediments
+
+La combinació de tècniques exigeix considerar com interactuen els materials i els resultats.
+
+Convé comprovar si una aplicació pot reactivar o alterar una altra, si el producte posterior pot modificar l'acabat anterior, si una tècnica pot ocultar detalls, si una acumulació pot perjudicar la lectura d'una superfície, si l'acabat previst permet fer intervencions posteriors i si les eines utilitzades poden deteriorar zones ja acabades.
+
+La compatibilitat no depèn únicament del nom de les tècniques. També pot variar segons el producte, el suport, l'estat d'assecat i les condicions d'aplicació.
+
+Quan no es disposa d'informació suficient, convé fer una prova prèvia.
+
+### 18.6.2. Complementarietat entre tècniques
+
+Dues o més tècniques es poden combinar quan compleixen funcions diferents i els seus resultats es reforcen.
+
+Per exemple:
+
+- Les capes base estableixen la referència cromàtica i els degradats modifiquen progressivament la relació entre tons.
+- Els rentats poden contribuir a definir determinades cavitats, mentre que els perfilats delimiten selectivament els elements.
+- El pinzell sec pot destacar relleus i el puntejat introduir variacions de textura.
+- Les veladures poden modificar l'aparença cromàtica d'una superfície sense substituir-ne la construcció prèvia.
+- El NMM i l'OSL poden coexistir si es diferencia la resposta reflectant del metall de la influència d'una font lluminosa.
+
+La combinació ha de respondre a una necessitat visual. No es justifica pel simple fet que les tècniques es puguin utilitzar conjuntament.
+
+### 18.6.3. Evitar l'acumulació innecessària de procediments
+
+La utilització de massa tècniques pot perjudicar la claredat del resultat.
+
+Una superfície pot perdre coherència si rep nombroses aplicacions que competeixen entre si o en modifiquen repetidament l'aparença.
+
+Abans d'afegir una nova operació convé preguntar-se quin problema resol, quina informació visual aporta, si millora realment el resultat, si es podria aconseguir mitjançant una correcció més senzilla i si hi ha risc de deteriorar el treball anterior.
+
+La selecció ha de prioritzar la funció de cada procediment i evitar intervencions redundants.
+
+### 18.6.4. Respecte a les característiques de cada material
+
+La combinació de tècniques ha de mantenir la identitat visual de les superfícies.
+
+Un procediment que funciona en una superfície rugosa pot no resultar adequat en una altra de llisa i brillant. De la mateixa manera, una tècnica d'acumulació pot ser apropiada per representar dipòsits de brutícia, però resultar incoherent si s'aplica sense criteri sobre una superfície que ha de conservar un acabat net.
+
+Els fonaments del capítol 6 i les aplicacions dels capítols 19–34 permeten valorar aquestes diferències.
+
+## 18.7. Control i decisions durant l'execució
+
+### 18.7.1. Planificació com a referència flexible
+
+El pla inicial ha d'orientar el treball, però no convertir-se en una obligació inalterable.
+
+Durant l'execució poden aparèixer circumstàncies que aconsellin modificar-lo: una pintura presenta un comportament diferent del previst, una superfície requereix més o menys intervencions, una tècnica no produeix l'aparença buscada, es detecta una incompatibilitat entre productes, una zona resulta més complexa del que s'esperava, el resultat parcial suggereix una solució millor o el temps disponible obliga a prioritzar determinades operacions.
+
+Modificar el pla no significa perdre coherència. Significa utilitzar la informació obtinguda durant el treball per prendre decisions fonamentades.
+
+### 18.7.2. Punts de control
+
+Convé establir moments de revisió en què es valori l'estat de la miniatura abans de continuar.
+
+Aquests controls es poden fer després de la preparació, d'establir les principals capes base, de completar una fase cromàtica important, abans d'incorporar efectes que puguin modificar superfícies anteriors, després d'aplicar tècniques especialment invasives i abans de realitzar els acabats finals.
+
+No és necessari aturar-se després de cada aplicació. Els controls s'han de situar en moments en què l'avaluació encara pugui modificar decisions posteriors.
+
+### 18.7.3. Avaluació de resultats parcials
+
+Cada fase s'ha de valorar en funció de l'objectiu que havia de complir.
+
+Per exemple, cal comprovar si una capa base proporciona una referència cromàtica suficient, si una transició compleix la funció prevista, si una superfície conserva la seva identitat material, si un perfilat millora la separació entre elements, si una textura aporta informació sense saturar la superfície i si una il·luminació manté la coherència amb la font prevista.
+
+No s'ha de jutjar una fase únicament per la seva aparença aïllada. També convé considerar com s'integra amb la resta del treball.
+
+### 18.7.4. Decisions de continuïtat
+
+Després de cada punt de control convé decidir si:
+
+1. Es pot continuar amb l'operació prevista.
+2. Cal corregir algun aspecte.
+3. Convindria modificar la tècnica seleccionada.
+4. S'ha de canviar l'ordre de les operacions.
+5. És preferible simplificar l'objectiu.
+6. La fase es pot considerar acabada.
+
+Aquesta decisió evita continuar automàticament quan el resultat parcial ja indica que el pla necessita ajustos.
+
+### 18.7.5. Registre de modificacions
+
+Quan es modifica una decisió important, convé registrar-ne el motiu i el canvi realitzat.
+
+El registre pot incloure la decisió inicial, el problema o la circumstància detectada, la modificació introduïda, el resultat observat i les conseqüències per a les operacions posteriors.
+
+Aquest registre facilita la comprensió del procés i permet distingir entre una modificació fonamentada i una successió d'intervencions improvisades.
+
+## 18.8. Avaluació global, correcció i finalització
+
+### 18.8.1. Avaluació des de diferents distàncies
+
+La miniatura s'ha d'observar tant des d'una distància pròxima com des de la distància habitual de contemplació.
+
+L'observació propera permet valorar la qualitat d'aplicació, la definició dels detalls, les acumulacions, la continuïtat de les superfícies, la precisió dels límits i els defectes localitzats.
+
+L'observació a distància permet valorar la lectura general, la jerarquia visual, la distribució dels contrastos, la coherència cromàtica, la integració dels materials i el reconeixement dels elements principals.
+
+Totes dues perspectives són necessàries. Una miniatura pot presentar detalls tècnicament correctes i, tanmateix, resultar confusa en la seva lectura global.
+
+### 18.8.2. Avaluació per objectius
+
+El resultat s'ha de comparar amb els objectius definits al començament.
+
+Convé comprovar si els elements principals destaquen adequadament, si els materials es reconeixen, si l'organització cromàtica resulta coherent, si la il·luminació manté una lògica comuna, si les textures i els efectes aporten informació útil, si el nivell d'acabat correspon al resultat buscat i si les tècniques s'han aplicat amb una funció clara.
+
+L'avaluació no s'ha de limitar a determinar si una miniatura està ben o mal pintada. Ha d'identificar quins objectius s'han assolit i quins aspectes es poden millorar.
+
+### 18.8.3. Identificació de problemes
+
+Durant l'avaluació poden aparèixer problemes d'aplicació, cromàtics, d'il·luminació, de lectura dels materials, de seqüenciació, de compatibilitat, de jerarquia visual o derivats d'una planificació insuficient.
+
+És important identificar la causa probable abans de corregir.
+
+Per exemple, una superfície que sembla plana pot necessitar una millora dels valors, però també pot presentar un problema de textura o de distribució dels reflexos.
+
+La correcció ha de respondre a l'origen del problema i no limitar-se a afegir més pintura o més contrast.
+
+El diagnòstic sistemàtic i els procediments específics de correcció es desenvolupen al capítol 39. Aquí s'estableix la necessitat d'incorporar l'avaluació i la correcció al procés integral.
+
+### 18.8.4. Correcció selectiva
+
+Un cop identificat el problema, convé seleccionar la intervenció menys complexa que permeti resoldre'l sense deteriorar altres zones.
+
+Abans de corregir, cal considerar l'extensió del problema, la seva importància visual, la possibilitat d'intervenir localment, la compatibilitat amb les aplicacions anteriors, el risc d'alterar superfícies pròximes i la necessitat de revisar operacions posteriors.
+
+No tots els defectes requereixen una correcció. Alguns poden tenir una importància visual mínima o resultar acceptables dins del nivell d'acabat previst.
+
+La intervenció ha de ser proporcional al problema.
+
+### 18.8.5. Criteri de finalització
+
+El procés es pot considerar acabat quan s'han assolit els objectius principals i les intervencions addicionals ja no aporten una millora rellevant.
+
+Convé comprovar la coherència general de la miniatura, la llegibilitat dels seus elements, la integració de colors i materials, la qualitat de les operacions principals, l'absència de defectes que comprometin el resultat i l'adequació de l'acabat a l'objectiu inicial.
+
+La finalització no exigeix eliminar tota irregularitat ni afegir tots els detalls possibles. En ocasions, continuar intervenint pot deteriorar un resultat que ja compleix la seva funció.
+
+Els procediments d'acabat, protecció i conservació es desenvolupen als capítols 35–38. La seva aplicació s'ha d'incorporar al pla quan correspongui, sense confondre la finalització de la pintura amb la protecció posterior.
+
+### 18.8.6. Documentació del resultat
+
+La documentació permet conservar informació útil sobre el procés realitzat.
+
+Pot incloure fotografies de la miniatura en diferents fases, paleta utilitzada, productes i eines principals, tècniques seleccionades, ordre real de les operacions, modificacions respecte del pla inicial, problemes detectats, solucions aplicades i aspectes que convindria millorar en un treball futur.
+
+No és necessari documentar cada moviment del pinzell. El registre s'ha de centrar en les decisions que puguin resultar útils per comprendre, repetir o millorar el procés.
+
+La documentació també permet comparar projectes i reconèixer quins procediments han resultat adequats per a determinades superfícies o situacions.
+
+## 18.9. Eines de planificació i avaluació
+
+Les fitxes següents es poden adaptar a la complexitat de la peça.
+
+### 18.9.1. Fitxa inicial d'anàlisi
+
+| Camp | Informació que cal registrar |
+|---|---|
+| Miniatura | Identificació i característiques generals |
+| Escala i dimensions | Mida i nivell de detall |
+| Materials | Superfícies i efectes principals |
+| Dificultats | Accessibilitat, geometria i zones complexes |
+| Objectiu general | Aparença final buscada |
+| Prioritats | Elements principals, secundaris i complementaris |
+| Paleta | Colors predominants i accents |
+| Il·luminació | Direcció i distribució previstes |
+| Tècniques | Procediments seleccionats |
+| Recursos | Eines i productes necessaris |
+| Organització | Treball per zones, materials o fases |
+| Limitacions | Temps, experiència, materials i condicions |
+
+### 18.9.2. Registre de seqüenciació
+
+| Operació | Objectiu | Dependències | Estat |
+|---|---|---|---|
+| Operació prevista | Què es vol aconseguir | Què ha d'estar preparat prèviament | Pendent / en curs / completada / modificada |
+
+### 18.9.3. Fitxa de control i avaluació
+
+| Criteri | Pregunta de control |
+|---|---|
+| Objectius | S'està assolint el resultat previst? |
+| Cromatisme | Els colors mantenen una relació coherent? |
+| Valors | La jerarquia tonal facilita la lectura? |
+| Il·luminació | La distribució lumínica és consistent? |
+| Materials | Les superfícies conserven una identitat recognoscible? |
+| Tècniques | Cada procediment compleix una funció? |
+| Compatibilitat | Les aplicacions mantenen una relació adequada? |
+| Seqüenciació | L'ordre facilita el procés? |
+| Control | S'han detectat i tractat els problemes rellevants? |
+| Finalització | Les intervencions addicionals aportarien una millora significativa? |
+
+## 18.10. Exercicis pràctics
+
+### 18.10.1. Anàlisi inicial d'una miniatura
+
+**Objectiu:** aprendre a identificar les característiques i les dificultats que condicionen un procés de pintura.
+
+**Desenvolupament:**
+1. Seleccionar una miniatura sense pintar.
+2. Analitzar-ne la geometria, l'escala i els components.
+3. Identificar els materials que es pretenen representar.
+4. Localitzar les superfícies de difícil accés.
+5. Reconèixer els elements principals i secundaris.
+6. Elaborar una llista de necessitats tècniques.
+
+**Resultat esperat:** disposar d'una anàlisi inicial que permeti organitzar el treball abans de seleccionar les tècniques.
+
+### 18.10.2. Definició d'objectius i prioritats
+
+**Objectiu:** transformar una intenció estètica general en objectius concrets i avaluables.
+
+**Desenvolupament:**
+1. Seleccionar una miniatura o una referència visual.
+2. Descriure l'aparença final que es pretén aconseguir.
+3. Identificar els elements que han de destacar.
+4. Separar objectius principals, secundaris i complementaris.
+5. Establir quins aspectes es poden simplificar.
+6. Definir criteris per valorar el resultat.
+
+**Resultat esperat:** disposar d'una jerarquia d'objectius que permeti orientar les decisions tècniques.
+
+### 18.10.3. Planificació cromàtica i lumínica
+
+**Objectiu:** integrar les decisions cromàtiques i d'il·luminació abans de començar l'execució.
+
+**Desenvolupament:**
+1. Seleccionar una miniatura.
+2. Identificar-ne les superfícies principals.
+3. Establir una paleta general.
+4. Determinar els contrastos prioritaris.
+5. Definir la direcció principal de la il·luminació.
+6. Assenyalar les zones de més i menys influència lluminosa.
+7. Identificar possibles fonts secundàries.
+8. Elaborar un esquema de planificació.
+
+**Resultat esperat:** obtenir una referència cromàtica i lumínica coherent amb l'estructura de la miniatura.
+
+### 18.10.4. Selecció i seqüenciació de tècniques
+
+**Objectiu:** seleccionar procediments adequats i establir un ordre de treball raonat.
+
+**Desenvolupament:**
+1. Partir de l'anàlisi d'una miniatura.
+2. Identificar les necessitats de cada superfície.
+3. Consultar els procediments disponibles als capítols 8–17.
+4. Seleccionar les tècniques necessàries.
+5. Identificar-ne les dependències i possibles incompatibilitats.
+6. Organitzar les operacions per zones, materials o fases.
+7. Justificar l'ordre escollit.
+8. Assenyalar quines operacions es podrien modificar durant l'execució.
+
+**Resultat esperat:** disposar d'un pla de treball adaptat a una miniatura concreta, sense aplicar una seqüència universal.
+
+### 18.10.5. Avaluació de resultats parcials
+
+**Objectiu:** desenvolupar criteris per revisar el treball durant l'execució i modificar la planificació quan sigui necessari.
+
+**Desenvolupament:**
+1. Realitzar una fase de pintura sobre una miniatura o superfície de prova.
+2. Comparar el resultat amb l'objectiu inicial.
+3. Identificar els aspectes que funcionen correctament.
+4. Reconèixer els problemes rellevants.
+5. Determinar-ne la causa probable.
+6. Decidir si convé continuar, corregir o modificar la tècnica.
+7. Registrar la decisió i la seva justificació.
+
+**Resultat esperat:** comprendre que la planificació s'ha d'adaptar a la informació obtinguda durant el treball.
+
+### 18.10.6. Exercici integrador: planificació, execució i avaluació d'una miniatura
+
+**Objectiu:** aplicar els criteris del capítol a un procés complet.
+
+**Desenvolupament:**
+1. Seleccionar una miniatura adequada al nivell tècnic disponible.
+2. Realitzar l'anàlisi inicial.
+3. Definir el resultat buscat i les prioritats.
+4. Identificar els materials i les superfícies.
+5. Elaborar una planificació cromàtica i lumínica.
+6. Seleccionar les tècniques i les eines necessàries.
+7. Establir una seqüència d'operacions.
+8. Executar el treball seguint el pla com a referència.
+9. Realitzar controls en moments rellevants.
+10. Registrar les modificacions introduïdes.
+11. Avaluar el resultat des de diferents distàncies.
+12. Identificar els objectius assolits i els aspectes millorables.
+13. Aplicar les correccions necessàries.
+14. Documentar el procés i establir conclusions per a treballs futurs.
+
+**Resultat esperat:** completar un procés de pintura organitzat, fonamentat i avaluable, demostrant capacitat per seleccionar i combinar tècniques i adaptar les decisions a les condicions reals d'execució.
+
+## Síntesi del capítol
+
+La planificació integral coordina l'anàlisi de la miniatura, la definició d'objectius, les decisions cromàtiques i lumíniques, la selecció de recursos, la seqüenciació i l'avaluació. No hi ha un ordre universal: les operacions depenen de la geometria, els materials, l'accessibilitat i la compatibilitat. El pla ha de ser flexible i revisar-se en punts de control. La correcció ha de respondre a la causa del problema i ser proporcional. La documentació de les decisions rellevants facilita comprendre i millorar el procés.
+
+## Figures proposades per a la fase gràfica final
+
+1. Fitxa d'anàlisi inicial de la miniatura.
+2. Esquema de planificació cromàtica, tonal i lumínica.
+3. Arbre de selecció de tècniques segons l'objectiu visual.
+4. Diagrama de dependències i alternatives de seqüenciació, sense ordre universal.
+5. Comparació entre organització per zones, materials i fases.
+6. Cicle de control: execució, observació, avaluació, ajust i continuació.
+7. Fitxa de control i avaluació integral.
+8. Exemple de registre de decisions i modificacions.
+
+## Registre editorial
+
+- Estructura: deu apartats, síntesi i sis exercicis.
+- Eines de consulta: fitxa inicial, registre de seqüenciació i fitxa de control i avaluació.
+- Enfocament: organització global i presa de decisions; no repeteix les tècniques individuals.
+- Criteri central: la planificació és una referència flexible que s'ha de poder modificar durant l'execució.
+- Estat: síntesi basada en el document de referència. No s'han realitzat proves físiques.

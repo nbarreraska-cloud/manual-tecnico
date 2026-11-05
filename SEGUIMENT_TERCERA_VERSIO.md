@@ -199,7 +199,7 @@ Aquests 39 Markdown són la representació operativa dels continguts de la segon
 - Fase 1 — auditoria comparativa dels 39 capítols: completada (39/39).
 - Fase 2 — consolidació del Registre Mestre: en curs; versió vigent 1.57. Resta revisar la totalitat de les files de la matriu i les anotacions històriques per assegurar la conciliació completa dels estats.
 - Fase 3 — aplicació de recuperacions RT/RD i ajustos AE: completada per a les accions identificades a la matriu.
-- Fase 4 — validació dels 39 capítols: en curs. La revisió semàntica de remissions C1–C39 i la comprovació estructural global dels 39 Markdown estan completades. Tenen coteig documental de contingut completat C5, C7–C10, C12–C13, C20–C24, C25–C29, C33 i C38; C4 i C6 tenen revisió de correspondència estructural i didàctica principal, però no coteig textual integral; C11 i C14–C19 tenen revisions limitades contra material consolidat disponible, sense originals complets recuperats quan així consta a la font; C30–C32 i C36 tenen revisió de contingut amb la font disponible. Resta completar els cotejos dels capítols encara no revisats.
+- Fase 4 — validació dels 39 capítols: en curs. La revisió semàntica de remissions C1–C39 i la comprovació estructural global dels 39 Markdown estan completades. Tenen coteig documental de contingut completat C4–C10, C12–C13, C20–C24, C25–C29, C33–C34 i C38; C11 i C14–C19 tenen revisions limitades contra material consolidat disponible, sense originals complets recuperats quan així consta a la font; C30–C32 i C36 tenen revisió de contingut amb la font disponible. Resta completar els cotejos dels capítols encara no revisats.
 - Fase 5 — annexos A–E: pendent; no iniciar fins a estabilitzar els 39 capítols.
 - Fase 6 — auditoria global de coherència: completada el 05/11/2026, amb passada transversal C1–C39.
 - Fase 7 — revisió gràfica i maquetació Word: pendent, després de F4 i F5.
@@ -866,7 +866,7 @@ Aquesta secció és la referència operativa més recent i preval sobre les inst
 - **F1:** auditoria comparativa completada per als 39 capítols.
 - **F2:** en curs; el Registre Mestre està actualitzat a la versió 1.57. Resta revisar la totalitat de les files de la matriu i les anotacions històriques per completar la conciliació.
 - **F3:** completada per a les accions RT/RD/AE identificades a la matriu.
-- **F4:** en curs. La revisió semàntica de remissions C1–C39 i la comprovació estructural global dels 39 Markdown estan completades. Tenen coteig documental de contingut completat C5, C7–C10, C12–C13, C20–C24, C25–C29, C33 i C38; C4 i C6 tenen revisió de correspondència estructural i didàctica principal, però no coteig textual integral; C11 i C14–C19 tenen revisions limitades contra material consolidat disponible, sense originals complets recuperats quan així consta a la font; C30–C32 i C36 tenen revisió de contingut amb la font disponible. No es considera validada la totalitat dels 39 capítols.
+- **F4:** en curs. La revisió semàntica de remissions C1–C39 i la comprovació estructural global dels 39 Markdown estan completades. Tenen coteig documental de contingut completat C4–C10, C12–C13, C20–C24, C25–C29, C33–C34 i C38; C11 i C14–C19 tenen revisions limitades contra material consolidat disponible, sense originals complets recuperats quan així consta a la font; C30–C32 i C36 tenen revisió de contingut amb la font disponible. No es considera validada la totalitat dels 39 capítols.
 - **F5:** pendent fins al tancament de F4.
 - **F6:** completada el 05/11/2026; auditoria global de coherència transversal C1–C39 tancada. No equival a validació experimental.
 - **F7:** pendent; revisió gràfica i maquetació Word després de F4 i F5.
@@ -880,7 +880,7 @@ La integritat de la compilació s'ha verificat recuperant de nou els 39 fitxers 
 ### Ordre operatiu vigent
 
 1. Conciliar el Registre Mestre i el Seguiment amb els estats reals de les auditories, retirant les instruccions històriques que ja no siguin vigents.
-2. Completar F4, prioritzant els cotejos de fidelitat documental i contingut dels capítols encara no revisats; la revisió semàntica de remissions C1–C39 i la comprovació estructural global dels 39 Markdown ja estan completades. C5 i C7–C10 tenen coteig documental de contingut completat; C12–C13, C20–C24, C25–C29, C33 i C38 també tenen coteig documental completat; C4 i C6 tenen revisió estructural/didàctica principal, però no coteig textual integral; C11 i C14–C19 tenen revisions limitades sobre material consolidat, sense originals complets recuperats quan així consta a la font; C30–C32 i C36 tenen revisió del contingut disponible.
+2. Completar F4, prioritzant els cotejos de fidelitat documental i contingut dels capítols encara no revisats; la revisió semàntica de remissions C1–C39 i la comprovació estructural global dels 39 Markdown ja estan completades. C4–C10 tenen coteig documental de contingut completat; C12–C13, C20–C24, C25–C29, C33–C34 i C38 també tenen coteig documental completat; C11 i C14–C19 tenen revisions limitades sobre material consolidat, sense originals complets recuperats quan així consta a la font; C30–C32 i C36 tenen revisió del contingut disponible.
 3. Sincronitzar i tornar a verificar la compilació consolidada si F4 produeix canvis als capítols.
 4. Només després de l'estabilització dels 39 capítols, iniciar F5 (annexos A–E).
 5. Abordar F7 (gràfica i maquetació Word) després dels annexos.
@@ -1057,3 +1057,7 @@ En la comprovació final de C23 s'ha detectat que el Markdown contenia dues secc
 ### F4 — coteig documental complet i recuperacions gràfiques de C33 (05/11/2026)
 
 S'ha completat el coteig de C33 amb «manual con estructura completa.docx». Es mantenen les tretze receptes A–M, les sis activitats pràctiques i les referències disponibles. S'han recuperat les explicacions del problema i les correccions dels deu errors, els vuit criteris d'avaluació i les descripcions completes de les deu propostes de figures per a MG, que la síntesi anterior havia reduït a títols o omès. S'han mantingut els límits entre cos ceràmic i esmalt, ceràmica i pedra, acabats i vernissos (C37–C38), i vidre/transparència (C34). No s'han alterat receptes ni proporcions ni s'han afegit resultats experimentals. C33 i la compilació C1–C39 s'han sincronitzat i verificat.
+
+### F4 — coteig documental complet i recuperacions gràfiques de C34 (05/11/2026)
+
+S'ha completat el coteig de C34 amb «manual con estructura completa.docx». S'han contrastat les distincions entre transparència, reflexió superficial, vores, gruix, curvatura, distorsió, vidre acolorit i esmerilat; els nou errors i els vuit criteris d'avaluació. S'han recuperat les explicacions dels problemes, el criteri de finalització i les descripcions completes de les deu figures per a MG, que la síntesi anterior havia omès. Es mantenen les receptes A–H, els sis exercicis i les referències disponibles, sense afegir proporcions ni resultats experimentals. C34 i la compilació C1–C39 s'han sincronitzat i verificat.

@@ -163,7 +163,7 @@ El document font conserva 243 propostes: 153 recuperades del Word original i 90 
 | 39.3 | Word original | Inspección de una miniatura. Comparación de observación general, inspección cercana e iluminación lateral. | 39.3 | Figura 39.3 (G146) | Inspecció d'una miniatura | 39.2.1. |
 | 39.4 | Word original | Clasificación de los problemas habituales. Mapa visual de las categorías: soporte, aplicación, color, iluminación, textura, efectos, acabados y daños físicos. | 39.4 | Figura 39.4 (G147) | Classificació dels problemes habituals | 39.3. |
 | 39.5 | Word original | Niveles de intervención. Representación de ajuste localizado, integración, reconstrucción parcial y recuperación general. | 39.5 | Figura 39.5 (G148) | Nivells d'intervenció | 39.5. |
-| 39.7 | Word original | Diagnóstico de alteraciones superficiales. Ejemplos de acumulación, textura irregular, pérdida de adherencia y alteración del brillo. | 39.7 | Figura 39.6 (G149) | Diagnòstic d'alteracions superficials | 39.7. |
+| 39.7 | Word original | Diagnóstico de alteraciones superficiales. Ejemplos de acumulación, textura irregular, pérdida de adherencia y alteración del brillo. | 39.7 | Figura 39.6 (G149) | Diagnòstic d'alteracions superficials | apartat 39.2.3. |
 | 39.10 | Word original | Árbol de decisión para corregir o conservar. Esquema que permita decidir si conviene intervenir, integrar, reconstruir, recuperar o mantener el resultado. | 39.10 | Figura 39.7 (G150) | Arbre de decisió: corregir o conservar | 39.5.1–39.5.2. |
 
 ## Fusions P1

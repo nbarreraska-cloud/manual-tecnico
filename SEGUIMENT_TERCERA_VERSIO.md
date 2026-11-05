@@ -281,3 +281,32 @@ Comprovació inicial:
 ### Continuïtat immediata
 
 Els capítols 28 i 29, dues recuperacions tècniques d'alta prioritat, ja tenen intervencions aplicades. La següent recuperació d'alta prioritat identificada a la matriu és el capítol 38 (protecció, barnissat i conservació). Abans de modificar-lo, recuperar el seu Markdown actual i el text original complet, contrastar l'abast i preservar les distincions amb el capítol 37.
+
+
+### Capítol 38 — protecció, barnissat i conservació (05/11/2026)
+
+S'ha recuperat el contingut del capítol 38 comparant el Markdown de la segona síntesi amb el text original.
+
+Intervenció aplicada:
+- Recuperats els fonaments de la protecció superficial: funció i límits de la capa protectora, relació amb la pel·lícula pictòrica, caràcter no absolut de la resistència i distinció entre assecat superficial, assecat al tacte i estabilització/curat.
+- Restituïda la delimitació amb el capítol 37: aparença i brillantor d'una banda, funció protectora i conservació de l'altra.
+- Mantinguts els apartats sobre productes, selecció segons ús i suport, preparació, aplicació a pinzell/aerògraf/aerosol, compatibilitat, acumulacions, proves de resistència i conservació.
+- Recuperats els nou errors freqüents amb conseqüències i correccions, així com els criteris d'avaluació final.
+- Desenvolupats els sis exercicis amb objectiu, materials, procediment i avaluació.
+- Recuperada la síntesi conceptual del capítol.
+- Les 10 propostes de figures originals no s'han inserit al capítol; queden reservades per a la fase MG.
+
+Comprovació inicial:
+- 5 subseccions de fonaments de protecció presents.
+- 6 subseccions de procediments d'aplicació presents.
+- 6 exercicis pràctics presents.
+- 10 apartats de control d'errors i avaluació presents (incloent el criteri d'avaluació final).
+- Síntesi i referències diferenciades.
+- Cap encapçalament duplicat detectat.
+- La delimitació amb els capítols 37 i 39 queda explícita.
+
+**Estat:** recuperació aplicada; comprovació estructural inicial superada; validació semàntica i coteig complet pendents. No s'han afegit afirmacions de resistència universal ni paràmetres d'aplicació no documentats.
+
+### Continuïtat immediata
+
+Les recuperacions RT d'alta prioritat dels capítols 28 i 29 i la recuperació RT/RD d'alta prioritat del capítol 38 ja estan aplicades. Continuar amb les intervencions RT/RD de prioritat mitjana encara pendents, sense reobrir els capítols classificats SC. La validació de les intervencions ja aplicades continua sent una tasca separada i no s'ha de donar per completada per les comprovacions estructurals inicials.

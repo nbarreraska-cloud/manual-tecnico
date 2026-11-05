@@ -15,7 +15,7 @@ Les combinacions són propostes tècniques basades en les 48 pintures de referè
 - **Ante:** superfície fibrosa i vellutada, amb reflexió difusa. Evitar línies brillants i textura massa uniforme.
 - **Nobuk:** s'obté tractant la cara de gra; pot recordar l'ante, però conserva una lectura més pròxima al gra i una textura fina. La distinció és orientativa i depèn del producte.
 - **Cuir rígid o gruixut:** habitual en soles, fundes i proteccions; cal representar gruix, cantells i plecs menys tous.
-- **cuir encerat, polit o brillant:** pot presentar reflexos localitzats i diferències entre zones exposades al fregament i zones protegides. Cal separar color del material i resposta de l'acabat. El control del brillantor correspon al capítol 37.
+- **cuir encerat, polit o brillant:** pot presentar reflexos localitzats i diferències entre zones exposades al fregament i zones protegides. Cal separar color del material i resposta de l'acabat. El control de la brillantor correspon al capítol 37.
 - **Pells amb pèl:** la lectura depèn de la base i de la longitud, densitat i orientació del pèl. No s'han de representar com cuir marró amb línies afegides.
 - **Pell sense adobar, cuir adobat i pergamí:** són materials diferents. La pell sense adobar conserva característiques de la pell animal; el cuir adobat ha estat transformat mitjançant adob; el pergamí es prepara per un procediment diferent i pot ser clar i relativament rígid. Poden compartir colors, però no necessàriament textura ni geometria.
 

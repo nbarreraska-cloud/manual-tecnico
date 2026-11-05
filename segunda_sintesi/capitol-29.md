@@ -43,7 +43,7 @@ Referències disponibles: Deck Tan (70.986), Japanese Uniform WWII (70.923), Par
 - Aclarits: Ice Yellow (70.858).
 - Ombres localitzades: Japanese Uniform WWII (70.923).
 
-Aplicar una pel·lícula lleugera a les zones d'acumulació; introduir variacions d'Ivory i petits accents d'Ice Yellow; afegir ombres discretes a zones protegides. Conservar part del color original: és una capa de pols, no una acumulació gruixuda.
+Procediment proposat:\n1. Identificar les zones on s'acumularia la pols.\n2. Establir una aplicació lleugera de Deck Tan.\n3. Introduir variacions d'Ivory.\n4. Reservar Ice Yellow per a petits accents.\n5. Afegir Japanese Uniform WWII en algunes zones protegides.\n6. Evitar cobrir completament el color original: es representa una pel·lícula de pols, no una acumulació gruixuda.
 
 **Recepta B. Pols beix i sorrenc**
 - Base: Deck Tan.
@@ -52,7 +52,7 @@ Aplicar una pel·lícula lleugera a les zones d'acumulació; introduir variacion
 - Aclarits: Ivory.
 - Accents: Ice Yellow.
 
-Establir base clara, introduir variacions càlides irregulars i aclarir zones exposades. Diferenciar plans horitzontals i verticals.
+Procediment proposat:\n1. Establir una base clara amb Deck Tan.\n2. Introduir variacions càlides amb Japanese Uniform WWII i Parasite Brown.\n3. Distribuir els tons de manera irregular.\n4. Aclarir algunes zones exposades amb Ivory i Ice Yellow.\n5. Diferenciar la distribució sobre plans horitzontals i verticals.
 
 **Recepta C. Pols de terra rogenca**
 - Base: Parasite Brown.
@@ -61,7 +61,7 @@ Establir base clara, introduir variacions càlides irregulars i aclarir zones ex
 - Aclarits: Deck Tan.
 - Accents: Ivory.
 
-Construir el to rogenc, introduir marrons i petites zones fosques i aclarir selectivament. Evitar una distribució uniforme del vermell.
+Procediment proposat:\n1. Establir el to rogenc principal amb Parasite Brown.\n2. Introduir variacions amb Burnt Red.\n3. Afegir petites zones fosques amb Dark Rust.\n4. Aclarir selectivament amb Deck Tan i Ivory.\n5. Evitar una distribució uniforme del vermell.
 
 **Recepta D. Pols fosca i terra seca**
 - Base: Japanese Uniform WWII.
@@ -70,7 +70,7 @@ Construir el to rogenc, introduir marrons i petites zones fosques i aclarir sele
 - Ombres: Black.
 - Aclarits: Deck Tan.
 
-Establir base marró, introduir zones fosques i variacions càlides i aclarir alguns dipòsits sense convertir la superfície en un bloc negre.
+Procediment proposat:\n1. Establir una base marró amb Japanese Uniform WWII.\n2. Introduir zones fosques amb Dark Rust.\n3. Afegir variacions càlides amb Parasite Brown.\n4. Aclarir alguns dipòsits amb Deck Tan.\n5. Evitar que tota la superfície es converteixi en un bloc negre.
 
 **Recepta E. Pols i dipòsits en superfícies verticals**
 - Principal: Deck Tan.
@@ -78,7 +78,7 @@ Establir base marró, introduir zones fosques i variacions càlides i aclarir al
 - To càlid: Parasite Brown.
 - Aclarits: Ivory.
 
-Aplicar variacions lleugeres en zones de retenció; introduir dipòsits discontinus i rastres verticals quan la geometria ho permeti; evitar marques paral·leles i repetitives.
+Procediment proposat:\n1. Identificar les zones on el pols pot quedar retingut.\n2. Aplicar variacions lleugeres amb Deck Tan i Japanese Uniform WWII.\n3. Introduir dipòsits discontinus.\n4. Afegir rastres verticals quan la geometria ho permeti.\n5. Evitar marques paral·leles, repetitives o d'intensitat constant.
 
 **Recepta F. Terra seca acumulada**
 - Base: Japanese Uniform WWII.
@@ -87,17 +87,66 @@ Aplicar variacions lleugeres en zones de retenció; introduir dipòsits disconti
 - Aclarits: Deck Tan.
 - Accents clars: Ivory.
 
-Concentrar dipòsits en cavitats i zones protegides; situar foscos a l'interior, introduir marrons i recuperar algunes vores. No totes les cavitats acumulen la mateixa quantitat.
+Procediment proposat:\n1. Identificar cavitats i zones protegides.\n2. Establir el to principal amb Japanese Uniform WWII i Parasite Brown.\n3. Concentrar els tons foscos de Dark Rust a l'interior.\n4. Introduir variacions marrons.\n5. Recuperar algunes vores amb Deck Tan i Ivory.\n6. Evitar que totes les cavitats presentin la mateixa acumulació.
 
 ## 29.4. Terra i terrenys compactats
 
-**Recepta G. Terra marró natural:** base Japanese Uniform WWII; to principal Parasite Brown; variació fosca Dark Rust; ombres profundes Black; aclarits Deck Tan. Construir base marró, variacions càlides, foscos selectius i aclarits segons geometria.
+**Recepta G. Terra marró natural**
+- Base: Japanese Uniform WWII (70.923).
+- To principal: Parasite Brown (72.042).
+- Variació fosca: Dark Rust (70.771).
+- Ombres profundes: Black (70.950).
+- Aclarits: Deck Tan (70.986).
 
-**Recepta H. Terra rogenca:** base Parasite Brown; variació Burnt Red; profunditat Dark Rust; accents càlids Hot Orange; aclarits Deck Tan. Evitar saturació excessiva.
+Procediment proposat:
+1. Establir una base marró.
+2. Introduir variacions càlides.
+3. Enfosquir algunes zones.
+4. Aclarir àrees seleccionades.
+5. Distribuir les variacions segons la geometria del terreny.
 
-**Recepta I. Terra fosca:** base Dark Rust; to principal Japanese Uniform WWII; variació Parasite Brown; ombres Black; aclarits Deck Tan. Mantenir zones profundes i afegir petites àrees més clares per evitar uniformitat negra.
+**Recepta H. Terra rogenca**
+- Base: Parasite Brown (72.042).
+- Variació: Burnt Red (70.814).
+- Profunditat: Dark Rust (70.771).
+- Accents càlids: Hot Orange (72.009).
+- Aclarits: Deck Tan (70.986).
 
-**Recepta J. Terra compactada:** base Japanese Uniform WWII; variació càlida Parasite Brown; ombres Dark Rust; aclarits Deck Tan; accents Ivory. Construir una superfície relativament contínua, amb variacions moderades i irregularitats selectives, sense granularitat excessiva.
+Procediment proposat:
+1. Establir una base rogenca.
+2. Introduir variacions marrons.
+3. Enfosquir zones seleccionades.
+4. Afegir petits accents taronges.
+5. Aclarir algunes zones exposades.
+6. Evitar una saturació excessiva dels tons càlids.
+
+**Recepta I. Terra fosca**
+- Base: Dark Rust (70.771).
+- To principal: Japanese Uniform WWII (70.923).
+- Variació: Parasite Brown (72.042).
+- Ombres: Black (70.950).
+- Aclarits: Deck Tan (70.986).
+
+Procediment proposat:
+1. Establir una base fosca.
+2. Introduir variacions marrons.
+3. Mantenir zones profundes.
+4. Afegir petites àrees de terra més clara.
+5. Evitar que tota la superfície quedi coberta de negre.
+
+**Recepta J. Terra compactada**
+- Base: Japanese Uniform WWII (70.923).
+- Variació càlida: Parasite Brown (72.042).
+- Ombres: Dark Rust (70.771).
+- Aclarits: Deck Tan (70.986).
+- Accents clars: Ivory (70.918).
+
+Procediment proposat:
+1. Establir una superfície de terra relativament contínua.
+2. Introduir variacions cromàtiques moderades.
+3. Diferenciar les zones més fosques.
+4. Afegir irregularitats mitjançant aplicacions selectives.
+5. Evitar una textura excessivament granular quan es representa un terreny compacte.
 
 Quan el terreny inclou pedres, diferenciar terra fina, acumulacions entre fragments, zones compactades per contacte i variacions entre materials. Les pedres es representen segons el capítol 26; no han de compartir necessàriament el color de la terra.
 
@@ -110,7 +159,7 @@ Quan el terreny inclou pedres, diferenciar terra fina, acumulacions entre fragme
 - Ombres: Black.
 - Aclarits localitzats: Burnt Red.
 
-Establir base fosca, introduir marrons, conservar zones profundes i afegir variacions càlides. Coordinar l'acabat amb la humitat buscada; no ha de semblar simplement una superfície negra.
+Procediment proposat:\n1. Establir una base fosca amb Dark Rust.\n2. Introduir variacions marrons amb Japanese Uniform WWII i Parasite Brown.\n3. Conservar algunes zones profundes.\n4. Afegir petites variacions càlides amb Burnt Red.\n5. Coordinar l'acabat superficial amb l'aspecte humit buscat.\n6. Evitar que el fang sembli simplement una superfície negra.
 
 **Recepta L. Fang marró compacte**
 - Base: Japanese Uniform WWII.
@@ -119,7 +168,7 @@ Establir base fosca, introduir marrons, conservar zones profundes i afegir varia
 - Ombres: Black.
 - Aclarits: Deck Tan.
 
-Construir base marró, concentrar foscos en zones seleccionades i mantenir aparença compacta sense granularitat excessiva.
+Procediment proposat:\n1. Establir una base marró amb Japanese Uniform WWII.\n2. Introduir el to principal amb Parasite Brown.\n3. Concentrar Dark Rust i Black en zones seleccionades.\n4. Afegir aclarits discrets amb Deck Tan.\n5. Mantenir una aparença compacta, sense granularitat excessiva.
 
 **Recepta M. Fang rogenc**
 - Base: Parasite Brown.
@@ -128,7 +177,7 @@ Construir base marró, concentrar foscos en zones seleccionades i mantenir apare
 - Accents: Hot Orange.
 - Ombres: Black.
 
-Introduir variacions marrons, enfosquir zones profundes i afegir taronges selectius.
+Procediment proposat:\n1. Establir una base amb Parasite Brown.\n2. Introduir variacions amb Burnt Red.\n3. Enfosquir les zones profundes amb Dark Rust i Black.\n4. Afegir petits accents de Hot Orange.\n5. Mantenir una distribució irregular.
 
 **Recepta N. Fang sec**
 - Base: Japanese Uniform WWII.
@@ -137,7 +186,7 @@ Introduir variacions marrons, enfosquir zones profundes i afegir taronges select
 - Aclarits: Ivory.
 - Ombres: Dark Rust.
 
-Construir base marró, introduir variacions de terra seca i aclarir zones exposades. Diferenciar esquerdes i depressions.
+Procediment proposat:\n1. Establir una base marró amb Japanese Uniform WWII.\n2. Introduir variacions amb Parasite Brown.\n3. Aclarir les zones exposades amb Deck Tan i Ivory.\n4. Diferenciar esquerdes i depressions amb Dark Rust.\n5. Evitar que totes les zones presentin el mateix nivell d'aclarit.
 
 **Recepta O. Esquitxades de fang**
 - Base cromàtica: Parasite Brown.
@@ -146,7 +195,7 @@ Construir base marró, introduir variacions de terra seca i aclarir zones exposa
 - Accents clars: Deck Tan.
 - Ombres: Black.
 
-Identificar direcció probable i zones de contacte. Construir taques de mides i intensitats diferents, concentrant-ne part prop de l'origen de la projecció. La distribució ha de respondre al moviment i la geometria, no a l'atzar.
+Procediment proposat:\n1. Identificar la direcció probable de les salpicadures.\n2. Seleccionar les zones de contacte i exposició.\n3. Introduir taques de diferents mides.\n4. Variar-ne la intensitat cromàtica.\n5. Concentrar-ne una part prop de les zones d'origen de la projecció.\n6. Evitar una distribució uniforme o aleatòria sense lògica espacial.
 
 ## 29.6. Brutícia, rastres i dipòsits localitzats
 
@@ -157,7 +206,7 @@ Identificar direcció probable i zones de contacte. Construir taques de mides i 
 - Ombres: Black.
 - Aclarits: Deck Tan.
 
-Identificar zones manipulades, fregades o de contacte; introduir base marró, enfosquir algunes àrees i afegir variacions de terra. Conservar zones netes per evitar una taca contínua.
+Procediment proposat:\n1. Identificar les zones manipulades, fregades o de contacte.\n2. Introduir una base marró amb Japanese Uniform WWII.\n3. Enfosquir algunes àrees amb Dark Rust i Black.\n4. Afegir variacions de terra amb Parasite Brown.\n5. Conservar zones netes per evitar una taca contínua.\n6. Comprovar que la brutícia correspon a l'ús representat.
 
 En cavitats, juntes i unions es poden adaptar F, G o P. Cal diferenciar dipòsit interior, superfície original, transició i acumulacions denses. No totes les juntes necessiten la mateixa intensitat.
 
@@ -167,51 +216,167 @@ En cavitats, juntes i unions es poden adaptar F, G o P. Cal diferenciar dipòsit
 - Variació fosca: Dark Rust.
 - Aclarits: Deck Tan.
 
-Identificar origen i direcció segons gravetat i geometria; construir una marca irregular, variar-ne la intensitat al llarg del recorregut i integrar-la amb la superfície. Evitar línies rectes i uniformes.
+Procediment proposat:\n1. Identificar l'origen del rastre.\n2. Seleccionar una direcció coherent amb la gravetat i la geometria.\n3. Construir una marca irregular amb Japanese Uniform WWII i Parasite Brown.\n4. Variar-ne la intensitat al llarg del recorregut amb Dark Rust.\n5. Integrar el rastre amb la superfície i evitar línies rectes i uniformes.
 
 **Roba, equipament i vehicles:** la roba acumula pols i fang a parts baixes, plecs, costures, vores i zones de contacte. Es poden adaptar A, B, C, N i P segons l'entorn. En vehicles i maquinària cal observar rodes, orugues, baixos, parafangs, unions, recovecos, plans horitzontals i zones pròximes al terreny. Els baixos poden tenir dipòsits intensos; altres zones, pols fina o rastres d'escorriment. No aplicar el mateix efecte a tota la carrosseria.
 
-## 29.7. Adaptació a geometries i escales
+## 29.7. Adaptació a diferents superfícies i escales
 
-- Plans horitzontals: poden retenir pols i partícules segons orientació, exposició i protecció.
-- Plans verticals: poden presentar capes fines, dipòsits localitzats i rastres d'escorriment; evitar línies paral·leles i taques regulars.
-- Superfícies corbes: seguir la geometria i concentrar dipòsits en zones plausibles de contacte o exposició.
-- Geometries complexes: respectar unions, recovecos, vores i canvis de pla sense ocultar l'estructura.
+### 29.7.1. Superfícies horitzontals
 
-L'escala condiciona mida de taques, nombre d'esquitxades, densitat, contrast i extensió. No cal reproduir totes les irregularitats reals, sinó les senyals visuals necessàries. Pols, fang i brutícia poden coexistir: fang sec als baixos d'un vehicle, pols en plans horitzontals i brutícia fosca en unions. Cal mantenir jerarquia i no aplicar tots els efectes alhora.
+Les superfícies horitzontals poden retenir pols i partícules amb més facilitat que algunes superfícies verticals. Cal diferenciar les zones exposades de les protegides o sotmeses a contacte. L'acumulació no ha de ser uniforme: pot variar segons l'orientació, la forma, la rugositat i l'exposició.
 
-## 29.8. Control tècnic, errors i avaluació
+### 29.7.2. Superfícies verticals
 
-Durant l'aplicació, comprovar que l'efecte correspon al material, respecta la geometria, té intensitat adequada i conserva la identitat de la superfície original.
+En superfícies verticals, el pols i la brutícia poden aparèixer com a capes fines, dipòsits localitzats o rastres produïts per escorriment. Cal evitar taques massa regulars i línies paral·leles. La distribució ha de respectar la direcció de la superfície i els elements que poden retenir partícules.
 
-Errors i correccions:
-- Pols uniforme: variar intensitat i conservar zones originals.
-- Fang massa fosc: recuperar marrons i tons terrosos; reservar negre per a zones puntuals.
-- Terra massa taronja: combinar marrons, rogencs i neutres; reservar taronja per a accents.
-- Esquitxades regulars: variar mida, intensitat, orientació i densitat segons moviment.
-- Acumulacions que oculten geometria: reduir extensió i concentrar-les en zones justificades.
-- Rastres verticals rígids: introduir interrupcions i variacions.
-- Confondre pols i fang: revisar textura, cobertura, intensitat i acabat.
-- Confondre brutícia i corrosió: determinar si hi ha material dipositat o transformació del metall.
-- Excés d'efectes simultanis: seleccionar un efecte principal i mantenir els altres com a secundaris.
+### 29.7.3. Superfícies corbes i geometries complexes
 
-La representació és satisfactòria quan es reconeix el material o dipòsit, la distribució és coherent, les taques s'adapten a l'escala, la superfície original conserva identitat i el grau d'humitat o sequedat resulta convincent. El treball es pot donar per acabat quan els dipòsits compleixen la seva funció: no cal cobrir-ho tot ni afegir més taques per reforçar l'envelliment.
+En superfícies corbes, els dipòsits s'han d'adaptar a la geometria. En una roda o una bota poden concentrar-se prop de les zones de contacte amb el terreny; en una superfície arrodonida poden distribuir-se de manera desigual segons l'orientació. Les acumulacions han de conservar la lectura del volum i no ocultar innecessàriament la forma original.
+
+### 29.7.4. Adaptació a l'escala
+
+La mida de les taques, el nombre de salpicadures, la densitat, el contrast, l'extensió i la quantitat de textura s'han d'ajustar a l'escala. Una partícula visible en un objecte real pot resultar desproporcionada en una miniatura petita. Cal simplificar les irregularitats i conservar només les senyals visuals necessàries per reconèixer el material.
+
+### 29.7.5. Combinació de pols, fang i brutícia
+
+Els efectes poden coexistir, però s'han d'organitzar segons una jerarquia visual. Un vehicle pot presentar fang sec als baixos, pols sobre superfícies horitzontals i brutícia fosca a les unions. La combinació ha de mantenir una relació lògica entre materials, zones i condicions d'exposició. No és necessari aplicar tots els efectes disponibles; una selecció limitada sol facilitar una lectura més clara.
+
+## 29.8. Control tècnic, errors freqüents i criteris d'avaluació
+
+### 29.8.1. Control de la distribució
+
+Durant l'aplicació, comprovar si l'efecte correspon al material representat, si la distribució respecta la geometria, si les zones d'acumulació tenen una explicació visual, si la intensitat és adequada, si la superfície original continua sent recognoscible, si les variacions cromàtiques són suficients i si l'efecte està adaptat a l'escala.
+
+### 29.8.2. Pols massa uniforme
+
+Una superfície completament coberta amb el mateix to pot semblar pintada en lloc d'empolsada. **Correcció:** introduir variacions d'intensitat i conservar zones de la superfície original.
+
+### 29.8.3. Fang massa fosc
+
+L'ús excessiu de tons negres pot fer que el fang perdi les seves variacions cromàtiques. **Correcció:** introduir marrons i tons terrosos i reservar els tons més foscos per a zones seleccionades.
+
+### 29.8.4. Terra excessivament taronja
+
+Una superfície completament taronja pot perdre l'aparença de terra natural. **Correcció:** combinar tons marrons, rogencs i neutres, i utilitzar el taronja com a variació localitzada quan sigui adequat.
+
+### 29.8.5. Salpicadures regulars o repetitives
+
+La repetició de taques de mida i separació similars pot produir una aparença artificial. **Correcció:** variar mida, intensitat, orientació i densitat, mantenint una distribució compatible amb el moviment.
+
+### 29.8.6. Acumulacions que oculten la geometria
+
+Una capa massa extensa pot cobrir els detalls i alterar la lectura de l'objecte. **Correcció:** reduir-ne l'extensió i concentrar els dipòsits en zones justificades.
+
+### 29.8.7. Rastres verticals massa rígids
+
+Les línies rectes, paral·leles i de gruix constant poden semblar traços decoratius. **Correcció:** introduir irregularitats, interrupcions i variacions d'intensitat.
+
+### 29.8.8. Confusió entre pols i fang
+
+El pols fi i el fang compacte presenten característiques diferents. **Correcció:** revisar textura, grau de cobertura, intensitat cromàtica i acabat superficial.
+
+### 29.8.9. Confusió entre brutícia i corrosió
+
+Una taca marró sobre un metall no representa necessàriament corrosió. **Correcció:** identificar si es tracta de material dipositat o d'una transformació de la superfície metàl·lica; la corrosió correspon al capítol 28.
+
+### 29.8.10. Excés d'efectes simultanis
+
+La combinació de pols, fang, salpicadures i dipòsits pot saturar la superfície. **Correcció:** seleccionar un efecte principal i utilitzar els altres com a elements secundaris.
+
+### 29.8.11. Criteris d'avaluació
+
+La representació és satisfactòria quan es reconeix el tipus de material o dipòsit, l'efecte presenta una distribució coherent, la mida de les taques i acumulacions és adequada, les variacions cromàtiques contribueixen a la lectura, la superfície original conserva la seva identitat, el grau d'humitat o sequedat és convincent, els diferents efectes no es confonen i la brutícia queda integrada en l'escena.
+
+### 29.8.12. Criteri de finalització
+
+El treball es pot donar per acabat quan els dipòsits compleixen la seva funció visual i s'integren amb l'objecte i l'entorn. No cal cobrir totes les superfícies ni afegir més taques per reforçar l'aparença d'envelliment. Una distribució selectiva, amb zones netes i altres alterades, sol facilitar la lectura de la miniatura.
 
 ## 29.9. Exercicis pràctics
 
-1. **Pols clara i fosca:** preparar dos fons diferents; aplicar A i D; variar intensitat i extensió; comprovar que la capa no oculta el material original.
-2. **Terra natural:** establir base marró, introduir variacions càlides, enfosquir zones i afegir aclarits; diferenciar compactació i irregularitats.
-3. **Terra rogenca i fosca:** construir H i I; comparar tons i variacions; comprovar que la diferència no depèn només de la foscor.
-4. **Fang humit i sec:** aplicar K i N; diferenciar variacions cromàtiques i coordinar acabat amb humitat, sense dependre només de la brillantor.
-5. **Esquitxades i dipòsits:** seleccionar una superfície vertical i una de pròxima al terreny; determinar direcció; construir taques de mides diferents; avaluar-ne la lògica espacial.
-6. **Integració:** definir entorn, zones de pols, fang i brutícia; distribuir variacions; conservar àrees netes i materials originals; avaluar la relació de la miniatura amb l'entorn.
+### Exercici 1. Comparació de pols clar i pols fosc
+**Objectiu:** diferenciar dipòsits de pols segons la tonalitat i la superfície receptora.  
+**Materials:** Deck Tan (70.986), Ivory (70.918), Japanese Uniform WWII (70.923), Parasite Brown (72.042) i Black (70.950).  
+**Procediment:**
+1. Preparar dues superfícies de prova de colors diferents.
+2. Construir dipòsits clars mitjançant la recepta A.
+3. Construir dipòsits foscos mitjançant la recepta D.
+4. Variar la intensitat i l'extensió de les aplicacions.
+5. Comparar el contrast sobre tots dos fons.  
+**Avaluació:** comprovar que el pols es reconeix com una capa superficial i que no oculta innecessàriament el material original.
 
-## 29.10. Referències i recursos
+### Exercici 2. Construcció de terra natural
+**Objectiu:** representar una superfície de terra amb variacions cromàtiques.  
+**Materials:** Japanese Uniform WWII (70.923), Parasite Brown (72.042), Dark Rust (70.771), Black (70.950) i Deck Tan (70.986).  
+**Procediment:**
+1. Establir una base marró.
+2. Introduir variacions càlides.
+3. Enfosquir zones seleccionades.
+4. Afegir aclarits localitzats.
+5. Diferenciar zones compactades i zones irregulars.  
+**Avaluació:** comprovar que la superfície presenta variacions sense convertir-se en una textura uniforme.
 
-- Acrylicos Vallejo. Tutorials de modelisme sobre terreny, fang, pols, pigments, esquitxades i acumulacions.
-- Acrylicos Vallejo. *Using Dry Pigments*. Aplicació de pigments secs per representar pols i brutícia.
-- Acrylicos Vallejo. *Mud & Puddles Set*. Terreny enfangat, aigua acumulada i superfícies humides.
-- Acrylicos Vallejo. *Wet Terrain*. Terreny humit i bassals.
-- AK Interactive. *Dust & Dirt Deposits*. Distribució de dipòsits i acumulacions de pols i brutícia.
+### Exercici 3. Comparació entre terra rogenca i terra fosca
+**Objectiu:** reconèixer dues famílies cromàtiques de terreny.  
+**Materials:** Parasite Brown (72.042), Burnt Red (70.814), Dark Rust (70.771), Hot Orange (72.009), Black (70.950) i Deck Tan (70.986).  
+**Procediment:**
+1. Construir una superfície mitjançant la recepta H.
+2. Construir una altra mitjançant la recepta I.
+3. Comparar-ne els tons principals.
+4. Introduir variacions d'intensitat.
+5. Avaluar la diferència visual entre totes dues.  
+**Avaluació:** comprovar que les superfícies es distingeixen per la seva organització cromàtica i no només per la intensitat de la foscor.
+
+### Exercici 4. Construcció de fang humit i fang sec
+**Objectiu:** diferenciar els estats d'humitat del fang.  
+**Materials:** Dark Rust (70.771), Japanese Uniform WWII (70.923), Parasite Brown (72.042), Burnt Red (70.814), Deck Tan (70.986) i Black (70.950).  
+**Procediment:**
+1. Preparar dues superfícies de prova.
+2. Construir-ne una mitjançant la recepta K.
+3. Construir l'altra mitjançant la recepta N.
+4. Diferenciar les variacions cromàtiques.
+5. Coordinar l'aparença superficial amb l'estat d'humitat buscat.  
+**Avaluació:** comprovar que els dos estats es diferencien sense dependre exclusivament del brillantor.
+
+### Exercici 5. Construcció de salpicadures i dipòsits
+**Objectiu:** controlar la distribució de fang i brutícia sobre una superfície.  
+**Materials:** Parasite Brown (72.042), Dark Rust (70.771), Burnt Red (70.814), Deck Tan (70.986) i Black (70.950).  
+**Procediment:**
+1. Seleccionar una superfície vertical i una altra de pròxima al terreny.
+2. Identificar la direcció probable de les salpicadures.
+3. Construir taques de mides diferents.
+4. Introduir variacions cromàtiques.
+5. Comparar les diferències de distribució.  
+**Avaluació:** comprovar que les taques presenten una lògica espacial i no apareixen repartides de manera regular.
+
+### Exercici 6. Exercici integrador: miniatura exposada a un entorn de terra i fang
+**Objectiu:** combinar diferents efectes de terra, pols, fang i brutícia sobre una mateixa miniatura.  
+**Materials:** Deck Tan (70.986), Ivory (70.918), Japanese Uniform WWII (70.923), Parasite Brown (72.042), Dark Rust (70.771), Burnt Red (70.814), Hot Orange (72.009) i Black (70.950).  
+**Procediment:**
+1. Seleccionar una miniatura o superfície de prova amb diferents geometries.
+2. Definir l'entorn que es vol representar.
+3. Identificar les zones d'acumulació de pols.
+4. Seleccionar les àrees on apareixerà el fang.
+5. Distribuir taques i dipòsits de manera coherent.
+6. Introduir variacions cromàtiques.
+7. Conservar zones netes i superfícies originals.
+8. Avaluar la integració de tots els efectes.  
+**Avaluació:** comprovar que la miniatura transmet una relació coherent amb l'entorn, que els diferents dipòsits es distingeixen i que la brutícia no oculta innecessàriament els materials.
+
+## 29.10. Síntesi del capítol
+
+La terra, el pols, el fang, la brutícia i els dipòsits permeten representar la relació entre una miniatura i el seu entorn. Tot i que poden aparèixer conjuntament, cada material presenta característiques visuals diferents: el pols sol formar capes fines; la terra pot presentar diversos graus de granulometria i compactació; el fang combina sediments i humitat; i la brutícia engloba materials i residus acumulats.
+
+Per representar aquests efectes convé identificar l'entorn, seleccionar una família cromàtica, determinar les superfícies afectades i planificar la distribució dels dipòsits. La geometria, l'orientació, el moviment i el grau d'humitat condicionen el resultat.
+
+Les receptes utilitzen pintures de l'inventari de 48 referències i proporcionen combinacions de partida per representar diferents tipus de terreny i acumulacions. No són formulacions experimentades ni substitueixen els productes específics de textura o els pigments en pols. La finalitat és construir efectes visuals coherents, adaptats a l'escala i a la identitat dels materials, sense recórrer a una acumulació indiscriminada de taques o textures.
+
+## 29.11. Referències i recursos
+
+- Acrylicos Vallejo. [Tutorials de modelisme](https://vallejocolors.com/pages/tutoriales), amb procediments de terreny, fang, pols, pigments, salpicadures i acumulacions.
+- Acrylicos Vallejo. [Using Dry Pigments](https://acrylicosvallejo.com/wp-content/uploads/2021/02/vallejo-stepbystep-using-dry-pigments-EN.pdf). Aplicació de pigments secs per representar pols i brutícia.
+- Acrylicos Vallejo. [Mud & Puddles Set](https://acrylicosvallejo.com/wp-content/uploads/2021/07/vallejo-stepbystep-mud-puddles-set-EN.pdf). Terreny enfangat, aigua acumulada i superfícies humides.
+- Acrylicos Vallejo. [Wet Terrain](https://acrylicosvallejo.com/wp-content/uploads/2025/06/tutorial-vallejo-wet-terrain-EN.pdf). Terreny humit i bassals.
+- AK Interactive. [Dust & Dirt Deposits](https://www.ak-interactive.com/ak/XMAS2014/AK4060%20DUST%20AND%20DIRT%20DEPOSITS.pdf). Distribució de dipòsits i acumulacions de pols i brutícia.
 
 Aquests recursos serveixen com a referències de procediments de modelisme. Alguns utilitzen productes de textura, pigments, aglutinants o efectes d'aigua aliens a les 48 pintures del manual. No s'incorporen a les receptes ni les seves instruccions de barreja i assecat es converteixen en regles universals per a les pintures de l'inventari.

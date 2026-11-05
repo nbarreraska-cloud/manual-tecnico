@@ -774,3 +774,43 @@ La revisió de redundàncies ha identificat dues integracions addicionals:
 - **35.1 + 35.2:** l'anàlisi de dominants, secundaris i accents i el mapa de masses cromàtiques es resolen en dos panells d'una mateixa làmina.
 
 Es mantenen els 156 identificadors P1 i la seva traçabilitat, però la selecció queda organitzada en **150 composicions de treball**. No es descarta cap funció didàctica; es redueixen figures separades quan la informació pot conviure amb més coherència en una sola composició.
+
+
+## 23. Passada transversal de redundàncies i dependències — 05/11/2026
+
+S'ha iniciat la lectura transversal de les 150 composicions per detectar figures que expliquen el mateix fenomen amb noms diferents, que repeteixen una funció d'un altre capítol o que necessiten una remissió explícita. La decisió no es basa només en la semblança del títol: es comparen el nivell conceptual, l'objectiu didàctic i l'operació que el lector ha de comprendre.
+
+| Relació revisada | Decisió editorial | Condició per evitar duplicació |
+|---|---|---|
+| C3.1 (opacitat de pintures) / C6.5 (transmissió en materials) | Mantenir separades. | C3 tracta la capa pictòrica i la cobertura; C6 tracta la transmissió de llum i la visibilitat a través de materials. No reutilitzar la mateixa mostra ni el mateix vocabulari sense distingir els fenòmens. |
+| C5.6 (incidència/reflexió) / C6.4 (resposta òptica material) / C37.2–37.4 (acabats i brillantor) | Mantenir separades amb límits explícits. | C5 explica geometria i relació angular; C6 classifica indicis visuals de materials sense diagrames físics; C37 tracta l'aparença de l'acabat i la brillantor percebuda. Evitar repetir raigs, normals o el mateix exemple superficial. |
+| C15.8 / C18.1 | Mantenir separades. | C15.8 ha de descriure un procés específic de planificació lumínica; C18.1 integra la planificació de tot el treball de pintura. |
+| C16.1 / C19.3–19.6 | Mantenir separades. | C16.1 compara l'aparença TMM/NMM; C19 conté seqüències de construcció TMM per a metalls concrets. No convertir la comparació conceptual en una recepta. |
+| C17.1 i C17.8 / C32.8 | Mantenir separades amb remissió. | C17 desenvolupa font, superfície receptora i procediment OSL; C32.8 només ha de distingir manifestació energètica, aparença d'emissió i llum projectada, remetent a C17. |
+| C20.8 / C36.8 | Mantenir separades. | C20.8 compara estats superficials específics de la fusta; C36.8 és una comparació transversal del desgast en diversos materials. No repetir receptes de fusta a C36. |
+| C22 / C23 | Mantenir separades. | C22 tracta cuir i pells, incloses superfícies afelpades; C23 tracta estructures tèxtils, fibres, caiguda i plecs. No traslladar ante/nobuk a la classificació de teixits. |
+| C35.8 / C39.5 | Mantenir separades. | C35.8 compara l'abast d'una correcció cromàtica; C39.5 classifica nivells generals d'intervenció davant problemes tècnics. |
+| C37 / C38 | Mantenir separades. | C37 modifica i avalua l'aparença superficial; C38 tracta protecció de la pel·lícula pictòrica, compatibilitat, aplicació i conservació. Un mateix producte pot complir dues funcions, però s'han d'avaluar per separat. |
+| Errors específics dels capítols / C39.4 i C39.7 | Mantenir separades. | Les làmines d'errors específics ensenyen a reconèixer un problema d'un material o procediment; C39.4 classifica famílies de problemes i C39.7 documenta una correcció. No repetir la mateixa làmina diagnòstica. |
+
+### Integracions confirmades o proposades
+
+La passada ha consolidat sis parelles d'identificadors en composicions compartides:
+- 20.1 + 20.2.
+- 20.4 + 20.5.
+- 22.2 + 22.5.
+- 24.7 + 24.8 (condicionada a la llegibilitat dels dos panells).
+- 34.1 + 34.7 (amb remissió des de l'apartat 34.7).
+- 35.1 + 35.2.
+
+El recompte queda en **156 identificadors P1 i 150 composicions de treball**. Les P2 i P3 integrades en una composició continuen identificades com a contingut secundari, no com a figures addicionals.
+
+### Punts de control encara oberts
+
+1. Verificar que el text lector incorpori o pugui incorporar les remissions a les figures integrades, especialment 34.7→34.1 i 22.6→22.2.
+2. Comprovar la llegibilitat real de les làmines compostes 20.1+20.2, 20.4+20.5, 22.2+22.5, 24.7+24.8, 34.1+34.7 i 35.1+35.2 en una mida de pàgina real.
+3. Fer una passada final de duplicacions residuals entre les 150 composicions, especialment C6/C37 i C35/C39.
+4. Fixar la numeració editorial final després de validar les ubicacions i les remissions.
+5. Marcar per a cada figura si necessita fotografia/prova física o si és un esquema conceptual.
+
+Aquesta passada és una primera resolució de les relacions més evidents, no una certificació definitiva de totes les dependències. No s'han generat ni inserit imatges ni modificat els capítols.

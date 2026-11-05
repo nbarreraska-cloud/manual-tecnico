@@ -1,6 +1,6 @@
 # REGISTRE MESTRE DE RECUPERACIONS EDITORIALS
 **Manual tècnic de pintura de miniatures**  
-**Versió:** 1.34 · **Data:** 05/11/2026  
+**Versió:** 1.35 · **Data:** 05/11/2026  
 **Branca:** intervencion-editorial-2026-11
 
 ## 1. Funció i abast
@@ -334,3 +334,10 @@ S'ha executat una comprovació estructural dels 39 fitxers Markdown de treball. 
 Aquesta comprovació acredita la consistència formal bàsica dels encapçalaments i la numeració. No substitueix el coteig de contingut amb les fonts, la revisió tècnica de procediments ni la validació experimental de receptes.
 
 | 1.34 | 05/11/2026 | Conciliació de la metadada de F2 amb la versió vigent del Registre Mestre; es manté F2 en curs perquè la matriu per capítol i les anotacions històriques encara requereixen conciliació. Confirmada la sincronització de C18.8.5 i de les vuit referències recuperades a C5 en la compilació consolidada. |
+
+
+### F4 — coteig documental de contingut de C6 (05/11/2026)
+
+S'ha realitzat el coteig de contingut de C6 amb el tram corresponent de «manual con estructura completa.docx». Es confirma la conservació dels blocs conceptuals sobre estructura, geometria, textura i patrons; resposta òptica i comportaments direccionals; transparència, translucidesa, opacitat i profunditat interna; reconeixement i límits de la identificació visual; representació a escala miniatura; fitxa d'anàlisi; errors freqüents; mètode d'observació i quatre exercicis. Les cinc referències bibliogràfiques del capítol coincideixen amb les de la font consultada. No s'identifica cap pèrdua tècnica o didàctica substancial que justifiqui una recuperació addicional. Les vuit propostes de figures continuen reservades a MG i no s'han incorporat al Markdown. No s'ha modificat C6; la compilació consolidada conté exactament el fitxer actual. Aquest coteig documental no constitueix validació experimental.
+
+| 1.35 | 05/11/2026 | F4: coteig documental de contingut de C6 completat; sense recuperacions addicionals justificades ni canvis al capítol. Compilació C1–C39 verificada com a sincronitzada amb C6. |

@@ -108,7 +108,7 @@ Els fonaments es desenvolupen al capítol 4 i els criteris d'integració al cap�
 Per seleccionar productes concrets:
 
 1. Consultar l'Annex A per identificar les pintures disponibles.
-2. Revisar el capítol 3 per conèixer-ne les característiques i funcions.
+2. Revisar el capítol 3 per aplicar els criteris d'interpretació de les propietats i característiques documentades; no s'hi han de deduir propietats individuals que no estiguin verificades.
 3. Consultar l'Annex D quan es necessiti una mescla o combinació cromàtica documentada.
 4. Comprovar la recepta original i la seva funció abans de modificar la selecció.
 

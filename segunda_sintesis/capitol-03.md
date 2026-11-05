@@ -62,7 +62,7 @@ L'acabat descriu l'aparença de la pel·lícula seca, especialment la manera com
 
 L'acabat depèn de la formulació i pot veure's modificat pel gruix, la preparació del suport i els productes aplicats posteriorment. Dues superfícies de color semblant poden percebre's de manera diferent si tenen acabats diferents.
 
-S'ha d'avaluar quan la pintura sigui seca i amb condicions d'il·luminació comparables. Els procediments d'acabat i control de la brillantor corresponen al capítol 37; el vernissatge, la protecció i la conservació es desenvolupen al capítol 38.
+S'ha d'avaluar quan la pintura sigui seca i amb condicions d'il·luminació comparables. Els procediments d'acabat i control de la brillantor corresponen al capítol 37; el envernissament, la protecció i la conservació es desenvolupen al capítol 38.
 
 ### 3.2.5. Assecat i formació de la pel·lícula
 

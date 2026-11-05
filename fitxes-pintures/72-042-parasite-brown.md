@@ -28,16 +28,16 @@ Vallejo descriu la formulació de la gamma com més fluida i opaca, fàcil d'apl
 
 ## 4. Presència i funció dins del manual
 
-Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n reprodueix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
+Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n resumeix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
 
-- **Capítol 20:** `| Parasite Brown | 72.042 | Variacions marrons càlides |`
-- **Capítol 21:** `| Parasite Brown | 72.042 | Tons càlids i marrons |`
-- **Capítol 22:** `| Parasite Brown | 72.042 | Marrons càlids i naturals |`
-- **Capítol 23:** `| Parasite Brown | 72.042 | Marrons càlids |`
-- **Capítol 25:** `| Parasite- **Capítol 24:** `| Parasite Brown | 72.042 | Marrons càlids |`
-- **Capítol 26:** `| Parasite Brown | 72.042 | Variacions marrons i rogenques |`
+- **Capítol 20:** Variacions marrons càlides (funció indicada a la taula).
+- **Capítol 21:** Tons càlids i marrons (funció indicada a la taula).
+- **Capítol 22:** Marrons càlids i naturals (funció indicada a la taula).
+- **Capítol 23:** Marrons càlids (funció indicada a la taula).
+- **Capítol 24:** Marrons càlids (funció indicada a la taula).
+- **Capítol 25:** Ombres i variacions marrons (funció indicada a la taula).
+- **Capítol 26:** Variacions marrons i rogenques (funció indicada a la taula).
 - **Capítol 30:** menció contextual de Parasite Brown (72.042) al text del capítol; no és una fila de recepta.
- Brown | 72.042 | Ombres i variacions marrons |`
 
 Capítols amb aparicions identificades: C20, C21, C22, C23, C24, C25, C26, C30.
 

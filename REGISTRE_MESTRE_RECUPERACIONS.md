@@ -1,6 +1,6 @@
 # REGISTRE MESTRE DE RECUPERACIONS EDITORIALS
 **Manual tècnic de pintura de miniatures**  
-**Versió:** 1.13 · **Data:** 05/11/2026  
+**Versió:** 1.14 · **Data:** 05/11/2026  
 **Branca:** intervencion-editorial-2026-11
 
 ## 1. Funció i abast
@@ -100,7 +100,7 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 13 | RT · alta | F4: coteig de contingut completat amb la font disponible; es conserven les quatre tècniques (pinzell sec, puntejat, ratllat i esponjat), els procediments, les variables, aplicacions i limitacions, la combinació de tècniques, els nou blocs d'errors i els sis exercicis (13.10.1–13.10.6). No s'han identificat omissions substancials en el contingut lector. Les vuit propostes gràfiques es mantenen reservades a MG. |
 | 14 | SC · reobert per incidència substancial F4 | El text original complet no està localitzat; la versió és una consolidació basada en material disponible. En el coteig d'aquest material s'ha recuperat una distinció tècnica central que faltava explícitament al Markdown: transparència del producte pictòric versus transparència de l'objecte representat, inclosa com a error freqüent a la font. Recuperació puntual aplicada; no s'afirma validació integral de l'original. |
 | 15 | SC | F4 limitada: comprovada la correspondència estructural de deu apartats, sis exercicis i el focus de planificació lumínica amb el material disponible. No s'ha localitzat un text original complet; el capítol és una consolidació nova basada en l'índex i els acords recuperats. No es pot declarar coteig integral amb l'original. Sense canvis en aquesta passada. |
-| 16 | AE | Ajust de numeració i estructura de les geometries. Correcció aplicada; contingut NMM ampliat posteriorment. |
+| 16 | AE | Ajust de numeració i estructura de les geometries aplicat; contingut NMM ampliat posteriorment. F4 limitada: es comproven l'estructura de deu apartats, els sis exercicis i el procediment general disponible. La font declara que no s'ha recuperat un original complet; no es pot afirmar coteig integral. |
 | 17 | SC | Contingut protegit en l'auditoria inicial. Ampliació posterior d'OSL aplicada; validació global pendent. |
 | 18 | SC | Contingut protegit en l'auditoria inicial. Ampliació posterior de planificació, seqüenciació, control, avaluació i exercicis aplicada; no hi ha text original complet localitzat. |
 | 19 | SC | Receptes i ingredients protegits per l'auditoria. Posteriorment s'ha ampliat el contingut de metalls i la paleta/formulació; les propostes no s'han de presentar com a assajades. |
@@ -199,6 +199,7 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 1.11 | 05/11/2026 | F4: coteig de contingut de C12 i C13 completat amb la font disponible; no s'identifiquen omissions substancials en procediments, criteris, limitacions ni exercicis. Es manté pendent la conciliació de la metadada antiga de C12 i la normalització terminològica transversal. |
 | 1.12 | 05/11/2026 | F4: C14 reobert per una omissió tècnica substantiva identificada en el material font disponible: diferència entre transparència del producte pictòric i transparència de l'objecte representat. Recuperació puntual aplicada; límit documental preservat. |
 | 1.13 | 05/11/2026 | F4: comprovació limitada de C15; es preserva el límit de font (original complet no localitzat) i es confirma la correspondència estructural disponible de deu apartats i sis exercicis. Sense canvis de contingut. |
+| 1.14 | 05/11/2026 | F4: comprovació limitada de C16; es preserva el límit de font (versió consolidada nova, original complet no recuperat) i es confirma l'estructura de deu apartats i sis exercicis. Sense canvis de contingut. |
 
 Aquest registre és una consolidació operativa basada en l'auditoria i els resultats recuperats del projecte. Els punts marcats com a pendents o no validats s'han de comprovar amb el fitxer real i la font corresponent abans de declarar-los tancats.
 

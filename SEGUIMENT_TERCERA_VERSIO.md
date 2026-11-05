@@ -588,3 +588,12 @@ S'ha iniciat el coteig semàntic de F4 amb els capítols d'alta prioritat:
 - S'ha corregit una duplicació de codis introduïda durant la normalització i s'ha comprovat que cada referència apareix una sola vegada.
 
 Aquesta comprovació confirma les receptes i els materials dels exercicis, però no tanca tota la validació: encara cal revisar la coherència tècnica de les explicacions, els criteris de correcció, les referències i les delimitacions entre capítols.
+
+
+### Verificació de l'estat del repositori (05/11/2026)
+
+S'ha comprovat l'arbre recursiu de la branca: hi ha **39 fitxers Markdown de capítol**, sense cap número absent:
+- 11 fitxers a segunda_sintesis/ (capítols 01–11).
+- 28 fitxers a segunda_sintesi/ (capítols 12–39).
+
+La branca intervencion-editorial-2026-11 continua 181 commits per davant de main i 0 per darrere en el moment de la comprovació. main no s'ha modificat. Els fitxers REGISTRE_MESTRE_RECUPERACIONS.md i SEGUIMENT_TERCERA_VERSIO.md es mantenen a l'arrel com a documents de control.

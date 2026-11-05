@@ -880,7 +880,7 @@ La integritat de la compilació s'ha verificat recuperant de nou els 39 fitxers 
 ### Ordre operatiu vigent
 
 1. Conciliar el Registre Mestre i el Seguiment amb els estats reals de les auditories, retirant les instruccions històriques que ja no siguin vigents.
-2. Completar F4, prioritzant els cotejos de fidelitat documental i contingut dels capítols encara no revisats; la revisió semàntica de remissions C1–C39 i la comprovació estructural global dels 39 Markdown ja estan completades. C5 té coteig de contingut/bibliografia completat; C4 i C6 revisió estructural/didàctica principal; C7 revisió estructural/operativa; C8 i C9 revisió estructural/procedimental; C10 revisió estructural/tècnica.
+2. Completar F4, prioritzant els cotejos de fidelitat documental i contingut dels capítols encara no revisats; la revisió semàntica de remissions C1–C39 i la comprovació estructural global dels 39 Markdown ja estan completades. C5 i C7–C10 tenen coteig documental de contingut completat; C12–C13, C25–C29 i C38 també tenen coteig documental completat; C4 i C6 tenen revisió estructural/didàctica principal; C14–C18 tenen revisions limitades per absència d'original complet; C19 té coteig limitat; C30–C32 i C36 tenen revisió del contingut disponible.
 3. Sincronitzar i tornar a verificar la compilació consolidada si F4 produeix canvis als capítols.
 4. Només després de l'estabilització dels 39 capítols, iniciar F5 (annexos A–E).
 5. Abordar F7 (gràfica i maquetació Word) després dels annexos.

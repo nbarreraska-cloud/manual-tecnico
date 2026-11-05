@@ -142,3 +142,16 @@ La classificació inicial de 157 P1 i 83 P2 s'ha actualitzat després del coteig
 El coteig detallat de les P1 està registrat per a totes les tandes. Les especificacions preliminars de producció s'han redactat per als 156 identificadors P1 a annexos/llista_preliminar_produccio_grafica_F10.md, amb fusions i condicions assenyalades. Aquest pas no és una aprovació de 156 imatges finals: la llista encara ha de passar per normalització de descripcions, verificació de llegendes i remissions, resolució de fusions i comprovació final de redundàncies.
 
 La prioritat continua sent funcional i didàctica. Les P2 només s'incorporaran quan aportin informació que no estigui coberta per les P1 i el text. Cap imatge s'ha generat ni inserit durant aquesta auditoria.
+
+
+## 7. Fitxes editorials i consolidació de composicions — 05/11/2026
+
+S'ha completat el document `annexos/fitxes_editorials_figures_F10.md` amb llegendes de treball, representació, funció didàctica i límits de producció en català per als **156 identificadors P1**. La cobertura s'ha contrastat amb la matriu de classificació: no hi ha identificadors absents ni duplicats.
+
+Els identificadors s'organitzen en **154 composicions de treball** després de les fusions internes del C20:
+- 20.1 + 20.2: làmina conjunta d'estructura i patrons de fusta.
+- 20.4 + 20.5: seqüència conjunta de construcció de vetes i desviació al voltant d'un nus.
+
+Les ubicacions de les 154 composicions s'han comprovat estructuralment contra els encapçalaments de la tercera síntesi consolidada i no s'han detectat apartats inexistents. Aquesta comprovació no substitueix la validació semàntica final de les remissions ni l'avaluació de redundàncies entre capítols.
+
+**Estat:** les especificacions i les fitxes editorials estan completes com a base de treball. La selecció final encara requereix una passada transversal de redundàncies, verificació de remissions, numeració editorial i comprovació d'evidències físiques. F10 continua oberta i F11 no està autoritzada.

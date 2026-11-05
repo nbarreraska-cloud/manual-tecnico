@@ -7735,14 +7735,7 @@ La representació de metalls depèn de la relació entre reflexos, contrast, col
 - **TMM (*True Metallic Metal*):** utilitza pintures metal·litzades; les partícules reflectants del producte contribueixen directament a l'aparença metàl·lica.
 - **NMM (*Non-Metallic Metal*):** utilitza pintures convencionals i construeix els reflexos i contrastos de manera pictòrica. El procediment general es desenvolupa al capítol 16.
 
-Aquest capítol tracta principalment el TMM i proposa solucions per a acer, plata, or, coure i bronze. La paleta de referència conté quatre pintures metàl·liques:
-
-| Pintura | Referència | Funció orientativa |
-|---|---:|---|
-| Silver | 72.052 | Bases clares, reflexos i aclarits |
-| Dark Gunmetal | 72.054 | Bases fosques i ombres metàl·liques |
-| Glorious Gold | 72.056 | Bases daurades i combinacions càlides |
-| Tinny Tin | 72.060 | Bases fosques i combinacions d'aspecte envellit |
+Aquest capítol tracta principalment el TMM i proposa solucions per a acer, plata, or, coure i bronze. La paleta de referència conté quatre pintures metàl·liques, detallades a l'apartat 19.1.1.
 
 Les funcions són orientacions de treball, no resultats de proves comparatives. Altres pintures metàl·liques del catàleg, com Chainmail, Polished Gold, Bright Bronze o Hammered Copper, no formen part de les 48 referències del projecte i no s'incorporen a les receptes principals.
 
@@ -7820,13 +7813,13 @@ La modificació blavosa ha de ser continguda; no ha de convertir tota la superf�
 
 L'acer polit presenta reflexos definits; el setinat, reflexos més moderats; l'acer fosc concentra ombres; i el desgast introdueix pèrdues irregulars del recobriment. L'oxidació i la brutícia es desenvolupen als capítols 28 i 29.
 
-| Problema | Correcció |
-|---|---|
-| Acer massa gris i pla | Reforçar la separació entre ombres i reflexos. |
-| Superfície massa fosca | Recuperar zones metàl·liques amb Silver. |
-| Dominant blava excessiva | Reduir la modificació freda i recuperar el gris metàl·lic. |
-| Reflexos massa uniformes | Concentrar els punts lluminosos en zones concretes. |
-| Pèrdua de l'efecte metàl·lic | Recuperar reflexos amb aplicacions selectives de pintura metàl·lica. |
+| Problema | Causa possible | Correcció |
+|---|---|---|
+| Acer massa gris i pla | Contrast insuficient | Reforçar la separació entre ombres i reflexos. |
+| Superfície massa fosca | Ombra massa extensa | Recuperar zones metàl·liques amb Silver. |
+| Dominant blava excessiva | Excés de modificació cromàtica freda | Reduir la modificació freda i recuperar el gris metàl·lic. |
+| Reflexos massa uniformes | Distribució sense jerarquia | Concentrar els punts lluminosos en zones concretes. |
+| Pèrdua de l'efecte metàl·lic | Excés de pintura convencional sobre la base | Recuperar reflexos amb aplicacions selectives de pintura metàl·lica. |
 
 ## 19.3. Plata
 
@@ -7871,13 +7864,13 @@ La tinta pot introduir una tendència freda, però cal comprovar-ne la intensita
 
 La plata polida necessita reflexos definits; la setinada, una distribució més moderada; l'enfosquida, més presència de Dark Gunmetal i menys superfície clara. La brutícia i les taques s'han d'aplicar selectivament.
 
-| Problema | Correcció |
-|---|---|
-| Plata massa uniforme | Incorporar Dark Gunmetal i recuperar Silver en zones seleccionades. |
-| Aspecte de gris mat | Reforçar els punts lluminosos amb Silver. |
-| Plata massa fosca | Reduir l'ombra i recuperar la base metàl·lica. |
-| Dominant cromàtica excessiva | Reduir la intensitat de les tintes. |
-| Reflexos poc llegibles | Reorganitzar les llums segons els plans de la peça. |
+| Problema | Causa possible | Correcció |
+|---|---|---|
+| Plata massa uniforme | Absència d'ombres i reflexos diferenciats | Incorporar Dark Gunmetal i recuperar Silver en zones seleccionades. |
+| Aspecte de gris mat | Pèrdua del reflex metàl·lic | Reforçar els punts lluminosos amb Silver. |
+| Plata massa fosca | Ombra massa extensa | Reduir l'ombra i recuperar la base metàl·lica. |
+| Dominant cromàtica excessiva | Aplicació massa intensa de tintes | Reduir la intensitat de les tintes. |
+| Reflexos poc llegibles | Distribució sense relació amb la geometria | Reorganitzar les llums segons els plans de la peça. |
 
 ## 19.4. Or
 
@@ -7932,13 +7925,13 @@ Una base fosca pot augmentar el contrast, però cal conservar prou superfície m
 
 L'or polit necessita reflexos definits; el setinat, contrastos més moderats; l'envellit, ombres càlides i variacions localitzades. La pèrdua del recobriment s'ha de distingir de la simple modificació cromàtica. La pàtina i la corrosió corresponen al capítol 28.
 
-| Problema | Correcció |
-|---|---|
-| Or massa groc i poc metàl·lic | Recuperar Glorious Gold i reforçar els reflexos. |
-| Or ataronjat o cobrís | Reduir Hot Orange i recuperar el to daurat. |
-| Or sense profunditat | Introduir Sepia Ink localitzadament. |
-| Superfície massa marró | Recuperar Glorious Gold i reduir les ombres terroses. |
-| Reflexos massa blancs | Reservar Silver per a punts molt concrets. |
+| Problema | Causa possible | Correcció |
+|---|---|---|
+| Or massa groc i poc metàl·lic | Dominant cromàtica sense prou resposta metàl·lica | Recuperar Glorious Gold i reforçar els reflexos. |
+| Or ataronjat o cobrís | Excés de modificació càlida | Reduir Hot Orange i recuperar el to daurat. |
+| Or sense profunditat | Ombres insuficients | Introduir Sepia Ink localitzadament. |
+| Superfície massa marró | Excés d'ombra o modificació terrosa | Recuperar Glorious Gold i reduir les ombres terroses. |
+| Reflexos massa blancs | Ús excessiu de Silver | Reservar Silver per a punts molt concrets. |
 
 ## 19.5. Coure
 
@@ -7987,13 +7980,13 @@ No hi ha una proporció universal que produeixi el mateix coure en qualsevol sup
 
 El coure brillant conserva reflexos definits; el fosc presenta més ombres vermelloses i marrons; l'envellit pot incorporar alteracions superficials. La pàtina verdosa correspon al capítol 28 i no s'ha de confondre amb un simple enfosquiment.
 
-| Problema | Correcció |
-|---|---|
-| Coure massa taronja | Augmentar la presència de Burnt Red. |
-| Coure massa vermell | Recuperar Hot Orange i la base metàl·lica. |
-| Aparença de pintura mat | Recuperar Silver en zones seleccionades. |
-| Coure massa fosc | Reduir Dark Rust i recuperar zones metàl·liques. |
-| Aparença d'or | Reforçar les dominants vermelloses i ataronjades. |
+| Problema | Causa possible | Correcció |
+|---|---|---|
+| Coure massa taronja | Dominant càlida excessiva | Augmentar la presència de Burnt Red. |
+| Coure massa vermell | Dominant vermellosa excessiva | Recuperar Hot Orange i la base metàl·lica. |
+| Aparença de pintura mat | Cobertura convencional massa opaca | Recuperar Silver en zones seleccionades. |
+| Coure massa fosc | Excés de Dark Rust | Reduir Dark Rust i recuperar zones metàl·liques. |
+| Aparença d'or | Diferenciació insuficient de la dominant groga | Reforçar les dominants vermelloses i ataronjades. |
 
 ## 19.6. Bronze
 
@@ -8039,13 +8032,13 @@ La dominant vermellosa s'ha de diferenciar de la del coure mantenint una presèn
 
 El bronze polit pot tenir una aparença daurada càlida i reflexos definits; el fosc necessita més marrons i ombres profundes; l'envellit pot incorporar alteracions i pàtines. La pàtina, especialment la verdosa, correspon al capítol 28; el desgast, al 36.
 
-| Problema | Correcció |
-|---|---|
-| Bronze massa semblant a l'or | Incrementar les ombres terroses. |
-| Bronze massa vermellós | Recuperar Glorious Gold i reduir Burnt Red. |
-| Bronze semblant al coure | Reforçar els tons daurats i marrons. |
-| Pèrdua de l'efecte metàl·lic | Recuperar reflexos amb Glorious Gold. |
-| Superfície massa fosca | Recuperar les zones metàl·liques exposades. |
+| Problema | Causa possible | Correcció |
+|---|---|---|
+| Bronze massa semblant a l'or | Lluminositat i dominant daurada excessives | Incrementar les ombres terroses. |
+| Bronze massa vermellós | Excés de Burnt Red | Recuperar Glorious Gold i reduir Burnt Red. |
+| Bronze semblant al coure | Dominant vermellosa i ataronjada excessiva | Reforçar els tons daurats i marrons. |
+| Pèrdua de l'efecte metàl·lic | Excés de pintura convencional opaca | Recuperar reflexos amb Glorious Gold. |
+| Superfície massa fosca | Ombra massa extensa | Recuperar les zones metàl·liques exposades. |
 
 ## 19.7. Comparació i selecció de receptes
 
@@ -8061,11 +8054,21 @@ La taula resumeix les dominants i les bases de referència; no estableix equival
 
 La selecció ha de considerar el material, la lluminositat, la dominant cromàtica, l'estat superficial, la geometria, la importància visual i el contrast desitjat. No cal aplicar sempre una recepta completa: es pot seleccionar una base i modificar només les ombres o els reflexos.
 
-Quan una miniatura combina metalls, convé diferenciar-los per dominant, lluminositat i distribució dels reflexos. Per exemple, es pot reservar l'acer fosc per a armes, la plata clara per a ornaments petits, l'or per a decoracions, el coure per a canonades i el bronze per a peces ornamentals. No cal exagerar les diferències ni donar a tots els metalls el mateix contrast.
+Quan una miniatura combina metalls, convé diferenciar-los per dominant, lluminositat i distribució dels reflexos. Per exemple, es pot reservar l'acer fosc per a armes, la plata clara per a ornaments petits, l'or per a decoracions, el coure per a canonades i el bronze per a peces ornamentals. No cal exagerar les diferències ni donar a tots els metalls el mateix contrast. La jerarquia visual també pot ajudar a destacar les peces més importants.
 
 ## 19.8. Relació entre TMM i NMM
 
-El TMM aprofita la resposta reflectant de les pintures metal·litzades; el NMM construeix els reflexos amb pintures convencionals. El TMM pot ser adequat quan es busca una aparença metàl·lica directa; el NMM permet controlar pictòricament la distribució dels reflexos i desenvolupar efectes estilitzats o de contrast elevat. La tria depèn de l'objectiu, la geometria, el nivell tècnic i el temps disponible.
+El TMM aprofita la resposta reflectant de les pintures metal·litzades; el NMM construeix els reflexos amb pintures convencionals.
+
+| Aspecte | TMM | NMM |
+|---|---|---|
+| Pintures | Metal·litzades | Convencionals |
+| Reflex | Procedeix de la superfície metàl·lica de la pintura | Es representa mitjançant contrastos pictòrics |
+| Planificació | Depèn de la geometria i de la distribució de la llum | Requereix organitzar amb precisió llums i reflexos |
+| Aparença | Canvia amb l'angle d'observació | Depèn principalment de la distribució pintada |
+| Procediment | Base metàl·lica, ombres, llums i reflexos | Construcció cromàtica i tonal específica |
+
+Tots dos enfocaments poden representar els mateixos materials, però no s'han de confondre. El TMM pot ser adequat quan es busca una aparença metàl·lica directa; el NMM permet controlar pictòricament la distribució dels reflexos i desenvolupar efectes estilitzats o de contrast elevat. La tria depèn de l'objectiu, la geometria, el nivell tècnic i el temps disponible.
 
 Utilitzar colors convencionals sobre una base metàl·lica per modificar-ne la tonalitat no converteix automàticament el procediment en NMM. La diferència és la funció de la pintura i la manera com es construeix l'aparença final. Per al procediment general NMM, cal consultar el capítol 16.
 
@@ -8086,25 +8089,101 @@ Abans de corregir, cal identificar si el problema prové de la cobertura, la dis
 ## 19.10. Exercicis pràctics
 
 ### 19.10.1. Comparació de les quatre pintures metàl·liques
-Aplicar Silver, Dark Gunmetal, Glorious Gold i Tinny Tin en zones separades d'una superfície d'assaig. Deixar assecar, observar-les sota condicions equivalents i registrar-ne les diferències de color i reflex.
+
+**Objectiu:** reconèixer les diferències d'aparença entre les quatre pintures metàl·liques de la paleta.
+
+**Desenvolupament:**
+1. Preparar una superfície d'assaig.
+2. Aplicar Silver, Dark Gunmetal, Glorious Gold i Tinny Tin en zones independents.
+3. Deixar assecar les aplicacions.
+4. Observar les diferències de color i reflex.
+5. Comparar les superfícies sota condicions d'il·luminació equivalents.
+6. Registrar les observacions.
+
+**Resultat esperat:** disposar d'una referència visual pròpia de les quatre pintures metàl·liques disponibles.
 
 ### 19.10.2. Construcció d'acer TMM
-Aplicar Dark Gunmetal, introduir ombres localitzades amb Black, recuperar Silver a les zones il·luminades i afegir reflexos selectius. Comparar amb una aplicació uniforme de Silver.
+
+**Objectiu:** practicar la construcció d'una superfície d'acer amb base metàl·lica fosca i reflexos clars.
+
+**Desenvolupament:**
+1. Aplicar Dark Gunmetal.
+2. Incorporar ombres localitzades amb una mescla de Dark Gunmetal i Black.
+3. Recuperar Silver a les zones il·luminades.
+4. Afegir reflexos selectius.
+5. Comparar el resultat amb una aplicació uniforme de Silver.
+
+**Resultat esperat:** reconèixer la importància de les diferències entre base, ombres i reflexos.
 
 ### 19.10.3. Plata clara i enfosquida
-Preparar dues superfícies equivalents: una amb Silver i una altra amb Dark Gunmetal com a base. Incorporar llums i ombres, comparar l'extensió de les zones clares i registrar les diferències.
+
+**Objectiu:** comparar dues aparences de plata mitjançant diferents distribucions de lluminositat.
+
+**Desenvolupament:**
+1. Preparar dues superfícies equivalents.
+2. Aplicar Silver en una i Dark Gunmetal en l'altra.
+3. Incorporar ombres i llums mitjançant les pintures metàl·liques disponibles.
+4. Comparar l'extensió de les zones clares.
+5. Registrar les diferències.
+
+**Resultat esperat:** comprendre com la distribució de llums i ombres modifica l'aparença d'un mateix metall.
 
 ### 19.10.4. Or càlid i envellit
-Aplicar Glorious Gold sobre dues superfícies. A la primera, introduir Sepia Ink localitzadament; a la segona, afegir Parasite Brown i més profunditat tonal. Recuperar la base metàl·lica i comparar els resultats.
+
+**Objectiu:** desenvolupar dues variacions cromàtiques d'or mitjançant Glorious Gold i colors convencionals.
+
+**Desenvolupament:**
+1. Aplicar Glorious Gold sobre dues superfícies.
+2. A la primera, introduir ombres localitzades mitjançant Sepia Ink.
+3. A la segona, incorporar Parasite Brown i més profunditat tonal.
+4. Recuperar la base metàl·lica a les zones exposades.
+5. Comparar els resultats.
+
+**Resultat esperat:** reconèixer com les modificacions cromàtiques permeten diferenciar dues aparences d'or.
 
 ### 19.10.5. Coure i bronze amb la paleta disponible
-Preparar superfícies d'assaig amb Silver o Tinny Tin. Per al coure, introduir Hot Orange i Burnt Red; per al bronze, Glorious Gold i Parasite Brown. Afegir Dark Rust i recuperar els reflexos metàl·lics. Comparar les aparences sense donar per establertes proporcions universals.
+
+**Objectiu:** explorar combinacions metàl·liques alternatives per representar materials que no disposen d'una pintura metàl·lica específica a l'inventari.
+
+**Desenvolupament:**
+1. Preparar diverses superfícies d'assaig.
+2. Aplicar Silver o Tinny Tin com a bases.
+3. Introduir Hot Orange i Burnt Red per construir variacions de coure.
+4. Utilitzar Glorious Gold i Parasite Brown per construir variacions de bronze.
+5. Incorporar Dark Rust en determinades zones.
+6. Recuperar els reflexos metàl·lics.
+7. Comparar les diferències entre les superfícies.
+
+**Resultat esperat:** comprendre com es poden construir aparences de coure i bronze mitjançant la combinació de pintures metàl·liques i convencionals.
 
 ### 19.10.6. Comparació entre TMM i NMM
-Seleccionar una placa o una espasa i representar-la amb TMM i NMM. Comparar reflexos, contrastos i lectura des de diferents angles, i registrar avantatges i limitacions de cada enfocament.
+
+**Objectiu:** reconèixer les diferències entre la representació metàl·lica mitjançant pintures metal·litzades i convencionals.
+
+**Desenvolupament:**
+1. Seleccionar una geometria senzilla, com ara una placa o una espasa.
+2. Representar una versió mitjançant TMM.
+3. Representar una altra mitjançant NMM, seguint els criteris del capítol 16.
+4. Observar les diferències de reflex i contrast.
+5. Comparar la lectura de totes dues superfícies des de diferents angles.
+6. Registrar els avantatges i les limitacions de cada enfocament.
+
+**Resultat esperat:** comprendre que TMM i NMM són procediments diferents per representar una mateixa categoria de materials.
 
 ### 19.10.7. Integració de diversos metalls
-Seleccionar una miniatura amb almenys dos elements metàl·lics. Identificar els materials, escollir les receptes, definir diferències cromàtiques i de lluminositat, aplicar-les i avaluar-ne la diferenciació i la integració.
+
+**Objectiu:** aplicar criteris de diferenciació metàl·lica en una peça que combini diversos materials.
+
+**Desenvolupament:**
+1. Seleccionar una miniatura amb dos o més elements metàl·lics.
+2. Identificar els materials que es volen representar.
+3. Escollir una recepta per a cadascun.
+4. Definir-ne les diferències cromàtiques i de lluminositat.
+5. Aplicar les receptes seleccionades.
+6. Avaluar la lectura de cada material i la seva integració en el conjunt.
+7. Fer els ajustos necessaris.
+
+**Resultat esperat:** aconseguir que diversos metalls es puguin reconèixer com a superfícies diferenciades dins d'una mateixa miniatura.
 
 ## Síntesi del capítol
 
@@ -8128,8 +8207,6 @@ La representació de metalls exigeix coordinar color, reflexos, ombres i geometr
 - Enfocament: receptes TMM per a cinc metalls amb la paleta de 48 pintures.
 - Delimitació: el procediment general NMM correspon al capítol 16; la corrosió i les pàtines, al 28; el desgast, al 36; el diagnòstic general, al 39.
 - Criteri tècnic: les receptes són propostes orientatives, no resultats comprovats. No s'afegeixen proporcions no especificades ni s'incorporen pintures fora de la paleta de referència.
-
----
 
 # 20. FUSTA
 

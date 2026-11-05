@@ -80,6 +80,13 @@ Repaginar i revisar el Word il·lustrat: salts de pàgina, taules, llegendes, í
 
 La referència actual és d'aproximadament 300 pàgines per als 39 capítols sense annexos, pendent de paginació editorial verificada. Les 350–375 pàgines són una orientació, no un objectiu que justifiqui afegir o eliminar contingut. El límit de 400 pàgines també és orientatiu i s'avaluarà amb el document complet maquetat.
 
-## 6. Següent acció
+## 6. Estat actual i següent acció
 
-Començar la regeneració de l'Annex A i continuar en ordre A–E. No iniciar la selecció/producció gràfica ni inserir imatges durant F5–F9.
+**F5 — regeneració A–E: en curs.**
+
+- **A:** regenerat i arxivat l'anterior; pendent de F6/F8.
+- **B:** regenerat i arxivat l'anterior; pendent de F6/F8.
+- **C:** regenerat i arxivat l'anterior; 183 entrades i referències contrastades amb les receptes de C19–C34; pendent de F6/F8.
+- **D i E:** pendents de regeneració.
+
+**Següent acció:** regenerar l'Annex D, mantenint l'ordre A–E. No iniciar la selecció/producció gràfica ni inserir imatges durant F5–F9.

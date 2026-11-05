@@ -8430,28 +8430,6 @@ La fusta es reconeix per la relació entre base cromàtica, direcció de les fib
 - Wiedenhoeft, A. C., i Eberhardt, T. L. (2021). «Chapter 3: Structure and Function of Wood». A *Wood Handbook—Wood as an Engineering Material*. USDA Forest Service, Forest Products Laboratory, FPL-GTR-282.
 - USDA Forest Products Laboratory. *Wood Handbook—Wood as an Engineering Material*. Apartats sobre estructura de la fusta, patrons de veta, talls i nusos.
 - University of Melbourne, Machine Workshop. «Glossary of Woodworking Terms». Recurs terminològic sobre patrons, vetes, nusos i figures de la fusta.
-
-## Figures proposades per a la fase gràfica final
-
-1. Direcció de fibres, vetes, nusos i anells.
-2. Patrons segons el tall: veta longitudinal i secció transversal.
-3. Comparació cromàtica de fustes clares, mitjanes, càlides, fosques i grises.
-4. Construcció de vetes principals i secundàries.
-5. Integració d'un nus i desviació de les fibres.
-6. Anells en una secció transversal.
-7. Adaptació a tauló, biga, barril, mànec i tronc.
-8. Comparació entre fusta natural, envellida, desgastada i humida.
-9. Errors freqüents i correccions.
-
-## Registre editorial
-
-- Estructura: deu apartats, síntesi i sis exercicis.
-- Receptes: nou propostes (A–I), sense proporcions inventades.
-- Delimitacions: vegetació adherida al capítol 21; brutícia i dipòsits al 29; desgast general al 36; acabats al 37.
-- Criteri central: vetes i fibres han de correspondre a la geometria, el tall i l'escala.
-- Estat: síntesi basada en el document original de referència; les combinacions continuen classificades com a propostes no assajades.
----
-
 # 21. VEGETACIÓ
 
 ## 21.1. Identitat i abast
@@ -8801,29 +8779,6 @@ La vegetació s'ha de representar a partir de l'estructura i la forma de creixem
 - Plantlife. *Bryophytes of Atlantic Woodlands: A Guide*. https://www.plantlife.org.uk/wp-content/uploads/2023/05/Bryophytes-of-Atlantic-Woodlands-Guide-1-Woodland.pdf
 - Penn State Extension. *The Science Behind Autumn Leaf Color*. https://extension.psu.edu/the-science-behind-autumn-leaf-color
 - Harvard Forest. *The Process of Leaf Color Change*. https://harvardforest.fas.harvard.edu/education-opportunities/classic-outreach-resources/autumn-foliage-color/leaf-science/leaf-process/
-
-## Figures proposades per a la fase gràfica final
-
-1. Comparació entre fullatge de fulla ampla, coníferes, herbes, molsa i líquens.
-2. Morfologia de fulles simples i compostes, vores i nerviació.
-3. Agrupacions, densitat, buits i superposició del fullatge.
-4. Comparació cromàtica de verds frescos, mitjans, foscos i apagats.
-5. Direcció de branques i agrupacions aciculars.
-6. Tiges, fulles, espigues i direcció de les gramínies.
-7. Coixins, coixinets i tapissos de molsa.
-8. Formes crustàcia, foliàcia i fruticulosa dels líquens.
-9. Fulles de tardor i vegetació seca.
-10. Integració de vegetació variada en una base.
-
-## Registre editorial
-
-- Estructura: onze apartats, síntesi i set exercicis.
-- Receptes: setze combinacions (A–P).
-- Precisió conceptual: els líquens no són plantes; molsa i líquens tenen formes de creixement diferents.
-- Delimitacions: fusta al capítol 20; terra i dipòsits al 29; envelliment i desgast al 36; integració ambiental al 35.
-- Estat: síntesi basada en el document original. Les combinacions cromàtiques no s'han assajat físicament.
----
-
 # 22. CUIR I PELLS
 
 ## 22.1. Identificació i abast
@@ -9197,39 +9152,6 @@ La representació de cuir i pells comença per identificar el tipus de superfíc
 - European Commission, Joint Research Centre. *Best Available Techniques (BAT) Reference Document for the Tanning of Hides and Skins*.
 
 Aquestes referències fonamenten les diferències entre tipus de pell, processos de transformació i tractaments superficials. No constitueixen una validació experimental de les receptes pictòriques proposades.
-
-## Control editorial i límits de verificació
-
-- Les combinacions A–Q són propostes tècniques, no formulacions experimentades.
-- No s'atribueixen resultats físics comprovats a les pintures.
-- Les funcions cromàtiques assignades a les referències són orientatives.
-- La resposta de cada combinació depèn de la superfície, l'aplicació i les condicions d'observació.
-- La representació de pells amb pèl es limita a la seva identificació i relació amb la base material; no desenvolupa un procediment complet de pelatge.
-- La regulació de la brillantor mitjançant vernissos i productes d'acabat es reserva al capítol 37.
-- La protecció i conservació de les superfícies es desenvolupen al capítol 38.
-- El diagnòstic general d'errors i els seus procediments sistemàtics de correcció corresponen al capítol 39.
-
-## Figures proposades per a la fase gràfica final
-
-1. Estructura visual del gra del cuir.
-2. Comparació de cuir de gra natural, cuir corregit, ante i nobuk.
-3. Famílies cromàtiques del cuir.
-4. Construcció de cuir natural.
-5. Diferenciació entre ante i nobuk.
-6. Plecs i deformacions.
-7. Cantells, gruix i costures.
-8. Acabats superficials.
-9. Errors freqüents.
-10. Accessori integrador.
-
-## Registre editorial
-
-- Estructura: onze apartats, síntesi i sis exercicis.
-- Receptes: disset propostes (A–Q); no s'hi afegeixen proporcions.
-- Delimitacions: pell corporal i carn al capítol 24; tèxtils al 23; acabats al 37; protecció al 38; diagnòstic general al 39.
-- Estat: síntesi basada en el document original; les combinacions són propostes no assajades.
----
-
 # 23. TEIXITS I TELES
 
 ## 23.1. Identitat i abast
@@ -9592,44 +9514,6 @@ La representació tèxtil exigeix coordinar estructura, textura, gruix, caiguda,
 - Andrea Press. *Frequently Asked Questions about painting figure techniques*. Apartat dedicat a teixits i teles. https://www.andrea-world.com/descargas/AP%20030I%20TEXTS%20ENG.pdf
 
 Les referències sobre fibres i estructures tèxtils fonamenten les diferències materials descrites. Els recursos de pintura s'utilitzen com a orientació pràctica, no com a validació experimental de les receptes proposades.
-
-## Control editorial i límits de verificació
-
-- Les combinacions cromàtiques són propostes tècniques, no resultats experimentals.
-- No s'estableixen proporcions universals de mescla.
-- No s'atribueixen propietats individuals no verificades a les pintures.
-- La identificació d'una fibra concreta no sempre es pot deduir de l'aparença d'una miniatura.
-- Les associacions entre cotó, lli, llana, seda i determinats acabats són orientatives, no exclusives.
-- Els procediments generals de capes, degradats, veladures, rentats, perfilats i texturització es desenvolupen als capítols tècnics corresponents.
-- La teoria general del color i la il·luminació es reserva als capítols 4 i 5.
-- El comportament visual dels materials es fonamenta al capítol 6.
-- La planificació integral del procés es desenvolupa al capítol 18.
-- El cuir i les superfícies adobades corresponen al capítol 22.
-- La pell i els teixits biològics corresponen al capítol 24.
-- L'envelliment i la transformació de les superfícies es desenvolupen al capítol 36.
-- Els acabats superficials i el control de la brillantor corresponen al capítol 37.
-- La protecció i conservació es desenvolupen al capítol 38.
-- El diagnòstic general d'errors correspon al capítol 39.
-
-## Figures proposades per a la fase gràfica final
-
-1. Comparació esquemàtica de tafetà, sarga i satí.
-2. Comparació de lli/cotó, llana, seda/setí i vellut.
-3. Construcció cromàtica de teixits clars.
-4. Diferències entre tela mate i setinada.
-5. Teixits gruixuts i de pèl.
-6. Plecs i punts de tensió.
-7. Adaptació d'estampats i brodats a una superfície plegada.
-8. Errors freqüents: plecs en bandes, textura excessiva, reflexos incompatibles i patrons plans.
-
-## Registre editorial
-
-- Estructura: deu apartats, síntesi i sis exercicis.
-- Receptes: deu propostes (A–J).
-- Precisió conceptual: distingir fibra, estructura del teixit i acabat superficial; tafetà/sarga/satí són estructures, mentre que el vellut descriu una superfície de pèl.
-- Delimitacions: cuir al capítol 22; pell biològica al 24; envelliment al 36; acabats al 37; protecció al 38; diagnòstic general al 39.
-- Estat: síntesi basada en el document original; receptes no assajades.
-
 # 24. PELL, CARN I TEIXITS ORGÀNICS
 
 ## 24.1. Abast i criteri de representació
@@ -10022,29 +9906,6 @@ La pell requereix una organització cromàtica que consideri pigmentació, matí
 - Vallejo. *Flesh: Step by Step Tutorial*. https://acrylicosvallejo.com/wp-content/uploads/2021/07/vallejo-stepbystep-flesh-EN.pdf
 
 Les referències anatòmiques i de pigmentació fonamenten les descripcions generals de pell i musculatura. Els tutorials de Vallejo serveixen com a recursos d'aplicació pictòrica, però les seves pintures i formulacions no es traslladen automàticament a la paleta d'aquest manual.
-
-## Figures proposades per a la fase gràfica final
-
-1. Estructura simplificada de la pell: epidermis, dermis i teixit subcutani.
-2. Comparació de pigmentacions clares, intermèdies i profundes, incloent matís.
-3. Mapa cromàtic orientatiu del rostre.
-4. Construcció de pell clara: base, ombres, tons mitjans i llums.
-5. Construcció de pell profunda sense aclarits desaturats generalitzats.
-6. Comparació de pells naturals i fantàstiques.
-7. Masses musculars i direcció dels grups principals.
-8. Diferenciació entre múscul, teixit adipós i teixit connectiu.
-9. Errors freqüents: pell plana, excés de blanc, ombres uniformes, múscul ratllat i confusió de teixits.
-
-## Registre editorial
-
-- Estructura: deu apartats, síntesi i sis exercicis.
-- Receptes: catorze propostes (A–N).
-- Precisió conceptual: la pigmentació es tracta com una variació contínua i complexa, no com una classificació rígida; anatomia simplificada amb finalitat pictòrica.
-- Delimitacions: cuir i pells curtides al capítol 22; tèxtils al 23; ossos i queratina al 25; sang i fluids al 31; acabats i protecció als capítols 37–38.
-- Estat: síntesi basada en el document original; receptes no assajades i sense proporcions universals.
-
----
-
 # 25. OSSOS I ESTRUCTURES QUERATÍNIQUES
 
 ## 25.1. Abast i criteri de representació

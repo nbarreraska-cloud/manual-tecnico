@@ -3,7 +3,7 @@
 **Data:** 06/11/2026  
 **Branca:** `intervencion-editorial-2026-11`  
 **Documents de referència:** fitxes editorials F10, matriu d'evidències F10, protocol F12 i registre mestre F13.  
-**Estat:** briefs textuals preparats; cap imatge generada ni aprovada.
+**Estat:** quatre prototips vectorials v01 creats i pendents de revisió; tres collages exploratoris generats amb ImageGen han estat rebutjats i no s'incorporen.
 
 ## 1. Finalitat
 
@@ -134,11 +134,24 @@ Una prova que no superi un criteri torna a revisió. No es trasllada automàtica
 ## 8. Estat
 
 - Briefs preparats: **4**.
-- Imatges generades: **0**.
-- Imatges aprovades: **0**.
+- Collages exploratoris generats i rebutjats: **3**.
+- Prototips vectorials editables v01: **4**.
+- Prototips aprovats: **0** (pendents de revisió tècnica i editorial).
 - Màsters gràfics finals: **0**.
 - Insercions al manual: **0**.
 - Selecció F10 modificada: **no**.
 - Manual mestre modificat: **no**.
 
 Les quatre proves són el primer encàrrec de producció quan s'obri formalment aquesta fase. La seva funció és fixar un llenguatge visual coherent i detectar errors abans de produir la resta de composicions.
+
+
+## 9. Fitxers de prova vectorials
+
+S'han creat quatre prototips SVG editables, separats i sense incorporar-los al manual:
+
+- [Figura 4.1 / G006 — RGB i CMY](../grafics_prova/fig_C04_4-1_G006_v01.svg).
+- [Figura 3.1 / G003 — Opacitat i transparència](../grafics_prova/fig_C03_3-1_G003_v01.svg).
+- [Figura 16.4 / G042 — Seqüència NMM](../grafics_prova/fig_C16_16-4_G042_v01.svg).
+- [Figura 34.1 / G110 — Tipus de vidre](../grafics_prova/fig_C34_34-1_G110_v01.svg).
+
+Els quatre prototips es mantenen en estat de revisió, no d'aprovació. Els SVG són màsters vectorials editables de prova, no exportacions finals maquetades.

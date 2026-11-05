@@ -594,7 +594,7 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 - **Límits:** no mesurar els angles respecte del pla ni sobrecarregar un únic esquema. La proposta 5.14 no es produirà com a figura independent.
 
 ### 5.7 — Il·luminació de superfícies planes i corbes
-- **Ubicació:** apartats 5.3.1 i 5.3.4.
+- **Ubicació corregida:** apartat 5.3.1; el subapartat 5.3.4 no existeix a la compilació vigent i no s'ha de crear per acomodar la figura.
 - **Llegenda prevista:** «Distribució de la il·luminació sobre un pla d'orientació constant i una superfície corba amb normals variables.»
 - **Representació:** comparació de seccions geomètriques sota condicions de llum equivalents.
 - **Funció didàctica:** relacionar els canvis d'orientació amb les variacions d'il·luminació.

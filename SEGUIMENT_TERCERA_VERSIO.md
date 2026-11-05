@@ -964,3 +964,8 @@ Cotejat el contingut de C6 amb «manual con estructura completa.docx». Es conse
 ### F4 — coteig documental de contingut de C7 (05/11/2026)
 
 Cotejat el contingut de C7 amb «manual con estructura completa.docx». Es conserven els blocs d'organització, eines, preparació de la miniatura, imprimació, gestió de pintures, control d'aplicació, neteja i manteniment, seguretat i prevenció. S'han comprovat els quatre exercicis complets i les tres referències de consulta sobre seguretat. Les subdivisions de l'original s'han agrupat en apartats més compactes sense perdre les funcions operatives principals. No s'han identificat omissions tècniques o didàctiques substancials que justifiquin modificar el capítol. Les vuit propostes de figures continuen reservades a MG. C7 no s'ha modificat; la compilació consolidada conté exactament el fitxer vigent. F4 continua oberta i el coteig no equival a validació experimental.
+
+
+### F4 — coteig documental de contingut de C8 (05/11/2026)
+
+Cotejat C8 amb «manual con estructura completa.docx». Es conserven els fonaments de construcció per capes, les distincions conceptuals, els procediments de capa base i aplicacions successives, les variants de construcció cromàtica, el control tècnic, els sis errors amb criteris de correcció, els criteris d'avaluació i els cinc exercicis, inclòs l'integrador. No s'han identificat omissions substancials que justifiquin modificar el capítol. Les vuit propostes de figures originals continuen reservades a MG. C8 no s'ha modificat; la compilació consolidada conté exactament el fitxer vigent. F4 continua oberta i el coteig no equival a validació experimental.

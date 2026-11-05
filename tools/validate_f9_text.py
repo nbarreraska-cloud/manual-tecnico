@@ -30,7 +30,11 @@ def visible_text(markdown):
         line = re.sub(r"^\s*\d+[.)]\s+", lambda m: m.group(0).strip() + " ", line)
         line = re.sub(r"^>\s?", "", line)
         line = line.replace("|", " ")
-        line = line.replace("**", "").replace("__", "").replace("*", "").replace("_", "").replace(chr(96), "")
+        line = line.replace("**", "").replace("__", "").replace("*", "")
+        # Preserve underscores inside identifiers and URLs (e.g. Game_Color);
+        # remove only Markdown italic delimiters at token boundaries.
+        line = re.sub(r"(?<!\\w)_(?=\\S)|(?<=\\S)_(?!\\w)", "", line)
+        line = line.replace(chr(96), "")
         out.append(line)
     return "\n".join(out)
 

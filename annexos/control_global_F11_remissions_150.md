@@ -115,6 +115,10 @@ La preparació de les tres tandes queda completada. Encara no s'han inserit remi
 Aquesta fase no modifica `main`, no reobre F9 i no autoritza encara la inserció gràfica.
 
 
+## 12. Prova d'estil preparada
+
+S'ha creat [F14 — Briefs de prova d'estil](briefs_prova_estil_F14.md), amb quatre encàrrecs concrets: figura 4.1 / G006, figura 3.1 / G003, figura 16.4 / G042 i figura 34.1 / G110. Inclouen dues composicions E0, una E1 i una E2 que s'ha de representar provisionalment com a E0 si no apareixen proves físiques. Els briefs no autoritzen encara la generació d'imatges.
+
 ## 11. Continuació del procés: preparació de producció
 
 S'han creat dos documents de preparació, sense generar ni inserir imatges:

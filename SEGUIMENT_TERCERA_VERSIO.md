@@ -801,3 +801,12 @@ S'han extret i revisat les remissions explícites als capítols dels 39 fitxers 
 - La remissió de C18 als capítols 35–38 s'ha comprovat amb el text original i es conserva.
 - S'ha resolt la incidència de metadades de C12: la nota editorial antiga de la font atribueix parcialment les tècniques de textura a C14, però l'índex definitiu i els continguts confirmen que les quatre tècniques són a C13 i que C14 tracta transparències. No es modifica la font ni els capítols.
 - Aquesta passada valida l'existència i l'abast numèric de les remissions, no encara la precisió semàntica de totes les referències. La revisió global continua oberta.
+
+
+### Actualització F4 — precisió semàntica de la remissió C31 (05/11/2026)
+
+En la lectura semàntica de les remissions s'ha detectat que C31.7 atribuïa al capítol 37 tant la selecció de la brillantor com la dels vernissos. La font original diferencia expressament les funcions: C37 tracta l'aparença superficial i el control visual de la brillantor; C38 desenvolupa protecció, envernissament i conservació.
+
+S'ha corregit la frase de C31.7 per separar-les: la selecció i el control de la brillantor remeten a C37; els vernissos protectors, l'envernissament i la conservació remeten a C38. No s'han modificat receptes, ingredients ni procediments. Aquesta és una correcció de precisió semàntica, no una recuperació de contingut tècnic.
+
+La revisió semàntica de les altres remissions continua oberta.

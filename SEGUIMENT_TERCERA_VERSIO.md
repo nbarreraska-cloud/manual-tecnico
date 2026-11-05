@@ -36,7 +36,9 @@ Cal recuperar procediments, explicacions tècniques, fonaments, advertiments, de
 - Conservats els sis exercicis, ampliant-los amb objectius, procediments i criteris d'avaluació originals.
 - Recuperada la síntesi conceptual.
 - Recuperat el criteri operatiu de selecció de paletes de vuit passos.
-- Mantinguts els apartats 4.2, 4.9 i 4.10, que ja contenien les recuperacions pràctiques essencials identificades en el contrast. No s'hi han afegit duplicacions.
+- Recuperat el desenvolupament dels set criteris de planificació de paletes (intenció, dominant, secundaris, accents, neutres, distribució per superfícies i comprovació a diferents distàncies).
+- Ampliat l'exemple de l'armadura blava amb la seqüència original de sis fases, incloent-hi la selecció de matís, valor i croma, la relació cromàtica, la funció dels elements secundaris, la comprovació de jerarquia i les correccions possibles.
+- Mantingut el procediment d'adaptació visual de l'apartat 4.2, que ja es trobava conservat a la segona síntesi.
 
 ### Capítol 5 — Llum, volum, ombres i reflexos
 

@@ -659,3 +659,13 @@ La prioritat immediata de F4 passa als capítols 12 i 13. C28–C29 tenen comple
 - **C12:** es mantenen els deu apartats, tots els subapartats numerats i els cinc exercicis de la font disponible. La comparació semàntica detallada dels procediments continua pendent.
 - **C13:** es mantenen els deu apartats, les quatre tècniques (pinzell sec, puntejat, ratllat i esponjat), els nou blocs d'errors i els sis exercicis numerats de la font disponible. La comparació semàntica detallada dels procediments i les limitacions continua pendent.
 - **Incidència de metadades:** el registre editorial inclòs al final de la font de C12 conté una delimitació antiga que assigna el pinzell sec i el puntejat a C13 i el ratllat i l'esponjat a C14. L'índex definitiu i el contingut de C13 confirmen que les quatre tècniques pertanyen a C13 i que C14 està reservat a transparències. No es modifica el contingut lector de C12 per aquesta nota interna; la incidència queda reservada a la conciliació de metadades i remissions.
+
+
+### Actualització F4 — coteig de contingut de C12–C13 (05/11/2026)
+
+S'ha completat la lectura comparativa dels textos disponibles de C12 i C13, no només el recompte d'encapçalaments.
+
+- **C12:** el contingut lector conserva els fonaments, les distincions entre límit físic/cromàtic/representat, les cinc modalitats de perfilat, la selecció cromàtica, els criteris d'eina i càrrega, els sis procediments? No: cinc exercicis, els controls i els vuit errors. No s'han identificat omissions substancials. El registre editorial antic que assigna ratllat i esponjat a C14 és una metadada desfasada, no una instrucció del capítol actual.
+- **C13:** es conserven les quatre tècniques, els seus mecanismes, variables, procediments, aplicacions i limitacions, la combinació, els nou errors, els criteris d'avaluació i els sis exercicis. No s'han identificat omissions substancials.
+- No s'han modificat els dos capítols perquè el coteig no ha justificat recuperacions de contingut. Les figures continuen reservades a MG.
+- La revisió transversal de terminologia i la conciliació de metadades/remissions continuen obertes.

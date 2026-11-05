@@ -191,3 +191,20 @@ La validació de traçabilitat ha confirmat que 31 identificadors P2/P3 tenen de
 
 
 La cobertura de les 84 P2 s'ha revalidat: 32 tenen una destinació d'integració en composicions P1, 58 consten en reserva i cap queda sense estat documentat. Sis de les propostes en reserva també apareixen com a integració condicionada (32.6, 32.7, 33.8, 33.10, 37.1 i 37.5); no s'activaran sense una composició complementària aprovada.
+
+
+## 18. Coteig de les fitxes amb la font original — 06/11/2026
+
+La font gràfica s'ha reconstruït i contrastat en els seus 243 identificadors: 153 propostes recuperades del Word original i 90 elaborades durant la tercera síntesi. Les 156 P1 tenen correspondència individual amb una fitxa, una composició, un número de treball i una ubicació lectora. La matriu és `annexos/matriu_tracabilitat_P1_156_F10.md`.
+
+La comprovació estructural confirma:
+- 156 identificadors P1 únics i sense absències a les fitxes;
+- 150 composicions numerades;
+- sis fusions de dues P1;
+- 150 ubicacions lectores, amb totes les 196 referències numèriques comprovades presents al manual consolidat.
+
+S'ha registrat la incidència post-tancament `annexos/incidencia_coteig_origen_P1_F10.md` i s'han recuperat detalls d'origen a les fitxes de C20, C21, C23, C24 i C37. També s'ha confirmat la integració de la P2 20.6 en la composició 20.1+20.2. La P2 21.9 continua en reserva i ja no es barreja amb la P1 21.1.
+
+**Efecte sobre F10:** no canvien la selecció, els identificadors, les 150 composicions ni la numeració. Es tracta d'un refinament de fidelitat documental amb traçabilitat explícita; no es reobre la selecció congelada.
+
+**Límit de la comprovació:** la correspondència i les ubicacions queden verificades; no s'ha validat encara la qualitat visual en pàgina ni s'han inserit totes les remissions textuals. Aquests controls corresponen a F11/F12. No s'han generat ni inserit imatges.

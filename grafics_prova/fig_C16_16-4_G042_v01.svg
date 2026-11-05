@@ -17,7 +17,7 @@
  <text x="260" y="520">4 · Reflexos clars</text><text x="760" y="520">5 · Accents màxims</text><text x="1250" y="520">6 · Integració i revisió</text>
 </g>
 <g transform="translate(105 205)">
- <path d="M0 0 L270 0 L320 65 L270 125 L0 125 Z" fill="url(#bladeBase)" stroke="#303943" stroke-width="3"/>
+ <path d="M0 0 L270 0 L320 65 L270 125 L0 125 Z" fill="#858d95" stroke="#303943" stroke-width="3"/>
 </g>
 <g transform="translate(605 205)">
  <path d="M0 0 L270 0 L320 65 L270 125 L0 125 Z" fill="url(#bladeBase)" stroke="#303943" stroke-width="3"/>

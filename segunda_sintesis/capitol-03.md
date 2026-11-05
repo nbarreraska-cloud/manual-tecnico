@@ -248,3 +248,53 @@ La finalitat no és classificar les 48 pintures mitjançant propietats suposades
 3. Acrylicos Vallejo. *Xpress Color – descripció oficial de la família*. https://acrylicosvallejo.com/en/category/hobby/xpress-color-en/
 
 La documentació del fabricant s'utilitza per identificar les famílies comercials i recollir les característiques que Vallejo atribueix expressament als seus productes. Les explicacions sobre les propietats de les pintures es presenten com a fonaments tècnics generals. Les proves descrites són propostes de procediment: només s'hi podran incorporar observacions o resultats propis quan es facin amb pintures físiques i se'n documentin les condicions.
+
+
+## Propostes de figures per a MG
+
+Les sis figures següents queden documentades per a la producció gràfica de la fase final. No es consideren imatges realitzades ni resultats experimentals.
+
+| Figura | Contingut | Ubicació prevista |
+|---|---|---|
+| 3.1 | Graus d'opacitat i transparència | 3.2.1 |
+| 3.2 | Influència del fons sobre una pintura transparent o semitransparent | 3.2.1 |
+| 3.3 | Distribució de la pintura sobre relleus i cavitats | 3.2.3 |
+| 3.4 | Comparació d'acabats superficials | 3.2.4 |
+| 3.5 | Comportament funcional general de Xpress Color sobre una superfície amb relleu | 3.3 |
+| 3.6 | Esquema de selecció funcional de pintures | 3.4 |
+
+### Descripció editorial de les figures
+
+**Figura 3.1. Graus d'opacitat i transparència**
+
+Mostrar una seqüència de mostres amb diferents graus d'ocultació del fons. La finalitat és explicar la diferència funcional entre pintures opaques, semiopaques, semitransparents i transparents, sense presentar-les com a categories comercials normalitzades.
+
+**Figura 3.2. Influència del fons**
+
+Mostrar una mateixa pintura transparent o semitransparent aplicada sobre fons blanc, gris i negre. La comparació s'ha de centrar en la influència del fons sobre l'aparença de la capa. Si s'hi representen pintures concretes, les mostres han de procedir d'aplicacions físiques documentades.
+
+**Figura 3.3. Distribució sobre relleus**
+
+Representar una superfície amb zones elevades i cavitats. Mostrar esquemàticament com es pot distribuir una pintura sobre totes dues zones i explicar l'acumulació descrita pel fabricant per a Xpress Color. No presentar l'esquema com un resultat d'assaig propi.
+
+**Figura 3.4. Acabats superficials**
+
+Mostrar tres superfícies equivalents amb acabat mat, setinat i brillant sota una il·luminació comparable. L'objectiu és facilitar la comprensió de les diferències de reflexió.
+
+**Figura 3.5. Comportament funcional de Xpress Color**
+
+Representar una miniatura o superfície amb relleu i explicar la distribució del producte sobre les zones elevades i les cavitats. La figura ha d'il·lustrar la descripció funcional del fabricant, sense atribuir resultats exactes a una prova no realitzada.
+
+**Figura 3.6. Mapa de selecció funcional**
+
+Crear un esquema de decisió que relacioni les necessitats d'aplicació amb les propietats que convé valorar: cobertura, transparència, fluïdesa, distribució, acabat i comportament sobre relleus. La seva funció és facilitar la presa de decisions sense repetir literalment la taula de l'apartat 3.4.
+
+## Criteris de producció gràfica
+
+- Mantenir una estètica homogènia amb les figures de la resta del manual.
+- Utilitzar etiquetes i explicacions en català, d'acord amb l'idioma del manual.
+- Diferenciar clarament els esquemes conceptuals de les mostres físiques.
+- No presentar imatges generades com si fossin proves reals de les pintures.
+- Si es mostren resultats de productes concrets, utilitzar fotografies de mostres físiques realitzades amb aquests productes.
+- Mantenir diferenciada la figura 3.2 de les figures del capítol 4: aquí s'explica la influència física del fons sobre una capa de pintura; al capítol 4 s'aborda la influència perceptiva del context cromàtic.
+- Evitar repetir informació que correspongui als capítols de teoria del color, il·luminació o comportament visual dels materials.

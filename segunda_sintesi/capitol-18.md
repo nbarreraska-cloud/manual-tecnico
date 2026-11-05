@@ -500,23 +500,102 @@ Les fitxes següents es poden adaptar a la complexitat de la peça.
 
 ## 18.10. Exercicis pràctics
 
-### 18.10.1. Anàlisi inicial
-Seleccionar una miniatura i registrar-ne escala, geometria, materials, dificultats d'accés i elements prioritaris. Identificar quines decisions cal prendre abans de pintar.
+### 18.10.1. Anàlisi inicial d'una miniatura
+
+**Objectiu:** aprendre a identificar les característiques i les dificultats que condicionen un procés de pintura.
+
+**Desenvolupament:**
+1. Seleccionar una miniatura sense pintar.
+2. Analitzar-ne la geometria, l'escala i els components.
+3. Identificar els materials que es pretenen representar.
+4. Localitzar les superfícies de difícil accés.
+5. Reconèixer els elements principals i secundaris.
+6. Elaborar una llista de necessitats tècniques.
+
+**Resultat esperat:** disposar d'una anàlisi inicial que permeti organitzar el treball abans de seleccionar les tècniques.
 
 ### 18.10.2. Definició d'objectius i prioritats
-Formular un objectiu visual general i separar-lo en objectius principals, secundaris i complementaris. Comparar-lo amb una llista de tècniques i justificar quines són realment necessàries.
+
+**Objectiu:** transformar una intenció estètica general en objectius concrets i avaluables.
+
+**Desenvolupament:**
+1. Seleccionar una miniatura o una referència visual.
+2. Descriure l'aparença final que es pretén aconseguir.
+3. Identificar els elements que han de destacar.
+4. Separar objectius principals, secundaris i complementaris.
+5. Establir quins aspectes es poden simplificar.
+6. Definir criteris per valorar el resultat.
+
+**Resultat esperat:** disposar d'una jerarquia d'objectius que permeti orientar les decisions tècniques.
 
 ### 18.10.3. Planificació cromàtica i lumínica
-Establir colors predominants, secundaris i accents; distribuir els valors; definir la font principal i les zones protegides. Elaborar un esquema que integri les decisions.
+
+**Objectiu:** integrar les decisions cromàtiques i d'il·luminació abans de començar l'execució.
+
+**Desenvolupament:**
+1. Seleccionar una miniatura.
+2. Identificar-ne les superfícies principals.
+3. Establir una paleta general.
+4. Determinar els contrastos prioritaris.
+5. Definir la direcció principal de la il·luminació.
+6. Assenyalar les zones de més i menys influència lluminosa.
+7. Identificar possibles fonts secundàries.
+8. Elaborar un esquema de planificació.
+
+**Resultat esperat:** obtenir una referència cromàtica i lumínica coherent amb l'estructura de la miniatura.
 
 ### 18.10.4. Selecció i seqüenciació de tècniques
-Escollir els procediments necessaris, valorar alternatives i ordenar les operacions segons dependències, accessibilitat i compatibilitat. Registrar el pla i les raons de la seqüència.
+
+**Objectiu:** seleccionar procediments adequats i establir un ordre de treball raonat.
+
+**Desenvolupament:**
+1. Partir de l'anàlisi d'una miniatura.
+2. Identificar les necessitats de cada superfície.
+3. Consultar els procediments disponibles als capítols 8–17.
+4. Seleccionar les tècniques necessàries.
+5. Identificar-ne les dependències i possibles incompatibilitats.
+6. Organitzar les operacions per zones, materials o fases.
+7. Justificar l'ordre escollit.
+8. Assenyalar quines operacions es podrien modificar durant l'execució.
+
+**Resultat esperat:** disposar d'un pla de treball adaptat a una miniatura concreta, sense aplicar una seqüència universal.
 
 ### 18.10.5. Avaluació de resultats parcials
-Revisar una miniatura en procés després d'una fase significativa. Comparar el resultat amb l'objectiu, detectar problemes i decidir si cal continuar, corregir o modificar el pla.
 
-### 18.10.6. Exercici integrador
-Planificar, executar i avaluar una miniatura completa. Documentar l'anàlisi inicial, els objectius, la paleta, la il·luminació, les tècniques, la seqüència, els punts de control, les modificacions i l'avaluació final.
+**Objectiu:** desenvolupar criteris per revisar el treball durant l'execució i modificar la planificació quan sigui necessari.
+
+**Desenvolupament:**
+1. Realitzar una fase de pintura sobre una miniatura o superfície de prova.
+2. Comparar el resultat amb l'objectiu inicial.
+3. Identificar els aspectes que funcionen correctament.
+4. Reconèixer els problemes rellevants.
+5. Determinar-ne la causa probable.
+6. Decidir si convé continuar, corregir o modificar la tècnica.
+7. Registrar la decisió i la seva justificació.
+
+**Resultat esperat:** comprendre que la planificació s'ha d'adaptar a la informació obtinguda durant el treball.
+
+### 18.10.6. Exercici integrador: planificació, execució i avaluació d'una miniatura
+
+**Objectiu:** aplicar els criteris del capítol a un procés complet.
+
+**Desenvolupament:**
+1. Seleccionar una miniatura adequada al nivell tècnic disponible.
+2. Realitzar l'anàlisi inicial.
+3. Definir el resultat buscat i les prioritats.
+4. Identificar els materials i les superfícies.
+5. Elaborar una planificació cromàtica i lumínica.
+6. Seleccionar les tècniques i les eines necessàries.
+7. Establir una seqüència d'operacions.
+8. Executar el treball seguint el pla com a referència.
+9. Realitzar controls en moments rellevants.
+10. Registrar les modificacions introduïdes.
+11. Avaluar el resultat des de diferents distàncies.
+12. Identificar els objectius assolits i els aspectes millorables.
+13. Aplicar les correccions necessàries.
+14. Documentar el procés i establir conclusions per a treballs futurs.
+
+**Resultat esperat:** completar un procés de pintura organitzat, fonamentat i avaluable, demostrant capacitat per seleccionar i combinar tècniques i adaptar les decisions a les condicions reals d'execució.
 
 ## Síntesi del capítol
 

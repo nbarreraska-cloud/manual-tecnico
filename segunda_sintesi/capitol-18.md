@@ -396,15 +396,65 @@ Aquest registre facilita la comprensió del procés i permet distingir entre una
 
 ## 18.8. Avaluació global, correcció i finalització
 
-La miniatura s'ha d'observar de prop i des de la distància habitual. La primera permet detectar problemes d'aplicació, acumulacions, continuïtat i precisió; la segona permet valorar lectura general, jerarquia, contrastos, coherència cromàtica i integració dels materials.
+### 18.8.1. Avaluació des de diferents distàncies
 
-L'avaluació ha de comparar el resultat amb els objectius inicials: reconeixement dels materials, organització cromàtica, coherència lumínica, funció de les textures i efectes, qualitat de les tècniques i adequació del nivell d'acabat. Cal identificar la causa probable d'un problema abans de corregir-lo: una superfície que sembla plana pot necessitar una revisió dels valors, de la textura o dels reflexos.
+La miniatura s'ha d'observar tant des d'una distància pròxima com des de la distància habitual de contemplació.
 
-La correcció ha de ser selectiva i proporcional. Cal considerar l'extensió i la importància visual del defecte, la possibilitat d'intervenir localment, la compatibilitat amb les capes anteriors i el risc d'afectar zones pròximes. No tots els defectes mínims requereixen intervenció. El diagnòstic i els procediments específics de correcció es desenvolupen al capítol 39.
+L'observació propera permet valorar la qualitat d'aplicació, la definició dels detalls, les acumulacions, la continuïtat de les superfícies, la precisió dels límits i els defectes localitzats.
 
-El procés es pot donar per acabat quan s'han assolit els objectius principals, la miniatura és llegible, els materials i colors s'integren i les intervencions addicionals ja no aporten una millora significativa. No cal eliminar tota irregularitat ni afegir tots els detalls possibles. Els acabats, la protecció i la conservació es desenvolupen als capítols 35–38.
+L'observació a distància permet valorar la lectura general, la jerarquia visual, la distribució dels contrastos, la coherència cromàtica, la integració dels materials i el reconeixement dels elements principals.
 
-La documentació del procés pot incloure fotografies de diferents fases, paleta, productes, eines, tècniques, ordre real, modificacions, problemes, solucions i millores futures. No cal registrar cada moviment del pinzell: convé conservar les decisions que ajudin a comprendre, repetir o millorar el treball.
+Totes dues perspectives són necessàries. Una miniatura pot presentar detalls tècnicament correctes i, tanmateix, resultar confusa en la seva lectura global.
+
+### 18.8.2. Avaluació per objectius
+
+El resultat s'ha de comparar amb els objectius definits al començament.
+
+Convé comprovar si els elements principals destaquen adequadament, si els materials es reconeixen, si l'organització cromàtica resulta coherent, si la il·luminació manté una lògica comuna, si les textures i els efectes aporten informació útil, si el nivell d'acabat correspon al resultat buscat i si les tècniques s'han aplicat amb una funció clara.
+
+L'avaluació no s'ha de limitar a determinar si una miniatura està ben o mal pintada. Ha d'identificar quins objectius s'han assolit i quins aspectes es poden millorar.
+
+### 18.8.3. Identificació de problemes
+
+Durant l'avaluació poden aparèixer problemes d'aplicació, cromàtics, d'il·luminació, de lectura dels materials, de seqüenciació, de compatibilitat, de jerarquia visual o derivats d'una planificació insuficient.
+
+És important identificar la causa probable abans de corregir.
+
+Per exemple, una superfície que sembla plana pot necessitar una millora dels valors, però també pot presentar un problema de textura o de distribució dels reflexos.
+
+La correcció ha de respondre a l'origen del problema i no limitar-se a afegir més pintura o més contrast.
+
+El diagnòstic sistemàtic i els procediments específics de correcció es desenvolupen al capítol 39. Aquí s'estableix la necessitat d'incorporar l'avaluació i la correcció al procés integral.
+
+### 18.8.4. Correcció selectiva
+
+Un cop identificat el problema, convé seleccionar la intervenció menys complexa que permeti resoldre'l sense deteriorar altres zones.
+
+Abans de corregir, cal considerar l'extensió del problema, la seva importància visual, la possibilitat d'intervenir localment, la compatibilitat amb les aplicacions anteriors, el risc d'alterar superfícies pròximes i la necessitat de revisar operacions posteriors.
+
+No tots els defectes requereixen una correcció. Alguns poden tenir una importància visual mínima o resultar acceptables dins del nivell d'acabat previst.
+
+La intervenció ha de ser proporcional al problema.
+
+### 18.8.5. Criteri de finalització
+
+El procés es pot considerar acabat quan s'han assolit els objectius principals i les intervencions addicionals ja no aporten una millora rellevant.
+
+Convé comprovar la coherència general de la miniatura, la llegibilitat dels seus elements, la integració de colors i materials, la qualitat de les operacions principals, l'absència de defectes que comprometin el resultat i l'adequació de l'acabat a l'objectiu inicial.
+
+La finalització no exigeix eliminar tota irregularitat ni afegir tots els detalls possibles. En ocasions, continuar intervenint pot deteriorar un resultat que ja compleix la seva funció.
+
+Els procediments d'acabat, protecció i conservació es desenvolupen als capítols 35–38. La seva aplicació s'ha d'incorporar al pla quan correspongui, sense confondre la finalització de la pintura amb la protecció posterior.
+
+### 18.8.6. Documentació del resultat
+
+La documentació permet conservar informació útil sobre el procés realitzat.
+
+Pot incloure fotografies de la miniatura en diferents fases, paleta utilitzada, productes i eines principals, tècniques seleccionades, ordre real de les operacions, modificacions respecte del pla inicial, problemes detectats, solucions aplicades i aspectes que convindria millorar en un treball futur.
+
+No és necessari documentar cada moviment del pinzell. El registre s'ha de centrar en les decisions que puguin resultar útils per comprendre, repetir o millorar el procés.
+
+La documentació també permet comparar projectes i reconèixer quins procediments han resultat adequats per a determinades superfícies o situacions.
 
 ## 18.9. Eines de planificació i avaluació
 

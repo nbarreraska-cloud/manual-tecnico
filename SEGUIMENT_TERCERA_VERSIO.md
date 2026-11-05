@@ -879,7 +879,7 @@ La integritat de la compilació s'ha verificat recuperant de nou els 39 fitxers 
 
 ### Ordre operatiu vigent
 
-1. Conciliar el Registre Mestre i el Seguiment amb els estats reals de les auditorias, retirant les instruccions històriques que ja no siguin vigents.
+1. Conciliar el Registre Mestre i el Seguiment amb els estats reals de les auditories, retirant les instruccions històriques que ja no siguin vigents.
 2. Completar F4, prioritzant les remissions semàntiques C1–C18 i els capítols encara no cotejats.
 3. Sincronitzar i tornar a verificar la compilació consolidada si F4 produeix canvis als capítols.
 4. Només després de l'estabilització dels 39 capítols, iniciar F5 (annexos A–E).

@@ -87,6 +87,7 @@ La referència actual és d'aproximadament 300 pàgines per als 39 capítols sen
 - **A:** regenerat i arxivat l'anterior; pendent de F6/F8.
 - **B:** regenerat i arxivat l'anterior; pendent de F6/F8.
 - **C:** regenerat i arxivat l'anterior; 183 entrades i referències contrastades amb les receptes de C19–C34; pendent de F6/F8.
-- **D i E:** pendents de regeneració.
+- **D:** regenerat i arxivat l'anterior; 92 entrades vinculades a les receptes i referències de C, amb pintures contrastades amb A i els apartats d'origen; pendent de F6/F8.
+- **E:** pendent de regeneració.
 
-**Següent acció:** regenerar l'Annex D, mantenint l'ordre A–E. No iniciar la selecció/producció gràfica ni inserir imatges durant F5–F9.
+**Següent acció:** regenerar l'Annex E, mantenint l'ordre A–E. No iniciar la selecció/producció gràfica ni inserir imatges durant F5–F9.

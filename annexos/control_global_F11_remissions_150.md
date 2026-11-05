@@ -131,3 +131,6 @@ Aquesta fase no modifica `main`, no reobre F9 i no autoritza encara la inserció
 
 - S'han contrastat els 116 ancoratges de les tandes 02 i 03 amb les fitxes F10: **0 discrepàncies**.
 - La revisió contextual ha corregit la figura 39.6, que passa de 39.7 a 39.2.3; el motiu queda documentat a l'auditoria editorial.
+
+
+- S'ha fixat el criteri editorial per a la remissió local: **no inserir una frase repetitiva per a cada figura** si la proximitat, el títol i la llegenda ja orienten el lector. Es preserven les remissions creuades no locals que realment faciliten la navegació; la decisió final sobre crides locals es prendrà en maquetació.

@@ -10247,7 +10247,7 @@ Les roques vesiculars necessiten cavitats de mides diferents, distribució irreg
 
 ## 26.6. Gres, calcària i roques sedimentàries
 
-**Gres:** format principalment per grans cimentats; pot ser beix, groguenca, rogenca, marró o grisa, amb granularitat, estrats i erosió.
+**Gres:** format principalment per grans cimentats; pot ser beix, groguenc, rogenc, marró o gris, amb granularitat, estrats i erosió.
 
 - **Recepta E. Gres beix:** base Deck Tan; variació Japanese Uniform WWII; ombres Parasite Brown; aclarits Ivory; accents Ice Yellow.
 - **Recepta F. Gres rogenc:** base Parasite Brown; variació Dark Rust; tons mitjans Japanese Uniform WWII; ombres amb la combinació proposada de Dark Rust i Black; aclarits Deck Tan.

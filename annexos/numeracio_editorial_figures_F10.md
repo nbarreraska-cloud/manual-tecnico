@@ -8,40 +8,40 @@ La numeració proposada es calcula només sobre les 150 composicions seleccionad
 
 | ID estable | Número editorial proposat | Identificador(s) original(s) | Capítol | Títol de treball | Ubicació lectora |
 |---|---|---|---:|---|---|
-| G001 | Figura 1.1 | 1.2 | 1 | Classificació de la informació tècnica | pendent |
-| G002 | Figura 2.1 | 2.2 | 2 | Organització documental de la informació sobre les pintures | pendent |
-| G003 | Figura 3.1 | 3.1 | 3 | Comportament d'opacitat i transparència de les pintures | pendent |
-| G004 | Figura 3.2 | 3.2 | 3 | Influència del fons en una mateixa capa de pintura | pendent |
-| G005 | Figura 3.3 | 3.3 | 3 | Distribució de la pintura sobre relleus i cavitats | pendent |
-| G006 | Figura 4.1 | 4.3 | 4 | Mescla additiva RGB i mescla sostractiva CMY | pendent |
-| G007 | Figura 4.2 | 4.4 | 4 | Dimensions del color: matís, valor i croma | pendent |
-| G008 | Figura 4.3 | 4.6 | 4 | Harmonies cromàtiques | pendent |
-| G009 | Figura 4.4 | 4.7 | 4 | Tipus de contrast cromàtic | pendent |
-| G010 | Figura 4.5 | 4.8 | 4 | Mescla i modificació cromàtica | pendent |
-| G011 | Figura 4.6 | 4.9 | 4 | Planificació cromàtica d'una miniatura amb armadura blava | pendent |
-| G012 | Figura 5.1 | 5.4 | 5 | Orientació dels plans respecte de la font | pendent |
-| G013 | Figura 5.2 | 5.6 | 5 | Angle d'incidència i llei de la reflexió | pendent |
-| G014 | Figura 5.3 | 5.7 | 5 | Il·luminació de superfícies planes i corbes | pendent |
-| G015 | Figura 5.4 | 5.11 | 5 | Bloqueig de llum i formació de l'ombra | pendent |
-| G016 | Figura 5.5 | 5.12 | 5 | Ombra pròpia i ombra projectada | pendent |
-| G017 | Figura 5.6 | 5.13 | 5 | Umbra i penombra | pendent |
-| G018 | Figura 5.7 | 5.15 | 5 | Construcció visual del volum | pendent |
-| G019 | Figura 5.8 | 5.16 | 5 | Anàlisi d'il·luminació d'una miniatura | pendent |
-| G020 | Figura 6.1 | 6.1 | 6 | Material, aparença i representació pictòrica | pendent |
-| G021 | Figura 6.2 | 6.4 | 6 | Respostes òptiques dels materials | pendent |
-| G022 | Figura 6.3 | 6.5 | 6 | Opacitat, transparència i translucidesa | pendent |
-| G023 | Figura 6.4 | 6.7 | 6 | Identificació de materials mitjançant senyals combinades | pendent |
-| G024 | Figura 6.5 | 6.8 | 6 | Simplificació i jerarquia visual a escala miniatura | pendent |
-| G025 | Figura 7.1 | 7.2 | 7 | Components i característiques funcionals del pinzell | pendent |
-| G026 | Figura 7.2 | 7.4 | 7 | Comparació de sistemes d'aplicació | pendent |
-| G027 | Figura 7.3 | 7.5 | 7 | Seqüència de preparació d'una miniatura | pendent |
-| G028 | Figura 7.4 | 7.6 | 7 | Control de la imprimació | pendent |
-| G029 | Figura 7.5 | 7.7 | 7 | Preparació operativa de pintures | pendent |
-| G030 | Figura 11.1 | 11.1 | 11 | Diferència entre rentat, tinta i pigment en pols | pendent |
-| G031 | Figura 11.2 | 11.3 | 11 | Rentat general i rentat localitzat | pendent |
-| G032 | Figura 11.3 | 11.5 | 11 | Aplicació de pigments en sec | pendent |
-| G033 | Figura 11.4 | 11.6 | 11 | Pigment sec i pigment fixat | pendent |
-| G034 | Figura 11.5 | 11.8 | 11 | Errors freqüents en rentats, tintes i pigments | pendent |
+| G001 | Figura 1.1 | 1.2 | 1 | Classificació de la informació tècnica | apartat 1.5.. |
+| G002 | Figura 2.1 | 2.2 | 2 | Organització documental de la informació sobre les pintures | apartat 2.5.. |
+| G003 | Figura 3.1 | 3.1 | 3 | Comportament d'opacitat i transparència de les pintures | apartat 3.1.. |
+| G004 | Figura 3.2 | 3.2 | 3 | Influència del fons en una mateixa capa de pintura | apartat 3.2.1.. |
+| G005 | Figura 3.3 | 3.3 | 3 | Distribució de la pintura sobre relleus i cavitats | apartat 3.3.. |
+| G006 | Figura 4.1 | 4.3 | 4 | Mescla additiva RGB i mescla sostractiva CMY | apartats 4.3.2–4.3.3.. |
+| G007 | Figura 4.2 | 4.4 | 4 | Dimensions del color: matís, valor i croma | apartat 4.4.. |
+| G008 | Figura 4.3 | 4.6 | 4 | Harmonies cromàtiques | apartat 4.6.. |
+| G009 | Figura 4.4 | 4.7 | 4 | Tipus de contrast cromàtic | apartat 4.7.. |
+| G010 | Figura 4.5 | 4.8 | 4 | Mescla i modificació cromàtica | apartat 4.8.. |
+| G011 | Figura 4.6 | 4.9 | 4 | Planificació cromàtica d'una miniatura amb armadura blava | apartat 4.9.. |
+| G012 | Figura 5.1 | 5.4 | 5 | Orientació dels plans respecte de la font | apartat 5.3.1.. |
+| G013 | Figura 5.2 | 5.6 | 5 | Angle d'incidència i llei de la reflexió | apartat 5.3.2; remissió conceptual a 5.4.1.. |
+| G014 | Figura 5.3 | 5.7 | 5 | Il·luminació de superfícies planes i corbes | apartats 5.3.1 i 5.3.4.. |
+| G015 | Figura 5.4 | 5.11 | 5 | Bloqueig de llum i formació de l'ombra | apartat 5.5.1.. |
+| G016 | Figura 5.5 | 5.12 | 5 | Ombra pròpia i ombra projectada | apartat 5.5.2.. |
+| G017 | Figura 5.6 | 5.13 | 5 | Umbra i penombra | apartat 5.5.3.. |
+| G018 | Figura 5.7 | 5.15 | 5 | Construcció visual del volum | apartat 5.7.. |
+| G019 | Figura 5.8 | 5.16 | 5 | Anàlisi d'il·luminació d'una miniatura | apartat 5.8.4.. |
+| G020 | Figura 6.1 | 6.1 | 6 | Material, aparença i representació pictòrica | apartat 6.1.. |
+| G021 | Figura 6.2 | 6.4 | 6 | Respostes òptiques dels materials | apartat 6.4.. |
+| G022 | Figura 6.3 | 6.5 | 6 | Opacitat, transparència i translucidesa | apartats 6.4.1–6.4.2.. |
+| G023 | Figura 6.4 | 6.7 | 6 | Identificació de materials mitjançant senyals combinades | apartat 6.5.1.. |
+| G024 | Figura 6.5 | 6.8 | 6 | Simplificació i jerarquia visual a escala miniatura | apartat 6.6.. |
+| G025 | Figura 7.1 | 7.2 | 7 | Components i característiques funcionals del pinzell | apartat 7.3.1.. |
+| G026 | Figura 7.2 | 7.4 | 7 | Comparació de sistemes d'aplicació | apartat 7.3.7.. |
+| G027 | Figura 7.3 | 7.5 | 7 | Seqüència de preparació d'una miniatura | apartat 7.4.. |
+| G028 | Figura 7.4 | 7.6 | 7 | Control de la imprimació | apartat 7.5.. |
+| G029 | Figura 7.5 | 7.7 | 7 | Preparació operativa de pintures | apartat 7.6.. |
+| G030 | Figura 11.1 | 11.1 | 11 | Diferència entre rentat, tinta i pigment en pols | apartat 11.1.. |
+| G031 | Figura 11.2 | 11.3 | 11 | Rentat general i rentat localitzat | apartats 11.2.3–11.2.4.. |
+| G032 | Figura 11.3 | 11.5 | 11 | Aplicació de pigments en sec | apartats 11.4.2 i 11.7.4.. |
+| G033 | Figura 11.4 | 11.6 | 11 | Pigment sec i pigment fixat | apartats 11.4.5 i 11.7.5.. |
+| G034 | Figura 11.5 | 11.8 | 11 | Errors freqüents en rentats, tintes i pigments | apartat 11.8.. |
 | G035 | Figura 15.1 | 15.1 | 15 | Anàlisi de geometria, volums i superfícies | 15.2. |
 | G036 | Figura 15.2 | 15.3 | 15 | Mapa de valors | 15.6. |
 | G037 | Figura 15.3 | 15.6 | 15 | Distribució del contrast | 15.4 o 15.8. |
@@ -96,68 +96,68 @@ La numeració proposada es calcula només sobre les 150 composicions seleccionad
 | G086 | Figura 24.4 | 24.5 | 24 | Construcció de pell profunda | 24.5. |
 | G087 | Figura 24.5 | 24.7 + 24.8 | 24 | Masses musculars i diferenciació dels teixits orgànics | 24.8. |
 | G088 | Figura 24.6 | 24.9 | 24 | Errors freqüents | 24.9.3. |
-| G089 | Figura 30.1 | 30.1 | 30 | Estructura visual d'una flama | pendent |
-| G090 | Figura 30.2 | 30.3 | 30 | Planificació cromàtica del foc | pendent |
-| G091 | Figura 30.3 | 30.4 | 30 | Construcció pictòrica d'una flama | pendent |
-| G092 | Figura 30.4 | 30.8 | 30 | Integració de foc, fum i material carbonitzat | pendent |
-| G093 | Figura 31.1 | 31.1 | 31 | Estats visuals de la sang | pendent |
-| G094 | Figura 31.2 | 31.2 | 31 | Diferenciació entre sang i altres fluids | pendent |
-| G095 | Figura 31.3 | 31.3 | 31 | Distribució de fluids sobre diferents geometries | pendent |
-| G096 | Figura 31.4 | 31.4 | 31 | Construcció de sang fresca | pendent |
-| G097 | Figura 31.5 | 31.5 | 31 | Construcció de sang seca | pendent |
-| G098 | Figura 31.6 | 31.8 | 31 | Errors freqüents en la representació de sang i fluids | pendent |
-| G099 | Figura 32.1 | 32.2 | 32 | Jerarquia visual d'una manifestació energètica | pendent |
-| G100 | Figura 32.2 | 32.3 | 32 | Fluorescència, color convencional i aparença lluminosa | pendent |
-| G101 | Figura 32.3 | 32.4 | 32 | Construcció d'una esfera d'energia | pendent |
-| G102 | Figura 32.4 | 32.5 | 32 | Estructura d'una descàrrega | pendent |
-| G103 | Figura 32.5 | 32.8 | 32 | Font energètica i il·luminació projectada | pendent |
-| G104 | Figura 33.1 | 33.1 | 33 | Comparació de cossos ceràmics | pendent |
-| G105 | Figura 33.2 | 33.2 | 33 | Ceràmica sense esmaltar i superfícies esmaltades | pendent |
-| G106 | Figura 33.3 | 33.5 | 33 | Construcció d'una superfície de terracota | pendent |
-| G107 | Figura 33.4 | 33.6 | 33 | Construcció d'un esmalt acolorit | pendent |
-| G108 | Figura 33.5 | 33.7 | 33 | Craquelat i pèrdua localitzada de l'esmalt | pendent |
-| G109 | Figura 33.6 | 33.9 | 33 | Reflexos sobre superfícies plàstiques | pendent |
+| G089 | Figura 30.1 | 30.1 | 30 | Estructura visual d'una flama | 30.2. |
+| G090 | Figura 30.2 | 30.3 | 30 | Planificació cromàtica del foc | 30.3.1–30.3.2. |
+| G091 | Figura 30.3 | 30.4 | 30 | Construcció pictòrica d'una flama | 30.5. |
+| G092 | Figura 30.4 | 30.8 | 30 | Integració de foc, fum i material carbonitzat | 30.9. |
+| G093 | Figura 31.1 | 31.1 | 31 | Estats visuals de la sang | 31.1–31.2. |
+| G094 | Figura 31.2 | 31.2 | 31 | Diferenciació entre sang i altres fluids | 31.2. |
+| G095 | Figura 31.3 | 31.3 | 31 | Distribució de fluids sobre diferents geometries | 31.3 i 31.4.3. |
+| G096 | Figura 31.4 | 31.4 | 31 | Construcció de sang fresca | 31.4.2–31.4.3. |
+| G097 | Figura 31.5 | 31.5 | 31 | Construcció de sang seca | 31.5. |
+| G098 | Figura 31.6 | 31.8 | 31 | Errors freqüents en la representació de sang i fluids | 31.7. |
+| G099 | Figura 32.1 | 32.2 | 32 | Jerarquia visual d'una manifestació energètica | 32.2. |
+| G100 | Figura 32.2 | 32.3 | 32 | Fluorescència, color convencional i aparença lluminosa | 32.2.4 i 32.4.1. |
+| G101 | Figura 32.3 | 32.4 | 32 | Construcció d'una esfera d'energia | 32.3 i 32.5. |
+| G102 | Figura 32.4 | 32.5 | 32 | Estructura d'una descàrrega | 32.3. |
+| G103 | Figura 32.5 | 32.8 | 32 | Font energètica i il·luminació projectada | 32.2.4 i 32.6; remissió a C17. |
+| G104 | Figura 33.1 | 33.1 | 33 | Comparació de cossos ceràmics | 33.2.1–33.2.2. |
+| G105 | Figura 33.2 | 33.2 | 33 | Ceràmica sense esmaltar i superfícies esmaltades | 33.2.1 i 33.2.3. |
+| G106 | Figura 33.3 | 33.5 | 33 | Construcció d'una superfície de terracota | 33.4. |
+| G107 | Figura 33.4 | 33.6 | 33 | Construcció d'un esmalt acolorit | 33.5. |
+| G108 | Figura 33.5 | 33.7 | 33 | Craquelat i pèrdua localitzada de l'esmalt | 33.6. |
+| G109 | Figura 33.6 | 33.9 | 33 | Reflexos sobre superfícies plàstiques | 33.7–33.8. |
 | G110 | Figura 34.1 | 34.1 + 34.7 | 34 | Tipus de vidre i diferències entre transparència i difusió | 34.2; remissió des de 34.7. |
-| G111 | Figura 34.2 | 34.2 | 34 | Senyals visuals del vidre | pendent |
-| G112 | Figura 34.3 | 34.3 | 34 | Construcció d'un panell de vidre transparent | pendent |
-| G113 | Figura 34.4 | 34.5 | 34 | Vidre acolorit | pendent |
-| G114 | Figura 34.5 | 34.9 | 34 | Esquerdes, fractures i fragments de vidre | pendent |
+| G111 | Figura 34.2 | 34.2 | 34 | Senyals visuals del vidre | 34.2. |
+| G112 | Figura 34.3 | 34.3 | 34 | Construcció d'un panell de vidre transparent | 34.4. |
+| G113 | Figura 34.4 | 34.5 | 34 | Vidre acolorit | 34.5. |
+| G114 | Figura 34.5 | 34.9 | 34 | Esquerdes, fractures i fragments de vidre | 34.8. |
 | G115 | Figura 35.1 | 35.1 + 35.2 | 35 | Anàlisi global i distribució de masses cromàtiques | 35.2–35.3. |
-| G116 | Figura 35.2 | 35.4 | 35 | Harmonització i uniformitat | pendent |
-| G117 | Figura 35.3 | 35.5 | 35 | Integració cromàtica entre materials | pendent |
-| G118 | Figura 35.4 | 35.6 | 35 | Integració cromàtica de figura i peanya | pendent |
-| G119 | Figura 35.5 | 35.8 | 35 | Correccions localitzades i globals | pendent |
-| G120 | Figura 35.6 | 35.9 | 35 | Seqüència d'harmonització cromàtica | pendent |
-| G121 | Figura 36.1 | 36.1 | 36 | Envelliment, desgast i deteriorament | pendent |
-| G122 | Figura 36.2 | 36.2 | 36 | Distribució del desgast segons la geometria i l'ús | pendent |
-| G123 | Figura 36.3 | 36.3 | 36 | Abrasió, fregadures i ratllades | pendent |
-| G124 | Figura 36.4 | 36.4 | 36 | Impactes i danys localitzats | pendent |
-| G125 | Figura 36.5 | 36.5 | 36 | Estructura de capes i pèrdua de recobriment | pendent |
-| G126 | Figura 36.6 | 36.6 | 36 | Desconxats petits i pèrdues extenses | pendent |
-| G127 | Figura 36.7 | 36.8 | 36 | Desgast en materials diferents | pendent |
-| G128 | Figura 36.8 | 36.9 | 36 | Seqüència de construcció d'una superfície desgastada | pendent |
-| G129 | Figura 37.1 | 37.2 | 37 | Reflexió especular i reflexió més difusa | pendent |
-| G130 | Figura 37.2 | 37.3 | 37 | Orientació, il·luminació i brillantor percebuda | pendent |
-| G131 | Figura 37.3 | 37.4 | 37 | Relació entre acabat, textura i reflexos | pendent |
-| G132 | Figura 37.4 | 37.6 | 37 | Selecció de l'acabat segons materials i efectes | pendent |
-| G133 | Figura 37.5 | 37.7 | 37 | Diferenciació de materials mitjançant acabats selectius | pendent |
-| G134 | Figura 37.6 | 37.8 | 37 | Distribució localitzada de la brillantor | pendent |
-| G135 | Figura 37.7 | 37.9 | 37 | Seqüència d'anàlisi i selecció de l'acabat | pendent |
-| G136 | Figura 37.8 | 37.10 | 37 | Errors freqüents i criteris de correcció | pendent |
-| G137 | Figura 38.1 | 38.2 | 38 | Fases d'assecat i estabilització | pendent |
-| G138 | Figura 38.2 | 38.4 | 38 | Selecció del sistema de protecció segons l'ús | pendent |
-| G139 | Figura 38.3 | 38.5 | 38 | Seqüència de preparació i inspecció | pendent |
-| G140 | Figura 38.4 | 38.6 | 38 | Aplicació amb pinzell, aerògraf i aerosol | pendent |
-| G141 | Figura 38.5 | 38.7 | 38 | Distribució controlada i acumulació excessiva | pendent |
-| G142 | Figura 38.6 | 38.8 | 38 | Alteracions per incompatibilitat o aplicació incorrecta | pendent |
-| G143 | Figura 38.7 | 38.10 | 38 | Seqüència integral de protecció i conservació | pendent |
-| G144 | Figura 39.1 | 39.1 | 39 | Seqüència general de diagnòstic | pendent |
-| G145 | Figura 39.2 | 39.2 | 39 | Diferència entre símptoma, causa i correcció | pendent |
-| G146 | Figura 39.3 | 39.3 | 39 | Inspecció d'una miniatura | pendent |
-| G147 | Figura 39.4 | 39.4 | 39 | Classificació dels problemes habituals | pendent |
-| G148 | Figura 39.5 | 39.5 | 39 | Nivells d'intervenció | pendent |
-| G149 | Figura 39.6 | 39.7 | 39 | Diagnòstic d'alteracions superficials | pendent |
-| G150 | Figura 39.7 | 39.10 | 39 | Arbre de decisió: corregir o conservar | pendent |
+| G116 | Figura 35.2 | 35.4 | 35 | Harmonització i uniformitat | 35.3. |
+| G117 | Figura 35.3 | 35.5 | 35 | Integració cromàtica entre materials | 35.4. |
+| G118 | Figura 35.4 | 35.6 | 35 | Integració cromàtica de figura i peanya | 35.5. |
+| G119 | Figura 35.5 | 35.8 | 35 | Correccions localitzades i globals | 35.7. |
+| G120 | Figura 35.6 | 35.9 | 35 | Seqüència d'harmonització cromàtica | 35.8. |
+| G121 | Figura 36.1 | 36.1 | 36 | Envelliment, desgast i deteriorament | 36.2.1. |
+| G122 | Figura 36.2 | 36.2 | 36 | Distribució del desgast segons la geometria i l'ús | 36.3. |
+| G123 | Figura 36.3 | 36.3 | 36 | Abrasió, fregadures i ratllades | 36.4.1–36.4.3. |
+| G124 | Figura 36.4 | 36.4 | 36 | Impactes i danys localitzats | 36.4.4. |
+| G125 | Figura 36.5 | 36.5 | 36 | Estructura de capes i pèrdua de recobriment | 36.5.1. |
+| G126 | Figura 36.6 | 36.6 | 36 | Desconxats petits i pèrdues extenses | 36.5.2–36.5.3. |
+| G127 | Figura 36.7 | 36.8 | 36 | Desgast en materials diferents | 36.7. |
+| G128 | Figura 36.8 | 36.9 | 36 | Seqüència de construcció d'una superfície desgastada | 36.8. |
+| G129 | Figura 37.1 | 37.2 | 37 | Reflexió especular i reflexió més difusa | 37.2.1. |
+| G130 | Figura 37.2 | 37.3 | 37 | Orientació, il·luminació i brillantor percebuda | 37.2.1–37.3. |
+| G131 | Figura 37.3 | 37.4 | 37 | Relació entre acabat, textura i reflexos | 37.2.1–37.3. |
+| G132 | Figura 37.4 | 37.6 | 37 | Selecció de l'acabat segons materials i efectes | 37.4. |
+| G133 | Figura 37.5 | 37.7 | 37 | Diferenciació de materials mitjançant acabats selectius | 37.5. |
+| G134 | Figura 37.6 | 37.8 | 37 | Distribució localitzada de la brillantor | 37.5. |
+| G135 | Figura 37.7 | 37.9 | 37 | Seqüència d'anàlisi i selecció de l'acabat | 37.6. |
+| G136 | Figura 37.8 | 37.10 | 37 | Errors freqüents i criteris de correcció | 37.7. |
+| G137 | Figura 38.1 | 38.2 | 38 | Fases d'assecat i estabilització | 38.2.4. |
+| G138 | Figura 38.2 | 38.4 | 38 | Selecció del sistema de protecció segons l'ús | 38.4. |
+| G139 | Figura 38.3 | 38.5 | 38 | Seqüència de preparació i inspecció | 38.5. |
+| G140 | Figura 38.4 | 38.6 | 38 | Aplicació amb pinzell, aerògraf i aerosol | 38.6. |
+| G141 | Figura 38.5 | 38.7 | 38 | Distribució controlada i acumulació excessiva | 38.6 i 38.7.3. |
+| G142 | Figura 38.6 | 38.8 | 38 | Alteracions per incompatibilitat o aplicació incorrecta | 38.7.1–38.7.2. |
+| G143 | Figura 38.7 | 38.10 | 38 | Seqüència integral de protecció i conservació | 38.8 i síntesi. |
+| G144 | Figura 39.1 | 39.1 | 39 | Seqüència general de diagnòstic | 39.2. |
+| G145 | Figura 39.2 | 39.2 | 39 | Diferència entre símptoma, causa i correcció | 39.2.2–39.2.5. |
+| G146 | Figura 39.3 | 39.3 | 39 | Inspecció d'una miniatura | 39.2.1. |
+| G147 | Figura 39.4 | 39.4 | 39 | Classificació dels problemes habituals | 39.3. |
+| G148 | Figura 39.5 | 39.5 | 39 | Nivells d'intervenció | 39.5. |
+| G149 | Figura 39.6 | 39.7 | 39 | Diagnòstic d'alteracions superficials | 39.7. |
+| G150 | Figura 39.7 | 39.10 | 39 | Arbre de decisió: corregir o conservar | 39.5.1–39.5.2. |
 
 ## Recompte per capítol
 

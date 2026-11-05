@@ -28,11 +28,11 @@ La documentació oficial situa aquesta referència dins de Model Color. No s'ha 
 
 ## 4. Presència i funció dins del manual
 
-Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n reprodueix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
+Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n resumeix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
 
-- **Capítol 21:** `| Yellow Green | 70.954 | Verds groguencs |`
-- **Capítol 27:** `|- **Capítol 23:** `| Yellow Green | 70.954 | Verds groguencs |`
- Yellow Green | 70.954 | Tons verds groguencs |`
+- **Capítol 21:** Verds groguencs (funció indicada a la taula).
+- **Capítol 23:** Verds groguencs (funció indicada a la taula).
+- **Capítol 27:** Tons verds groguencs (funció indicada a la taula).
 
 Capítols amb aparicions identificades: C21, C23, C27.
 

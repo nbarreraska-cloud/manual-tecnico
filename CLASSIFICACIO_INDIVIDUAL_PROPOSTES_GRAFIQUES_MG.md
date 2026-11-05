@@ -9,8 +9,8 @@
 
 | Prioritat | Nombre | Criteri |
 |---|---:|---|
-| **P1 — prioritària** | 157 | Aporta comprensió visual o operativa rellevant; candidata a producció individual, subjecta a validació del contingut i de la necessitat final. |
-| **P2 — complementària** | 83 | Pot millorar la comprensió, però és secundària, il·lustrativa o susceptible d'integrar-se en una figura més completa. |
+| **P1 — prioritària** | 156 | Aporta comprensió visual o operativa rellevant; candidata a producció individual, subjecta a validació del contingut i de la necessitat final. |
+| **P2 — complementària** | 84 | Pot millorar la comprensió, però és secundària, il·lustrativa o susceptible d'integrar-se en una figura més completa. |
 | **P3 — fusionable/no independent** | 3 | No es recomana produir-la com a figura separada; la informació s'ha d'incorporar a una figura associada. |
 | **Total** | **243** | Classificació completa de totes les propostes arxivades. |
 
@@ -24,7 +24,7 @@ Cada identificador correspon a una proposta concreta del document font. Tots els
 |---|---:|---|---|---|
 | C1 | 2 | 1.2 | 1.1 | — |
 | C2 | 2 | 2.2 | 2.1 | — |
-| C3 | 6 | 3.1, 3.2, 3.3, 3.6 | 3.4, 3.5 | — |
+| C3 | 6 | 3.1, 3.2, 3.3 | 3.4, 3.5, 3.6 | — |
 | C4 | 9 | 4.3, 4.4, 4.6, 4.7, 4.8, 4.9 | 4.1, 4.2, 4.5 | — |
 | C5 | 16 | 5.4, 5.6, 5.7, 5.11, 5.12, 5.13, 5.15, 5.16 | 5.1, 5.2, 5.3, 5.5, 5.8, 5.9, 5.10 | 5.14 |
 | C6 | 8 | 6.1, 6.4, 6.5, 6.7, 6.8 | 6.2, 6.3, 6.6 | — |
@@ -99,3 +99,10 @@ La classificació és una decisió editorial inicial basada en el títol, la des
 ## 8. Límits i estat
 
 Aquesta classificació cobreix les 243 propostes arxivades, però no declara cap figura produïda, no valida cap recepta i no autoritza canvis al contingut dels capítols. La selecció definitiva de producció depèn de la verificació amb el manual consolidat.
+
+
+## 6. Actualització de recompte després del coteig del C3 — 05/11/2026
+
+La proposta **3.6 — Esquema de selecció funcional de pintures** es reclassifica de P1 a P2 perquè la taula del capítol 3 i la seqüència de selecció ja resolen la funció essencial. Es conserva com a recurs complementari condicionat: només es produirà si es pot convertir en un arbre de decisió no redundant.
+
+**Recompte vigent:** 156 P1, 84 P2 i 3 P3 (243 propostes). Aquest recompte substitueix el recompte inicial de 157 P1, 83 P2 i 3 P3.

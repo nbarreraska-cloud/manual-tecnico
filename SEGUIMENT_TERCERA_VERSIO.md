@@ -693,3 +693,14 @@ La font disponible declara que el C16 és una versió consolidada nova perquè n
 
 - **C17 (OSL):** la font disponible declara que és una versió consolidada nova i que no s'ha recuperat un original complet. S'ha comprovat l'estructura de deu apartats, sis exercicis i el criteri central de coherència espacial entre font, superfícies receptores, geometria i entorn. No s'ha modificat el capítol ni es presenta la comprovació com un coteig integral.
 - **C18:** la font disponible declara que no s'ha recuperat un original complet. S'ha comprovat l'estructura de deu apartats, sis exercicis i la presència de les eines de planificació, seqüenciació, control i avaluació. No s'ha modificat el capítol ni es presenta la comprovació com un coteig integral.
+
+
+### Actualització F4 — capítol 19: metalls (05/11/2026)
+
+S'ha cotejat el contingut de C19 amb el material de referència disponible:
+
+- Es conserven les 16 receptes: acer (3), plata (3), or (4), coure (3) i bronze (3).
+- Els codis de pintura i les llistes d'ingredients de les 16 receptes coincideixen amb la font disponible; no s'han detectat codis ni ingredients absents o afegits.
+- Es conserven els set exercicis (19.10.1–19.10.7). El registre editorial de la font deia sis, però el contingut efectiu en presenta set i la síntesi els manté.
+- No s'han localitzat proporcions quantitatives exactes en la font disponible ni en els acords previs del 04/11/2026. No s'afegeixen proporcions inventades. Les combinacions continuen identificades com a propostes tècniques pendents de proves.
+- La font declara que no s'ha recuperat un original complet; el resultat és un coteig de fidelitat amb el material disponible, no una validació integral de l'original ni una validació experimental.

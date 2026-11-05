@@ -98,6 +98,10 @@ def add_markdown_block(doc, lines, compact=False, first_heading_level=1, page_br
                 table.style = "Table Grid"
                 for ri, cells in enumerate(rows):
                     row = table.add_row()
+                    # Keep each table row intact across page breaks; split rows
+                    # can detach a cell fragment from the row label and harm reading.
+                    trPr = row._tr.get_or_add_trPr()
+                    trPr.append(OxmlElement("w:cantSplit"))
                     if ri == 0: set_repeat_table_header(row)
                     for ci in range(cols):
                         cell = row.cells[ci]

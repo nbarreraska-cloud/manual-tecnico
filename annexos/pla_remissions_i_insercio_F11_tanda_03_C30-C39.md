@@ -13,6 +13,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 ## Capítol 30
 
 ### Figura 30.1 — Estructura visual d'una flama
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 30.1
 - **Ubicació editorial F10:** 30.2.
@@ -24,6 +25,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** model visual simplificat, no estructura física universal ni seccions anatòmiques fixes.
 
 ### Figura 30.2 — Planificació cromàtica del foc
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 30.3
 - **Ubicació editorial F10:** 30.3.1–30.3.2.
@@ -35,6 +37,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** orientació didàctica; no convertir l'ordre en una recepta universal ni atribuir-lo a una prova física.
 
 ### Figura 30.3 — Construcció pictòrica d'una flama
+- **Categoria d'evidència:** E1 — seqüència proposada no assajada.
 
 - **Identificadors P1 d'origen:** 30.4
 - **Ubicació editorial F10:** 30.5.
@@ -46,6 +49,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** seqüència didàctica, no fotografia ni resultat experimental. No afegir passos, mescles o proporcions absents del text.
 
 ### Figura 30.4 — Integració de foc, fum i material carbonitzat
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 30.8
 - **Ubicació editorial F10:** 30.9.
@@ -59,6 +63,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 ## Capítol 31
 
 ### Figura 31.1 — Estats visuals de la sang
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 31.1
 - **Ubicació editorial F10:** 31.1–31.2.
@@ -70,6 +75,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no establir una escala cromàtica universal d'antiguitat ni una cronologia mèdica.
 
 ### Figura 31.2 — Diferenciació entre sang i altres fluids
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 31.2
 - **Ubicació editorial F10:** 31.2.
@@ -81,6 +87,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** classificació visual, no mèdica ni biològica; no atribuir propietats universals a tots els fluids.
 
 ### Figura 31.3 — Distribució de fluids sobre diferents geometries
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 31.3
 - **Ubicació editorial F10:** 31.3 i 31.4.3.
@@ -92,6 +99,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** respectar gravetat, orientació i escala; evitar patrons repetitius sense justificació.
 
 ### Figura 31.4 — Construcció de sang fresca
+- **Categoria d'evidència:** E1 — seqüència proposada no assajada.
 
 - **Identificadors P1 d'origen:** 31.4
 - **Ubicació editorial F10:** 31.4.2–31.4.3.
@@ -103,6 +111,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** recepta didàctica no assajada; no presentar-la com a resultat experimental.
 
 ### Figura 31.5 — Construcció de sang seca
+- **Categoria d'evidència:** E1 — seqüència proposada no assajada.
 
 - **Identificadors P1 d'origen:** 31.5
 - **Ubicació editorial F10:** 31.5.
@@ -114,6 +123,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no presentar el resultat com una recepta experimental ni establir una relació universal entre color i antiguitat.
 
 ### Figura 31.6 — Errors freqüents en la representació de sang i fluids
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 31.8
 - **Ubicació editorial F10:** 31.7.
@@ -127,6 +137,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 ## Capítol 32
 
 ### Figura 32.1 — Jerarquia visual d'una manifestació energètica
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 32.2
 - **Ubicació editorial F10:** 32.2.
@@ -138,6 +149,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no imposar un nucli blanc, un halo ni una distribució de valors universals.
 
 ### Figura 32.2 — Fluorescència, color convencional i aparença lluminosa
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 32.3
 - **Ubicació editorial F10:** 32.2.4 i 32.4.1.
@@ -149,6 +161,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no confondre fluorescència amb fosforescència ni amb OSL; no atribuir emissió real a una pintura convencional.
 
 ### Figura 32.3 — Construcció d'una esfera d'energia
+- **Categoria d'evidència:** E1 — seqüència proposada no assajada.
 
 - **Identificadors P1 d'origen:** 32.4
 - **Ubicació editorial F10:** 32.3 i 32.5.
@@ -160,6 +173,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** proposta didàctica, no resultat experimental; evitar que els detalls secundaris fragmentin la forma dominant.
 
 ### Figura 32.4 — Estructura d'una descàrrega
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 32.5
 - **Ubicació editorial F10:** 32.3.
@@ -171,6 +185,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** evitar simetria excessiva, bifurcacions mecàniques i repetició regular.
 
 ### Figura 32.5 — Font energètica i il·luminació projectada
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 32.8
 - **Ubicació editorial F10:** 32.2.4 i 32.6; remissió a C17.
@@ -184,6 +199,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 ## Capítol 33
 
 ### Figura 33.1 — Comparació de cossos ceràmics
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 33.1
 - **Ubicació editorial F10:** 33.2.1–33.2.2.
@@ -195,6 +211,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no reduir la diferència a l'acabat superficial ni confondre el cos ceràmic amb l'esmalt.
 
 ### Figura 33.2 — Ceràmica sense esmaltar i superfícies esmaltades
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 33.2
 - **Ubicació editorial F10:** 33.2.1 i 33.2.3.
@@ -206,6 +223,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no confondre esmalt ceràmic amb vernís protector ni suggerir que tots els esmalts tenen la mateixa resposta.
 
 ### Figura 33.3 — Construcció d'una superfície de terracota
+- **Categoria d'evidència:** E1 — seqüència proposada no assajada.
 
 - **Identificadors P1 d'origen:** 33.5
 - **Ubicació editorial F10:** 33.4.
@@ -217,6 +235,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no afegir receptes o proporcions no descrites al capítol; no representar terracota com a roca.
 
 ### Figura 33.4 — Construcció d'un esmalt acolorit
+- **Categoria d'evidència:** E1 — seqüència proposada no assajada.
 
 - **Identificadors P1 d'origen:** 33.6
 - **Ubicació editorial F10:** 33.5.
@@ -228,6 +247,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no confondre color amb brillantor ni introduir procediments d'envernissament aliens al capítol.
 
 ### Figura 33.5 — Craquelat i pèrdua localitzada de l'esmalt
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 33.7
 - **Ubicació editorial F10:** 33.6.
@@ -239,6 +259,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no representar el craquelat com una fractura estructural ni confondre'l amb una pèrdua de material.
 
 ### Figura 33.6 — Reflexos sobre superfícies plàstiques
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 33.9
 - **Ubicació editorial F10:** 33.7–33.8.
@@ -252,6 +273,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 ## Capítol 34
 
 ### Figura 34.1 — Tipus de vidre i diferències entre transparència i difusió
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 34.1, 34.7
 - **Ubicació editorial F10:** 34.2; remissió des de 34.7.
@@ -263,6 +285,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** una sola composició; conservar el mateix fons i les mateixes condicions en el detall comparatiu. No confondre esmerilat amb opacitat absoluta ni amb un simple acabat mat.
 
 ### Figura 34.2 — Senyals visuals del vidre
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 34.2
 - **Ubicació editorial F10:** 34.2.
@@ -274,6 +297,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** adaptar els senyals a la geometria; no perfilar uniformement tot el contorn.
 
 ### Figura 34.3 — Construcció d'un panell i d'un recipient de vidre transparent
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 34.3
 - **Ubicació editorial F10:** 34.4.
@@ -285,6 +309,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no cobrir tota la superfície amb blanc ni perfilar uniformement el contorn. La proposta 34.4 no es produeix com a figura autònoma.
 
 ### Figura 34.4 — Vidre acolorit
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 34.5
 - **Ubicació editorial F10:** 34.5.
@@ -296,6 +321,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no convertir el vidre acolorit en una superfície opaca ni uniformitzar-ne la transmissió.
 
 ### Figura 34.5 — Esquerdes, fractures i fragments de vidre
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 34.9
 - **Ubicació editorial F10:** 34.8.
@@ -309,6 +335,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 ## Capítol 35
 
 ### Figura 35.1 — Anàlisi global i distribució de masses cromàtiques
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 35.1, 35.2
 - **Ubicació editorial F10:** 35.2–35.3.
@@ -320,6 +347,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** preservar la diferència entre extensió física i pes perceptiu; no basar la jerarquia només en saturació ni reduir el mapa a una còpia de la miniatura.
 
 ### Figura 35.2 — Harmonització i uniformitat
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 35.4
 - **Ubicació editorial F10:** 35.3.
@@ -331,6 +359,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no presentar tota uniformitat com a error; contextualitzar-la segons l'objectiu visual.
 
 ### Figura 35.3 — Integració cromàtica entre materials
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 35.5
 - **Ubicació editorial F10:** 35.4.
@@ -342,6 +371,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no igualar les textures, els acabats ni les respostes òptiques.
 
 ### Figura 35.4 — Integració cromàtica de figura i peanya
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 35.6
 - **Ubicació editorial F10:** 35.5.
@@ -353,6 +383,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no exigir paletes idèntiques ni una fusió cromàtica completa.
 
 ### Figura 35.5 — Correccions localitzades i globals
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 35.8
 - **Ubicació editorial F10:** 35.7.
@@ -364,6 +395,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no suggerir que una intervenció global és sempre incorrecta; justificar la decisió segons el diagnòstic.
 
 ### Figura 35.6 — Seqüència d'harmonització cromàtica
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 35.9
 - **Ubicació editorial F10:** 35.8.
@@ -377,6 +409,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 ## Capítol 36
 
 ### Figura 36.1 — Envelliment, desgast i deteriorament
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 36.1
 - **Ubicació editorial F10:** 36.2.1.
@@ -388,6 +421,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no atribuir totes les alteracions a una mateixa causa ni establir un patró universal.
 
 ### Figura 36.2 — Distribució del desgast segons la geometria i l'ús
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 36.2
 - **Ubicació editorial F10:** 36.3.
@@ -399,6 +433,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** evitar patrons uniformes o decoratius sense relació amb l'ús.
 
 ### Figura 36.3 — Abrasió, fregadures i ratllades
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 36.3
 - **Ubicació editorial F10:** 36.4.1–36.4.3.
@@ -410,6 +445,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no representar totes les marques com a línies ni atribuir-les a una causa única.
 
 ### Figura 36.4 — Impactes i danys localitzats
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 36.4
 - **Ubicació editorial F10:** 36.4.4.
@@ -421,6 +457,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no exagerar la profunditat ni repetir una mateixa forma de dany en tots els materials.
 
 ### Figura 36.5 — Estructura de capes i pèrdua de recobriment
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 36.5
 - **Ubicació editorial F10:** 36.5.1.
@@ -432,6 +469,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** utilitzar només l'estructura de capes pertinent al cas; no presentar-la com una estratigrafia universal.
 
 ### Figura 36.6 — Desconxats petits i pèrdues extenses
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 36.6
 - **Ubicació editorial F10:** 36.5.2–36.5.3.
@@ -443,6 +481,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** evitar patrons regulars i mantenir coherència amb el material de base.
 
 ### Figura 36.7 — Desgast en materials diferents
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 36.8
 - **Ubicació editorial F10:** 36.7.
@@ -454,6 +493,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no repetir les receptes específiques dels capítols de materials ni uniformitzar els danys.
 
 ### Figura 36.8 — Seqüència de construcció d'una superfície desgastada
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 36.9
 - **Ubicació editorial F10:** 36.8.
@@ -467,6 +507,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 ## Capítol 37
 
 ### Figura 37.1 — Reflexió especular i reflexió més difusa
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 37.2
 - **Ubicació editorial F10:** 37.2.1.
@@ -478,6 +519,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** una superfície mat no és una superfície sense reflexió; no confondre reflexió difusa amb absència de llum reflectida.
 
 ### Figura 37.2 — Orientació, il·luminació i brillantor percebuda
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 37.3
 - **Ubicació editorial F10:** 37.2.1–37.3.
@@ -489,6 +531,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** mantenir constants les variables que no s'estiguin comparant; no atribuir el canvi a una sola causa.
 
 ### Figura 37.3 — Relació entre acabat, textura i reflexos
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 37.4
 - **Ubicació editorial F10:** 37.2.1–37.3.
@@ -500,6 +543,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no presentar la rugositat com l'explicació única de totes les diferències de brillantor.
 
 ### Figura 37.4 — Selecció de l'acabat segons materials i efectes
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 37.6
 - **Ubicació editorial F10:** 37.4.
@@ -511,6 +555,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** les associacions són orientatives, no regles universals ni equivalències fixes entre material i acabat.
 
 ### Figura 37.5 — Diferenciació de materials mitjançant acabats selectius
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 37.7
 - **Ubicació editorial F10:** 37.5.
@@ -522,6 +567,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** la brillantor és un indici més, no l'únic criteri d'identificació material.
 
 ### Figura 37.6 — Distribució localitzada de la brillantor
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 37.8
 - **Ubicació editorial F10:** 37.5.
@@ -533,6 +579,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no distribuir els tres acabats arbitràriament ni com a codi universal.
 
 ### Figura 37.7 — Seqüència d'anàlisi i selecció de l'acabat
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 37.9
 - **Ubicació editorial F10:** 37.6.
@@ -544,6 +591,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** ubicació corregida a la síntesi del procés; no presentar-la com a recepta única.
 
 ### Figura 37.8 — Errors freqüents i criteris de correcció
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 37.10
 - **Ubicació editorial F10:** 37.7.
@@ -557,6 +605,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 ## Capítol 38
 
 ### Figura 38.1 — Fases d'assecat i estabilització
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 38.2
 - **Ubicació editorial F10:** 38.2.4.
@@ -568,6 +617,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no establir intervals temporals universals; seguir les indicacions del fabricant i les condicions ambientals.
 
 ### Figura 38.2 — Selecció del sistema de protecció segons l'ús
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 38.4
 - **Ubicació editorial F10:** 38.4.
@@ -579,6 +629,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no prescriure un vernís únic per a tots els casos ni convertir els exemples en normes absolutes.
 
 ### Figura 38.3 — Seqüència de preparació i inspecció
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 38.5
 - **Ubicació editorial F10:** 38.5.
@@ -590,6 +641,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no afegir proves o productes no descrits; la compatibilitat s'ha de verificar amb informació fiable.
 
 ### Figura 38.4 — Aplicació amb pinzell, aerògraf i aerosol
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 38.6
 - **Ubicació editorial F10:** 38.6.
@@ -601,6 +653,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** seguir les instruccions del fabricant; no incloure pressions, distàncies o proporcions universals.
 
 ### Figura 38.5 — Distribució controlada i acumulació excessiva
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 38.7
 - **Ubicació editorial F10:** 38.6 i 38.7.3.
@@ -612,6 +665,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no atribuir totes les acumulacions a una única causa ni presentar-les com a resultat d'un producte concret sense prova.
 
 ### Figura 38.6 — Alteracions per incompatibilitat o aplicació incorrecta
+- **Categoria d'evidència:** E2 — sense prova documentada, convertir en esquema E0; no presentar com a resultat real.
 
 - **Identificadors P1 d'origen:** 38.8
 - **Ubicació editorial F10:** 38.7.1–38.7.2.
@@ -623,6 +677,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no atribuir un defecte a una sola variable sense evidència; distingir símptoma, hipòtesi i causa comprovada.
 
 ### Figura 38.7 — Seqüència integral de protecció i conservació
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 38.10
 - **Ubicació editorial F10:** 38.8 i síntesi.
@@ -636,6 +691,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 ## Capítol 39
 
 ### Figura 39.1 — Seqüència general de diagnòstic
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 39.1
 - **Ubicació editorial F10:** 39.2.
@@ -647,6 +703,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no totes les observacions exigeixen intervenir; no representar una seqüència rígida i irreversible.
 
 ### Figura 39.2 — Diferència entre símptoma, causa i correcció
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 39.2
 - **Ubicació editorial F10:** 39.2.2–39.2.5.
@@ -658,6 +715,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no establir causalitat única sense comprovació.
 
 ### Figura 39.3 — Inspecció d'una miniatura
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 39.3
 - **Ubicació editorial F10:** 39.2.1.
@@ -669,6 +727,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** l'ampliació no substitueix l'avaluació a la distància habitual de lectura.
 
 ### Figura 39.4 — Classificació dels problemes habituals
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 39.4
 - **Ubicació editorial F10:** 39.3.
@@ -680,6 +739,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** conservar exactament les categories del text; no afegir ni ometre famílies.
 
 ### Figura 39.5 — Nivells d'intervenció
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 39.5
 - **Ubicació editorial F10:** 39.5.
@@ -691,6 +751,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** els nivells no són una seqüència obligatòria ni impliquen que una intervenció més extensa sigui millor.
 
 ### Figura 39.6 — Diagnòstic d'alteracions superficials
+- **Categoria d'evidència:** E2 — sense prova documentada, convertir en esquema E0; no presentar com a resultat real.
 
 - **Identificadors P1 d'origen:** 39.7
 - **Ubicació editorial F10:** 39.7.
@@ -702,6 +763,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Límits editorials:** no presentar els exemples com a resultats reals ni assignar una causa única sense evidència.
 
 ### Figura 39.7 — Arbre de decisió: corregir o conservar
+- **Categoria d'evidència:** E0
 
 - **Identificadors P1 d'origen:** 39.10
 - **Ubicació editorial F10:** 39.5.1–39.5.2.

@@ -8,46 +8,235 @@ No consisteix a aplicar totes les tècniques disponibles ni a seguir una seqüè
 
 ## 18.2. Anàlisi inicial i definició d'objectius
 
-L'anàlisi inicial ha de considerar:
+### 18.2.1. Identificació de les característiques generals
 
-- **Característiques generals:** dimensions, escala, complexitat geomètrica, nombre i disposició de peces, superfícies predominants, detalls petits, zones d'unió i accessibilitat.
-- **Materials i superfícies:** material representat, color local, textura, patrons, resposta superficial, transparència o translucidesa, reflexos i possibles efectes de desgast o transformació.
-- **Dificultats tècniques:** zones de difícil accés, relleus petits, unions entre materials, límits complexos, parts ocultes, risc d'interferència entre tècniques i superfícies sensibles a l'acumulació.
-- **Resultat buscat:** nivell d'acabat, realisme o estilització, paleta general, il·luminació, materials prioritaris, efectes especials, temps i recursos disponibles.
+Abans de decidir com pintar una miniatura, convé analitzar-ne les característiques principals.
 
-És més útil formular els objectius en termes visuals que com una llista de tècniques. Per exemple, «aconseguir una armadura amb volums definits i aparença metàl·lica coherent» permet decidir si calen degradats, NMM, desgast o altres procediments; enumerar tècniques sense definir el resultat no permet valorar-ne la necessitat.
+L'observació inicial ha de considerar:
 
-Cal establir tres nivells de prioritat:
+- Dimensions i escala.
+- Complexitat de la geometria.
+- Nombre i disposició de les peces.
+- Elements principals i secundaris.
+- Superfícies predominants.
+- Detalls petits o de difícil accés.
+- Zones d'unió i separació entre elements.
+- Possibles limitacions derivades del muntatge o de la postura.
+
+L'anàlisi ha de permetre comprendre l'estructura general i anticipar quines parts poden exigir una atenció especial.
+
+No totes les peces presenten les mateixes dificultats. Una miniatura amb grans superfícies planes requereix decisions diferents d'una altra dominada per relleus, elements petits o geometries molt fragmentades.
+
+### 18.2.2. Identificació de materials i superfícies
+
+La identificació dels materials que es pretenen representar condiciona la selecció de tècniques i l'organització del treball.
+
+Convé elaborar una relació de les superfícies principals i de les seves característiques visuals:
+
+- Material representat.
+- Color local previst.
+- Textura i patrons rellevants.
+- Resposta superficial que es vol comunicar.
+- Presència de transparència, translucidesa o reflexos.
+- Possibles efectes de desgast, brutícia o transformació.
+
+Una mateixa miniatura pot combinar materials amb respostes visuals molt diferents. Per exemple, una figura pot contenir teixit, cuir, metall, fusta, pedra i elements lluminosos.
+
+No és necessari desenvolupar en aquesta fase les receptes concretes de cada material. Aquesta informació correspon als capítols 19–34. L'objectiu és identificar les necessitats per poder consultar i seleccionar posteriorment els procediments adequats.
+
+### 18.2.3. Detecció de dificultats tècniques
+
+L'anàlisi inicial també ha d'identificar els aspectes que poden condicionar l'execució.
+
+Entre ells es troben:
+
+- Superfícies de difícil accés.
+- Relleus molt petits.
+- Unions entre materials.
+- Límits cromàtics complexos.
+- Elements que poden quedar parcialment ocults.
+- Zones en què una tècnica podria perjudicar-ne una altra ja realitzada.
+- Superfícies especialment sensibles a l'acumulació de pintura.
+- Efectes que requereixen una planificació espacial prèvia, com NMM o OSL.
+
+La identificació anticipada permet decidir si convé modificar l'ordre de muntatge, treballar per components o reservar determinades zones per a fases posteriors.
+
+### 18.2.4. Definició del resultat buscat
+
+La planificació ha de començar amb una idea prou clara del resultat final.
+
+Convé determinar:
+
+- El nivell d'acabat desitjat.
+- La importància visual de cada element.
+- El grau de realisme, estilització o simplificació.
+- La paleta general.
+- La il·luminació prevista.
+- Els materials que requereixen més atenció.
+- Els efectes especials que es volen incorporar.
+- El temps i els recursos disponibles.
+
+L'objectiu no s'ha de formular únicament com una llista de tècniques. És més útil descriure què es pretén aconseguir visualment.
+
+Per exemple, en lloc d'establir com a objectiu «aplicar degradats, rentats i pinzell sec», es pot plantejar «aconseguir una armadura amb volums definits, zones de desgast i una lectura metàl·lica coherent».
+
+La primera formulació enumera operacions; la segona defineix un resultat que permet valorar si aquestes operacions són necessàries.
+
+### 18.2.5. Priorització d'objectius
+
+No tots els elements tenen la mateixa importància dins d'una miniatura.
+
+Convé distingir:
 
 - **Objectius principals:** determinen la lectura general de la peça.
-- **Objectius secundaris:** enriqueixen el resultat, però no en condicionen la lectura essencial.
-- **Detalls complementaris:** aporten acabat i poden ometre's si el temps o els recursos són limitats.
+- **Objectius secundaris:** enriqueixen la representació, però no condicionen per si sols el resultat.
+- **Detalls complementaris:** aporten acabat o interès addicional i poden ometre's si no són necessaris.
+
+Aquesta jerarquia ajuda a distribuir el temps i evita dedicar massa recursos a detalls que gairebé no influeixen en la percepció global.
+
+També permet prendre decisions quan hi ha limitacions de temps, materials o experiència tècnica.
 
 ## 18.3. Planificació cromàtica, tonal i lumínica
 
-Abans de seleccionar pintures concretes, convé definir colors predominants, secundaris i accents, relacions entre materials, contrastos rellevants i zones que han de concentrar l'atenció. Això evita resoldre cada superfície de manera aïllada i acabar amb una acumulació de colors sense jerarquia. Els fonaments cromàtics corresponen al capítol 4.
+### 18.3.1. Construcció d'una visió cromàtica general
 
-La planificació tonal ha d'identificar les zones de major valor, les ombres, les transicions, les diferències entre plans i els elements que han de destacar. El contrast no s'ha de distribuir uniformement: pot concentrar-se en el rostre, les mans, una arma o un altre focus d'interès.
+La planificació cromàtica ha de considerar la relació entre els diferents elements de la miniatura.
 
-També cal establir la direcció principal de la llum, les fonts secundàries, les zones exposades i protegides i la relació entre il·luminació general i efectes específics. Si es preveu NMM o OSL, s'ha d'incorporar al plantejament general abans d'executar-los. Els capítols 15–17 desenvolupen aquests procediments.
+Abans de seleccionar pintures concretes, convé establir:
 
-Les referències —fotografies, il·lustracions, materials reals, miniatures o esquemes propis— han d'aportar informació concreta sobre colors, materials, textures, il·luminació, contrast i desgast. És preferible combinar referències complementàries que dependre d'una sola imatge. Són eines per prendre decisions, no models que calgui copiar literalment.
+- Colors predominants.
+- Colors secundaris.
+- Accents cromàtics.
+- Relacions entre materials.
+- Contrastos rellevants.
+- Zones que han d'atreure l'atenció.
+- Grau d'integració entre figura i entorn, quan correspongui.
+
+La finalitat és evitar que cada superfície es resolgui de manera independent i que el conjunt acabi presentant una acumulació de colors sense jerarquia.
+
+La teoria del color del capítol 4 proporciona els fonaments per a aquestes decisions. En aquest capítol s'utilitzen per organitzar el conjunt, sense repetir els sistemes cromàtics ni les relacions d'harmonia i contrast.
+
+### 18.3.2. Planificació dels valors
+
+L'organització tonal ha d'establir quins elements necessiten més contrast i quines regions han de mantenir una aparença més continguda.
+
+Convé identificar:
+
+- Zones de valor més elevat.
+- Regions d'ombra.
+- Contrastos principals.
+- Transicions necessàries.
+- Diferències entre plans.
+- Elements que han de destacar respecte dels altres.
+
+La distribució no ha de ser uniforme en tota la miniatura. Pot ser convenient concentrar el contrast en el rostre, les mans, una arma o un altre element important.
+
+La planificació dels valors ha de respondre tant a la geometria com a la jerarquia visual.
+
+### 18.3.3. Planificació de la il·luminació
+
+La il·luminació s'ha de considerar abans d'executar tècniques que depenguin d'una direcció o distribució lluminosa determinada.
+
+Convé establir:
+
+- La direcció principal de la llum.
+- La presència de fonts secundàries.
+- Les zones que rebran més il·luminació.
+- Les regions protegides.
+- La relació entre il·luminació general i efectes específics.
+- La coherència entre les diferents superfícies.
+
+Si es pretén representar una font lluminosa mitjançant OSL o una superfície metàl·lica mitjançant NMM, aquestes decisions s'han d'incorporar al plantejament general abans d'executar-ne els procediments específics.
+
+Els capítols 15, 16 i 17 desenvolupen la planificació de valors, el NMM i l'OSL, respectivament. Aquest capítol integra els seus resultats dins de l'organització global del treball.
+
+### 18.3.4. Referències visuals i documentació prèvia
+
+Les referències poden ajudar a establir l'aparença desitjada i reduir les decisions improvisades.
+
+Es poden utilitzar fotografies, il·lustracions, imatges de materials reals, miniatures de referència o esquemes propis.
+
+Convé seleccionar referències que aportin informació concreta:
+
+- Distribució de colors.
+- Aparença dels materials.
+- Textures i patrons.
+- Direcció de la il·luminació.
+- Relacions de contrast.
+- Desgast i estat superficial.
+
+És preferible treballar amb referències complementàries que amb una única imatge que no resolgui tots els aspectes de la miniatura.
+
+Les referències s'han d'utilitzar com a suport per prendre decisions, no com a models que s'hagin de reproduir literalment.
 
 ## 18.4. Selecció de tècniques, eines i materials
 
-La tècnica s'ha d'escollir segons l'objectiu visual, les característiques de la superfície, el control requerit, les alternatives disponibles i les conseqüències sobre les operacions posteriors. Una mateixa finalitat pot assolir-se amb procediments diferents; cal seleccionar el que ofereixi un control adequat, no necessàriament el més familiar o avançat.
+### 18.4.1. Selecció de tècniques segons l'objectiu
 
-La selecció d'eines i productes ha de considerar:
+La tria d'una tècnica ha de respondre a una necessitat concreta.
 
-- Tipus i propietats funcionals del producte.
-- Compatibilitat amb el suport i les aplicacions anteriors.
-- Eina necessària i precisió requerida.
+Per decidir convé considerar:
+
+- Quin efecte es pretén aconseguir.
+- Quines característiques té la superfície.
+- Quin grau de control requereix l'operació.
+- Quines tècniques poden produir el resultat.
+- Quines limitacions presenta cada procediment.
+- Quines operacions posteriors poden veure's afectades.
+
+Una mateixa finalitat es pot assolir mitjançant procediments diferents. Per exemple, una transició cromàtica es pot construir mitjançant mescles intermèdies, mescla humida o aplicacions successives.
+
+La selecció no s'ha de basar únicament en la familiaritat amb una tècnica. Convé triar el procediment que permeti resoldre l'objectiu amb un nivell adequat de control.
+
+### 18.4.2. Selecció d'eines i productes
+
+Un cop identificades les tècniques necessàries, se seleccionen les eines i les pintures adequades.
+
+La decisió ha de considerar:
+
+- Tipus de producte.
+- Propietats funcionals.
+- Compatibilitat amb la superfície.
+- Eina necessària.
+- Precisió requerida.
 - Accessibilitat de la zona.
-- Interaccions possibles amb les operacions posteriors.
+- Possibles interaccions amb aplicacions anteriors.
 
-No cal disposar de totes les eines possibles. Els recursos han de ser proporcionals a les necessitats del projecte. Abans d'incorporar una tècnica complexa, convé valorar si una alternativa més senzilla pot oferir un resultat suficient. La decisió ha de tenir en compte el temps, la dificultat, el risc, els materials addicionals, la possibilitat de correcció i la importància visual de l'efecte.
+Les propietats generals de les pintures i els criteris de selecció es desenvolupen als capítols 3 i 7. En aquesta fase s'utilitzen per comprovar que els recursos escollits són adequats per a l'operació prevista.
 
-Quan hi hagi incertesa sobre una mescla, la compatibilitat de productes, el comportament després de l'assecat o l'efecte d'una aplicació posterior, és convenient fer una prova sobre una superfície d'assaig. La prova ha de reproduir les condicions rellevants, però no garanteix un resultat idèntic sobre qualsevol material o geometria.
+No és necessari disposar de totes les eines o productes possibles. La selecció ha de ser proporcional a les necessitats reals del projecte.
+
+### 18.4.3. Avaluació d'alternatives
+
+Abans d'incorporar una tècnica especialment complexa, convé valorar si existeix una alternativa més senzilla que permeti aconseguir un resultat suficient.
+
+La decisió pot considerar:
+
+- Temps d'execució.
+- Dificultat tècnica.
+- Risc de deteriorar altres zones.
+- Necessitat de materials addicionals.
+- Possibilitat de corregir el resultat.
+- Importància visual de l'efecte.
+
+Una tècnica avançada no és necessàriament la millor elecció. La seva utilització es justifica quan aporta una millora rellevant respecte d'altres alternatives.
+
+### 18.4.4. Proves prèvies i superfícies d'assaig
+
+Quan hi ha incertesa sobre el comportament d'un producte o la compatibilitat de diverses operacions, pot ser convenient fer proves en una superfície independent o en una zona poc visible.
+
+Les proves poden servir per comprovar:
+
+- Compatibilitat entre productes.
+- Intensitat cromàtica.
+- Comportament d'una mescla.
+- Distribució d'una tècnica.
+- Aparença després de l'assecat.
+- Efectes d'una aplicació posterior sobre una superfície ja treballada.
+
+La prova ha de reproduir, en la mesura del possible, les condicions rellevants del treball definitiu.
+
+No s'ha de suposar que una prova feta sobre una superfície diferent garanteix el mateix resultat en tots els materials o geometries.
 
 ## 18.5. Organització i seqüenciació de les operacions
 

@@ -96,6 +96,26 @@
 - F8 haurà de revisar numeració, remissions creuades i presentació final.
 - No s'han inventat proporcions ni s'han realitzat proves físiques; les formulacions no es presenten com a resultats experimentals.
 
-## Annex E
+## Annex E — Guia de selecció i planificació
 
-**Estat:** pendent de regeneració.
+**Estat:** regeneració completada; pendent de la passada transversal F6 i F8.
+
+### Font i mètode
+- S'ha reconstruït la guia a partir de l'estructura i els continguts dels 39 capítols consolidats i dels annexos A–D regenerats.
+- La versió anterior s'ha conservat sense alteracions a `annexos/historic/annex-e-auditoria-anterior-2026-11-05.md` i s'ha utilitzat com a contrast de traçabilitat.
+- S'ha mantingut la funció de guia de consulta i planificació, sense duplicar les explicacions tècniques ni les receptes dels capítols.
+- S'ha ampliat la remissió per a la representació dels materials: incorpora el capítol 6 com a fonament de comportament visual, a més dels capítols 19–34.
+
+### Resultat
+- Es mantenen nou apartats funcionals: abast, selecció segons objectiu, selecció de materials i receptes, organització cromàtica, selecció de tècniques, seqüenciació, planificació flexible, comprovació final i límits d'ús.
+- S'han contrastat les remissions de capítols: 1–39 existeixen a la compilació consolidada.
+- S'ha comprovat la presència dels quatre annexos citats (A–D) i la correspondència de les seves funcions amb la guia.
+- La planificació es manté orientativa i flexible; no s'hi presenta cap seqüència com a universal.
+- No s'han afegit receptes, proporcions, propietats tècniques de productes ni afirmacions de validació experimental.
+
+### Límits pendents
+- F6 haurà de comprovar que les instruccions de consulta i les remissions d'E són coherents amb el contingut complet d'A–D i C1–C39, no només amb l'existència dels títols.
+- F8 haurà de revisar la numeració, les remissions creuades i la presentació final del paquet.
+- La guia no substitueix l'avaluació del procés ni els procediments tècnics originals.
+
+

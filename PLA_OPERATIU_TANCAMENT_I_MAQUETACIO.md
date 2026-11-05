@@ -169,3 +169,12 @@ S'ha creat `annexos/matriu_evidencies_i_remissions_F10.md` amb les categories E0
 La tercera síntesi encara no conté remissions textuals explícites a cap dels 156 identificadors P1. És coherent amb el fet que les figures no s'han integrat. F11 haurà d'inserir cada composició, afegir la llegenda catalana, crear les remissions necessàries i actualitzar les referències fusionades. La branca actual no conté fotografies o proves físiques independents; no s'han d'inventar.
 
 **Següent pas de F10:** tancar la revisió semàntica de redundàncies residuals, concretar les ubicacions i les remissions que caldrà inserir, fixar la numeració editorial i completar la decisió final de producció. F11 continua bloquejada fins al tancament formal de F10.
+
+
+## 16. Ubicacions i numeració editorial de treball — 05/11/2026
+
+Les 150 composicions disposen ara d'una ubicació lectora explícita i d'una proposta de número editorial seqüencial per capítol. El mapa `annexos/numeracio_editorial_figures_F10.md` assigna claus internes G001–G150 i conserva els identificadors originals fusionats.
+
+La numeració encara no es congela: queda condicionada a la revisió semàntica final, a les remissions textuals que s'incorporaran a F11 i a la decisió definitiva sobre si alguna P2 s'ha d'integrar. La llista actual no reserva números per a P2 no seleccionades.
+
+**Estat F10:** 156 identificadors P1, 150 composicions, 150 ubicacions i 150 números proposats. La següent tasca és revisar la coherència final de les ubicacions i dependències, tancar les redundàncies residuals i congelar la selecció. F11 continua bloquejada.

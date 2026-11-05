@@ -82,12 +82,12 @@ La referència actual és d'aproximadament 300 pàgines per als 39 capítols sen
 
 ## 6. Estat actual i següent acció
 
-**F5 — regeneració A–E: en curs.**
+**F5 — regeneració A–E: completada (05/11/2026); pendent d'auditoria transversal F6 i control final F8.**
 
 - **A:** regenerat i arxivat l'anterior; pendent de F6/F8.
 - **B:** regenerat i arxivat l'anterior; pendent de F6/F8.
 - **C:** regenerat i arxivat l'anterior; 183 entrades i referències contrastades amb les receptes de C19–C34; pendent de F6/F8.
 - **D:** regenerat i arxivat l'anterior; 92 entrades vinculades a les receptes i referències de C, amb pintures contrastades amb A i els apartats d'origen; pendent de F6/F8.
-- **E:** pendent de regeneració.
+- **E:** regenerat i arxivat l'anterior; guia de consulta contrastada amb C1–C39 i A–D; remissions als 39 capítols i presència dels annexos A–D verificades; pendent de F6/F8.
 
-**Següent acció:** regenerar l'Annex E, mantenint l'ordre A–E. No iniciar la selecció/producció gràfica ni inserir imatges durant F5–F9.
+**Següent acció:** iniciar F6, auditoria transversal dels annexos A–E contra els 39 capítols consolidats. No iniciar la selecció/producció gràfica ni inserir imatges durant F6–F9. No iniciar la selecció/producció gràfica ni inserir imatges durant F5–F9.

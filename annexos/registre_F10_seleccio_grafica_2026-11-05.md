@@ -3,13 +3,13 @@
 **Data d'inici:** 05/11/2026  
 **Branca:** `intervencion-editorial-2026-11`  
 **Fase:** F10 — revisió i selecció gràfica  
-**Estat:** oberta; primera tanda de validació completada.  
+**Estat vigent:** oberta; 156 identificadors P1 especificats i 150 composicions editorials de treball, amb primera passada transversal i matriu d'evidències completades.  
 **Abast:** 243 propostes gràfiques arxivades (153 originals i 90 addicionals).  
 **Fonts de treball:** `TERCERA_SINTESI_CONSOLIDADA_C01-C39.md`, `PLANIFICACIO_GRAFICA_MG_FASE_POSTERIOR.md`, `CLASSIFICACIO_INDIVIDUAL_PROPOSTES_GRAFIQUES_MG.md`, `AUDITORIA_PRIORITZACIO_GRAFICA_MG.md` i `REVISION_INDIVIDUAL_PROPOSTES_P2_MG.md`.
 
 ## 1. Objectiu i criteri de treball
 
-F10 ha de convertir l'inventari preliminar en una selecció gràfica justificada. La classificació existent (157 P1, 83 P2 i 3 P3) és un punt de partida, no una aprovació de producció.
+F10 ha de convertir l'inventari preliminar en una selecció gràfica justificada. La classificació inicial (157 P1, 83 P2 i 3 P3) s'ha actualitzat després del coteig de 3.6: recompte vigent de 156 P1, 84 P2 i 3 P3. Cap prioritat equival per si sola a una aprovació de producció.
 
 Cada proposta es contrasta amb el capítol consolidat i s'avalua segons:
 - presència i exactitud del contingut al manual vigent;
@@ -23,12 +23,12 @@ No s'estableix una quota de figures per capítol. No es produeixen imatges en F1
 
 ## 2. Seqüència de F10
 
-1. Validar les propostes P1 contra els capítols consolidats, en ordre de capítol.
-2. Revisar les P2 a la llum del conjunt P1 validat i aplicar les fusions ja proposades quan continuïn sent pertinents.
-3. Confirmar les tres fusions P3, preservant-ne tota la informació útil.
-4. Resoldre les incidències documentals pendents: traducció al català de les descripcions recuperades en castellà; comprovació dels identificadors i la numeració de C15–C24; correspondència final de totes les propostes amb els capítols consolidats.
-5. Crear la llista final de producció amb identificador estable, ubicació, format, contingut, funció, llegenda prevista, dependències i estat d'evidència.
-6. Tancar F10 abans d'iniciar F11. No inserir imatges ni alterar els capítols durant aquesta fase.
+1. **Completat:** validar les 156 P1 contra els capítols consolidats i registrar-ne les especificacions.
+2. **Completat:** revisar individualment les 84 P2 i decidir-ne la funció complementària o la possible integració.
+3. **Completat:** conservar les tres P3 com a contingut fusionat, sense figures autònomes.
+4. **Completat com a primera passada:** normalitzar en català les descripcions i les llegendes de treball, comprovar identificadors i ubicacions i preservar la traçabilitat de les propostes originals.
+5. **En curs:** consolidar la llista final de 150 composicions, acabar la passada transversal de redundàncies, verificar les remissions textuals, fixar numeració editorial i assignar estat d'evidència E0/E1/E2.
+6. **Pendent:** tancar formalment F10 abans d'iniciar F11. No inserir imatges ni alterar els capítols durant aquesta fase.
 
 ## 3. Primera tanda de validació — C1 a C3
 
@@ -70,7 +70,7 @@ Aquestes decisions són editorials i revisables quan es valori el conjunt de fig
 
 ## 5. Estat i continuació
 
-F10 continua oberta. Les quatre tandes tenen preselecció i el coteig detallat de les P1 s'ha completat i registrat als apartats 13–15. La revisió individual de les 83 P2 s'ha acceptat com a criteri de decisió (amb la reclassificació addicional de 3.6), i les tres P3 es conserven com a fusions. Continuen pendents la depuració/normalització de les descripcions, la traducció al català de les propostes seleccionades, la revisió final de duplicacions entre capítols, la llista definitiva de producció i les especificacions gràfiques completes.
+F10 continua oberta. El coteig de les 156 P1 i la revisió individual de les 84 P2 s'han completat; 3.6 s'ha reclassificat de P1 a P2 i les tres P3 es conserven com a fusions. Les especificacions preliminars i les fitxes editorials en català cobreixen els 156 identificadors P1, organitzats en 150 composicions de treball. La primera passada transversal ha resolt sis integracions i s'ha creat la matriu d'evidències i remissions. Continuen pendents la revisió semàntica final de redundàncies, la verificació de remissions que s'inseriran a F11, la numeració editorial definitiva i la decisió final de producció.
 
 **Protecció del projecte:** treball exclusiu a `intervencion-editorial-2026-11`; no modificar `main`, no fusionar la PR #1 i no iniciar F11 abans de tancar F10.
 

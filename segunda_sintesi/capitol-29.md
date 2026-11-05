@@ -37,7 +37,7 @@ Referències disponibles: Deck Tan (70.986), Japanese Uniform WWII (70.923), Par
 
 ## 29.3. Pols i dipòsits secs
 
-**Recepta A. Pols clar**
+**Recepta A. Pols clara**
 - Principal: Deck Tan (70.986).
 - Variació clara: Ivory (70.918).
 - Aclarits: Ice Yellow (70.858).
@@ -51,7 +51,7 @@ Procediment proposat:
 5. Afegir Japanese Uniform WWII en algunes zones protegides.
 6. Evitar cobrir completament el color original: es representa una pel·lícula de pols, no una acumulació gruixuda.
 
-**Recepta B. Pols beix i sorrenc**
+**Recepta B. Pols beix i sorrenca**
 - Base: Deck Tan (70.986).
 - To càlid: Japanese Uniform WWII (70.923).
 - Variació: Parasite Brown (72.042).
@@ -100,7 +100,7 @@ Procediment proposat:
 - Aclarits: Ivory (70.918).
 
 Procediment proposat:
-1. Identificar les zones on el pols pot quedar retingut.
+1. Identificar les zones on la pols pot quedar retingut.
 2. Aplicar variacions lleugeres amb Deck Tan i Japanese Uniform WWII.
 3. Introduir dipòsits discontinus.
 4. Afegir rastres verticals quan la geometria ho permeti.
@@ -298,7 +298,7 @@ Les superfícies horitzontals poden retenir pols i partícules amb més facilita
 
 ### 29.7.2. Superfícies verticals
 
-En superfícies verticals, el pols i la brutícia poden aparèixer com a capes fines, dipòsits localitzats o rastres produïts per escorriment. Cal evitar taques massa regulars i línies paral·leles. La distribució ha de respectar la direcció de la superfície i els elements que poden retenir partícules.
+En superfícies verticals, la pols i la brutícia poden aparèixer com a capes fines, dipòsits localitzats o rastres produïts per escorriment. Cal evitar taques massa regulars i línies paral·leles. La distribució ha de respectar la direcció de la superfície i els elements que poden retenir partícules.
 
 ### 29.7.3. Superfícies corbes i geometries complexes
 
@@ -344,7 +344,7 @@ Les línies rectes, paral·leles i de gruix constant poden semblar traços decor
 
 ### 29.8.8. Confusió entre pols i fang
 
-El pols fi i el fang compacte presenten característiques diferents. **Correcció:** revisar textura, grau de cobertura, intensitat cromàtica i acabat superficial.
+La pols fina i el fang compacte presenten característiques diferents. **Correcció:** revisar textura, grau de cobertura, intensitat cromàtica i acabat superficial.
 
 ### 29.8.9. Confusió entre brutícia i corrosió
 
@@ -364,7 +364,7 @@ El treball es pot donar per acabat quan els dipòsits compleixen la seva funció
 
 ## 29.9. Exercicis pràctics
 
-### Exercici 1. Comparació de pols clar i pols fosc
+### Exercici 1. Comparació de pols clara i pols fosca
 **Objectiu:** diferenciar dipòsits de pols segons la tonalitat i la superfície receptora.  
 **Materials:** Deck Tan (70.986), Ivory (70.918), Japanese Uniform WWII (70.923), Parasite Brown (72.042) i Black (70.950).  
 **Procediment:**
@@ -373,7 +373,7 @@ El treball es pot donar per acabat quan els dipòsits compleixen la seva funció
 3. Construir dipòsits foscos mitjançant la recepta D.
 4. Variar la intensitat i l'extensió de les aplicacions.
 5. Comparar el contrast sobre tots dos fons.  
-**Avaluació:** comprovar que el pols es reconeix com una capa superficial i que no oculta innecessàriament el material original.
+**Avaluació:** comprovar que la pols es reconeix com una capa superficial i que no oculta innecessàriament el material original.
 
 ### Exercici 2. Construcció de terra natural
 **Objectiu:** representar una superfície de terra amb variacions cromàtiques.  
@@ -435,7 +435,7 @@ El treball es pot donar per acabat quan els dipòsits compleixen la seva funció
 
 ## 29.10. Síntesi del capítol
 
-La terra, el pols, el fang, la brutícia i els dipòsits permeten representar la relació entre una miniatura i el seu entorn. Tot i que poden aparèixer conjuntament, cada material presenta característiques visuals diferents: el pols sol formar capes fines; la terra pot presentar diversos graus de granulometria i compactació; el fang combina sediments i humitat; i la brutícia engloba materials i residus acumulats.
+La terra, la pols, el fang, la brutícia i els dipòsits permeten representar la relació entre una miniatura i el seu entorn. Tot i que poden aparèixer conjuntament, cada material presenta característiques visuals diferents: la pols sol formar capes fines; la terra pot presentar diversos graus de granulometria i compactació; el fang combina sediments i humitat; i la brutícia engloba materials i residus acumulats.
 
 Per representar aquests efectes convé identificar l'entorn, seleccionar una família cromàtica, determinar les superfícies afectades i planificar la distribució dels dipòsits. La geometria, l'orientació, el moviment i el grau d'humitat condicionen el resultat.
 

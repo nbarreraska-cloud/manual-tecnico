@@ -52,6 +52,27 @@
 - F8 haurà de comprovar la presentació, la numeració i les remissions creuades en el conjunt final.
 - La comprovació documental de les referències no constitueix validació experimental.
 
-## Annexos C–E
+## Annex C — Índex de receptes i combinacions cromàtiques
+
+**Estat:** regeneració completada; pendent de la passada transversal F6 i F8.
+
+### Font i mètode
+- Font principal: receptes i combinacions presents als capítols 19–34 de `TERCERA_SINTESI_CONSOLIDADA_C01-C39.md`.
+- La versió anterior s'ha conservat sense alteracions a `annexos/historic/annex-c-auditoria-anterior-2026-11-05.md` i s'ha utilitzat com a referència de traçabilitat, no com a font autoritativa.
+- S'han localitzat les entrades directament a les seccions que contenen cada recepta o combinació i s'han actualitzat les denominacions perquè coincideixin amb els títols vigents.
+
+### Resultat
+- 183 entrades en total, distribuïdes així: C19 16; C20 9; C21 16; C22 17; C23 10; C24 14; C25 13; C26 10; C27 14; C28 11; C29 17; C30 5; C31 5; C32 5; C33 13; C34 8.
+- 183/183 lletres i denominacions localitzades als capítols corresponents.
+- 183/183 referències concorden amb l'apartat que conté la recepta o combinació indicada.
+- S'han normalitzat denominacions desfasades, incloses «Coure amb base metàl·lica clara», «Coure vermellós», els títols complets de les combinacions A–P de C21, «Ivori càlid», «Asta d'aparença òssia», «Banya natural amb beina queratínica», «Gel blau i compacte», «Esquitxades de fang», «Energia roja i taronja» i «Vitrall policrom».
+- No s'han alterat ingredients, proporcions, seqüències ni procediments de les receptes.
+
+### Límits pendents
+- F6 haurà de contrastar l'índex amb els annexos A, B, D i E regenerats i comprovar la coherència terminològica global.
+- F8 haurà de revisar la numeració, les remissions creuades i la presentació del paquet complet.
+- Les receptes continuen sent propostes tècniques no validades experimentalment.
+
+## Annexos D–E
 
 **Estat:** pendents de regeneració. Es treballaran en ordre.

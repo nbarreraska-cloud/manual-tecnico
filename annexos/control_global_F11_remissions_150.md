@@ -124,3 +124,6 @@ Aquesta fase no modifica `main`, no reobre F9 i no autoritza encara la inserció
 - La ubicació de la figura 6.2 s'ha corregit a 6.3 tant a la matriu de traçabilitat com a la fitxa editorial.
 
 **Pas pendent:** completar la lectura contextual de les 150 remissions i decidir en cada cas si cal mantenir, reescriure o suprimir la crida textual. La compilació lectora continua intacta.
+
+
+- **Figura 39.6:** la revisió contextual ha detectat que 39.7 tracta de prevenció i registre, no de diagnòstic superficial. L'ancoratge s'ha corregit a 39.2.3 a la fitxa F10, la matriu i la tanda 03.

@@ -181,14 +181,100 @@ La manifestació ha de tenir forma recognoscible, direcció coherent, jerarquia 
 
 ## 32.9. Exercicis pràctics
 
-1. **Esfera d'energia:** definir forma, família cromàtica, intensitat centre-exterior i punts de contrast; avaluar volum i jerarquia.
-2. **Aura:** establir extensió i intensitat al voltant d'una silueta; evitar una distribució uniforme; comprovar que no és un contorn decoratiu.
-3. **Descàrrega elèctrica:** construir recorregut principal i ramificacions; variar longitud i gruix; evitar repetició mecànica.
-4. **Runa lluminosa:** dissenyar símbol, adaptar-lo a superfície i construir variacions; conservar llegibilitat.
-5. **Pintures convencionals i fluorescents:** provar sobre fons clars i foscos; comparar aparença i registrar condicions, inclosa presència o absència d'UV si se'n disposa; no pressuposar comportament idèntic.
-6. **Manifestació completa:** dissenyar arma encantada, esfera, portal, descàrrega o aura; planificar forma, color, intensitat i detalls; si hi ha llum projectada, resoldre-la segons capítol 17.
+### 32.9.1. Construcció d'una esfera d'energia
 
-## 32.10. Referències i recursos
+**Objectiu:** representar una concentració energètica amb una forma i una jerarquia visual recognoscibles.
+
+**Procediment:**
+1. Definir la forma general de l'esfera.
+2. Seleccionar una família cromàtica.
+3. Organitzar la intensitat entre el centre i l'exterior.
+4. Introduir punts de contrast.
+5. Avaluar la lectura del volum.
+
+**Avaluació:** comprovar si l'esfera es reconeix com una concentració d'energia i si presenta una jerarquia visual clara.
+
+### 32.9.2. Construcció d'una aura
+
+**Objectiu:** representar una manifestació energètica al voltant d'una figura o silueta.
+
+**Procediment:**
+1. Definir l'extensió de l'aura.
+2. Establir la zona de més intensitat.
+3. Introduir variacions cap a l'exterior.
+4. Evitar una distribució uniforme.
+5. Comprovar la relació amb la silueta.
+
+**Avaluació:** valorar si l'aura acompanya la forma de la figura sense convertir-se en un contorn decoratiu uniforme.
+
+### 32.9.3. Representació d'una descàrrega elèctrica
+
+**Objectiu:** construir una descàrrega lineal amb ramificacions.
+
+**Procediment:**
+1. Definir el recorregut principal.
+2. Incorporar ramificacions secundàries.
+3. Variar longitud i gruix.
+4. Establir punts de més intensitat.
+5. Comprovar la direcció general.
+
+**Avaluació:** comprovar si la descàrrega manté una estructura recognoscible i evita la repetició mecànica.
+
+### 32.9.4. Construcció d'una runa lluminosa
+
+**Objectiu:** representar un símbol sobre una superfície plana o lleugerament corba.
+
+**Procediment:**
+1. Dissenyar l'estructura del símbol.
+2. Adaptar-ne la forma a la superfície.
+3. Construir la base cromàtica.
+4. Introduir variacions d'intensitat.
+5. Incorporar detalls lluminosos quan correspongui.
+
+**Avaluació:** comprovar que el símbol conserva la llegibilitat i que l'efecte no n'oculta l'estructura.
+
+### 32.9.5. Comparació entre pintures convencionals i fluorescents
+
+**Objectiu:** observar diferències d'aparença entre pintures convencionals i fluorescents.
+
+**Procediment:**
+1. Preparar zones de prova amb fons clars i foscos.
+2. Aplicar una pintura convencional de la família cromàtica seleccionada.
+3. Aplicar el color fluorescent corresponent.
+4. Comparar l'aparença sobre els diferents fons.
+5. Observar les diferències d'intensitat i cobertura.
+6. Registrar les condicions d'observació, inclosa la presència o absència d'il·luminació ultraviolada quan se'n disposi.
+
+**Avaluació:** identificar les diferències observades sense assumir que totes les pintures fluorescents es comporten de manera idèntica. No atribuir emissió persistent en la foscor a una pintura fluorescent.
+
+### 32.9.6. Exercici integrador: manifestació màgica completa
+
+**Objectiu:** dissenyar un efecte sobrenatural que combini una font energètica i elements secundaris.
+
+Es pot representar una arma encantada, una esfera màgica, un portal, una descàrrega o una aura.
+
+**Procediment:**
+1. Definir el fenomen.
+2. Seleccionar la família cromàtica.
+3. Planificar la forma i la distribució.
+4. Construir la manifestació principal.
+5. Incorporar detalls secundaris.
+6. Avaluar-ne la integració amb la miniatura.
+7. Si es representa il·luminació projectada, planificar-la d'acord amb el capítol 17.
+
+**Avaluació:** comprovar la coherència entre forma, color, intensitat, direcció, escala i relació amb la resta de la miniatura.
+
+## 32.10. Síntesi del capítol
+
+La representació de la màgia, l'energia i els fenòmens sobrenaturals exigeix construir una identitat visual recognoscible mitjançant la combinació de forma, direcció, color, intensitat i distribució.
+
+Les aures, les descàrregues, les esferes, les runes, els portals i les manifestacions espectrals poden compartir determinats recursos pictòrics, però no necessiten respondre a una mateixa estructura ni a una recepta universal.
+
+La paleta de 48 pintures proporciona diverses famílies cromàtiques i quatre colors fluorescents que es poden utilitzar de manera selectiva. La fluorescència s'ha de diferenciar de la fosforescència i no s'ha de confondre amb una emissió lluminosa persistent en la foscor.
+
+El criteri fonamental consisteix a organitzar una manifestació energètica amb una jerarquia clara, adaptar-la a la geometria de la miniatura i distingir-ne l'aparença de la il·luminació que pugui projectar sobre altres objectes.
+
+## 32.11. Referències i recursos
 
 **Documentació del fabricant**
 - Acrylicos Vallejo. *Game Color*: documentació de gamma, famílies cromàtiques, tintes i fluorescents.

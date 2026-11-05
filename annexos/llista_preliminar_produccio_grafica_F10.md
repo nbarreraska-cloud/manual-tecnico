@@ -576,8 +576,9 @@ No s'inclouen com a figures autònomes en aquesta llista. Només es recuperaran 
 - Propostes P1 inicials: 157.
 - Reclassificació 3.6 de P1 a P2: 156 P1 i 84 P2.
 - P3 que es fusionen: 3.
-- Dues parelles P1 fusionades en composicions úniques: 20.1+20.2 i 20.4+20.5.
-- **Composicions principals resultants si es produeixen totes les P1:** 154, abans de possibles fusions addicionals que es puguin justificar durant la maqueta.
+- Sis parelles P1 fusionades en composicions úniques: 20.1+20.2, 20.4+20.5, 22.2+22.5, 24.7+24.8, 34.1+34.7 i 35.1+35.2.
+- **Composicions principals resultants:** 150, després de les sis integracions editorials documentades.
+- Les integracions P2/P3 s'incorporen com a panells o detalls quan estan confirmades; les propostes condicionades i en reserva no creen composicions noves.
 - Les P2 integrades no augmenten automàticament el nombre de composicions; les P2 en reserva no s'inclouen en la primera producció.
 
 Aquest recompte és de planificació, no una quota obligatòria. Si una figura no aporta una lectura clara, es revisarà la composició o la necessitat de produir-la; no es crearà per complir un número.

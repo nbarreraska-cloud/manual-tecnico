@@ -20,7 +20,7 @@ La tercera versió és el resultat de les intervencions sobre aquests 39 Markdow
 | 0 | Preservar les versions, les fonts, la traçabilitat i la branca de treball; vincular cada intervenció amb capítol/apartat/font i mantenir main intacta. | **Completada** |
 | 1 | Auditoria comparativa dels 39 capítols Markdown: contingut conservat, simplificacions, pèrdues, redundàncies i millores de la segona síntesi. | **Completada (39/39)** |
 | 2 | Consolidar el Registre Mestre amb categories RT/RD/AE/MG/SC, prioritats, decisions, fonts i estat real dels canvis. | **En curs**; versió 1.2 creada, amb les intervencions G-01–G-11 separades de la tercera versió. Continua la conciliació fina dels estats i commits dels 39 capítols. |
-| 3 | Aplicar les recuperacions tècniques, didàctiques i els ajustos editorials justificats a la tercera versió dels 39 Markdown. | **En curs**; intervencions aplicades als capítols 4–19, 25–32, 36 i 38; ajust AE als capítols 33–34. |
+| 3 | Aplicar les recuperacions tècniques, didàctiques i els ajustos editorials justificats a la tercera versió dels 39 Markdown. | **En curs**; intervencions aplicades als capítols 3–19, 25–32, 36 i 38; ajust AE als capítols 33–34. |
 | 4 | Validar els 39 capítols i estabilitzar-ne el contingut, les receptes, els exercicis, la numeració i les referències. | **Pendent / parcial**; les comprovacions estructurals inicials no substitueixen el coteig semàntic. |
 | 5 | Revisar i reconstruir els annexos A–E després d'estabilitzar els 39 capítols. | **Pendent i diferida**; no intervenir-hi ara. |
 | 6 | Auditoria global de coherència, referències creuades, traçabilitat i absència de pèrdues o duplicacions. | **Pendent** |
@@ -139,7 +139,7 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 |---|---|
 | 1 | G-01 aplicada a l'HTML copia_trabajo/index.html (§1.5); no confondre amb un canvi al Markdown. |
 | 2 | G-02 aplicada a l'HTML ( §§2.1, 2.4–2.6); el contingut SC del Markdown es manté protegit. |
-| 3 | G-01 aplicada a l'HTML (§§3.1 i 3.4.3); G-03 va tancar el coteig 3–5 sense canvis conceptuals. L'anomalia HTML <<p és una tasca separada de la primera versió. |
+| 3 | G-01 aplicada a l'HTML (§§3.1 i 3.4.3); G-03 va tancar el seu coteig 3–5 sense canvis conceptuals. Recuperació de la tercera versió aplicada el 05/11: vuit errors, síntesi operativa i vuit passos de selecció. L'anomalia HTML <<p és una tasca separada de la primera versió. |
 | 4–5 | Recuperacions aplicades. Comprovació estructural inicial registrada; validació textual, semàntica i coteig complet encara necessaris. |
 | 6–13 | Recuperacions/ampliacions aplicades i documentades en commits individuals; fer validació global sense repetir diagnòstics ja tancats. |
 | 14–18 | Ampliacions aplicades i documentades. C14, C15, C16 i C18 tenen límits de font: no s'ha localitzat un original complet; les ampliacions es basen en la consolidació disponible de la primera versió i els acords recuperats. |

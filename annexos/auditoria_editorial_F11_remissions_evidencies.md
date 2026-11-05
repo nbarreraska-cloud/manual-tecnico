@@ -70,7 +70,7 @@ La ubicació de la matriu i de la fitxa F10 s'havia quedat a 6.4. El coteig del 
 ## 5. Estat de les remissions redactades
 
 - Tanda 01: les remissions són específiques i contextualitzades; la ubicació de la figura 5.3 s'ha corregit.
-- Tanda 02 i tanda 03: les fórmules de remissió generades són provisionals i massa uniformes per a una inserció literal. S'han de revisar individualment, contrastant-les amb el paràgraf d'ancoratge i la llegenda. Quan no aportin informació addicional, s'han d'ometre.
+- Tanda 02 i tanda 03: les 116 fórmules s'han individualitzat amb el número i el títol de cada figura, i s'hi ha afegit l'etiqueta E0/E1/E2. Tot i així, comparteixen una estructura sintàctica repetida i continuen sent propostes, no text aprovat. Cal revisar-les individualment contra el paràgraf d'ancoratge i la llegenda; quan no aportin informació addicional, s'han d'ometre.
 - Les remissions creuades de l'apartat 3 s'han de tractar com a obligacions de revisió del text, no com a simples llegendes.
 
 ## 6. Regles abans de modificar el manual lector

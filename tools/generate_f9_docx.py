@@ -228,10 +228,10 @@ def main():
     if len(fiche_paths) != 48:
         raise SystemExit(f"Expected 48 fiche links; found {len(fiche_paths)}")
     for bookmark_id, fiche_path in enumerate(fiche_paths, start=100):
-        paint_code = re.match(r"([0-9]+)-", fiche_path.name)
+        paint_code = re.match(r"([0-9]+)-([0-9]+)-", fiche_path.name)
         if not paint_code:
             raise SystemExit(f"Cannot derive paint code for bookmark: {fiche_path.name}")
-        FICHE_BOOKMARKS[fiche_path.name] = (f"fiche_{paint_code.group(1)}", bookmark_id)
+        FICHE_BOOKMARKS[fiche_path.name] = (f"fiche_{paint_code.group(1)}{paint_code.group(2)}", bookmark_id)
     annex_paths = [ANNEX_DIR / f"annex-{letter}.md" for letter in "abcde"]
     if not all(p.is_file() for p in annex_paths):
         raise SystemExit("One or more annexes A-E are missing")

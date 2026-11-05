@@ -1,6 +1,6 @@
 # REGISTRE MESTRE DE RECUPERACIONS EDITORIALS
 **Manual tècnic de pintura de miniatures**  
-**Versió:** 1.83 · **Data:** 05/11/2026  
+**Versió:** 1.84 · **Data:** 05/11/2026  
 **Branca:** intervencion-editorial-2026-11
 
 ## 1. Funció i abast
@@ -608,3 +608,28 @@ F9 queda iniciada en la branca intervencion-editorial-2026-11. S'han preparat l'
 ### Actualització F9 — primera generació (05/11/2026 · versió 1.83)
 
 La primera maqueta Word textual s'ha generat correctament. La verificació estructural confirma 39 capítols, sis annexos A–F, 48 fitxes úniques i set seccions per fitxa (336 encapçalaments), amb quatre agrupacions de set. La conversió de comprovació dona 339 pàgines A4. El camp de l'índex és present però la conversió PDF no l'ha actualitzat; cal verificar-lo a Word. La revisió visual integral i la comprovació de fidelitat continuen pendents. F9 no queda tancada en aquesta primera generació.
+
+
+### Actualització operativa vinculant — intervencions autoritzades post-F9 (05/11/2026 · versió 1.84)
+
+Aquesta actualització registra les correccions autoritzades per a la branca de treball després de l'auditoria de la primera maqueta F9. No implica tancament ni aprovació de F9.
+
+**Coteig dels capítols 4 i 5**
+- C4: els nou errors conceptuals de 4.11, el procediment operatiu de vuit passos i la síntesi ja consten al fitxer vigent. No s'hi ha afegit contingut per evitar duplicacions.
+- C5: els set errors conceptuals de 5.9.1 i els sis exercicis ja consten al fitxer vigent. No s'hi ha afegit contingut per evitar duplicacions.
+- C5: s'ha recuperat el criteri quantitatiu IES per a fonts de mida finita i luminància uniforme. El text especifica la distància d'almenys cinc vegades la dimensió màxima, la possibilitat d'una aproximació amb error inferior a l'1 % sota les condicions indicades, el límit d'ús en fonts no uniformes quan l'error no és crític i la necessitat de validar la incertesa acceptable o mesurar quan es requereix precisió. La numeració de l'apartat al document de treball actual és 5.2.3; al text original la informació es trobava a 5.2.4. La intervenció s'ha sincronitzat al fitxer individual i a la compilació C1–C39.
+
+**Annexos i fitxes**
+- S'han completat les 37 referències de capítol absents en 14 fitxes. La redacció diferencia les files de taula de les mencions contextuals i no les presenta com a receptes experimentals.
+- La referència 72.161 es presenta com a *Fluorescent Cool Green*, denominació conservada a l'inventari del set; *Fluorescent Cold Green* es manté documentada com a variant de la carta de colors consultada.
+- S'han retirat de les 48 fitxes les notes internes de data de regeneració.
+- S'han retirat dels annexos B–E les notes de producció F5–F8.
+- A s'ha alineat amb l'Annex F; s'ha retirat la referència al fitxer històric intern i s'ha corregit la descripció de la consulta de les fitxes.
+- E incorpora l'Annex F en les remissions per consultar la informació individual de les pintures.
+- L'índex de fitxes i la portada generada ja no exposen la branca ni la data de producció. L'especificació interna F9 s'ha actualitzat per distingir els cinc fitxers font A–E de l'Annex F generat a partir de les fitxes.
+
+**Validació pendent**
+- S'ha comprovat que les 48 fitxes ja no contenen els metadades interns de regeneració i que les 37 referències noves apareixen als apartats corresponents.
+- La branca `main` continua a `a4ce8192e30178b0171ea02a3af230b60efd3768`; no s'hi ha escrit ni s'ha fusionat la PR.
+- La regeneració DOCX/PDF i els controls posteriors estan pendents de completar-se. Cal verificar el resultat generat, l'índex, la paginació, els enllaços, les taules, les 48 fitxes i la integritat textual abans de presentar una nova maqueta a aprovació.
+- F9 continua oberta i no aprovada.

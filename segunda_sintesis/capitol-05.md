@@ -46,6 +46,10 @@ E\propto\frac{1}{d^2}
 
 Així, duplicar la distància redueix la il·luminància a una quarta part; triplicar-la, a una novena part. La llei correspon estrictament al model puntual. En fonts de mida finita només és una aproximació vàlida quan la distància és prou gran respecte de les dimensions de la font. No s'ha d'aplicar indiscriminadament a qualsevol configuració.
 
+Per a fonts de mida finita i luminància uniforme, la IES indica que una distància d'almenys cinc vegades la dimensió màxima de la font, mesurada des del punt de la superfície il·luminada, pot permetre una aproximació amb un error inferior a l'1 %. És un criteri condicionat a aquestes característiques, no una regla universal. La IES també recull aquesta distància com a referència pràctica en determinades mesures de fonts amb distribució no uniforme quan l'error de mesura no és crític.
+
+Aquest criteri no substitueix la condició general del model de font puntual ni garanteix per si sol la validesa de qualsevol càlcul. Per a fonts no puntuals, l'aproximació s'ha de confirmar d'acord amb els límits d'error o d'incertesa acceptables; quan es requereix precisió, cal comprovar-la mitjançant mesurament.
+
 Cal separar aquest efecte del de l'orientació: una superfície pot rebre menys llum perquè és més lluny o perquè està orientada de manera menys favorable.
 
 ### 5.2.4. Mida aparent de la font

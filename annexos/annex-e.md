@@ -228,4 +228,4 @@ La guia no pretén oferir una solució tancada per a cada miniatura, sinó facil
 - La comprovació final no substitueix l'avaluació durant l'execució.
 - Les remissions s'han contrastat amb l'estructura vigent dels capítols 1–39 i dels annexos A–D.
 
-**Estat de regeneració F5:** guia reconstruïda i contrastada amb l'estructura vigent de C1–C39 i els annexos A–D. S'han verificat les remissions a tots els 39 capítols i la presència dels quatre annexos citats; no s'hi han detectat destinacions inexistents. La guia manté una funció orientativa i no substitueix els procediments tècnics. La coherència semàntica global i la integració conjunta dels cinc annexos resten subjectes a F6; la revisió final de presentació i remissions, a F8.
+

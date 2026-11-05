@@ -994,3 +994,8 @@ Revisat C15 contra el contingut consolidat disponible, no contra un original com
 ### F4 — revisió limitada i recuperació tècnica/didàctica de C16 (05/11/2026)
 
 Revisat C16 contra el contingut consolidat disponible; no s'ha recuperat un original complet. S'han ampliat els fonaments visuals del NMM, la funció del contrast, el reflex com a informació de l'entorn, la simplificació pictòrica, l'orientació i els patrons de reflexos, la planificació prèvia, els vuit criteris d'avaluació i les seqüències dels sis exercicis. Es conserven el procediment general, les adaptacions geomètriques, els deu errors i les vuit propostes de figures per a MG. S'ha evitat duplicar les famílies cromàtiques ja desenvolupades a 16.4. La compilació C1–C39 s'ha sincronitzat i verificat amb el C16 actual. No equival a coteig integral amb l'original ni a validació experimental.
+
+
+### F4 — revisió limitada de C17 (05/11/2026)
+
+Revisat C17 contra el contingut consolidat disponible; no s'ha recuperat un original complet. Es conserven els fonaments de l'OSL, la distinció entre font emissora, superfície il·luminada i reflex, la planificació espacial i cromàtica, el procediment, l'adaptació a geometries i materials, els controls, els dotze errors, els sis exercicis i les deu propostes de figures. No s'han detectat omissions substancials en aquests blocs i no s'ha modificat el capítol. La compilació conté exactament el fitxer vigent. No equival a coteig integral amb l'original ni a validació experimental.

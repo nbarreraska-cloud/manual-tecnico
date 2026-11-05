@@ -489,3 +489,17 @@ Comprovació inicial:
 ### Continuïtat immediata
 
 Les recuperacions RT/RD prioritàries identificades a l'auditoria (28, 29 i 38) i les recuperacions didàctiques (25–27, 30–32 i 36) ja tenen intervencions aplicades. Queden per conciliar i resoldre els ajustos editorials AE dels capítols 33–34, i cal completar la validació semàntica de les intervencions ja aplicades. No reobrir capítols SC sense una incidència substancial.
+
+
+### Revisió editorial AE dels capítols 33 i 34 (05/11/2026)
+
+S'ha revisat la delimitació dels capítols de ceràmica/porcellana/plàstics (33) i vidre/superfícies transparents (34), sense reobrir les decisions de contingut protegides per l'auditoria.
+
+- **Capítol 33:** remissions a vidre i superfícies transparents (34), acabats/vernissos (37), brutícia i dipòsits (29) i desgast (36) verificades. No s'han modificat receptes ni contingut: SC preservat.
+- **Capítol 34:** s'ha afegit una delimitació explícita respecte de ceràmica, porcellana i plàstics (33), i s'ha remès la selecció i aplicació de vernissos/acabats al capítol 37. No s'han modificat receptes ni contingut tècnic.
+
+**Estat:** revisió AE aplicada/verificada; no s'ha fet una recuperació tècnica o didàctica perquè l'auditoria classificava el contingut com a SC/AE. La validació global de coherència i referències continua pendent.
+
+### Continuïtat immediata
+
+Les intervencions de recuperació identificades a l'auditoria ja s'han aplicat als capítols 25–32, 36 i 38, a més dels capítols 4–19 que constaven prèviament. Els ajustos editorials dels capítols 33–34 s'han revisat. Cal continuar conciliant els capítols restants i, després, iniciar la validació semàntica transversal sense reobrir continguts SC.

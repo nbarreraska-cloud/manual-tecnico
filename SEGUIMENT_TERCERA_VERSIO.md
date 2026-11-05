@@ -1169,14 +1169,14 @@ No s'han inventat proporcions, no s'han convertit seqüències d'aplicació en m
 
 ### F7 — auditoria i priorització gràfica inicial (05/11/2026)
 
-S'ha verificat el fitxer `PLANIFICACIO_GRAFICA_MG_FASE_POSTERIOR.md`: conté 243 propostes (153 recuperades del Word original i 90 addicionals de C15–C24). Les 153 referències de figura originals són úniques, sense duplicats numèrics. S'ha creat `AUDITORIA_PRIORITZACIO_GRAFICA_MG.md`, que documenta el recompte per capítol, els criteris P1/P2/P3, la priorització temàtica, els límits de rigor i les incidències del fitxer de planificació.
+S'ha verificat el fitxer `PLANIFICACIO_GRAFICA_MG_FASE_POSTERIOR.md`: conté 243 propostes (153 recuperades del Word original i 90 addicionals de C15–C24). Les 153 referències de figura originals són úniques, sense duplicats numèrics. S'han creat `AUDITORIA_PRIORITZACIO_GRAFICA_MG.md` i `CLASSIFICACIO_INDIVIDUAL_PROPOSTES_GRAFIQUES_MG.md`. La classificació individual cobreix els 243 identificadors sense omissions ni duplicats: 157 P1, 83 P2 i 3 P3. Les P3 (5.14, 34.4 i 35.10) es fusionaran amb figures associades sense pèrdua d'informació. La classificació no autoritza la producció automàtica: cada P1 s'ha de validar contra el capítol consolidat.
 
 Incidències detectades per resoldre durant la consolidació:
 - fragments de prosa del capítol original barrejats al bloc de propostes de C4;
 - encapçalament de criteris gràfics de C3 que agrupa subseccions de C33–C35;
 - descripcions de figures originals en castellà que s'han de passar al català abans de produir-les.
 
-No s'aprova la producció automàtica de les 243 figures. Cal classificar individualment les propostes, fusionar redundàncies i aprovar una llista de producció. Les mostres de productes i resultats físics només es poden il·lustrar amb proves o fotografies reals; els esquemes conceptuals poden produir-se digitalment.
+No s'aprova la producció automàtica de les 243 figures. La classificació individual ja està feta; resta depurar el document font, validar cada P1 contra el contingut consolidat, revisar les P2 i aprovar la llista de producció. Les mostres de productes i resultats físics només es poden il·lustrar amb proves o fotografies reals; els esquemes conceptuals poden produir-se digitalment.
 
 ### Seqüència actualitzada de tancament
 

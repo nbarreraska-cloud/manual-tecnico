@@ -40,7 +40,7 @@ La planificació cromàtica ha de jerarquitzar metall original, to principal de 
 - Ombres localitzades: Dark Rust (70.771).
 - Accents càlids: Parasite Brown (72.042).
 
-Establir metall original, seleccionar acumulacions, introduir taronges i vermells irregulars, variar intensitat, enfosquir algunes zones i conservar petites àrees metàl·liques.
+Procediment proposat:\n1. Establir la base metàl·lica.\n2. Seleccionar les zones on es concentrarà la corrosió.\n3. Introduir el to rogenc o taronja de manera irregular.\n4. Variar la intensitat cromàtica entre les acumulacions.\n5. Enfosquir algunes zones amb Dark Rust.\n6. Conservar petites àrees de metall exposat.\n7. Avaluar la distribució general i evitar una cobertura uniforme.
 
 **Recepta B. rovell marró natural**
 - Base metàl·lica: Dark Gunmetal.
@@ -50,7 +50,7 @@ Establir metall original, seleccionar acumulacions, introduir taronges i vermell
 - Ombres: combinació proposada de Dark Rust i Black (70.950).
 - Aclarits: Parasite Brown.
 
-Mantenir part del metall visible, construir corrosió marró rogenca, introduir variacions, concentrar foscos i recuperar petits contrastos metàl·lics.
+Procediment proposat:\n1. Mantenir visible una part del metall original.\n2. Construir una base de corrosió marró rogenca.\n3. Introduir variacions amb Parasite Brown i Burnt Red.\n4. Concentrar els tons foscos en zones seleccionades.\n5. Recuperar petits contrastos metàl·lics.\n6. Comprovar que la superfície conserva una lectura metàl·lica.
 
 **Recepta C. rovell fosca**
 - Base: Dark Rust.
@@ -59,7 +59,7 @@ Mantenir part del metall visible, construir corrosió marró rogenca, introduir 
 - Zones rogenques: Parasite Brown.
 - Accents clars: combinació proposada de Parasite Brown i Deck Tan (70.986).
 
-Establir superfície fosca, introduir variacions rogenques i marrons, mantenir zones gairebé negres i evitar convertir tota la peça en un bloc negre.
+Procediment proposat:\n1. Establir una superfície fosca amb Dark Rust.\n2. Introduir variacions rogenques i marrons.\n3. Mantenir zones profundes gairebé negres.\n4. Distribuir els tons càlids de manera irregular.\n5. Afegir petits contrastos a les àrees més visibles.\n6. Evitar que tota la peça es converteixi en un bloc negre.
 
 **Recepta D. Corrosió irregular estratificada**
 - Base metàl·lica: Dark Gunmetal.
@@ -69,7 +69,7 @@ Establir superfície fosca, introduir variacions rogenques i marrons, mantenir z
 - Accents taronges: Hot Orange.
 - Ombres: Black.
 
-Construir una base metàl·lica, distribuir zones fosques, introduir marrons i vermells, afegir petites zones taronges i conservar espais de metall visible.
+Procediment proposat:\n1. Establir una base metàl·lica.\n2. Distribuir les zones fosques de corrosió.\n3. Introduir àrees marrons i rogenques amb intensitats diferents.\n4. Afegir petites zones taronges com a variació.\n5. Diferenciar acumulacions i àrees menys alterades.\n6. Conservar espais de metall visible.\n7. Avaluar la lectura del conjunt.
 
 **Recepta E. Corrosió localitzada**
 - Base: Dark Gunmetal.
@@ -78,7 +78,7 @@ Construir una base metàl·lica, distribuir zones fosques, introduir marrons i v
 - Accents: Parasite Brown.
 - Detalls taronges: Hot Orange.
 
-Concentrar-la en zones plausibles de retenció d'humitat, unions, reblons, vores i cavitats. No totes les unions han de rebre la mateixa intensitat.
+Procediment proposat:\n1. Identificar les zones plausibles de retenció d'humitat: unions, reblons, vores, cavitats i punts de contacte.\n2. Establir una base metàl·lica.\n3. Introduir dipòsits foscos localitzats.\n4. Afegir variacions rogenques i marrons.\n5. Reservar els accents taronges per a àrees petites.\n6. Evitar que totes les unions rebin la mateixa intensitat.
 
 **Recepta F. Metall pintat amb corrosió sota el recobriment**
 - Pintura original: color corresponent a la superfície.
@@ -87,7 +87,7 @@ Concentrar-la en zones plausibles de retenció d'humitat, unions, reblons, vores
 - Variació rogenca: Burnt Red.
 - Accents: Parasite Brown i Hot Orange.
 
-Diferenciar pintura conservada, vores del recobriment desprès, metall exposat i corrosió. Establir pintura, seleccionar pèrdues, introduir petites àrees de metall, afegir corrosió només en part d'aquestes zones i mantenir una distribució irregular. El desconxat es recolza en els procediments del capítol 36.
+Procediment proposat:\n1. Establir el color de la pintura original.\n2. Seleccionar les zones on s'ha perdut el recobriment.\n3. Introduir petites àrees de metall exposat.\n4. Afegir corrosió només en una part d'aquestes zones.\n5. Variar els tons segons l'estat representat.\n6. Mantenir una distribució irregular i comprovar que el deteriorament no oculta l'estructura original.\nEl procediment de desconxat es recolza en el capítol 36.
 
 ## 28.5. Pàtines i corrosió de coure, bronze i llautó
 
@@ -98,7 +98,7 @@ Diferenciar pintura conservada, vores del recobriment desprès, metall exposat i
 - Zones profundes: Dark Rust.
 - Enfosquiment: Black.
 
-Conservar metall, introduir marrons i vermells, enfosquir zones profundes i controlar continuïtat.
+Procediment proposat:\n1. Establir la superfície metàl·lica original.\n2. Aplicar variacions marrons en zones seleccionades.\n3. Introduir tons rogencs per evitar una aparença uniforme.\n4. Enfosquir les zones profundes.\n5. Conservar parts del metall original.\n6. Avaluar la continuïtat i el contrast de la pàtina.
 
 **Recepta H. Pàtina verda**
 - Base metàl·lica: Glorious Gold o Tinny Tin.
@@ -108,7 +108,7 @@ Conservar metall, introduir marrons i vermells, enfosquir zones profundes i cont
 - Aclarits: Yellow Green (70.954).
 - Ombres localitzades: Dark Sea Blue (70.898).
 
-Distribuir variacions verdes, conservar metall exposat i evitar cobrir tota la peça amb un sol verd. No tot dipòsit verd és una pàtina estable: alguns productes pulverulents poden indicar corrosió activa en objectes reals.
+Procediment proposat:\n1. Establir la base metàl·lica.\n2. Seleccionar les zones d'alteració.\n3. Introduir una primera variació verda.\n4. Diferenciar les àrees més fosques i més clares.\n5. Mantenir zones metàl·liques exposades.\n6. Afegir petits accents cromàtics.\n7. Evitar cobrir tota la peça amb un únic verd.\nNo tot dipòsit verd és una pàtina estable: alguns productes pulverulents poden indicar corrosió activa.
 
 **Recepta I. Pàtina blauverdosa**
 - Base metàl·lica: Glorious Gold o Tinny Tin.
@@ -118,7 +118,7 @@ Distribuir variacions verdes, conservar metall exposat i evitar cobrir tota la p
 - Aclarits: Snake Green.
 - Accents clars: Ivory (70.918).
 
-Distribuir turqueses i blaus, aprofundir zones, aclarir selectivament i conservar metall. Evitar que sembli una gema o un cristall.
+Procediment proposat:\n1. Establir el metall original.\n2. Distribuir les zones de pàtina blauverdosa.\n3. Introduir variacions turqueses i blavoses.\n4. Aprofundir algunes zones amb Dark Sea Blue.\n5. Aclarir àrees seleccionades amb Snake Green i Ivory.\n6. Conservar parts del metall exposat.\n7. Comprovar que la superfície no sembli una gema o un cristall.
 
 **Recepta J. Pàtina verda fosca**
 - Base metàl·lica: Glorious Gold o Tinny Tin.
@@ -128,7 +128,7 @@ Distribuir turqueses i blaus, aprofundir zones, aclarir selectivament i conserva
 - Zones profundes: Black.
 - Accents verds: Snake Green.
 
-Introduir zones fosques i variacions verdes, enfosquir cavitats i recuperar petits sectors metàl·lics.
+Procediment proposat:\n1. Establir una base metàl·lica.\n2. Introduir zones fosques d'alteració amb Dark Green.\n3. Afegir variacions verdes amb Cayman Green i Snake Green.\n4. Enfosquir algunes cavitats amb Dark Sea Blue i Black.\n5. Recuperar petites zones de metall.\n6. Mantenir una distribució irregular i coherent.
 
 **Recepta K. Metall parcialment patinat**
 - Base metàl·lica: Glorious Gold o Tinny Tin.
@@ -138,9 +138,13 @@ Introduir zones fosques i variacions verdes, enfosquir cavitats i recuperar peti
 - Accents verds: Snake Green.
 - Metall exposat: recuperar selectivament la base.
 
-Definir primer les zones que conservaran metall; aplicar pàtina localitzada amb intensitats variables i mantenir una transició visual entre ambdós estats.
+Procediment proposat:\n1. Establir la superfície metàl·lica.\n2. Definir quines zones conservaran el metall visible.\n3. Introduir la pàtina de manera localitzada.\n4. Variar la intensitat i el color de l'alteració.\n5. Mantenir una transició visual entre les zones conservades i les alterades.\n6. Recuperar els punts metàl·lics necessaris.\n7. Avaluar l'equilibri entre ambdós estats.
 
-En llautó i objectes daurats, no s'ha d'aplicar automàticament verd intens. Poden resultar més coherents marrons, negres o verds discrets; cal conservar prou informació del metall. Les receptes G, H i K són adaptables, no es formula una recepta nova.
+### 28.5.6. Pàtines sobre superfícies de llautó i objectes daurats
+
+El llautó i les superfícies daurades poden presentar canvis cromàtics per alteració superficial, però no s'han de representar automàticament com a bronze verdós. Cal identificar l'aparença del metall original i seleccionar l'alteració adequada. En objectes de llautó poden resultar més coherents els marrons, els negres o els verds discrets que una cobertura completa de verd intens. En superfícies daurades s'ha de conservar prou informació del metall perquè l'objecte no perdi la seva identitat.
+
+No es defineix una recepta independent: les receptes G, H i K es poden adaptar segons el material i l'estat visual buscat.
 
 ## 28.6. Altres metalls i estats de conservació
 
@@ -151,46 +155,121 @@ En llautó i objectes daurats, no s'ha d'aplicar automàticament verd intens. Po
 
 ## 28.7. Procediments d'aplicació i control
 
-**Preparació:** identificar metall, acabat original, zones visibles, extensió i intensitat de l'alteració i tipus de corrosió o pàtina. La preparació general correspon al capítol 7; característiques de pintura, al 3; receptes metàl·liques, al 19.
+### 28.7.1. Preparació de la superfície metàl·lica
 
-**Superfície oxidada:** establir base metàl·lica; definir zones de corrosió; introduir tons principals i variacions; diferenciar profunditats; construir irregularitats i acumulacions; recuperar metall exposat quan calgui; avaluar.
+Abans d'aplicar corrosió o pàtina, identificar el tipus de metall, l'acabat original, les zones que han de continuar visibles, l'extensió i la intensitat de l'alteració i la relació amb la geometria i l'ús de l'objecte. La preparació general d'eines, pintures i suport correspon al capítol 7; les característiques funcionals de les pintures, al 3; i les bases metàl·liques, al 19. No cal repetir aquests procediments.
 
-**Pàtina sobre coure o bronze:** construir metall; seleccionar distribució; establir to principal; introduir variacions; diferenciar profunditats; conservar o recuperar metall; avaluar l'equilibri.
+### 28.7.2. Construcció d'una superfície oxidada
 
-**Corrosió sobre pintura:** separar visualment recobriment, metall i corrosió. No aplicar rovell indiscriminadament sobre tota la pintura.
+1. Establir la base metàl·lica.
+2. Definir la distribució i l'extensió de la corrosió.
+3. Introduir els tons principals.
+4. Afegir variacions cromàtiques i diferències d'intensitat.
+5. Diferenciar les àrees profundes.
+6. Construir irregularitats, escates o acumulacions només quan l'estat representat ho requereixi.
+7. Recuperar metall exposat quan sigui necessari.
+8. Avaluar el resultat des de prop i a la distància habitual d'observació.
 
-Durant l'aplicació, controlar distribució, reconeixement del metall, variacions, zones profundes, escala dels dipòsits, geometria i correspondència amb el material. Es poden combinar aplicacions (cap. 8), degradats (9), veladures i glassejats (10), rentats, tintes i pigments (11), puntejat, pinzell sec, ratllat i esponjat (13). No cal utilitzar-les totes. Les acumulacions de pigments i dipòsits físics requereixen atenció a la fixació i a possibles canvis d'aparença.
+La seqüència es pot adaptar al tipus de corrosió. Una capa fina no necessita el mateix volum ni textura que una superfície amb escates i despreniments.
 
-## 28.8. Errors freqüents i correccions
+### 28.7.3. Construcció d'una pàtina sobre coure o bronze
 
-- Un únic color de corrosió: introduir variacions i intensitats.
-- Confondre rovell de ferro i pàtina de coure: identificar el metall.
-- Verd intens en tot bronze: combinar pàtina amb marrons, foscos i metall.
-- Cobrir tot el metall original: conservar o recuperar zones exposades.
-- Distribució simètrica: variar posició, mida i intensitat segons geometria.
-- Excés de taronja: combinar tons foscos, rogencs i marrons.
-- Confondre pàtina i brutícia: separar transformació i dipòsit.
-- Confondre corrosió i desgast: diferenciar metall exposat, pèrdua de recobriment i productes d'alteració.
-- Dipòsits massa voluminosos: ajustar-los a escala i estat.
-- No diferenciar pàtina estable i corrosió irregular: decidir si es representa una capa compacta o una superfície pulverulenta.
-- Excés de contrast o d'efectes: jerarquitzar i seleccionar un efecte principal.
+1. Construir la superfície metàl·lica.
+2. Seleccionar la distribució de la pàtina: extensa, parcial, localitzada o irregular.
+3. Establir el to principal.
+4. Introduir variacions cromàtiques.
+5. Diferenciar les zones profundes i les àrees de major acumulació.
+6. Conservar o recuperar àrees metàl·liques.
+7. Avaluar l'equilibri entre metall i alteració.
 
-## 28.9. Resultat esperat i avaluació
+No totes les zones han de presentar la mateixa intensitat. La distribució ha de respondre a la geometria i a l'estat visual representat.
 
-La superfície és satisfactòria quan es reconeix el metall original, l'alteració és coherent, la distribució respecta la geometria, hi ha variacions suficients, el metall conservat es diferencia de les zones alterades, la intensitat correspon a l'escala i no es confonen corrosió, brutícia i desgast.
+### 28.7.4. Construcció de corrosió sota pintura deteriorada
 
-No cal cobrir tots els espais ni afegir detalls perquè l'objecte sembli vell. Una corrosió localitzada pot ser més convincent que una cobertura total; una pàtina uniforme pot ser més adequada que dipòsits irregulars si es representa una capa estable.
+Quan el metall està recobert de pintura, la corrosió pot aparèixer en zones on el recobriment s'ha perdut o deteriorat. La seqüència visual ha de diferenciar la pintura conservada, la vora del recobriment desprès, el metall exposat, els productes de corrosió i les zones de transició.
+
+No s'han d'aplicar tons de herrumbre indiscriminadament sobre tota la pintura. Cal establir primer les pèrdues del recobriment i representar la corrosió només en les zones on sigui coherent amb el material subjacent. El procediment de desconxat es desenvolupa al capítol 36.
+
+### 28.7.5. Control de la distribució i la intensitat
+
+Durant l'aplicació, comprovar si la corrosió o la pàtina es distribueix de manera coherent amb la geometria, si el metall original continua sent recognoscible, si les variacions cromàtiques són suficients, si les zones profundes conserven la lectura, si els dipòsits presenten una escala adequada, si la textura manté la forma de la superfície i si la intensitat correspon al material i a l'estat representat.
+
+La intensitat s'ha d'ajustar a l'escala i a la funció visual de l'objecte. Una miniatura no necessita reproduir tots els detalls d'una superfície metàl·lica real.
+
+### 28.7.6. Compatibilitat i control de les tècniques
+
+Els efectes es poden construir combinant tècniques desenvolupades en altres capítols: aplicacions successives i capes (8), degradats i transicions (9), veladures i glassejats (10), rentats, tintes i pigments (11), puntejat, pinzell sec, ratllat i esponjat (13), i pigmentació o acumulacions quan correspongui (16).
+
+No cal utilitzar totes les tècniques en una mateixa superfície. La selecció depèn del tipus d'alteració, la geometria i l'escala. Les acumulacions de pigment i els dipòsits físics requereixen atenció a la fixació i als possibles canvis d'aparença després de l'aplicació. Els procediments generals no es tornen a desenvolupar aquí: s'utilitzen com a recursos per construir l'efecte.
+
+## 28.8. Errors freqüents i procediments de correcció
+
+- **Un únic color per a tota la corrosió:** pot semblar artificial i uniforme. Introduir variacions cromàtiques i diferències d'intensitat.
+- **Confondre herrumbre de ferro amb pàtina de coure:** identificar el metall original i seleccionar una família cromàtica adequada.
+- **Verd intens en totes les superfícies de bronze:** combinar la pàtina amb zones marrons, fosques i metàl·liques.
+- **Cobrir completament el metall original:** conservar zones exposades o recuperar-les selectivament.
+- **Distribució simètrica:** variar posició, mida i intensitat dels dipòsits segons la geometria.
+- **Excés de tons taronges:** combinar tons foscos, rogencs i marrons, reservant el taronja per a zones concretes.
+- **Confondre pàtina amb brutícia:** diferenciar el producte de corrosió del material dipositat; la brutícia es desenvolupa al capítol 29.
+- **Confondre corrosió amb desgast:** diferenciar metall exposat, pèrdua de recobriment i productes d'alteració; el desgast es desenvolupa al capítol 36.
+- **Dipòsits massa voluminosos:** ajustar el volum aparent a l'escala i a l'estat del material.
+- **No diferenciar pàtina estable i corrosió irregular:** definir l'estat visual que es vol representar i mantenir-lo durant l'aplicació.
+- **Contrast excessiu:** ajustar la transició i la intensitat dels tons per conservar la lectura del conjunt.
+- **Acumular massa efectes:** seleccionar l'efecte principal i utilitzar els altres només quan contribueixin a interpretar-lo.
+
+## 28.9. Resultat esperat i criteris d'avaluació
+
+Una superfície corroïda o patinada és satisfactòria quan es reconeix el metall original, el tipus d'alteració és coherent, la distribució respecta la geometria, hi ha variacions cromàtiques suficients, les zones metàl·liques conservades es diferencien de les alterades, la intensitat correspon a l'escala, la textura no oculta l'estructura i no es confonen corrosió, brutícia i desgast.
+
+La superfície es pot donar per acabada quan l'efecte compleix la seva funció visual i ja és recognoscible. No cal cobrir tots els espais ni afegir detalls només perquè l'objecte sembli més envellit. Una corrosió localitzada pot ser més convincent que una cobertura total; una pàtina uniforme pot ser més adequada que una acumulació irregular quan es representa una capa estable.
 
 ## 28.10. Exercicis pràctics
 
-1. **rovell recent i madura:** preparar dues superfícies metàl·liques i aplicar A i B; conservar metall i comparar estats.
-2. **rovell fosca:** construir base fosca, variacions rogenques i marrons, profunditats i accents; evitar el bloc uniforme.
-3. **Corrosió localitzada:** seleccionar vores i cavitats, establir metall, construir zones fosques i variacions càlides; comprovar distribució.
-4. **Pàtina marró i verda:** aplicar G i H en dues superfícies; mantenir metall i comparar alteracions.
-5. **Pàtina blauverdosa:** establir metall, distribuir turqueses, aprofundir, aclarir i recuperar metall.
-6. **Integració:** combinar rovell, pàtina i metall conservat en una peça; identificar el metall, assignar alteracions i avaluar-ne la diferenciació.
+### Exercici 1. Comparació entre herrumbre recent i madura
+**Objectiu:** diferenciar dues aparences de corrosió sobre ferro.  
+**Materials:** Dark Gunmetal (72.054), Hot Orange (72.009), Burnt Red (70.814), Dark Rust (70.771), Parasite Brown (72.042) i Black (70.950).  
+**Procediment:** preparar dues superfícies metàl·liques semblants; construir-ne una amb la recepta A i l'altra amb la B; diferenciar tons principals i zones fosques; conservar àrees de metall exposat; comparar la lectura visual.  
+**Avaluació:** comprovar que les superfícies presenten estats diferenciats sense perdre la identitat metàl·lica.
 
-## 28.11. Referències i recursos
+### Exercici 2. Construcció de herrumbre fosca
+**Objectiu:** representar una superfície de ferro molt deteriorada.  
+**Materials:** Dark Rust (70.771), Burnt Red (70.814), Parasite Brown (72.042), Black (70.950) i Deck Tan (70.986).  
+**Procediment:** preparar una superfície de prova; construir una base fosca; introduir variacions rogenques i marrons; distribuir zones profundes; afegir petits accents clars; avaluar la profunditat cromàtica.  
+**Avaluació:** comprovar que la superfície presenta variacions sense convertir-se en un bloc negre o marró uniforme.
+
+### Exercici 3. Corrosió localitzada en una peça metàl·lica
+**Objectiu:** controlar la distribució irregular de la herrumbre.  
+**Materials:** Dark Gunmetal (72.054), Dark Rust (70.771), Burnt Red (70.814), Parasite Brown (72.042) i Hot Orange (72.009).  
+**Procediment:** seleccionar una superfície amb vores i cavitats; establir la base metàl·lica; identificar les zones de corrosió; construir àrees fosques; afegir variacions càlides; mantenir metall visible; avaluar la distribució.  
+**Avaluació:** comprovar que la corrosió no apareix distribuïda de manera idèntica per tota la superfície.
+
+### Exercici 4. Comparació entre pàtina marró i verda
+**Objectiu:** diferenciar dues aparences d'alteració sobre coure o bronze.  
+**Materials:** Glorious Gold (72.056), Tinny Tin (72.060), Parasite Brown (72.042), Dark Rust (70.771), Cayman Green (72.067), Dark Green (72.028) i Snake Green (72.417).  
+**Procediment:** preparar dues superfícies metàl·liques; construir-ne una amb la recepta G i l'altra amb la H; mantenir zones metàl·liques exposades; comparar diferències cromàtiques i de distribució.  
+**Avaluació:** comprovar que les dues superfícies es reconeixen com a alteracions diferents d'un metall de base.
+
+### Exercici 5. Construcció d'una pàtina blauverdosa
+**Objectiu:** controlar una alteració superficial freda sobre coure o bronze.  
+**Materials:** Glorious Gold (72.056), Tinny Tin (72.060), Turquoise (72.024), Blue Green (70.808), Dark Sea Blue (70.898), Snake Green (72.417) i Ivory (70.918).  
+**Procediment:** establir una base metàl·lica; seleccionar les zones de pàtina; construir una base blauverdosa; introduir variacions més fosques; afegir aclarits selectius; recuperar zones metàl·liques; avaluar l'equilibri cromàtic.  
+**Avaluació:** comprovar que la superfície manté la identitat del metall i no es confon amb una gema o un cristall.
+
+### Exercici 6. Exercici integrador: peça metàl·lica amb corrosió i pàtina
+**Objectiu:** combinar diferents estats de conservació en una mateixa peça.  
+**Materials:** Dark Gunmetal (72.054), Silver (72.052), Glorious Gold (72.056), Tinny Tin (72.060), Dark Rust (70.771), Burnt Red (70.814), Parasite Brown (72.042), Hot Orange (72.009), Cayman Green (72.067), Turquoise (72.024), Dark Green (72.028), Snake Green (72.417) i Black (70.950).  
+**Procediment:** seleccionar una peça amb diferents plans i detalls; identificar el metall original; definir zones amb herrumbre, pàtina o metall conservat; construir les superfícies metàl·liques; aplicar els efectes corresponents; introduir variacions de color i textura; conservar metall exposat; avaluar el resultat a escala.  
+**Avaluació:** comprovar que els diferents estats es distingeixen, que el metall original continua sent recognoscible i que els efectes no competeixen innecessàriament.
+
+## 28.11. Síntesi del capítol
+
+La corrosió i les pàtines modifiquen l'aparença de les superfícies metàl·liques, però no constitueixen un únic fenomen ni generen un resultat cromàtic uniforme. La herrumbre del ferro i l'acer sol presentar tons rogencs, taronges, marrons i foscos. Les alteracions del coure i els seus aliatges poden produir superfícies marrons, negres, verdes o blauverdoses; altres metalls poden presentar enfosquiments i canvis superficials diferents.
+
+Per representar aquests efectes convé identificar primer el metall original, determinar l'estat d'alteració i planificar la distribució dels productes de corrosió. La relació entre metall exposat, alteració superficial, textura i geometria és essencial per conservar la lectura de l'objecte.
+
+Les receptes utilitzen pintures de l'inventari de 48 referències i són propostes tècniques orientatives, no mescles experimentades. Són combinacions de partida que s'han d'adaptar al material, l'escala i l'estat visual que es vol representar.
+
+## 28.12. Referències i recursos
 
 **Corrosió i conservació**
 - Canadian Conservation Institute. *Caring for Metal Objects – Preventive Conservation Guidelines for Collections*. https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/metal-objects.html

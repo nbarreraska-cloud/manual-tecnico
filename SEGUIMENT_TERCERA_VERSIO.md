@@ -867,7 +867,7 @@ Aquesta secció és la referència operativa més recent i preval sobre les inst
 - **F2:** completada el 05/11/2026; Registre Mestre versió 1.74. Revisades les 39 files de la matriu, conciliats els estats obsolets de C28–C29 i verificada la correspondència dels 39 Markdown amb la compilació C1–C39 (39/39).
 - **F3:** completada per a les accions RT/RD/AE identificades a la matriu.
 - **F4:** completada amb limitacions documentals. Tots els 39 capítols disposen d'un nivell de revisió documentat, i les limitacions de font s'han mantingut explícites. La revisió semàntica de remissions C1–C39 i la comprovació estructural global estan completades. No es presenta el coteig documental com a validació experimental.
-- **F5:** en curs; iniciada l'auditoria de l'Annex C: 183/183 entrades i lletres contrastades amb C19–C34, 170 referències actualitzades. Resta la comprovació amb l'Annex D i l'auditoria d'A, B, D i E.
+- **F5:** en curs; A, B, C i D auditats. A: 48/48 referències i composició dels conjunts verificades contra el catàleg oficial 2026; B: 62 entrades i remissions validades; C: 183 entrades, 170 referències corregides; D: 92 entrades contrastades amb els capítols i amb C. Resta E i la integració global A–E.
 - **F6:** completada el 05/11/2026; auditoria global de coherència transversal C1–C39 tancada. No equival a validació experimental.
 - **F7:** pendent; revisió gràfica i maquetació Word després de F5.
 
@@ -1142,3 +1142,14 @@ La revisió de GitHub confirma F4 i F6 tancades amb els límits documentals regi
 S'han contrastat les 183 entrades de l'Annex C amb les receptes vigents dels capítols 19–34. Les 183 lletres i correspondències de recepta s'han localitzat; s'han actualitzat 170 referències perquè apuntin a l'apartat real de cada recepta, mentre que 13 ja eren correctes. La verificació final confirma 183/183 remissions concordants amb la secció on apareix cada recepta. No s'han modificat les formulacions ni les seqüències de pintura.
 
 Durant el coteig s'han corregit dues incidències lingüístiques concretes als capítols: «gema» s'ha normalitzat a «gemma» a C27, d'acord amb el Diccionari de gemmologia del TERMCAT; a C29 s'ha corregit el gènere femení de «pols» i la concordança dels adjectius associats. Els dos canvis s'han sincronitzat a la compilació C1–C39. L'Annex C queda amb el coteig de les 183 entrades completat; resta la comprovació de coherència amb l'Annex D i l'auditoria global dels annexos A, B, D i E.
+
+
+### F5 — auditories dels annexos A, B i D (05/11/2026)
+
+**Annex A:** s'han verificat 48 referències úniques, distribuïdes en quatre conjunts de 12, i la correspondència de la composició dels conjunts amb el catàleg oficial Vallejo 2026 (72.201, 72.202, 72.203 i 72.207). Les fitxes individuals no formen part del repositori; la seva auditoria tècnica independent no es dona per feta.
+
+**Annex B:** s'han revisat les 62 entrades de l'índex i totes les remissions contra els encapçalaments vigents dels capítols 7–39. S'han corregit 28 identificadors de subsecció obsolets en set entrades; la verificació final no detecta cap referència a apartats inexistents.
+
+**Annex D:** s'han contrastat les 92 entrades amb les lletres de recepta i els colors indicats als capítols, i amb les entrades corresponents de l'Annex C. No s'han detectat correspondències incorrectes. S'ha aclarit que C29, C32 i C34 no aporten mescles físiques explícites a la taula, perquè descriuen seqüències d'aplicació o seleccions cromàtiques sense formulacions físiques ni proporcions.
+
+F5 continua oberta per l'auditoria de l'Annex E i la comprovació final d'integració entre A–E.

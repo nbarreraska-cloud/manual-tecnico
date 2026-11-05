@@ -74,7 +74,7 @@ La decisió parteix de l'aparença desitjada, no d'una associació automàtica e
 - **Teixits:** depenen de fibres, estructura i tractaments. Alguns són mats; d'altres, com certes sedes i fibres sintètiques, poden ser satinats o brillants. La brillantor no identifica per si sola la fibra (cap. 23).
 - **Pell i materials orgànics:** poden variar segons estat, humitat i característiques superficials; és possible diferenciar zones mates i zones de brillantor moderada.
 - **Roques i minerals:** des de mats fins a reflexos intensos segons composició, estructura, textura i polit. Una roca rugosa pot ser mate i un mineral polit pot tenir reflexos definits.
-- **Cristalls, vidre i gemmes:** requereixen reflexió i transmissió coherents. El brillantor reforça una superfície polida, però no substitueix transparència, refracció ni profunditat interna (caps. 27 i 34).
+- **Cristalls, vidre i gemmes:** requereixen reflexió i transmissió coherents. La brillantor reforça una superfície polida, però no substitueix transparència, refracció ni profunditat interna (caps. 27 i 34).
 - **Ceràmica, porcellana i plàstics:** poden ser mats, satinats o brillants. Esmalts ceràmics poden generar reflexos intensos; els plàstics són una família diversa (cap. 33).
 - **Líquids i superfícies humides:** solen requerir reflexos intensos i localitzats, combinats amb forma, distribució i context; no necessàriament uniformes (cap. 31).
 

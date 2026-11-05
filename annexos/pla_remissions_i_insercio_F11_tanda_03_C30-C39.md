@@ -754,8 +754,8 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Categoria d'evidència:** E2 — sense prova documentada, convertir en esquema E0; no presentar com a resultat real.
 
 - **Identificadors P1 d'origen:** 39.7
-- **Ubicació editorial F10:** 39.7.
-- **Punt d'inserció proposat:** després del desenvolupament de l'apartat 39.7.
+- **Ubicació editorial corregida:** 39.2.3; 39.7 correspon a prevenció i registre del procés, no a la identificació inicial dels símptomes.
+- **Punt d'inserció proposat:** després de descriure els indicis d'alteració de la superfície a l'apartat 39.2.3 i abans de formular causes possibles.
 - **Remissió textual proposada:** «La Figura 39.6 presenta diagnòstic d'alteracions superficials.»
 - **Llegenda de treball:** «Símptomes superficials de dipòsits, textura irregular, pèrdua d'adherència i alteració de la brillantor.».
 - **Nucli de representació:** exemples esquemàtics de diferents alteracions superficials.

@@ -6,7 +6,7 @@ Data de separació: 2026-11-05
 Origen: branca intervencion-editorial-2026-11
 Propostes recuperades del Word original: 50 (C1: 2; C2: 2; C3: 6; C33: 10; C34: 10; C35: 10; C37: 10).
 Propostes addicionals elaborades durant la tercera síntesi: 90 (C15–C24).
-Total actual arxivat: 140 propostes. Inventari del Word original pendent de completar per a C4–C7, C11, C30–C32, C36, C38 i C39.
+Total actual arxivat: 140 propostes. Inventari del Word original pendent de completar per a C30–C32, C36, C38 i C39.
 
 ## segunda_sintesis/capitol-01.md
 
@@ -410,3 +410,169 @@ Les deu figures següents queden reservades per a la fase gràfica final. No s'h
 7. Masses musculars i direcció dels grups principals.
 8. Diferenciació entre múscul, teixit adipós i teixit connectiu.
 9. Errors freqüents: pell plana, excés de blanc, ombres uniformes, múscul ratllat i confusió de teixits.
+
+
+---
+
+## C4 — Propostes gràfiques recuperades del Word original
+
+> Transcripció de les propostes identificades a «manual con estructura completa.docx». Es conserven com a material de planificació, no com a contingut lector ni com a imatges produïdes.
+
+Figura 4.1. Influencia del contexto visual en la percepción del color
+Representar varias muestras centrales idénticas rodeadas por fondos de colores diferentes. La muestra central debe conservar el mismo color en todos los casos. La finalidad es mostrar que su apariencia percibida cambia por la relación con el entorno, no porque la muestra haya sido modificada.
+
+Figura 4.2. Círculo cromático tradicional RYB
+Representar un círculo cromático de doce sectores, con los tres primarios, tres secundarios y seis terciarios claramente identificados. Los nombres deben aparecer en castellano. Añadir una nota que indique que se trata de un modelo tradicional de organización cromática.
+
+Figura 4.3. Mezcla aditiva RGB y mezcla sustractiva CMY
+Crear dos diagramas diferenciados. En el primero, representar tres círculos de luz roja, verde y azul superpuestos, mostrando sus combinaciones. En el segundo, representar la lógica sustractiva de cian, magenta y amarillo. Identificar claramente ambos modelos para evitar confundir la mezcla de luz con la mezcla de pigmentos.
+
+Figura 4.4. Dimensiones del color: matiz, valor y croma
+Representar de forma didáctica el sistema Munsell o un espacio cromático tridimensional. Identificar los ejes de matiz, valor y croma. Acompañar la representación con tres escalas independientes: variación de matiz, escala de valor y variación de croma. Evitar representar el espacio como si todos los colores posibles tuvieran una distribución geométrica perfectamente regular.
+
+Figura 4.5. Temperatura cromática relativa
+Representar varios pares de colores de una misma familia con tendencias cálidas y frías. Utilizar indicaciones para señalar el desplazamiento relativo. Evitar dividir el círculo cromático en dos mitades rígidas y presentar esa división como una regla absoluta.
+
+Figura 4.6. Esquemas de armonías cromáticas
+Crear seis diagramas circulares independientes que representen armonía monocromática, análoga, complementaria, complementaria dividida, triádica y doble complementaria. Cada esquema debe destacar únicamente los sectores implicados. Utilizar la misma estructura y escala para facilitar la comparación. Indicar que los esquemas se basan en el círculo RYB tradicional.
+
+Figura 4.7. Tipos de contraste cromático
+Mostrar cinco comparaciones visuales: contraste de matiz, de valor, de croma, de temperatura y de contexto. Cada comparación debe modificar principalmente una dimensión para que el lector pueda identificarla. Añadir una pequeña composición de miniatura que muestre cómo varios contrastes pueden combinarse para crear jerarquía visual.
+
+Figura 4.8. Principios de modificación y mezcla cromática
+Representar cuatro situaciones diferenciadas: mezcla física de dos colores, modificación de un color mediante una tercera pintura, mezcla óptica mediante puntos o trazos próximos y superposición de una capa transparente sobre una base. No presentar muestras digitales como pruebas experimentales de pinturas reales.
+
+Figura 4.9. Planificación cromática de una miniatura con armadura azul
+Mostrar una miniatura esquemática o una silueta de armadura dividida en superficies. Acompañarla de una paleta organizada por color dominante, secundarios, acentos y neutros. La figura debe permitir identificar la asignación de colores y la jerarquía cromática. No representar una receta concreta ni atribuir resultados experimentales a pinturas del catálogo.
+
+---
+
+## C5 — Propostes gràfiques recuperades del Word original
+
+> Transcripció de les propostes identificades a «manual con estructura completa.docx». Es conserven com a material de planificació, no com a contingut lector ni com a imatges produïdes.
+
+Figura 5.1. Relación entre fuente luminosa, objeto y observador.
+· Ubicación: apartado 5.1.2.
+· Formato: esquema geométrico.
+· Contenido: fuente, objeto, superficie y observador, con recorridos de luz.
+· Función: mostrar los elementos que condicionan la percepción visual.
+
+Figura 5.2. Fuentes luminosas puntuales y extensas.
+· Ubicación: apartado 5.2.2.
+· Formato: comparación esquemática.
+· Contenido: dos fuentes de diferente tamaño aparente y sus efectos sobre la iluminación y las sombras.
+· Función: comprender la relación entre tamaño de la fuente y definición de las sombras.
+
+Figura 5.3. Tamaño aparente de la fuente luminosa.
+· Ubicación: apartado 5.2.5.
+· Formato: esquema comparativo.
+· Contenido: fuentes de diferente tamaño físico y distancia, con indicación de su tamaño angular.
+· Función: relacionar distancia y tamaño aparente con la distribución de la iluminación.
+
+Figura 5.4. Orientación de los planos respecto a la fuente luminosa.
+· Ubicación: apartado 5.3.1.
+· Formato: esquema de un objeto geométrico.
+· Contenido: varios planos con orientaciones distintas sometidos a una misma fuente.
+· Función: identificar cómo la orientación modifica la iluminación recibida.
+
+Figura 5.5. Normales geométricas.
+
+---
+
+## C6 — Propostes gràfiques recuperades del Word original
+
+> Transcripció de les propostes identificades a «manual con estructura completa.docx». Es conserven com a material de planificació, no com a contingut lector ni com a imatges produïdes.
+
+Figura 6.1. Material, apariencia y representación pictórica
+· Ubicación: apartado 6.1, después de definir material, apariencia material y representación pictórica.
+· Contenido: comparación entre un material real, las señales visuales que permiten interpretarlo y su traducción a una representación pictórica simplificada.
+· Función didáctica: mostrar que representar un material no significa reproducir su composición física, sino comunicar visualmente sus características relevantes.
+
+Figura 6.2. Estructura, geometría y escalas de observación
+· Ubicación: apartado 6.2, después de explicar las escalas de observación.
+· Contenido: esquema que diferencie estructura del material, geometría y relieve superficial, textura y tres escalas de observación: general, estructural y de detalle.
+· Función didáctica: aclarar conceptos relacionados, pero diferentes, y mostrar cómo cambia la información visible según la escala.
+
+Figura 6.3. Texturas y patrones superficiales
+· Ubicación: apartado 6.3, después de describir los principales patrones.
+· Contenido: ejemplos visuales de superficies lisas, rugosas, granulares, fibrosas y porosas, junto con patrones lineales, estratificados y discontinuidades.
+· Función didáctica: facilitar la comparación entre texturas y patrones sin presentarlos como categorías excluyentes ni como identificadores exclusivos de un material.
+
+Figura 6.4. Respuestas ópticas de los materiales
+· Ubicación: apartado 6.4, después de explicar la respuesta superficial y la definición de los reflejos.
+· Contenido: comparación de apariencias superficiales con reflejos definidos, extendidos, fragmentados o poco perceptibles, incluyendo ejemplos de materiales con respuestas visuales diferentes.
+· Función didáctica: mostrar cómo la apariencia de la superficie contribuye al reconocimiento de materiales.
+· Delimitación: no incluir rayos, ángulos de incidencia, normales, geometría de reflexión ni explicaciones físicas de la iluminación. No debe duplicar la figura 5.9.
+
+Figura 6.5. Opacidad, transparencia y translucidez
+· Ubicación: apartado 6.5, después de explicar las diferencias entre estos comportamientos.
+· Contenido: comparación de materiales que permiten observar imágenes definidas, transmiten luz pero difuminan las imágenes o no presentan transmisión apreciable.
+· Función didáctica: visualizar las diferencias en la información que se conserva, se difumina o desaparece al atravesar un material.
+
+---
+
+## C7 — Propostes gràfiques recuperades del Word original
+
+> Transcripció de les propostes identificades a «manual con estructura completa.docx». Es conserven com a material de planificació, no com a contingut lector ni com a imatges produïdes.
+
+Figura 7.1. Organización funcional del puesto de trabajo
+· Ubicación: apartado 7.2.
+· Contenido: esquema de un puesto de trabajo con las zonas de pintura, preparación, materiales, limpieza y secado.
+· Función didáctica: mostrar cómo organizar las operaciones y evitar interferencias entre ellas.
+
+Figura 7.2. Componentes y características funcionales del pincel
+· Ubicación: apartado 7.3.1.
+· Contenido: identificación del pelo o filamento, virola y mango; representación de diferentes formas de punta.
+· Función didáctica: facilitar la identificación de los componentes y comprender los criterios básicos de selección.
+
+Figura 7.3. Paleta seca y paleta húmeda
+· Ubicación: apartado 7.3.2.
+· Contenido: comparación de una paleta seca y un sistema de paleta húmeda, con identificación de recipiente, material absorbente, membrana y pintura.
+· Función didáctica: explicar las diferencias de configuración y uso sin presentar la paleta húmeda como adecuada para cualquier formulación.
+
+Figura 7.4. Comparación de sistemas de aplicación
+· Ubicación: apartado 7.3.8.
+· Contenido: pincel, aerógrafo y aerosol, con identificación de sus características funcionales y diferencias.
+· Función didáctica: distinguir la aplicación manual, la pulverización mediante aire comprimido y los envases presurizados.
+
+Figura 7.5. Secuencia de preparación de una miniatura
+· Ubicación: apartado 7.4.
+· Contenido: inspección, eliminación de rebabas y líneas de molde, limpieza, montaje, corrección de juntas y comprobación final. Incluir detalles comparativos de una imperfección antes y después de su eliminación.
+· Función didáctica: representar el orden general de acondicionamiento del soporte y mostrar qué tipo de defectos deben detectarse.
+
+Figura 7.6. Control de la imprimación
+
+---
+
+## C11 — Propostes gràfiques recuperades del Word original
+
+> Transcripció de les propostes identificades a «manual con estructura completa.docx». Es conserven com a material de planificació, no com a contingut lector ni com a imatges produïdes.
+
+1. Figura 11.1. Diferencia entre lavado, tinta y pigmento en polvo. Comparación de naturaleza, presentación y comportamiento.
+
+2. Figura 11.2. Distribución de un lavado sobre una superficie con relieves. Vista de una aplicación general y su concentración en zonas deprimidas.
+
+3. Figura 11.3. Lavado general y lavado localizado. Comparación de ambas modalidades sobre geometrías equivalentes.
+
+4. Figura 11.4. Aplicación de tinta y modificación cromática. Secuencia que muestre el efecto de diferentes intensidades sobre una misma base.
+
+5. Figura 11.5. Aplicación de pigmentos en seco. Secuencia de carga, depósito, distribución y retirada del exceso.
+
+6. Figura 11.6. Pigmento seco y pigmento fijado. Comparación visual antes y después de aplicar un fijador.
+
+7. Figura 11.7. Tipos de acumulaciones. Representación de depósitos líquidos, pigmentos secos y acumulaciones mixtas.
+
+8. Figura 11.8. Errores frecuentes. Exceso de lavado, acumulación involuntaria, distribución irregular y modificación excesiva de la superficie.
+
+
+AUDITORÍA · CIERRE DEL CAPÍTULO 11 Y CONTINUACIÓN
+El capítulo 11, «Lavados, tintas, pigmentos y acumulaciones», queda aprobado y cerrado editorialmente.
+1. Resultado de la auditoría
+Se aprueba la estructura definitiva de diez apartados y la síntesis final.
+Se consideran adecuadas las decisiones técnicas y editoriales:
+· Diferenciación funcional entre lavados, tintas, pigmentos en polvo y acumulaciones.
+· Distinción entre lavado general, localizado y aplicaciones selectivas.
+· Explicación condicionada del flujo y la concentración en depresiones.
+· Diferenciación entre tinta y lavado.
+· Distinción entre pigmento seco y pigmento fijado.
+· Consideración de los cambios de apariencia derivados de la fijación.

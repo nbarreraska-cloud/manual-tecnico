@@ -1,6 +1,6 @@
 # REGISTRE MESTRE DE RECUPERACIONS EDITORIALS
 **Manual tècnic de pintura de miniatures**  
-**Versió:** 1.4 · **Data:** 05/11/2026  
+**Versió:** 1.5 · **Data:** 05/11/2026  
 **Branca:** intervencion-editorial-2026-11
 
 ## 1. Funció i abast
@@ -20,8 +20,8 @@ La tercera versió és el resultat de les intervencions sobre aquests 39 Markdow
 | 0 | Preservar les versions, les fonts, la traçabilitat i la branca de treball; vincular cada intervenció amb capítol/apartat/font i mantenir main intacta. | **Completada** |
 | 1 | Auditoria comparativa dels 39 capítols Markdown: contingut conservat, simplificacions, pèrdues, redundàncies i millores de la segona síntesi. | **Completada (39/39)** |
 | 2 | Consolidar el Registre Mestre amb categories RT/RD/AE/MG/SC, prioritats, decisions, fonts i estat real dels canvis. | **En curs**; versió 1.2 creada, amb les intervencions G-01–G-11 separades de la tercera versió. Continua la conciliació fina dels estats i commits dels 39 capítols. |
-| 3 | Aplicar les recuperacions tècniques, didàctiques i els ajustos editorials justificats a la tercera versió dels 39 Markdown. | **En curs**; intervencions aplicades als capítols 3–19, 25–32, 36 i 38; ajust AE als capítols 33–34. |
-| 4 | Validar els 39 capítols i estabilitzar-ne el contingut, les receptes, els exercicis, la numeració i les referències. | **Pendent / parcial**; les comprovacions estructurals inicials no substitueixen el coteig semàntic. |
+| 3 | Aplicar les recuperacions tècniques, didàctiques i els ajustos editorials justificats a la tercera versió dels 39 Markdown. | **Completada per a les accions identificades a la matriu**; intervencions aplicades als capítols 3–19, 25–32, 36 i 38; ajust AE als capítols 33–34; els capítols SC es mantenen sense canvis. |
+| 4 | Validar els 39 capítols i estabilitzar-ne el contingut, les receptes, els exercicis, la numeració i les referències. | **En curs**; primera comprovació estructural dels 29 Markdown intervinguts sense encapçalaments ni numeracions duplicats, ni encapçalaments buits. Detectats i corregits salts de línia literals als capítols 28 i 29. El coteig semàntic i tècnic continua pendent. |
 | 5 | Revisar i reconstruir els annexos A–E després d'estabilitzar els 39 capítols. | **Pendent i diferida**; no intervenir-hi ara. |
 | 6 | Auditoria global de coherència, referències creuades, traçabilitat i absència de pèrdues o duplicacions. | **Pendent** |
 | 7 | Revisió gràfica, consolidació editorial, normalització i maquetació Word. | **Fase final**; les imatges s'aborden després dels annexos. |
@@ -190,5 +190,6 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 1.2 | 05/11/2026 | Precisió de la fase F0 (traçabilitat) i incorporació del criteri d'extensió de 350–375 pàgines, amb límit orientatiu de 400 i prohibició de retallar contingut tècnic per raons quantitatives. |
 | 1.3 | 05/11/2026 | Precisió de l'origen dels criteris d'avaluació afegits als exercicis dels capítols 36 i 38: es marquen com a propostes didàctiques editorials, no com a contingut recuperat del text original. |
 | 1.4 | 05/11/2026 | Registre de la recuperació del capítol 3 (vuit errors i síntesi operativa de vuit passos), actualització de la fase F3 i precisió dels estats d'aplicació/validació dels capítols 36 i 38. |
+| 1.5 | 05/11/2026 | F3 completada per a les accions identificades; inici de F4; comprovació estructural dels 29 Markdown intervinguts i correcció dels salts de línia literals als capítols 28 i 29. |
 
 Aquest registre és una consolidació operativa basada en l'auditoria i els resultats recuperats del projecte. Els punts marcats com a pendents o no validats s'han de comprovar amb el fitxer real i la font corresponent abans de declarar-los tancats.

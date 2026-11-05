@@ -84,7 +84,7 @@ La sang no ha de cobrir indiscriminadament les característiques del suport.
 
 ## 31.7. Control tècnic i avaluació
 
-Comprovar reconeixement del material i estat, distribució espacial, integració amb el suport, control cromàtic i acabat. Els reflexos d'una superfície humida poden ser més definits que els d'una taca seca, però no és una regla absoluta. La selecció precisa de la brillantor i els vernissos correspon al capítol 37.
+Comprovar reconeixement del material i estat, distribució espacial, integració amb el suport, control cromàtic i acabat. Els reflexos d'una superfície humida poden ser més definits que els d'una taca seca, però no és una regla absoluta. La selecció i el control de la brillantor corresponen al capítol 37; els vernissos protectors, l'envernissament i la conservació corresponen al capítol 38.
 
 | Error | Correcció |
 |---|---|

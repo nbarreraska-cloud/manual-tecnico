@@ -17,7 +17,7 @@ La primera decisió consisteix a identificar què cal resoldre. No és el mateix
 | Necessitat | Consulta principal | Referències complementàries |
 |---|---|---|
 | Identificar una pintura de l'inventari | Annex A | Capítols 2 i 3 |
-| Representar un material o una superfície | Capítols 19–34 | Annex C |
+| Comprendre i representar un material o una superfície | Capítol 6 i capítols 19–34 | Annex C |
 | Trobar una recepta concreta | Annex C | Capítols 19–34 |
 | Consultar una tècnica d'aplicació | Annex B | Capítols 7–17 |
 | Consultar una mescla o combinació cromàtica | Annex D | Capítols corresponents |
@@ -228,4 +228,4 @@ La guia no pretén oferir una solució tancada per a cada miniatura, sinó facil
 - La comprovació final no substitueix l'avaluació durant l'execució.
 - Les remissions s'han contrastat amb l'estructura vigent dels capítols 1–39 i dels annexos A–D.
 
-**Estat F5:** guia de consulta auditada després de l'estabilització dels annexos A–D. Les remissions de capítols i annexos s'han verificat i no s'hi han detectat referències inexistents. La guia manté una funció orientativa i no substitueix els procediments tècnics.
+**Estat de regeneració F5:** guia reconstruïda i contrastada amb l'estructura vigent de C1–C39 i els annexos A–D. S'han verificat les remissions a tots els 39 capítols i la presència dels quatre annexos citats; no s'hi han detectat destinacions inexistents. La guia manté una funció orientativa i no substitueix els procediments tècnics. La coherència semàntica global i la integració conjunta dels cinc annexos resten subjectes a F6; la revisió final de presentació i remissions, a F8.

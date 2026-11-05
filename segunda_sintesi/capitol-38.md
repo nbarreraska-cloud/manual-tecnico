@@ -1,10 +1,10 @@
-# 38. PROTECCIÓ, BARNISSAT I CONSERVACIÓ
+# 38. PROTECCIÓ, ENVERNISSAMENT I CONSERVACIÓ
 
 ## 38.1. Funció i abast de la protecció superficial
 
 Una miniatura pintada integra materials i capes que poden deteriorar-se durant manipulació, exposició, transport i emmagatzematge. Els productes protectors poden contribuir a conservar la pel·lícula pictòrica, però no garanteixen per si sols la conservació absoluta.
 
-Cal distingir protecció, modificació de l'acabat i altres tractaments superficials. Un producte transparent que modifica la brillantor no ofereix necessàriament resistència mecànica; un producte decoratiu no és automàticament un vernís protector. Cal identificar la funció declarada: modificar brillantor, crear una superfície específica, protegir la pintura o aportar una característica funcional. El capítol 37 estudia la selecció i el control de l'aparença superficial, especialment la brillantor; aquest capítol tracta la funció protectora, els procediments de envernissament i la conservació. Un vernís pot modificar alhora l'aparença i la protecció, però aquestes dues funcions s'han d'avaluar per separat.
+Cal distingir protecció, modificació de l'acabat i altres tractaments superficials. Un producte transparent que modifica la brillantor no ofereix necessàriament resistència mecànica; un producte decoratiu no és automàticament un vernís protector. Cal identificar la funció declarada: modificar brillantor, crear una superfície específica, protegir la pintura o aportar una característica funcional. El capítol 37 estudia la selecció i el control de l'aparença superficial, especialment la brillantor; aquest capítol tracta la funció protectora, els procediments d'envernissament i la conservació. Un vernís pot modificar alhora l'aparença i la protecció, però aquestes dues funcions s'han d'avaluar per separat.
 
 ## 38.2. Fonaments de la protecció superficial
 
@@ -24,7 +24,7 @@ Aquestes funcions no equivalen a una protecció absoluta. Un vernís no impedeix
 
 La pintura aplicada sobre una miniatura forma una pel·lícula la resistència de la qual depèn de la preparació del suport, l'adherència, la formulació, el gruix i les condicions d'assecat. El vernís s'incorpora com una capa addicional i no substitueix una preparació adequada.
 
-Si la pintura presenta una adherència deficient, acumulacions inestables o zones que no s'han assecat correctament, el envernissament no garanteix que aquests problemes quedin resolts. La protecció s'ha de considerar una fase posterior a una execució pictòrica correctament preparada i estabilitzada.
+Si la pintura presenta una adherència deficient, acumulacions inestables o zones que no s'han assecat correctament, l'envernissament no garanteix que aquests problemes quedin resolts. La protecció s'ha de considerar una fase posterior a una execució pictòrica correctament preparada i estabilitzada.
 
 ### 38.2.3. Protecció i resistència no són conceptes absoluts
 
@@ -107,7 +107,7 @@ Les miniatures poden combinar plàstic, resina, metall i altres materials, així
 
 Pinzell, aerògraf i aerosol es trien segons extensió, complexitat geomètrica, producte, precisió, experiència, condicions de treball i recomanacions del fabricant. Cap mètode és universalment superior.
 
-## 38.5. Preparació abans del envernissament
+## 38.5. Preparació abans dl'envernissament
 
 ### 38.5.1. Comprovació de la pintura
 
@@ -354,7 +354,7 @@ Abans de finalitzar, comprovar:
 
 ### 38.10.6. Exercici integrador: protecció i conservació d'una miniatura
 
-**Objectiu:** planificar una protecció coherent amb la peça i el seu ús, sense considerar el envernissament una garantia de conservació absoluta.
+**Objectiu:** planificar una protecció coherent amb la peça i el seu ús, sense considerar l'envernissament una garantia de conservació absoluta.
 
 **Procediment:**
 1. Determinar l'ús previst de la peça.

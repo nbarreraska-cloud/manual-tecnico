@@ -893,3 +893,15 @@ S'ha contrastat la matriu d'integració P2/P3 amb el mapa de numeració editoria
 - Cap identificador complementari en reserva s'ha assignat accidentalment a un número editorial.
 
 Aquesta comprovació garanteix que les P2/P3 associades a composicions P1 tenen una destinació traçable i que les que no disposen de destinació continuen fora de la selecció principal. Les P2 en reserva no s'han d'inserir a F11 sense una decisió editorial addicional i una actualització de la numeració.
+
+
+## 29. Cobertura completa de les 84 P2 — 05/11/2026
+
+S'ha contrastat la classificació individual de les P2 amb la matriu d'integració i la llista de reserva:
+- **P2 classificades:** 84.
+- **P2 amb una destinació d'integració en una composició P1:** 32.
+- **P2 registrades en reserva:** 58.
+- **P2 sense destinació ni estat documentat:** 0.
+- **P2 que apareixen com a integració condicionada i també en reserva:** 6 (32.6, 32.7, 33.8, 33.10, 37.1 i 37.5). No es consideren integrades ara; només s'activaran si s'aprova una composició complementària.
+
+Per tant, les 84 P2 tenen un estat traçable: integració prevista/condicionada o reserva. Les tres P3 (5.14, 34.4 i 35.10) es mantenen com a contingut fusionat. No queda cap proposta P2 sense decisió editorial documentada.

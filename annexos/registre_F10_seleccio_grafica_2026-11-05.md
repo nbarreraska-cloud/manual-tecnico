@@ -718,3 +718,18 @@ Decisions destacades:
 - **C39:** 39.5 integra 39.6 (P2) com a comparació local/global; la decisió de conservar o corregir no substitueix el diagnòstic.
 
 Les ubicacions corregides de l'apartat 14 prevalen sobre els identificadors de proposta. No s'ha generat ni inserit cap imatge ni modificat cap capítol. La llista continua sent preliminar i no autoritza F11.
+
+
+## 20. Comprovació de cobertura de les especificacions P1 — 05/11/2026
+
+S'ha fet una comprovació automàtica de correspondència entre la matriu de classificació actualitzada i els identificadors inclosos a la llista preliminar de producció.
+
+- **P1 vigents a la matriu:** 156.
+- **Identificadors P1 amb especificació preliminar:** 156.
+- **Identificadors absents:** 0.
+- **Identificadors duplicats:** 0.
+- **Identificadors addicionals no classificats com a P1:** 0.
+
+La comprovació inclou els 34 identificadors especificats en format de fitxa per a C1–C7/C11 i els 122 identificadors en taules de C15–C24 i C30–C39. Les fusions 3.3+3.5, 5.6+5.14 i 11.3+11.2 conserven els identificadors secundaris com a traçabilitat, però no els comptabilitzen com a P1 independents. La proposta 20.2 també queda com a panell integrat a 20.1.
+
+**Recompte classificatori vigent:** 156 P1, 84 P2 i 3 P3 (243 propostes). La cobertura completa de les P1 en la llista preliminar no tanca F10 ni autoritza F11: encara cal normalitzar i traduir les descripcions, resoldre composicions i fusions, fixar llegendes i remissions, i validar la necessitat final de cada figura.

@@ -150,6 +150,6 @@ S'han marcat les fusions 35.9 + 35.10 (P3) i 39.5 + 39.6 (P2). Les receptes no a
 
 S'ha completat `annexos/fitxes_editorials_figures_F10.md`, amb títols, llegendes de treball, representació, funció didàctica i límits de producció en català per als 156 identificadors P1. Les fonts de treball són el document original de planificació gràfica, les especificacions preliminars i la tercera síntesi consolidada.
 
-La cobertura és completa: **156 identificadors P1, sense absències ni duplicats**, organitzats en **154 composicions de treball** després de fusionar 20.1+20.2 i 20.4+20.5 en dues làmines compostes. La comprovació estructural de les ubicacions no ha detectat apartats inexistents en la tercera síntesi.
+La cobertura és completa: **156 identificadors P1, sense absències ni duplicats**, organitzats en **152 composicions de treball** després de fusionar 20.1+20.2, 20.4+20.5, 22.2+22.5 i 24.7+24.8. La composició 24.7+24.8 queda condicionada a la llegibilitat. La comprovació estructural de les ubicacions no ha detectat apartats inexistents en la tercera síntesi.
 
 Aquesta comprovació confirma l'existència dels apartats, no l'aprovació final de cada figura. La següent tasca és la passada transversal de redundàncies i dependències entre capítols, la comprovació de remissions textuals, la numeració editorial estable i la validació de les evidències físiques necessàries. F10 continua oberta; F11 no s'inicia.

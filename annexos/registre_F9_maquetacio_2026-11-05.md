@@ -89,3 +89,20 @@ Resoltes: salts que generaven pàgines gairebé buides; numeració automàtica a
 Encara obertes: comparació textual exhaustiva amb totes les fonts Markdown; inspecció visual individual de totes les pàgines i de totes les taules; verificació final de les divisions de cada fitxa i de les capçaleres/peus a tot el document. Per tant, la segona generació corregeix les incidències detectades però **no tanca encara F9**.
 
 La versió DOCX amb l'índex actualitzat és una instantània textual de F9. Quan s'integrin imatges a F11 caldrà recalcular l'índex i repaginar; no s'ha d'interpretar la paginació de 352 pàgines com a definitiva.
+
+
+## Tercera generació — auditoria de fidelitat textual (05/11/2026)
+
+- Workflow GitHub Actions: execució `42079264650`, conclusió `success`, commit `7be0962faba6e9b6056f558b9024386ae566a15c`.
+- Generació del DOCX: correcta; el generador confirma 39 capítols, 5 annexos A–E i 48 fitxes amb 7 seccions cadascuna.
+- Auditoria de fonts: 55 fitxers, 174.623 paraules font i 174.682 paraules al cos del DOCX. Resultat: totes les paraules de les fonts apareixen en el document i en el mateix ordre.
+- L'auditoria va requerir corregir la normalització dels guions baixos de les URL i identificadors (per exemple, `Game_Color`); no era una pèrdua del document, sinó un fals positiu del comparador.
+- L'artefacte DOCX s'ha pujat correctament a GitHub Actions (artefacte `13438389777`, retenció fins al 05/12/2026).
+
+La comprovació textual de la tercera generació és satisfactòria, però la prova d'ordre per subseqüència no és per si sola una equivalència exacta caràcter a caràcter. S'ha reforçat el validador perquè també exigeixi la multiplicitat de cada token font, evitant que una ocurrència posterior compensi silenciosament una ocurrència perduda. Aquesta millora s'ha compromès després de la tercera generació i resta pendent la seva execució automàtica.
+
+## Revisió visual ampliada de la maqueta amb índex actualitzat
+
+S'ha tornat a escanejar el PDF de comprovació de 352 pàgines A4: no hi ha pàgines sense contingut o pràcticament buides; el cos comença a la pàgina 13 i l'índex ocupa les pàgines 2–12. S'han generat fulls de contacte de totes les 352 pàgines per inspecció visual global, a més de la inspecció de pàgines representatives ja registrada. Les taules apareixen integrades al flux de lectura i no s'observen pàgines desplaçades o en blanc en la visió general.
+
+Aquesta inspecció global no substitueix una lectura ampliada de cada taula ni garanteix que cada divisió de taula entre pàgines sigui editorialment òptima. La verificació de fitxes de l'Annex F i la comprovació final de capçaleres/peus continuen formant part del tancament.

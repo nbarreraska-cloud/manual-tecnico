@@ -10430,7 +10430,7 @@ Un cristall és un sòlid amb una organització interna ordenada que pot manifes
 - **Translúcid:** transmet llum però la dispersa; el fons apareix difús.
 - **Opac:** no permet veure el fons; la lectura depèn sobretot del color, la reflexió superficial i les cares.
 - **Inclusió i fractura:** bombolles, fractures, inclusions minerals, bandes de creixement i zones de transparència diferent poden identificar un cristall natural, però s'han de seleccionar segons l'escala.
-- **Cristall natural i gema tallada:** el primer respon al creixement i les transformacions naturals; la segona té superfícies tallades per organitzar facetes, aristes, contrastos i lluminositat. No s'han de pintar amb un procediment idèntic.
+- **Cristall natural i gemma tallada:** el primer respon al creixement i les transformacions naturals; la segona té superfícies tallades per organitzar facetes, aristes, contrastos i lluminositat. No s'han de pintar amb un procediment idèntic.
 
 L'orientació de cada cara condiciona la relació amb la llum. Cal diferenciar plans orientats cap a la font, plans oposats, laterals, arestes exposades i unions. No totes les cares han de tenir el mateix valor ni brillantor.
 
@@ -10533,17 +10533,17 @@ La neu s'acumula en superfícies horitzontals, cavitats, vores, sortints, zones 
 
 Les gemmes poden ser transparents, translúcides o opaques. La seva aparença depèn de composició, estructura, inclusions, tall i acabat. No totes tenen facetes: els cabuixons presenten superfícies corbes polides.
 
-Per construir una gema facetada, establir color general i geometria de facetes, distribuir zones fosques i clares, introduir variacions cromàtiques, definir arestes i afegir reflexos. No existeix un patró únic d'il·luminació: depèn del tall, orientació i efecte buscat.
+Per construir una gemma facetada, establir color general i geometria de facetes, distribuir zones fosques i clares, introduir variacions cromàtiques, definir arestes i afegir reflexos. No existeix un patró únic d'il·luminació: depèn del tall, orientació i efecte buscat.
 
-**Recepta K. Gema vermella:** base Gory Red; ombres Evil Red; variació Scarlet Blood; aclarits amb la combinació proposada de Scarlet Blood i Hot Orange; punt de llum White. Construir profunditat, zona vermella més clara i reflex petit; no aclarir totes les cares per igual.
+**Recepta K. Gemma vermella:** base Gory Red; ombres Evil Red; variació Scarlet Blood; aclarits amb la combinació proposada de Scarlet Blood i Hot Orange; punt de llum White. Construir profunditat, zona vermella més clara i reflex petit; no aclarir totes les cares per igual.
 
-**Recepta L. Gema blava:** base Dark Sea Blue; variació Blue Green; tons mitjans amb la combinació proposada de Blue Green i Turquoise; aclarits Turquoise i Ivory; reflex White.
+**Recepta L. Gemma blava:** base Dark Sea Blue; variació Blue Green; tons mitjans amb la combinació proposada de Blue Green i Turquoise; aclarits Turquoise i Ivory; reflex White.
 
-**Recepta M. Gema verda:** base Dark Green; variació Cayman Green; tons mitjans Scorpy Green; aclarits Lime Green; reflex White. Es pot incorporar Yellow Green per a una variació més càlida.
+**Recepta M. Gemma verda:** base Dark Green; variació Cayman Green; tons mitjans Scorpy Green; aclarits Lime Green; reflex White. Es pot incorporar Yellow Green per a una variació més càlida.
 
 Per a gemmes violetes i ametistes tallades es pot adaptar la recepta B, mantenint facetes, variacions violetes, zones profundes, aclarits selectius i reflexos. No cal una recepta nova si la diferència principal és geomètrica.
 
-**Recepta N. Gema groga o ambre:** base Parasite Brown; variació Hot Orange; tons mitjans Moon Yellow; aclarits Ice Yellow; reflex White. Dark Rust pot aprofundir zones. És una aparença cromàtica inspirada en l'ambre, no una reproducció de la seva estructura interna.
+**Recepta N. Gemma groga o ambre:** base Parasite Brown; variació Hot Orange; tons mitjans Moon Yellow; aclarits Ice Yellow; reflex White. Dark Rust pot aprofundir zones. És una aparença cromàtica inspirada en l'ambre, no una reproducció de la seva estructura interna.
 
 En gemmes opaques i cabuixons, construir volum amb transicions, mantenir un reflex localitzat, evitar dividir tota la superfície en facetes i incorporar variacions internes només quan correspongui. No aplicar automàticament el procediment de gemma transparent a totes les pedres decoratives.
 
@@ -10556,7 +10556,7 @@ En gemmes opaques i cabuixons, construir volum amb transicions, mantenir un refl
 
 Els cristalls prismàtics requereixen cares longitudinals i arestes; els irregulars, selecció de facetes principals; els blocs de gel, gruix i fractures; els caramells, distribució longitudinal; les gemmes arrodonides, transicions corbes; les facetades, plans coherents. La neu sobre objectes ha de seguir geometria i exposició.
 
-La brillantor superficial i la transparència són fenòmens diferents. Una gema pot tenir un reflex intens i profunditat cromàtica; un cristall transparent pot conservar informació del fons; una superfície opaca polida pot reflectir sense transmetre llum. Els reflexos han de respondre a la forma i a la font lluminosa. Els vernissos i acabats es desenvolupen al capítol 37.
+La brillantor superficial i la transparència són fenòmens diferents. Una gemma pot tenir un reflex intens i profunditat cromàtica; un cristall transparent pot conservar informació del fons; una superfície opaca polida pot reflectir sense transmetre llum. Els reflexos han de respondre a la forma i a la font lluminosa. Els vernissos i acabats es desenvolupen al capítol 37.
 
 ## 27.9. Errors freqüents i avaluació
 
@@ -10569,7 +10569,7 @@ La brillantor superficial i la transparència són fenòmens diferents. Una gema
 - Confondre neu i gebre: distingir acumulació de partícules i dipòsit superficial de cristalls.
 - Donar saturació uniforme a les gemmes: construir profunditat amb diferències de valor.
 - Col·locar reflexos sense considerar geometria: adaptar-los a forma i orientació.
-- Confondre reflex amb emissió: una gema brillant no necessàriament emet llum; l'OSL es tracta al capítol 17.
+- Confondre reflex amb emissió: una gemma brillant no necessàriament emet llum; l'OSL es tracta al capítol 17.
 - Exagerar inclusions i fractures: seleccionar pocs detalls.
 - Aplicar el mateix procediment a facetes i cabuixons: adaptar-lo a plans o curvatura.
 
@@ -10647,7 +10647,7 @@ La brillantor superficial i la transparència són fenòmens diferents. Una gema
 **Materials:** Gory Red, Evil Red, Scarlet Blood, Dark Green, Cayman Green, Scorpy Green, Lime Green i White.
 
 **Procediment:**
-1. Preparar dues superfícies amb geometria de gema.
+1. Preparar dues superfícies amb geometria de gemma.
 2. Construir-ne una mitjançant la recepta K.
 3. Construir l'altra mitjançant la recepta M.
 4. Organitzar les zones fosques i clares.
@@ -10664,7 +10664,7 @@ La brillantor superficial i la transparència són fenòmens diferents. Una gema
 
 **Procediment:**
 1. Seleccionar una miniatura o una base amb elements hivernals i cristal·lins.
-2. Identificar quines superfícies corresponen a roca, cristall, gel, neu i gema.
+2. Identificar quines superfícies corresponen a roca, cristall, gel, neu i gemma.
 3. Establir una organització cromàtica.
 4. Construir primer les formes i els volums.
 5. Aplicar les receptes corresponents.
@@ -10878,7 +10878,7 @@ Procediment proposat:
 4. Aprofundir algunes zones amb Dark Sea Blue.
 5. Aclarir àrees seleccionades amb Snake Green i Ivory.
 6. Conservar parts del metall exposat.
-7. Comprovar que la superfície no sembli una gema o un cristall.
+7. Comprovar que la superfície no sembli una gemma o un cristall.
 
 **Recepta J. Pàtina verda fosca**
 - Base metàl·lica: Glorious Gold (72.056) o Tinny Tin (72.060).
@@ -11026,7 +11026,7 @@ La superfície es pot donar per acabada quan l'efecte compleix la seva funció v
 **Objectiu:** controlar una alteració superficial freda sobre coure o bronze.  
 **Materials:** Glorious Gold (72.056), Tinny Tin (72.060), Turquoise (72.024), Blue Green (70.808), Dark Sea Blue (70.898), Snake Green (72.417) i Ivory (70.918).  
 **Procediment:** establir una base metàl·lica; seleccionar les zones de pàtina; construir una base blauverdosa; introduir variacions més fosques; afegir aclarits selectius; recuperar zones metàl·liques; avaluar l'equilibri cromàtic.  
-**Avaluació:** comprovar que la superfície manté la identitat del metall i no es confon amb una gema o un cristall.
+**Avaluació:** comprovar que la superfície manté la identitat del metall i no es confon amb una gemma o un cristall.
 
 ### Exercici 6. Exercici integrador: peça metàl·lica amb corrosió i pàtina
 **Objectiu:** combinar diferents estats de conservació en una mateixa peça.  
@@ -11099,7 +11099,7 @@ Referències disponibles: Deck Tan (70.986), Japanese Uniform WWII (70.923), Par
 
 ## 29.3. Pols i dipòsits secs
 
-**Recepta A. Pols clar**
+**Recepta A. Pols clara**
 - Principal: Deck Tan (70.986).
 - Variació clara: Ivory (70.918).
 - Aclarits: Ice Yellow (70.858).
@@ -11113,7 +11113,7 @@ Procediment proposat:
 5. Afegir Japanese Uniform WWII en algunes zones protegides.
 6. Evitar cobrir completament el color original: es representa una pel·lícula de pols, no una acumulació gruixuda.
 
-**Recepta B. Pols beix i sorrenc**
+**Recepta B. Pols beix i sorrenca**
 - Base: Deck Tan (70.986).
 - To càlid: Japanese Uniform WWII (70.923).
 - Variació: Parasite Brown (72.042).
@@ -11162,7 +11162,7 @@ Procediment proposat:
 - Aclarits: Ivory (70.918).
 
 Procediment proposat:
-1. Identificar les zones on el pols pot quedar retingut.
+1. Identificar les zones on la pols pot quedar retingut.
 2. Aplicar variacions lleugeres amb Deck Tan i Japanese Uniform WWII.
 3. Introduir dipòsits discontinus.
 4. Afegir rastres verticals quan la geometria ho permeti.
@@ -11360,7 +11360,7 @@ Les superfícies horitzontals poden retenir pols i partícules amb més facilita
 
 ### 29.7.2. Superfícies verticals
 
-En superfícies verticals, el pols i la brutícia poden aparèixer com a capes fines, dipòsits localitzats o rastres produïts per escorriment. Cal evitar taques massa regulars i línies paral·leles. La distribució ha de respectar la direcció de la superfície i els elements que poden retenir partícules.
+En superfícies verticals, la pols i la brutícia poden aparèixer com a capes fines, dipòsits localitzats o rastres produïts per escorriment. Cal evitar taques massa regulars i línies paral·leles. La distribució ha de respectar la direcció de la superfície i els elements que poden retenir partícules.
 
 ### 29.7.3. Superfícies corbes i geometries complexes
 
@@ -11406,7 +11406,7 @@ Les línies rectes, paral·leles i de gruix constant poden semblar traços decor
 
 ### 29.8.8. Confusió entre pols i fang
 
-El pols fi i el fang compacte presenten característiques diferents. **Correcció:** revisar textura, grau de cobertura, intensitat cromàtica i acabat superficial.
+La pols fina i el fang compacte presenten característiques diferents. **Correcció:** revisar textura, grau de cobertura, intensitat cromàtica i acabat superficial.
 
 ### 29.8.9. Confusió entre brutícia i corrosió
 
@@ -11426,7 +11426,7 @@ El treball es pot donar per acabat quan els dipòsits compleixen la seva funció
 
 ## 29.9. Exercicis pràctics
 
-### Exercici 1. Comparació de pols clar i pols fosc
+### Exercici 1. Comparació de pols clara i pols fosca
 **Objectiu:** diferenciar dipòsits de pols segons la tonalitat i la superfície receptora.  
 **Materials:** Deck Tan (70.986), Ivory (70.918), Japanese Uniform WWII (70.923), Parasite Brown (72.042) i Black (70.950).  
 **Procediment:**
@@ -11435,7 +11435,7 @@ El treball es pot donar per acabat quan els dipòsits compleixen la seva funció
 3. Construir dipòsits foscos mitjançant la recepta D.
 4. Variar la intensitat i l'extensió de les aplicacions.
 5. Comparar el contrast sobre tots dos fons.  
-**Avaluació:** comprovar que el pols es reconeix com una capa superficial i que no oculta innecessàriament el material original.
+**Avaluació:** comprovar que la pols es reconeix com una capa superficial i que no oculta innecessàriament el material original.
 
 ### Exercici 2. Construcció de terra natural
 **Objectiu:** representar una superfície de terra amb variacions cromàtiques.  
@@ -11497,7 +11497,7 @@ El treball es pot donar per acabat quan els dipòsits compleixen la seva funció
 
 ## 29.10. Síntesi del capítol
 
-La terra, el pols, el fang, la brutícia i els dipòsits permeten representar la relació entre una miniatura i el seu entorn. Tot i que poden aparèixer conjuntament, cada material presenta característiques visuals diferents: el pols sol formar capes fines; la terra pot presentar diversos graus de granulometria i compactació; el fang combina sediments i humitat; i la brutícia engloba materials i residus acumulats.
+La terra, la pols, el fang, la brutícia i els dipòsits permeten representar la relació entre una miniatura i el seu entorn. Tot i que poden aparèixer conjuntament, cada material presenta característiques visuals diferents: la pols sol formar capes fines; la terra pot presentar diversos graus de granulometria i compactació; el fang combina sediments i humitat; i la brutícia engloba materials i residus acumulats.
 
 Per representar aquests efectes convé identificar l'entorn, seleccionar una família cromàtica, determinar les superfícies afectades i planificar la distribució dels dipòsits. La geometria, l'orientació, el moviment i el grau d'humitat condicionen el resultat.
 

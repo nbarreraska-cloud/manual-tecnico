@@ -89,8 +89,24 @@ Per mantenir el rigor, cal:
 
 Aquests criteris permeten reconèixer l'origen i el grau de validació de cada dada i eviten confondre un principi tècnic, una característica declarada pel fabricant, una recomanació raonada i un resultat obtingut mitjançant una prova documentada.
 
----
+## Propostes de figures per a MG
 
+Les dues figures següents queden reservades per a la fase final de disseny i il·lustració. No formen part encara del contingut gràfic definitiu.
+
+### Figura 1.1. Organització general del manual
+- **Ubicació:** apartat 1.3, després de presentar les cinc parts.
+- **Format proposat:** esquema jeràrquic o diagrama de blocs.
+- **Contingut:** representació de les cinc parts i de la progressió des dels fonaments fins als annexos.
+- **Funció:** facilitar la comprensió de l'estructura general del manual.
+
+### Figura 1.2. Classificació de la informació tècnica
+- **Ubicació:** apartat 1.5, després d'explicar les quatre categories.
+- **Format proposat:** esquema comparatiu de quatre blocs.
+- **Contingut:** fonament tècnic, dada del fabricant, proposta tècnica i resultat comprovat.
+- **Funció:** facilitar la distinció entre els diferents nivells de rigor documental.
+
+Les figures han de complementar el text, no repetir-lo íntegrament. El disseny definitiu es realitzarà un cop acabat el conjunt del manual.
+---
 # 2. INVENTARI I ORGANITZACIÓ DE LES 48 PINTURES
 
 ## 2.1. Finalitat i abast de l'inventari

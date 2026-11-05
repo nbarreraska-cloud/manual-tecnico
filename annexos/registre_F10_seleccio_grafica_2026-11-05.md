@@ -865,3 +865,20 @@ S'ha creat `annexos/numeracio_editorial_figures_F10.md` amb:
 La numeració és seqüencial per capítol i només cobreix les composicions P1 actuals. Les P2 no integrades no reserven números. La numeració es considera **proposta de treball**, no congelada: només es fixarà definitivament després de tancar la revisió semàntica i les remissions, i sempre que no s'incorporin noves P2.
 
 **Resultat:** 150/150 composicions amb identificador estable, número editorial proposat i ubicació lectora. F10 continua oberta.
+
+
+## 27. Traçabilitat de les integracions P2/P3 — 05/11/2026
+
+S'ha creat `annexos/matriu_integracio_P2_P3_F10.md` per relacionar les propostes complementàries amb les composicions P1 de destinació. La matriu conté 32 entrades de propostes P2/P3, amb destinació i condició d'integració, i separa les propostes que continuen en reserva.
+
+Les integracions P2/P3 no creen números editorials nous si s'incorporen com a panells o detalls dins d'una composició existent. Les P2 condicionades només s'inclouran si aporten informació no coberta i la composició continua llegible. Les P2 en reserva no formen part de les 150 composicions actuals.
+
+S'han fet explícites a les fitxes les integracions confirmades:
+- 3.5→3.3.
+- 5.14→5.6.
+- 11.2→11.3.
+- 34.4→34.3.
+- 35.10→35.9.
+- 39.6→39.5.
+
+La resta de destinacions i condicions consten a la matriu. El recompte principal continua sent **156 identificadors P1 en 150 composicions**; les P2/P3 integrades es conserven com a contingut complementari i no s'afegeixen al recompte P1.

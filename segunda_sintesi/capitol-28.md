@@ -40,7 +40,14 @@ La planificació cromàtica ha de jerarquitzar metall original, to principal de 
 - Ombres localitzades: Dark Rust (70.771).
 - Accents càlids: Parasite Brown (72.042).
 
-Procediment proposat:\n1. Establir la base metàl·lica.\n2. Seleccionar les zones on es concentrarà la corrosió.\n3. Introduir el to rogenc o taronja de manera irregular.\n4. Variar la intensitat cromàtica entre les acumulacions.\n5. Enfosquir algunes zones amb Dark Rust.\n6. Conservar petites àrees de metall exposat.\n7. Avaluar la distribució general i evitar una cobertura uniforme.
+Procediment proposat:
+1. Establir la base metàl·lica.
+2. Seleccionar les zones on es concentrarà la corrosió.
+3. Introduir el to rogenc o taronja de manera irregular.
+4. Variar la intensitat cromàtica entre les acumulacions.
+5. Enfosquir algunes zones amb Dark Rust.
+6. Conservar petites àrees de metall exposat.
+7. Avaluar la distribució general i evitar una cobertura uniforme.
 
 **Recepta B. rovell marró natural**
 - Base metàl·lica: Dark Gunmetal.
@@ -50,7 +57,13 @@ Procediment proposat:\n1. Establir la base metàl·lica.\n2. Seleccionar les zon
 - Ombres: combinació proposada de Dark Rust i Black (70.950).
 - Aclarits: Parasite Brown.
 
-Procediment proposat:\n1. Mantenir visible una part del metall original.\n2. Construir una base de corrosió marró rogenca.\n3. Introduir variacions amb Parasite Brown i Burnt Red.\n4. Concentrar els tons foscos en zones seleccionades.\n5. Recuperar petits contrastos metàl·lics.\n6. Comprovar que la superfície conserva una lectura metàl·lica.
+Procediment proposat:
+1. Mantenir visible una part del metall original.
+2. Construir una base de corrosió marró rogenca.
+3. Introduir variacions amb Parasite Brown i Burnt Red.
+4. Concentrar els tons foscos en zones seleccionades.
+5. Recuperar petits contrastos metàl·lics.
+6. Comprovar que la superfície conserva una lectura metàl·lica.
 
 **Recepta C. rovell fosca**
 - Base: Dark Rust.
@@ -59,7 +72,13 @@ Procediment proposat:\n1. Mantenir visible una part del metall original.\n2. Con
 - Zones rogenques: Parasite Brown.
 - Accents clars: combinació proposada de Parasite Brown i Deck Tan (70.986).
 
-Procediment proposat:\n1. Establir una superfície fosca amb Dark Rust.\n2. Introduir variacions rogenques i marrons.\n3. Mantenir zones profundes gairebé negres.\n4. Distribuir els tons càlids de manera irregular.\n5. Afegir petits contrastos a les àrees més visibles.\n6. Evitar que tota la peça es converteixi en un bloc negre.
+Procediment proposat:
+1. Establir una superfície fosca amb Dark Rust.
+2. Introduir variacions rogenques i marrons.
+3. Mantenir zones profundes gairebé negres.
+4. Distribuir els tons càlids de manera irregular.
+5. Afegir petits contrastos a les àrees més visibles.
+6. Evitar que tota la peça es converteixi en un bloc negre.
 
 **Recepta D. Corrosió irregular estratificada**
 - Base metàl·lica: Dark Gunmetal.
@@ -69,7 +88,14 @@ Procediment proposat:\n1. Establir una superfície fosca amb Dark Rust.\n2. Intr
 - Accents taronges: Hot Orange.
 - Ombres: Black.
 
-Procediment proposat:\n1. Establir una base metàl·lica.\n2. Distribuir les zones fosques de corrosió.\n3. Introduir àrees marrons i rogenques amb intensitats diferents.\n4. Afegir petites zones taronges com a variació.\n5. Diferenciar acumulacions i àrees menys alterades.\n6. Conservar espais de metall visible.\n7. Avaluar la lectura del conjunt.
+Procediment proposat:
+1. Establir una base metàl·lica.
+2. Distribuir les zones fosques de corrosió.
+3. Introduir àrees marrons i rogenques amb intensitats diferents.
+4. Afegir petites zones taronges com a variació.
+5. Diferenciar acumulacions i àrees menys alterades.
+6. Conservar espais de metall visible.
+7. Avaluar la lectura del conjunt.
 
 **Recepta E. Corrosió localitzada**
 - Base: Dark Gunmetal.
@@ -78,7 +104,13 @@ Procediment proposat:\n1. Establir una base metàl·lica.\n2. Distribuir les zon
 - Accents: Parasite Brown.
 - Detalls taronges: Hot Orange.
 
-Procediment proposat:\n1. Identificar les zones plausibles de retenció d'humitat: unions, reblons, vores, cavitats i punts de contacte.\n2. Establir una base metàl·lica.\n3. Introduir dipòsits foscos localitzats.\n4. Afegir variacions rogenques i marrons.\n5. Reservar els accents taronges per a àrees petites.\n6. Evitar que totes les unions rebin la mateixa intensitat.
+Procediment proposat:
+1. Identificar les zones plausibles de retenció d'humitat: unions, reblons, vores, cavitats i punts de contacte.
+2. Establir una base metàl·lica.
+3. Introduir dipòsits foscos localitzats.
+4. Afegir variacions rogenques i marrons.
+5. Reservar els accents taronges per a àrees petites.
+6. Evitar que totes les unions rebin la mateixa intensitat.
 
 **Recepta F. Metall pintat amb corrosió sota el recobriment**
 - Pintura original: color corresponent a la superfície.
@@ -87,7 +119,14 @@ Procediment proposat:\n1. Identificar les zones plausibles de retenció d'humita
 - Variació rogenca: Burnt Red.
 - Accents: Parasite Brown i Hot Orange.
 
-Procediment proposat:\n1. Establir el color de la pintura original.\n2. Seleccionar les zones on s'ha perdut el recobriment.\n3. Introduir petites àrees de metall exposat.\n4. Afegir corrosió només en una part d'aquestes zones.\n5. Variar els tons segons l'estat representat.\n6. Mantenir una distribució irregular i comprovar que el deteriorament no oculta l'estructura original.\nEl procediment de desconxat es recolza en el capítol 36.
+Procediment proposat:
+1. Establir el color de la pintura original.
+2. Seleccionar les zones on s'ha perdut el recobriment.
+3. Introduir petites àrees de metall exposat.
+4. Afegir corrosió només en una part d'aquestes zones.
+5. Variar els tons segons l'estat representat.
+6. Mantenir una distribució irregular i comprovar que el deteriorament no oculta l'estructura original.
+El procediment de desconxat es recolza en el capítol 36.
 
 ## 28.5. Pàtines i corrosió de coure, bronze i llautó
 
@@ -98,7 +137,13 @@ Procediment proposat:\n1. Establir el color de la pintura original.\n2. Seleccio
 - Zones profundes: Dark Rust.
 - Enfosquiment: Black.
 
-Procediment proposat:\n1. Establir la superfície metàl·lica original.\n2. Aplicar variacions marrons en zones seleccionades.\n3. Introduir tons rogencs per evitar una aparença uniforme.\n4. Enfosquir les zones profundes.\n5. Conservar parts del metall original.\n6. Avaluar la continuïtat i el contrast de la pàtina.
+Procediment proposat:
+1. Establir la superfície metàl·lica original.
+2. Aplicar variacions marrons en zones seleccionades.
+3. Introduir tons rogencs per evitar una aparença uniforme.
+4. Enfosquir les zones profundes.
+5. Conservar parts del metall original.
+6. Avaluar la continuïtat i el contrast de la pàtina.
 
 **Recepta H. Pàtina verda**
 - Base metàl·lica: Glorious Gold o Tinny Tin.
@@ -108,7 +153,15 @@ Procediment proposat:\n1. Establir la superfície metàl·lica original.\n2. Apl
 - Aclarits: Yellow Green (70.954).
 - Ombres localitzades: Dark Sea Blue (70.898).
 
-Procediment proposat:\n1. Establir la base metàl·lica.\n2. Seleccionar les zones d'alteració.\n3. Introduir una primera variació verda.\n4. Diferenciar les àrees més fosques i més clares.\n5. Mantenir zones metàl·liques exposades.\n6. Afegir petits accents cromàtics.\n7. Evitar cobrir tota la peça amb un únic verd.\nNo tot dipòsit verd és una pàtina estable: alguns productes pulverulents poden indicar corrosió activa.
+Procediment proposat:
+1. Establir la base metàl·lica.
+2. Seleccionar les zones d'alteració.
+3. Introduir una primera variació verda.
+4. Diferenciar les àrees més fosques i més clares.
+5. Mantenir zones metàl·liques exposades.
+6. Afegir petits accents cromàtics.
+7. Evitar cobrir tota la peça amb un únic verd.
+No tot dipòsit verd és una pàtina estable: alguns productes pulverulents poden indicar corrosió activa.
 
 **Recepta I. Pàtina blauverdosa**
 - Base metàl·lica: Glorious Gold o Tinny Tin.
@@ -118,7 +171,14 @@ Procediment proposat:\n1. Establir la base metàl·lica.\n2. Seleccionar les zon
 - Aclarits: Snake Green.
 - Accents clars: Ivory (70.918).
 
-Procediment proposat:\n1. Establir el metall original.\n2. Distribuir les zones de pàtina blauverdosa.\n3. Introduir variacions turqueses i blavoses.\n4. Aprofundir algunes zones amb Dark Sea Blue.\n5. Aclarir àrees seleccionades amb Snake Green i Ivory.\n6. Conservar parts del metall exposat.\n7. Comprovar que la superfície no sembli una gema o un cristall.
+Procediment proposat:
+1. Establir el metall original.
+2. Distribuir les zones de pàtina blauverdosa.
+3. Introduir variacions turqueses i blavoses.
+4. Aprofundir algunes zones amb Dark Sea Blue.
+5. Aclarir àrees seleccionades amb Snake Green i Ivory.
+6. Conservar parts del metall exposat.
+7. Comprovar que la superfície no sembli una gema o un cristall.
 
 **Recepta J. Pàtina verda fosca**
 - Base metàl·lica: Glorious Gold o Tinny Tin.
@@ -128,7 +188,13 @@ Procediment proposat:\n1. Establir el metall original.\n2. Distribuir les zones 
 - Zones profundes: Black.
 - Accents verds: Snake Green.
 
-Procediment proposat:\n1. Establir una base metàl·lica.\n2. Introduir zones fosques d'alteració amb Dark Green.\n3. Afegir variacions verdes amb Cayman Green i Snake Green.\n4. Enfosquir algunes cavitats amb Dark Sea Blue i Black.\n5. Recuperar petites zones de metall.\n6. Mantenir una distribució irregular i coherent.
+Procediment proposat:
+1. Establir una base metàl·lica.
+2. Introduir zones fosques d'alteració amb Dark Green.
+3. Afegir variacions verdes amb Cayman Green i Snake Green.
+4. Enfosquir algunes cavitats amb Dark Sea Blue i Black.
+5. Recuperar petites zones de metall.
+6. Mantenir una distribució irregular i coherent.
 
 **Recepta K. Metall parcialment patinat**
 - Base metàl·lica: Glorious Gold o Tinny Tin.
@@ -138,7 +204,14 @@ Procediment proposat:\n1. Establir una base metàl·lica.\n2. Introduir zones fo
 - Accents verds: Snake Green.
 - Metall exposat: recuperar selectivament la base.
 
-Procediment proposat:\n1. Establir la superfície metàl·lica.\n2. Definir quines zones conservaran el metall visible.\n3. Introduir la pàtina de manera localitzada.\n4. Variar la intensitat i el color de l'alteració.\n5. Mantenir una transició visual entre les zones conservades i les alterades.\n6. Recuperar els punts metàl·lics necessaris.\n7. Avaluar l'equilibri entre ambdós estats.
+Procediment proposat:
+1. Establir la superfície metàl·lica.
+2. Definir quines zones conservaran el metall visible.
+3. Introduir la pàtina de manera localitzada.
+4. Variar la intensitat i el color de l'alteració.
+5. Mantenir una transició visual entre les zones conservades i les alterades.
+6. Recuperar els punts metàl·lics necessaris.
+7. Avaluar l'equilibri entre ambdós estats.
 
 ### 28.5.6. Pàtines sobre superfícies de llautó i objectes daurats
 

@@ -13797,7 +13797,15 @@ Una selecció adequada de l'acabat ha de complir els criteris següents:
 5. **Superfícies humides i seques:** representar dues zones d'una mateixa superfície i comparar distribució de brillantor.
 6. **Exercici integrador:** identificar materials d'una miniatura, determinar acabats previstos i zones que cal modificar; avaluar la jerarquia del conjunt.
 
-## 37.9. Referències i recursos
+## 37.9. Síntesi i criteris d'aplicació
+
+L'acabat superficial influeix en l'aparença final d'una miniatura mitjançant la manera com les superfícies reflecteixen la llum. Els acabats mate, setinat i brillant representen respostes visuals diferents, però no són categories físiques absolutes ni permeten identificar per si sols un material.
+
+La selecció ha de considerar el material, la geometria, la textura, el producte utilitzat i les condicions d'observació. El control selectiu de la brillantor permet diferenciar materials, representar superfícies polides o humides i establir contrastos entre elements d'una mateixa miniatura.
+
+No s'ha d'aplicar un acabat uniforme per defecte ni utilitzar la brillantor com a substitut de la construcció de la il·luminació. La finalitat és aconseguir que l'aparença superficial reforci la identitat dels materials i la coherència visual del conjunt. La protecció, l'envernissament com a procediment protector i la conservació de la pel·lícula pictòrica es desenvolupen al capítol 38.
+
+## 37.10. Referències i recursos
 
 - Vallejo. *Catalogue 2025 — Models & Miniatures*. Apartat de productes auxiliars i vernissos acrílics mats, satinats i brillants i vernissos de poliuretà.
 - Vallejo. *Catalogue 2026 — Models & Miniatures*. Productes auxiliars i vernissos; característiques comercials declarades.
@@ -13812,6 +13820,19 @@ Els catàlegs identifiquen productes i característiques declarades; no són pro
 
 Les deu figures següents queden reservades per a la fase gràfica final. No s'han de generar ni inserir durant aquesta etapa.
 
+| Figura | Contingut | Ubicació prevista |
+|---|---|---|
+| 37.1 | Comparació d'acabats mate, setinat i brillant | 37.2–37.3 |
+| 37.2 | Diferència entre reflexió especular i més difusa | 37.2 |
+| 37.3 | Influència de l'orientació i la il·luminació en la brillantor percebuda | 37.2–37.4 |
+| 37.4 | Relació entre acabat, textura i distribució de reflexos | 37.2–37.4 |
+| 37.5 | Comparació d'acabats sobre una mateixa superfície cromàtica | 37.3 |
+| 37.6 | Selecció de l'acabat segons materials i efectes | 37.5 |
+| 37.7 | Diferenciació de materials mitjançant acabats selectius | 37.6 |
+| 37.8 | Distribució localitzada de la brillantor | 37.6 |
+| 37.9 | Seqüència d'anàlisi i selecció de l'acabat | 37.7 |
+| 37.10 | Comparació d'errors freqüents i resultats corregits | 37.8–37.9 |
+
 1. **Comparació d'acabats mat, setinat i brillant.** Mostrar tres superfícies equivalents sota una il·luminació comuna. Diferenciar la intensitat i la definició dels reflexos, mantenint constants la geometria i el color de base.
 2. **Reflexió especular i reflexió més difusa.** Representar esquemàticament com canvia la distribució de la llum reflectida segons la resposta superficial. Evitar identificar la reflexió difusa amb l'absència de reflexió.
 3. **Influència de l'orientació i la il·luminació en la brillantor percebuda.** Mostrar una mateixa superfície observada des de diferents angles i sota diverses posicions relatives de la llum. Explicar que la percepció de la brillantor no depèn exclusivament del producte aplicat.
@@ -13822,7 +13843,27 @@ Les deu figures següents queden reservades per a la fase gràfica final. No s'h
 8. **Distribució localitzada de la brillantor.** Mostrar una superfície amb zones mates, satinades i brillants, explicant com es pot distribuir l'acabat selectivament.
 9. **Seqüència d'anàlisi i selecció de l'acabat.** Representar la identificació del material, l'avaluació de la superfície, la selecció de l'acabat i la comprovació del resultat.
 10. **Errors freqüents i resultats corregits.** Comparar una miniatura amb brillantor excessiva, acabat uniforme, pèrdua de diferenciació material i aplicació selectiva incorrecta amb versions on l'acabat està millor distribuït.
----
+
+
+## Control editorial i límits de verificació
+
+- El capítol desenvolupa els fonaments dels acabats superficials i el control visual de la brillantor.
+- Es diferencien els acabats mate, setinat, brillant i els graus intermedis.
+- Es distingeix la reflexió especular de la reflexió més difusa.
+- S'evita equiparar una superfície mate amb l'absència de reflexió.
+- Es diferencia el color de l'acabat superficial.
+- Es consideren la il·luminació, l'orientació, la geometria, la textura, el producte i les condicions d'observació.
+- Es desenvolupa la selecció de l'acabat segons materials i efectes, sense establir associacions universals.
+- S'incorpora el control selectiu de la brillantor i la seva relació amb la jerarquia visual.
+- Es diferencia l'aparença superficial de la funció protectora dels productes.
+- El capítol 38 conserva el desenvolupament de protecció, envernissament i conservació.
+- Els capítols 5 i 15 mantenen el desenvolupament de la il·luminació i la construcció de valors.
+- El capítol 6 conserva els fonaments generals del comportament visual dels materials.
+- S'inclouen sis exercicis pràctics i deu propostes de figures per a la fase gràfica final.
+- Les referències del fabricant s'utilitzen per identificar productes i característiques declarades, no com a resultats experimentals independents.
+- No s'han realitzat proves físiques ni es presenten resultats experimentals com a comprovats.
+- No s'han generat ni inserit imatges.
+
 # 38. PROTECCIÓ, ENVERNISSAMENT I CONSERVACIÓ
 
 ## 38.1. Funció i abast de la protecció superficial

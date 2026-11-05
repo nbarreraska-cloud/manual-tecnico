@@ -188,3 +188,6 @@ Les integracions complementàries no augmenten el nombre de figures si es resole
 
 
 La validació de traçabilitat ha confirmat que 31 identificadors P2/P3 tenen destinació en una composició P1; sis (32.6, 32.7, 33.8, 33.10, 37.1 i 37.5) continuen en reserva perquè depenen de composicions complementàries no seleccionades. Cap d'aquests sis identificadors ha rebut número editorial.
+
+
+La cobertura de les 84 P2 s'ha revalidat: 32 tenen una destinació d'integració en composicions P1, 58 consten en reserva i cap queda sense estat documentat. Sis de les propostes en reserva també apareixen com a integració condicionada (32.6, 32.7, 33.8, 33.10, 37.1 i 37.5); no s'activaran sense una composició complementària aprovada.

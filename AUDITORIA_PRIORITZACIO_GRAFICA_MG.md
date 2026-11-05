@@ -148,10 +148,12 @@ La prioritat continua sent funcional i didàctica. Les P2 només s'incorporaran 
 
 S'ha completat el document `annexos/fitxes_editorials_figures_F10.md` amb llegendes de treball, representació, funció didàctica i límits de producció en català per als **156 identificadors P1**. La cobertura s'ha contrastat amb la matriu de classificació: no hi ha identificadors absents ni duplicats.
 
-Els identificadors s'organitzen en **154 composicions de treball** després de les fusions internes del C20:
+Els identificadors s'organitzen en **152 composicions de treball** després de quatre fusions:
 - 20.1 + 20.2: làmina conjunta d'estructura i patrons de fusta.
 - 20.4 + 20.5: seqüència conjunta de construcció de vetes i desviació al voltant d'un nus.
+- 22.2 + 22.5: comparació general de cuir amb detall ampliat d'ante i nobuk.
+- 24.7 + 24.8: làmina anatòmica de dos panells per a masses musculars i diferenciació de teixits, condicionada a la llegibilitat.
 
-Les ubicacions de les 154 composicions s'han comprovat estructuralment contra els encapçalaments de la tercera síntesi consolidada i no s'han detectat apartats inexistents. Aquesta comprovació no substitueix la validació semàntica final de les remissions ni l'avaluació de redundàncies entre capítols.
+Les ubicacions de les 152 composicions s'han comprovat estructuralment contra els encapçalaments de la tercera síntesi consolidada i no s'han detectat apartats inexistents. Aquesta comprovació no substitueix la validació semàntica final de les remissions ni l'avaluació de redundàncies entre capítols.
 
 **Estat:** les especificacions i les fitxes editorials estan completes com a base de treball. La selecció final encara requereix una passada transversal de redundàncies, verificació de remissions, numeració editorial i comprovació d'evidències físiques. F10 continua oberta i F11 no està autoritzada.

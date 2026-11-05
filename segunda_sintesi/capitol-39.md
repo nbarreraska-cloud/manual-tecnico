@@ -135,7 +135,7 @@ No hi ha una correcció general aplicable indistintament a transparències, líq
 | Aspecte blanquinós o tèrbol | Alteració del producte, condicions o incompatibilitat | Aturar aplicacions i comprovar instruccions. |
 | Acumulacions de vernís | Excés o aplicació irregular | Avaluar estat de pel·lícula abans d'intervenir. |
 | Pèrdua de transparència | Alteració superficial o incompatibilitat | Identificar capes abans de cobrir. |
-| Efectes especials modificats després de envernissar | Interacció protector-material previ | Comprovar compatibilitat i valorar recuperació específica. |
+| Efectes especials modificats després d'envernissar | Interacció protector-material previ | Comprovar compatibilitat i valorar recuperació específica. |
 | Superfície enganxosa o inestable | Assecat insuficient, aplicació incorrecta o incompatibilitat | No manipular ni afegir productes fins identificar causa. |
 
 Els defectes de envernissament exigeixen prudència: una nova capa pot empitjorar alteració, brillantor o definició.

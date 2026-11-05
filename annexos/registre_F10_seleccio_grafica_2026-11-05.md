@@ -744,13 +744,13 @@ S'ha creat `annexos/fitxes_editorials_figures_F10.md` com a document de treball 
 - **P1 classificades:** 156 identificadors.
 - **Identificadors inclosos en fitxes editorials:** 156.
 - **Identificadors absents o duplicats:** cap.
-- **Composicions de treball:** 152, després de les fusions 20.1+20.2, 20.4+20.5, 22.2+22.5 i 24.7+24.8. La composició anatòmica 24.7+24.8 és condicionada a la llegibilitat.
+- **Composicions de treball:** 152, després de les fusions 20.1+20.2, 20.4+20.5, 22.2+22.5, 24.7+24.8, 34.1+34.7 i 35.1+35.2. La composició anatòmica 24.7+24.8 és condicionada a la llegibilitat.
 - **Distribució:** 34 identificadors de C1–C7/C11; 58 de C15–C24; 64 de C30–C39.
 - **Llengua:** títols i llegendes de treball en català.
 
 ### Verificació de les ubicacions
 
-S'ha comprovat automàticament que les ubicacions de les 152 composicions de C1–C7/C11, C15–C24 i C30–C39 corresponen a encapçalaments existents de la tercera síntesi consolidada. No s'han detectat apartats inexistents.
+S'ha comprovat automàticament que les ubicacions de les 150 composicions de C1–C7/C11, C15–C24 i C30–C39 corresponen a encapçalaments existents de la tercera síntesi consolidada. No s'han detectat apartats inexistents.
 
 Aquesta comprovació és estructural: confirma que els apartats citats existeixen, però no substitueix la revisió semàntica final de cada ubicació ni la comprovació de la llegenda i la remissió exactes a la maqueta.
 
@@ -764,4 +764,13 @@ Els quatre identificadors originals es conserven per a la traçabilitat. No s'ha
 
 ### Abast i estat
 
-Aquesta consolidació normalitza les 156 propostes prioritàries i fixa 152 composicions de treball. No implica que les 152 figures estiguin aprovades definitivament per a producció: encara cal una passada transversal de redundàncies entre capítols, verificació de remissions, numeració editorial estable i decisió sobre evidències físiques disponibles. No s'ha generat ni inserit cap imatge i no s'ha modificat cap capítol.
+Aquesta consolidació normalitza les 156 propostes prioritàries i fixa 150 composicions de treball. No implica que les 150 figures estiguin aprovades definitivament per a producció: encara cal una passada transversal de redundàncies entre capítols, verificació de remissions, numeració editorial estable i decisió sobre evidències físiques disponibles. No s'ha generat ni inserit cap imatge i no s'ha modificat cap capítol.
+
+
+## 22. Ajust del recompte després de la passada transversal — 05/11/2026
+
+La revisió de redundàncies ha identificat dues integracions addicionals:
+- **34.1 + 34.7:** el detall de la mateixa escena a través de vidre transparent i esmerilat s'incorpora a la comparació general de tipus de vidre.
+- **35.1 + 35.2:** l'anàlisi de dominants, secundaris i accents i el mapa de masses cromàtiques es resolen en dos panells d'una mateixa làmina.
+
+Es mantenen els 156 identificadors P1 i la seva traçabilitat, però la selecció queda organitzada en **150 composicions de treball**. No es descarta cap funció didàctica; es redueixen figures separades quan la informació pot conviure amb més coherència en una sola composició.

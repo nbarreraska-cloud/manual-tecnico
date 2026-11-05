@@ -6,6 +6,8 @@
 
 ## Criteri d'integració
 
+**Control d'evidència:** les figures E1 són seqüències proposades no assajades; les E2 no es poden presentar com a resultats reals sense proves documentades i s'han de convertir provisionalment en esquemes E0.
+
 La numeració de les figures és la de la matriu de traçabilitat F10; no s'ha de confondre amb els identificadors P1 d'origen. Cada composició s'ancora després del desenvolupament conceptual o procedimental corresponent. La remissió textual s'inclou quan ajuda el lector a localitzar o interpretar la figura; si la proximitat i la llegenda ja compleixen aquesta funció, s'evita la repetició. Les fusions conserven tots els identificadors P1 i les propostes complementàries s'integren com a panells, no com a figures autònomes.
 
 Les frases són propostes de redacció en català. No s'ha modificat el text lector ni s'ha generat o inserit cap imatge. Les seqüències E1 s'identificaran com a procediments proposats; les composicions E2 sense prova documentada es representaran com a esquemes conceptuals E0.

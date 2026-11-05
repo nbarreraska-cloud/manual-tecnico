@@ -29,6 +29,9 @@ La paleta de 48 pintures no inclou una referència comercial específica anomena
 | Dark Rust | 70.771 | Profunditat i tons càlids foscos |
 | Black | 70.950 | Ombres profundes localitzades |
 | Sepia Ink | 72.091 | Dipòsits i modificacions cromàtiques |
+| Dark Sea Blue | 70.898 | Modificacions fredes i ombres selectives |
+| Light Flesh | 70.928 | Variacions càlides i transicions clares |
+| Skin Tone | 72.099 | Modificacions càlides d'aparença orgànica |
 
 La selecció depèn del material, la conservació, les taques o dipòsits, la temperatura cromàtica, la geometria, l'escala i el nivell de contrast necessari per mantenir-ne la lectura. El blanc no ha de ser automàticament el color de base: el beix o el marfil permeten construir superfícies més riques.
 

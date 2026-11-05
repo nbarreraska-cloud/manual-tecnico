@@ -1227,3 +1227,16 @@ S'ha arxivat sense modificacions la versió anterior a `annexos/historic/annex-b
 - La comprovació confirma l'existència de les destinacions, però la cobertura semàntica global i la coherència amb A, C, D i E queden per a F6; la revisió final de presentació i remissions queda per a F8.
 
 El recompte s'ha precisat després de la regeneració: 90 expressions de remissió a les taules, 141 identificadors als extrems dels intervals i 260 apartats comprovats en desplegar-los.
+
+
+### Regeneració de l'Annex C — 05/11/2026
+
+S'ha arxivat sense modificacions la versió anterior a `annexos/historic/annex-c-auditoria-anterior-2026-11-05.md` i s'ha reconstruït `annexos/annex-c.md` directament des de les receptes i combinacions de la tercera síntesi consolidada.
+
+- S'han localitzat 183/183 entrades als capítols 19–34: C19 16; C20 9; C21 16; C22 17; C23 10; C24 14; C25 13; C26 10; C27 14; C28 11; C29 17; C30 5; C31 5; C32 5; C33 13; C34 8.
+- S'han comprovat les 183 lletres i les 183 referències contra l'apartat que conté cada recepta o combinació.
+- Les denominacions s'han ajustat als títols actuals dels capítols, especialment les combinacions A–P de C21 i les entrades amb canvis terminològics o de redacció a C19, C25–C29 i C31–C34.
+- No s'han alterat ingredients, proporcions, seqüències ni procediments.
+- Les receptes continuen sent propostes tècniques no validades experimentalment. F6 haurà de revisar la coherència transversal amb A, B, D, E i C1–C39; F8 manté el control final de presentació i remissions.
+
+La nota anterior sobre l'auditoria de l'Annex C correspon a una revisió històrica de la versió precedent i no s'ha de confondre amb la regeneració actual. La versió activa és la reconstrucció descrita en aquesta entrada.

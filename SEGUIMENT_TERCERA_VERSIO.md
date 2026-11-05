@@ -864,18 +864,18 @@ Aquesta secció és la referència operativa més recent i preval sobre les inst
 
 - **F0:** completada.
 - **F1:** auditoria comparativa completada per als 39 capítols.
-- **F2:** en curs; el Registre Mestre està actualitzat a la versió 1.68. Resta revisar la totalitat de les files de la matriu i les anotacions històriques per completar la conciliació.
+- **F2:** en curs; el Registre Mestre està actualitzat a la versió 1.72. Resta completar la conciliació de totes les files de la matriu i les anotacions històriques amb els estats finals de F4, els fitxers Markdown i els commits.
 - **F3:** completada per a les accions RT/RD/AE identificades a la matriu.
 - **F4:** completada amb limitacions documentals. Tots els 39 capítols disposen d'un nivell de revisió documentat, i les limitacions de font s'han mantingut explícites. La revisió semàntica de remissions C1–C39 i la comprovació estructural global estan completades. No es presenta el coteig documental com a validació experimental.
-- **F5:** pendent fins al tancament de F4.
+- **F5:** pendent; F4 està tancada. Iniciar F5 després de completar la conciliació final de F2 i confirmar la sincronització de C1–C39.
 - **F6:** completada el 05/11/2026; auditoria global de coherència transversal C1–C39 tancada. No equival a validació experimental.
-- **F7:** pendent; revisió gràfica i maquetació Word després de F4 i F5.
+- **F7:** pendent; revisió gràfica i maquetació Word després de F5.
 
 ### Compilació dels capítols 1–39
 
 S'ha creat a l'arrel del repositori el fitxer `TERCERA_SINTESI_CONSOLIDADA_C01-C39.md`. Reuneix els 39 fitxers Markdown vigents en ordre numèric i exclou els annexos A–E. Inclou una capçalera d'identificació i separadors entre els fitxers d'origen; no s'ha reescrit ni resumit el contingut dels capítols.
 
-La integritat de la compilació s'ha verificat recuperant de nou els 39 fitxers font i comprovant que el contingut de cadascun hi és present íntegrament (39/39). El document resultant té 872.676 caràcters i 39 encapçalaments principals de capítol. Aquesta és una compilació documental de treball, no una versió final validada: qualsevol modificació posterior a un dels 39 Markdown durant F4 s'haurà de reflectir també en aquesta compilació.
+La integritat de la compilació s'ha verificat recuperant de nou els 39 fitxers font i comprovant que el contingut de cadascun hi és present íntegrament (39/39). El document resultant té 923.439 caràcters i 39 encapçalaments principals de capítol. Aquesta és una compilació documental de treball sincronitzada amb els 39 Markdown vigents; qualsevol modificació posterior d'un capítol s'haurà de reflectir també en aquesta compilació.
 
 ### Ordre operatiu vigent
 
@@ -1126,3 +1126,10 @@ S'han retirat dels capítols 15–24 els apartats de propostes gràfiques i els 
 La comprovació del Word original identifica 153 propostes gràfiques úniques. Les 153 s'han recuperat i incorporat al document MG independent: C1–C7, C11 i C30–C39. Les 90 propostes addicionals de C15–C24 s'hi conserven en apartats diferenciats per procedència. El document MG conté ara 243 propostes (153 originals + 90 addicionals). La xifra anterior de 340 queda descartada i corregida.
 
 La verificació final confirma que la compilació consolidada manté els 39 capítols i no conté apartats MG, registres editorials ni blocs de control editorial. Els 14 capítols depurats coincideixen exactament amb els seus fitxers individuals. La branca main no s'ha modificat.
+
+
+### F4 — normalització terminològica de C26 i actualització de fases (05/11/2026)
+
+S'ha conciliat la denominació «arenisca» de C26 amb la terminologia catalana de ciències de la Terra. TERMCAT/IEC recull «gres» com a terme català corresponent a l'espanyol «arenisca» (https://cit.iec.cat/progdct/default.asp?id=51290&opcio=99). S'han normalitzat les vuit aparicions del capítol: denominació de la roca, títol de l'apartat 26.6, receptes E i F, exercici 2 i referències dins del text. També s'ha ajustat la concordança de gènere («el gres», «format», «groguenc», «rogenc»). No s'han alterat les receptes ni les seves combinacions de pintura. La compilació C1–C39 s'ha sincronitzat i s'ha comprovat que no conserva cap aparició de «arenisca».
+
+La revisió de GitHub confirma F4 i F6 tancades amb els límits documentals registrats. F2 continua en curs per la conciliació final de la matriu i les anotacions històriques. F5 (annexos A–E) queda com a següent fase després de tancar F2; F7 (gràfica i maquetació Word) continua posterior a F5.

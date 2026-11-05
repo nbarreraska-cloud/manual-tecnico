@@ -279,7 +279,7 @@ Abans de començar a pintar, es pot fer un esquema senzill de la miniatura i ass
 - Si els detalls d'interès destaquen sense dominar tota la composició.
 - Si hi ha diferències de valor suficients per separar les formes.
 
-La construcció de llums i ombres sobre l'armadura es realitzarà posteriorment seguint els criteris del capítol 5.
+La construcció de llums i ombres sobre l'armadura es realitzarà posteriorment seguint els fonaments del capítol 5 i els criteris de planificació aplicada del capítol 15.
 
 ### 4.10.6. Avaluació i correcció
 

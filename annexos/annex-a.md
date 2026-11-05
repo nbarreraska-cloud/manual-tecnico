@@ -247,4 +247,4 @@ La identificació d'una pintura no determina automàticament les seves propietat
 - Les fitxes individuals romanen com a documents independents i no es dupliquen en aquest annex.
 - La informació comercial s'haurà d'actualitzar si el fabricant modifica les referències o les formulacions.
 
-**Estat F5:** reconstrucció editorial inicial a partir de la font disponible; pendent de coteig final amb les fitxes individuals i de verificació de les 48 correspondències.
+**Estat F5:** inventari de 48 pintures verificat quant a referències i composició dels quatre conjunts contra el catàleg oficial 2026 (48/48; 12 per conjunt; 48 referències úniques i cap duplicat). Les fitxes individuals no formen part del repositori actual; la seva auditoria tècnica independent continua pendent.

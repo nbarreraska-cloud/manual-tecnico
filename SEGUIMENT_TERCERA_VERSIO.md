@@ -92,6 +92,16 @@ Cal recuperar procediments, explicacions tècniques, fonaments, advertiments, de
 - Desenvolupades les variants d'aplicació, els cinc controls tècnics i els set errors amb causes i criteris de correcció.
 - Recuperats els sis exercicis amb materials, procediments i criteris d'avaluació, i la síntesi del capítol.
 
+### Capítol 11 — Rentats, tintes, pigments i acumulacions
+
+- Restituïdes les sis modalitats i aspectes de comportament dels rentats: funció, moviment, aplicació general, localitzada, selectiva i acumulació durant l'assecat.
+- Desenvolupades les cinc dimensions de treball amb tintes: característiques, diferències respecte dels rentats, aplicació directa, ús en mescles i control de la intensitat.
+- Ampliat el tractament dels pigments: naturalesa, aplicació en sec, dispersió, fixació, diferències abans i després de fixar i combinació.
+- Recuperada la classificació d'acumulacions líquides, seques, fixades i mixtes, així com la relació amb geometria, orientació i dipòsits.
+- Restituïdes les condicions de selecció, eines, estat de la superfície, compatibilitat i proves prèvies.
+- Recuperats sis procediments d'aplicació, vuit errors amb causes i correccions, els criteris d'avaluació i els sis exercicis desenvolupats.
+- Afegida la síntesi conceptual del capítol. Les propostes de figures i les notes d'auditoria editorial del document original s'han mantingut fora del text de lectura.
+
 ## Tasques pendents
 
 1. Validar la integritat textual i estructural dels capítols 4 i 5 després de les recuperacions.

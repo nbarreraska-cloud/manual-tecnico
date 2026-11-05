@@ -465,3 +465,27 @@ Comprovació inicial:
 ### Continuïtat immediata
 
 La recuperació didàctica de prioritat baixa del capítol 31 ja està aplicada. Continuar amb el capítol 36 i, després, revisar els ajustos editorials AE pendents als capítols 33–34, sense reobrir els capítols SC.
+
+
+### Capítol 36 — envelliment, desgast i transformació de superfícies (05/11/2026)
+
+S'ha recuperat el contingut didàctic del capítol 36 comparant la segona síntesi amb el text original.
+
+Intervenció aplicada:
+- Recuperada la síntesi conceptual, diferenciant envelliment, desgast mecànic i deteriorament.
+- Desenvolupats els sis exercicis amb objectiu, procediment i avaluació.
+- Mantinguts els procediments de preparació, abrasió, fregadures, ratllades, desconxats, decoloració i combinació d'alteracions.
+- Conservada l'adaptació del desgast als diferents materials i la diferenciació entre pèrdua de material i dipòsits superficials.
+- Les 10 propostes de figures originals no s'han inserit al capítol; queden reservades per a la fase MG.
+
+Comprovació inicial:
+- 6 exercicis complets presents.
+- Síntesi i referències diferenciades.
+- Cap encapçalament duplicat detectat.
+- La diferenciació entre desgast, corrosió (28), brutícia i dipòsits (29) i acabats (37–38) es manté en l'organització del manual.
+
+**Estat:** recuperació aplicada; comprovació estructural inicial superada; validació semàntica i coteig complet pendents.
+
+### Continuïtat immediata
+
+Les recuperacions RT/RD prioritàries identificades a l'auditoria (28, 29 i 38) i les recuperacions didàctiques (25–27, 30–32 i 36) ja tenen intervencions aplicades. Queden per conciliar i resoldre els ajustos editorials AE dels capítols 33–34, i cal completar la validació semàntica de les intervencions ja aplicades. No reobrir capítols SC sense una incidència substancial.

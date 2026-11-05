@@ -70,7 +70,7 @@ Aquestes decisions són editorials i revisables quan es valori el conjunt de fig
 
 ## 5. Estat i continuació
 
-F10 continua oberta. Les quatre tandes C1–C3, C4–C7/C11, C15–C24 i C30–C39 tenen una preselecció registrada. Aquesta primera passada ha comprovat identificadors, funcions proposades, ubicacions i estructura dels capítols; no equival encara al coteig detallat de cada P1 amb tots els paràgrafs i procediments del capítol. Aquest coteig detallat, la decisió final de les P2, la traducció i neteja de les descripcions originals i la llista definitiva de producció continuen pendents.
+F10 continua oberta. Les quatre tandes tenen preselecció i el coteig detallat de les P1 s'ha completat i registrat als apartats 13–15. La revisió individual de les 83 P2 s'ha acceptat com a criteri de decisió (amb la reclassificació addicional de 3.6), i les tres P3 es conserven com a fusions. Continuen pendents la depuració/normalització de les descripcions, la traducció al català de les propostes seleccionades, la revisió final de duplicacions entre capítols, la llista definitiva de producció i les especificacions gràfiques completes.
 
 **Protecció del projecte:** treball exclusiu a `intervencion-editorial-2026-11`; no modificar `main`, no fusionar la PR #1 i no iniciar F11 abans de tancar F10.
 
@@ -642,3 +642,14 @@ S'han contrastat les P1 d'aquesta tanda amb els apartats de contingut que sosten
 - **C11:** 11.3 a 11.2.3–11.2.4; 11.5 a 11.4.2/11.7.4; 11.6 a 11.4.5/11.7.5.
 
 **Resultat del coteig detallat C4–C7 i C11:** les P1 examinades tenen correspondència amb el contingut consolidat i es mantenen com a candidates, amb les ubicacions corregides i les condicions de prova indicades. No s'ha produït cap imatge ni modificat cap capítol.
+
+
+## 16. Estat consolidat de F10 — 05/11/2026
+
+- **P1:** coteig detallat completat per a totes les tandes amb propostes (C1–C7, C11, C15–C24 i C30–C39). Les ubicacions corregides consten als apartats 13–15.
+- **P2:** revisió individual de les 83 propostes acceptada com a criteri editorial. La figura 3.6 s'hi incorpora provisionalment després de baixar de P1 a P2. Les P2 no es produeixen autònomament per defecte.
+- **P3:** es confirmen com a fusions, sense pèrdua d'informació: 5.14 → 5.6; 34.4 → 34.3; 35.10 → 35.9.
+- **Recompte provisional:** 156 P1, 84 P2 i 3 P3. Aquest recompte és de propostes classificades, no de figures finals: les fusions poden reduir el nombre d'imatges.
+- **No iniciat:** generació d'imatges, inserció en capítols i repaginació. Aquestes tasques pertanyen a F11 i F12.
+- **Següent treball F10:** depurar el registre original, traduir al català només les propostes que passin a la llista final, resoldre fusions i dependències, i construir la llista de producció amb ubicació, format, contingut, funció, llegenda, evidència i criteris d'acceptació.
+

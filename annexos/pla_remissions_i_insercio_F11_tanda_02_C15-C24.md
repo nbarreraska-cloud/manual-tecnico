@@ -6,7 +6,7 @@
 
 ## Criteri d'integració
 
-Cada composició s'ancora després del desenvolupament conceptual o procedimental corresponent. La remissió textual s'ha d'incloure quan ajudi el lector a localitzar o interpretar la figura; si la proximitat i la llegenda ja compleixen aquesta funció, s'evita la repetició. Les fusions conserven tots els identificadors P1 i les propostes complementàries s'integren com a panells, no com a figures autònomes.
+Cada composició s'ancora després del desenvolupament conceptual o procedimental corresponent. La remissió textual s'inclou quan ajuda el lector a localitzar o interpretar la figura; si la proximitat i la llegenda ja compleixen aquesta funció, s'evita la repetició. Les fusions conserven tots els identificadors P1 i les propostes complementàries s'integren com a panells, no com a figures autònomes.
 
 Les frases són propostes de redacció en català. No s'ha modificat el text lector ni s'ha generat o inserit cap imatge. Les seqüències E1 s'identificaran com a procediments proposats; les composicions E2 sense prova documentada es representaran com a esquemes conceptuals E0.
 
@@ -264,6 +264,28 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ## Capítol 20
 
+### Figura 20.1 — Direcció de fibres, vetes, nusos, anells i patrons segons el tall
+
+- **Identificadors P1 d'origen:** 20.1, 20.2.
+- **Ubicació editorial F10:** 20.1–20.2..
+- **Punt d'inserció proposat:** després del desenvolupament de l'apartat 20.1–20.2. Integra 20.2 i el detall P2 20.6; no crear figures independents.
+- **Remissió textual proposada:** «La Figura 20.1 mostra direcció de fibres, vetes, nusos, anells i patrons segons el tall.»
+- **Llegenda de treball:** «Direcció de les fibres i les vetes, nusos i orientació dels anells segons el tall de la fusta.».
+- **Nucli de representació:** una làmina composta amb patrons longitudinals i transversals, direcció de les fibres, nusos i seccions que mostrin l'orientació dels anells.
+- **Funció didàctica:** reunir la lectura de la fusta segons la direcció de fibra i el tipus de tall sense repetir patrons.
+- **Límits editorials:** una sola composició; 20.2 és un panell integrat, no una figura independent. Evitar duplicar els anells transversals i mantenir coherència entre secció i superfície.
+
+### Figura 20.4 — Construcció de vetes i desviació de fibres al voltant d'un nus
+
+- **Identificadors P1 d'origen:** 20.8.
+- **Ubicació editorial F10:** 20.8.1–20.8.2..
+- **Punt d'inserció proposat:** després del desenvolupament de l'apartat 20.8.1–20.8.2. Integra 20.5 en la seqüència de vetes i nusos.
+- **Remissió textual proposada:** «La Figura 20.4 mostra construcció de vetes i desviació de fibres al voltant d'un nus.»
+- **Llegenda de treball:** «Construcció de les vetes principals i secundàries i desviació de les fibres al voltant d'un nus.».
+- **Nucli de representació:** seqüència que parteixi de la base i les variacions cromàtiques, construeixi vetes longitudinals i discontinuïtats i integri un nus que desviï la direcció de les fibres.
+- **Funció didàctica:** mostrar la continuïtat estructural de les vetes i com s'adapten al voltant d'un nus.
+- **Límits editorials:** una composició seqüencial coordinada; el nus no pot aparèixer com un cercle aïllat. Les fibres han de girar al seu voltant i mantenir una continuïtat plausible.
+
 ### Figura 20.7 — Adaptació de les vetes a diferents formes de peça
 
 - **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
@@ -376,8 +398,18 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Remissió textual proposada:** «La Figura 22.1 mostra gra del cuir.»
 - **Llegenda de treball:** «Gra del cuir: Detall comparatiu de gra natural, gra corregit i superfície tractada.».
 - **Nucli de representació:** Detall comparatiu de gra natural, gra corregit i superfície tractada.
-- **Funció didàctica:** distingir les quatre aparences i conservar la comparació específica entre ante i nobuk sense repetir-la en una segona figura.
 - **Límits editorials:** Simplificar porus i irregularitats a escala; no dibuixar cada porus.
+
+### Figura 22.2 — Cuir natural, corregit, ante i nobuk, amb detall comparatiu
+
+- **Identificadors P1 d'origen:** 22.2, 22.5.
+- **Ubicació editorial F10:** 22.2, amb ampliació específica de l'ante i el nobuk; remissió a 22.6 quan calgui..
+- **Punt d'inserció proposat:** després del desenvolupament de l'apartat 22.2. Integra 22.5; des de 22.6 cal remetre al detall d'ante i nobuk.
+- **Remissió textual proposada:** «La Figura 22.2 mostra cuir natural, corregit, ante i nobuk, amb detall comparatiu.»
+- **Llegenda de treball:** «Comparació del gra i la resposta superficial del cuir natural i corregit, l'ante i el nobuk, amb detall ampliat de les dues superfícies afelpades.».
+- **Nucli de representació:** làmina principal de quatre panells —cuir natural, cuir corregit, ante i nobuk— i un detall comparatiu ampliat d'ante/nobuk que mostri la textura fibrosa de l'ante i la lectura més pròxima al gra del nobuk.
+- **Funció didàctica:** distingir les quatre aparences i conservar la comparació específica entre ante i nobuk sense repetir-la en una segona figura.
+- **Límits editorials:** una sola composició. La distinció ante/nobuk és orientativa i depèn del producte; evitar reflexos brillants en superfícies afelpades i no basar la diferència només en el color.
 
 ### Figura 22.4 — Construcció de cuir natural
 
@@ -521,8 +553,18 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Remissió textual proposada:** «La Figura 24.5 mostra construcció de pell profunda.»
 - **Llegenda de treball:** «Construcció de pell profunda: Seqüència de base, profunditat cromàtica, variacions i llums.».
 - **Nucli de representació:** Seqüència de base, profunditat cromàtica, variacions i llums.
-- **Funció didàctica:** relacionar la lectura de les masses anatòmiques amb la diferenciació dels teixits que les componen.
 - **Límits editorials:** No aplicar aclarits desaturats generalitzats ni neutralitzar la base.
+
+### Figura 24.7 — Masses musculars i diferenciació dels teixits orgànics
+
+- **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
+- **Ubicació editorial F10:** 24.8..
+- **Punt d'inserció proposat:** després del desenvolupament de l'apartat 24.8. Integra 24.8; preservar la diferenciació entre múscul, teixit adipós i teixit connectiu.
+- **Remissió textual proposada:** «La Figura 24.7 mostra masses musculars i diferenciació dels teixits orgànics.»
+- **Llegenda de treball:** «Organització de les masses musculars i diferenciació entre múscul, teixit adipós i teixit connectiu.».
+- **Nucli de representació:** làmina anatòmica simplificada en dos panells coordinats: (A) masses musculars principals i direcció general dels feixos; (B) comparació esquemàtica de múscul, teixit adipós i estructures connectives.
+- **Funció didàctica:** relacionar la lectura de les masses anatòmiques amb la diferenciació dels teixits que les componen.
+- **Límits editorials:** preservar la distinció entre els dos continguts; anatomia general fiable, sense convertir la làmina en una il·lustració mèdica ni afegir estructures no sustentades. Si la composició no és llegible en dos panells, separar-la de nou en maquetació.
 
 ### Figura 24.9 — Errors freqüents
 
@@ -536,8 +578,8 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 
 ## Control de la tanda
 
-- Composicions descrites: **100**.
-- Identificadors P1 traçats: **33**.
+- Composicions descrites: **54**.
+- Identificadors P1 traçats: **58**.
 - Imatges generades o inserides: **0**.
 - Capítols modificats: **0**.
 - Versió mestra sense imatges: **inalterada**.

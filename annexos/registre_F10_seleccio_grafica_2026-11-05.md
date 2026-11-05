@@ -3,7 +3,7 @@
 **Data d'inici:** 05/11/2026  
 **Branca:** `intervencion-editorial-2026-11`  
 **Fase:** F10 — revisió i selecció gràfica  
-**Estat vigent:** oberta; 156 identificadors P1 especificats i 150 composicions editorials de treball, amb primera passada transversal i matriu d'evidències completades.  
+**Estat vigent:** tancada (05/11/2026); 156 identificadors P1 consolidats en 150 composicions editorials numerades, 84 P2 amb disposició documentada i 3 P3 fusionades.  
 **Abast:** 243 propostes gràfiques arxivades (153 originals i 90 addicionals).  
 **Fonts de treball:** `TERCERA_SINTESI_CONSOLIDADA_C01-C39.md`, `PLANIFICACIO_GRAFICA_MG_FASE_POSTERIOR.md`, `CLASSIFICACIO_INDIVIDUAL_PROPOSTES_GRAFIQUES_MG.md`, `AUDITORIA_PRIORITZACIO_GRAFICA_MG.md` i `REVISION_INDIVIDUAL_PROPOSTES_P2_MG.md`.
 
@@ -905,3 +905,35 @@ S'ha contrastat la classificació individual de les P2 amb la matriu d'integraci
 - **P2 que apareixen com a integració condicionada i també en reserva:** 6 (32.6, 32.7, 33.8, 33.10, 37.1 i 37.5). No es consideren integrades ara; només s'activaran si s'aprova una composició complementària.
 
 Per tant, les 84 P2 tenen un estat traçable: integració prevista/condicionada o reserva. Les tres P3 (5.14, 34.4 i 35.10) es mantenen com a contingut fusionat. No queda cap proposta P2 sense decisió editorial documentada.
+
+
+## 30. Tancament formal de F10 — 05/11/2026
+
+**F10 queda tancada editorialment** amb una selecció congelada de 150 composicions de treball.
+
+### Resultat consolidat
+
+- **243 propostes inventariades:** 156 P1, 84 P2 i 3 P3.
+- **156 identificadors P1** contrastats, especificats i coberts per fitxes editorials en català, sense absències ni duplicats.
+- **150 composicions** després de sis integracions de propostes P1: 20.1+20.2; 20.4+20.5; 22.2+22.5; 24.7+24.8; 34.1+34.7; 35.1+35.2.
+- **84 P2** amb disposició documentada: 32 amb destinació d'integració en composicions P1 i 58 en reserva; sis de les reservades també consten com a integració condicionada, però no s'activen ara.
+- **3 P3** fusionades amb composicions principals: 5.14→5.6; 34.4→34.3; 35.10→35.9.
+- **150 ubicacions lectores** i **150 números editorials** seqüencials assignats (G001–G150 / Figura capítol.n).
+- Matriu d'evidències E0/E1/E2 i remissions preparada per a F11.
+- Primera passada transversal de redundàncies completada; les dependències que s'han de mantenir diferenciades queden justificades al registre.
+- No s'han generat imatges, no s'han inserit figures i no s'ha modificat el contingut dels capítols.
+
+### Lliurables de referència
+
+- `annexos/llista_definitiva_produccio_grafica_F10.md` — llista mestra de 150 composicions, numeració, ubicació i associacions P2/P3.
+- `annexos/fitxes_editorials_figures_F10.md` — especificacions editorials i llegendes de treball.
+- `annexos/matriu_integracio_P2_P3_F10.md` — integracions complementàries i reserves.
+- `annexos/matriu_evidencies_i_remissions_F10.md` — evidències físiques i remissions que s'incorporaran a F11.
+- `annexos/numeracio_editorial_figures_F10.md` — mapa de numeració G001–G150.
+- `annexos/registre_F10_seleccio_grafica_2026-11-05.md` — registre complet de decisions.
+
+### Porta de pas a F11
+
+F11 pot començar amb aquesta llista congelada. Les remissions textuals encara no apareixen al manual perquè no hi ha figures inserides; s'afegiran durant la integració. Les figures que exigeixen proves físiques no es presentaran com a resultats reals sense documentació: es mantindran com a esquemes conceptuals fins que hi hagi evidència.
+
+**Protecció:** F9 no es reobre. `main` continua intacta. F10 es considera completada i qualsevol canvi posterior a la selecció requerirà una incidència editorial traçable o una instrucció explícita.

@@ -563,3 +563,18 @@ Comprovació inicial:
 ### Continuïtat immediata
 
 La recuperació RT/RD del capítol 3 ja està aplicada. La fase F3 continua amb les intervencions identificades; després cal completar la validació F4 de tots els capítols modificats i la conciliació final del registre.
+
+
+## Inici de la fase F4 — validació estructural (05/11/2026)
+
+La fase F3 es considera completada per a totes les accions RT/RD/AE identificades a la matriu. Els capítols classificats SC s'han mantingut sense canvis, excepte les remissions AE justificades. La fase F4 queda oberta per validar el contingut tècnic i semàntic dels capítols intervinguts.
+
+S'ha fet una primera comprovació estructural dels 29 Markdown intervinguts (capítols 3–19, 25–34, 36 i 38):
+- No s'han detectat encapçalaments duplicats.
+- No s'han detectat numeracions de secció duplicades.
+- No s'han detectat encapçalaments buits.
+- S'ha detectat una incidència de format: els procediments dels capítols 28 i 29 contenien seqüències de salt de línia literals. S'han convertit en salts de línia reals i s'ha repetit la comprovació; ara tots dos fitxers presenten zero seqüències literals, mantenen les 11 i 17 receptes respectivament i els sis exercicis de cada capítol.
+
+Aquesta comprovació és estructural, no una validació semàntica. Encara cal contrastar les receptes, els procediments, les afirmacions tècniques, les referències i els exercicis amb el text original i amb les decisions editorials. Els criteris d'avaluació afegits als capítols 36 i 38 continuen identificats com a propostes editorials, no com a text recuperat.
+
+**Estat actual:** F0 i F1 completades; F2 amb Registre Mestre 1.5 i conciliació fina encara oberta; F3 completada per a les accions identificades; F4 iniciada; F5–F7 pendents.

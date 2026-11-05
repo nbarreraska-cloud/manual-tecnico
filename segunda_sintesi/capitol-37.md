@@ -166,35 +166,6 @@ No s'ha d'aplicar un acabat uniforme per defecte ni utilitzar la brillantor com 
 
 Els catàlegs identifiquen productes i característiques declarades; no són proves comparatives independents ni garanteixen resultats idèntics sobre qualsevol superfície. Els exercicis són propostes didàctiques, no assajos propis realitzats.
 
-## Propostes de figures per a MG
-
-Les deu figures següents queden reservades per a la fase gràfica final. No s'han de generar ni inserir durant aquesta etapa.
-
-| Figura | Contingut | Ubicació prevista |
-|---|---|---|
-| 37.1 | Comparació d'acabats mate, setinat i brillant | 37.2–37.3 |
-| 37.2 | Diferència entre reflexió especular i més difusa | 37.2 |
-| 37.3 | Influència de l'orientació i la il·luminació en la brillantor percebuda | 37.2–37.4 |
-| 37.4 | Relació entre acabat, textura i distribució de reflexos | 37.2–37.4 |
-| 37.5 | Comparació d'acabats sobre una mateixa superfície cromàtica | 37.3 |
-| 37.6 | Selecció de l'acabat segons materials i efectes | 37.5 |
-| 37.7 | Diferenciació de materials mitjançant acabats selectius | 37.6 |
-| 37.8 | Distribució localitzada de la brillantor | 37.6 |
-| 37.9 | Seqüència d'anàlisi i selecció de l'acabat | 37.7 |
-| 37.10 | Comparació d'errors freqüents i resultats corregits | 37.8–37.9 |
-
-1. **Comparació d'acabats mat, setinat i brillant.** Mostrar tres superfícies equivalents sota una il·luminació comuna. Diferenciar la intensitat i la definició dels reflexos, mantenint constants la geometria i el color de base.
-2. **Reflexió especular i reflexió més difusa.** Representar esquemàticament com canvia la distribució de la llum reflectida segons la resposta superficial. Evitar identificar la reflexió difusa amb l'absència de reflexió.
-3. **Influència de l'orientació i la il·luminació en la brillantor percebuda.** Mostrar una mateixa superfície observada des de diferents angles i sota diverses posicions relatives de la llum. Explicar que la percepció de la brillantor no depèn exclusivament del producte aplicat.
-4. **Relació entre acabat, textura i distribució de reflexos.** Comparar superfícies amb diferents característiques d'acabat i textura. Evitar presentar la rugositat com l'única explicació de qualsevol diferència de brillantor.
-5. **Diferents acabats sobre una mateixa superfície cromàtica.** Mostrar un mateix color amb acabat mat, setinat i brillant. Mantenir equivalents les condicions d'il·luminació per observar principalment la diferència superficial.
-6. **Selecció de l'acabat segons materials i efectes.** Presentar exemples de tela mate, cuir setinat, metall polit, vidre brillant, fusta tractada i roca mate. Deixar clar que són exemples orientatius, no regles universals.
-7. **Diferenciació de materials mitjançant acabats selectius.** Representar una miniatura o composició amb materials que presenten diferents graus de brillantor. Mostrar com l'acabat contribueix a identificar les superfícies.
-8. **Distribució localitzada de la brillantor.** Mostrar una superfície amb zones mates, satinades i brillants, explicant com es pot distribuir l'acabat selectivament.
-9. **Seqüència d'anàlisi i selecció de l'acabat.** Representar la identificació del material, l'avaluació de la superfície, la selecció de l'acabat i la comprovació del resultat.
-10. **Errors freqüents i resultats corregits.** Comparar una miniatura amb brillantor excessiva, acabat uniforme, pèrdua de diferenciació material i aplicació selectiva incorrecta amb versions on l'acabat està millor distribuït.
-
-
 ## Control editorial i límits de verificació
 
 - El capítol desenvolupa els fonaments dels acabats superficials i el control visual de la brillantor.
@@ -209,7 +180,7 @@ Les deu figures següents queden reservades per a la fase gràfica final. No s'h
 - El capítol 38 conserva el desenvolupament de protecció, envernissament i conservació.
 - Els capítols 5 i 15 mantenen el desenvolupament de la il·luminació i la construcció de valors.
 - El capítol 6 conserva els fonaments generals del comportament visual dels materials.
-- S'inclouen sis exercicis pràctics i deu propostes de figures per a la fase gràfica final.
+- S'inclouen sis exercicis pràctics.
 - Les referències del fabricant s'utilitzen per identificar productes i característiques declarades, no com a resultats experimentals independents.
 - No s'han realitzat proves físiques ni es presenten resultats experimentals com a comprovats.
 - No s'han generat ni inserit imatges.

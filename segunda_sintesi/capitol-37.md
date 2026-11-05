@@ -10,7 +10,7 @@ Cal separar dues funcions:
 - **Aparença superficial:** modificar el grau de brillantor i la distribució dels reflexos.
 - **Protecció:** aplicar productes destinats a protegir la pel·lícula pictòrica i millorar-ne la conservació.
 
-Alguns productes poden fer totes dues funcions, però no tots els productes d'acabat ofereixen la mateixa protecció. El barnissat i la conservació es desenvolupen al capítol 38.
+Alguns productes poden fer totes dues funcions, però no tots els productes d'acabat ofereixen la mateixa protecció. El envernissament i la conservació es desenvolupen al capítol 38.
 
 ## 37.2. Fonaments òptics i tipus d'acabat
 
@@ -57,7 +57,7 @@ Un acabat uniforme manté resposta superficial semblant en tota una zona. El sel
 
 El resultat depèn del producte, la superfície i les condicions d'aplicació i observació.
 
-- **Característiques del producte:** pintures, tintes, productes transparents i barnissos poden tenir respostes diferents segons la formulació. La informació del fabricant descriu característiques declarades, però el resultat real depèn també de la superfície i l'aplicació.
+- **Característiques del producte:** pintures, tintes, productes transparents i vernissos poden tenir respostes diferents segons la formulació. La informació del fabricant descriu característiques declarades, però el resultat real depèn també de la superfície i l'aplicació.
 - **Gruix i distribució de la pel·lícula:** quantitat, continuïtat i acumulacions poden generar diferències de brillantor. Aplicar més producte no implica necessàriament obtenir més brillantor.
 - **Estat de la superfície:** textura, relleus, irregularitats, continuïtat del recobriment, acumulacions i productes previs condicionen el resultat. Un acabat no elimina necessàriament irregularitats ni corregeix una aplicació defectuosa.
 - **Assecat i observació:** l'aparença durant l'aplicació pot diferir de la superfície seca. Cal avaluar quan s'hagi assolit l'estat indicat pel fabricant, sense establir temps universals. Observar des de diversos angles i amb il·luminació estable.
@@ -107,7 +107,7 @@ La brillantor pot atreure l'atenció, sobretot quan produeix reflexos intensos s
 5. **Avaluar:** grau de brillantor, homogeneïtat quan calgui, límits de zones selectives, identitat del material, alteracions cromàtiques, lectura dels detalls i jerarquia.
 6. **Observar des de diferents angles i distàncies:** verificar que es manté l'aparença prevista.
 
-Distingir pintures que ja assoleixen un acabat en assecar, productes transparents per modificar aparença, barnissos amb diferents graus de brillantor i productes d'acabat que no necessàriament protegeixen. No tots els barnissos ofereixen la mateixa resistència ni tots els productes que modifiquen la brillantor protegeixen igual.
+Distingir pintures que ja assoleixen un acabat en assecar, productes transparents per modificar aparença, vernissos amb diferents graus de brillantor i productes d'acabat que no necessàriament protegeixen. No tots els vernissos ofereixen la mateixa resistència ni tots els productes que modifiquen la brillantor protegeixen igual.
 
 L'acabat és adequat quan la resposta coincideix amb l'objectiu i manté coherència amb el material i el conjunt. Les diferències poden ser intencionades si representen materials, tractaments o estats diferents.
 
@@ -139,11 +139,11 @@ La comprovació final ha d'incloure correspondència amb l'efecte, coherència m
 
 ## 37.9. Referències i recursos
 
-- Vallejo. *Catalogue 2025 — Models & Miniatures*. Apartat de productes auxiliars i barnissos acrílics mats, satinats i brillants i barnissos de poliuretà.
-- Vallejo. *Catalogue 2026 — Models & Miniatures*. Productes auxiliars i barnissos; característiques comercials declarades.
+- Vallejo. *Catalogue 2025 — Models & Miniatures*. Apartat de productes auxiliars i vernissos acrílics mats, satinats i brillants i vernissos de poliuretà.
+- Vallejo. *Catalogue 2026 — Models & Miniatures*. Productes auxiliars i vernissos; característiques comercials declarades.
 - Capítol 3: característiques i funcions de les pintures.
 - Capítol 5: llum, volum, ombres i reflexos.
 - Capítol 6: comportament visual dels materials i respostes òptiques superficials.
-- Capítol 38: protecció, barnissat i conservació.
+- Capítol 38: protecció, envernissament i conservació.
 
 Els catàlegs identifiquen productes i característiques declarades; no són proves comparatives independents ni garanteixen resultats idèntics sobre qualsevol superfície. Els exercicis són propostes didàctiques, no assajos propis realitzats.

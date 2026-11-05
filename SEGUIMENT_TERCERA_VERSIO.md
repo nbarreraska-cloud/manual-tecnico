@@ -252,3 +252,32 @@ Comprovació inicial:
 ### Continuïtat immediata
 
 Continuar amb el capítol 29, també classificat RT d'alta prioritat. Recuperar el text original complet, comparar-lo amb el Markdown i restituir els procediments, controls, adaptacions geomètriques i exercicis que aportin valor, sense alterar les receptes A–Q ni incorporar productes aliens a les 48 pintures.
+
+
+### Capítol 29 — terra, fang, pols, brutícia i dipòsits (05/11/2026)
+
+S'ha recuperat el contingut del capítol 29 comparant el Markdown de la segona síntesi amb el text del document original.
+
+Intervenció aplicada:
+- Desenvolupats els procediments de les 17 receptes A–Q, mantenint les combinacions de pintures del catàleg de 48 referències.
+- Recuperades les referències numèriques Vallejo a les llistes d'ingredients on s'havien omès.
+- Restituïda l'adaptació diferenciada a superfícies horitzontals, verticals, corbes i geometries complexes, així com els criteris d'escala i combinació de dipòsits.
+- Desenvolupat el control de distribució, els nou errors i les seves correccions, els criteris d'avaluació i el criteri de finalització.
+- Recuperats els sis exercicis amb objectiu, materials, procediment i avaluació.
+- Recuperada la síntesi conceptual i els enllaços de les cinc referències de modelisme.
+- Corregida la terminologia i la coherència lingüística catalana.
+
+Comprovació inicial:
+- 17 receptes A–Q presents.
+- 6 exercicis presents.
+- 5 subseccions d'adaptació geomètrica i d'escala presents.
+- 12 subseccions de control, errors, avaluació i finalització presents.
+- Síntesi i referències presents, amb cinc enllaços.
+- Cap encapçalament duplicat detectat.
+- Les 10 propostes de figures del document original no s'han inserit al cos del capítol: es mantenen com a material MG per a la fase gràfica.
+
+**Estat:** recuperació aplicada; comprovació estructural inicial superada; validació semàntica i coteig complet pendents. Les receptes continuen sent propostes no assajades i no s'han incorporat productes externs a les 48 pintures.
+
+### Continuïtat immediata
+
+Els capítols 28 i 29, dues recuperacions tècniques d'alta prioritat, ja tenen intervencions aplicades. La següent recuperació d'alta prioritat identificada a la matriu és el capítol 38 (protecció, barnissat i conservació). Abans de modificar-lo, recuperar el seu Markdown actual i el text original complet, contrastar l'abast i preservar les distincions amb el capítol 37.

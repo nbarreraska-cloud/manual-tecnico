@@ -414,3 +414,29 @@ Comprovació inicial:
 ### Continuïtat immediata
 
 Les recuperacions didàctiques de prioritat mitjana dels capítols 25–27 ja s'han aplicat. El següent capítol amb intervenció pendent de prioritat mitjana és el 32. Mantenir la distinció entre efectes sobrenaturals (32), fonts lluminoses i OSL (17), cristalls/gemmes (27) i superfícies metàl·liques o minerals (19, 26 i 28).
+
+
+### Capítol 32 — màgia, energia i efectes sobrenaturals (05/11/2026)
+
+S'ha recuperat el contingut didàctic del capítol 32 comparant la segona síntesi amb el text original.
+
+Intervenció aplicada:
+- Recuperats els sis exercicis pràctics amb objectiu, procediment i avaluació.
+- Recuperada la síntesi conceptual.
+- Mantinguda la distinció entre efecte cromàtic, font lluminosa i il·luminació projectada (OSL).
+- Mantinguda la distinció entre fluorescència i fosforescència, sense atribuir emissió persistent a les pintures fluorescents.
+- Conservades les cinc receptes A–E i les quatre referències fluorescents de l'inventari.
+- Les vuit propostes de figures originals no s'han inserit al capítol; queden reservades per a la fase MG.
+
+Comprovació inicial:
+- 5 receptes A–E presents.
+- 6 exercicis complets presents.
+- Síntesi i referències diferenciades.
+- Les quatre pintures fluorescents de l'inventari (72.156, 72.158, 72.104 i 72.161) continuen identificades.
+- Cap encapçalament duplicat detectat.
+
+**Estat:** recuperació aplicada; comprovació estructural inicial superada; validació semàntica i coteig complet pendents. No s'han afegit afirmacions de fosforescència ni de comportament experimental no documentat.
+
+### Continuïtat immediata
+
+Les recuperacions didàctiques de prioritat mitjana dels capítols 25–27 i 32 ja estan aplicades. Continuar amb les intervencions de prioritat baixa encara identificades (capítols 31 i 36) i els ajustos editorials AE pendents, sense reobrir capítols SC sense una incidència substancial.

@@ -5541,7 +5541,7 @@ Un material translúcid transmet llum, però en dispersa una part a l'interior i
 
 Cal distingir la **transparència del producte pictòric** de la **transparència de l'objecte representat**. La primera descriu la capacitat d'una pintura o tinta de deixar veure, en major o menor grau, la capa inferior; la segona descriu el comportament del material representat davant la llum i la informació situada al darrere. Una pintura transparent pot servir per modificar cromàticament una superfície opaca, però no converteix per si mateixa l'objecte en transparent. Aquesta distinció es relaciona amb les propietats dels productes del capítol 3.
 
-Els límits entre categories no sempre són absoluts. La composició, l'estructura interna, el gruix i les condicions d'il·luminació i observació en condicionen l'aparença. No s'ha de classificar un material només pel color o l'acabat: una superfície mat pot reflectir llum difusament sense ser translúcida, i una de brillant no ha de ser necessàriament transparent.
+Els límits entre categories no sempre són absoluts. La composició, l'estructura interna, el gruix, la longitud d'ona i les condicions d'il·luminació i observació en condicionen l'aparença. No s'ha de classificar un material només pel color o l'acabat: una superfície mat pot reflectir llum difusament sense ser translúcida, i una de brillant no ha de ser necessàriament transparent.
 
 Un mateix objecte pot combinar zones transparents, translúcides i opaques o mostrar variacions locals per gruix, curvatura, inclusions i irregularitats internes. La representació ha de reflectir aquestes diferències quan siguin rellevants.
 
@@ -5571,11 +5571,11 @@ La refracció pot modificar la direcció de la llum i alterar la posició aparen
 
 En materials translúcids, la dispersió redueix la definició de la informació transmesa. Es pot representar mitjançant una pèrdua selectiva de contrast i nitidesa, transicions més suaus i variacions de claredat.
 
-L'interior pot contenir inclusions i partícules, bombolles i esquerdes, vetes i capes, variacions de densitat o zones amb diferents graus de transmissió. Aquests elements aporten profunditat i ajuden a distingir un material translúcid d'una superfície simplement pintada de clar. Han d'integrar-se en l'aparença del material i no semblar ornaments superposats.
+L'interior pot contenir inclusions i partícules, bombolles i esquerdes, vetes i capes, variacions de densitat o zones amb diferents graus de transmissió. Aquests elements aporten profunditat i ajuden a distingir un material translúcid d'una superfície simplement pintada de clar. La coloració interna també pot dependre de l'absorció selectiva de determinades longituds d'ona i de la dispersió de la llum; per això, no sempre s'ha d'aplicar de manera uniforme. Aquests elements han d'integrar-se en l'aparença del material i no semblar ornaments superposats.
 
 ### 14.3.6. Gruix i curvatura
 
-El gruix i la curvatura poden modificar la transmissió, la visibilitat de les vores i l'aparença interna. En objectes corbs, la informació transmesa pot variar segons la zona; les superfícies planes solen requerir menys modificacions, però els límits i reflexos continuen sent importants. Cal conservar aquestes diferències quan ajudin a reconèixer la geometria.
+El gruix i la curvatura poden modificar la transmissió, la visibilitat de les vores, el color aparent i l'aparença interna. En objectes corbs, la informació transmesa pot variar segons la zona i les distorsions poden ser més pronunciades; les superfícies planes solen requerir menys modificacions, però els límits i reflexos continuen sent importants. Cal conservar aquestes diferències quan ajudin a reconèixer la geometria.
 
 ## 14.4. Anàlisi i planificació
 
@@ -5631,7 +5631,7 @@ Incorporar els contorns necessaris per identificar la superfície física. No to
 
 Afegir els reflexos que ajudin a comunicar la presència i l'orientació de la superfície. La seva distribució ha de respondre a la geometria i no ha d'ocultar innecessàriament la informació transmesa.
 
-Comprovar que la informació del fons, els contorns i els reflexos mantenen una relació coherent. La representació ha de permetre reconèixer l'objecte i, alhora, interpretar que es pot veure a través seu.
+Comprovar que la informació del fons, els contorns i els reflexos mantenen una relació coherent. Avaluar també el resultat des de la distància habitual d'observació. La representació ha de permetre reconèixer l'objecte i, alhora, interpretar que es pot veure a través seu.
 
 No existeix una seqüència única per a tots els casos. El procediment depèn de si l'objecte està integrat en una escena ja pintada, si el fons es pot representar independentment o si es tracta d'una peça transparent afegida a la miniatura.
 
@@ -5702,7 +5702,7 @@ La profunditat interna s'ha d'integrar amb la superfície exterior. Cal comprova
 
 ### 14.8.4. Control dels reflexos i contorns
 
-Els reflexos i contorns han de reforçar la identificació del material sense substituir la informació que comunica la seva transparència o translucidesa. Convé revisar-ne la intensitat, l'extensió, la posició i la relació amb la geometria.
+Els reflexos i contorns han de reforçar la identificació del material sense substituir la informació que comunica la seva transparència o translucidesa. Convé revisar-ne la intensitat, l'extensió, la posició i la relació amb la geometria. No totes les vores necessiten el mateix tractament ni tots els reflexos han de presentar una intensitat equivalent.
 
 ### 14.8.5. Criteri de finalització
 
@@ -5801,7 +5801,6 @@ La tria dels recursos depèn del material, la geometria, l'escala i el comportam
 És fonamental diferenciar la transparència d'una pintura de la transparència de l'objecte representat. Una pel·lícula pictòrica transparent es pot utilitzar per modificar una superfície, però no reprodueix per si mateixa la transmissió de llum d'un material.
 
 Els procediments específics per representar vidre, cristalls, gel, gemmes, líquids i altres materials es desenvoluparan als capítols corresponents del recetari.
----
 
 # 15. IL·LUMINACIÓ APLICADA I PLANIFICACIÓ DE VALORS
 

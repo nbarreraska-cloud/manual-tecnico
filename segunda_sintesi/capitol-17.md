@@ -396,46 +396,189 @@ No és necessari estendre el color a totes les zones pròximes ni afegir reflexo
 
 La prioritat és mantenir una relació clara entre l'origen de la llum i les seves conseqüències visuals.
 
-## 17.8. Errors freqüents i correccions
+## 17.8. Errors freqüents i procediments de correcció
 
-| Error | Correcció |
+### 17.8.1. Crear un halo sense una font identificable
+
+El color es distribueix al voltant d'una zona, però no queda clar quin element emet la llum.
+
+**Correcció:** definir i reforçar visualment la font abans d'ampliar-ne la influència sobre les superfícies pròximes.
+
+### 17.8.2. Il·luminar indiscriminadament tots els objectes propers
+
+L'efecte s'estén per proximitat sense considerar orientació, geometria o obstacles.
+
+**Correcció:** revisar les superfícies receptores i limitar la il·luminació a les regions l'exposició de les quals resulti coherent.
+
+### 17.8.3. Confondre la font amb la superfície il·luminada
+
+La font i les zones receptores presenten la mateixa intensitat i aparença cromàtica.
+
+**Correcció:** establir una jerarquia visual que permeti reconèixer l'element emissor i diferenciar-ne els efectes.
+
+### 17.8.4. Utilitzar el color de la font sense modificar els valors
+
+La superfície es cobreix amb un color lluminós, però no mostra una modificació tonal que suggereixi il·luminació.
+
+**Correcció:** revisar els valors de les superfícies receptores i construir una relació entre la seva aparença original i la influència lluminosa.
+
+### 17.8.5. Estendre massa la il·luminació
+
+L'efecte ocupa regions allunyades o protegides sense una justificació visual clara.
+
+**Correcció:** reduir-ne l'extensió i establir una distribució més selectiva.
+
+### 17.8.6. Distribuir l'efecte de manera uniforme
+
+Totes les superfícies presenten una intensitat i una extensió semblants.
+
+**Correcció:** diferenciar les regions segons la seva posició, orientació i exposició.
+
+### 17.8.7. Perdre la geometria dels objectes
+
+L'aplicació cromàtica cobreix plans, detalls i curvatures fins a dificultar la lectura de la forma.
+
+**Correcció:** recuperar selectivament l'estructura tonal i ajustar la il·luminació a la geometria.
+
+### 17.8.8. Confondre il·luminació i reflex
+
+Totes les superfícies il·luminades reben punts o línies de brillantor intensa, independentment de les seves característiques.
+
+**Correcció:** diferenciar la il·luminació general dels reflexos localitzats i reservar aquests últims per a les superfícies i orientacions que els justifiquin.
+
+### 17.8.9. Utilitzar transicions excessivament brusques
+
+Les zones il·luminades apareixen com a taques aïllades sense integració amb el color original.
+
+**Correcció:** revisar la transició entre regions i adaptar-la a la geometria i al tipus de superfície.
+
+### 17.8.10. Suavitzar totes les transicions en excés
+
+La il·luminació perd definició i es converteix en una zona cromàtica extensa i poc estructurada.
+
+**Correcció:** recuperar els límits i contrastos necessaris per mantenir la lectura dels volums.
+
+### 17.8.11. Confondre emissió lluminosa amb color saturat
+
+La font presenta un color intens, però no destaca respecte de l'entorn ni transmet una aparença emissora.
+
+**Correcció:** revisar la jerarquia de valors, el contrast amb l'entorn i la definició de la zona emissora.
+
+### 17.8.12. Introduir diverses fonts sense jerarquia
+
+La miniatura conté diferents elements lluminosos, però els seus efectes se superposen sense una organització clara.
+
+**Correcció:** analitzar cada font per separat, establir-ne la importància i revisar posteriorment la interacció entre elles.
+
+## 17.9. Resultat esperat i criteris d'avaluació
+
+El resultat esperat és una representació en què una font lluminosa es pugui identificar com a origen d'un efecte i les superfícies pròximes mostrin una influència visual compatible amb la seva posició i geometria.
+
+| Criteri | Resultat esperat |
 |---|---|
-| Halo sense una font identificable | Definir i reforçar la font abans d'estendre'n la influència. |
-| Il·luminar tots els objectes pròxims | Seleccionar les superfícies segons orientació, exposició i obstacles. |
-| Confondre la font amb les superfícies receptores | Establir una jerarquia visual entre emissor i efectes. |
-| Afegir color sense modificar els valors | Revisar la relació tonal de les superfícies il·luminades. |
-| Estendre massa l'efecte | Reduir-ne l'abast i conservar les zones sense influència directa. |
-| Distribuir la llum uniformement | Graduar-la segons distància, orientació i exposició, sense aplicar proporcions fixes. |
-| Perdre la geometria | Recuperar selectivament els volums i els plans. |
-| Confondre il·luminació i reflex | Diferenciar la influència general dels reflexos localitzats. |
-| Transicions massa brusques | Integrar-les segons la forma i el material, sense difuminar-ho tot. |
-| Transicions excessivament suaus | Recuperar límits i contrastos necessaris per llegir la superfície. |
-| Confondre emissió amb saturació | Reforçar la jerarquia de valors i diferenciar la font del seu entorn. |
-| Introduir diverses fonts sense jerarquia | Analitzar-les per separat i establir-ne la importància relativa. |
+| Identificació de la font | L'element emissor es reconeix clarament. |
+| Coherència espacial | La distribució respon a la posició de la font. |
+| Exposició | Les zones il·luminades són compatibles amb l'orientació i els obstacles. |
+| Jerarquia | Es distingeix la font de les superfícies receptores. |
+| Intensitat | La influència lluminosa presenta una distribució comprensible. |
+| Integració cromàtica | L'efecte es relaciona amb els colors originals de les superfícies. |
+| Geometria | La il·luminació conserva la lectura dels volums. |
+| Materials | La resposta representada resulta compatible amb les superfícies. |
+| Coherència global | L'efecte s'integra en la il·luminació general de la miniatura. |
 
-## 17.9. Resultat esperat
+L'OSL no s'ha d'avaluar per la quantitat de color lluminós aplicada ni per l'extensió del halo. La seva qualitat depèn de la coherència entre la font, les superfícies receptores i l'entorn.
 
-El resultat ha de permetre identificar la font emissora i comprendre quines superfícies en reben la influència. La distribució ha de respectar la posició, l'orientació, la geometria, els obstacles i les característiques dels materials. L'efecte s'ha d'integrar amb la il·luminació general sense convertir les superfícies pròximes en una massa cromàtica uniforme.
+La simplificació pot ser necessària per millorar la lectura, però ha de mantenir una lògica espacial recognoscible.
 
 ## 17.10. Exercicis pràctics
 
+Els exercicis permeten practicar l'anàlisi de la font, la selecció de les superfícies receptores i la planificació de la influència lluminosa abans de construir l'efecte complet.
+
 ### 17.10.1. Identificació de la font i les superfícies receptores
-Seleccionar una miniatura amb un element que pugui actuar com a font. Identificar les superfícies exposades i les protegides, i distingir l'emissor de les zones afectades.
 
-### 17.10.2. Planificació de fonts en diferents posicions
-Plantejar una mateixa font en posició superior, lateral i inferior. Dibuixar la distribució de les superfícies receptores i comparar-ne els canvis.
+**Objectiu:** diferenciar la font emissora de les superfícies que reben la seva llum.
 
-### 17.10.3. Distribució de la intensitat
-Elaborar un esquema amb zones de màxima influència, influència intermèdia i absència d'il·luminació directa apreciable. Evitar una distribució uniforme.
+**Procediment:**
+1. Seleccionar una miniatura o composició senzilla amb un element que pugui actuar com a font.
+2. Identificar i delimitar la font.
+3. Assenyalar les superfícies que podrien rebre'n la influència.
+4. Distingir les regions exposades de les que quedarien protegides per la geometria.
+5. Justificar la selecció de cada superfície receptora.
+
+**Resultat esperat:** una identificació clara de l'origen de la llum i de les superfícies afectades.
+
+### 17.10.2. Planificació d'una font situada en diferents posicions
+
+**Objectiu:** comprendre com la posició de la font modifica la distribució de la il·luminació.
+
+**Procediment:**
+1. Utilitzar una mateixa figura.
+2. Plantejar tres ubicacions diferents per a la font: superior, lateral i inferior.
+3. Dibuixar la distribució prevista de les superfícies il·luminades en cada situació.
+4. Identificar els canvis d'exposició i les zones protegides.
+5. Comparar la lectura de la figura en els tres esquemes.
+
+**Resultat esperat:** reconèixer la influència de la posició i l'orientació sobre la planificació de l'efecte.
+
+### 17.10.3. Distribució de la intensitat lluminosa
+
+**Objectiu:** planificar una pèrdua progressiva d'influència sense recórrer a una distribució uniforme.
+
+**Procediment:**
+1. Seleccionar una font i una superfície receptora.
+2. Elaborar un esquema amb zones de màxima influència, influència intermèdia i absència d'il·luminació directa apreciable.
+3. Considerar la distància, l'orientació i els obstacles.
+4. Revisar que la distribució no segueixi una proporció fixa aplicada indiscriminadament.
+5. Comparar el resultat amb una distribució uniforme.
+
+**Resultat esperat:** una planificació selectiva de la intensitat i l'extensió de l'efecte.
 
 ### 17.10.4. Influència de la geometria
-Comparar superfícies planes, corbes i facetades sota una mateixa font. Representar les diferències segons l'orientació i l'exposició.
+
+**Objectiu:** adaptar la distribució de l'OSL a superfícies amb geometries diferents.
+
+**Procediment:**
+1. Preparar diverses superfícies de prova: plana, corba i facetada.
+2. Situar una mateixa font respecte de cadascuna.
+3. Planificar les regions exposades i protegides.
+4. Representar les diferències de distribució.
+5. Comparar com la geometria modifica l'aparença de la il·luminació.
+
+**Resultat esperat:** comprendre que la forma i l'orientació condicionen la influència lluminosa.
 
 ### 17.10.5. Comparació entre il·luminació i reflex
-Representar una zona il·luminada d'una superfície mate i un reflex més localitzat en una superfície brillant. Comparar-ne la funció.
 
-### 17.10.6. Exercici integrador
-Seleccionar una miniatura i identificar la font, la seva posició, les superfícies receptores i els obstacles. Planificar els valors i els colors, construir la font, aplicar-ne la influència, integrar transicions i reflexos, revisar la coherència amb la geometria i avaluar el resultat des de la distància habitual.
+**Objectiu:** diferenciar una zona il·luminada d'un reflex localitzat.
+
+**Procediment:**
+1. Seleccionar dues superfícies amb respostes visuals diferents.
+2. Representar en una zona mate una influència lluminosa de distribució àmplia.
+3. Representar en una superfície brillant un reflex més localitzat.
+4. Comparar la funció visual de tots dos recursos.
+5. Revisar si els reflexos estan justificats per la geometria i la posició de l'observador.
+
+**Resultat esperat:** evitar que totes les superfícies il·luminades es representin mitjançant punts o línies de brillantor.
+
+### 17.10.6. Exercici integrador: construcció d'un efecte OSL
+
+**Objectiu:** integrar els criteris del capítol en una representació completa d'una font i els seus efectes.
+
+**Procediment:**
+1. Seleccionar una miniatura amb un element que pugui actuar com a font lluminosa.
+2. Identificar i delimitar la font.
+3. Determinar-ne la posició i l'orientació.
+4. Seleccionar les superfícies receptores.
+5. Identificar possibles obstacles.
+6. Establir la jerarquia de valors.
+7. Seleccionar l'organització cromàtica.
+8. Construir l'aparença de la font.
+9. Aplicar-ne la influència sobre les superfícies receptores.
+10. Integrar les transicions i els possibles reflexos.
+11. Comprovar la coherència amb la geometria i la il·luminació general.
+12. Corregir les zones que presentin contradiccions.
+13. Avaluar el resultat des de la distància habitual d'observació.
+
+**Resultat esperat:** una representació en què la font sigui recognoscible i les superfícies receptores mostrin una influència coherent amb la situació espacial plantejada.
 
 ## Síntesi del capítol
 

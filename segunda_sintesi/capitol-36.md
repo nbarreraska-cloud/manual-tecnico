@@ -201,16 +201,100 @@ Revisar mida i direcció, concentració en zones previstes, presència d'àrees 
 
 La comprovació ha de confirmar correspondència amb el material, distribució coherent amb geometria i ús, mida i intensitat adequades a escala, diferenciació entre pèrdues i dipòsits, suport exposat coherent, decoloració justificada i jerarquia recognoscible. Cal conservar prou superfície original perquè el material continuï identificable. Finalitzar quan les alteracions comuniquin l'estat previst sense ocultar innecessàriament l'objecte.
 
-## 36.10. Exercicis pràctics
+## 36.10. Síntesi del capítol
 
-1. **Comparació d'estats de conservació:** representar en una superfície de prova tres estats —conservat, usat i molt deteriorat— i comparar quantitat, distribució i intensitat.
-2. **Abrasions i fregadures:** variar direcció, longitud, intensitat i distribució de marques de contacte.
-3. **Ratllades i impactes:** representar tots dos sobre una mateixa superfície i comparar profunditat aparent, forma i contrast.
-4. **Desconxats:** preparar diverses capes cromàtiques i representar pèrdues petites, extenses i amb diferents capes exposades.
-5. **Envelliment ambiental:** representar una alteració cromàtica per exposició, mantenint zones protegides com a comparació.
-6. **Exercici integrador:** definir estat de conservació d'una peça, planificar zones i alteracions, aplicar procediments i avaluar coherència amb material, geometria i ús.
+L'envelliment i el desgast permeten representar les transformacions que experimenten les superfícies pel pas del temps, el contacte, la fricció, els impactes i l'exposició ambiental.
 
-## 36.11. Referències i recursos
+Cal diferenciar l'envelliment general, el desgast mecànic i el deteriorament, ja que poden produir senyals visuals diferents. La representació ha de considerar el material, la geometria, la funció de l'objecte, la intensitat de les alteracions i la seva distribució.
+
+Les abrasions, fregadures, ratllades, impactes, desconxats, decoloracions i pèrdues de recobriment s'han de construir de manera selectiva i amb una jerarquia visual recognoscible. Els procediments s'han d'adaptar a cada material i conservar les característiques necessàries per identificar-lo. No s'han d'utilitzar patrons universals ni distribuir les alteracions uniformement.
+
+La finalitat no consisteix a deteriorar visualment tota la superfície, sinó a representar una transformació coherent amb l'estat de conservació i la història visual de l'objecte.
+
+## 36.11. Exercicis pràctics
+
+### 36.11.1. Comparació d'estats de conservació
+
+**Objectiu:** diferenciar tres estats de conservació mitjançant la quantitat, la distribució i la intensitat de les alteracions.
+
+**Procediment:**
+1. Seleccionar una superfície de prova.
+2. Representar una superfície conservada.
+3. Representar una superfície usada.
+4. Representar una superfície molt deteriorada.
+5. Comparar la quantitat, la distribució i la intensitat de les alteracions.
+
+**Avaluació:** comprovar que els tres estats es distingeixen sense necessitat d'aplicar el mateix patró de desgast a tota la superfície.
+
+### 36.11.2. Construcció d'abrasions i fregadures
+
+**Objectiu:** representar marques produïdes per fricció i contacte.
+
+**Procediment:**
+1. Seleccionar una superfície de prova.
+2. Identificar les zones de contacte.
+3. Representar marques amb diferents direccions.
+4. Variar-ne la longitud i la intensitat.
+5. Modificar-ne la distribució segons la geometria.
+6. Comparar les diferents marques.
+
+**Avaluació:** comprovar que les abrasions i les fregadures presenten una relació coherent amb les zones de contacte i no es distribueixen uniformement.
+
+### 36.11.3. Construcció de ratllades i impactes
+
+**Objectiu:** diferenciar marques lineals i danys localitzats.
+
+**Procediment:**
+1. Seleccionar una superfície de prova.
+2. Representar ratllades superficials.
+3. Afegir marques d'impacte localitzades.
+4. Comparar profunditat aparent, forma i contrast.
+5. Adaptar cada marca a la geometria.
+
+**Avaluació:** comprovar que les ratllades conserven una direcció comprensible i que els impactes es diferencien per la seva forma i distribució.
+
+### 36.11.4. Construcció de desconxats
+
+**Objectiu:** representar pèrdues de recobriment i diferenciar les capes exposades.
+
+**Procediment:**
+1. Preparar una superfície amb diferents capes cromàtiques.
+2. Identificar quina capa o material quedarà exposat.
+3. Representar pèrdues petites i localitzades.
+4. Construir una pèrdua més extensa.
+5. Comparar zones amb diferents capes exposades.
+
+**Avaluació:** comprovar que el color de les pèrdues correspon a l'estructura de capes i al material subjacent.
+
+### 36.11.5. Envelliment ambiental
+
+**Objectiu:** representar una alteració cromàtica relacionada amb l'exposició prolongada.
+
+**Procediment:**
+1. Seleccionar una superfície.
+2. Identificar les zones que es consideraran exposades.
+3. Mantenir algunes zones protegides com a referència.
+4. Construir variacions cromàtiques a les zones exposades.
+5. Comparar el color original i les zones modificades.
+
+**Avaluació:** comprovar que l'alteració es distribueix de manera coherent i que es manté prou informació del material original.
+
+### 36.11.6. Exercici integrador: transformació d'una superfície per ús i exposició
+
+**Objectiu:** planificar i representar un estat de conservació complet.
+
+**Procediment:**
+1. Seleccionar una peça de miniatura.
+2. Definir-ne l'estat de conservació.
+3. Planificar les zones de desgast.
+4. Identificar les alteracions principals i secundàries.
+5. Seleccionar els procediments necessaris.
+6. Construir les alteracions de manera jerarquitzada.
+7. Avaluar la relació entre material, geometria i ús representat.
+
+**Avaluació:** comprovar que les marques mantenen una relació coherent amb el material, la geometria i la funció de l'objecte, i que el resultat no és una acumulació indiscriminada d'efectes.
+
+## 36.12. Referències i recursos
 
 El capítol es recolza en els fonaments de comportament visual dels materials, representació de superfícies i tècniques d'aplicació desenvolupats anteriorment. Per aprofundir:
 - Capítol 6: estructura, textura i comportament visual dels materials.

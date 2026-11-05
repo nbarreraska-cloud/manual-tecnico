@@ -70,7 +70,7 @@ Aquestes decisions són editorials i revisables quan es valori el conjunt de fig
 
 ## 5. Estat i continuació
 
-F10 continua oberta. La primera tanda C1–C3 queda documentada a l'apartat 3. La segona tanda C4–C7 i C11 s'ha contrastat amb els capítols consolidats i queda registrada a l'apartat 6. La següent tanda serà C15–C24 i, després, C30–C39. La revisió de les 83 P2 només es tancarà després de validar el conjunt P1; les tres P3 es tractaran com a fusions d'informació, mai com a eliminacions.
+F10 continua oberta. Les quatre tandes C1–C3, C4–C7/C11, C15–C24 i C30–C39 tenen una preselecció registrada. Aquesta primera passada ha comprovat identificadors, funcions proposades, ubicacions i estructura dels capítols; no equival encara al coteig detallat de cada P1 amb tots els paràgrafs i procediments del capítol. Aquest coteig detallat, la decisió final de les P2, la traducció i neteja de les descripcions originals i la llista definitiva de producció continuen pendents.
 
 **Protecció del projecte:** treball exclusiu a `intervencion-editorial-2026-11`; no modificar `main`, no fusionar la PR #1 i no iniciar F11 abans de tancar F10.
 
@@ -153,7 +153,7 @@ F10 continua oberta. La primera tanda C1–C3 queda documentada a l'apartat 3. L
 4. La fusió P3 5.14 amb 5.6 ha de preservar la llei de la reflexió sense sobrecarregar el diagrama de l'angle d'incidència.
 5. La comparació òptica de 6.4 ha de quedar diferenciada de la reflexió especular/difusa del capítol 5 i de les figures de llum, per evitar duplicació conceptual.
 
-**Resultat de la segona tanda:** contrastades les propostes C4, C5, C6, C7 i C11 amb el contingut consolidat. Es mantenen les P1 inicials, amb les condicions i fusions indicades; no s'ha produït cap imatge ni modificat cap capítol. La següent tanda passa a C15–C24.
+**Resultat de la segona tanda:** preselecció de les propostes C4, C5, C6, C7 i C11 a partir de les descripcions recuperades i de la correspondència estructural amb els capítols. Les P1 es mantenen provisionalment, amb les condicions i fusions indicades. Resta pendent el coteig detallat de cada figura amb el contingut complet dels apartats abans d'aprovar-ne la producció. No s'ha produït cap imatge ni modificat cap capítol.
 
 
 ## 8. Tercera tanda de validació — C15–C24
@@ -286,7 +286,7 @@ Les 90 propostes addicionals de C15–C24 no provenen del Word original: es van 
 4. Les fusions de C15–C24 s'han de valorar com a composicions integradores, no com a simple reducció de nombre: cap pas tècnic o diferència material útil no es pot perdre.
 5. Els exemples de pell, vegetació, fusta, cuir i teixits han de respectar l'estructura i la morfologia descrites al capítol; no s'han de generar detalls anatòmics o botànics decoratius sense fonament.
 
-**Resultat de la tercera tanda:** contrastades les 90 propostes de C15–C24 amb l'estructura i el contingut dels capítols consolidats. Es mantenen les prioritats P1 com a candidates, amb fusions i condicions per a les P2. No s'ha produït cap imatge ni modificat cap capítol. La següent tanda és C30–C39.
+**Resultat de la tercera tanda:** preselecció de les 90 propostes de C15–C24 a partir dels identificadors, les funcions descrites i l'estructura dels capítols consolidats. Les P1 es mantenen com a candidates, amb fusions i condicions per a les P2. El coteig detallat de cada proposta amb els apartats complets continua pendent. No s'ha produït cap imatge ni modificat cap capítol.
 
 
 ## 10. Quarta tanda de validació — C30–C39
@@ -425,4 +425,12 @@ Les 90 propostes addicionals de C15–C24 no provenen del Word original: es van 
 4. Les figures de diagnòstic han de representar causes possibles i decisions condicionals, no receptes universals.
 5. Cal revisar la correspondència de la numeració interna amb la numeració editorial final després de les fusions P3 i les decisions de P2.
 
-**Resultat de la quarta tanda:** contrastades les propostes de C30–C39 amb els capítols consolidats i les descripcions del registre gràfic. Les P1 es mantenen com a candidates amb condicions; les fusions P3 es preserven i les P2 continuen condicionades a l'aportació didàctica. No s'ha produït cap imatge ni modificat cap capítol.
+**Resultat de la quarta tanda:** preselecció de les propostes de C30–C39 a partir de les descripcions del registre gràfic i l'estructura dels capítols. Les P1 es mantenen com a candidates amb condicions; les fusions P3 es preserven i les P2 continuen condicionades a l'aportació didàctica. El coteig detallat amb tots els apartats i procediments continua pendent. No s'ha produït cap imatge ni modificat cap capítol.
+
+
+## 12. Precisió sobre l'estat de la revisió
+
+Les decisions dels apartats 6, 8 i 10 són una **preselecció editorial de F10**, no una aprovació final de totes les figures. En aquestes tandes s'han contrastat la descripció de la proposta, la seva funció, l'identificador i la ubicació amb l'estructura consolidada del capítol; en alguns casos s'han consultat apartats concrets, però encara no s'ha fet una lectura comparativa exhaustiva de cada proposta amb tot el procediment i les limitacions del seu apartat font.
+
+Per tant, cap P1 queda autoritzada encara per a producció automàtica. Abans de tancar F10 cal completar el coteig detallat, revisar les P2 en relació amb el conjunt de P1, confirmar les tres fusions P3, traduir al català les descripcions seleccionades i redactar especificacions de producció inequívoces. Les figures que necessitin fotografies o proves reals continuaran condicionades a disposar d'aquestes evidències.
+

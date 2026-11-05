@@ -9,24 +9,28 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 ## C30 — Foc i combustió
 
 ### 30.1 — Estructura visual d'una flama
+- **Ubicació:** 30.2.
 - **Llegenda prevista:** «Regions cromàtiques d'una flama: nucli, zona intermèdia, zona exterior i base.»
 - **Representació:** esquema de les regions cromàtiques de la flama, amb una jerarquia de formes i valors que permeti distingir-ne les zones.
 - **Funció didàctica:** diferenciar les regions visuals que s'utilitzen per construir pictòricament una flama.
 - **Límits:** model visual simplificat, no estructura física universal ni seccions anatòmiques fixes.
 
 ### 30.3 — Planificació cromàtica del foc
+- **Ubicació:** 30.3.1–30.3.2.
 - **Llegenda prevista:** «Organització dels valors i colors d'una flama segons la intensitat visual.»
 - **Representació:** mapa cromàtic i tonal que ordeni les zones exteriors, intermèdies i de màxima intensitat.
 - **Funció didàctica:** mostrar com es planifica la distribució del color i del valor abans de construir l'efecte.
 - **Límits:** orientació didàctica; no convertir l'ordre en una recepta universal ni atribuir-lo a una prova física.
 
 ### 30.4 — Construcció pictòrica d'una flama
+- **Ubicació:** 30.5.
 - **Llegenda prevista:** «Seqüència de construcció pictòrica d'una flama a partir de la recepta A.»
 - **Representació:** fases principals del procediment des de la base cromàtica fins als punts de màxima intensitat, d'acord amb l'ordre descrit al capítol.
 - **Funció didàctica:** facilitar la comprensió de la progressió de capes i de la jerarquia final.
 - **Límits:** seqüència didàctica, no fotografia ni resultat experimental. No afegir passos, mescles o proporcions absents del text.
 
 ### 30.8 — Integració de foc, fum i material carbonitzat
+- **Ubicació:** 30.9.
 - **Llegenda prevista:** «Relació visual entre flama, fum, brases i material carbonitzat.»
 - **Representació:** escena esquemàtica integrada que diferenciï la flama, les masses de fum, les brases i el suport carbonitzat.
 - **Funció didàctica:** mostrar la coexistència i la lectura diferenciada dels efectes de combustió.
@@ -35,36 +39,42 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 ## C31 — Sang i altres fluids
 
 ### 31.1 — Estats visuals de la sang
+- **Ubicació:** 31.1–31.2.
 - **Llegenda prevista:** «Diferències d'aparença entre sang fresca, acumulada o coagulada i seca.»
 - **Representació:** tres mostres comparatives que diferenciïn color, distribució, volum i acabat.
 - **Funció didàctica:** mostrar variacions visuals útils per representar estats diferents.
 - **Límits:** no establir una escala cromàtica universal d'antiguitat ni una cronologia mèdica.
 
 ### 31.2 — Diferenciació entre sang i altres fluids
+- **Ubicació:** 31.2.
 - **Llegenda prevista:** «Comparació de cobertura, volum, transparència i distribució de diferents fluids.»
 - **Representació:** mostra sanguínia, fluid aquós i fluid viscós, amb les diferències visuals pertinents.
 - **Funció didàctica:** distingir comportaments pictòrics i aparences sense dependre només del color.
 - **Límits:** classificació visual, no mèdica ni biològica; no atribuir propietats universals a tots els fluids.
 
 ### 31.3 — Distribució de fluids sobre diferents geometries
+- **Ubicació:** 31.3 i 31.4.3.
 - **Llegenda prevista:** «Com la inclinació i la forma de la superfície condicionen les gotes, les acumulacions i els rastres.»
 - **Representació:** gotes i rastres sobre superfícies horitzontals, verticals, inclinades i corbes.
 - **Funció didàctica:** relacionar la forma del dipòsit amb la geometria i l'orientació del suport.
 - **Límits:** respectar gravetat, orientació i escala; evitar patrons repetitius sense justificació.
 
 ### 31.4 — Construcció de sang fresca
+- **Ubicació:** 31.4.2–31.4.3.
 - **Llegenda prevista:** «Construcció pictòrica de sang fresca: pel·lícula fina, gota i acumulació.»
 - **Representació:** seqüència des de la base cromàtica fins a les variacions fosques i l'acabat humit, diferenciant una capa fina d'una gota o acumulació.
 - **Funció didàctica:** explicar que el volum i la distribució modifiquen la lectura de l'efecte.
 - **Límits:** recepta didàctica no assajada; no presentar-la com a resultat experimental.
 
 ### 31.5 — Construcció de sang seca
+- **Ubicació:** 31.5.
 - **Llegenda prevista:** «Seqüència pictòrica per representar sang seca amb variacions rogences, fosques i pardes.»
 - **Representació:** fases de base rogenca, modificació cromàtica i tractament controlat dels contorns.
 - **Funció didàctica:** mostrar una construcció gradual que conservi la lectura de sang seca.
 - **Límits:** no presentar el resultat com una recepta experimental ni establir una relació universal entre color i antiguitat.
 
 ### 31.8 — Errors freqüents en la representació de sang i fluids
+- **Ubicació:** 31.7.
 - **Llegenda prevista:** «Errors de distribució, volum, rastres, salpicadures i brillantor en la representació de fluids.»
 - **Representació:** exemples diagnòstics de sang massa uniforme, gotes sense volum, rastres rígids, salpicadures repetitives i excés de brillantor.
 - **Funció didàctica:** associar cada símptoma amb el criteri de correcció corresponent al capítol.
@@ -73,30 +83,35 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 ## C32 — Energia i efectes fantàstics
 
 ### 32.2 — Jerarquia visual d'una manifestació energètica
+- **Ubicació:** 32.2.
 - **Llegenda prevista:** «Organització de la forma principal, les zones d'intensitat i els elements secundaris d'un efecte energètic.»
 - **Representació:** esquema d'una manifestació amb forma dominant i elements subordinats, amb diferenciació d'intensitat.
 - **Funció didàctica:** establir una jerarquia de lectura que eviti dispersar l'atenció.
 - **Límits:** no imposar un nucli blanc, un halo ni una distribució de valors universals.
 
 ### 32.3 — Fluorescència, color convencional i aparença lluminosa
+- **Ubicació:** 32.2.4 i 32.4.1.
 - **Llegenda prevista:** «Diferències entre pintura convencional, pigment fluorescent i emissió simulada pictòricament.»
 - **Representació:** comparació de tres casos: color convencional, pintura fluorescent i representació d'una font lluminosa mitjançant contrast.
 - **Funció didàctica:** distingir el comportament del pigment de l'efecte visual d'emissió construït amb pintura.
 - **Límits:** no confondre fluorescència amb fosforescència ni amb OSL; no atribuir emissió real a una pintura convencional.
 
 ### 32.4 — Construcció d'una esfera d'energia
+- **Ubicació:** 32.3 i 32.5.
 - **Llegenda prevista:** «Seqüència de construcció d'una esfera d'energia: forma, organització cromàtica, intensificació i detalls.»
 - **Representació:** fases de construcció de la forma inicial, distribució cromàtica, intensificació i incorporació d'elements secundaris.
 - **Funció didàctica:** mostrar un ordre de treball que mantingui la forma principal llegible.
 - **Límits:** proposta didàctica, no resultat experimental; evitar que els detalls secundaris fragmentin la forma dominant.
 
 ### 32.5 — Estructura d'una descàrrega
+- **Ubicació:** 32.3.
 - **Llegenda prevista:** «Recorregut principal i ramificacions d'una descàrrega, amb variacions de gruix i intensitat.»
 - **Representació:** traçat principal, ramificacions irregulars i punts d'intensitat diferenciada.
 - **Funció didàctica:** explicar la construcció visual d'una descàrrega sense recórrer a patrons repetitius.
 - **Límits:** evitar simetria excessiva, bifurcacions mecàniques i repetició regular.
 
 ### 32.8 — Font energètica i il·luminació projectada
+- **Ubicació:** 32.2.4 i 32.6; remissió a C17.
 - **Llegenda prevista:** «Separació entre manifestació energètica, aparença d'emissió i llum rebuda per les superfícies pròximes.»
 - **Representació:** diagrama que identifiqui la font aparent, les superfícies receptores i les zones il·luminades.
 - **Funció didàctica:** aclarir que representar una font lluminosa i representar la llum que projecta són operacions diferents.
@@ -113,36 +128,42 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 ## C33 — Ceràmica i plàstics
 
 ### 33.1 — Comparació de cossos ceràmics
+- **Ubicació:** 33.2.1–33.2.2.
 - **Llegenda prevista:** «Comparació de ceràmica porosa, ceràmica compacta i porcellana segons l'estructura i l'aparença.»
 - **Representació:** tres cossos ceràmics diferenciats per estructura i aparença.
 - **Funció didàctica:** distingir el cos del material sense utilitzar la brillantor com a criteri únic.
 - **Límits:** no reduir la diferència a l'acabat superficial ni confondre el cos ceràmic amb l'esmalt.
 
 ### 33.2 — Ceràmica sense esmaltar i superfícies esmaltades
+- **Ubicació:** 33.2.1 i 33.2.3.
 - **Llegenda prevista:** «Canvis de continuïtat, textura i aparença entre una superfície ceràmica sense esmaltar i diverses superfícies esmaltades.»
 - **Representació:** comparació d'una superfície sense recobriment amb superfícies esmaltades.
 - **Funció didàctica:** mostrar l'efecte del recobriment sobre la lectura de la peça.
 - **Límits:** no confondre esmalt ceràmic amb vernís protector ni suggerir que tots els esmalts tenen la mateixa resposta.
 
 ### 33.5 — Construcció d'una superfície de terracota
+- **Ubicació:** 33.4.
 - **Llegenda prevista:** «Seqüència cromàtica d'una superfície de terracota: base, variacions rogences, ombres i aclarits.»
 - **Representació:** fases de construcció cromàtica de la superfície ceràmica càlida.
 - **Funció didàctica:** explicar la progressió tonal sense recórrer a una textura genèrica de pedra.
 - **Límits:** no afegir receptes o proporcions no descrites al capítol; no representar terracota com a roca.
 
 ### 33.6 — Construcció d'un esmalt acolorit
+- **Ubicació:** 33.5.
 - **Llegenda prevista:** «Construcció cromàtica d'un esmalt acolorit i organització dels reflexos sobre la superfície.»
 - **Representació:** superfície esmaltada acolorida, amb separació clara entre color de l'esmalt i distribució dels reflexos.
 - **Funció didàctica:** diferenciar el color del recobriment i el seu acabat superficial.
 - **Límits:** no confondre color amb brillantor ni introduir procediments d'envernissament aliens al capítol.
 
 ### 33.7 — Craquelat i pèrdua localitzada de l'esmalt
+- **Ubicació:** 33.6.
 - **Llegenda prevista:** «Diferències entre esmalt intacte, craquelat superficial i pèrdua localitzada del recobriment.»
 - **Representació:** tres estats comparables d'una superfície esmaltada.
 - **Funció didàctica:** distingir fissures superficials de fractures del cos ceràmic.
 - **Límits:** no representar el craquelat com una fractura estructural ni confondre'l amb una pèrdua de material.
 
 ### 33.9 — Reflexos sobre superfícies plàstiques
+- **Ubicació:** 33.7–33.8.
 - **Llegenda prevista:** «Distribució dels reflexos sobre superfícies plàstiques planes, corbes i amb relleus emmotllats.»
 - **Representació:** comparació de tres geometries amb distribucions de reflexos coherents.
 - **Funció didàctica:** mostrar com la geometria condiciona l'aparença de l'acabat.
@@ -159,24 +180,28 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 - **Condicions i límits:** una sola composició; conservar el mateix fons i les mateixes condicions en el detall comparatiu. No confondre esmerilat amb opacitat absoluta ni amb un simple acabat mat.
 
 ### 34.2 — Senyals visuals del vidre
+- **Ubicació:** 34.2.
 - **Llegenda prevista:** «Vores, reflexos, fons transmès, gruix i distorsió com a indicis visuals del vidre.»
 - **Representació:** superfície de vidre amb anotacions dels senyals que permeten reconèixer-la.
 - **Funció didàctica:** reunir els indicis visuals sense convertir-los en una recepta de pintura.
 - **Límits:** adaptar els senyals a la geometria; no perfilar uniformement tot el contorn.
 
 ### 34.3 — Construcció d'un panell de vidre transparent
+- **Ubicació:** 34.4.
 - **Llegenda prevista:** «Seqüència de construcció d'un panell transparent: fons, vores parcials, reflexos i accents de llum.»
 - **Representació:** seqüència d'una finestra o panell pla que conservi la lectura del fons.
 - **Funció didàctica:** mostrar com representar transparència sense omplir la superfície de blanc.
 - **Límits:** limitar els reflexos a zones justificades i preservar la informació del fons.
 
 ### 34.5 — Vidre acolorit
+- **Ubicació:** 34.5.
 - **Llegenda prevista:** «Comparació de vidres verd, blau, ambre i rogenc sense perdre els indicis de transparència.»
 - **Representació:** quatre exemples de vidre acolorit amb fons visible.
 - **Funció didàctica:** mostrar la variació cromàtica compatible amb la lectura de transparència.
 - **Límits:** no convertir el vidre acolorit en una superfície opaca ni uniformitzar-ne la transmissió.
 
 ### 34.9 — Esquerdes, fractures i fragments de vidre
+- **Ubicació:** 34.8.
 - **Llegenda prevista:** «Diferències entre una superfície esquerdada, una fractura extensa i fragments separats de vidre.»
 - **Representació:** tres estats de dany, amb línies de fractura i vores dels fragments diferenciades.
 - **Funció didàctica:** evitar que les esquerdes superficials, les fractures i els fragments es representin com el mateix fenomen.
@@ -193,30 +218,35 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 - **Condicions i límits:** preservar la diferència entre extensió física i pes perceptiu; no basar la jerarquia només en saturació ni reduir el mapa a una còpia de la miniatura.
 
 ### 35.4 — Harmonització i uniformitat
+- **Ubicació:** 35.3.
 - **Llegenda prevista:** «Comparació entre unitat cromàtica amb identitat material i modificació excessivament uniforme.»
 - **Representació:** dues miniatures o dues versions comparables: una amb colors relacionats però diferenciats i una altra amb uniformització excessiva.
 - **Funció didàctica:** distingir harmonització de pèrdua d'identitat material.
 - **Límits:** no presentar tota uniformitat com a error; contextualitzar-la segons l'objectiu visual.
 
 ### 35.5 — Integració cromàtica entre materials
+- **Ubicació:** 35.4.
 - **Llegenda prevista:** «Relacions cromàtiques compartides entre metall, cuir, teixit i pell, preservant la identitat de cada material.»
 - **Representació:** composició amb materials diferents i anotacions de les relacions cromàtiques que els connecten.
 - **Funció didàctica:** mostrar com crear unitat sense eliminar les diferències materials.
 - **Límits:** no igualar les textures, els acabats ni les respostes òptiques.
 
 ### 35.6 — Integració cromàtica de figura i peanya
+- **Ubicació:** 35.5.
 - **Llegenda prevista:** «Relació entre els colors dominants de la figura, els materials del terreny i els elements de la peanya.»
 - **Representació:** figura i peanya en una mateixa composició, amb les relacions cromàtiques principals assenyalades.
 - **Funció didàctica:** explicar com les dues parts poden funcionar com una composició comuna.
 - **Límits:** no exigir paletes idèntiques ni una fusió cromàtica completa.
 
 ### 35.8 — Correccions localitzades i globals
+- **Ubicació:** 35.7.
 - **Llegenda prevista:** «Comparació de l'abast d'una correcció localitzada i d'una intervenció cromàtica global.»
 - **Representació:** dues intervencions sobre una mateixa miniatura, amb les zones afectades delimitades.
 - **Funció didàctica:** mostrar la diferència d'abast i el risc d'alterar zones que ja funcionaven.
 - **Límits:** no suggerir que una intervenció global és sempre incorrecta; justificar la decisió segons el diagnòstic.
 
 ### 35.9 — Seqüència d'harmonització cromàtica
+- **Ubicació:** 35.8.
 - **Llegenda prevista:** «Procés d'anàlisi, diagnòstic, definició d'objectius, intervenció i avaluació de la integració cromàtica.»
 - **Representació:** seqüència revisable de les fases d'harmonització. La informació útil de la proposta 35.10 s'integra com a panell d'avaluació final i errors freqüents.
 - **Funció didàctica:** reunir el procés i els criteris de control en una figura integradora.
@@ -233,48 +263,56 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 ## C36 — Envelliment i desgast
 
 ### 36.1 — Envelliment, desgast i deteriorament
+- **Ubicació:** 36.2.1.
 - **Llegenda prevista:** «Diferències entre alteracions associades a l'exposició prolongada, pèrdua per contacte i dany superficial o estructural.»
 - **Representació:** tres superfícies amb alteracions diferenciades.
 - **Funció didàctica:** evitar que envelliment, desgast i deteriorament s'utilitzin com a sinònims.
 - **Límits:** no atribuir totes les alteracions a una mateixa causa ni establir un patró universal.
 
 ### 36.2 — Distribució del desgast segons la geometria i l'ús
+- **Ubicació:** 36.3.
 - **Llegenda prevista:** «Zones de contacte, vores exposades i superfícies protegides segons la geometria i la funció de l'objecte.»
 - **Representació:** objecte amb àrees d'ús i exposició diferenciades.
 - **Funció didàctica:** relacionar la distribució de les alteracions amb el contacte i la forma.
 - **Límits:** evitar patrons uniformes o decoratius sense relació amb l'ús.
 
 ### 36.3 — Abrasió, fregadures i ratllades
+- **Ubicació:** 36.4.1–36.4.3.
 - **Llegenda prevista:** «Comparació entre pèrdua superficial per abrasió, marca de fricció i alteració lineal per ratllada.»
 - **Representació:** tres alteracions sobre superfícies equivalents.
 - **Funció didàctica:** distingir mecanismes i aparences que no són intercanviables.
 - **Límits:** no representar totes les marques com a línies ni atribuir-les a una causa única.
 
 ### 36.4 — Impactes i danys localitzats
+- **Ubicació:** 36.4.4.
 - **Llegenda prevista:** «Danys per impacte de diferent intensitat, des de pèrdues superficials fins a alteracions més profundes.»
 - **Representació:** detalls de cops i pèrdues locals adaptats a la geometria de la peça.
 - **Funció didàctica:** relacionar la forma del dany amb la geometria i la intensitat de l'impacte.
 - **Límits:** no exagerar la profunditat ni repetir una mateixa forma de dany en tots els materials.
 
 ### 36.5 — Estructura de capes i pèrdua de recobriment
+- **Ubicació:** 36.5.1.
 - **Llegenda prevista:** «Secció simplificada del suport i dels recobriments, amb una zona de pèrdua que deixa visibles les capes inferiors.»
 - **Representació:** secció de suport, capes intermèdies pertinents i recobriment exterior.
 - **Funció didàctica:** mostrar què queda exposat quan es perd part de les capes superiors.
 - **Límits:** utilitzar només l'estructura de capes pertinent al cas; no presentar-la com una estratigrafia universal.
 
 ### 36.6 — Desconxats petits i pèrdues extenses
+- **Ubicació:** 36.5.2–36.5.3.
 - **Llegenda prevista:** «Comparació de pèrdues localitzades i desprendiments extensos segons forma, densitat i material exposat.»
 - **Representació:** superfícies amb danys de diferent extensió i distribució.
 - **Funció didàctica:** diferenciar pèrdues puntuals de zones àmplies de recobriment desprès.
 - **Límits:** evitar patrons regulars i mantenir coherència amb el material de base.
 
 ### 36.8 — Desgast en materials diferents
+- **Ubicació:** 36.7.
 - **Llegenda prevista:** «Exemples de desgast adaptats a metall pintat, fusta, cuir, teixit, ceràmica i plàstic.»
 - **Representació:** comparació de sis materials amb alteracions pròpies de cadascun.
 - **Funció didàctica:** mostrar que els signes de desgast depenen del material i no es poden aplicar com una recepta única.
 - **Límits:** no repetir les receptes específiques dels capítols de materials ni uniformitzar els danys.
 
 ### 36.9 — Seqüència de construcció d'una superfície desgastada
+- **Ubicació:** 36.8.
 - **Llegenda prevista:** «Progressió des de la superfície original fins al desgast construït, amb planificació, pèrdua de recobriment, marques secundàries i avaluació.»
 - **Representació:** seqüència de les fases descrites al capítol.
 - **Funció didàctica:** ordenar el procés i mostrar la relació entre alteracions principals i secundàries.
@@ -283,48 +321,56 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 ## C37 — Acabats i brillantor
 
 ### 37.2 — Reflexió especular i reflexió més difusa
+- **Ubicació:** 37.2.1.
 - **Llegenda prevista:** «Diferències en la distribució de la llum reflectida segons la resposta superficial.»
 - **Representació:** comparació esquemàtica de reflexos més definits i més estesos.
 - **Funció didàctica:** explicar com canvia la distribució de la reflexió.
 - **Límits:** una superfície mat no és una superfície sense reflexió; no confondre reflexió difusa amb absència de llum reflectida.
 
 ### 37.3 — Orientació, il·luminació i brillantor percebuda
+- **Ubicació:** 37.2.1–37.3.
 - **Llegenda prevista:** «Canvis en la brillantor percebuda d'una mateixa superfície segons l'orientació i la posició relativa de la llum i de l'observador.»
 - **Representació:** mateixa superfície en diferents orientacions o condicions d'observació.
 - **Funció didàctica:** mostrar que la brillantor percebuda no depèn exclusivament del producte aplicat.
 - **Límits:** mantenir constants les variables que no s'estiguin comparant; no atribuir el canvi a una sola causa.
 
 ### 37.4 — Relació entre acabat, textura i reflexos
+- **Ubicació:** 37.2.1–37.3.
 - **Llegenda prevista:** «Comparació de superfícies amb acabats i textures diferents i la distribució de reflexos corresponent.»
 - **Representació:** matriu comparativa que separi acabat, textura i resposta reflectant.
 - **Funció didàctica:** mostrar la relació entre variables sense reduir una a l'altra.
 - **Límits:** no presentar la rugositat com l'explicació única de totes les diferències de brillantor.
 
 ### 37.6 — Selecció de l'acabat segons materials i efectes
+- **Ubicació:** 37.4.
 - **Llegenda prevista:** «Exemples orientatius de selecció d'acabat per a teixit, cuir, metall, vidre, fusta i roca.»
 - **Representació:** comparació de materials i aparences superficials amb criteris de selecció.
 - **Funció didàctica:** relacionar l'acabat amb l'efecte visual i la funció de la superfície.
 - **Límits:** les associacions són orientatives, no regles universals ni equivalències fixes entre material i acabat.
 
 ### 37.7 — Diferenciació de materials mitjançant acabats selectius
+- **Ubicació:** 37.5.
 - **Llegenda prevista:** «Una mateixa composició amb materials diferenciats mitjançant una distribució selectiva dels acabats.»
 - **Representació:** miniatura o composició amb materials i graus de brillantor diferenciats.
 - **Funció didàctica:** mostrar com l'acabat contribueix a identificar superfícies diferents.
 - **Límits:** la brillantor és un indici més, no l'únic criteri d'identificació material.
 
 ### 37.8 — Distribució localitzada de la brillantor
+- **Ubicació:** 37.5.
 - **Llegenda prevista:** «Zones mates, setinades i brillants distribuïdes selectivament sobre una mateixa superfície.»
 - **Representació:** mapa d'acabats localitzats amb justificació funcional de cada zona.
 - **Funció didàctica:** mostrar que l'acabat es pot controlar per zones.
 - **Límits:** no distribuir els tres acabats arbitràriament ni com a codi universal.
 
 ### 37.9 — Seqüència d'anàlisi i selecció de l'acabat
+- **Ubicació:** 37.6.
 - **Llegenda prevista:** «Procés d'identificació del material, avaluació de la superfície, selecció de l'acabat i comprovació.»
 - **Representació:** seqüència de decisió i control.
 - **Funció didàctica:** ordenar la selecció de l'acabat a partir de l'observació i de l'objectiu visual.
 - **Límits:** ubicació corregida a la síntesi del procés; no presentar-la com a recepta única.
 
 ### 37.10 — Errors freqüents i criteris de correcció
+- **Ubicació:** 37.7.
 - **Llegenda prevista:** «Errors de brillantor excessiva, acabat uniforme, pèrdua de diferenciació material i aplicació selectiva inadequada.»
 - **Representació:** parelles diagnòstiques d'error i criteri de correcció.
 - **Funció didàctica:** facilitar l'avaluació crítica de l'acabat.
@@ -333,42 +379,49 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 ## C38 — Protecció i conservació
 
 ### 38.2 — Fases d'assecat i estabilització
+- **Ubicació:** 38.2.4.
 - **Llegenda prevista:** «Diferències entre assecat superficial, assecat al tacte i estabilització de la pel·lícula protectora.»
 - **Representació:** esquema de les fases d'evolució d'una pel·lícula de vernís.
 - **Funció didàctica:** distingir estats que no són equivalents.
 - **Límits:** no establir intervals temporals universals; seguir les indicacions del fabricant i les condicions ambientals.
 
 ### 38.4 — Selecció del sistema de protecció segons l'ús
+- **Ubicació:** 38.4.
 - **Llegenda prevista:** «Criteris de protecció per a miniatures d'exposició, de joc i peces amb elements delicats.»
 - **Representació:** comparació de tres contextos d'ús i les necessitats de conservació associades.
 - **Funció didàctica:** relacionar el sistema de protecció amb la manipulació i la fragilitat de la peça.
 - **Límits:** no prescriure un vernís únic per a tots els casos ni convertir els exemples en normes absolutes.
 
 ### 38.5 — Seqüència de preparació i inspecció
+- **Ubicació:** 38.5.
 - **Llegenda prevista:** «Comprovacions prèvies a l'aplicació: assecat, neteja, zones sensibles i compatibilitat.»
 - **Representació:** seqüència d'inspecció i preparació abans d'aplicar el protector.
 - **Funció didàctica:** evitar l'aplicació precipitada sense comprovar l'estat de la superfície.
 - **Límits:** no afegir proves o productes no descrits; la compatibilitat s'ha de verificar amb informació fiable.
 
 ### 38.6 — Aplicació amb pinzell, aerògraf i aerosol
+- **Ubicació:** 38.6.
 - **Llegenda prevista:** «Comparació dels sistemes d'aplicació del protector amb pinzell, aerògraf i aerosol.»
 - **Representació:** tres procediments amb característiques generals diferenciades.
 - **Funció didàctica:** distingir els sistemes d'aplicació i les seves implicacions operatives.
 - **Límits:** seguir les instruccions del fabricant; no incloure pressions, distàncies o proporcions universals.
 
 ### 38.7 — Distribució controlada i acumulació excessiva
+- **Ubicació:** 38.6 i 38.7.3.
 - **Llegenda prevista:** «Comparació d'una pel·lícula protectora distribuïda de manera controlada i d'acumulacions en cavitats i detalls.»
 - **Representació:** dues superfícies comparables amb distribució diferent del producte.
 - **Funció didàctica:** facilitar la detecció d'acumulacions que poden afectar la lectura de la peça.
 - **Límits:** no atribuir totes les acumulacions a una única causa ni presentar-les com a resultat d'un producte concret sense prova.
 
 ### 38.8 — Alteracions per incompatibilitat o aplicació incorrecta
+- **Ubicació:** 38.7.1–38.7.2.
 - **Llegenda prevista:** «Exemples d'alteracions possibles: terbolesa, canvis de brillantor, acumulacions, pèrdua de definició i afectació d'efectes especials.»
 - **Representació:** làmina diagnòstica de símptomes amb causes possibles diferenciades.
 - **Funció didàctica:** ajudar a identificar alteracions sense confondre observació i explicació causal.
 - **Límits:** no atribuir un defecte a una sola variable sense evidència; distingir símptoma, hipòtesi i causa comprovada.
 
 ### 38.10 — Seqüència integral de protecció i conservació
+- **Ubicació:** 38.8 i síntesi.
 - **Llegenda prevista:** «Procés de protecció des de l'avaluació inicial fins a l'aplicació, estabilització, emmagatzematge i revisió.»
 - **Representació:** diagrama del procés complet amb fases i punts de control.
 - **Funció didàctica:** integrar les operacions de protecció i conservació en una visió de conjunt.
@@ -377,42 +430,49 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 ## C39 — Diagnòstic i correcció
 
 ### 39.1 — Seqüència general de diagnòstic
+- **Ubicació:** 39.2.
 - **Llegenda prevista:** «Procés de diagnòstic: observació, identificació del símptoma, anàlisi de causes, selecció d'intervenció i avaluació.»
 - **Representació:** diagrama de decisió amb retorn a l'observació quan la intervenció no resol el problema.
 - **Funció didàctica:** ordenar el diagnòstic i mostrar que la correcció depèn de l'anàlisi prèvia.
 - **Límits:** no totes les observacions exigeixen intervenir; no representar una seqüència rígida i irreversible.
 
 ### 39.2 — Diferència entre símptoma, causa i correcció
+- **Ubicació:** 39.2.2–39.2.5.
 - **Llegenda prevista:** «Una mateixa alteració superficial pot tenir causes diferents i requerir decisions de correcció diferents.»
 - **Representació:** exemple ramificat d'un símptoma amb diverses causes possibles i intervencions associades.
 - **Funció didàctica:** evitar que l'aparença d'un defecte es confongui amb la seva causa.
 - **Límits:** no establir causalitat única sense comprovació.
 
 ### 39.3 — Inspecció d'una miniatura
+- **Ubicació:** 39.2.1.
 - **Llegenda prevista:** «Observació general, inspecció propera i il·luminació lateral com a nivells complementaris d'inspecció.»
 - **Representació:** mateixa miniatura observada a distància, de prop i amb llum lateral.
 - **Funció didàctica:** mostrar què aporta cada nivell d'observació.
 - **Límits:** l'ampliació no substitueix l'avaluació a la distància habitual de lectura.
 
 ### 39.4 — Classificació dels problemes habituals
+- **Ubicació:** 39.3.
 - **Llegenda prevista:** «Mapa de les famílies de problemes: suport, aplicació, color, il·luminació, textura, efectes, acabats i danys físics.»
 - **Representació:** mapa visual de les categories definides al capítol.
 - **Funció didàctica:** facilitar l'orientació inicial del diagnòstic.
 - **Límits:** conservar exactament les categories del text; no afegir ni ometre famílies.
 
 ### 39.5 — Nivells d'intervenció
+- **Ubicació:** 39.5.
 - **Llegenda prevista:** «Nivells d'intervenció des de l'ajust localitzat fins a la recuperació més àmplia, amb comparació de l'abast local i global.»
 - **Representació:** escala o matriu de nivells d'intervenció; integrar-hi com a panell la comparació localitzada/global de la proposta 39.6.
 - **Funció didàctica:** ajudar a seleccionar l'abast de la intervenció segons el diagnòstic.
 - **Límits:** els nivells no són una seqüència obligatòria ni impliquen que una intervenció més extensa sigui millor.
 
 ### 39.7 — Diagnòstic d'alteracions superficials
+- **Ubicació:** 39.7.
 - **Llegenda prevista:** «Símptomes superficials de dipòsits, textura irregular, pèrdua d'adherència i alteració de la brillantor.»
 - **Representació:** exemples esquemàtics de diferents alteracions superficials.
 - **Funció didàctica:** practicar la identificació del símptoma abans de formular-ne la causa.
 - **Límits:** no presentar els exemples com a resultats reals ni assignar una causa única sense evidència.
 
 ### 39.10 — Arbre de decisió: corregir o conservar
+- **Ubicació:** 39.5.1–39.5.2.
 - **Llegenda prevista:** «Criteris per decidir si convé conservar, integrar, corregir o reconstruir una zona.»
 - **Representació:** arbre de decisió que parteixi del diagnòstic i contempli la conservació com una opció vàlida.
 - **Funció didàctica:** evitar intervencions innecessàries i ajustar l'abast de la correcció.
@@ -429,6 +489,7 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 ## C1 — Introducció i ús del manual
 
 ### 1.2 — Classificació de la informació tècnica
+- **Ubicació:** apartat 1.5..
 - **Llegenda prevista:** «Quatre categories d'informació: fonament tècnic, dada del fabricant, proposta tècnica i resultat comprovat.»
 - **Representació:** esquema comparatiu de quatre blocs, amb una definició breu i diferenciada de cada categoria.
 - **Funció didàctica:** permetre identificar la naturalesa i la procedència de la informació emprada al manual.
@@ -437,6 +498,7 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 ## C2 — Inventari de les pintures
 
 ### 2.2 — Organització documental de la informació sobre les pintures
+- **Ubicació:** apartat 2.5..
 - **Llegenda prevista:** «Relació entre inventari, catàleg, fitxes individuals, caracterització tècnica i aplicació pràctica de les pintures.»
 - **Representació:** mapa de relacions entre el capítol 2, l'annex A, les fitxes, el capítol 3 i els capítols tècnics.
 - **Funció didàctica:** indicar on es troba cada tipus d'informació i com es connecten els recursos documentals.
@@ -445,18 +507,21 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 ## C3 — Propietats i comportament de les pintures
 
 ### 3.1 — Comportament d'opacitat i transparència de les pintures
+- **Ubicació:** apartat 3.1..
 - **Llegenda prevista:** «Comparació de pintures opaques, semitransparents i transparents sobre un mateix fons.»
 - **Representació:** mostres amb diferents graus d'ocultació del fons i cobertura de la capa.
 - **Funció didàctica:** distingir l'ocultació del fons, la transmissió visual i la cobertura pictòrica.
 - **Límits:** no convertir els comportaments en categories comercials rígides ni confondre opacitat, transparència, cobertura i uniformitat.
 
 ### 3.2 — Influència del fons en una mateixa capa de pintura
+- **Ubicació:** apartat 3.2.1..
 - **Llegenda prevista:** «Una mateixa capa de pintura transparent o semitransparent sobre fons blanc, gris i negre.»
 - **Representació:** tres panells equivalents que només variïn el color del fons.
 - **Funció didàctica:** mostrar com el fons modifica l'aparença de la capa i la lectura del seu color.
 - **Límits:** si no hi ha fotografies de mostres físiques documentades, identificar-ho com a esquema conceptual; no atribuir resultats a un producte concret.
 
 ### 3.3 — Distribució de la pintura sobre relleus i cavitats
+- **Ubicació:** apartat 3.3..
 - **Llegenda prevista:** «Distribució d'una pintura sobre zones elevades, planes i cavitats d'una superfície en relleu.»
 - **Representació:** esquema espacial o secció ampliada que mostri la distribució descrita per al producte Xpress Color.
 - **Funció didàctica:** explicar la relació entre geometria del suport i comportament funcional descrit pel fabricant.
@@ -465,36 +530,42 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 ## C4 — Teoria del color
 
 ### 4.3 — Mescla additiva RGB i mescla sostractiva CMY
+- **Ubicació:** apartats 4.3.2–4.3.3..
 - **Llegenda prevista:** «Comparació entre la mescla additiva de llum RGB i la mescla sostractiva CMY de pigments o colorants.»
 - **Representació:** dos esquemes independents però comparables: llum vermella, verda i blava; cian, magenta i groc.
 - **Funció didàctica:** evitar la confusió entre mescla de llum i mescla de pigments.
 - **Límits:** no suggerir que les pintures comercials reprodueixen un model ideal.
 
 ### 4.4 — Dimensions del color: matís, valor i croma
+- **Ubicació:** apartat 4.4..
 - **Llegenda prevista:** «Dimensions del color —matís, valor i croma— representades en un espai tridimensional i en tres escales independents.»
 - **Representació:** esquema inspirat en Munsell amb els tres eixos i escales separades de variació.
 - **Funció didàctica:** facilitar la comprensió i comparació de les tres dimensions.
 - **Límits:** no representar l'espai com un sòlid geomètric regular ni utilitzar croma com a sinònim universal de saturació.
 
 ### 4.6 — Harmonies cromàtiques
+- **Ubicació:** apartat 4.6..
 - **Llegenda prevista:** «Relacions cromàtiques monocromàtiques, anàlogues, complementàries i complementàries dividides.»
 - **Representació:** làmina de relacions sobre el cercle cromàtic RYB quan aquest sigui el model utilitzat al text.
 - **Funció didàctica:** facilitar la consulta visual de les relacions entre colors.
 - **Límits:** incloure només les harmonies definides al capítol; no presentar-les com a fórmules que garanteixin un resultat atractiu.
 
 ### 4.7 — Tipus de contrast cromàtic
+- **Ubicació:** apartat 4.7..
 - **Llegenda prevista:** «Comparació dels contrastos de matís, valor, croma, temperatura i context cromàtic.»
 - **Representació:** panells comparatius que aïllin cada tipus de contrast.
 - **Funció didàctica:** mostrar com els contrastos separen superfícies i estableixen jerarquia visual.
 - **Límits:** no confondre contrast de valor amb contrast de matís ni reduir la jerarquia a la saturació.
 
 ### 4.8 — Mescla i modificació cromàtica
+- **Ubicació:** apartat 4.8..
 - **Llegenda prevista:** «Quatre processos diferenciats: mescla física, modificació amb un tercer color, mescla òptica i superposició transparent.»
 - **Representació:** seqüència comparativa dels quatre processos sobre mostres esquemàtiques.
 - **Funció didàctica:** distingir processos que poden produir canvis visuals semblants però no són equivalents.
 - **Límits:** les mostres digitals són conceptuals, no proves experimentals de pintures reals.
 
 ### 4.9 — Planificació cromàtica d'una miniatura amb armadura blava
+- **Ubicació:** apartat 4.9..
 - **Llegenda prevista:** «Planificació d'una paleta per a una miniatura amb armadura blava: color dominant, secundaris, accents i relacions entre zones.»
 - **Representació:** cas aplicat anotat amb la intenció cromàtica i la distribució de colors.
 - **Funció didàctica:** mostrar com els conceptes del capítol es converteixen en una planificació cromàtica concreta.
@@ -503,12 +574,14 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 ## C5 — Il·luminació, volum, ombres i reflexos
 
 ### 5.4 — Orientació dels plans respecte de la font
+- **Ubicació:** apartat 5.3.1..
 - **Llegenda prevista:** «Diferents orientacions de superfície davant d'una mateixa font lluminosa i les normals geomètriques corresponents.»
 - **Representació:** diversos plans amb orientacions diferents; les normals s'han de representar com a referències perpendiculars a cada pla.
 - **Funció didàctica:** relacionar orientació de superfície i incidència de la llum.
 - **Límits:** la normal no és un raig de llum ni una trajectòria de propagació.
 
 ### 5.6 — Angle d'incidència i llei de la reflexió
+- **Ubicació:** apartat 5.3.2; remissió conceptual a 5.4.1..
 - **Identificadors integrats:** 5.6 (P1) i 5.14 (P3).
 - **Llegenda prevista:** «Angle d'incidència i angle de reflexió mesurats respecte de la normal geomètrica.»
 - **Ubicació de treball:** C5, apartat 5.3.2, amb connexió explícita amb la reflexió especular de 5.4.1.
@@ -517,36 +590,42 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 - **Límits:** no mesurar els angles respecte del pla ni sobrecarregar un únic esquema. La proposta 5.14 no es produirà com a figura independent.
 
 ### 5.7 — Il·luminació de superfícies planes i corbes
+- **Ubicació:** apartats 5.3.1 i 5.3.4..
 - **Llegenda prevista:** «Distribució de la il·luminació sobre un pla d'orientació constant i una superfície corba amb normals variables.»
 - **Representació:** comparació de seccions geomètriques sota condicions de llum equivalents.
 - **Funció didàctica:** relacionar els canvis d'orientació amb les variacions d'il·luminació.
 - **Límits:** no afirmar que qualsevol degradat demostra curvatura; considerar la font, l'entorn i el material.
 
 ### 5.11 — Bloqueig de llum i formació de l'ombra
+- **Ubicació:** apartat 5.5.1..
 - **Llegenda prevista:** «Relació espacial entre font lluminosa, objecte bloquejador i superfície receptora de l'ombra.»
 - **Representació:** esquema de font, objecte i superfície, amb bloqueig total o parcial.
 - **Funció didàctica:** mostrar la relació espacial que origina l'ombra.
 - **Límits:** no anticipar la classificació entre ombra pròpia i projectada.
 
 ### 5.12 — Ombra pròpia i ombra projectada
+- **Ubicació:** apartat 5.5.2..
 - **Llegenda prevista:** «Diferència entre l'ombra situada sobre l'objecte i l'ombra projectada sobre una altra superfície.»
 - **Representació:** dos panells amb una mateixa font i una geometria coherent.
 - **Funció didàctica:** evitar la confusió entre les dues localitzacions de l'ombra.
 - **Límits:** mantenir constants les condicions de comparació.
 
 ### 5.13 — Umbra i penombra
+- **Ubicació:** apartat 5.5.3..
 - **Llegenda prevista:** «Formació de l'umbra i la penombra quan una font extensa queda bloquejada parcialment.»
 - **Representació:** font extensa, objecte bloquejador i superfície receptora amb les dues regions identificades.
 - **Funció didàctica:** explicar el bloqueig complet i parcial de la font.
 - **Límits:** la penombra ha de correspondre al bloqueig parcial de la font, no a una gradació decorativa.
 
 ### 5.15 — Construcció visual del volum
+- **Ubicació:** apartat 5.7..
 - **Llegenda prevista:** «Senyals visuals que suggereixen profunditat i volum: llums, ombres, contorns, reflexos, orientació i superposició.»
 - **Representació:** comparació anotada entre un objecte tridimensional i la seva representació bidimensional.
 - **Funció didàctica:** mostrar com diferents senyals visuals contribueixen a la percepció del volum.
 - **Límits:** no atribuir totes les transicions a la curvatura ni confondre fenomen físic i interpretació pictòrica.
 
 ### 5.16 — Anàlisi d'il·luminació d'una miniatura
+- **Ubicació:** apartat 5.8.4..
 - **Llegenda prevista:** «Anàlisi d'una miniatura: font principal, plans, llum directa, zones protegides, ombres i aportacions de l'entorn.»
 - **Representació:** miniatura esquemàtica anotada amb els elements d'il·luminació rellevants.
 - **Funció didàctica:** integrar els fonaments del capítol en un cas pràctic d'observació.
@@ -555,30 +634,35 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 ## C6 — Materials i aparença visual
 
 ### 6.1 — Material, aparença i representació pictòrica
+- **Ubicació:** apartat 6.1..
 - **Llegenda prevista:** «Del material real als indicis visuals percebuts i a la seva representació pictòrica simplificada.»
 - **Representació:** esquema de tres nivells connectats.
 - **Funció didàctica:** mostrar que representar un material consisteix a comunicar-ne els indicis visuals rellevants, no a reproduir-ne la composició física.
 - **Límits:** no suggerir que l'aparença permet deduir sempre la composició del material.
 
 ### 6.4 — Respostes òptiques dels materials
+- **Ubicació:** apartat 6.4..
 - **Llegenda prevista:** «Comparació de superfícies amb reflexos definits, estesos, fragmentats o poc perceptibles.»
 - **Representació:** mostres de diferents respostes superficials i materials.
 - **Funció didàctica:** mostrar com la resposta òptica contribueix al reconeixement dels materials.
 - **Límits:** no incloure normals, angles ni lleis físiques de reflexió; evitar duplicar C5 i els acabats de C37.
 
 ### 6.5 — Opacitat, transparència i translucidesa
+- **Ubicació:** apartats 6.4.1–6.4.2..
 - **Llegenda prevista:** «Informació del fons conservada, difuminada o no transmesa a través de materials transparents, translúcids i opacs.»
 - **Representació:** tres materials davant d'un mateix fons.
 - **Funció didàctica:** visualitzar quina informació es conserva, es difumina o desapareix en travessar el material.
 - **Límits:** distingir transmissió de llum i visibilitat d'una imatge; no confondre amb la cobertura de pintura del C3.
 
 ### 6.7 — Identificació de materials mitjançant senyals combinades
+- **Ubicació:** apartat 6.5.1..
 - **Llegenda prevista:** «Materials diferents que comparteixen un indici visual però es diferencien per estructura, textura i resposta òptica.»
 - **Representació:** comparació de materials amb indicis compartits i indicis diferenciadors.
 - **Funció didàctica:** demostrar que la identificació depèn de la combinació de senyals.
 - **Límits:** cap característica aïllada s'ha de presentar com a prova definitiva.
 
 ### 6.8 — Simplificació i jerarquia visual a escala miniatura
+- **Ubicació:** apartat 6.6..
 - **Llegenda prevista:** «De la referència material a la selecció dels indicis essencials i la seva representació simplificada a escala miniatura.»
 - **Representació:** seqüència referència–selecció–representació.
 - **Funció didàctica:** mostrar com adaptar la informació visual sense saturar la superfície de detalls.
@@ -587,12 +671,14 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 ## C7 — Eines, preparació i control
 
 ### 7.2 — Components i característiques funcionals del pinzell
+- **Ubicació:** apartat 7.3.1..
 - **Llegenda prevista:** «Components del pinzell i formes de punta: pèl o filament, virolla i mànec.»
 - **Representació:** esquema anatòmic del pinzell i comparació de diferents puntes.
 - **Funció didàctica:** identificar els components i comprendre criteris bàsics de selecció.
 - **Límits:** no atribuir superioritat universal a un material ni associar mida directament amb precisió.
 
 ### 7.4 — Comparació de sistemes d'aplicació
+- **Ubicació:** apartat 7.3.7..
 - **Llegenda prevista:** «Aplicació manual amb pinzell, pulverització amb aerògraf i aplicació amb aerosol pressuritzat.»
 - **Ubicació corregida:** C7, apartat 7.3.7 (no 7.3.8).
 - **Representació:** tres panells amb el principi funcional de cada sistema.
@@ -600,18 +686,21 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 - **Límits:** no afegir pressions, distàncies o valors universals.
 
 ### 7.5 — Seqüència de preparació d'una miniatura
+- **Ubicació:** apartat 7.4..
 - **Llegenda prevista:** «Inspecció, eliminació de rebaves i línies de motlle, neteja, muntatge, correcció de juntes i comprovació final.»
 - **Representació:** seqüència d'acondicionament del suport amb un detall esquemàtic abans/després d'eliminar una imperfecció.
 - **Funció didàctica:** ordenar la preparació i mostrar quins defectes cal detectar.
 - **Límits:** els detalls abans/després han de ser esquemàtics o documentats; no atribuir defectes a productes sense prova.
 
 ### 7.6 — Control de la imprimació
+- **Ubicació:** apartat 7.5..
 - **Llegenda prevista:** «Comparació de cobertura insuficient, adequada i excessiva i de la conservació del detall.»
 - **Representació:** tres estats de cobertura sobre geometries equivalents.
 - **Funció didàctica:** facilitar la detecció de problemes en la preparació del suport.
 - **Límits:** si es mostren productes reals, calen mostres comparables documentades; altrament, esquema conceptual.
 
 ### 7.7 — Preparació operativa de pintures
+- **Ubicació:** apartat 7.6..
 - **Llegenda prevista:** «Comprovació del producte, homogeneïtzació, dosificació, prova i ajust de consistència quan correspongui.»
 - **Representació:** seqüència operativa amb les accions diferenciades.
 - **Funció didàctica:** evitar que homogeneïtzació, dosificació i dilució s'interpretin com una mateixa operació.
@@ -620,12 +709,14 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 ## C11 — Rentats, tintes i pigments
 
 ### 11.1 — Diferència entre rentat, tinta i pigment en pols
+- **Ubicació:** apartat 11.1..
 - **Llegenda prevista:** «Comparació de la naturalesa, presentació i comportament del rentat, la tinta i el pigment en pols.»
 - **Representació:** tres famílies de procediment amb els seus trets diferenciadors.
 - **Funció didàctica:** distingir productes i procediments que no són equivalents.
 - **Límits:** no atribuir una composició química única a tots els productes d'una família.
 
 ### 11.3 — Rentat general i rentat localitzat
+- **Ubicació:** apartats 11.2.3–11.2.4..
 - **Identificadors integrats:** 11.3 (P1) i 11.2 (P2).
 - **Llegenda prevista:** «Comparació entre l'aplicació general d'un rentat i la seva aplicació localitzada sobre relleus i cavitats.»
 - **Representació:** geometries equivalents amb aplicació extensa i aplicació localitzada; incloure el panell de distribució sobre relleus de 11.2.
@@ -633,18 +724,21 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 - **Límits:** no representar acumulacions involuntàries com a resultat desitjat; adaptar el comportament a la geometria i al producte.
 
 ### 11.5 — Aplicació de pigments en sec
+- **Ubicació:** apartats 11.4.2 i 11.7.4..
 - **Llegenda prevista:** «Seqüència d'aplicació de pigment sec: càrrega, dipòsit, distribució i retirada de l'excés.»
 - **Representació:** quatre fases consecutives del procediment.
 - **Funció didàctica:** explicar el control de la quantitat i la distribució del pigment.
 - **Límits:** distingir l'aplicació en sec de la dispersió o mescla; no simular mostres reals sense proves.
 
 ### 11.6 — Pigment sec i pigment fixat
+- **Ubicació:** apartats 11.4.5 i 11.7.5..
 - **Llegenda prevista:** «Comparació de l'aparença i la distribució del pigment abans i després de la fixació.»
 - **Representació:** dues mostres equivalents abans i després d'aplicar un fixador.
 - **Funció didàctica:** mostrar que la fixació pot modificar l'aparença i la permanència del pigment.
 - **Límits:** només presentar-ho com a resultat real amb fotografies de proves documentades; altrament, esquema conceptual sense atribució a un producte concret.
 
 ### 11.8 — Errors freqüents en rentats, tintes i pigments
+- **Ubicació:** apartat 11.8..
 - **Llegenda prevista:** «Errors de rentat, acumulació, intensitat de tinta, distribució de pigment i canvis després de la fixació.»
 - **Representació:** làmina diagnòstica amb excés de rentat, manca de concentració a cavitats, acumulacions involuntàries, tinta massa intensa, pigment irregular i dipòsits massa uniformes.
 - **Funció didàctica:** relacionar símptomes amb criteris de correcció.

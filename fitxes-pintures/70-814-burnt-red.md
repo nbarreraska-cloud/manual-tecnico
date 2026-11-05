@@ -28,14 +28,14 @@ La documentació oficial situa aquesta referència dins de Model Color. No s'ha 
 
 ## 4. Presència i funció dins del manual
 
-Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n reprodueix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
+Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n resumeix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
 
-- **Capítol 20:** `| Burnt Red | 70.814 | Matisos rogencs |`
-- **Capítol 21:** `| Burnt Red | 70.814 | Variacions rogenques |`
-- **Capítol 23:** `| Burnt Red | 70.814 | Rojos apagats i variacions càlides |`
-- **Capítol 24:** `| Burnt Red | 70.814 |`
-- **Capítol 32:** `| Vermells i taronges | Evil Red (72.112), Hot Orange (72.- **Capítol 22:** `| Burnt Red | 70.814 | Variacions rogenques |`
-009), Burnt Red (70.814), Seraph Red (72.479) |`
+- **Capítol 20:** Matisos rogencs (funció indicada a la taula).
+- **Capítol 21:** Variacions rogenques (funció indicada a la taula).
+- **Capítol 22:** Variacions rogenques (funció indicada a la taula).
+- **Capítol 23:** Rojos apagats i variacions càlides (funció indicada a la taula).
+- **Capítol 24:** undefined (funció indicada a la taula).
+- **Capítol 32:** menció contextual de Burnt Red (70.814) al text del capítol; no és una fila de recepta.
 
 Capítols amb aparicions identificades: C20, C21, C22, C23, C24, C32.
 

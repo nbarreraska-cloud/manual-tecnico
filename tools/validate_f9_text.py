@@ -36,7 +36,7 @@ def visible_text(markdown):
 
 
 def words(text):
-    return re.findall(r"[^\W_]+(?:[-’'][^\W_]+)*", text.casefold(), flags=re.UNICODE)
+    return re.findall(r"[^\W_]+", text.casefold(), flags=re.UNICODE)
 
 
 def iter_body_blocks(document):

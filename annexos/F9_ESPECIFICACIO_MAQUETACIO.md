@@ -65,3 +65,25 @@ La revisió visual global de les 352 pàgines de la versió de comprovació amb 
 **Límits coneguts:** aquesta fase és deliberadament textual i no incorpora imatges. La inspecció de pàgina sencera no equival a una correcció tipogràfica minuciosa de cada cel·la de cada taula. La paginació s'ha de recalcular quan s'incorporin imatges en una fase posterior. L'índex és un camp automàtic de Word i pot requerir actualització després de canvis de contingut o paginació.
 
 **Resultat:** F9 tancada. No s'ha modificat `main`; no s'ha iniciat F10 ni cap altra fase posterior.
+
+
+## 9. PDF de referència i auditoria de sortida — 05/11/2026
+
+Després de la inspecció visual s'ha detectat una ruptura de fila en una taula de l'Annex B: la fila «Perfilat de vores» quedava dividida entre dues pàgines i el fragment de continuació perdia el contingut de la primera cel·la. S'ha corregit el generador perquè les 1.385 files de les 159 taules es mantinguin senceres en els salts de pàgina mitjançant la propietat de maquetació `cantSplit`. La correcció no altera cap text, dada, recepta ni estructura de taula.
+
+La nova generació ha superat els workflows de Word i PDF:
+
+- Workflow PDF: execució `42084879151`, conclusió `success`, commit `695bbba398d3d995397cb731c847a508cccd0cb2`.
+- Artefacte PDF: `Manual-tecnic-pintura-miniatures-F9-PDF`, ID `13443305349`.
+- PDF de 326 pàgines A4, 7.614.626 bytes, generat amb LibreOffice 26.2.6.3; PDF etiquetat i sense xifrar.
+- Índex actualitzat a les pàgines 2–11; el cos comença a la pàgina 12. L'índex inclou els capítols, els annexos i els quatre grups de fitxes de l'Annex F. No hi queda el text provisional d'actualització.
+- Estructura DOCX: 39 capítols, 159 taules, 48 fitxes, 336 seccions de fitxa i quatre grups comercials. Les 1.385 files tenen activada la protecció contra divisió entre pàgines.
+- L'auditoria de fidelitat DOCX continua amb 55 fitxers font, 174.623 paraules font i 174.682 paraules al cos del DOCX; es preserven multiplicitats i ordre.
+- La comparació de text PDF–DOCX no detecta pèrdues de contingut font. Les úniques diferències de tokens corresponen al text provisional del camp de l'índex, eliminat en actualitzar-lo.
+- S'han inspeccionat els fulls de contacte de les 326 pàgines i mostres ampliades de portada, índex, taules d'annex i fitxes. No s'han detectat pàgines en blanc o pràcticament buides, ni la ruptura de fila observada abans de la correcció.
+
+La paginació varia segons la versió de LibreOffice: les conversions de contrast amb 25.2.3.2 han produït 352–353 pàgines i alguna continuació molt curta; la versió de referència és l'artefacte de GitHub Actions generat amb 26.2.6.3, que presenta un flux més compacte sense pàgines pràcticament buides. No s'ha afegit espaiat ni contingut per perseguir una xifra de pàgines. El rang de 350–375 continua sent orientatiu, no un requisit que justifiqui empitjorar la composició.
+
+**Límits:** la inspecció visual global i les mostres ampliades no equivalen a una correcció manual individual de cada cel·la. La versió és textual i sense imatges; quan s'integrin imatges en una fase posterior, caldrà regenerar el PDF, actualitzar l'índex i repaginar.
+
+**Resultat:** F9 queda tancada en el seu abast aprovat. No s'ha modificat `main` i no s'ha iniciat F10.

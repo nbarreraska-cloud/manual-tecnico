@@ -94,4 +94,9 @@ La referència actual és d'aproximadament 300 pàgines per als 39 capítols sen
 
 **F8 — resultat:** auditoria textual completada. S'han comprovat els 39 títols i l'ordre dels capítols, la correspondència entre fitxers i compilació (38 coincidències exactes i una discrepància ortogràfica a C28, corregida), la numeració, les taules, els residus editorials, els annexos A–E, les 48 fitxes i els 49 destinataris interns de l'Annex A. La correcció de C28 normalitza dues aparicions de «gema» a «gemma». No s'han identificat incidències estructurals addicionals. Les receptes i les fitxes continuen sense validació experimental. El registre detallat és `annexos/auditoria_F8_2026-11-05.md`.
 
-**Següent acció:** iniciar F9, maquetació Word textual completa sense imatges, amb 39 capítols i annexos A–F. Les 48 fitxes s'incorporaran després de l'Annex E com a Annex F independent. No iniciar la selecció/producció gràfica ni inserir imatges durant F9.
+**F9 — iniciada (05/11/2026):** especificació registrada a `annexos/F9_ESPECIFICACIO_MAQUETACIO.md`; generador Word a `tools/generate_f9_docx.py`; workflow manual a `.github/workflows/generate-f9-docx.yml`. Abast: 39 capítols i annexos A–F, amb 48 fitxes compactes i íntegres a F. La generació real del DOCX i la revisió visual encara resten pendents; F9 no es declara completada. No iniciar F10 ni inserir imatges durant F9.
+
+
+## 7. Registre d'inici de F9 — 05/11/2026
+
+F9 s'ha iniciat sense modificar contingut tècnic aprovat. La composició i el procés de generació queden definits a annexos/F9_ESPECIFICACIO_MAQUETACIO.md. El generador tools/generate_f9_docx.py valida abans de crear el Word els 39 capítols, els cinc annexos A–E, les 48 fitxes i les set seccions de cada fitxa. El workflow .github/workflows/generate-f9-docx.yml permet executar la compilació i obtenir el DOCX com a artefacte. La generació real i la revisió visual encara no s'han completat.

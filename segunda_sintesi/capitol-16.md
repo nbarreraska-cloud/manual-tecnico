@@ -393,22 +393,3 @@ L'objectiu és integrar els criteris del capítol en una representació metàl·
 ## Síntesi del capítol
 
 El NMM construeix l'aparença metàl·lica amb pintures convencionals mitjançant una organització intencionada de valors, contrastos, colors i reflexos. La geometria, l'orientació i l'entorn determinen el patró que convé representar. El procediment parteix de l'anàlisi de la peça i de la planificació tonal i cromàtica, continua amb la construcció de regions fosques, intermèdies i clares, i acaba amb la integració i l'avaluació. No hi ha una recepta ni un patró universal: cal adaptar-los a cada superfície i a la seva escala.
-
-## Figures proposades per a la fase gràfica final
-
-1. Comparació entre aparença metàl·lica i no metàl·lica.
-2. Influència de la geometria en superfícies planes, corbes, cilíndriques i esfèriques.
-3. Patrons possibles de reflexos, identificats com a exemples i no com a regles.
-4. Mapa tonal d'una peça metàl·lica.
-5. Famílies cromàtiques fredes, càlides i vermelloses.
-6. Construcció progressiva des de la base fins als reflexos i accents.
-7. Adaptació dels reflexos a una placa, un cilindre i una fulla d'espasa.
-8. Errors freqüents i procediments de correcció.
-
-## Registre editorial
-
-- Estructura: deu apartats, síntesi i sis exercicis.
-- Enfocament: representació de superfícies metàl·liques mitjançant pintures convencionals.
-- Delimitació: el capítol 16 desenvolupa el procediment general NMM; el capítol 19 recull les receptes específiques dels metalls.
-- Criteri central: el contrast per si sol no produeix aparença metàl·lica; els reflexos han de ser coherents amb la geometria i l'entorn.
-- Estat: síntesi basada en el document de referència. No es presenten les propostes com a resultats de proves físiques.

@@ -583,24 +583,3 @@ Els exercicis permeten practicar l'anàlisi de la font, la selecció de les supe
 ## Síntesi del capítol
 
 L'OSL representa una font emissora i la influència que exerceix sobre les superfícies pròximes. La coherència depèn de la relació espacial entre font, orientació, exposició, obstacles, geometria i material. El procediment exigeix identificar la font, seleccionar les superfícies receptores, planificar valors i colors, aplicar la influència de manera selectiva i integrar-la amb la il·luminació general. No equival a crear un halo: la qualitat depèn de la relació recognoscible entre l'origen de la llum i les seves conseqüències visuals.
-
-## Figures proposades per a la fase gràfica final
-
-1. Diferència entre font emissora, superfície il·luminada i reflex localitzat.
-2. Posició de la font i distribució de les superfícies receptores.
-3. Geometria, orientació i bloqueig de la llum.
-4. Jerarquia de valors entre font, zona d'influència i transició.
-5. Relació entre el color de la font i els diferents colors locals.
-6. Pèrdua progressiva d'influència segons exposició i distància, sense proporcions universals.
-7. Diferència entre il·luminació general i reflexos en superfícies mates i brillants.
-8. Seqüència de construcció i integració de l'OSL.
-9. Exemples d'ombres projectades i zones protegides.
-10. Errors freqüents: halo sense font, distribució uniforme i pèrdua de geometria.
-
-## Registre editorial
-
-- Estructura: deu apartats, síntesi i sis exercicis.
-- Enfocament: representació de fonts emissores i de la seva influència sobre l'entorn.
-- Delimitacions: fonaments generals al capítol 5; transparències al 14; NMM al 16; receptes de foc i energia als capítols 30 i 32.
-- Criteri central: l'OSL exigeix coherència espacial entre font, superfícies receptores, geometria i entorn.
-- Estat: síntesi basada en el document de referència. No es presenten les propostes com a resultats de proves físiques.

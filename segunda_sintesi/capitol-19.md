@@ -460,22 +460,3 @@ Abans de corregir, cal identificar si el problema prové de la cobertura, la dis
 ## Síntesi del capítol
 
 La representació de metalls exigeix coordinar color, reflexos, ombres i geometria. Es desenvolupen cinc materials —acer, plata, or, coure i bronze— mitjançant propostes TMM adaptades a les quatre pintures metàl·liques disponibles i a les modificacions convencionals de la paleta. El coure i el bronze requereixen construir la seva dominant amb bases metàl·liques alternatives perquè no hi ha pintures específiques d'aquests materials dins de les 48 referències. Les receptes són propostes que cal comprovar i ajustar en superfícies d'assaig. TMM i NMM són enfocaments diferents; les receptes del primer es desenvolupen aquí i el procediment general del segon, al capítol 16. La selecció ha de respondre al material, l'acabat, la geometria i el resultat buscat.
-
-## Figures proposades per a la fase gràfica final
-
-1. Comparació de les quatre pintures metàl·liques disponibles.
-2. Diferències visuals entre acer, plata, or, coure i bronze.
-3. Construcció TMM d'acer i plata.
-4. Construcció TMM d'or.
-5. Construcció de coure i bronze amb modificacions cromàtiques.
-6. Comparació entre TMM i NMM.
-7. Variacions d'acabat: polit, setinat i envellit.
-8. Integració de diversos metalls en una mateixa miniatura.
-9. Errors freqüents i correccions per a cada metall.
-
-## Registre editorial
-
-- Estructura: deu apartats, síntesi i set exercicis.
-- Enfocament: receptes TMM per a cinc metalls amb la paleta de 48 pintures.
-- Delimitació: el procediment general NMM correspon al capítol 16; la corrosió i les pàtines, al 28; el desgast, al 36; el diagnòstic general, al 39.
-- Criteri tècnic: les receptes són propostes orientatives, no resultats comprovats. No s'afegeixen proporcions no especificades ni s'incorporen pintures fora de la paleta de referència.

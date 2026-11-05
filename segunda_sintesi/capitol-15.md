@@ -252,22 +252,3 @@ En acabar, comprovar la llegibilitat, la jerarquia tonal, la coherència de les 
 ## Síntesi del capítol
 
 La il·luminació aplicada requereix analitzar la geometria i la funció dels elements, seleccionar un esquema coherent i traduir-lo en una jerarquia de valors. Els mapes d'il·luminació i de valors permeten anticipar les decisions, però no són equivalents ni constitueixen receptes fixes. Durant l'execució cal revisar el resultat des de diferents distàncies i ajustar les zones que ho necessitin. No hi ha una direcció lumínica ni una proporció de llums i ombres universal: la solució depèn de la miniatura, la intenció visual i la llegibilitat del conjunt.
-
-## Figures proposades per a la fase gràfica final
-
-1. Anàlisi de la geometria, els volums i les superfícies principals.
-2. Comparació de diferents direccions d'il·luminació sobre una mateixa miniatura.
-3. Mapa de valors amb nivells funcionals, sense associar-los a mescles universals.
-4. Comparació entre mapa d'il·luminació i mapa de valors.
-5. Planificació per zones de la figura.
-6. Distribució uniforme i distribució jerarquitzada del contrast.
-7. Exemples de coherència i contradicció lumínica, diferenciant els errors de les simplificacions deliberades.
-8. Procés integral des de l'anàlisi inicial fins a l'avaluació.
-
-## Registre editorial
-
-- Estructura: deu apartats, síntesi i sis exercicis.
-- Enfocament: anàlisi, selecció de l'esquema, jerarquia tonal, mapes, planificació per zones, aplicació i avaluació.
-- Delimitació: els fonaments físics i perceptius corresponen al capítol 5; la teoria del color, al capítol 4; les tècniques d'aplicació, als capítols corresponents. Aquest capítol no les repeteix.
-- Criteri central: no hi ha una direcció de llum, una proporció de llums i ombres ni una escala tonal universal.
-- Estat de verificació: síntesi basada en el contingut disponible del document de referència. Les receptes i els resultats no es presenten com a proves físiques verificades.

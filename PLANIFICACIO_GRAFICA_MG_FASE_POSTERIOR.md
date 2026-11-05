@@ -219,3 +219,97 @@ Les deu figures següents queden reservades per a la fase gràfica final. No s'h
 8. **Distribució localitzada de la brillantor.** Mostrar una superfície amb zones mates, satinades i brillants, explicant com es pot distribuir l'acabat selectivament.
 9. **Seqüència d'anàlisi i selecció de l'acabat.** Representar la identificació del material, l'avaluació de la superfície, la selecció de l'acabat i la comprovació del resultat.
 10. **Errors freqüents i resultats corregits.** Comparar una miniatura amb brillantor excessiva, acabat uniforme, pèrdua de diferenciació material i aplicació selectiva incorrecta amb versions on l'acabat està millor distribuït.
+
+
+---
+
+## C15 — Propostes elaborades durant la tercera síntesi
+
+> Material de treball incorporat durant la síntesi; no consta com a proposta gràfica del Word original.
+
+## Figures proposades per a la fase gràfica final
+
+1. Anàlisi de la geometria, els volums i les superfícies principals.
+2. Comparació de diferents direccions d'il·luminació sobre una mateixa miniatura.
+3. Mapa de valors amb nivells funcionals, sense associar-los a mescles universals.
+4. Comparació entre mapa d'il·luminació i mapa de valors.
+5. Planificació per zones de la figura.
+6. Distribució uniforme i distribució jerarquitzada del contrast.
+7. Exemples de coherència i contradicció lumínica, diferenciant els errors de les simplificacions deliberades.
+8. Procés integral des de l'anàlisi inicial fins a l'avaluació.
+
+
+---
+
+## C16 — Propostes elaborades durant la tercera síntesi
+
+> Material de treball incorporat durant la síntesi; no consta com a proposta gràfica del Word original.
+
+## Figures proposades per a la fase gràfica final
+
+1. Comparació entre aparença metàl·lica i no metàl·lica.
+2. Influència de la geometria en superfícies planes, corbes, cilíndriques i esfèriques.
+3. Patrons possibles de reflexos, identificats com a exemples i no com a regles.
+4. Mapa tonal d'una peça metàl·lica.
+5. Famílies cromàtiques fredes, càlides i vermelloses.
+6. Construcció progressiva des de la base fins als reflexos i accents.
+7. Adaptació dels reflexos a una placa, un cilindre i una fulla d'espasa.
+8. Errors freqüents i procediments de correcció.
+
+
+---
+
+## C17 — Propostes elaborades durant la tercera síntesi
+
+> Material de treball incorporat durant la síntesi; no consta com a proposta gràfica del Word original.
+
+## Figures proposades per a la fase gràfica final
+
+1. Diferència entre font emissora, superfície il·luminada i reflex localitzat.
+2. Posició de la font i distribució de les superfícies receptores.
+3. Geometria, orientació i bloqueig de la llum.
+4. Jerarquia de valors entre font, zona d'influència i transició.
+5. Relació entre el color de la font i els diferents colors locals.
+6. Pèrdua progressiva d'influència segons exposició i distància, sense proporcions universals.
+7. Diferència entre il·luminació general i reflexos en superfícies mates i brillants.
+8. Seqüència de construcció i integració de l'OSL.
+9. Exemples d'ombres projectades i zones protegides.
+10. Errors freqüents: halo sense font, distribució uniforme i pèrdua de geometria.
+
+
+---
+
+## C18 — Propostes elaborades durant la tercera síntesi
+
+> Material de treball incorporat durant la síntesi; no consta com a proposta gràfica del Word original.
+
+## Figures proposades per a la fase gràfica final
+
+1. Mapa del procés integral: relació entre anàlisi, planificació, selecció, execució, control i avaluació.
+1. Fitxa d'anàlisi inicial de la miniatura.
+2. Esquema de planificació cromàtica, tonal i lumínica.
+3. Arbre de selecció de tècniques segons l'objectiu visual.
+4. Diagrama de dependències i alternatives de seqüenciació, sense ordre universal.
+5. Comparació entre organització per zones, materials i fases.
+6. Cicle de control: execució, observació, avaluació, ajust i continuació.
+7. Fitxa de control i avaluació integral.
+8. Exemple de registre de decisions i modificacions.
+
+
+---
+
+## C19 — Propostes elaborades durant la tercera síntesi
+
+> Material de treball incorporat durant la síntesi; no consta com a proposta gràfica del Word original.
+
+## Figures proposades per a la fase gràfica final
+
+1. Comparació de les quatre pintures metàl·liques disponibles.
+2. Diferències visuals entre acer, plata, or, coure i bronze.
+3. Construcció TMM d'acer i plata.
+4. Construcció TMM d'or.
+5. Construcció de coure i bronze amb modificacions cromàtiques.
+6. Comparació entre TMM i NMM.
+7. Variacions d'acabat: polit, setinat i envellit.
+8. Integració de diversos metalls en una mateixa miniatura.
+9. Errors freqüents i correccions per a cada metall.

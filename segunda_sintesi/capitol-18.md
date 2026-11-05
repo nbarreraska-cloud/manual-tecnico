@@ -600,23 +600,3 @@ Les fitxes següents es poden adaptar a la complexitat de la peça.
 ## Síntesi del capítol
 
 La planificació integral coordina l'anàlisi de la miniatura, la definició d'objectius, les decisions cromàtiques i lumíniques, la selecció de recursos, la seqüenciació i l'avaluació. No hi ha un ordre universal: les operacions depenen de la geometria, els materials, l'accessibilitat i la compatibilitat. El pla ha de ser flexible i revisar-se en punts de control. La correcció ha de respondre a la causa del problema i ser proporcional. La documentació de les decisions rellevants facilita comprendre i millorar el procés.
-
-## Figures proposades per a la fase gràfica final
-
-1. Mapa del procés integral: relació entre anàlisi, planificació, selecció, execució, control i avaluació.
-1. Fitxa d'anàlisi inicial de la miniatura.
-2. Esquema de planificació cromàtica, tonal i lumínica.
-3. Arbre de selecció de tècniques segons l'objectiu visual.
-4. Diagrama de dependències i alternatives de seqüenciació, sense ordre universal.
-5. Comparació entre organització per zones, materials i fases.
-6. Cicle de control: execució, observació, avaluació, ajust i continuació.
-7. Fitxa de control i avaluació integral.
-8. Exemple de registre de decisions i modificacions.
-
-## Registre editorial
-
-- Estructura: deu apartats, síntesi i sis exercicis.
-- Eines de consulta: fitxa inicial, registre de seqüenciació i fitxa de control i avaluació.
-- Enfocament: organització global i presa de decisions; no repeteix les tècniques individuals.
-- Criteri central: la planificació és una referència flexible que s'ha de poder modificar durant l'execució.
-- Estat: síntesi basada en el document de referència. No s'han realitzat proves físiques.

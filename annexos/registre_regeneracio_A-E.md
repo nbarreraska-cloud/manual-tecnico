@@ -33,6 +33,25 @@
 - F8 haurà de revisar-ne la presentació, les remissions i la integració amb els altres annexos.
 - No s'ha fet cap auditoria experimental de les 48 pintures.
 
-## Annexos B–E
+## Annex B — Índex de tècniques
 
-**Estat:** pendents de regeneració. Es treballaran en ordre, després de tancar el primer control de l'annex precedent.
+**Estat:** regeneració completada; pendent de la passada transversal F6 i F8.
+
+### Font i mètode
+- Font principal: encapçalaments i contingut dels capítols 7–39 de `TERCERA_SINTESI_CONSOLIDADA_C01-C39.md`.
+- La versió anterior s'ha conservat sense alteracions a `annexos/historic/annex-b-auditoria-anterior-2026-11-05.md` i s'ha utilitzat només com a contrast de cobertura i traçabilitat.
+- S'han comprovat les remissions contra els encapçalaments vigents: 89 expressions de referència, que despleguen 139 identificadors de subsecció únics; no s'ha detectat cap identificador inexistent.
+
+### Resultat i ajustos
+- 63 entrades distribuïdes en sis àmbits: preparació i aplicació; definició i textura; il·luminació i efectes; aplicacions a materials; integració i transformació; acabats i correcció.
+- S'ha incorporat la combinació de tècniques de textura (13.7), ampliat la localització de transparències i translucidesa (14.5–14.7) i ajustat la delimitació de terra, pols, fang i brutícia (29.2–29.6).
+- No s'han alterat els procediments, les receptes ni les formulacions dels capítols.
+
+### Límits pendents
+- F6 haurà de revisar la coherència semàntica i la cobertura de l'índex en relació amb el conjunt complet dels capítols i els altres annexos.
+- F8 haurà de comprovar la presentació, la numeració i les remissions creuades en el conjunt final.
+- La comprovació documental de les referències no constitueix validació experimental.
+
+## Annexos C–E
+
+**Estat:** pendents de regeneració. Es treballaran en ordre.

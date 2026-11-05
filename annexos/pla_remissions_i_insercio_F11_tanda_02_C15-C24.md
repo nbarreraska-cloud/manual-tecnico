@@ -17,7 +17,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 15.1.
 - **Ubicació editorial F10:** 15.2..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 15.2.
-- **Remissió textual proposada:** «La Figura 15.1 mostra anàlisi de geometria, volums i superfícies.»
+- **Remissió textual proposada:** «La Figura 15.1 presenta una síntesi visual: anàlisi de geometria, volums i superfícies.»
 - **Llegenda de treball:** «Anàlisi de geometria, volums i superfícies: Miniatura simplificada anotada: silueta, volums, plans, superfícies corbes, arestes, superposicions i zones protegides.».
 - **Nucli de representació:** Miniatura simplificada anotada: silueta, volums, plans, superfícies corbes, arestes, superposicions i zones protegides.
 - **Límits editorials:** No deduir automàticament la llum de la geometria; diferenciar observació i decisió pictòrica.
@@ -27,7 +27,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 15.6.
 - **Ubicació editorial F10:** 15.6..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 15.6.
-- **Remissió textual proposada:** «La Figura 15.3 mostra mapa de valors.»
+- **Remissió textual proposada:** «La Figura 15.3 presenta una síntesi visual: mapa de valors.»
 - **Llegenda de treball:** «Mapa de valors: Dos mapes coordinats: distribució de la il·luminació i organització dels valors tonals.».
 - **Nucli de representació:** Dos mapes coordinats: distribució de la il·luminació i organització dels valors tonals.
 - **Límits editorials:** No fusionar els dos mapes en una sola escala; conservar-ne la funció diferenciada.
@@ -37,7 +37,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
 - **Ubicació editorial F10:** 15.4 o 15.8..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 15.4.
-- **Remissió textual proposada:** «La Figura 15.6 mostra distribució del contrast.»
+- **Remissió textual proposada:** «La Figura 15.6 presenta una síntesi visual: distribució del contrast.»
 - **Llegenda de treball:** «Distribució del contrast: Comparació de distribució uniforme i jerarquitzada del contrast sobre una mateixa miniatura.».
 - **Nucli de representació:** Comparació de distribució uniforme i jerarquitzada del contrast sobre una mateixa miniatura.
 - **Límits editorials:** La distribució uniforme no és necessàriament un error; etiquetar-la segons objectiu i context.
@@ -47,7 +47,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
 - **Ubicació editorial F10:** 15.1 o 15.9..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 15.9.
-- **Remissió textual proposada:** «La Figura 15.8 mostra procés integral d'anàlisi a avaluació.»
+- **Remissió textual proposada:** «La Figura 15.8 presenta una síntesi visual: procés integral d'anàlisi a avaluació.»
 - **Llegenda de treball:** «Procés integral d'anàlisi a avaluació: Diagrama circular o seqüència revisable: observar, definir objectius, seleccionar esquema, mapar valors, executar i avaluar.».
 - **Nucli de representació:** Diagrama circular o seqüència revisable: observar, definir objectius, seleccionar esquema, mapar valors, executar i avaluar.
 - **Límits editorials:** No representar-lo com una cadena rígida; incloure revisió i retorn a fases anteriors.
@@ -59,7 +59,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 16.1.
 - **Ubicació editorial F10:** 16.1..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 16.1.
-- **Remissió textual proposada:** «La Figura 16.1 mostra metàl·lic i no metàl·lic.»
+- **Remissió textual proposada:** «La Figura 16.1 presenta una síntesi visual: metàl·lic i no metàl·lic.»
 - **Llegenda de treball:** «Metàl·lic i no metàl·lic: Comparació TMM/NMM sobre geometries equivalents: partícules reflectants reals davant de reflexos simulats pictòricament.».
 - **Nucli de representació:** Comparació TMM/NMM sobre geometries equivalents: partícules reflectants reals davant de reflexos simulats pictòricament.
 - **Límits editorials:** No suggerir que el NMM conté pigment metàl·lic ni que el TMM depèn només del contrast pintat.
@@ -69,7 +69,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 16.2.
 - **Ubicació editorial F10:** 16.2 i/o 16.6..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 16.2.
-- **Remissió textual proposada:** «La Figura 16.2 mostra influència de la geometria en els reflexos.»
+- **Remissió textual proposada:** «La Figura 16.2 presenta una síntesi visual: influència de la geometria en els reflexos.»
 - **Llegenda de treball:** «Influència de la geometria en els reflexos: Panells de superfície plana, cilíndrica, esfèrica i facetada amb patrons de reflex diferents.».
 - **Nucli de representació:** Panells de superfície plana, cilíndrica, esfèrica i facetada amb patrons de reflex diferents.
 - **Límits editorials:** Són exemples orientatius; no establir un patró únic per geometria ni desconnectar els reflexos de l'entorn.
@@ -79,7 +79,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 16.6.
 - **Ubicació editorial F10:** 16.3..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 16.3.
-- **Remissió textual proposada:** «La Figura 16.4 mostra mapa tonal d'una peça metàl·lica.»
+- **Remissió textual proposada:** «La Figura 16.4 presenta una síntesi visual: mapa tonal d'una peça metàl·lica.»
 - **Llegenda de treball:** «Mapa tonal d'una peça metàl·lica: Mapa de valors i colors sobre una peça NMM, amb zones fosques, mitjos tons, llums i reflexos.».
 - **Nucli de representació:** Mapa de valors i colors sobre una peça NMM, amb zones fosques, mitjos tons, llums i reflexos.
 - **Límits editorials:** Ubicació corregida: no situar a 16.4, que tracta diferenciació cromàtica entre metalls.
@@ -89,7 +89,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
 - **Ubicació editorial F10:** 16.5..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 16.5.
-- **Remissió textual proposada:** «La Figura 16.6 mostra construcció progressiva de base a reflexos i accents.»
+- **Remissió textual proposada:** «La Figura 16.6 presenta una síntesi visual: construcció progressiva de base a reflexos i accents.»
 - **Llegenda de treball:** «Construcció progressiva de base a reflexos i accents: Seqüència de capes: base, masses tonals, contrastos, reflexos i accents finals.».
 - **Nucli de representació:** Seqüència de capes: base, masses tonals, contrastos, reflexos i accents finals.
 - **Límits editorials:** Ubicació corregida; no presentar la seqüència com una recepta universal ni ometre l'adaptació geomètrica.
@@ -99,7 +99,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
 - **Ubicació editorial F10:** 16.8..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 16.8.
-- **Remissió textual proposada:** «La Figura 16.8 mostra errors i correccions.»
+- **Remissió textual proposada:** «La Figura 16.8 presenta una síntesi visual: errors i correccions.»
 - **Llegenda de treball:** «Errors i correccions: Làmina diagnòstica: contrast arbitrari, reflexos incoherents, geometria mal interpretada i manca de jerarquia.».
 - **Nucli de representació:** Làmina diagnòstica: contrast arbitrari, reflexos incoherents, geometria mal interpretada i manca de jerarquia.
 - **Límits editorials:** Cada error ha d'estar associat a la correcció descrita al capítol; no afegir defectes genèrics.
@@ -111,7 +111,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 17.1.
 - **Ubicació editorial F10:** 17.2.1–17.2.3..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 17.2.1–17.2.3.
-- **Remissió textual proposada:** «La Figura 17.1 mostra font emissora, superfície il·luminada i reflex localitzat.»
+- **Remissió textual proposada:** «La Figura 17.1 presenta una síntesi visual: font emissora, superfície il·luminada i reflex localitzat.»
 - **Llegenda de treball:** «Font emissora, superfície il·luminada i reflex localitzat: Esquema espacial amb font, superfícies receptores, il·luminació directa i reflex especular localitzat.».
 - **Nucli de representació:** Esquema espacial amb font, superfícies receptores, il·luminació directa i reflex especular localitzat.
 - **Límits editorials:** Distingir llum rebuda i reflex; un color intens no prova emissió.
@@ -121,7 +121,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 17.4.
 - **Ubicació editorial F10:** 17.3.4–17.3.6..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 17.3.4–17.3.6.
-- **Remissió textual proposada:** «La Figura 17.3 mostra geometria, orientació i bloqueig.»
+- **Remissió textual proposada:** «La Figura 17.3 presenta una síntesi visual: geometria, orientació i bloqueig.»
 - **Llegenda de treball:** «Geometria, orientació i bloqueig: Vista de font, objectes, orientació de plans, obstacles i zones d'ombra.».
 - **Nucli de representació:** Vista de font, objectes, orientació de plans, obstacles i zones d'ombra.
 - **Límits editorials:** Respectar la posició relativa dels elements; no il·luminar superfícies ocultes sense justificació.
@@ -131,7 +131,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 17.7.
 - **Ubicació editorial F10:** 17.4.1–17.4.2..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 17.4.1–17.4.2.
-- **Remissió textual proposada:** «La Figura 17.4 mostra jerarquia de valors.»
+- **Remissió textual proposada:** «La Figura 17.4 presenta una síntesi visual: jerarquia de valors.»
 - **Llegenda de treball:** «Jerarquia de valors: Escala/diagrama de valors que separi font, zona pròxima il·luminada i entorn.».
 - **Nucli de representació:** Escala/diagrama de valors que separi font, zona pròxima il·luminada i entorn.
 - **Límits editorials:** No imposar un centre blanc universal ni una gradació cromàtica fixa.
@@ -141,7 +141,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
 - **Ubicació editorial F10:** 17.6.4–17.6.5..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 17.6.4–17.6.5.
-- **Remissió textual proposada:** «La Figura 17.7 mostra il·luminació general i reflexos en superfícies mates i brillants.»
+- **Remissió textual proposada:** «La Figura 17.7 presenta una síntesi visual: il·luminació general i reflexos en superfícies mates i brillants.»
 - **Llegenda de treball:** «Il·luminació general i reflexos en superfícies mates i brillants: Comparació de la mateixa llum sobre superfície mat i brillant.».
 - **Nucli de representació:** Comparació de la mateixa llum sobre superfície mat i brillant.
 - **Límits editorials:** Ubicació corregida; diferenciar canvi ampli d'aparença i reflex localitzat.
@@ -151,7 +151,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
 - **Ubicació editorial F10:** 17.5.1–17.5.7..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 17.5.1–17.5.7.
-- **Remissió textual proposada:** «La Figura 17.8 mostra seqüència de construcció i integració de l'OSL.»
+- **Remissió textual proposada:** «La Figura 17.8 presenta una síntesi visual: seqüència de construcció i integració de l'OSL.»
 - **Llegenda de treball:** «Seqüència de construcció i integració de l'OSL: Seqüència de planificació, font, superfícies receptores, aplicació, integració i avaluació.».
 - **Nucli de representació:** Seqüència de planificació, font, superfícies receptores, aplicació, integració i avaluació.
 - **Límits editorials:** Ubicació corregida; no confondre amb el bloc d'errors.
@@ -161,7 +161,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
 - **Ubicació editorial F10:** 17.8..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 17.8.
-- **Remissió textual proposada:** «La Figura 17.10 mostra errors freqüents.»
+- **Remissió textual proposada:** «La Figura 17.10 presenta una síntesi visual: errors freqüents.»
 - **Llegenda de treball:** «Errors freqüents: Làmina diagnòstica d'errors d'origen, direcció, extensió, valor, color i integració de la llum.».
 - **Nucli de representació:** Làmina diagnòstica d'errors d'origen, direcció, extensió, valor, color i integració de la llum.
 - **Límits editorials:** Ubicació corregida; el 17.10 correspon als exercicis.
@@ -173,7 +173,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 18.1.
 - **Ubicació editorial F10:** 18.1..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 18.1.
-- **Remissió textual proposada:** «La Figura 18.1 mostra mapa del procés integral.»
+- **Remissió textual proposada:** «La Figura 18.1 presenta una síntesi visual: mapa del procés integral.»
 - **Llegenda de treball:** «Mapa del procés integral: Diagrama de planificació revisable: anàlisi, objectius, recursos, selecció, seqüenciació i avaluació.».
 - **Nucli de representació:** Diagrama de planificació revisable: anàlisi, objectius, recursos, selecció, seqüenciació i avaluació.
 - **Límits editorials:** No presentar una seqüència única vàlida per a totes les miniatures.
@@ -183,7 +183,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 18.4.
 - **Ubicació editorial F10:** 18.3..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 18.3.
-- **Remissió textual proposada:** «La Figura 18.3 mostra planificació cromàtica, tonal i lumínica.»
+- **Remissió textual proposada:** «La Figura 18.3 presenta una síntesi visual: planificació cromàtica, tonal i lumínica.»
 - **Llegenda de treball:** «Planificació cromàtica, tonal i lumínica: Tres capes o mapes coordinats: color, valors i il·luminació.».
 - **Nucli de representació:** Tres capes o mapes coordinats: color, valors i il·luminació.
 - **Límits editorials:** Mostrar interdependència sense confondre les tres variables.
@@ -193,7 +193,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 18.6.
 - **Ubicació editorial F10:** 18.4..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 18.4.
-- **Remissió textual proposada:** «La Figura 18.4 mostra arbre de selecció de tècniques.»
+- **Remissió textual proposada:** «La Figura 18.4 presenta una síntesi visual: arbre de selecció de tècniques.»
 - **Llegenda de treball:** «Arbre de selecció de tècniques: Arbre de decisió segons objectiu, superfície, control, limitacions i operacions posteriors.».
 - **Nucli de representació:** Arbre de decisió segons objectiu, superfície, control, limitacions i operacions posteriors.
 - **Límits editorials:** Les branques han de permetre més d'una solució; no assignar una tècnica única a cada material.
@@ -203,7 +203,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
 - **Ubicació editorial F10:** 18.5.4..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 18.5.4.
-- **Remissió textual proposada:** «La Figura 18.6 mostra organització per zones, materials i fases.»
+- **Remissió textual proposada:** «La Figura 18.6 presenta una síntesi visual: organització per zones, materials i fases.»
 - **Llegenda de treball:** «Organització per zones, materials i fases: Esquema de planificació per components/zones, famílies de materials i fases d'execució.».
 - **Nucli de representació:** Esquema de planificació per components/zones, famílies de materials i fases d'execució.
 - **Límits editorials:** Ubicació corregida; distingir organització de la seqüència de compatibilitat de tècniques del 18.6.
@@ -215,7 +215,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 19.5.
 - **Ubicació editorial F10:** 19.2–19.3..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 19.2–19.3.
-- **Remissió textual proposada:** «La Figura 19.3 mostra construcció TMM d'acer i plata.»
+- **Remissió textual proposada:** «La Figura 19.3 presenta una síntesi visual: construcció TMM d'acer i plata.»
 - **Llegenda de treball:** «Construcció TMM d'acer i plata: Seqüència didàctica amb base metàl·lica, modificació cromàtica i construcció tonal per acer/plata.».
 - **Nucli de representació:** Seqüència didàctica amb base metàl·lica, modificació cromàtica i construcció tonal per acer/plata.
 - **Límits editorials:** Les receptes són propostes, no assajos; no inventar proporcions ni presentar resultats com a proves reals.
@@ -225,7 +225,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 19.6.
 - **Ubicació editorial F10:** 19.4.2..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 19.4.2.
-- **Remissió textual proposada:** «La Figura 19.4 mostra construcció TMM d'or.»
+- **Remissió textual proposada:** «La Figura 19.4 presenta una síntesi visual: construcció TMM d'or.»
 - **Llegenda de treball:** «Construcció TMM d'or: Seqüència de base, variacions cromàtiques, ombres i llums per a les variants descrites.».
 - **Nucli de representació:** Seqüència de base, variacions cromàtiques, ombres i llums per a les variants descrites.
 - **Límits editorials:** Respectar variants i paleta disponible; no afegir productes o proporcions absents del text.
@@ -235,7 +235,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 19.9.
 - **Ubicació editorial F10:** apartats 19.5.2 i 19.6.2..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 19.5.2 i 19.6.2.
-- **Remissió textual proposada:** «La Figura 19.5 mostra construcció de coure i bronze.»
+- **Remissió textual proposada:** «La Figura 19.5 presenta una síntesi visual: construcció de coure i bronze.»
 - **Llegenda de treball:** «Construcció de coure i bronze: dues seqüències TMM diferenciades a partir de les bases metàl·liques disponibles i les modificacions cromàtiques descrites.».
 - **Nucli de representació:** dos panells coordinats: (A) coure, amb variants i modificacions taronja/vermell sobre Silver o Tinny Tin; (B) bronze, amb variants i modificacions terroses/daurades sobre Glorious Gold o Tinny Tin.
 - **Funció didàctica:** conservar en una sola composició la proposta original de construcció de coure i bronze, distingint-ne les bases, les modificacions i els criteris de diferenciació.
@@ -246,7 +246,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
 - **Ubicació editorial F10:** apartat 19.1, després de definir els dos enfocaments..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 19.1. La figura és E0: comparació conceptual, no recepta E1.
-- **Remissió textual proposada:** «La Figura 19.6 mostra comparació entre TMM i NMM.»
+- **Remissió textual proposada:** «La Figura 19.6 presenta una síntesi visual: comparació entre TMM i NMM.»
 - **Llegenda de treball:** «Comparació entre TMM i NMM: reflexos aportats per pigments metàl·lics i reflexos construïts pictòricament sobre una geometria equivalent.».
 - **Nucli de representació:** dues versions de la mateixa forma i amb una il·luminació equivalent: (A) TMM amb pintura metal·litzada i resposta reflectant del producte; (B) NMM amb pintura convencional i reflexos simulats mitjançant valors i contrastos.
 - **Funció didàctica:** fer visible la diferència entre el comportament òptic de les pintures metàl·liques i la representació pictòrica de l'aparença metàl·lica.
@@ -257,7 +257,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
 - **Ubicació editorial F10:** 19.9..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 19.9.
-- **Remissió textual proposada:** «La Figura 19.9 mostra errors i control.»
+- **Remissió textual proposada:** «La Figura 19.9 presenta una síntesi visual: errors i control.»
 - **Llegenda de treball:** «Errors i control: Làmina diagnòstica de dominants, reflexos, contrast, diferenciació de metalls i correcció selectiva.».
 - **Nucli de representació:** Làmina diagnòstica de dominants, reflexos, contrast, diferenciació de metalls i correcció selectiva.
 - **Límits editorials:** Vincular cada símptoma amb els criteris de control del capítol; no generalitzar receptes.
@@ -269,7 +269,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 20.1, 20.2.
 - **Ubicació editorial F10:** 20.1–20.2..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 20.1–20.2. Integra 20.2 i el detall P2 20.6; no crear figures independents.
-- **Remissió textual proposada:** «La Figura 20.1 mostra direcció de fibres, vetes, nusos, anells i patrons segons el tall.»
+- **Remissió textual proposada:** «La Figura 20.1 presenta una síntesi visual: direcció de fibres, vetes, nusos, anells i patrons segons el tall.»
 - **Llegenda de treball:** «Direcció de les fibres i les vetes, nusos i orientació dels anells segons el tall de la fusta.».
 - **Nucli de representació:** una làmina composta amb patrons longitudinals i transversals, direcció de les fibres, nusos i seccions que mostrin l'orientació dels anells.
 - **Funció didàctica:** reunir la lectura de la fusta segons la direcció de fibra i el tipus de tall sense repetir patrons.
@@ -280,7 +280,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 20.8.
 - **Ubicació editorial F10:** 20.8.1–20.8.2..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 20.8.1–20.8.2. Integra 20.5 en la seqüència de vetes i nusos.
-- **Remissió textual proposada:** «La Figura 20.4 mostra construcció de vetes i desviació de fibres al voltant d'un nus.»
+- **Remissió textual proposada:** «La Figura 20.4 presenta una síntesi visual: construcció de vetes i desviació de fibres al voltant d'un nus.»
 - **Llegenda de treball:** «Construcció de les vetes principals i secundàries i desviació de les fibres al voltant d'un nus.».
 - **Nucli de representació:** seqüència que parteixi de la base i les variacions cromàtiques, construeixi vetes longitudinals i discontinuïtats i integri un nus que desviï la direcció de les fibres.
 - **Funció didàctica:** mostrar la continuïtat estructural de les vetes i com s'adapten al voltant d'un nus.
@@ -291,7 +291,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
 - **Ubicació editorial F10:** 20.9.2..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 20.9.2.
-- **Remissió textual proposada:** «La Figura 20.7 mostra adaptació de les vetes a diferents formes de peça.»
+- **Remissió textual proposada:** «La Figura 20.7 presenta una síntesi visual: adaptació de les vetes a diferents formes de peça.»
 - **Llegenda de treball:** «Adaptació de les vetes a taulons, bigues, barrils, mànecs i troncs.».
 - **Nucli de representació:** comparació de tauló, biga, barril, mànec i tronc, amb la continuïtat i l'orientació de les vetes adaptades a cada geometria.
 - **Límits editorials:** Ubicació corregida; mantenir continuïtat de patró segons la forma del suport.
@@ -301,7 +301,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
 - **Ubicació editorial F10:** 20.7.1–20.7.4..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 20.7.1–20.7.4.
-- **Remissió textual proposada:** «La Figura 20.8 mostra fusta natural, envellida, desgastada i humida.»
+- **Remissió textual proposada:** «La Figura 20.8 presenta una síntesi visual: fusta natural, envellida, desgastada i humida.»
 - **Llegenda de treball:** «Fusta natural, envellida, desgastada i humida: Quatre panells d'estat superficial sobre una mateixa família de fusta.».
 - **Nucli de representació:** Quatre panells d'estat superficial sobre una mateixa família de fusta.
 - **Límits editorials:** Diferenciar color, textura, lluentor i alteració; no reduir els estats a canvis de to.
@@ -311,7 +311,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
 - **Ubicació editorial F10:** 20.9.3..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 20.9.3.
-- **Remissió textual proposada:** «La Figura 20.9 mostra errors i correccions.»
+- **Remissió textual proposada:** «La Figura 20.9 presenta una síntesi visual: errors i correccions.»
 - **Llegenda de treball:** «Errors i correccions: Làmina diagnòstica de vetes massa regulars, escala incorrecta, patró desalineat i manca de continuïtat.».
 - **Nucli de representació:** Làmina diagnòstica de vetes massa regulars, escala incorrecta, patró desalineat i manca de continuïtat.
 - **Límits editorials:** Cada correcció ha de correspondre a l'error descrit al capítol.
@@ -323,7 +323,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 21.1.
 - **Ubicació editorial F10:** 21.1–21.2..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 21.1–21.2.
-- **Remissió textual proposada:** «La Figura 21.1 mostra tipus principals de vegetació.»
+- **Remissió textual proposada:** «La Figura 21.1 presenta una síntesi visual: tipus principals de vegetació.»
 - **Llegenda de treball:** «Comparació de fullatge de fulla ampla, coníferes, herbàcies, molsa i líquens.».
 - **Nucli de representació:** làmina comparativa de fullatge de fulla ampla, coníferes, herbàcies, molsa i líquens. La vegetació seca queda fora d'aquesta composició i es manté com a proposta P2 21.9 en reserva.
 - **Límits editorials:** Diferenciar estructura, creixement i densitat; no classificar només pel color.
@@ -333,7 +333,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 21.2.
 - **Ubicació editorial F10:** 21.2..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 21.2.
-- **Remissió textual proposada:** «La Figura 21.2 mostra morfologia de les fulles.»
+- **Remissió textual proposada:** «La Figura 21.2 presenta una síntesi visual: morfologia de les fulles.»
 - **Llegenda de treball:** «Comparació de fulles simples i compostes, formes de la vora i patrons de nerviació.».
 - **Nucli de representació:** panells de fulles simples i compostes, amb exemples de vores i nerviacions clarament diferenciades.
 - **Límits editorials:** No convertir-la en una classificació botànica exhaustiva ni afegir espècies no necessàries.
@@ -343,7 +343,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 21.3.
 - **Ubicació editorial F10:** 21.2..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 21.2.
-- **Remissió textual proposada:** «La Figura 21.3 mostra agrupació, densitat i superposició.»
+- **Remissió textual proposada:** «La Figura 21.3 presenta una síntesi visual: agrupació, densitat i superposició.»
 - **Llegenda de treball:** «Agrupació, densitat i superposició: Seqüència de massa general, buits, agrupacions i superposició de fulles.».
 - **Nucli de representació:** Seqüència de massa general, buits, agrupacions i superposició de fulles.
 - **Límits editorials:** Prioritzar lectura de massa; no dibuixar cada fulla ni uniformitzar el volum.
@@ -353,7 +353,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 21.6.
 - **Ubicació editorial F10:** 21.5..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 21.5.
-- **Remissió textual proposada:** «La Figura 21.5 mostra branques i agrupacions aciculars.»
+- **Remissió textual proposada:** «La Figura 21.5 presenta una síntesi visual: branques i agrupacions aciculars.»
 - **Llegenda de treball:** «Branques i agrupacions aciculars: Construcció en dos nivells: capçada/branques i agrupacions d'agulles direccionals.».
 - **Nucli de representació:** Construcció en dos nivells: capçada/branques i agrupacions d'agulles direccionals.
 - **Límits editorials:** Respectar orientació i densitat; evitar patrons repetitius o radials artificials.
@@ -363,7 +363,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 21.7.
 - **Ubicació editorial F10:** 21.6..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 21.6.
-- **Remissió textual proposada:** «La Figura 21.6 mostra tiges, fulles, espigues i gramínies.»
+- **Remissió textual proposada:** «La Figura 21.6 presenta una síntesi visual: tiges, fulles, espigues i gramínies.»
 - **Llegenda de treball:** «Comparació de tiges, fulles allargades, espigues i direccions de creixement de les gramínies.».
 - **Nucli de representació:** panells amb tiges, fulles, espigues i agrupacions de gramínies, fent visible la direcció i l'orientació dels elements.
 - **Límits editorials:** Diferenciar direcció, alçada i agrupació; adaptar la simplificació a escala.
@@ -373,7 +373,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 21.8.
 - **Ubicació editorial F10:** 21.7..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 21.7.
-- **Remissió textual proposada:** «La Figura 21.7 mostra formes de molsa.»
+- **Remissió textual proposada:** «La Figura 21.7 presenta una síntesi visual: formes de molsa.»
 - **Llegenda de treball:** «Formes de molsa: Comparació de coixins, tapissos i agrupacions irregulars sobre suports.».
 - **Nucli de representació:** Comparació de coixins, tapissos i agrupacions irregulars sobre suports.
 - **Límits editorials:** Mostrar relleu i densitat; no representar molsa com una taca verda uniforme.
@@ -383,7 +383,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
 - **Ubicació editorial F10:** 21.8..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 21.8.
-- **Remissió textual proposada:** «La Figura 21.8 mostra formes de líquens.»
+- **Remissió textual proposada:** «La Figura 21.8 presenta una síntesi visual: formes de líquens.»
 - **Llegenda de treball:** «Formes de líquens: Comparació de formes crustàcies, foliàcies, fruticuloses i esquamuloses.».
 - **Nucli de representació:** Comparació de formes crustàcies, foliàcies, fruticuloses i esquamuloses.
 - **Límits editorials:** No confondre líquens amb molsa ni representar-los com a plantes de fulla.
@@ -395,7 +395,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 22.1.
 - **Ubicació editorial F10:** 22.1–22.2..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 22.1–22.2.
-- **Remissió textual proposada:** «La Figura 22.1 mostra gra del cuir.»
+- **Remissió textual proposada:** «La Figura 22.1 presenta una síntesi visual: gra del cuir.»
 - **Llegenda de treball:** «Gra del cuir: Detall comparatiu de gra natural, gra corregit i superfície tractada.».
 - **Nucli de representació:** Detall comparatiu de gra natural, gra corregit i superfície tractada.
 - **Límits editorials:** Simplificar porus i irregularitats a escala; no dibuixar cada porus.
@@ -405,7 +405,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 22.2, 22.5.
 - **Ubicació editorial F10:** 22.2, amb ampliació específica de l'ante i el nobuk; remissió a 22.6 quan calgui..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 22.2. Integra 22.5; des de 22.6 cal remetre al detall d'ante i nobuk.
-- **Remissió textual proposada:** «La Figura 22.2 mostra cuir natural, corregit, ante i nobuk, amb detall comparatiu.»
+- **Remissió textual proposada:** «La Figura 22.2 presenta una síntesi visual: cuir natural, corregit, ante i nobuk, amb detall comparatiu.»
 - **Llegenda de treball:** «Comparació del gra i la resposta superficial del cuir natural i corregit, l'ante i el nobuk, amb detall ampliat de les dues superfícies afelpades.».
 - **Nucli de representació:** làmina principal de quatre panells —cuir natural, cuir corregit, ante i nobuk— i un detall comparatiu ampliat d'ante/nobuk que mostri la textura fibrosa de l'ante i la lectura més pròxima al gra del nobuk.
 - **Funció didàctica:** distingir les quatre aparences i conservar la comparació específica entre ante i nobuk sense repetir-la en una segona figura.
@@ -416,7 +416,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 22.6.
 - **Ubicació editorial F10:** 22.4..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 22.4.
-- **Remissió textual proposada:** «La Figura 22.4 mostra construcció de cuir natural.»
+- **Remissió textual proposada:** «La Figura 22.4 presenta una síntesi visual: construcció de cuir natural.»
 - **Llegenda de treball:** «Construcció de cuir natural: Seqüència de base, variacions, ombres, llums, cantells i marques d'ús.».
 - **Nucli de representació:** Seqüència de base, variacions, ombres, llums, cantells i marques d'ús.
 - **Límits editorials:** Adaptar a geometria i gruix; les receptes són propostes no assajades.
@@ -426,7 +426,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 22.9.
 - **Ubicació editorial F10:** 22.9..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 22.9.
-- **Remissió textual proposada:** «La Figura 22.6 mostra plecs i deformacions.»
+- **Remissió textual proposada:** «La Figura 22.6 presenta una síntesi visual: plecs i deformacions.»
 - **Llegenda de treball:** «Plecs i deformacions: Detalls de plecs, compressions, tensions i deformacions.».
 - **Nucli de representació:** Detalls de plecs, compressions, tensions i deformacions.
 - **Límits editorials:** Ubicació corregida; respectar gruix, flexibilitat i punts de subjecció.
@@ -436,7 +436,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
 - **Ubicació editorial F10:** 22.9..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 22.9.
-- **Remissió textual proposada:** «La Figura 22.7 mostra cantells, gruix i costures.»
+- **Remissió textual proposada:** «La Figura 22.7 presenta una síntesi visual: cantells, gruix i costures.»
 - **Llegenda de treball:** «Cantells, gruix i costures: Detalls de secció, vores, costures i unions.».
 - **Nucli de representació:** Detalls de secció, vores, costures i unions.
 - **Límits editorials:** Ubicació corregida; no confondre costura decorativa amb estructura del material.
@@ -446,7 +446,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
 - **Ubicació editorial F10:** apartat de control i errors del C22..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 22.10.1.
-- **Remissió textual proposada:** «La Figura 22.9 mostra errors freqüents.»
+- **Remissió textual proposada:** «La Figura 22.9 presenta una síntesi visual: errors freqüents.»
 - **Llegenda de treball:** «Errors freqüents: Làmina diagnòstica de cuir excessivament brillant, textura desproporcionada, plecs incoherents i confusió entre cuir, ante i nobuk.».
 - **Nucli de representació:** Làmina diagnòstica de cuir excessivament brillant, textura desproporcionada, plecs incoherents i confusió entre cuir, ante i nobuk.
 - **Límits editorials:** Vincular cada error amb una correcció del text; evitar solucions universals.
@@ -458,7 +458,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 23.1.
 - **Ubicació editorial F10:** 23.2..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 23.2.
-- **Remissió textual proposada:** «La Figura 23.1 mostra tafetà, sarja i setí.»
+- **Remissió textual proposada:** «La Figura 23.1 presenta una síntesi visual: tafetà, sarja i setí.»
 - **Llegenda de treball:** «Tafetà, sarja i setí: Comparació esquemàtica dels patrons d'entrellaçat i la seva lectura superficial.».
 - **Nucli de representació:** Comparació esquemàtica dels patrons d'entrellaçat i la seva lectura superficial.
 - **Límits editorials:** Diferenciar estructura i acabat; no representar el vellut com una estructura equivalent.
@@ -468,7 +468,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 23.2.
 - **Ubicació editorial F10:** 23.1–23.2..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 23.1–23.2.
-- **Remissió textual proposada:** «La Figura 23.2 mostra famílies de teixits.»
+- **Remissió textual proposada:** «La Figura 23.2 presenta una síntesi visual: famílies de teixits.»
 - **Llegenda de treball:** «Comparació de lli i cotó, llana, seda i setí, i vellut segons estructura, caiguda, textura i acabat.».
 - **Nucli de representació:** matriu comparativa que inclogui lli/cotó, llana, seda/setí i vellut, diferenciant fibra, estructura del teixit, gruix, caiguda, textura i acabat. El setí no s'ha de presentar com una fibra.
 - **Límits editorials:** Les associacions són orientatives; no atribuir una aparença única a cada fibra.
@@ -478,7 +478,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 23.3.
 - **Ubicació editorial F10:** 23.4..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 23.4.
-- **Remissió textual proposada:** «La Figura 23.3 mostra construcció cromàtica de teixits clars.»
+- **Remissió textual proposada:** «La Figura 23.3 presenta una síntesi visual: construcció cromàtica de teixits clars.»
 - **Llegenda de treball:** «Construcció cromàtica de teixits clars: Seqüència de base, tons mitjans, ombres, llums i plecs sobre teixit clar.».
 - **Nucli de representació:** Seqüència de base, tons mitjans, ombres, llums i plecs sobre teixit clar.
 - **Límits editorials:** No convertir la superfície en blanc uniforme; preservar volum i variacions.
@@ -488,7 +488,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 23.6.
 - **Ubicació editorial F10:** 23.5..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 23.5–23.7.
-- **Remissió textual proposada:** «La Figura 23.5 mostra teixits gruixuts i de pèl.»
+- **Remissió textual proposada:** «La Figura 23.5 presenta una síntesi visual: teixits gruixuts i de pèl.»
 - **Llegenda de treball:** «Teixits gruixuts i de pèl: Comparació de volum, textura i direcció del pèl en teixits gruixuts.».
 - **Nucli de representació:** Comparació de volum, textura i direcció del pèl en teixits gruixuts.
 - **Límits editorials:** Evitar punts o línies decoratives excessives; escala i estructura han de governar el detall.
@@ -498,7 +498,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 23.8.
 - **Ubicació editorial F10:** 23.9.1–23.9.2..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 23.9.1–23.9.2.
-- **Remissió textual proposada:** «La Figura 23.6 mostra plecs i punts de tensió.»
+- **Remissió textual proposada:** «La Figura 23.6 presenta una síntesi visual: plecs i punts de tensió.»
 - **Llegenda de treball:** «Plecs i punts de tensió: Esquema de punts de fixació, tensió, compressió i direcció dels plecs.».
 - **Nucli de representació:** Esquema de punts de fixació, tensió, compressió i direcció dels plecs.
 - **Límits editorials:** Ubicació corregida; no representar plecs com a línies arbitràries ni ignorar gravetat i subjecció.
@@ -508,7 +508,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
 - **Ubicació editorial F10:** 23.9.4..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 23.9.4.
-- **Remissió textual proposada:** «La Figura 23.8 mostra errors freqüents.»
+- **Remissió textual proposada:** «La Figura 23.8 presenta una síntesi visual: errors freqüents.»
 - **Llegenda de treball:** «Errors freqüents: Làmina diagnòstica de plecs, patrons, textura i reflexos incoherents.».
 - **Nucli de representació:** Làmina diagnòstica de plecs, patrons, textura i reflexos incoherents.
 - **Límits editorials:** Ubicació corregida; cada exemple ha de correspondre a l'error i correcció del capítol.
@@ -520,7 +520,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 24.3.
 - **Ubicació editorial F10:** 24.2 i 24.4–24.5..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 24.2.
-- **Remissió textual proposada:** «La Figura 24.2 mostra pigmentacions clares, intermèdies i profundes.»
+- **Remissió textual proposada:** «La Figura 24.2 presenta una síntesi visual: pigmentacions clares, intermèdies i profundes.»
 - **Llegenda de treball:** «Pigmentacions clares, intermèdies i profundes: Comparació de diferents aparences de pell amb variacions locals de matís, valor i temperatura.».
 - **Nucli de representació:** Comparació de diferents aparences de pell amb variacions locals de matís, valor i temperatura.
 - **Límits editorials:** Categories orientatives, no grups biològics tancats ni temperatures cromàtiques fixes.
@@ -530,7 +530,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 24.4.
 - **Ubicació editorial F10:** 24.7..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 24.7.
-- **Remissió textual proposada:** «La Figura 24.3 mostra mapa cromàtic del rostre.»
+- **Remissió textual proposada:** «La Figura 24.3 presenta una síntesi visual: mapa cromàtic del rostre.»
 - **Llegenda de treball:** «Mapa cromàtic del rostre: Mapa facial orientatiu de variacions locals sobre una referència concreta.».
 - **Nucli de representació:** Mapa facial orientatiu de variacions locals sobre una referència concreta.
 - **Límits editorials:** No és universal; dependrà de la referència, la pigmentació i la il·luminació.
@@ -540,7 +540,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 24.5.
 - **Ubicació editorial F10:** 24.4..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 24.4.
-- **Remissió textual proposada:** «La Figura 24.4 mostra construcció de pell clara.»
+- **Remissió textual proposada:** «La Figura 24.4 presenta una síntesi visual: construcció de pell clara.»
 - **Llegenda de treball:** «Construcció de pell clara: Seqüència de base, tons mitjans, ombres, variacions locals i llums.».
 - **Nucli de representació:** Seqüència de base, tons mitjans, ombres, variacions locals i llums.
 - **Límits editorials:** Respectar les receptes del capítol; no reduir la pell a blanc, rosa i beix.
@@ -550,7 +550,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** 24.7, 24.8.
 - **Ubicació editorial F10:** 24.5..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 24.5.
-- **Remissió textual proposada:** «La Figura 24.5 mostra construcció de pell profunda.»
+- **Remissió textual proposada:** «La Figura 24.5 presenta una síntesi visual: construcció de pell profunda.»
 - **Llegenda de treball:** «Construcció de pell profunda: Seqüència de base, profunditat cromàtica, variacions i llums.».
 - **Nucli de representació:** Seqüència de base, profunditat cromàtica, variacions i llums.
 - **Límits editorials:** No aplicar aclarits desaturats generalitzats ni neutralitzar la base.
@@ -560,7 +560,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
 - **Ubicació editorial F10:** 24.8..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 24.8. Integra 24.8; preservar la diferenciació entre múscul, teixit adipós i teixit connectiu.
-- **Remissió textual proposada:** «La Figura 24.7 mostra masses musculars i diferenciació dels teixits orgànics.»
+- **Remissió textual proposada:** «La Figura 24.7 presenta una síntesi visual: masses musculars i diferenciació dels teixits orgànics.»
 - **Llegenda de treball:** «Organització de les masses musculars i diferenciació entre múscul, teixit adipós i teixit connectiu.».
 - **Nucli de representació:** làmina anatòmica simplificada en dos panells coordinats: (A) masses musculars principals i direcció general dels feixos; (B) comparació esquemàtica de múscul, teixit adipós i estructures connectives.
 - **Funció didàctica:** relacionar la lectura de les masses anatòmiques amb la diferenciació dels teixits que les componen.
@@ -571,7 +571,7 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 - **Identificadors P1 d'origen:** pendent de conciliació amb la matriu.
 - **Ubicació editorial F10:** 24.9.3..
 - **Punt d'inserció proposat:** després del desenvolupament de l'apartat 24.9.3.
-- **Remissió textual proposada:** «La Figura 24.9 mostra errors freqüents.»
+- **Remissió textual proposada:** «La Figura 24.9 presenta una síntesi visual: errors freqüents.»
 - **Llegenda de treball:** «Errors de pell plana, excés de blanc, ombres uniformes, múscul estriat i confusió entre teixits.».
 - **Nucli de representació:** làmina diagnòstica que inclogui pell plana, excés de blanc, ombres uniformes, múscul representat com a ratlles i confusió entre múscul, teixit adipós i teixit connectiu.
 - **Límits editorials:** Els exemples han de correspondre als errors i correccions del capítol.

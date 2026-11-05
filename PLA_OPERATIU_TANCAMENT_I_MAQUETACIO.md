@@ -100,3 +100,10 @@ La referència actual és d'aproximadament 300 pàgines per als 39 capítols sen
 ## 7. Registre d'inici de F9 — 05/11/2026
 
 F9 s'ha iniciat sense modificar contingut tècnic aprovat. La composició i el procés de generació queden definits a annexos/F9_ESPECIFICACIO_MAQUETACIO.md. El generador tools/generate_f9_docx.py valida abans de crear el Word els 39 capítols, els cinc annexos A–E, les 48 fitxes i les set seccions de cada fitxa. El workflow .github/workflows/generate-f9-docx.yml permet executar la compilació i obtenir el DOCX com a artefacte. La generació real i la revisió visual encara no s'han completat.
+
+
+## 8. Actualització de F9 després de la segona generació — 05/11/2026
+
+La segona generació de la maqueta ha finalitzat correctament a GitHub Actions (run 42075834908). S'han corregit al generador els salts que provocaven pàgines pràcticament buides i la numeració automàtica acumulativa de llistes. L'índex s'ha actualitzat i ajustat als nivells 1–2; la versió de comprovació resultant té 352 pàgines A4, amb índex a les pàgines 2–12. L'escaneig no detecta pàgines pràcticament buides i les mostres visuals examinades són llegibles.
+
+F9 continua oberta: falta la comparació textual exhaustiva amb totes les fonts Markdown i una inspecció visual completa de les pàgines i taules. No iniciar F10 fins a completar aquestes comprovacions. Vegeu `annexos/registre_F9_maquetacio_2026-11-05.md`.

@@ -1115,3 +1115,12 @@ S'ha corregit una desviació de fase detectada en la compilació: les propostes 
 ### Regeneració i verificació de la compilació C1–C39 (05/11/2026)
 
 S'ha verificat la correspondència de la compilació amb els 39 fitxers Markdown individuals: els 39 continguts vigents hi són presents íntegrament. Durant la comprovació s'ha detectat que el bloc de C24 de la compilació no incorporava les darreres recuperacions didàctiques i bibliogràfiques; s'ha substituït pel C24 vigent. També s'han restaurat els títols de capítol C2, C3 i C4, que havien quedat absorbits en la delimitació dels blocs MG durant la depuració. La compilació final conté 39 títols de capítol i no conserva cap apartat MG ni criteri de producció gràfica. La separació gràfica es manté al document independent. No s'ha modificat main.
+
+
+### Depuración editorial de C15–C24 y controles de trazabilidad (05/11/2026)
+
+Se han retirado de los capítulos 15–24 los apartados de propuestas gráficas y sus registros editoriales; en C22 y C23 también se han retirado los bloques de control editorial. Las 90 propuestas se han trasladado completas al documento MG independiente y quedan identificadas como propuestas incorporadas durante la tercera síntesis, no como propuestas del Word original. Se han retirado igualmente los controles editoriales de C33, C34, C35 y C37. La compilación C1–C39 se ha actualizado con los capítulos depurados. No se ha modificado contenido técnico, recetas, procedimientos ni ejercicios.
+
+### Corrección del inventario gráfico original (05/11/2026)
+
+La revisión reproducible del Word original identifica 153 propuestas gráficas únicas. De ellas, 50 ya estaban en el archivo MG; quedan 103 originales pendientes de recuperar en C4–C7, C11, C30–C32, C36, C38 y C39. Las 90 propuestas de C15–C24 se conservan aparte por proceder de la tercera síntesis. El archivo MG contiene ahora 140 propuestas (50 originales + 90 adicionales), pero todavía no constituye un archivo completo de todas las propuestas del Word. La cifra anterior de 340 se corrige y queda descartada.

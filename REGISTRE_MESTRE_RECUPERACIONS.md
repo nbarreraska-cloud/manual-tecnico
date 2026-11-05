@@ -1,6 +1,6 @@
 # REGISTRE MESTRE DE RECUPERACIONS EDITORIALS
 **Manual tècnic de pintura de miniatures**  
-**Versió:** 1.69 · **Data:** 05/11/2026  
+**Versió:** 1.70 · **Data:** 05/11/2026  
 **Branca:** intervencion-editorial-2026-11
 
 ## 1. Funció i abast
@@ -523,3 +523,12 @@ S'han retirat els blocs de propostes gràfiques dels fitxers Markdown de C1, C2,
 S'ha comprovat la presència íntegra dels 39 fitxers Markdown vigents a la compilació consolidada. S'ha actualitzat el bloc de C24, que no contenia encara les darreres recuperacions didàctiques i bibliogràfiques, i s'han restaurat els títols C2–C4 després de la depuració MG. La compilació queda amb 39 títols de capítol i sense apartats MG ni criteris de producció gràfica. Les 50 propostes gràfiques i els criteris del C3 es conserven al document independent «PLANIFICACIO_GRAFICA_MG_FASE_POSTERIOR.md». No s'ha modificat main.
 
 | 1.69 | 05/11/2026 | Compilació C1–C39 sincronitzada amb els 39 Markdown; C24 actualitzat; títols C2–C4 restaurats; 39 capítols i zero blocs MG al text lector. |
+
+
+### F4 — depuració documental MG i correcció de l'inventari gràfic (05/11/2026)
+
+S'han retirat del cos lector les 90 propostes gràfiques incloses durant la tercera síntesi als capítols C15–C24 i s'han conservat íntegrament al document independent «PLANIFICACIO_GRAFICA_MG_FASE_POSTERIOR.md», identificades com a material elaborat durant la síntesi i no com a material del Word original. També s'han retirat els registres editorials de C15–C24 i els blocs «Control editorial i límits de verificació» de C22, C23, C33, C34, C35 i C37. La compilació C1–C39 s'ha sincronitzat amb els fitxers individuals corregits.
+
+La verificació directa del Word original «manual con estructura completa.docx» corregeix l'inventari gràfic anterior: s'hi identifiquen 153 propostes úniques, no 340. D'aquestes, 50 ja es conserven al document MG (C1, C2, C3, C33, C34, C35 i C37); queden 103 propostes originals pendents de trasllat (C4–C7, C11, C30–C32, C36, C38 i C39). Les 90 propostes de C15–C24 són addicionals i proceden de la tercera síntesi, no del Word original. Per tant, el document MG conté ara 140 propuestas en total: 50 originales + 90 añadidas durante la síntesis. La recuperación de las 103 originales restantes sigue pendiente; no se declara cerrada la fase gráfica.
+
+| 1.70 | 05/11/2026 | Depuración editorial de C15–C24 y controles C22–C23/C33–C35/C37; 90 propuestas trasladadas a MG; inventario corregido a 153 propuestas originales, 50 archivadas y 103 pendientes. Main intacta. |

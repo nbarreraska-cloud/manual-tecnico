@@ -669,3 +669,10 @@ S'ha completat la lectura comparativa dels textos disponibles de C12 i C13, no n
 - **C13:** es conserven les quatre tècniques, els seus mecanismes, variables, procediments, aplicacions i limitacions, la combinació, els nou errors, els criteris d'avaluació i els sis exercicis. No s'han identificat omissions substancials.
 - No s'han modificat els dos capítols perquè el coteig no ha justificat recuperacions de contingut. Les figures continuen reservades a MG.
 - La revisió transversal de terminologia i la conciliació de metadades/remissions continuen obertes.
+
+
+### Actualització F4 — incidència substantiva al capítol 14 (05/11/2026)
+
+El text original complet de C14 no s'ha localitzat; per tant, no es pot fer una validació integral ni atribuir a un original complet la consolidació actual. Tanmateix, el material font disponible i el registre editorial identifiquen com a distinció tècnica central la diferència entre la transparència del producte pictòric i la transparència o translucidesa de l'objecte representat.
+
+Aquesta distinció apareixia en el material de referència com a error específic i com a límit respecte del capítol 3, però no quedava formulada explícitament al Markdown actual. S'ha recuperat a l'apartat 14.2 i s'ha incorporat a la llista d'errors de 14.9. És una recuperació puntual justificada per evidència documental; C14 continua amb el límit de font declarat.

@@ -26,6 +26,8 @@ Un material translúcid transmet llum, però en dispersa una part a l'interior i
 | Translúcid | Amb dispersió | Redueix la nitidesa i difumina la informació |
 | Opac | Sense transmissió apreciable en les condicions considerades | Oculta els elements situats darrere |
 
+Cal distingir la **transparència del producte pictòric** de la **transparència de l'objecte representat**. La primera descriu la capacitat d'una pintura o tinta de deixar veure, en major o menor grau, la capa inferior; la segona descriu el comportament del material representat davant la llum i la informació situada al darrere. Una pintura transparent pot servir per modificar cromàticament una superfície opaca, però no converteix per si mateixa l'objecte en transparent. Aquesta distinció es relaciona amb les propietats dels productes del capítol 3.
+
 Els límits entre categories no sempre són absoluts. La composició, l'estructura interna, el gruix i les condicions d'il·luminació i observació en condicionen l'aparença. No s'ha de classificar un material només pel color o l'acabat: una superfície mat pot reflectir llum difusament sense ser translúcida, i una de brillant no ha de ser necessàriament transparent.
 
 Un mateix objecte pot combinar zones transparents, translúcides i opaques o mostrar variacions locals per gruix, curvatura, inclusions i irregularitats internes. La representació ha de reflectir aquestes diferències quan siguin rellevants.
@@ -197,6 +199,7 @@ El criteri de finalització no depèn de reproduir tots els fenòmens òptics po
 
 ## 14.9. Errors freqüents i procediments de correcció
 
+- **Confondre la transparència del producte amb la de l'objecte:** una pintura transparent no converteix automàticament la superfície representada en un material transparent. Cal revisar la relació entre l'objecte i el fons, així com els senyals de superfície i profunditat.
 - **Objecte aparentment invisible:** deixar zones sense informació pot impedir reconèixer-ne la presència. Cal incorporar contorns, reflexos i variacions necessàries sense cobrir el fons innecessàriament.
 - **Aparença opaca:** si desapareix la informació del darrere, cal recuperar els elements que s'haurien de veure i moderar les intervencions superficials.
 - **Fons massa nítid:** si es conserven tots els contorns i contrastos, cal reduir selectivament la definició quan la geometria o el material ho exigeixin.

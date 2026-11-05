@@ -785,3 +785,10 @@ Les frases són propostes de redacció en català. No s'ha modificat el text lec
 ## Regla per a la inserció futura
 
 La inserció es farà exclusivament en una còpia il·lustrada independent. La versió mestra sense imatges no es modificarà ni se sobreescriurà. La còpia il·lustrada tindrà identificació pròpia i es compararà amb la mestra per comprovar la conservació del text, l'estructura i els elements no gràfics.
+
+
+## Remissions creuades obligatòries
+
+- **C32, apartat 32.8:** mantenir una remissió al procediment general d'OSL del **C17, apartat 17.5**. No duplicar al C32 el procediment complet.
+- **C34, apartat 34.7:** remetre a la **Figura 34.1**, que integra les propostes P1 34.1 i 34.7. No crear una figura 34.7 autònoma.
+- **C35, apartats 35.2–35.3:** remetre a la **Figura 35.1**, que integra les propostes P1 35.1 i 35.2 en una làmina diagnòstica amb dos panells coordinats.

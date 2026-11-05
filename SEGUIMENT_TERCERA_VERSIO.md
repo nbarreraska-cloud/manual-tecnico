@@ -129,6 +129,14 @@ Cal recuperar procediments, explicacions tècniques, fonaments, advertiments, de
 - Recuperada la síntesi conceptual.
 - **Límit documental:** el registre del document de referència indica que no s'ha localitzat un text original complet del capítol 14 i que la versió disponible era una consolidació nova. Per tant, aquesta ampliació es basa en la comparació amb aquella versió consolidada de la primera síntesi; no es presenta com una recuperació íntegra d'un original desaparegut.
 
+### Capítol 15 — Il·luminació aplicada i planificació de valors
+
+- Ampliada l'anàlisi inicial amb quatre dimensions: estructura general, jerarquia d'elements, condicions de referència i zones superposades.
+- Desenvolupada la selecció de l'esquema en cinc aspectes: plantejament, font principal, direcció, contribucions secundàries i coherència global.
+- Revisats els apartats de valors, planificació per zones, mapes, aplicació, errors, criteris i exercicis, conservant les decisions i delimitacions ja presents.
+- Mantingudes les vuit propostes de figures i el registre editorial del fitxer.
+- **Límit documental:** no s'ha localitzat un text original complet del capítol 15. L'ampliació es basa en la consolidació disponible de la primera versió i en l'índex i els acords editorials recuperats; no es presenta com una recuperació íntegra d'un original.
+
 ## Tasques pendents
 
 1. Validar la integritat textual i estructural dels capítols 4 i 5 després de les recuperacions.

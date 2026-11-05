@@ -150,11 +150,13 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 
 ## C34 — Vidre
 
-### 34.1 — Comparació de tipus de vidre
-- **Llegenda prevista:** «Vidre transparent incolor, vidre acolorit i vidre esmerilat: diferències en la informació del fons i la transmissió visual.»
-- **Representació:** tres superfícies davant d'un mateix fons.
-- **Funció didàctica:** mostrar com varien la informació transmesa i la intensitat cromàtica.
-- **Límits:** distingir transparència, coloració i difusió; no representar el vidre esmerilat com a opac per defecte.
+### 34.1 + 34.7 — Tipus de vidre i diferències entre transparència i difusió
+- **Identificadors integrats:** 34.1 i 34.7.
+- **Ubicació:** 34.2; remissió des de 34.7.
+- **Llegenda de treball:** «Comparació de vidre transparent incolor, acolorit i esmerilat, amb una mateixa escena vista a través de vidre transparent i esmerilat.»
+- **Representació:** làmina amb tres mostres de tipus de vidre i un detall comparatiu que mantingui la mateixa escena al darrere de dues superfícies: una que conserva la definició i una altra que la difumina.
+- **Funció didàctica:** distingir la coloració del vidre de la transmissió definida o difusa, i fer visible la diferència entre transparència i esmerilat.
+- **Condicions i límits:** una sola composició; conservar el mateix fons i les mateixes condicions en el detall comparatiu. No confondre esmerilat amb opacitat absoluta ni amb un simple acabat mat.
 
 ### 34.2 — Senyals visuals del vidre
 - **Llegenda prevista:** «Vores, reflexos, fons transmès, gruix i distorsió com a indicis visuals del vidre.»
@@ -174,12 +176,6 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 - **Funció didàctica:** mostrar la variació cromàtica compatible amb la lectura de transparència.
 - **Límits:** no convertir el vidre acolorit en una superfície opaca ni uniformitzar-ne la transmissió.
 
-### 34.7 — Vidre transparent i esmerilat
-- **Llegenda prevista:** «Una mateixa escena vista a través de vidre transparent i de vidre esmerilat.»
-- **Representació:** comparació de la definició del fons en una superfície transparent i de la seva difusió en una superfície esmerilada.
-- **Funció didàctica:** fer visible la diferència entre transmissió definida i transmissió difusa.
-- **Límits:** mantenir la mateixa escena i condicions de comparació; no confondre esmerilat amb opacitat absoluta.
-
 ### 34.9 — Esquerdes, fractures i fragments de vidre
 - **Llegenda prevista:** «Diferències entre una superfície esquerdada, una fractura extensa i fragments separats de vidre.»
 - **Representació:** tres estats de dany, amb línies de fractura i vores dels fragments diferenciades.
@@ -188,17 +184,13 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 
 ## C35 — Integració cromàtica
 
-### 35.1 — Anàlisi cromàtica global
-- **Llegenda prevista:** «Identificació dels colors dominants, secundaris i accents d'una miniatura abans d'intervenir.»
-- **Representació:** miniatura anotada amb les masses cromàtiques principals.
-- **Funció didàctica:** mostrar com s'analitza la distribució cromàtica abans de seleccionar correccions.
-- **Límits:** no confondre extensió, saturació i importància visual.
-
-### 35.2 — Distribució de masses cromàtiques
-- **Llegenda prevista:** «Distribució simplificada dels colors principals i del seu pes visual.»
-- **Representació:** mapa de masses cromàtiques d'una miniatura simplificada.
-- **Funció didàctica:** diferenciar l'extensió física d'un color de la seva importància perceptiva.
-- **Límits:** no atribuir el pes visual exclusivament a la superfície ocupada.
+### 35.1 + 35.2 — Anàlisi global i distribució de masses cromàtiques
+- **Identificadors integrats:** 35.1 i 35.2.
+- **Ubicació:** 35.2–35.3.
+- **Llegenda de treball:** «Identificació dels colors dominants, secundaris i accents d'una miniatura i representació simplificada de les seves masses cromàtiques.»
+- **Representació:** dos panells coordinats: (A) miniatura anotada amb dominants, secundaris i accents; (B) mapa simplificat de les masses cromàtiques i del seu pes visual.
+- **Funció didàctica:** passar de l'observació del conjunt a la lectura de la distribució cromàtica abans d'intervenir.
+- **Condicions i límits:** preservar la diferència entre extensió física i pes perceptiu; no basar la jerarquia només en saturació ni reduir el mapa a una còpia de la miniatura.
 
 ### 35.4 — Harmonització i uniformitat
 - **Llegenda prevista:** «Comparació entre unitat cromàtica amb identitat material i modificació excessivament uniforme.»
@@ -1044,3 +1036,11 @@ Es conserven els quatre identificadors originals per a la traçabilitat, però n
 - **24.7 + 24.8:** les masses musculars i la diferenciació entre múscul, teixit adipós i connectiu comparteixen ubicació lectora (24.8) i s'organitzen en dos panells d'una làmina anatòmica coordinada. La separació només es recuperarà si la llegibilitat o la precisió anatòmica se'n ressenten.
 
 Aquestes fusions conserven els identificadors i tota la informació funcional, però eviten duplicar dues figures molt pròximes. Amb les dues fusions del C20, la fusió 22.2+22.5 i la composició condicionada 24.7+24.8, el recompte passa de 156 identificadors P1 a **152 composicions de treball**. La composició 24.7+24.8 es dividirà si la llegibilitat o la precisió anatòmica se'n ressenten.
+
+
+## Fusions addicionals de la passada transversal — 05/11/2026
+
+- **34.1 + 34.7:** el detall comparatiu de la mateixa escena a través de vidre transparent i esmerilat s'integra en la figura de tipus de vidre. L'apartat 34.7 remetrà a aquesta figura en lloc de repetir-la.
+- **35.1 + 35.2:** l'anàlisi de dominants, secundaris i accents i el mapa de masses cromàtiques passen a ser dos panells d'una mateixa làmina diagnòstica.
+
+Es conserven els quatre identificadors P1, però no es produeixen com a quatre figures separades. El recompte global passa de 156 identificadors P1 a **150 composicions de treball**, després de sis fusions o integracions de propostes P1.

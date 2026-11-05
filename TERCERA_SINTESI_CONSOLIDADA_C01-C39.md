@@ -7333,7 +7333,7 @@ Convé comprovar la coherència general de la miniatura, la llegibilitat dels se
 
 La finalització no exigeix eliminar tota irregularitat ni afegir tots els detalls possibles. En ocasions, continuar intervenint pot deteriorar un resultat que ja compleix la seva funció.
 
-Els procediments d'acabat, protecció i conservació es desenvolupen als capítols 35–38. La seva aplicació s'ha d'incorporar al pla quan correspongui, sense confondre la finalització de la pintura amb la protecció posterior.
+Els continguts d'harmonització cromàtica, desgast i transformació de superfícies, acabats superficials, protecció i conservació es desenvolupen als capítols 35–38. La seva aplicació s'ha d'incorporar al pla quan correspongui, sense confondre la finalització de la pintura amb la protecció posterior.
 
 ### 18.8.6. Documentació del resultat
 

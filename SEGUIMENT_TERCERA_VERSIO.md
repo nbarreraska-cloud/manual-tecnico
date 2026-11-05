@@ -532,3 +532,8 @@ Les intervencions G-01–G-09 i G-11 són treball editorial històric sobre la p
 Aquests commits no impliquen canvis als 39 Markdown. L'HTML continua separat de la revisió actual i no s'hi han fet modificacions durant aquest bloc de treball.
 
 **Estat de fase actual:** F2 disposa del Registre Mestre 1.1, encara subjecte a conciliació final de traçabilitat; F3 continua en curs. Les intervencions recents als capítols 25–32, 36 i 38, i els ajustos AE de 33–34, s'han guardat a la branca independent. La validació semàntica i el coteig final encara no s'han completat.
+
+
+### Precisió sobre els criteris d'avaluació incorporats (05/11/2026)
+
+En la revisió de les fonts originals s'ha comprovat que els exercicis dels capítols 36 i 38 no incloïen apartats explícits d'avaluació. Els criteris incorporats en aquests dos capítols són, per tant, propostes didàctiques editorials i no s'atribueixen a l'original. També s'han retirat les llistes de materials genèriques que no estaven prescrites per la font al capítol 38. Aquesta distinció queda registrada a la versió 1.3 del Registre Mestre.

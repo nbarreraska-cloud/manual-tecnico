@@ -100,3 +100,12 @@ La fitxa i la matriu situaven aquesta figura a 39.7, però aquest apartat del ma
 S'han contrastat els 116 ancoratges de les tandes 02 i 03 amb les ubicacions registrades a les fitxes editorials F10. El control no ha trobat cap composició situada fora de les ubicacions admeses per la seva fitxa. Les ubicacions alternatives de F10 s'han resolt escollint una de les opcions documentades, no inventant-ne una de nova.
 
 També s'ha conciliat la columna d'ubicació de la matriu de traçabilitat amb les fitxes editorials: les tres diferències textuals restants són només notes explicatives afegides a les fitxes per documentar les correccions de 5.3, 6.2 i 39.6; els apartats numèrics coincideixen.
+
+
+## 9. Decisió editorial sobre les remissions locals
+
+No s'aprova l'addició automàtica d'una frase «La Figura X presenta...» a cada punt d'inserció. Quan la figura aparegui immediatament després de l'explicació corresponent, la proximitat, el títol i la llegenda poden ser suficients. En aquests casos, la remissió local s'omet per evitar que el manual repeteixi el que ja comunica la figura.
+
+Es conserven com a necessàries les remissions no locals o de navegació identificades a l'apartat 3: C22 22.6 cap a la Figura 22.2; C32 32.8 cap al procediment OSL de C17 17.5; C34 34.7 cap a la Figura 34.1; C35 35.2–35.3 cap a la Figura 35.1; i la remissió conceptual de la Figura 5.2 cap a 5.4.1 quan el desenvolupament ho requereixi.
+
+Les 150 ubicacions de figura es mantenen com a ancoratges editorials. Les frases locals de les tres tandes són opcions de redacció, no 150 insercions obligatòries. La decisió final de conservar una crida local es prendrà només quan es maquetin figura, llegenda i paràgraf en la còpia il·lustrada.

@@ -224,7 +224,7 @@ La finalitat no consisteix a deteriorar visualment tota la superfície, sinó a 
 4. Representar una superfície molt deteriorada.
 5. Comparar la quantitat, la distribució i la intensitat de les alteracions.
 
-**Avaluació:** comprovar que els tres estats es distingeixen sense necessitat d'aplicar el mateix patró de desgast a tota la superfície.
+**Criteri d'avaluació proposat:** comprovar que els tres estats es distingeixen sense necessitat d'aplicar el mateix patró de desgast a tota la superfície.
 
 ### 36.11.2. Construcció d'abrasions i fregadures
 
@@ -238,7 +238,7 @@ La finalitat no consisteix a deteriorar visualment tota la superfície, sinó a 
 5. Modificar-ne la distribució segons la geometria.
 6. Comparar les diferents marques.
 
-**Avaluació:** comprovar que les abrasions i les fregadures presenten una relació coherent amb les zones de contacte i no es distribueixen uniformement.
+**Criteri d'avaluació proposat:** comprovar que les abrasions i les fregadures presenten una relació coherent amb les zones de contacte i no es distribueixen uniformement.
 
 ### 36.11.3. Construcció de ratllades i impactes
 
@@ -251,7 +251,7 @@ La finalitat no consisteix a deteriorar visualment tota la superfície, sinó a 
 4. Comparar profunditat aparent, forma i contrast.
 5. Adaptar cada marca a la geometria.
 
-**Avaluació:** comprovar que les ratllades conserven una direcció comprensible i que els impactes es diferencien per la seva forma i distribució.
+**Criteri d'avaluació proposat:** comprovar que les ratllades conserven una direcció comprensible i que els impactes es diferencien per la seva forma i distribució.
 
 ### 36.11.4. Construcció de desconxats
 
@@ -264,7 +264,7 @@ La finalitat no consisteix a deteriorar visualment tota la superfície, sinó a 
 4. Construir una pèrdua més extensa.
 5. Comparar zones amb diferents capes exposades.
 
-**Avaluació:** comprovar que el color de les pèrdues correspon a l'estructura de capes i al material subjacent.
+**Criteri d'avaluació proposat:** comprovar que el color de les pèrdues correspon a l'estructura de capes i al material subjacent.
 
 ### 36.11.5. Envelliment ambiental
 
@@ -277,7 +277,7 @@ La finalitat no consisteix a deteriorar visualment tota la superfície, sinó a 
 4. Construir variacions cromàtiques a les zones exposades.
 5. Comparar el color original i les zones modificades.
 
-**Avaluació:** comprovar que l'alteració es distribueix de manera coherent i que es manté prou informació del material original.
+**Criteri d'avaluació proposat:** comprovar que l'alteració es distribueix de manera coherent i que es manté prou informació del material original.
 
 ### 36.11.6. Exercici integrador: transformació d'una superfície per ús i exposició
 
@@ -292,7 +292,7 @@ La finalitat no consisteix a deteriorar visualment tota la superfície, sinó a 
 6. Construir les alteracions de manera jerarquitzada.
 7. Avaluar la relació entre material, geometria i ús representat.
 
-**Avaluació:** comprovar que les marques mantenen una relació coherent amb el material, la geometria i la funció de l'objecte, i que el resultat no és una acumulació indiscriminada d'efectes.
+**Criteri d'avaluació proposat:** comprovar que les marques mantenen una relació coherent amb el material, la geometria i la funció de l'objecte, i que el resultat no és una acumulació indiscriminada d'efectes.
 
 ## 36.12. Referències i recursos
 

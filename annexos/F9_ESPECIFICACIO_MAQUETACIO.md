@@ -47,3 +47,10 @@ La paginació definitiva no es fixa en F9 perquè les imatges s'integraran en fa
 ## 6. Resultat de la primera generació (05/11/2026)
 
 La primera compilació DOCX s'ha generat correctament. La conversió de comprovació ha produït 339 pàgines A4. La validació del paquet Word confirma 39 capítols, annexos A–F, 48 fitxes úniques, 336 encapçalaments de secció i quatre agrupacions comercials. L'índex automàtic és un camp Word amb actualització en obrir; cal verificar-lo a Word perquè l'exportació de comprovació no l'ha actualitzat. La revisió visual integral i la verificació de fidelitat són pendents.
+
+
+## 7. Segona generació — validació de composició (05/11/2026)
+
+La segona generació de GitHub Actions ha finalitzat correctament (run 42075834908). El generador corregeix els salts de pàgina i la numeració de llistes, i el camp de l'índex s'ha ajustat a nivells 1–2. Després d'actualitzar el contingut de l'índex amb LibreOffice UNO, el DOCX de comprovació produeix un PDF de 352 pàgines A4, amb l'índex a les pàgines 2–12 i el cos a partir de la 13. L'escaneig de pàgines no detecta pàgines pràcticament buides. La inspecció visual de mostres confirma llegibilitat en portada, índex, text corrent, taules d'annex i final de l'Annex F.
+
+La validació estructural confirma 39 capítols, annexos A–F, 48 fitxes i 336 seccions de fitxa. La comparació textual exhaustiva i la revisió visual pàgina per pàgina continuen pendents; no es declara F9 tancada.

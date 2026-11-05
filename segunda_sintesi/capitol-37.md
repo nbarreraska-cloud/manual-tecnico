@@ -113,20 +113,30 @@ L'acabat és adequat quan la resposta coincideix amb l'objectiu i manté coherè
 
 ## 37.7. Errors freqüents i correccions
 
-| Error | Correcció |
-|---|---|
-| Aplicar el mateix acabat a tota la miniatura | Identificar materials i diferenciar acabats quan calgui. |
-| Confondre brillantor amb identitat material | Considerar també color, textura, geometria i patrons. |
-| Brillantor excessiva | Reduir-la o reservar-la a zones concretes. |
-| Eliminar brillantor d'una superfície que la necessita | Recuperar un grau compatible i localitzar-lo quan correspongui. |
-| Confondre humitat i brillantor | Combinar acabat amb distribució, forma i senyals del líquid. |
-| Ignorar acabat original de la pintura | Avaluar la superfície seca abans de modificar-la. |
-| Avaluar abans de l'assecat | Esperar l'estat indicat pel fabricant. |
-| Diferències involuntàries | Revisar continuïtat i controlar acumulacions i aplicacions irregulars. |
-| Confondre acabat i protecció | Seleccionar producte segons funció declarada. |
-| Utilitzar brillantor com a substitut de llum | Separar construcció pictòrica de llums, ombres i reflexos i selecció de l'acabat. |
+| Error | Problema que produeix | Correcció |
+|---|---|---|
+| Aplicar un acabat uniforme a tota la miniatura | Un acabat general pot eliminar diferències importants entre materials. | Identificar les superfícies i seleccionar el grau de brillantor de manera diferenciada quan calgui. |
+| Confondre brillantor amb identitat material | Una superfície brillant no és necessàriament metàl·lica, ni una superfície mate és necessàriament mineral o orgànica. | Utilitzar l'acabat juntament amb el color, la textura, la geometria i els patrons propis del material. |
+| Utilitzar una brillantor excessiva | Un excés de brillantor pot generar reflexos massa intensos i competir amb la lectura dels detalls. | Reduir la intensitat de l'acabat o reservar-lo per a zones concretes. |
+| Eliminar completament la brillantor de superfícies que la necessiten | Un acabat excessivament mat pot reduir l'aparença de materials polits, humits o vitrificats. | Recuperar un grau de brillantor compatible amb la superfície i mantenir-lo localitzat quan correspongui. |
+| Confondre humitat i brillantor | Una superfície brillant no comunica necessàriament humitat. | Combinar l'acabat amb la distribució, la forma i els senyals visuals propis del líquid o de la superfície humida. |
+| Ignorar l'acabat original de la pintura | Aplicar un producte sense comprovar l'acabat de la capa inferior pot produir una modificació innecessària. | Avaluar primer la superfície un cop seca i modificar-la únicament quan hi hagi una necessitat visual. |
+| Avaluar l'acabat abans de l'assecat | L'aparença d'un producte durant l'aplicació pot diferir de la que presenta un cop sec. | Esperar el temps indicat pel fabricant abans de valorar el resultat. |
+| Generar diferències de brillantor involuntàries | Les aplicacions irregulars poden produir zones amb una aparença superficial diferent. | Comprovar la continuïtat de la superfície i revisar les zones amb acumulacions o diferències no previstes. |
+| Confondre acabat i protecció | Un producte que modifica la brillantor no ofereix necessàriament el nivell de protecció requerit. | Seleccionar el producte segons la seva funció declarada. La protecció i conservació es desenvolupen al capítol 38. |
+| Utilitzar la brillantor com a substitut de la il·luminació | Un acabat brillant no substitueix la construcció pictòrica de llums, ombres i reflexos. | Mantenir diferenciades la representació de la il·luminació i la selecció de l'acabat superficial. |
 
-La comprovació final ha d'incloure correspondència amb l'efecte, coherència material, justificació de diferències, control de zones selectives, conservació dels detalls i absència d'alteracions cromàtiques indesitjades.
+**Criteris d'avaluació**
+
+Una selecció adequada de l'acabat ha de complir els criteris següents:
+- El grau de brillantor correspon a l'efecte buscat.
+- La resposta superficial és coherent amb el material.
+- Les diferències entre acabats estan justificades.
+- Les zones selectives presenten una distribució controlada.
+- L'acabat no elimina detalls ni altera innecessàriament la lectura cromàtica.
+- La il·luminació permet observar correctament el resultat.
+- La funció del producte està clarament identificada.
+- L'aparença final manté la coherència del conjunt.
 
 ## 37.8. Exercicis pràctics
 
@@ -147,3 +157,18 @@ La comprovació final ha d'incloure correspondència amb l'efecte, coherència m
 - Capítol 38: protecció, envernissament i conservació.
 
 Els catàlegs identifiquen productes i característiques declarades; no són proves comparatives independents ni garanteixen resultats idèntics sobre qualsevol superfície. Els exercicis són propostes didàctiques, no assajos propis realitzats.
+
+## Propostes de figures per a MG
+
+Les deu figures següents queden reservades per a la fase gràfica final. No s'han de generar ni inserir durant aquesta etapa.
+
+1. **Comparació d'acabats mat, setinat i brillant.** Mostrar tres superfícies equivalents sota una il·luminació comuna. Diferenciar la intensitat i la definició dels reflexos, mantenint constants la geometria i el color de base.
+2. **Reflexió especular i reflexió més difusa.** Representar esquemàticament com canvia la distribució de la llum reflectida segons la resposta superficial. Evitar identificar la reflexió difusa amb l'absència de reflexió.
+3. **Influència de l'orientació i la il·luminació en la brillantor percebuda.** Mostrar una mateixa superfície observada des de diferents angles i sota diverses posicions relatives de la llum. Explicar que la percepció de la brillantor no depèn exclusivament del producte aplicat.
+4. **Relació entre acabat, textura i distribució de reflexos.** Comparar superfícies amb diferents característiques d'acabat i textura. Evitar presentar la rugositat com l'única explicació de qualsevol diferència de brillantor.
+5. **Diferents acabats sobre una mateixa superfície cromàtica.** Mostrar un mateix color amb acabat mat, setinat i brillant. Mantenir equivalents les condicions d'il·luminació per observar principalment la diferència superficial.
+6. **Selecció de l'acabat segons materials i efectes.** Presentar exemples de tela mate, cuir setinat, metall polit, vidre brillant, fusta tractada i roca mate. Deixar clar que són exemples orientatius, no regles universals.
+7. **Diferenciació de materials mitjançant acabats selectius.** Representar una miniatura o composició amb materials que presenten diferents graus de brillantor. Mostrar com l'acabat contribueix a identificar les superfícies.
+8. **Distribució localitzada de la brillantor.** Mostrar una superfície amb zones mates, satinades i brillants, explicant com es pot distribuir l'acabat selectivament.
+9. **Seqüència d'anàlisi i selecció de l'acabat.** Representar la identificació del material, l'avaluació de la superfície, la selecció de l'acabat i la comprovació del resultat.
+10. **Errors freqüents i resultats corregits.** Comparar una miniatura amb brillantor excessiva, acabat uniforme, pèrdua de diferenciació material i aplicació selectiva incorrecta amb versions on l'acabat està millor distribuït.

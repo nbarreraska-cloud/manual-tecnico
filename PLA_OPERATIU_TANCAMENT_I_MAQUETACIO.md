@@ -178,3 +178,10 @@ Les 150 composicions disposen ara d'una ubicació lectora explícita i d'una pro
 La numeració encara no es congela: queda condicionada a la revisió semàntica final, a les remissions textuals que s'incorporaran a F11 i a la decisió definitiva sobre si alguna P2 s'ha d'integrar. La llista actual no reserva números per a P2 no seleccionades.
 
 **Estat F10:** 156 identificadors P1, 150 composicions, 150 ubicacions i 150 números proposats. La següent tasca és revisar la coherència final de les ubicacions i dependències, tancar les redundàncies residuals i congelar la selecció. F11 continua bloquejada.
+
+
+## 17. Traçabilitat de les integracions P2/P3 — 05/11/2026
+
+S'ha creat `annexos/matriu_integracio_P2_P3_F10.md` amb les propostes complementàries que poden integrar-se en composicions P1 i les P2 que continuen en reserva. La matriu conserva 32 relacions d'origen/destinació i indica si la integració és confirmada, prevista o condicionada.
+
+Les integracions complementàries no augmenten el nombre de figures si es resolen com a panells dins de les 150 composicions. No s'han d'incloure automàticament: cada panell ha de tenir una funció clara, no duplicar el text i mantenir la llegibilitat. La selecció principal continua sent 156 identificadors P1 en 150 composicions.

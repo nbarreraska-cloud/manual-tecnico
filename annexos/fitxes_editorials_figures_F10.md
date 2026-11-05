@@ -236,3 +236,199 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 - La proposta 35.10 (P3) s'integra com a panell d'avaluació i errors dins de 35.9; no es compta com a figura autònoma.
 - Les propostes no seleccionades es mantenen a la font original i a la classificació per preservar-ne la traçabilitat.
 - No s'ha generat ni inserit cap imatge.
+
+
+## C36 — Envelliment i desgast
+
+### 36.1 — Envelliment, desgast i deteriorament
+- **Llegenda prevista:** «Diferències entre alteracions associades a l'exposició prolongada, pèrdua per contacte i dany superficial o estructural.»
+- **Representació:** tres superfícies amb alteracions diferenciades.
+- **Funció didàctica:** evitar que envelliment, desgast i deteriorament s'utilitzin com a sinònims.
+- **Límits:** no atribuir totes les alteracions a una mateixa causa ni establir un patró universal.
+
+### 36.2 — Distribució del desgast segons la geometria i l'ús
+- **Llegenda prevista:** «Zones de contacte, vores exposades i superfícies protegides segons la geometria i la funció de l'objecte.»
+- **Representació:** objecte amb àrees d'ús i exposició diferenciades.
+- **Funció didàctica:** relacionar la distribució de les alteracions amb el contacte i la forma.
+- **Límits:** evitar patrons uniformes o decoratius sense relació amb l'ús.
+
+### 36.3 — Abrasió, fregadures i ratllades
+- **Llegenda prevista:** «Comparació entre pèrdua superficial per abrasió, marca de fricció i alteració lineal per ratllada.»
+- **Representació:** tres alteracions sobre superfícies equivalents.
+- **Funció didàctica:** distingir mecanismes i aparences que no són intercanviables.
+- **Límits:** no representar totes les marques com a línies ni atribuir-les a una causa única.
+
+### 36.4 — Impactes i danys localitzats
+- **Llegenda prevista:** «Danys per impacte de diferent intensitat, des de pèrdues superficials fins a alteracions més profundes.»
+- **Representació:** detalls de cops i pèrdues locals adaptats a la geometria de la peça.
+- **Funció didàctica:** relacionar la forma del dany amb la geometria i la intensitat de l'impacte.
+- **Límits:** no exagerar la profunditat ni repetir una mateixa forma de dany en tots els materials.
+
+### 36.5 — Estructura de capes i pèrdua de recobriment
+- **Llegenda prevista:** «Secció simplificada del suport i dels recobriments, amb una zona de pèrdua que deixa visibles les capes inferiors.»
+- **Representació:** secció de suport, capes intermèdies pertinents i recobriment exterior.
+- **Funció didàctica:** mostrar què queda exposat quan es perd part de les capes superiors.
+- **Límits:** utilitzar només l'estructura de capes pertinent al cas; no presentar-la com una estratigrafia universal.
+
+### 36.6 — Desconxats petits i pèrdues extenses
+- **Llegenda prevista:** «Comparació de pèrdues localitzades i desprendiments extensos segons forma, densitat i material exposat.»
+- **Representació:** superfícies amb danys de diferent extensió i distribució.
+- **Funció didàctica:** diferenciar pèrdues puntuals de zones àmplies de recobriment desprès.
+- **Límits:** evitar patrons regulars i mantenir coherència amb el material de base.
+
+### 36.8 — Desgast en materials diferents
+- **Llegenda prevista:** «Exemples de desgast adaptats a metall pintat, fusta, cuir, teixit, ceràmica i plàstic.»
+- **Representació:** comparació de sis materials amb alteracions pròpies de cadascun.
+- **Funció didàctica:** mostrar que els signes de desgast depenen del material i no es poden aplicar com una recepta única.
+- **Límits:** no repetir les receptes específiques dels capítols de materials ni uniformitzar els danys.
+
+### 36.9 — Seqüència de construcció d'una superfície desgastada
+- **Llegenda prevista:** «Progressió des de la superfície original fins al desgast construït, amb planificació, pèrdua de recobriment, marques secundàries i avaluació.»
+- **Representació:** seqüència de les fases descrites al capítol.
+- **Funció didàctica:** ordenar el procés i mostrar la relació entre alteracions principals i secundàries.
+- **Límits:** no afegir procediments absents del text ni representar la seqüència com a resultat experimental.
+
+## C37 — Acabats i brillantor
+
+### 37.2 — Reflexió especular i reflexió més difusa
+- **Llegenda prevista:** «Diferències en la distribució de la llum reflectida segons la resposta superficial.»
+- **Representació:** comparació esquemàtica de reflexos més definits i més estesos.
+- **Funció didàctica:** explicar com canvia la distribució de la reflexió.
+- **Límits:** una superfície mat no és una superfície sense reflexió; no confondre reflexió difusa amb absència de llum reflectida.
+
+### 37.3 — Orientació, il·luminació i brillantor percebuda
+- **Llegenda prevista:** «Canvis en la brillantor percebuda d'una mateixa superfície segons l'orientació i la posició relativa de la llum i de l'observador.»
+- **Representació:** mateixa superfície en diferents orientacions o condicions d'observació.
+- **Funció didàctica:** mostrar que la brillantor percebuda no depèn exclusivament del producte aplicat.
+- **Límits:** mantenir constants les variables que no s'estiguin comparant; no atribuir el canvi a una sola causa.
+
+### 37.4 — Relació entre acabat, textura i reflexos
+- **Llegenda prevista:** «Comparació de superfícies amb acabats i textures diferents i la distribució de reflexos corresponent.»
+- **Representació:** matriu comparativa que separi acabat, textura i resposta reflectant.
+- **Funció didàctica:** mostrar la relació entre variables sense reduir una a l'altra.
+- **Límits:** no presentar la rugositat com l'explicació única de totes les diferències de brillantor.
+
+### 37.6 — Selecció de l'acabat segons materials i efectes
+- **Llegenda prevista:** «Exemples orientatius de selecció d'acabat per a teixit, cuir, metall, vidre, fusta i roca.»
+- **Representació:** comparació de materials i aparences superficials amb criteris de selecció.
+- **Funció didàctica:** relacionar l'acabat amb l'efecte visual i la funció de la superfície.
+- **Límits:** les associacions són orientatives, no regles universals ni equivalències fixes entre material i acabat.
+
+### 37.7 — Diferenciació de materials mitjançant acabats selectius
+- **Llegenda prevista:** «Una mateixa composició amb materials diferenciats mitjançant una distribució selectiva dels acabats.»
+- **Representació:** miniatura o composició amb materials i graus de brillantor diferenciats.
+- **Funció didàctica:** mostrar com l'acabat contribueix a identificar superfícies diferents.
+- **Límits:** la brillantor és un indici més, no l'únic criteri d'identificació material.
+
+### 37.8 — Distribució localitzada de la brillantor
+- **Llegenda prevista:** «Zones mates, setinades i brillants distribuïdes selectivament sobre una mateixa superfície.»
+- **Representació:** mapa d'acabats localitzats amb justificació funcional de cada zona.
+- **Funció didàctica:** mostrar que l'acabat es pot controlar per zones.
+- **Límits:** no distribuir els tres acabats arbitràriament ni com a codi universal.
+
+### 37.9 — Seqüència d'anàlisi i selecció de l'acabat
+- **Llegenda prevista:** «Procés d'identificació del material, avaluació de la superfície, selecció de l'acabat i comprovació.»
+- **Representació:** seqüència de decisió i control.
+- **Funció didàctica:** ordenar la selecció de l'acabat a partir de l'observació i de l'objectiu visual.
+- **Límits:** ubicació corregida a la síntesi del procés; no presentar-la com a recepta única.
+
+### 37.10 — Errors freqüents i criteris de correcció
+- **Llegenda prevista:** «Errors de brillantor excessiva, acabat uniforme, pèrdua de diferenciació material i aplicació selectiva inadequada.»
+- **Representació:** parelles diagnòstiques d'error i criteri de correcció.
+- **Funció didàctica:** facilitar l'avaluació crítica de l'acabat.
+- **Límits:** no inventar resultats corregits ni atribuir defectes a una sola causa quan hi pugui haver diverses variables.
+
+## C38 — Protecció i conservació
+
+### 38.2 — Fases d'assecat i estabilització
+- **Llegenda prevista:** «Diferències entre assecat superficial, assecat al tacte i estabilització de la pel·lícula protectora.»
+- **Representació:** esquema de les fases d'evolució d'una pel·lícula de vernís.
+- **Funció didàctica:** distingir estats que no són equivalents.
+- **Límits:** no establir intervals temporals universals; seguir les indicacions del fabricant i les condicions ambientals.
+
+### 38.4 — Selecció del sistema de protecció segons l'ús
+- **Llegenda prevista:** «Criteris de protecció per a miniatures d'exposició, de joc i peces amb elements delicats.»
+- **Representació:** comparació de tres contextos d'ús i les necessitats de conservació associades.
+- **Funció didàctica:** relacionar el sistema de protecció amb la manipulació i la fragilitat de la peça.
+- **Límits:** no prescriure un vernís únic per a tots els casos ni convertir els exemples en normes absolutes.
+
+### 38.5 — Seqüència de preparació i inspecció
+- **Llegenda prevista:** «Comprovacions prèvies a l'aplicació: assecat, neteja, zones sensibles i compatibilitat.»
+- **Representació:** seqüència d'inspecció i preparació abans d'aplicar el protector.
+- **Funció didàctica:** evitar l'aplicació precipitada sense comprovar l'estat de la superfície.
+- **Límits:** no afegir proves o productes no descrits; la compatibilitat s'ha de verificar amb informació fiable.
+
+### 38.6 — Aplicació amb pinzell, aerògraf i aerosol
+- **Llegenda prevista:** «Comparació dels sistemes d'aplicació del protector amb pinzell, aerògraf i aerosol.»
+- **Representació:** tres procediments amb característiques generals diferenciades.
+- **Funció didàctica:** distingir els sistemes d'aplicació i les seves implicacions operatives.
+- **Límits:** seguir les instruccions del fabricant; no incloure pressions, distàncies o proporcions universals.
+
+### 38.7 — Distribució controlada i acumulació excessiva
+- **Llegenda prevista:** «Comparació d'una pel·lícula protectora distribuïda de manera controlada i d'acumulacions en cavitats i detalls.»
+- **Representació:** dues superfícies comparables amb distribució diferent del producte.
+- **Funció didàctica:** facilitar la detecció d'acumulacions que poden afectar la lectura de la peça.
+- **Límits:** no atribuir totes les acumulacions a una única causa ni presentar-les com a resultat d'un producte concret sense prova.
+
+### 38.8 — Alteracions per incompatibilitat o aplicació incorrecta
+- **Llegenda prevista:** «Exemples d'alteracions possibles: terbolesa, canvis de brillantor, acumulacions, pèrdua de definició i afectació d'efectes especials.»
+- **Representació:** làmina diagnòstica de símptomes amb causes possibles diferenciades.
+- **Funció didàctica:** ajudar a identificar alteracions sense confondre observació i explicació causal.
+- **Límits:** no atribuir un defecte a una sola variable sense evidència; distingir símptoma, hipòtesi i causa comprovada.
+
+### 38.10 — Seqüència integral de protecció i conservació
+- **Llegenda prevista:** «Procés de protecció des de l'avaluació inicial fins a l'aplicació, estabilització, emmagatzematge i revisió.»
+- **Representació:** diagrama del procés complet amb fases i punts de control.
+- **Funció didàctica:** integrar les operacions de protecció i conservació en una visió de conjunt.
+- **Límits:** no duplicar els procediments detallats ni els exercicis; no convertir el diagrama en un calendari universal.
+
+## C39 — Diagnòstic i correcció
+
+### 39.1 — Seqüència general de diagnòstic
+- **Llegenda prevista:** «Procés de diagnòstic: observació, identificació del símptoma, anàlisi de causes, selecció d'intervenció i avaluació.»
+- **Representació:** diagrama de decisió amb retorn a l'observació quan la intervenció no resol el problema.
+- **Funció didàctica:** ordenar el diagnòstic i mostrar que la correcció depèn de l'anàlisi prèvia.
+- **Límits:** no totes les observacions exigeixen intervenir; no representar una seqüència rígida i irreversible.
+
+### 39.2 — Diferència entre símptoma, causa i correcció
+- **Llegenda prevista:** «Una mateixa alteració superficial pot tenir causes diferents i requerir decisions de correcció diferents.»
+- **Representació:** exemple ramificat d'un símptoma amb diverses causes possibles i intervencions associades.
+- **Funció didàctica:** evitar que l'aparença d'un defecte es confongui amb la seva causa.
+- **Límits:** no establir causalitat única sense comprovació.
+
+### 39.3 — Inspecció d'una miniatura
+- **Llegenda prevista:** «Observació general, inspecció propera i il·luminació lateral com a nivells complementaris d'inspecció.»
+- **Representació:** mateixa miniatura observada a distància, de prop i amb llum lateral.
+- **Funció didàctica:** mostrar què aporta cada nivell d'observació.
+- **Límits:** l'ampliació no substitueix l'avaluació a la distància habitual de lectura.
+
+### 39.4 — Classificació dels problemes habituals
+- **Llegenda prevista:** «Mapa de les famílies de problemes: suport, aplicació, color, il·luminació, textura, efectes, acabats i danys físics.»
+- **Representació:** mapa visual de les categories definides al capítol.
+- **Funció didàctica:** facilitar l'orientació inicial del diagnòstic.
+- **Límits:** conservar exactament les categories del text; no afegir ni ometre famílies.
+
+### 39.5 — Nivells d'intervenció
+- **Llegenda prevista:** «Nivells d'intervenció des de l'ajust localitzat fins a la recuperació més àmplia, amb comparació de l'abast local i global.»
+- **Representació:** escala o matriu de nivells d'intervenció; integrar-hi com a panell la comparació localitzada/global de la proposta 39.6.
+- **Funció didàctica:** ajudar a seleccionar l'abast de la intervenció segons el diagnòstic.
+- **Límits:** els nivells no són una seqüència obligatòria ni impliquen que una intervenció més extensa sigui millor.
+
+### 39.7 — Diagnòstic d'alteracions superficials
+- **Llegenda prevista:** «Símptomes superficials de dipòsits, textura irregular, pèrdua d'adherència i alteració de la brillantor.»
+- **Representació:** exemples esquemàtics de diferents alteracions superficials.
+- **Funció didàctica:** practicar la identificació del símptoma abans de formular-ne la causa.
+- **Límits:** no presentar els exemples com a resultats reals ni assignar una causa única sense evidència.
+
+### 39.10 — Arbre de decisió: corregir o conservar
+- **Llegenda prevista:** «Criteris per decidir si convé conservar, integrar, corregir o reconstruir una zona.»
+- **Representació:** arbre de decisió que parteixi del diagnòstic i contempli la conservació com una opció vàlida.
+- **Funció didàctica:** evitar intervencions innecessàries i ajustar l'abast de la correcció.
+- **Límits:** no substituir el diagnòstic inicial ni convertir les opcions en una jerarquia automàtica.
+
+## Control d'aquesta tanda
+
+- Propostes P1 tractades: 8 de C36, 8 de C37, 7 de C38 i 7 de C39 (**30 fitxes editorials**).
+- La proposta 39.6 (P2) s'integra com a panell de comparació local/global dins de 39.5; no es compta com a figura autònoma.
+- Les propostes no seleccionades es mantenen a la font original i a la classificació.
+- No s'ha generat ni inserit cap imatge.

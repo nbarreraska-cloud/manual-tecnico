@@ -73,9 +73,9 @@ Després de la inspecció visual s'ha detectat una ruptura de fila en una taula 
 
 La nova generació ha superat els workflows de Word i PDF:
 
-- Workflow PDF: execució `42084879151`, conclusió `success`, commit `695bbba398d3d995397cb731c847a508cccd0cb2`.
-- Artefacte PDF: `Manual-tecnic-pintura-miniatures-F9-PDF`, ID `13443305349`.
-- PDF de 326 pàgines A4, 7.614.626 bytes, generat amb LibreOffice 26.2.6.3; PDF etiquetat i sense xifrar.
+- Workflow PDF: execució `42085900835`, conclusió `success`, commit `7775a03c741482fd190bec93b0a52c9e4e9354fc`.
+- Artefacte PDF: `Manual-tecnic-pintura-miniatures-F9-PDF`, ID `13442523341`.
+- PDF de 326 pàgines A4, 7.614.626 bytes, generat amb LibreOffice 26.2.6.3; PDF etiquetat i sense xifrar. SHA-256: `e66ace0ab29d14f61a80160880fd139d567432ad10a59d3e859f463ae285c61d`.
 - Índex actualitzat a les pàgines 2–11; el cos comença a la pàgina 12. L'índex inclou els capítols, els annexos i els quatre grups de fitxes de l'Annex F. No hi queda el text provisional d'actualització.
 - Estructura DOCX: 39 capítols, 159 taules, 48 fitxes, 336 seccions de fitxa i quatre grups comercials. Les 1.385 files tenen activada la protecció contra divisió entre pàgines.
 - L'auditoria de fidelitat DOCX continua amb 55 fitxers font, 174.623 paraules font i 174.682 paraules al cos del DOCX; es preserven multiplicitats i ordre.

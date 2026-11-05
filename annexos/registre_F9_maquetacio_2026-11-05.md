@@ -154,3 +154,14 @@ Canvis editorials:
 - Es conserven les 48 referències, els quatre conjunts i l'ordre de l'índex.
 
 La generació Word a GitHub Actions ha finalitzat correctament (execució `42118619973`, artefacte `13457976522`). La validació de fidelitat del DOCX també ha finalitzat correctament. La regeneració PDF i la comprovació visual de la nova paginació queden pendents de tancament abans de considerar substituïda la maqueta anterior.
+
+
+La regeneració PDF de la nova composició també ha finalitzat correctament:
+- Workflow PDF: execució `42118619951`, conclusió `success`.
+- Artefacte PDF: `Manual-tecnic-pintura-miniatures-F9-PDF`, ID `13456843490`.
+- PDF: 299 pàgines A4, 6.620.662 bytes, LibreOffice 26.2.6.3.
+- SHA-256: `be8f8552bc0997605b30f4a33f4d69586d2d57540f81894f6952842f32e34f18`.
+- Índex actualitzat; instrucció provisional absent; comprovacions d'integritat i paginació del workflow superades.
+- Auditoria DOCX: 39 capítols, annexos A–E i 48 identitats de fitxa; comprovació de referències de capítol superada.
+
+La nova maqueta substitueix la composició anterior dins de l'artefacte F9 generat. La comprovació automàtica no equival a una inspecció visual manual ampliada de cadascuna de les 12 pàgines de l'Annex F; aquesta revisió queda identificada com a control editorial pendent abans de donar per tancada la nova presentació.

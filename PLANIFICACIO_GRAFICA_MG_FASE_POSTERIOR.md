@@ -4,7 +4,7 @@
 
 Data de separació: 2026-11-05
 Origen: branca intervencion-editorial-2026-11
-Propostes recuperades del Word original: 153 (C1–C7, C11, C30–C39, segons l'inventari de propostes del document font).
+Propostes recuperades del Word original: 153 (C1–C7, C11, C30–C39).
 Propostes addicionals elaborades durant la tercera síntesi: 90 (C15–C24).
 Total arxivat: 243 propostes (153 originals + 90 addicionals).
 
@@ -105,6 +105,36 @@ Crear un esquema de decisió que relacioni les necessitats d'aplicació amb les 
 
 ## Propostes de figures per a MG
 
+Figura 33.1. Comparación de cuerpos cerámicos
+Mostrar tres cuerpos cerámicos diferenciados por su estructura y apariencia: una cerámica porosa, una cerámica compacta y una porcelana. La finalidad es distinguir el cuerpo del material sin utilizar el brillo como único criterio.
+
+Figura 33.2. Cerámica sin esmaltar y superficies esmaltadas
+Comparar una superficie cerámica sin recubrimiento y varias superficies esmaltadas. Mostrar cómo el recubrimiento modifica la continuidad, la textura y la apariencia general de la pieza.
+
+Figura 33.3. Acabados cerámicos
+Presentar una misma geometría con acabados mate, satinado y brillante. La figura debe diferenciar la apariencia del esmalte y el comportamiento visual de los reflejos, sin desarrollar procedimientos de barnizado.
+
+Figura 33.4. Porcelana blanca y marfil
+Comparar dos superficies de porcelana con bases cromáticas diferentes. Mostrar cómo las sombras y variaciones tonales conservan el volumen sin convertir ambas piezas en superficies uniformemente blancas o amarillas.
+
+Figura 33.5. Construcción de una superficie de terracota
+Mostrar una secuencia de base, variaciones rojizas, sombras y aclarados. La finalidad es explicar la construcción cromática de una superficie cerámica cálida y no representar una textura pétrea.
+
+Figura 33.6. Construcción de un esmalte coloreado
+Representar una superficie esmaltada de color azul, verde o rojo, mostrando la construcción cromática y la organización de los reflejos. Debe quedar clara la diferencia entre el color del esmalte y su acabado superficial.
+
+Figura 33.7. Craquelado y pérdida localizada del esmalte
+Comparar una superficie esmaltada intacta, una con craquelado y otra con pérdida localizada del recubrimiento. La figura debe distinguir las fisuras superficiales de las fracturas del cuerpo cerámico.
+
+Figura 33.8. Familias visuales de materiales plásticos
+Mostrar superficies plásticas lisas, texturizadas, mates y brillantes. La función es destacar la diversidad de apariencias de los plásticos y evitar que se interpreten como un material visualmente uniforme.
+
+Figura 33.9. Reflejos sobre superficies plásticas
+Comparar la distribución de reflejos en superficies planas, curvas y con relieves moldeados. La figura debe mostrar cómo la geometría condiciona la apariencia del acabado.
+
+Figura 33.10. Comparación final de materiales y errores frecuentes
+Presentar ejemplos de cerámica, porcelana y plástico en una misma composición. Incluir errores representativos: porcelana excesivamente blanca, cerámica confundida con piedra, esmalte sin continuidad superficial, plástico excesivamente metálico y texturas incompatibles.
+
 Les deu figures següents queden reservades per a la fase gràfica final. No s'han de generar ni inserir durant aquesta etapa.
 
 | Figura | Contingut | Ubicació prevista |
@@ -134,6 +164,36 @@ Les deu figures següents queden reservades per a la fase gràfica final. No s'h
 ## segunda_sintesi/capitol-34.md
 
 ## Propostes de figures per a MG
+
+Figura 34.1. Comparación de tipos de vidrio
+Mostrar tres superficies: vidrio transparente incoloro, vidrio coloreado y vidrio esmerilado. Debe apreciarse cómo cambia la información visible del fondo y la intensidad cromática.
+
+Figura 34.2. Señales visuales del vidrio
+Representar una superficie de vidrio con indicación de bordes, reflejos, información transmitida, espesor y distorsión. La figura debe centrarse en las señales que permiten reconocer el material.
+
+Figura 34.3. Panel de vidrio transparente
+Mostrar una secuencia de construcción de una ventana o panel plano: fondo, delimitación parcial de bordes, reflejos y acentos de luz. Debe conservarse la lectura del fondo.
+
+Figura 34.4. Recipiente de vidrio transparente
+Representar una botella o recipiente curvo mediante la organización de los bordes, el espesor y los reflejos. La figura debe mostrar que la distribución de las señales se adapta a la geometría.
+
+Figura 34.5. Vidrio coloreado
+Comparar cuatro ejemplos de vidrio verde, azul, ámbar y rojizo. Debe observarse cómo cambia la coloración sin perder las señales de transparencia.
+
+Figura 34.6. Vidriera policromada
+Mostrar una vidriera dividida en paneles coloreados y separaciones estructurales. La distribución debe adaptarse a la geometría general y mantener una jerarquía cromática clara.
+
+Figura 34.7. Vidrio transparente y esmerilado
+Comparar una misma escena observada a través de dos superficies. Una debe conservar la definición del fondo y la otra difuminarlo mediante una transmisión más dispersa.
+
+Figura 34.8. Vidrio grabado y texturizado
+Mostrar una superficie lisa junto a otra con grabados, estrías o motivos superficiales. Debe apreciarse cómo estos detalles modifican la apariencia sin eliminar necesariamente la transparencia.
+
+Figura 34.9. Grietas y fragmentos
+Comparar una superficie agrietada, una fractura más extensa y varios fragmentos separados. Deben diferenciarse las líneas de fractura de los bordes y reflejos de cada fragmento.
+
+Figura 34.10. Comparación final y errores frecuentes
+Presentar ejemplos de vidrio transparente, coloreado y esmerilado junto a errores representativos: exceso de blanco, bordes demasiado uniformes, reflejos incompatibles con la geometría, vidrio coloreado opaco y distorsiones exageradas.
 
 Les deu figures següents queden reservades per a la fase gràfica final. No s'han de generar ni inserir durant aquesta etapa.
 
@@ -165,6 +225,36 @@ Les deu figures següents queden reservades per a la fase gràfica final. No s'h
 
 ## Propostes de figures per a MG
 
+Figura 35.1. Análisis cromático global
+Mostrar una miniatura con sus colores dominantes, secundarios y acentos identificados. La finalidad es explicar cómo se analiza la distribución cromática antes de intervenir.
+
+Figura 35.2. Distribución de masas cromáticas
+Representar la distribución de los colores principales mediante una simplificación de la miniatura. Debe distinguirse la extensión de cada color de su importancia visual.
+
+Figura 35.3. Repetición y variación cromática
+Mostrar un mismo color o familia cromática en diferentes elementos, con variaciones de valor, saturación y temperatura. La figura debe explicar cómo se establece unidad sin repetir mezclas idénticas.
+
+Figura 35.4. Armonización y uniformidad
+Comparar una miniatura con colores relacionados pero diferenciados y otra en la que todas las superficies han recibido una modificación cromática excesivamente uniforme. Debe quedar clara la diferencia entre unidad y pérdida de identidad material.
+
+Figura 35.5. Integración entre materiales
+Mostrar una composición con metal, cuero, tela y piel, señalando las relaciones cromáticas compartidas y las diferencias necesarias para conservar la identidad de cada material.
+
+Figura 35.6. Integración de figura y peana
+Representar una figura junto a su peana y señalar las relaciones entre colores dominantes, materiales del terreno y elementos de la figura. La figura debe mostrar cómo ambas partes pueden funcionar como una composición común.
+
+Figura 35.7. Influencias ambientales
+Mostrar ejemplos de variaciones cromáticas localizadas procedentes del entorno, como reflejos cálidos, influencias frías o relaciones cromáticas con superficies próximas. Debe evitarse sugerir que todas las superficies reciben la misma influencia.
+
+Figura 35.8. Correcciones localizadas y globales
+Comparar una intervención limitada a una superficie con otra que modifica una parte extensa de la miniatura. Debe apreciarse la diferencia de alcance y el riesgo de alterar zonas que ya funcionaban correctamente.
+
+Figura 35.9. Secuencia de armonización
+Mostrar las etapas de análisis, identificación de problemas, definición de objetivos, selección de procedimientos, intervención y evaluación final.
+
+Figura 35.10. Resultado integrado y errores frecuentes
+Comparar una composición cromáticamente integrada con ejemplos de errores: exceso de uniformidad, saturación mal distribuida, figura y peana desconectadas, influencias ambientales excesivas y pérdida de identidad material.
+
 Les deu figures següents queden reservades per a la fase gràfica final. No s'han de generar ni inserir durant aquesta etapa.
 
 | Figura | Contingut | Ubicació prevista |
@@ -194,6 +284,36 @@ Les deu figures següents queden reservades per a la fase gràfica final. No s'h
 ## segunda_sintesi/capitol-37.md
 
 ## Propostes de figures per a MG
+
+Figura 37.1. Comparación de acabados mate, satinado y brillante
+Mostrar tres superficies equivalentes bajo una iluminación común. Diferenciar la intensidad y definición de los reflejos, manteniendo constante la geometría y el color de base.
+
+Figura 37.2. Reflexión especular y reflexión más difusa
+Representar de forma esquemática cómo cambia la distribución de la luz reflejada según la respuesta superficial. Evitar identificar la reflexión difusa con ausencia de reflexión.
+
+Figura 37.3. Influencia de la orientación y la iluminación en el brillo percibido
+Mostrar una misma superficie observada desde diferentes ángulos y bajo distintas posiciones relativas de la iluminación. La finalidad es explicar que la percepción del brillo no depende exclusivamente del producto aplicado.
+
+Figura 37.4. Relación entre acabado, textura y distribución de reflejos
+Comparar superficies con diferentes características de acabado y textura. La figura debe evitar presentar la rugosidad como explicación única de toda diferencia de brillo.
+
+Figura 37.5. Diferentes acabados sobre una misma superficie cromática
+Mostrar un mismo color con acabado mate, satinado y brillante. Mantener equivalentes las condiciones de iluminación para que se observe principalmente la diferencia superficial.
+
+Figura 37.6. Selección del acabado según materiales y efectos
+Presentar ejemplos de diferentes materiales y apariencias: tela mate, cuero satinado, metal pulido, vidrio brillante, madera tratada y roca mate. Debe quedar claro que son ejemplos orientativos y no reglas universales.
+
+Figura 37.7. Diferenciación de materiales mediante acabados selectivos
+Representar una miniatura o composición que combine materiales con diferentes grados de brillo. El objetivo es mostrar cómo el acabado contribuye a la identificación de las superficies.
+
+Figura 37.8. Distribución localizada del brillo
+Mostrar una superficie con zonas mates, satinadas y brillantes, explicando cómo puede distribuirse el acabado de manera selectiva.
+
+Figura 37.9. Secuencia de análisis y selección del acabado
+Representar el proceso de identificación del material, evaluación de la superficie, selección del acabado y comprobación del resultado.
+
+Figura 37.10. Errores frecuentes y resultados corregidos
+Comparar una miniatura con brillo excesivo, acabado uniforme, pérdida de diferenciación material y aplicación selectiva incorrecta con versiones donde el acabado está mejor distribuido.
 
 Les deu figures següents queden reservades per a la fase gràfica final. No s'han de generar ni inserir durant aquesta etapa.
 

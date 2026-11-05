@@ -6,7 +6,7 @@
 
 ## 1. Objectiu immediat
 
-Tancar primer el document textual complet —39 capítols i cinc annexos regenerats— i obtenir una primera maqueta Word completa **sense imatges**. La revisió, selecció, producció i integració gràfica es faran després.
+Tancar primer el document textual complet —39 capítols i sis annexos, inclòs l'Annex F amb les 48 fitxes individuals— i obtenir una primera maqueta Word completa **sense imatges**. La revisió, selecció, producció i integració gràfica es faran després.
 
 Aquest pla no autoritza a modificar `main`, la versió publicada ni el contingut aprovat dels capítols. Les recuperacions ja aplicades no es repeteixen ni es reobren per defectes menors.
 
@@ -49,7 +49,7 @@ Fer una passada de control del document complet sense imatges. Comprovar estruct
 
 ### Pas 4 — F9: primera maquetació Word completa, sense imatges
 
-Maquetar els 39 capítols i els annexos A–E. Treballar portada, estils, jerarquia tipogràfica, taules, índexs, encapçalaments, peus, salts, paginació i composició.
+Maquetar els 39 capítols i els annexos A–F. L'Annex F reunirà les 48 fitxes individuals, després de l'Annex E, en un format compacte que preservi íntegrament les set seccions de cada fitxa. La compactació afectarà només la composició i els espais, no el contingut. Treballar portada, estils, jerarquia tipogràfica, taules, índexs, encapçalaments, peus, salts, paginació i composició.
 
 **Definició de tancament:** maqueta textual completa i revisada. No és encara la paginació definitiva del manual il·lustrat, perquè les imatges posteriors poden alterar salts, espais, taules i distribució de pàgina.
 
@@ -82,14 +82,16 @@ La referència actual és d'aproximadament 300 pàgines per als 39 capítols sen
 
 ## 6. Estat actual i següent acció
 
-**F5 — regeneració A–E: completada (05/11/2026); pendent d'auditoria transversal F6 i control final F8.**
+**F5 — regeneració A–E: completada (05/11/2026). F6 — auditoria transversal: completada (05/11/2026). F8 — auditoria textual final: completada després de les correccions documentals registrades el 05/11/2026.**
 
-- **A:** regenerat i arxivat l'anterior; pendent de F6/F8.
-- **B:** regenerat i arxivat l'anterior; pendent de F6/F8.
-- **C:** regenerat i arxivat l'anterior; 183 entrades i referències contrastades amb les receptes de C19–C34; pendent de F6/F8.
-- **D:** regenerat i arxivat l'anterior; 92 entrades vinculades a les receptes i referències de C, amb pintures contrastades amb A i els apartats d'origen; pendent de F6/F8.
-- **E:** regenerat i arxivat l'anterior; guia de consulta contrastada amb C1–C39 i A–D; remissions als 39 capítols i presència dels annexos A–D verificades; pendent de F6/F8.
+- **A:** regenerat i arxivat l'anterior; F6 i F8 completades; sense incidències obertes de contingut en aquesta auditoria.
+- **B:** regenerat i arxivat l'anterior; F6 i F8 completades; sense incidències obertes de contingut en aquesta auditoria.
+- **C:** regenerat i arxivat l'anterior; 183 entrades i referències contrastades amb les receptes de C19–C34; F6 i F8 completades; sense incidències obertes de contingut en aquesta auditoria.
+- **D:** regenerat i arxivat l'anterior; 92 entrades vinculades a les receptes i referències de C, amb pintures contrastades amb A i els apartats d'origen; F6 i F8 completades; sense incidències obertes de contingut en aquesta auditoria.
+- **E:** regenerat i arxivat l'anterior; guia de consulta contrastada amb C1–C39 i A–D; remissions als 39 capítols i presència dels annexos A–D verificades; F6 i F8 completades; sense incidències obertes de contingut en aquesta auditoria.
 
 **F6 — auditoria transversal: completada (05/11/2026).** L'informe es troba a `annexos/auditoria_transversal_F6_2026-11-05.md`. Les 48 fitxes individuals s'han regenerat documentalment a `fitxes-pintures/`, amb una per referència, índex general i enllaços directes des de l'Annex A. La discrepància entre C2.5/C3.1 i A.5 queda resolta. Les fitxes separen les dades documentades pel fabricant a escala de família de les propietats individuals pendents; no s'hi atribueixen proves experimentals.
 
-**Següent acció:** iniciar F8, auditoria textual final del paquet complet (39 capítols, annexos A–E i 48 fitxes individuals). No iniciar la selecció/producció gràfica ni inserir imatges durant F8–F9.
+**F8 — resultat:** auditoria textual completada. S'han comprovat els 39 títols i l'ordre dels capítols, la correspondència entre fitxers i compilació (38 coincidències exactes i una discrepància ortogràfica a C28, corregida), la numeració, les taules, els residus editorials, els annexos A–E, les 48 fitxes i els 49 destinataris interns de l'Annex A. La correcció de C28 normalitza dues aparicions de «gema» a «gemma». No s'han identificat incidències estructurals addicionals. Les receptes i les fitxes continuen sense validació experimental. El registre detallat és `annexos/auditoria_F8_2026-11-05.md`.
+
+**Següent acció:** iniciar F9, maquetació Word textual completa sense imatges, amb 39 capítols i annexos A–F. Les 48 fitxes s'incorporaran després de l'Annex E com a Annex F independent. No iniciar la selecció/producció gràfica ni inserir imatges durant F9.

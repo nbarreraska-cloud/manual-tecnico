@@ -59,7 +59,7 @@ Definir silueta, cos, coll, obertura i base; mantenir el centre relativament obe
 
 ### 34.4.1. Recipients transparents amb contingut
 
-Distingir vidre exterior i contingut interior. Construir primer el contingut segons el material representat (els líquids i fluids es tracten al capítol 31). Després definir límits del recipient, mantenir visible el contingut, introduir vores i reflexos exteriors, diferenciar superfície del líquid i reflexos del vidre i comprovar que tots dos es llegeixen independentment. El reflex del vidre no s'ha de confondre amb el brillantor del líquid. La selecció i aplicació de vernissos i altres acabats superficials es desenvolupa al capítol 37.
+Distingir vidre exterior i contingut interior. Construir primer el contingut segons el material representat (els líquids i fluids es tracten al capítol 31). Després definir límits del recipient, mantenir visible el contingut, introduir vores i reflexos exteriors, diferenciar superfície del líquid i reflexos del vidre i comprovar que tots dos es llegeixen independentment. El reflex del vidre no s'ha de confondre amb la brillantor del líquid. La selecció i aplicació de vernissos i altres acabats superficials es desenvolupa al capítol 37.
 
 ## 34.5. Vidre acolorit
 

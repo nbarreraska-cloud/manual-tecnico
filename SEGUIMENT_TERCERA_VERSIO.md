@@ -866,7 +866,7 @@ Aquesta secció és la referència operativa més recent i preval sobre les inst
 - **F1:** auditoria comparativa completada per als 39 capítols.
 - **F2:** en curs; el Registre Mestre està actualitzat a la versió 1.44. Resta revisar la totalitat de les files de la matriu i les anotacions històriques per completar la conciliació.
 - **F3:** completada per a les accions RT/RD/AE identificades a la matriu.
-- **F4:** en curs. La revisió semàntica de remissions C1–C39 està completada i documentada; s'ha precisat una remissió a C18. C5 té coteig de contingut i bibliografia completat; C4 té revisió de correspondència estructural i didàctica principal. La fidelitat documental s'ha cotejat per a C12–C13, C25–C29 i C38, amb els límits de font descrits al Registre Mestre. C30–C32 i C36 tenen revisió de contingut amb la font disponible. C19 té un coteig limitat a la font disponible. No es considera validada la totalitat dels 39 capítols.
+- **F4:** en curs. La revisió semàntica de remissions C1–C39 i la comprovació estructural global dels 39 Markdown estan completades. Tenen coteig documental de contingut completat C5, C7–C10, C12–C13, C25–C29 i C38; C4 i C6 tenen revisió de correspondència estructural i didàctica principal; C14–C18 tenen revisions limitades contra material consolidat disponible, sense originals complets recuperats; C19 té un coteig limitat a la font disponible; C30–C32 i C36 tenen revisió de contingut amb la font disponible. No es considera validada la totalitat dels 39 capítols.
 - **F5:** pendent fins al tancament de F4.
 - **F6:** completada el 05/11/2026; auditoria global de coherència transversal C1–C39 tancada. No equival a validació experimental.
 - **F7:** pendent; revisió gràfica i maquetació Word després de F4 i F5.

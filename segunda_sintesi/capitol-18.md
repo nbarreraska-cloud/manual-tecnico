@@ -305,11 +305,47 @@ La taula és una eina d'organització, no un ordre obligatori. Les fases es pode
 
 ## 18.6. Compatibilitat i combinació de tècniques
 
-Abans de combinar procediments cal valorar si una aplicació pot reactivar, alterar o ocultar una altra; si pot acumular-se material; si pot perjudicar detalls; i si el producte final és compatible amb les fases posteriors. La compatibilitat depèn del producte, el suport, l'estat d'assecat i les condicions d'aplicació, no només del nom de la tècnica. Quan no hi hagi informació suficient, convé fer una prova.
+### 18.6.1. Compatibilitat entre procediments
 
-Les tècniques són complementàries quan resolen funcions diferents i els resultats es reforcen: les capes base estableixen el color, els degradats construeixen transicions, els rentats poden definir enfonsaments, els perfilats separen elements, el pinzell sec destaca relleus, el puntejat introdueix textura i les veladures modifiquen la tonalitat d'una superfície construïda. NMM i OSL poden coexistir si es diferencia la resposta reflectant del metall de la influència d'una font lluminosa.
+La combinació de tècniques exigeix considerar com interactuen els materials i els resultats.
 
-No s'han d'acumular procediments pel simple fet que siguin compatibles. Abans d'afegir-ne un, cal preguntar-se quin problema resol, quina informació aporta, si millora realment el resultat i si una intervenció més senzilla seria suficient. La tècnica també ha de respectar la identitat del material: un tractament adequat per a una superfície rugosa pot ser inadequat per a una de llisa i brillant.
+Convé comprovar si una aplicació pot reactivar o alterar una altra, si el producte posterior pot modificar l'acabat anterior, si una tècnica pot ocultar detalls, si una acumulació pot perjudicar la lectura d'una superfície, si l'acabat previst permet fer intervencions posteriors i si les eines utilitzades poden deteriorar zones ja acabades.
+
+La compatibilitat no depèn únicament del nom de les tècniques. També pot variar segons el producte, el suport, l'estat d'assecat i les condicions d'aplicació.
+
+Quan no es disposa d'informació suficient, convé fer una prova prèvia.
+
+### 18.6.2. Complementarietat entre tècniques
+
+Dues o més tècniques es poden combinar quan compleixen funcions diferents i els seus resultats es reforcen.
+
+Per exemple:
+
+- Les capes base estableixen la referència cromàtica i els degradats modifiquen progressivament la relació entre tons.
+- Els rentats poden contribuir a definir determinades cavitats, mentre que els perfilats delimiten selectivament els elements.
+- El pinzell sec pot destacar relleus i el puntejat introduir variacions de textura.
+- Les veladures poden modificar l'aparença cromàtica d'una superfície sense substituir-ne la construcció prèvia.
+- El NMM i l'OSL poden coexistir si es diferencia la resposta reflectant del metall de la influència d'una font lluminosa.
+
+La combinació ha de respondre a una necessitat visual. No es justifica pel simple fet que les tècniques es puguin utilitzar conjuntament.
+
+### 18.6.3. Evitar l'acumulació innecessària de procediments
+
+La utilització de massa tècniques pot perjudicar la claredat del resultat.
+
+Una superfície pot perdre coherència si rep nombroses aplicacions que competeixen entre si o en modifiquen repetidament l'aparença.
+
+Abans d'afegir una nova operació convé preguntar-se quin problema resol, quina informació visual aporta, si millora realment el resultat, si es podria aconseguir mitjançant una correcció més senzilla i si hi ha risc de deteriorar el treball anterior.
+
+La selecció ha de prioritzar la funció de cada procediment i evitar intervencions redundants.
+
+### 18.6.4. Respecte a les característiques de cada material
+
+La combinació de tècniques ha de mantenir la identitat visual de les superfícies.
+
+Un procediment que funciona en una superfície rugosa pot no resultar adequat en una altra de llisa i brillant. De la mateixa manera, una tècnica d'acumulació pot ser apropiada per representar dipòsits de brutícia, però resultar incoherent si s'aplica sense criteri sobre una superfície que ha de conservar un acabat net.
+
+Els fonaments del capítol 6 i les aplicacions dels capítols 19–34 permeten valorar aquestes diferències.
 
 ## 18.7. Control i decisions durant l'execució
 

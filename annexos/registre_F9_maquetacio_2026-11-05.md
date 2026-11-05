@@ -129,10 +129,10 @@ S'ha incorporat la propietat `cantSplit` a totes les files de taula del generado
 
 - Commit de correcció del generador: `7e525f5516781eb543a46cbb6d5d54a179963d85`.
 - Commit del workflow i metadades: `7775a03c741482fd190bec93b0a52c9e4e9354fc`.
-- Workflow PDF de comprovació posterior a la correcció: execució `42084879151`, conclusió `success`, commit `695bbba398d3d995397cb731c847a508cccd0cb2`.
-- Artefacte PDF d'aquesta execució: ID `13443305349`.
+- Workflow PDF de comprovació posterior a la correcció: execució `42085900835`, conclusió `success`, commit `7775a03c741482fd190bec93b0a52c9e4e9354fc`.
+- Artefacte PDF d'aquesta execució: ID `13442523341`.
 - PDF resultant: 326 pàgines A4; 7.614.626 bytes; LibreOffice 26.2.6.3; índex a les pàgines 2–11 i cos des de la 12; sense instrucció provisional d'actualització de l'índex.
-- SHA-256 del PDF: `cc1ed19ba125e907cf2e59be6f7ee051b184231c006a397b8117f38a883e47b2`.
+- SHA-256 del PDF: `e66ace0ab29d14f61a80160880fd139d567432ad10a59d3e859f463ae285c61d`.
 - DOCX: 39 capítols, 159 taules, 1.385 files protegides contra divisió, 48 fitxes i 336 seccions de fitxa.
 - Auditoria PDF–DOCX: es localitzen els 39 títols de capítol i les 48 fitxes; no s'hi detecten dèficits de tokens de contingut. Les diferències restants són únicament el text provisional del camp de l'índex, que s'elimina en actualitzar-lo.
 - Inspecció visual: fulls de contacte de les 326 pàgines i mostres ampliades; la fila B.3 queda íntegra. No s'observen pàgines en blanc o gairebé buides.

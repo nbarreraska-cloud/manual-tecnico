@@ -69,3 +69,23 @@ Després de corregir el generador, s'ha actualitzat aquest registre per desencad
 
 
 S'ha ajustat també el camp de l'índex automàtic perquè mostri els nivells 1–2 en lloc d'1–3. La primera actualització amb LibreOffice va generar un índex de 30 pàgines, massa extens per a una consulta funcional; es manté el nivell de capítols i apartats principals, evitant desplegar tots els subapartats i les 48 fitxes a l'índex general. Cal validar la paginació de la nova versió.
+
+
+## Segona generació i validació de composició — 05/11/2026
+
+- Workflow GitHub Actions: execució `42075834908`, conclusió `success`, branca `intervencion-editorial-2026-11`, commit de generació `9ac70c6055ff035337466167a06f721f3fc35b63`.
+- Artefacte de la segona generació: `Manual-tecnic-pintura-miniatures-F9`, ID `13439430358`, mida ZIP informada per GitHub 417.440 bytes.
+- S'ha actualitzat l'índex amb LibreOffice UNO i s'ha desat el DOCX amb l'índex ja calculat. L'índex ocupa les pàgines 2–12 i mostra capítols i apartats principals (nivells 1–2); el cos comença a la pàgina 13. La primera prova amb nivells 1–3 ocupava 30 pàgines i s'ha descartat per excés d'extensió.
+- PDF de comprovació de la versió amb índex actualitzat: 352 pàgines A4.
+- Escaneig de les 352 pàgines: no s'han detectat pàgines pràcticament buides. Les antigues pàgines 35 i 284 ja no són pàgines buides; són pàgines de contingut normal.
+- Inspecció visual de mostres: portada, índex, cos del capítol, taula d'annex i final de l'Annex F. La mostra de taula examinada és llegible i manté les columnes.
+- Validació DOCX: 159 taules; 39 capítols; annexos A–F; 48 títols de fitxa; 336 encapçalaments de secció (7 × 48); quatre grups comercials; cap paràgraf utilitza l'estil automàtic `List Number` després de la correcció.
+- DOCX de treball verificat després d'actualitzar l'índex: 476.244 bytes; SHA-256 `6b4add0d3bd53cbfc87eb0988601e533d6c4644da9c60423ae28c6cf440ba7d3`.
+
+## Estat de les comprovacions després de la segona generació
+
+Resoltes: salts que generaven pàgines gairebé buides; numeració automàtica acumulativa de llistes; índex calculat i llegible amb nivells 1–2; estructura i recompte de fitxes; mostres visuals indicades.
+
+Encara obertes: comparació textual exhaustiva amb totes les fonts Markdown; inspecció visual individual de totes les pàgines i de totes les taules; verificació final de les divisions de cada fitxa i de les capçaleres/peus a tot el document. Per tant, la segona generació corregeix les incidències detectades però **no tanca encara F9**.
+
+La versió DOCX amb l'índex actualitzat és una instantània textual de F9. Quan s'integrin imatges a F11 caldrà recalcular l'índex i repaginar; no s'ha d'interpretar la paginació de 352 pàgines com a definitiva.

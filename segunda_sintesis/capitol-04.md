@@ -183,16 +183,193 @@ La planificació d'una armadura blava permet integrar les dimensions i relacions
 
 La planificació és una base de treball que ha de continuar oberta als ajustos durant l'execució.
 
-## 4.11. Exercicis d'aplicació
+## 4.11. Errors habituals en l'aplicació de la teoria del color
 
-Els exercicis següents desenvolupen la capacitat d'analitzar, seleccionar i justificar decisions cromàtiques. Són propostes didàctiques, no resultats experimentals del manual.
+### 4.11.1. Confondre matís, valor i croma
 
-1. **Anàlisi de les dimensions del color.** Seleccionar diverses pintures, identificar-ne el matís aproximat i comparar-ne els valors i els cromes. Agrupar les mostres per semblances i diferències. L'objectiu és descriure un color sense limitar-se al nom comercial.
-2. **Construcció d'un cercle cromàtic.** Seleccionar tres pintures que puguin servir de referència per als primaris del model RYB. Fer mescles entre elles, preparar mostres dels secundaris i explorar transicions cap als terciaris. Comparar els resultats amb l'organització teòrica i registrar-ne les diferències.
-3. **Temperatura cromàtica.** Seleccionar diverses pintures d'una mateixa família, col·locar-les juntes i ordenar-les segons la tendència relativament càlida o freda. Repetir-ho amb una altra família.
-4. **Construcció d'harmonies.** Preparar petites paletes monocromàtiques, anàlogues, complementàries i triàdiques. Comparar-ne la coherència, el contrast i la facilitat d'aplicació dins una composició.
-5. **Modificació d'un color.** Seleccionar un color de partida i preparar mostres independents per modificar-ne el matís, el valor i el croma. Comparar els resultats i registrar les proporcions, les observacions i les dimensions que han canviat.
-6. **Planificació cromàtica d'una miniatura.** Identificar les superfícies principals d'una miniatura o imatge de referència. Definir una intenció cromàtica, seleccionar dominant, secundaris i accents, comprovar les diferències de valor i revisar temperatura i croma. Preparar una prova conjunta i avaluar-ne la coherència, la diferenciació i la jerarquia visual.
+Un error freqüent consisteix a intentar resoldre qualsevol problema cromàtic canviant el color. Si una superfície no destaca, potser necessita una diferència de valor i no un canvi de matís. Si un color sembla massa intens, potser cal reduir-ne el croma i no enfosquir-lo.
+
+**Correcció:** identifica primer quina dimensió del color està generant el problema.
+
+### 4.11.2. Considerar absoluts els colors càlids i freds
+
+La temperatura cromàtica és relativa. Classificar tots els vermells com a càlids i tots els blaus com a freds simplifica massa les relacions reals.
+
+**Correcció:** compara colors d'una mateixa família i observa'n les tendències relatives.
+
+### 4.11.3. Aplicar les harmonies com a fórmules rígides
+
+Una paleta complementària, triàdica o anàloga no garanteix per si sola una composició equilibrada.
+
+**Correcció:** utilitza les harmonies com a punt de partida i ajusta els valors, els cromes i les proporcions segons la funció de cada superfície.
+
+### 4.11.4. Utilitzar massa colors intensos
+
+Quan tots els elements presenten cromes elevats, la composició pot perdre jerarquia.
+
+**Correcció:** selecciona on necessites intensitat i utilitza colors de croma més baix per acompanyar i equilibrar.
+
+### 4.11.5. Confondre una paleta limitada amb una paleta pobra
+
+Una paleta amb pocs colors pot produir una composició rica si les relacions entre ells estan ben organitzades.
+
+**Correcció:** treballa les variacions de matís, valor i croma abans d'incorporar més pintures.
+
+### 4.11.6. Modificar un color sense identificar el resultat buscat
+
+Afegir blanc, negre o un color complementari sense una intenció definida pot produir mescles inesperades.
+
+**Correcció:** determina si necessites modificar el matís, el valor o el croma i fes petites proves.
+
+### 4.11.7. Valorar els colors únicament a la paleta
+
+Un color pot semblar adequat de manera aïllada i resultar poc equilibrat quan es col·loca al costat dels altres elements.
+
+**Correcció:** fes proves conjuntes i avalua la composició completa.
+
+### 4.11.8. Confiar exclusivament en la representació digital
+
+Els colors mostrats en una pantalla depenen del dispositiu, la calibració i les condicions de visualització.
+
+**Correcció:** utilitza les referències digitals per planificar, però comprova les pintures físiques sobre el suport real.
+
+### 4.11.9. Confondre harmonia cromàtica amb il·luminació
+
+Una paleta pot ser coherent i, tanmateix, presentar una representació deficient del volum.
+
+**Correcció:** separa la planificació cromàtica de la construcció de llums i ombres. Totes dues s'han de coordinar, però no són el mateix procés.
+
+## 4.12. Procediment pràctic d'anàlisi i planificació cromàtica
+
+Els exercicis següents permeten aplicar els fonaments del capítol mitjançant l'observació, la selecció i l'experimentació. No requereixen reproduir receptes predeterminades. L'objectiu és desenvolupar la capacitat d'analitzar i justificar les decisions cromàtiques. Són propostes didàctiques, no resultats experimentals del manual.
+
+### Exercici 1. Anàlisi de les dimensions del color
+
+**Objectiu:** aprendre a diferenciar matís, valor i croma.
+
+**Procediment:**
+1. Seleccionar diverses pintures de famílies cromàtiques diferents.
+2. Identificar el matís aproximat de cada mostra.
+3. Comparar-ne la claredat i la foscor.
+4. Comparar-ne les diferències de croma.
+5. Agrupar les mostres segons les semblances i les diferències.
+6. Registrar les observacions.
+
+**Avaluació:** comprovar si es pot descriure un color sense limitar-se a indicar-ne el nom comercial.
+
+### Exercici 2. Construcció d'un cercle cromàtic
+
+**Objectiu:** comprendre l'organització tradicional dels colors i les seves limitacions quan es treballa amb pintures reals.
+
+**Procediment:**
+1. Seleccionar tres pintures que puguin utilitzar-se com a referències dels primaris dins del model RYB.
+2. Fer proves de combinació entre elles.
+3. Preparar mostres dels colors secundaris.
+4. Explorar les transicions cap als terciaris.
+5. Col·locar les mostres seguint l'organització del cercle cromàtic.
+6. Registrar les diferències respecte del model teòric.
+
+**Avaluació:** observar com es comporten les pintures reals en comparació amb l'organització pedagògica del model.
+
+### Exercici 3. Comparació de la temperatura cromàtica
+
+**Objectiu:** reconèixer variacions càlides i fredes dins d'una mateixa família.
+
+**Procediment:**
+1. Seleccionar diverses pintures d'una mateixa família cromàtica.
+2. Col·locar-les juntes.
+3. Comparar-ne les tendències relatives.
+4. Ordenar-les des de l'aparença relativament més càlida fins a la més freda.
+5. Repetir l'exercici amb una altra família.
+
+**Avaluació:** comprovar si es poden identificar diferències de temperatura sense dependre únicament del nom comercial.
+
+### Exercici 4. Construcció d'harmonies cromàtiques
+
+**Objectiu:** experimentar amb diferents relacions cromàtiques.
+
+**Procediment:**
+1. Seleccionar una harmonia monocromàtica.
+2. Construir una segona paleta anàloga.
+3. Preparar una combinació complementària.
+4. Experimentar amb una combinació triàdica.
+5. Comparar les propostes.
+6. Valorar-ne la coherència, el contrast i la facilitat d'aplicació.
+
+**Avaluació:** identificar quines relacions cromàtiques permeten aconseguir l'efecte visual buscat i quins ajustos necessiten per funcionar dins d'una composició.
+
+### Exercici 5. Modificació d'un color
+
+**Objectiu:** comprendre com canvien les dimensions del color quan es fan mescles.
+
+**Procediment:**
+1. Seleccionar un color de partida.
+2. Preparar petites mostres independents.
+3. Modificar el matís en una de les mostres.
+4. Modificar el valor en una altra.
+5. Modificar el croma en una tercera.
+6. Comparar els resultats.
+7. Registrar les proporcions i les observacions.
+
+**Avaluació:** comprovar si es poden identificar els canvis produïts i si s'ha assolit l'objectiu inicial.
+
+### Exercici 6. Planificació cromàtica d'una miniatura
+
+**Objectiu:** aplicar els conceptes del capítol a una composició completa.
+
+**Procediment:**
+1. Identificar les superfícies principals d'una miniatura sense pintar o d'una imatge de referència.
+2. Definir una intenció cromàtica.
+3. Seleccionar un color dominant.
+4. Escollir els colors secundaris.
+5. Introduir possibles accents.
+6. Comprovar les diferències de valor.
+7. Revisar la temperatura i el croma.
+8. Avaluar la jerarquia visual.
+9. Fer una prova conjunta abans de pintar la miniatura.
+
+**Avaluació:** valorar si la paleta presenta coherència, diferenciació entre superfícies i una jerarquia visual recognoscible.
+
+## 4.13. Síntesi i criteris d'aplicació
+
+La teoria del color permet comprendre i organitzar les relacions cromàtiques que intervenen en la pintura de miniatures. La seva utilitat principal no consisteix a proporcionar fórmules universals, sinó a oferir criteris per analitzar problemes i prendre decisions amb més precisió.
+
+Els conceptes fonamentals que cal conservar són:
+
+- **La percepció depèn del context:** un color pot canviar d'aparença segons la il·luminació i els colors que l'envolten.
+- **Els models cromàtics tenen funcions diferents:** RYB, RGB i CMY no descriuen el mateix fenomen.
+- **El color té diverses dimensions:** matís, valor i croma s'han d'analitzar per separat, encara que es puguin modificar simultàniament.
+- **La descripció del color d'una superfície no explica tota la seva aparença il·luminada:** els reflexos, la transparència i altres fenòmens poden introduir atributs addicionals.
+- **La temperatura és relativa:** els colors s'han de comparar dins del seu context.
+- **Les harmonies són eines d'organització:** no garanteixen automàticament una composició equilibrada.
+- **El contrast crea diferenciació i jerarquia:** la seva intensitat ha de respondre a la funció visual de cada element.
+- **Les mescles reals s'han de comprovar:** les pintures comercials no es comporten com els models cromàtics ideals.
+- **La paleta s'ha de planificar com un conjunt:** els colors han de funcionar en relació amb totes les superfícies de la miniatura.
+- **L'avaluació s'ha de fer sobre mostres físiques:** les referències digitals són orientatives i no substitueixen les proves amb pintura real.
+
+### Criteri operatiu per seleccionar una paleta
+
+Abans de començar una miniatura, utilitza aquesta seqüència:
+
+1. Defineix la intenció cromàtica.
+2. Selecciona una família o relació cromàtica inicial.
+3. Identifica els colors dominants i secundaris.
+4. Comprova les diferències de matís, valor i croma.
+5. Decideix on necessites contrast i on continuïtat.
+6. Estableix els possibles accents cromàtics.
+7. Fes una prova conjunta.
+8. Revisa la composició i ajusta els colors necessaris.
+
+La planificació cromàtica constitueix una base per al procés de pintura, però ha de mantenir-se oberta a modificacions durant l'execució.
+
+L'elecció del color i la construcció del volum són processos relacionats, encara que diferents. Un cop definida l'organització cromàtica, cal estudiar com representar la llum i el volum perquè les superfícies transmetin profunditat, forma i orientació.
+
+**Continuïtat del manual:**
+- Capítol 3: característiques i funcions de les pintures.
+- Capítol 5: llum, volum, ombres i reflexos.
+- Capítol 6: propietats visuals i comportament dels materials.
+- Capítol 10: veladures i glacis.
+- Capítol 11: rentats, tintes, pigments i acumulacions.
 
 ## Referències i recursos
 

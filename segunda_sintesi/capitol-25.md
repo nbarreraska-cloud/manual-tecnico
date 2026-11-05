@@ -30,7 +30,7 @@ La paleta de 48 pintures no inclou una referència comercial específica anomena
 | Black | 70.950 | Ombres profundes localitzades |
 | Sepia Ink | 72.091 | Dipòsits i modificacions cromàtiques |
 
-La selecció depèn del material, la conservació, les taques o dipòsits, la temperatura cromàtica, la geometria i l'escala. El blanc no ha de ser automàticament el color de base: el beix o el marfil permeten construir superfícies més riques.
+La selecció depèn del material, la conservació, les taques o dipòsits, la temperatura cromàtica, la geometria, l'escala i el nivell de contrast necessari per mantenir-ne la lectura. El blanc no ha de ser automàticament el color de base: el beix o el marfil permeten construir superfícies més riques.
 
 ## 25.4. Os natural, envellit i deteriorat
 
@@ -128,6 +128,8 @@ Errors que cal evitar:
 - Enfosquir totes les cavitats amb negre: reservar-lo per a profunditats puntuals.
 - Confondre astes i banyes: distingir l'asta òssia de la beina queratínica.
 - Exagerar les estries: variar-ne longitud, separació, intensitat i continuïtat.
+- Aplicar transicions idèntiques a totes les garrres i banyes: adaptar-les a la forma, el material i la referència visual.
+- Representar totes les superfícies com a llises: introduir textures localitzades i proporcionades per diferenciar os compacte, os porós i queratina amb estries.
 - Confondre brutícia i envelliment: separar alteracions del material i dipòsits externs.
 - Exagerar el desgast fins a fer irreconeixible l'estructura.
 
@@ -138,12 +140,108 @@ Errors que cal evitar:
 
 ## 25.10. Exercicis pràctics
 
-1. **Os clar i envellit:** preparar dues superfícies; aplicar les receptes A i C; comparar ombres i aclarits. Avaluar si totes dues es reconeixen com a os però transmeten conservacions diferents.
-2. **Construcció d'un crani:** establir base, identificar relleus i cavitats, construir ombres i recuperar plans exposats. Avaluar la lectura sense enfosquiment uniforme.
-3. **Dents i ivori:** construir una superfície dental amb E i una d'ivori amb G; comparar distribució cromàtica i continuïtat.
-4. **Astes i banyes:** construir una asta amb H i una banya amb I; afegir variacions longitudinals a la banya i definir ramificacions a l'asta.
-5. **Urpes i peülles:** aplicar L i M; adaptar llums i ombres, afegir marques selectives i comprovar vores i zones de contacte.
-6. **Integració:** combinar crani, dents, banyes o urpes; identificar cada material, assignar-hi una combinació i diferenciar-los amb color i textura sense perdre coherència.
+### Exercici 1. Comparació d'ossos clars i envellits
+
+**Objectiu:** construir dues aparences diferents de teixit ossi.
+
+**Materials:** Ivory, Deck Tan, Japanese Uniform WWII, Parasite Brown, Sepia Ink i White.
+
+**Procediment:**
+1. Preparar dues superfícies de prova.
+2. Construir-ne una mitjançant la recepta A.
+3. Construir l'altra mitjançant la recepta C.
+4. Comparar la distribució de les ombres.
+5. Introduir aclarits localitzats.
+6. Avaluar les diferències d'aparença.
+
+**Avaluació:** comprovar que totes dues superfícies es reconeixen com a os, però presenten estats de conservació diferenciats.
+
+### Exercici 2. Construcció d'un crani
+
+**Objectiu:** representar una estructura òssia amb relleus i cavitats.
+
+**Materials:** Ivory, Deck Tan, Japanese Uniform WWII, Parasite Brown i Black.
+
+**Procediment:**
+1. Establir una base òssia.
+2. Identificar els principals relleus i cavitats.
+3. Construir les ombres.
+4. Recuperar els plans exposats.
+5. Definir els contorns principals.
+6. Avaluar la lectura global del crani.
+
+**Avaluació:** comprovar que les cavitats i els relleus es diferencien sense recórrer a un enfosquiment uniforme.
+
+### Exercici 3. Comparació entre dents i marfil
+
+**Objectiu:** representar dues superfícies mineralitzades d'aparença clara.
+
+**Materials:** Ivory, Deck Tan, Ice Yellow, Japanese Uniform WWII i White.
+
+**Procediment:**
+1. Construir una superfície dental mitjançant la recepta E.
+2. Construir una superfície de marfil mitjançant la recepta G.
+3. Comparar la distribució cromàtica.
+4. Ajustar les ombres i els punts de llum.
+5. Avaluar la continuïtat superficial.
+
+**Avaluació:** comprovar que totes dues superfícies mantenen una aparença clara, però presenten diferències de color i tractament.
+
+### Exercici 4. Representació d'astes i banyes
+
+**Objectiu:** diferenciar una estructura òssia ramificada d'una estructura queratínica.
+
+**Materials:** Deck Tan, Japanese Uniform WWII, Parasite Brown, Dark Rust i Ivory.
+
+**Procediment:**
+1. Construir una asta mitjançant la recepta H.
+2. Construir una banya mitjançant la recepta I.
+3. Introduir variacions longitudinals a la banya.
+4. Definir les ramificacions i els canvis de secció de l'asta.
+5. Comparar les dues superfícies.
+
+**Avaluació:** comprovar que les estructures es diferencien tant per la geometria com per l'aparença superficial.
+
+### Exercici 5. Construcció de garrres i peülles
+
+**Objectiu:** representar dues estructures queratíniques amb geometries diferents.
+
+**Materials:** Deck Tan, Japanese Uniform WWII, Parasite Brown, Dark Rust i Ivory.
+
+**Procediment:**
+1. Construir una garra mitjançant la recepta L.
+2. Construir una peülla mitjançant la recepta M.
+3. Adaptar les llums i les ombres a les formes.
+4. Afegir marques longitudinals selectives.
+5. Avaluar les vores i les zones de contacte.
+
+**Avaluació:** comprovar que les dues estructures presenten una lectura diferenciada i que les marques segueixen la geometria.
+
+### Exercici 6. Exercici integrador: crani i estructures queratíniques
+
+**Objectiu:** combinar diferents materials biològics en una mateixa miniatura.
+
+**Materials:** Ivory, Deck Tan, Japanese Uniform WWII, Parasite Brown, Dark Rust, Sepia Ink i White.
+
+**Procediment:**
+1. Seleccionar una miniatura amb crani, dents, banyes o urpes.
+2. Identificar cada estructura.
+3. Escollir una combinació cromàtica per a cada material.
+4. Construir primer les superfícies principals.
+5. Diferenciar els materials mitjançant variacions cromàtiques i textures.
+6. Avaluar el conjunt.
+
+**Avaluació:** comprovar que ossos, dents i estructures queratíniques es reconeixen com a materials diferents i mantenen coherència visual dins la miniatura.
+
+## 25.11. Síntesi del capítol
+
+Els ossos, les dents i les estructures queratíniques poden presentar aparences cromàtiques semblants, però corresponen a materials biològics diferents.
+
+El teixit ossi requereix considerar-ne l'estructura mineralitzada, els relleus i les variacions superficials. Les dents presenten teixits mineralitzats amb una aparença generalment més contínua. Les estructures queratíniques, com banyes, urpes, ungles, peülles i becs, mostren característiques relacionades amb la forma, el creixement i l'organització superficial.
+
+La diferenciació anatòmica és especialment important per no confondre les astes òssies amb les banyes queratíniques, ni les dents amb les estructures de queratina. Les receptes proposades permeten construir ossos naturals i envellits, dents, marfil, astes, banyes, urpes i peülles mitjançant les pintures disponibles a la paleta de referència.
+
+L'objectiu és seleccionar i adaptar els procediments segons el material, la geometria i l'escala, evitant dependre d'una única recepta per a totes les superfícies clares o orgàniques.
 
 ## 25.11. Referències i recursos
 
@@ -152,6 +250,6 @@ Errors que cal evitar:
 - Tombolato, L. et al. (2010). “Microstructure, elastic properties and deformation mechanisms of horn keratin”. *Acta Biomaterialia*, 6(2), 319–330. DOI: 10.1016/j.actbio.2009.06.033.
 - British Horse Society. *Hoof Anatomy*.
 - Robey, P. G. (1996). “Vertebrate mineralized matrix proteins: structure and function”. *Connective Tissue Research*. DOI: 10.3109/03008209609029183.
-- Vallejo Colors. Tutorials de modelisme.
+- American Museum of Natural History. [Fur and Feathers: Composition and Structure](https://www.amnh.org/research/science-conservation/material-type/feathers-and-fur/composition-structure).\n- Oxford University Museum of Natural History. [The Incredible Diversity of Skin](https://oumnh.ox.ac.uk/the-incredible-diversity-of-skin).\n- Vallejo Colors. [Tutorials de modelisme](https://vallejocolors.com/pages/tutoriales).
 
 Les fonts anatòmiques i de materials fonamenten les diferències entre os, teixits dentals i queratina. Els recursos de pintura són exemples d'aplicació; no validen experimentalment les receptes.

@@ -191,43 +191,90 @@ La superfície pot considerar-se acabada quan l'aparença metàl·lica és recog
 
 No és necessari incrementar contínuament la quantitat de detalls o reflexos. Les intervencions addicionals poden millorar la lectura, però també poden fragmentar la superfície o reduir la jerarquia tonal. La decisió de finalitzar ha de respondre a la funció visual de la peça i no a l'acumulació de detalls.
 
-## 16.7. Errors freqüents i correccions
+## 16.8. Errors freqüents i procediments de correcció
 
-| Error | Correcció |
-|---|---|
-| Contrast intens sense aparença metàl·lica | Reorganitzar el patró de reflexos segons la geometria; no limitar-se a augmentar el contrast. |
-| Reflexos incompatibles amb la forma | Simplificar-los i ajustar-los als plans i a l'orientació de la peça. |
-| Distribució massa uniforme | Diferenciar els reflexos principals de les regions fosques. |
-| Excés de reflexos i accents | Eliminar els que no contribueixen a la lectura. |
-| Reflexos massa amples o estrets | Ajustar-ne l'extensió a la geometria, l'escala i la distància d'observació. |
-| Pèrdua de contrast durant la integració | Recuperar selectivament els valors extrems i la jerarquia tonal. |
-| Colors diferents però valors massa semblants | Revisar les mescles en escala de grisos i corregir-ne la claredat. |
-| Aplicar una recepta universal | Adaptar patró, valors i família cromàtica a cada peça. |
-| Fragmentació en superfícies petites | Reduir el nombre de reflexos i retenir les diferències principals. |
-| Confondre reflexió amb emissió de llum | Diferenciar la superfície reflectant de la font lluminosa; l'OSL es tracta al capítol 17. |
+### 16.8.1. Contrast elevat sense aparença metàl·lica
 
-## 16.8. Resultat esperat
+Una superfície pot presentar diferències molt marcades entre llums i ombres i continuar semblant no metàl·lica. Això sol passar quan els contrastos no segueixen una organització de reflexos recognoscible.
+
+**Correcció:** revisar el patró de reflexos i la seva relació amb la geometria, en lloc d'augmentar indiscriminadament la intensitat de les llums i les ombres.
+
+### 16.8.2. Reflexos incompatibles amb la geometria
+
+Les franges o taques poden interrompre la lectura de la peça si no segueixen la seva orientació o els canvis de pla.
+
+**Correcció:** simplificar la distribució, identificar els plans principals i adaptar els reflexos a la forma.
+
+### 16.8.3. Distribució massa uniforme
+
+Una superfície amb valors repartits de manera excessivament homogènia pot perdre l'aparença reflectant.
+
+**Correcció:** reorganitzar les regions tonals i establir diferències més clares entre els reflexos principals i les zones fosques.
+
+### 16.8.4. Excés de reflexos i accents
+
+L'acumulació de línies, punts i zones clares pot fer que la superfície sembli fragmentada.
+
+**Correcció:** reduir els accents i conservar únicament els que contribueixen a la lectura de la geometria i del material.
+
+### 16.8.5. Reflexos massa amples o massa estrets
+
+L'amplada dels reflexos pot resultar inadequada respecte de la geometria i l'escala.
+
+**Correcció:** ajustar-ne l'extensió i comprovar el resultat des de la distància habitual d'observació. No existeix una amplada universal.
+
+### 16.8.6. Pèrdua de contrast durant la integració
+
+Les transicions i correccions successives poden reduir les diferències entre zones clares i fosques.
+
+**Correcció:** recuperar selectivament els valors extrems i revisar la jerarquia tonal abans de continuar.
+
+### 16.8.7. Mescles cromàtiques poc diferenciades
+
+Els colors poden presentar diferències de matís, però no prou separació de valor per representar els reflexos.
+
+**Correcció:** revisar les mescles en escala de grisos i modificar-ne els valors quan sigui necessari.
+
+### 16.8.8. Ús d'una recepta universal
+
+Aplicar la mateixa seqüència cromàtica i el mateix patró a totes les superfícies pot produir resultats poc adaptats a la geometria i al material.
+
+**Correcció:** mantenir els fonaments generals del NMM, però modificar la distribució de valors, reflexos i colors segons cada peça.
+
+### 16.8.9. Excés de fragmentació en superfícies petites
+
+Intentar representar massa reflexos en una peça reduïda pot dificultar-ne la lectura.
+
+**Correcció:** simplificar el patró i conservar les diferències visuals principals.
+
+### 16.8.10. Confusió entre NMM i efectes lluminosos
+
+La introducció de reflexos molt intensos o colors brillants pot portar a representar una superfície metàl·lica com si emetés llum.
+
+**Correcció:** diferenciar la reflexió representada de l'emissió lluminosa. Els efectes de llum pròpia corresponen al capítol 17, dedicat a l'OSL.
+
+## 16.9. Resultat esperat i criteris d'avaluació
 
 El resultat ha de suggerir una superfície metàl·lica mitjançant pintures convencionals. La geometria ha de ser llegible i els reflexos han de mantenir una relació coherent amb la forma i l'entorn representat. No s'ha d'avaluar per la quantitat de tons ni per la intensitat indiscriminada del contrast, sinó per l'organització conjunta de geometria, valors, color i reflexos.
 
 ## 16.10. Exercicis pràctics
 
-### 16.9.1. Comparació entre superfície metàl·lica i no metàl·lica
+### 16.10.1. Comparació entre superfície metàl·lica i no metàl·lica
 Representar una mateixa forma amb una organització tonal no metàl·lica i una altra basada en reflexos NMM. Comparar valors, contrastos, reflexos i lectura de la geometria.
 
-### 16.9.2. Patró de reflexos sobre una superfície plana
+### 16.10.2. Patró de reflexos sobre una superfície plana
 Planificar regions clares, intermèdies i fosques sobre una superfície plana i comprovar si reforcen l'orientació dels plans.
 
-### 16.9.3. Adaptació a una superfície corba
+### 16.10.3. Adaptació a una superfície corba
 Construir reflexos sobre una forma cilíndrica o arrodonida i comparar-ne la distribució amb la d'una superfície plana.
 
-### 16.9.4. Comparació de famílies cromàtiques
+### 16.10.4. Comparació de famílies cromàtiques
 Representar una mateixa geometria amb dues famílies cromàtiques, mantenint una organització tonal comparable. Valorar com canvia la identitat del material.
 
-### 16.9.5. Simplificació segons l'escala
+### 16.10.5. Simplificació segons l'escala
 Representar una superfície amb pocs reflexos i després amb més variacions. Comparar els resultats des de diferents distàncies i identificar quina informació és imprescindible.
 
-### 16.9.6. Exercici integrador
+### 16.10.6. Exercici integrador
 Seleccionar una placa, una fulla d'espasa o una altra peça metàl·lica. Identificar-ne la geometria, escollir la família cromàtica, definir el patró de reflexos, establir els valors, construir les regions fosques i clares, afegir accents, revisar-ne la coherència i corregir els problemes detectats.
 
 ## Síntesi del capítol

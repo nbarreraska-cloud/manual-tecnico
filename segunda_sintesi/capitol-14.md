@@ -12,7 +12,7 @@ Aquest capítol tracta:
 - Objectes amb transmissió combinada, amb zones transparents, translúcides i opaques.
 - Materials amb profunditat interna, inclusions, variacions de gruix o estructures visibles.
 
-L'objectiu és representar aquests comportaments amb recursos pictòrics adaptats a la geometria i a l'escala. Les aplicacions específiques al vidre, els cristalls, el gel, les gemmes i els líquids es desenvolupen als capítols corresponents del recetari.
+L'objectiu és representar aquests comportaments amb recursos pictòrics adaptats a la geometria i a l'escala. Les aplicacions específiques al vidre, els cristalls, el gel, les gemmes i els líquids es desenvolupen als capítols corresponents del receptari.
 
 ## 14.2. Transparència, translucidesa i opacitat
 
@@ -229,14 +229,51 @@ Una representació pot considerar-se satisfactòria quan l'observador identifica
 
 ## 14.11. Exercicis pràctics
 
-1. **Transparència, translucidesa i opacitat:** preparar tres mostres; una conserva la definició del fons, una transmet llum amb menys nitidesa i una oculta la informació posterior. Comparar les senyals que permeten distingir-les.
-2. **Relació entre objecte i fons:** representar una forma senzilla davant d'un fons amb elements reconeixibles. Conservar la informació que s'hauria de veure a través del material i incorporar contorns i reflexos necessaris.
-3. **Transmissió difusa:** reduir selectivament definició i contrast del fons i incorporar coloració pròpia quan correspongui. Comparar diferents graus de difusió.
-4. **Variació de gruix:** representar una forma amb zones de gruix aparent diferent i introduir variacions de claredat, color i informació interna.
-5. **Contorns i reflexos:** comparar una distribució uniforme amb una altra adaptada a la geometria; evitar que aquests elements ocultin el comportament principal.
-6. **Representació integradora:** escollir un objecte transparent, translúcid o mixt; analitzar geometria, fons, estructura interna i senyals superficials; planificar i executar la representació i avaluar la coherència, l'escala i la profunditat.
+1. **Comparació entre transparència, translucidesa i opacitat**
 
-Els exercicis integren els fonaments del capítol i prioritzen la relació entre l'objecte i la informació que el travessa, no la simple aplicació de colors clars o transparents.
+   Preparar tres superfícies de prova que representin comportaments diferents. Organitzar la informació visual de manera que:
+   - Una superfície conservi la definició del fons.
+   - Una altra permeti el pas de llum, però en redueixi la nitidesa.
+   - La tercera oculti la informació situada al darrere.
+
+   Comparar les diferències i determinar quins senyals permeten reconèixer cada comportament.
+
+2. **Representació d'un objecte transparent amb informació del fons**
+
+   Seleccionar una forma senzilla i establir un fons amb elements recognoscibles. Representar l'objecte mantenint la informació que s'hauria d'observar a través seu. Afegir els contorns i reflexos necessaris per identificar-ne la presència física.
+
+   L'objectiu és comprovar la importància de la relació entre l'objecte i el fons.
+
+3. **Representació d'una superfície translúcida**
+
+   Preparar una superfície de prova i organitzar una transmissió difusa. Modificar la definició i el contrast dels elements situats al darrere, incorporant-hi una coloració pròpia quan correspongui.
+
+   Comparar diferents graus de difusió i avaluar quin comunica millor el comportament translúcid.
+
+4. **Representació de variacions de gruix i profunditat interna**
+
+   Seleccionar una forma senzilla que permeti diferenciar zones de gruix aparent diferent. Incorporar variacions de claredat, intensitat cromàtica i informació interna.
+
+   L'objectiu és comprendre com la distribució dels senyals visuals pot suggerir una estructura situada dins del material.
+
+5. **Integració de contorns i reflexos**
+
+   Preparar una superfície transparent o translúcida ja representada. Modificar la distribució dels contorns i reflexos per comprovar com canvia la identificació de l'objecte. Comparar una aplicació uniforme amb una altra d'adaptada a la geometria.
+
+   L'objectiu és evitar que els reflexos i contorns ocultin el comportament principal del material.
+
+6. **Exercici integrador: representació d'un objecte que transmet llum**
+
+   Seleccionar un objecte senzill l'aparença del qual requereixi representar transparència, translucidesa o una combinació de totes dues. Analitzar-ne la geometria, el fons, les característiques internes i els senyals superficials. Planificar els recursos necessaris i desenvolupar la representació de manera progressiva.
+
+   En acabar, comprovar:
+   - La identificació del comportament del material.
+   - La relació amb el fons.
+   - La coherència dels contorns i reflexos.
+   - La presència i organització de la profunditat interna.
+   - L'adaptació a l'escala de la miniatura.
+
+   L'objectiu és integrar els fonaments del capítol en una representació completa.
 
 ## Síntesi del capítol
 

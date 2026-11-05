@@ -603,6 +603,7 @@ La planificació integral coordina l'anàlisi de la miniatura, la definició d'o
 
 ## Figures proposades per a la fase gràfica final
 
+1. Mapa del procés integral: relació entre anàlisi, planificació, selecció, execució, control i avaluació.
 1. Fitxa d'anàlisi inicial de la miniatura.
 2. Esquema de planificació cromàtica, tonal i lumínica.
 3. Arbre de selecció de tècniques segons l'objectiu visual.

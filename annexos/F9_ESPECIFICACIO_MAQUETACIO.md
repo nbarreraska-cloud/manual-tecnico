@@ -42,3 +42,8 @@ Només es permet aplicar estils, ajustar espais, marges, salts, amplades de taul
 Revisar índex i jerarquia real, taules que travessen pàgina, fitxes dividides de manera poc funcional, capçaleres, peus, numeració, pàgines en blanc, salts innecessaris, llegibilitat de l'Annex F i integritat textual respecte de les fonts Markdown.
 
 La paginació definitiva no es fixa en F9 perquè les imatges s'integraran en fases posteriors.
+
+
+## 6. Resultat de la primera generació (05/11/2026)
+
+La primera compilació DOCX s'ha generat correctament. La conversió de comprovació ha produït 339 pàgines A4. La validació del paquet Word confirma 39 capítols, annexos A–F, 48 fitxes úniques, 336 encapçalaments de secció i quatre agrupacions comercials. L'índex automàtic és un camp Word amb actualització en obrir; cal verificar-lo a Word perquè l'exportació de comprovació no l'ha actualitzat. La revisió visual integral i la verificació de fidelitat són pendents.

@@ -54,7 +54,7 @@ Els plàstics poden presentar superfícies llises i uniformes, acabats mats, sat
 | Brillantor | Depèn sobretot d'esmalt i acabat | Depèn del material, motlle i tractament |
 | Detalls | Craquelat, desconxats i cos exposat | Línies de motlle, nervadures, unions i textures |
 
-Són tendències visuals, no regles universals. Un plàstic pot imitar ceràmica esmaltada i una ceràmica decorada pot ser molt uniforme; la brillantor, per si sol, no identifica el material.
+Són tendències visuals, no regles universals. Un plàstic pot imitar ceràmica esmaltada i una ceràmica decorada pot ser molt uniforme; la brillantor, per si sola, no identifica el material.
 
 ## 33.3. Selecció cromàtica
 
@@ -209,7 +209,7 @@ Establir base que permeti reconèixer textura; construir ombres a zones protegid
 - **Setinat:** reflexos moderats i menys definits que en una superfície brillant.
 - **Brillant:** reflexos més intensos i concentrats que poden definir la curvatura.
 
-L'acabat no depèn exclusivament del material: hi ha ceràmiques mates, porcellanes satinades i plàstics brillants. La selecció i aplicació de vernissos correspon al capítol 37.
+L'acabat no depèn exclusivament del material: hi ha ceràmiques mates, porcellanes satinades i plàstics brillants. La selecció i l'aplicació de vernissos corresponen al capítol 37.
 
 Adaptació geomètrica:
 - Plans: variacions i reflexos segons orientació.

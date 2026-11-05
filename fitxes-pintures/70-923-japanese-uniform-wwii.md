@@ -28,15 +28,15 @@ La documentació oficial situa aquesta referència dins de Model Color. No s'ha 
 
 ## 4. Presència i funció dins del manual
 
-Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n reprodueix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
+Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n resumeix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
 
-- **Capítol 20:** `| Japanese Uniform WWII | 70.923 | Tons terrosos mitjans i bases naturals |`
-- **Capítol 21:** `| Japanese Uniform WWII | 70.923 | Variacions terroses |`
-- **Capítol 22:** `| Japanese Uniform WWII | 70.923 | Marrons mitjans i terrosos |`
-- **Capítol 23:** `| Japanese Uniform WWII | 70.923 | Tons terrosos i marrons mitjans |`
-- **Capítol 24:** `| Japanese U- **Capítol 25:** `| Japanese Uniform WWII | 70.923 | Tons terrosos i ombres |`
-- **Capítol 26:** `| Japanese Uniform WWII | 70.923 | Tons terrosos |`
-niform WWII | 70.923 | Tons terrosos i càlids |`
+- **Capítol 20:** Tons terrosos mitjans i bases naturals (funció indicada a la taula).
+- **Capítol 21:** Variacions terroses (funció indicada a la taula).
+- **Capítol 22:** Marrons mitjans i terrosos (funció indicada a la taula).
+- **Capítol 23:** Tons terrosos i marrons mitjans (funció indicada a la taula).
+- **Capítol 24:** Tons terrosos i càlids (funció indicada a la taula).
+- **Capítol 25:** Tons terrosos i ombres (funció indicada a la taula).
+- **Capítol 26:** Tons terrosos (funció indicada a la taula).
 
 Capítols amb aparicions identificades: C20, C21, C22, C23, C24, C25, C26.
 

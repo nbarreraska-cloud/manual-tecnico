@@ -193,123 +193,303 @@ Abans de corregir, identificar l'origen: una cobertura insuficient, una invasió
 
 ## 8.8. Errors freqüents i procediments de correcció
 
-La correcció comença identificant què ha passat i quina part de la construcció s'ha vist afectada. Afegir pintura automàticament pot empitjorar el problema.
+Els errors durant la construcció progressiva del color poden aparèixer tant en una aplicació individual com en el resultat acumulat de diverses capes. Per corregir-los adequadament cal identificar primer què ha passat i quina part de la construcció s'ha vist afectada.
 
-| Problema | Criteri de diagnòstic i correcció |
-|---|---|
-| Cobertura irregular o insuficient | Determinar si afecta tota la superfície o zones concretes; completar només on calgui. La cobertura parcial no és un error si és intencionada. |
-| Acumulacions involuntàries | Poden aparèixer en cavitats, unions, vores i canvis de pla; augmenten el gruix i poden ocultar detalls. No s'han de cobrir automàticament amb més pintura. La correcció depèn de l'estat de la pel·lícula i pot exigir recuperar la superfície abans de continuar. |
-| Pèrdua de definició | L'acumulació de capes pot reduir la lectura d'arestes, separacions, plecs i detalls. Cal identificar si el gruix pictòric n'és la causa i valorar una correcció acurada. |
-| Alteració de límits cromàtics | Una aplicació pot envair un pla contigu. Cal recuperar el límit restablint el color de la zona afectada sense malmetre les pròximes. |
-| Modificació cromàtica no prevista | Pot provenir d'una selecció inadequada, una cobertura diferent de l'esperada o la repetició d'aplicacions. Identificar què ha canviat —matís, valor, croma o relació entre zones— i corregir la zona o revisar el conjunt si l'alteració és general. |
-| Excés d'intervencions | La repetició de capes i correccions augmenta el gruix i pot deteriorar detalls. Aturar-se, avaluar el conjunt i intervenir només si hi ha un defecte concret. Si la superfície ja compleix la funció, donar-la per acabada. |
+Una correcció eficaç no consisteix a afegir pintura automàticament, sinó a intervenir sobre el problema concret sense perjudicar les zones que ja estan correctament resoltes.
 
-Si la pel·lícula encara no és estable, evitar manipulacions que l'arrosseguin o deteriorin. Si ja és seca, qualsevol correcció ha de valorar el risc de malmetre la geometria original. Els procediments generals de diagnòstic i recuperació es desenvolupen al capítol 39.
+Aquest apartat es limita als problemes directament relacionats amb la construcció de capes. El diagnòstic general d'errors i els procediments sistemàtics de recuperació es desenvolupen al capítol 39.
+
+### 8.8.1. Cobertura irregular o insuficient
+
+Una cobertura irregular apareix quan la pintura no presenta una distribució coherent sobre la superfície. Es pot manifestar mitjançant zones desigualment cobertes, interrupcions, diferències d'aparença o parts on la superfície subjacent continua sent massa visible.
+
+No tota cobertura incompleta constitueix un error. Pot ser una decisió intencionada durant una construcció per fases. El problema apareix quan la distribució obtinguda no correspon al resultat previst.
+
+**Possibles causes:**
+- Distribució irregular de la pintura.
+- Dificultat per accedir a determinades parts de la geometria.
+- Diferències de comportament entre les pintures utilitzades.
+- Aplicacions que no han complert la funció prevista.
+- Continuació del treball sense comprovar l'estat de la superfície anterior.
+
+**Criteri d'intervenció:** primer cal identificar si la irregularitat afecta tota la superfície o només zones concretes. Si el problema està localitzat, la correcció s'ha de centrar en aquestes zones i evitar intervenir innecessàriament sobre les parts que ja presenten un resultat adequat. Si afecta el conjunt, cal revisar la construcció i determinar si convé completar la cobertura o reorganitzar el treball.
+
+### 8.8.2. Acumulacions involuntàries de pintura
+
+Les acumulacions involuntàries apareixen quan la pintura es concentra en determinades zones i genera una distribució irregular del material. Es poden produir en cavitats, unions, canvis de pla, vores o àrees de difícil accés.
+
+**Possibles conseqüències:**
+- Aparició de zones amb un gruix excessiu.
+- Pèrdua de definició en relleus petits.
+- Alteració de les separacions entre peces.
+- Superfícies amb una textura o aparença no prevista.
+- Dificultat per continuar aplicant pintura de manera controlada.
+
+**Criteri d'intervenció:** la intervenció depèn de l'estat de la pintura i de la naturalesa de l'acumulació. No s'ha d'intentar cobrir-la automàticament amb més pintura, perquè això pot augmentar el problema. Si la pel·lícula encara no és estable, cal evitar manipular-la de manera que s'arrossegui o es deteriori. Si ja és seca i la irregularitat persisteix, cal valorar si es pot corregir mitjançant una intervenció superficial o si és necessari recuperar la superfície abans de continuar. No totes les acumulacions es poden corregir sense afectar la geometria original.
+
+### 8.8.3. Pèrdua de definició de relleus i detalls
+
+La pèrdua de definició es produeix quan l'acumulació de pintura redueix la lectura dels elements geomètrics de la miniatura. Pot afectar separacions entre plaques, petites arestes, detalls mecànics, plecs o elements decoratius. De vegades apareix progressivament com a conseqüència de diverses capes que, considerades individualment, semblaven acceptables.
+
+**Possibles causes:**
+- Acumulació excessiva de pintura.
+- Repetició d'aplicacions sense una finalitat clara.
+- Distribució inadequada del material sobre detalls petits.
+- Correccions successives que augmenten el gruix de la pel·lícula pictòrica.
+
+**Criteri d'intervenció:** cal determinar si el detall s'ha perdut visualment per una acumulació superficial o si la seva lectura s'ha alterat per altres factors. Si la pintura encara no ha format una pel·lícula estable, s'ha d'evitar manipular-la de manera que s'arrossegui o es deteriori. Si ja és seca, qualsevol correcció s'ha de fer amb precaució i valorant el risc de danyar la geometria original. Quan la pèrdua de definició és important, pot ser necessari recuperar la superfície abans de continuar. No s'ha d'assumir que una nova capa de color resoldrà un problema de gruix acumulat.
+
+### 8.8.4. Alteració involuntària dels límits cromàtics
+
+Aquest error apareix quan una aplicació envaeix una zona que havia de conservar una identitat cromàtica diferent o modifica accidentalment una separació ja establerta. És freqüent en superfícies dividides en plaques, panells, peces d'equipament o elements decoratius.
+
+**Possibles causes:**
+- Extensió excessiva de l'aplicació.
+- Falta de control sobre la zona d'intervenció.
+- Dificultat per treballar a prop dels límits geomètrics.
+- Correccions que afecten superfícies contigües.
+
+**Criteri d'intervenció:** la intervenció s'ha de centrar a recuperar la separació prevista entre les zones cromàtiques. Si la invasió és petita, pot ser suficient restablir el color de la superfície afectada, sempre que la intervenció no perjudiqui el pla contigu. Si el problema afecta una zona àmplia, cal revisar els límits i reconstruir les superfícies afectades de manera ordenada.
+
+### 8.8.5. Modificació cromàtica no prevista
+
+Pot passar que una nova aplicació alteri l'aparença d'una superfície d'una manera diferent de l'esperada. El canvi pot afectar el matís, el valor, el croma o la relació visual entre les zones.
+
+**Possibles causes:**
+- Selecció inadequada de la pintura per a la funció prevista.
+- Comportament diferent de l'esperat en superposar aplicacions.
+- Cobertura més gran o més petita de la prevista.
+- Repetició d'aplicacions que modifica progressivament l'aparença.
+- Falta de comprovació del resultat abans de continuar.
+
+**Criteri d'intervenció:** primer cal identificar quin aspecte ha canviat i si el resultat és realment incompatible amb l'objectiu previst. Si la modificació afecta una zona concreta, la correcció es pot limitar a aquesta superfície. Si altera la relació cromàtica del conjunt, pot ser necessari revisar diverses zones per recuperar-ne la coherència inicial. La intervenció ha de respondre a l'origen del problema i a l'aparença que es vol recuperar.
+
+### 8.8.6. Excés d'intervencions i correccions successives
+
+Un dels errors menys evidents consisteix a continuar intervenint sobre una superfície que ja presenta un resultat adequat. La repetició d'aplicacions i correccions pot generar un procés acumulatiu en què cada intervenció introdueix noves modificacions i augmenta el risc de deteriorar allò que ja estava resolt.
+
+**Possibles conseqüències:**
+- Augment innecessari del gruix pictòric.
+- Pèrdua progressiva de detalls.
+- Alteracions cromàtiques no previstes.
+- Aparició de noves irregularitats durant les correccions.
+- Dificultat per recuperar l'estat anterior de la superfície.
+
+**Criteri d'intervenció:** cal aturar les intervencions i valorar l'estat global de la superfície. No s'ha d'afegir pintura per corregir un problema la causa del qual encara no s'ha identificat. Si la superfície ja compleix la seva funció, s'ha de donar per acabada. Si hi ha un defecte, cal intervenir només en la mesura necessària per corregir-lo. La capacitat d'aturar-se forma part del control tècnic de la pintura.
 
 ## 8.9. Resultat esperat i criteris d'avaluació
 
-El resultat ha de correspondre a l'organització cromàtica prevista i conservar les característiques geomètriques. Una superfície uniforme, una construcció per plans i una modificació progressiva poden tenir aparences diferents i ser totes tècnicament correctes.
+El resultat d'una construcció progressiva del color ha de respondre a l'organització cromàtica prevista i conservar les característiques geomètriques de la miniatura.
 
-L'avaluació considera:
-- **Cobertura i distribució:** assoleixen el grau previst i no presenten irregularitats involuntàries.
-- **Coherència cromàtica:** les aplicacions mantenen una relació visual adequada.
-- **Organització i límits:** les zones conserven la divisió prevista.
-- **Geometria i detalls:** relleus, arestes i separacions continuen llegibles.
-- **Integritat superficial:** no hi ha acumulacions accidentals ni deteriorament per correccions successives.
+No hi ha un únic aspecte final vàlid per a totes les superfícies. Una zona uniforme, un conjunt de plans diferenciats i una superfície construïda mitjançant aplicacions successives poden presentar aparences diferents i ser tècnicament correctes.
 
-La construcció s'acaba quan s'han assolit els objectius i noves aplicacions ja no aporten una millora necessària. El resultat correcte no és necessàriament el que té més capes, més cobertura o uniformitat absoluta, sinó aquell en què cada intervenció ha complert la seva funció i la superfície conserva la qualitat tècnica i visual necessària.
+L'avaluació final ha de valorar si s'ha assolit el resultat previst i si la superfície conserva les condicions necessàries per continuar amb les fases següents del treball.
+
+### 8.9.1. Criteris d'avaluació
+
+**Cobertura i distribució**
+
+La superfície ha de presentar el grau de cobertura previst. Les aplicacions s'han de distribuir de manera coherent amb la seva funció, sense interrupcions ni irregularitats involuntàries.
+
+**Coherència cromàtica**
+
+Les diferents aplicacions han de mantenir una relació compatible amb el resultat previst. La coherència no exigeix que totes les zones comparteixin el mateix color ni que presentin una aparença idèntica. Exigeix que les modificacions cromàtiques tinguin una funció recognoscible i que el conjunt no mostri alteracions accidentals.
+
+**Definició de superfícies i límits**
+
+Les zones cromàtiques han de conservar l'organització prevista. En una superfície uniforme no hi hauria d'haver divisions accidentals que en fragmentin l'aparença. En una construcció per plans, les separacions han de continuar sent recognoscibles.
+
+**Conservació de la geometria i els detalls**
+
+Els relleus, les arestes, les separacions i els detalls han de continuar sent llegibles. La pintura no ha d'ocultar innecessàriament la informació geomètrica del model ni modificar-ne l'aparença per una acumulació excessiva.
+
+**Integritat de la superfície pictòrica**
+
+La superfície acabada ha de presentar una aplicació estable i visualment coherent amb l'acabat previst. No hi haurien de quedar acumulacions accidentals, irregularitats produïdes durant les aplicacions ni zones deteriorades per correccions successives.
+
+### 8.9.2. Criteri de finalització
+
+La construcció es pot considerar acabada quan s'han assolit els objectius cromàtics previstos i les noves aplicacions ja no aporten una millora necessària.
+
+Per prendre aquesta decisió cal valorar conjuntament:
+
+- La cobertura i la distribució.
+- La coherència cromàtica.
+- L'organització de les zones i els seus límits.
+- La conservació dels relleus i els detalls.
+- L'absència d'acumulacions i irregularitats involuntàries.
+- L'adequació del resultat a la finalitat de la superfície.
+
+El resultat correcte no és necessàriament el que presenta més capes, més cobertura o una aparença completament uniforme. És aquell en què cada aplicació ha complert la seva funció i la superfície conserva la qualitat tècnica i visual necessària per continuar amb les fases següents del treball.
+
+La construcció progressiva del color constitueix així una base sobre la qual es poden desenvolupar posteriorment altres procediments pictòrics.
 
 ## 8.10. Exercicis pràctics
 
-Es recomana fer les primeres pràctiques sobre peces de prova o superfícies que permetin treballar sense interferir amb zones acabades.
+Els exercicis següents permeten aplicar els principis de construcció progressiva del color sobre superfícies d'una miniatura. La finalitat és practicar l'organització de les aplicacions, controlar la cobertura, conservar els detalls i avaluar el resultat acumulat.
+
+Es recomana fer les primeres pràctiques sobre peces de prova o superfícies de miniatures que permetin treballar sense interferir amb altres zones ja acabades.
 
 ### 8.10.1. Exercici 1. Construcció d'una superfície uniforme
 
-**Objectiu:** aconseguir una aparença cromàtica uniforme mitjançant aplicacions successives, controlant la cobertura i evitant acumulacions.
+**Objectiu:** construir una superfície d'aparença cromàtica uniforme mitjançant aplicacions successives, controlant la cobertura i evitant acumulacions innecessàries.
 
-**Materials:** miniatura o peça de prova amb superfície àmplia, pintura acrílica, pinzells adequats, paleta, aigua i material de neteja.
+**Materials:**
+- Una miniatura o peça de prova amb una superfície relativament àmplia.
+- Pintura acrílica adequada per establir el color inicial.
+- Pintura del mateix color per a les aplicacions posteriors, si són necessàries.
+- Pinzells apropiats per a la geometria.
+- Paleta i aigua.
+- Material auxiliar de neteja.
 
 **Procediment:**
-1. Seleccionar una superfície que s'hagi de treballar com a unitat cromàtica.
-2. Identificar-ne els límits i detalls.
-3. Establir la primera aplicació.
-4. Esperar que assoleixi un estat adequat per continuar.
+1. Seleccionar una superfície que es pugui treballar com una unitat cromàtica.
+2. Identificar-ne els límits geomètrics i els detalls que cal conservar.
+3. Establir la primera aplicació cromàtica sobre la superfície.
+4. Deixar que l'aplicació assoleixi un estat adequat per continuar sense arrossegar ni deteriorar la pel·lícula anterior.
 5. Examinar la cobertura des de diferents perspectives.
-6. Identificar les zones que necessiten una altra aplicació.
-7. Intervenir només on calgui.
-8. Comparar el resultat i aturar-se quan la superfície compleixi la finalitat.
+6. Identificar les zones que necessiten una nova aplicació.
+7. Fer una nova intervenció únicament on sigui necessària.
+8. Comparar el resultat amb l'estat anterior.
+9. Aturar el procés quan la superfície presenti una aparença coherent i compleixi la seva finalitat.
 
-**Avaluació:** continuïtat cromàtica, distribució, conservació dels detalls, absència d'acumulacions i efecte de cada aplicació nova.
+**Aspectes que cal observar:**
+- Diferències de cobertura entre zones.
+- Continuïtat cromàtica.
+- Conservació dels relleus i els detalls.
+- Acumulacions en vores i cavitats.
+- Efecte de cada nova aplicació sobre el resultat anterior.
+
+**Resultat esperat:** una superfície cromàticament coherent, amb una distribució adequada de la pintura i sense acumulacions involuntàries que en perjudiquin la geometria.
 
 ### 8.10.2. Exercici 2. Construcció de plans cromàtics diferenciats
 
-**Objectiu:** construir diverses zones cromàtiques independents i conservar-ne els límits.
+**Objectiu:** construir una superfície composta per diverses zones cromàtiques independents, conservant-ne els límits i evitant que les aplicacions d'una zona n'alterin les contigües.
 
-**Materials:** miniatura o peça amb dos o més plans, pintures acríliques de diversos colors, pinzells adequats, paleta, aigua i material de neteja.
+**Materials:**
+- Una miniatura o peça de prova amb dos o més plans diferenciats.
+- Pintures acríliques de colors diferents.
+- Pinzells adequats a les dimensions i la geometria de cada pla.
+- Paleta i aigua.
+- Material auxiliar de neteja.
 
 **Procediment:**
-1. Identificar els plans que han de mantenir una identitat pròpia.
-2. Determinar el color de cada zona.
-3. Reconèixer els límits que cal conservar.
-4. Establir la primera aplicació de cada pla independentment.
-5. Comprovar que no s'envaeixen les zones contigües.
-6. Revisar i completar la cobertura si cal.
-7. Avaluar la relació cromàtica del conjunt.
+1. Seleccionar una superfície dividida en diferents plans.
+2. Identificar les zones que han de mantenir una identitat cromàtica pròpia.
+3. Determinar quin color correspon a cada pla i reconèixer els límits que cal conservar.
+4. Establir la primera aplicació cromàtica de cada zona, treballant-hi independentment.
+5. Comprovar que les aplicacions no envaeixen accidentalment els plans contigus.
+6. Revisar la cobertura de cada superfície.
+7. Completar les zones que ho requereixin, procurant conservar la separació cromàtica prevista.
+8. Examinar el conjunt i valorar si els diferents plans mantenen una relació visual coherent.
 
-**Avaluació:** correspondència entre geometria i color, independència de les zones, definició dels límits i coherència visual.
+**Aspectes que cal observar:**
+- Correspondència entre els plans geomètrics i la distribució cromàtica.
+- Independència de les zones.
+- Definició dels límits.
+- Diferències de cobertura entre superfícies.
+- Coherència visual del conjunt.
+
+**Resultat esperat:** una superfície formada per diversos plans cromàtics recognoscibles, correctament construïts i relacionats entre si, sense invasions accidentals ni alteracions innecessàries dels seus límits.
 
 ### 8.10.3. Exercici 3. Modificació progressiva de l'aparença cromàtica
 
-**Objectiu:** observar com les aplicacions successives modifiquen l'aparença inicial i controlar quina part del resultat anterior continua visible.
+**Objectiu:** comprovar com les aplicacions successives poden modificar l'aparença inicial d'una superfície i aprendre a controlar quina part del resultat anterior es conserva.
 
-**Materials:** peça de prova amb superfície àmplia, dues pintures acríliques, pinzells, paleta, aigua i material de neteja.
+**Materials:**
+- Una peça de prova amb una superfície prou àmplia.
+- Dues pintures acríliques amb característiques adequades per a l'exercici.
+- Pinzells apropiats.
+- Paleta i aigua.
+- Material auxiliar de neteja.
 
 **Procediment:**
-1. Establir una primera aplicació i deixar-la en condicions adequades.
-2. Registrar-ne l'aparença inicial.
-3. Seleccionar una segona pintura i definir la modificació desitjada.
-4. Aplicar-la en una zona delimitada, sense cobrir necessàriament tota la superfície anterior.
-5. Comprovar quina part de l'aplicació inicial continua visible.
-6. Valorar si el canvi correspon a l'objectiu.
-7. Fer una correcció localitzada si cal i aturar-se quan la modificació sigui recognoscible.
+1. Seleccionar una superfície de prova i establir una primera aplicació cromàtica.
+2. Deixar que l'aplicació assoleixi un estat adequat per continuar treballant.
+3. Observar i registrar l'aparença inicial de la superfície.
+4. Seleccionar una segona pintura i determinar quina modificació es vol introduir.
+5. Fer una nova aplicació sobre una zona delimitada, sense cobrir necessàriament tota l'aplicació anterior.
+6. Comprovar com ha canviat l'aparença de la zona intervinguda i quina part del resultat inicial continua visible.
+7. Valorar si la modificació respon a l'objectiu previst.
+8. Si cal, fer una correcció localitzada i comparar el resultat amb la superfície inicial.
+9. Aturar l'exercici quan la modificació cromàtica prevista sigui recognoscible.
 
-**Avaluació:** relació entre aparença inicial i modificada, extensió de l'aplicació, conservació de la superfície anterior i llegibilitat dels detalls.
+**Aspectes que cal observar:**
+- Relació entre l'aparença inicial i la modificada.
+- Extensió de la nova aplicació.
+- Part de la superfície anterior que continua visible.
+- Diferències entre les zones intervingudes i les no intervingudes.
+- Conservació dels detalls i de la geometria.
 
-Aquest exercici no pretén ensenyar degradats ni veladures, sinó comprendre com una aplicació pot modificar una superfície sense substituir-ne tota l'aparença anterior.
+**Resultat esperat:** una superfície l'aparença cromàtica de la qual s'ha modificat intencionadament mitjançant aplicacions successives, conservant una relació recognoscible entre l'estat inicial i el resultat obtingut.
+
+Aquest exercici no pretén ensenyar la realització de degradats ni de veladures. La seva finalitat és comprendre com una nova aplicació pot modificar una superfície sense substituir necessàriament tota la seva aparença anterior.
 
 ### 8.10.4. Exercici 4. Identificació i correcció d'errors
 
-**Objectiu:** reconèixer problemes habituals i seleccionar una intervenció proporcionada.
+**Objectiu:** reconèixer problemes habituals durant la construcció de capes i seleccionar una intervenció adequada per corregir-los.
 
-**Materials:** peces o superfícies de prova amb diferents problemes, pintures acríliques, pinzells, paleta, aigua i material de neteja.
+**Materials:**
+- Diverses peces de prova o superfícies preparades prèviament.
+- Pintures acríliques.
+- Pinzells adequats.
+- Paleta i aigua.
+- Material auxiliar de neteja.
 
-Es poden preparar mostres amb cobertura irregular, acumulacions localitzades, pèrdua de definició, invasió de plans cromàtics o modificacions no previstes.
+**Preparació de l'exercici**
+
+L'instructor prepararà, en peces o zones de prova diferents, alguns dels problemes següents:
+
+- Cobertura irregular.
+- Acumulació localitzada de pintura.
+- Pèrdua parcial de definició d'un relleu.
+- Invasió accidental d'un pla cromàtic contigu.
+- Modificació cromàtica no prevista.
+
+No cal reproduir tots els errors en una mateixa superfície. És preferible disposar de mostres diferenciades perquè cada problema es pugui identificar i analitzar.
 
 **Procediment:**
-1. Observar les mostres sense intervenir.
-2. Identificar el problema i descriure quin aspecte afecta.
-3. Proposar-ne una causa.
-4. Decidir si convé continuar, corregir o aturar-se.
-5. Seleccionar una intervenció adequada.
-6. Aplicar-la en una mostra quan sigui viable.
-7. Comparar l'estat anterior i posterior.
-8. Valorar si s'ha resolt el problema sense introduir noves irregularitats.
+1. Observar les mostres sense intervenir-hi.
+2. Identificar el problema present en cada superfície.
+3. Descriure quin aspecte de la construcció s'ha vist afectat.
+4. Proposar-ne una possible causa.
+5. Determinar si convé continuar, corregir o aturar el procés.
+6. Seleccionar una correcció adequada per a cada cas.
+7. Fer la intervenció sobre una mostra de prova quan sigui tècnicament viable.
+8. Comparar l'estat anterior i posterior a la correcció.
+9. Valorar si la intervenció ha resolt el problema o ha introduït noves irregularitats.
 
-**Avaluació:** identificació del problema, relació amb la causa, adequació de la correcció, control de zones pròximes i conservació dels detalls.
+**Aspectes que cal observar:**
+- Capacitat per identificar el problema.
+- Relació entre l'error i la seva possible causa.
+- Adequació de la correcció seleccionada.
+- Control de les superfícies pròximes.
+- Conservació dels detalls.
+- Capacitat per evitar intervencions innecessàries.
+
+**Resultat esperat:** una superfície correctament avaluada, en què els problemes identificats s'hagin corregit de manera proporcionada o s'hagi decidit justificadament no intervenir-hi.
 
 ### 8.10.5. Exercici integrador d'avaluació final
 
-Seleccionar una superfície d'una miniatura i decidir si es construirà de manera uniforme, mitjançant plans cromàtics diferenciats o per modificació progressiva. Durant el treball, registrar les aplicacions, la seva finalitat i les decisions preses.
+Un cop realitzats els exercicis anteriors, se seleccionarà una superfície d'una miniatura i es construirà aplicant els principis del capítol.
+
+Abans de començar, cal determinar si es vol aconseguir una superfície uniforme, una construcció mitjançant plans cromàtics diferenciats o una modificació progressiva de l'aparença inicial.
+
+Durant el treball es registraran les aplicacions realitzades, la seva finalitat i les decisions preses. En acabar, s'avaluarà el resultat mitjançant aquests criteris:
 
 | Criteri | Aspecte que cal comprovar |
 |---|---|
-| Organització | Cada aplicació respon a una finalitat definida. |
-| Cobertura | S'assoleix el grau previst. |
+| Organització | Les aplicacions responen a una finalitat definida. |
+| Cobertura | La superfície presenta el grau de cobertura previst. |
 | Distribució | No hi ha irregularitats involuntàries. |
 | Coherència cromàtica | Les aplicacions mantenen una relació visual adequada. |
-| Límits | Les zones diferenciades conserven la separació. |
-| Geometria | Els relleus i detalls continuen llegibles. |
-| Acumulació | No hi ha un gruix de pintura innecessari. |
-| Finalització | El procés s'atura quan s'assoleix el resultat previst. |
+| Límits | Les zones diferenciades conserven la separació prevista. |
+| Geometria | Els relleus i els detalls continuen sent llegibles. |
+| Acumulació | No hi ha un gruix innecessari de pintura. |
+| Finalització | El procés s'ha aturat quan s'ha assolit el resultat previst. |
 
-La construcció progressiva no consisteix a repetir aplicacions fins a obtenir cobertura màxima, sinó a organitzar cada intervenció segons una finalitat, controlar-ne l'efecte i reconèixer quan el resultat és suficient. La qualitat depèn tant de l'execució com de les decisions preses durant el procés.
+**Conclusió de l'exercici**
+
+La construcció progressiva del color no consisteix a repetir aplicacions fins a aconseguir una cobertura màxima. Consisteix a organitzar cada intervenció d'acord amb una finalitat, controlar-ne l'efecte sobre la superfície i reconèixer quan el resultat ja és suficient.
+
+La qualitat del treball depèn tant de l'execució de les aplicacions com de les decisions preses durant el procés.

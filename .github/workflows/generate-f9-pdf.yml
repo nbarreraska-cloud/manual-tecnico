@@ -6,6 +6,7 @@ on:
       - intervencion-editorial-2026-11
     paths:
       - ".github/workflows/generate-f9-pdf.yml"
+      - "tools/export_f9_pdf.py"
   workflow_dispatch:
 
 permissions:
@@ -27,28 +28,36 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           python -m pip install python-docx
-      - name: Install LibreOffice and PDF inspection tools
+      - name: Install LibreOffice, UNO bridge and PDF inspection tools
         run: |
           sudo apt-get update
-          sudo apt-get install -y libreoffice-writer poppler-utils
+          sudo apt-get install -y libreoffice-writer python3-uno poppler-utils
       - name: Generate and audit F9 Word master
         run: |
           python tools/generate_f9_docx.py
           python tools/validate_f9_text.py
-      - name: Convert final Word master to PDF
+      - name: Refresh automatic indexes and export final PDF
         run: |
           mkdir -p dist/pdf
-          libreoffice --headless --convert-to pdf --outdir dist/pdf dist/Manual_tecnic_pintura_miniatures_F9.docx
+          libreoffice --headless --norestore --nodefault --nofirststartwizard --accept="socket,host=localhost,port=2002;urp;StarOffice.ServiceManager" &
+          LO_PID=$!
+          trap 'kill $LO_PID 2>/dev/null || true' EXIT
+          /usr/bin/python3 tools/export_f9_pdf.py dist/Manual_tecnic_pintura_miniatures_F9.docx dist/pdf/Manual_tecnic_pintura_miniatures_F9.pdf
           test -s dist/pdf/Manual_tecnic_pintura_miniatures_F9.pdf
-      - name: Verify PDF integrity and pagination
+      - name: Verify PDF integrity, index refresh and pagination
         run: |
           pdfinfo dist/pdf/Manual_tecnic_pintura_miniatures_F9.pdf | tee dist/pdf/pdfinfo.txt
           pdftotext -layout dist/pdf/Manual_tecnic_pintura_miniatures_F9.pdf dist/pdf/Manual_tecnic_pintura_miniatures_F9.txt
           test -s dist/pdf/Manual_tecnic_pintura_miniatures_F9.txt
+          if grep -Fq "Actualitzeu la taula de continguts en obrir el document a Word" dist/pdf/Manual_tecnic_pintura_miniatures_F9.txt; then
+            echo "ERROR: stale table-of-contents instruction remains in PDF" >&2
+            exit 1
+          fi
           pages=$(pdfinfo dist/pdf/Manual_tecnic_pintura_miniatures_F9.pdf | awk '/^Pages:/ {print $2}')
           test "$pages" -ge 1
           echo "PDF_PAGES=$pages" | tee dist/pdf/verification.txt
           echo "PDF_TEXT_BYTES=$(wc -c < dist/pdf/Manual_tecnic_pintura_miniatures_F9.txt)" | tee -a dist/pdf/verification.txt
+          echo "TOC_STALE_INSTRUCTION=ABSENT" | tee -a dist/pdf/verification.txt
       - name: Upload final PDF and inspection text
         uses: actions/upload-artifact@v4
         with:

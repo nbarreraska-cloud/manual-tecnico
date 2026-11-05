@@ -75,6 +75,14 @@ Cal recuperar procediments, explicacions tècniques, fonaments, advertiments, de
 - Conservat l'exercici integrador final amb la seva taula de comprovació.
 - Les propostes de figures de l'original es mantenen fora del cos del capítol perquè són especificacions de producció gràfica.
 
+### Capítol 9 — Degradats i transicions cromàtiques
+
+- Recuperat el desenvolupament dels sis errors freqüents, amb causes possibles i criteris de correcció localitzada.
+- Separats els controls de continuïtat visual, extensió, colors intermedis, estat de la superfície i finalització.
+- Ampliats els sis exercicis amb objectius, materials, procediments i criteris d'avaluació.
+- Recuperada la síntesi conceptual del capítol.
+- Ajustada la numeració dels apartats per mantenir una seqüència contínua després de la integració dels continguts conceptuals.
+
 ## Tasques pendents
 
 1. Validar la integritat textual i estructural dels capítols 4 i 5 després de les recuperacions.

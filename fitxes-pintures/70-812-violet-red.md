@@ -28,12 +28,12 @@ La documentació oficial situa aquesta referència dins de Model Color. No s'ha 
 
 ## 4. Presència i funció dins del manual
 
-Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n reprodueix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
+Les referències següents identifiquen les aparicions de la pintura als capítols del manual. Quan hi ha una fila de taula, se'n resumeix la funció consignada; quan només hi ha una menció contextual al text, s'indica expressament. Això no constitueix una prova experimental ni garanteix que sigui l'única aplicació possible.
 
-- **Capítol 23:** `| Violet Red | 70.812 | Tons rogencs violacis |`
-- **Capítol 27:** `| Violet Red | 70.812 | Tons rojovioletes |`
-- **Capítol 32:** `| Violetes i magentes | Magenta (70.945), Violet Red (70.81- **Capítol 24:** `| Violet Red | 70.812 | Tons rogencs violacis |`
-2), Magenta Ink (72.083), Violet Ink (72.087) |`
+- **Capítol 23:** Tons rogencs violacis (funció indicada a la taula).
+- **Capítol 24:** Tons rogencs violacis (funció indicada a la taula).
+- **Capítol 27:** Tons rojovioletes (funció indicada a la taula).
+- **Capítol 32:** menció contextual de Violet Red (70.812) al text del capítol; no és una fila de recepta.
 
 Capítols amb aparicions identificades: C23, C24, C27, C32.
 

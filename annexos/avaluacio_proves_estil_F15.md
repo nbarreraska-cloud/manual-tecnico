@@ -111,3 +111,18 @@ Els quatre registres corresponents de F13 passen a «Prototip vectorial v01 · e
 No s'ha d'estendre encara l'estil a les altres 146 figures. Primer cal validar la renderització i la lectura dels quatre SVG. Si els quatre casos superen la revisió, es podrà congelar una primera guia visual comuna i començar la producció per tandes. Si un cas falla, es corregirà abans d'estendre'n les convencions.
 
 La producció continua separada del manual mestre. Aquests prototips són materials de treball i no s'han inserit a cap document lector.
+
+
+## 8. Segona revisió estàtica dels prototips
+
+S'ha fet una lectura addicional del codi SVG, no una validació visual en navegador o en maquetació:
+
+- **G006:** s'ha detectat i corregit el baix contrast del subtítol RGB sobre el camp fosc. La comprovació de modes de fusió `screen` i `multiply` continua pendent de renderització.
+- **G003:** l'estructura repeteix el mateix patró de fons i modifica l'opacitat de la capa. Cal revisar visualment la diferència perceptiva entre els dos estats intermedis.
+- **G042:** els sis panells mantenen la mateixa silueta i una base uniforme; la seqüència és una simplificació didàctica. Cal validar si els canvis tonals són prou llegibles i si la forma es reconeix com a superfície metàl·lica.
+- **G110:** s'ha corregit la fila superior perquè els tres tipus de vidre es mostrin sobre la mateixa escena, no com a mostres de color aïllades. La comparació inferior manté la mateixa escena i aplica difusió a la versió esmerilada.
+
+### Límit de la verificació
+
+No s'ha pogut executar un renderitzador SVG en aquest entorn. Per tant, no es declara superada la comprovació de renderització, tipografia, filtres, modes de fusió ni llegibilitat a mida de pàgina. La revisió anterior és només estàtica, basada en el contingut del codi. Els quatre fitxers continuen en estat «revisió tècnica», sense aprovació.
+

@@ -84,7 +84,7 @@ La sang no ha de cobrir indiscriminadament les característiques del suport.
 
 ## 31.7. Control tècnic i avaluació
 
-Comprovar reconeixement del material i estat, distribució espacial, integració amb el suport, control cromàtic i acabat. Els reflexos d'una superfície humida poden ser més definits que els d'una taca seca, però no és una regla absoluta. La selecció precisa del brillantor i els vernissos correspon al capítol 37.
+Comprovar reconeixement del material i estat, distribució espacial, integració amb el suport, control cromàtic i acabat. Els reflexos d'una superfície humida poden ser més definits que els d'una taca seca, però no és una regla absoluta. La selecció precisa de la brillantor i els vernissos correspon al capítol 37.
 
 | Error | Correcció |
 |---|---|
@@ -164,7 +164,7 @@ Les receptes utilitzen referències de l'inventari de 48 pintures i constitueixe
 
 ### 31.10.1. Comparació entre sang fresca i sang seca
 
-**Objectiu:** diferenciar dos estats de la sang sense dependre exclusivament del brillantor.
+**Objectiu:** diferenciar dos estats de la sang sense dependre exclusivament de la brillantor.
 
 **Procediment:**
 1. Construir dues mostres sobre una mateixa superfície de prova.
@@ -173,7 +173,7 @@ Les receptes utilitzen referències de l'inventari de 48 pintures i constitueixe
 4. Comparar la distribució cromàtica i l'acabat.
 5. Ajustar les variacions de color sense convertir la mostra seca en una superfície negra o marró uniforme.
 
-**Avaluació:** identificar quines variables permeten diferenciar els dos estats sense dependre exclusivament del brillantor.
+**Avaluació:** identificar quines variables permeten diferenciar els dos estats sense dependre exclusivament de la brillantor.
 
 ### 31.10.2. Construcció d'una gota de sang
 

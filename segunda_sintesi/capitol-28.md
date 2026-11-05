@@ -20,10 +20,10 @@ Cal distingir corrosió, brutícia i desgast. La corrosió transforma químicame
 ## 28.3. Lectura visual i planificació
 
 Identificar primer el metall o acabat original, en coherència amb el capítol 19. Referències metàl·liques de l'inventari:
-- Silver (72.052).
-- Dark Gunmetal (72.054).
-- Glorious Gold (72.056).
-- Tinny Tin (72.060).
+- Silver (72.052) (72.052).
+- Dark Gunmetal (72.054) (72.054).
+- Glorious Gold (72.056) (72.056).
+- Tinny Tin (72.060) (72.060).
 
 La corrosió no es distribueix necessàriament de manera uniforme. Pot concentrar-se en unions, reblons, vores, cavitats, zones humides, contactes, recobriments perduts i àrees protegides. Cal conservar metall visible en sortints, vores, zones protegides o àrees sotmeses a fricció. Si tota la peça queda coberta de marró o verd, pot perdre la lectura metàl·lica.
 
@@ -34,11 +34,11 @@ La planificació cromàtica ha de jerarquitzar metall original, to principal de 
 ## 28.4. Òxid i rovell sobre ferro i acer
 
 **Recepta A. rovell recent i taronja**
-- Base metàl·lica: Dark Gunmetal (72.054) o Silver (72.052).
-- To principal: Hot Orange (72.009).
-- Variació rogenca: Burnt Red (70.814).
-- Ombres localitzades: Dark Rust (70.771).
-- Accents càlids: Parasite Brown (72.042).
+- Base metàl·lica: Dark Gunmetal (72.054) (72.054) o Silver (72.052) (72.052).
+- To principal: Hot Orange (72.009) (72.009).
+- Variació rogenca: Burnt Red (70.814) (70.814).
+- Ombres localitzades: Dark Rust (70.771) (70.771).
+- Accents càlids: Parasite Brown (72.042) (72.042).
 
 Procediment proposat:
 1. Establir la base metàl·lica.
@@ -50,12 +50,12 @@ Procediment proposat:
 7. Avaluar la distribució general i evitar una cobertura uniforme.
 
 **Recepta B. rovell marró natural**
-- Base metàl·lica: Dark Gunmetal.
-- To principal: Dark Rust.
-- Variació càlida: Parasite Brown.
-- Variació rogenca: Burnt Red.
-- Ombres: combinació proposada de Dark Rust i Black (70.950).
-- Aclarits: Parasite Brown.
+- Base metàl·lica: Dark Gunmetal (72.054).
+- To principal: Dark Rust (70.771).
+- Variació càlida: Parasite Brown (72.042).
+- Variació rogenca: Burnt Red (70.814).
+- Ombres: combinació proposada de Dark Rust (70.771) i Black (70.950) (70.950).
+- Aclarits: Parasite Brown (72.042).
 
 Procediment proposat:
 1. Mantenir visible una part del metall original.
@@ -66,11 +66,11 @@ Procediment proposat:
 6. Comprovar que la superfície conserva una lectura metàl·lica.
 
 **Recepta C. rovell fosca**
-- Base: Dark Rust.
-- Variació: combinació proposada de Dark Rust i Black.
-- To intermedi: Burnt Red.
-- Zones rogenques: Parasite Brown.
-- Accents clars: combinació proposada de Parasite Brown i Deck Tan (70.986).
+- Base: Dark Rust (70.771).
+- Variació: combinació proposada de Dark Rust (70.771) i Black (70.950).
+- To intermedi: Burnt Red (70.814).
+- Zones rogenques: Parasite Brown (72.042).
+- Accents clars: combinació proposada de Parasite Brown (72.042) i Deck Tan (70.986) (70.986).
 
 Procediment proposat:
 1. Establir una superfície fosca amb Dark Rust.
@@ -81,12 +81,12 @@ Procediment proposat:
 6. Evitar que tota la peça es converteixi en un bloc negre.
 
 **Recepta D. Corrosió irregular estratificada**
-- Base metàl·lica: Dark Gunmetal.
-- To fosc: Dark Rust.
-- To intermedi: Burnt Red.
-- To càlid: Parasite Brown.
-- Accents taronges: Hot Orange.
-- Ombres: Black.
+- Base metàl·lica: Dark Gunmetal (72.054).
+- To fosc: Dark Rust (70.771).
+- To intermedi: Burnt Red (70.814).
+- To càlid: Parasite Brown (72.042).
+- Accents taronges: Hot Orange (72.009).
+- Ombres: Black (70.950).
 
 Procediment proposat:
 1. Establir una base metàl·lica.
@@ -98,11 +98,11 @@ Procediment proposat:
 7. Avaluar la lectura del conjunt.
 
 **Recepta E. Corrosió localitzada**
-- Base: Dark Gunmetal.
-- To profund: Dark Rust.
-- Variació: Burnt Red.
-- Accents: Parasite Brown.
-- Detalls taronges: Hot Orange.
+- Base: Dark Gunmetal (72.054).
+- To profund: Dark Rust (70.771).
+- Variació: Burnt Red (70.814).
+- Accents: Parasite Brown (72.042).
+- Detalls taronges: Hot Orange (72.009).
 
 Procediment proposat:
 1. Identificar les zones plausibles de retenció d'humitat: unions, reblons, vores, cavitats i punts de contacte.
@@ -114,10 +114,10 @@ Procediment proposat:
 
 **Recepta F. Metall pintat amb corrosió sota el recobriment**
 - Pintura original: color corresponent a la superfície.
-- Metall exposat: Dark Gunmetal o Silver.
-- Corrosió fosca: Dark Rust.
-- Variació rogenca: Burnt Red.
-- Accents: Parasite Brown i Hot Orange.
+- Metall exposat: Dark Gunmetal (72.054) o Silver (72.052).
+- Corrosió fosca: Dark Rust (70.771).
+- Variació rogenca: Burnt Red (70.814).
+- Accents: Parasite Brown (72.042) i Hot Orange (72.009).
 
 Procediment proposat:
 1. Establir el color de la pintura original.
@@ -131,11 +131,11 @@ El procediment de desconxat es recolza en el capítol 36.
 ## 28.5. Pàtines i corrosió de coure, bronze i llautó
 
 **Recepta G. Pàtina marró de coure o bronze**
-- Base metàl·lica: Glorious Gold (72.056), Tinny Tin (72.060) o base del capítol 19.
-- To principal: Parasite Brown.
-- Variació rogenca: Burnt Red.
-- Zones profundes: Dark Rust.
-- Enfosquiment: Black.
+- Base metàl·lica: Glorious Gold (72.056) (72.056), Tinny Tin (72.060) (72.060) o base del capítol 19.
+- To principal: Parasite Brown (72.042).
+- Variació rogenca: Burnt Red (70.814).
+- Zones profundes: Dark Rust (70.771).
+- Enfosquiment: Black (70.950).
 
 Procediment proposat:
 1. Establir la superfície metàl·lica original.
@@ -146,12 +146,12 @@ Procediment proposat:
 6. Avaluar la continuïtat i el contrast de la pàtina.
 
 **Recepta H. Pàtina verda**
-- Base metàl·lica: Glorious Gold o Tinny Tin.
-- To principal: Cayman Green (72.067).
-- Variació: Dark Green (72.028).
-- Tons mitjans: Snake Green (72.417).
-- Aclarits: Yellow Green (70.954).
-- Ombres localitzades: Dark Sea Blue (70.898).
+- Base metàl·lica: Glorious Gold (72.056) o Tinny Tin (72.060).
+- To principal: Cayman Green (72.067) (72.067).
+- Variació: Dark Green (72.028) (72.028).
+- Tons mitjans: Snake Green (72.417) (72.417).
+- Aclarits: Yellow Green (70.954) (70.954).
+- Ombres localitzades: Dark Sea Blue (70.898) (70.898).
 
 Procediment proposat:
 1. Establir la base metàl·lica.
@@ -164,12 +164,12 @@ Procediment proposat:
 No tot dipòsit verd és una pàtina estable: alguns productes pulverulents poden indicar corrosió activa.
 
 **Recepta I. Pàtina blauverdosa**
-- Base metàl·lica: Glorious Gold o Tinny Tin.
-- To principal: Turquoise (72.024).
-- Variació: Blue Green (70.808).
-- Ombres: Dark Sea Blue.
-- Aclarits: Snake Green.
-- Accents clars: Ivory (70.918).
+- Base metàl·lica: Glorious Gold (72.056) o Tinny Tin (72.060).
+- To principal: Turquoise (72.024) (72.024).
+- Variació: Blue Green (70.808) (70.808).
+- Ombres: Dark Sea Blue (70.898).
+- Aclarits: Snake Green (72.417).
+- Accents clars: Ivory (70.918) (70.918).
 
 Procediment proposat:
 1. Establir el metall original.
@@ -181,12 +181,12 @@ Procediment proposat:
 7. Comprovar que la superfície no sembli una gema o un cristall.
 
 **Recepta J. Pàtina verda fosca**
-- Base metàl·lica: Glorious Gold o Tinny Tin.
-- Base d'alteració: Dark Green.
-- Variació: Cayman Green.
-- Enfosquiment: Dark Sea Blue.
-- Zones profundes: Black.
-- Accents verds: Snake Green.
+- Base metàl·lica: Glorious Gold (72.056) o Tinny Tin (72.060).
+- Base d'alteració: Dark Green (72.028).
+- Variació: Cayman Green (72.067).
+- Enfosquiment: Dark Sea Blue (70.898).
+- Zones profundes: Black (70.950).
+- Accents verds: Snake Green (72.417).
 
 Procediment proposat:
 1. Establir una base metàl·lica.
@@ -197,11 +197,11 @@ Procediment proposat:
 6. Mantenir una distribució irregular i coherent.
 
 **Recepta K. Metall parcialment patinat**
-- Base metàl·lica: Glorious Gold o Tinny Tin.
-- Pàtina principal: Cayman Green.
-- Variació freda: Turquoise.
-- Ombres: Dark Sea Blue.
-- Accents verds: Snake Green.
+- Base metàl·lica: Glorious Gold (72.056) o Tinny Tin (72.060).
+- Pàtina principal: Cayman Green (72.067).
+- Variació freda: Turquoise (72.024).
+- Ombres: Dark Sea Blue (70.898).
+- Accents verds: Snake Green (72.417).
 - Metall exposat: recuperar selectivament la base.
 
 Procediment proposat:
@@ -221,8 +221,8 @@ No es defineix una recepta independent: les receptes G, H i K es poden adaptar s
 
 ## 28.6. Altres metalls i estats de conservació
 
-- **Plata enfosquida:** representar pèrdua de brillantor, sovint associat a compostos de sofre, no rovell. Silver com a metall; Dark Gunmetal i Black per enfosquir; Dark Sea Blue per a variacions fredes; Ivory per recuperar contrastos.
-- **Estany i metalls clars:** poden presentar alteracions blanquinoses, grises o apagades. Es pot utilitzar Tinny Tin (72.060), Ivory, White, Deck Tan i Black; no es defineix una recepta independent perquè depèn del metall i l'estat.
+- **Plata enfosquida:** representar pèrdua de brillantor, sovint associat a compostos de sofre, no rovell. Silver (72.052) com a metall; Dark Gunmetal (72.054) i Black (70.950) per enfosquir; Dark Sea Blue (70.898) per a variacions fredes; Ivory (70.918) per recuperar contrastos.
+- **Estany i metalls clars:** poden presentar alteracions blanquinoses, grises o apagades. Es pot utilitzar Tinny Tin (72.060) (72.060), Ivory (70.918), White (70.951), Deck Tan (70.986) i Black (70.950); no es defineix una recepta independent perquè depèn del metall i l'estat.
 - **Recobriments metàl·lics:** diferenciar recobriment conservat, pèrdua, material o metall subjacent i corrosió. No tota pèrdua de recobriment és rovell.
 - **Pàtina i desgast:** la pàtina modifica l'aparença mitjançant una capa o transformació; el desgast implica pèrdua o deformació física. Poden coexistir, com en un bronze patinat a les zones protegides i polit als relleus.
 

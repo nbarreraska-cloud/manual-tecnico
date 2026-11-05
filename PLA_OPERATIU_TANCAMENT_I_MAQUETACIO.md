@@ -160,3 +160,12 @@ Aquesta comprovació confirma l'existència dels apartats, no l'aprovació final
 S'ha revisat la relació entre els blocs amb més risc de solapament (C3/C6, C5/C6/C37, C15/C18, C16/C19, C17/C32, C20/C36, C22/C23, C35/C39 i C37/C38). Les funcions s'han mantingut separades quan tracten nivells diferents del problema, i s'han integrat sis parelles quan el contingut es complementa i pot compartir una composició sense pèrdua didàctica.
 
 **Estat actual:** 156 identificadors P1 coberts per 150 composicions editorials de treball. La passada transversal encara requereix comprovar remissions textuals, llegibilitat de les composicions fusionades, redundàncies residuals i evidències físiques. La numeració editorial definitiva es fixarà després d'aquests controls. F10 continua oberta; F11 no s'inicia.
+
+
+## 15. Evidències i remissions per a F11 — 05/11/2026
+
+S'ha creat `annexos/matriu_evidencies_i_remissions_F10.md` amb les categories E0 (esquema conceptual), E1 (procediment/recepta proposada no assajada) i E2 (resultat físic que exigeix evidència documentada). Les composicions 3.1, 3.2, 7.6, 11.6, 38.8 i 39.7 requereixen proves físiques si es volen presentar com a resultats reals; si no, s'han de mantenir com a esquemes conceptuals.
+
+La tercera síntesi encara no conté remissions textuals explícites a cap dels 156 identificadors P1. És coherent amb el fet que les figures no s'han integrat. F11 haurà d'inserir cada composició, afegir la llegenda catalana, crear les remissions necessàries i actualitzar les referències fusionades. La branca actual no conté fotografies o proves físiques independents; no s'han d'inventar.
+
+**Següent pas de F10:** tancar la revisió semàntica de redundàncies residuals, concretar les ubicacions i les remissions que caldrà inserir, fixar la numeració editorial i completar la decisió final de producció. F11 continua bloquejada fins al tancament formal de F10.

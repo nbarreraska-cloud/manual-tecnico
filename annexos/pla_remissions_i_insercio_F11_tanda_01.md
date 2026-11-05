@@ -73,9 +73,10 @@ Les ubicacions s'han contrastat amb la tercera síntesi consolidada. «Després 
 
 1. **Figura 5.3:** la ubicació de la matriu combina 5.3.1 i 5.3.4, però la compilació presenta 5.3.1 i no conté un subapartat 5.3.4. Cal corregir la remissió de localització a la fitxa/matriu: la inserció principal s'ha de situar a 5.3.1; qualsevol remissió secundària s'ha de dirigir a l'apartat vigent que realment desenvolupi la il·luminació de superfícies corbes. No crear un epígraf inexistent.
 2. **Figures 3.1 i 3.2:** comparteixen el subapartat 3.2.1, però expliquen qüestions diferents. Cal mantenir dos punts d'inserció diferenciats: graus d'ocultació del fons i influència del fons sobre una mateixa capa.
-3. **Figures 7.4 i 11.4:** la matriu d'evidències classifica aquestes comparacions com a dependents d'evidència física quan es presenten com a mostres reals. Sense proves documentades, només es poden produir com a esquemes conceptuals E0.
-4. **Figures 7.2 i 7.4:** revisar la composició visual perquè no introdueixi afirmacions sobre diferències de rendiment o resultats no descrites al text.
-5. Les frases de remissió s'han de revisar després de validar el disseny i la llegenda finals; si la figura queda immediatament després del paràgraf introductori, es pot suprimir la crida explícita quan resulti redundant.
+3. **Figura 6.2 (G021):** la matriu F10 indica l'apartat 6.4, però la compilació vigent situa les respostes òptiques al 6.3 i reserva el 6.4 per a transparència, translucidesa i profunditat interna. L'ancoratge d'aquesta tanda s'ha corregit a 6.3; cal alinear la matriu de traçabilitat i la fitxa editorial amb aquesta ubicació real.
+4. **Figures 7.4 i 11.4:** la matriu d'evidències classifica aquestes comparacions com a dependents d'evidència física quan es presenten com a mostres reals. Sense proves documentades, només es poden produir com a esquemes conceptuals E0.
+5. **Figures 7.2 i 7.4:** revisar la composició visual perquè no introdueixi afirmacions sobre diferències de rendiment o resultats no descrites al text.
+6. Les frases de remissió s'han de revisar després de validar el disseny i la llegenda finals; si la figura queda immediatament després del paràgraf introductori, es pot suprimir la crida explícita quan resulti redundant.
 
 ## 5. Control de la tanda
 

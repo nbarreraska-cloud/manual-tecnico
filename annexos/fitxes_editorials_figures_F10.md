@@ -826,29 +826,21 @@ Les fitxes següents normalitzen en català les 58 propostes addicionals de la t
 
 ### C20
 
-#### 20.1 — Direcció de fibres, vetes, nusos i anells
+#### 20.1 + 20.2 — Direcció de fibres, vetes, nusos, anells i patrons segons el tall
+- **Identificadors integrats:** 20.1 i 20.2.
 - **Ubicació:** 20.1–20.2.
-- **Llegenda de treball:** «Direcció de fibres, vetes, nusos i anells: Comparació de patrons longitudinals, transversals i de tall, amb direcció de fibra, vetes i nusos.»
-- **Representació:** Comparació de patrons longitudinals, transversals i de tall, amb direcció de fibra, vetes i nusos.
-- **Condicions i límits:** Integrar 20.2 com a panell de la mateixa làmina; no duplicar una figura autònoma.
+- **Llegenda de treball:** «Direcció de les fibres i les vetes, nusos i orientació dels anells segons el tall de la fusta.»
+- **Representació:** una làmina composta amb patrons longitudinals i transversals, direcció de les fibres, nusos i seccions que mostrin l'orientació dels anells.
+- **Funció didàctica:** reunir la lectura de la fusta segons la direcció de fibra i el tipus de tall sense repetir patrons.
+- **Condicions i límits:** una sola composició; 20.2 és un panell integrat, no una figura independent. Evitar duplicar els anells transversals i mantenir coherència entre secció i superfície.
 
-#### 20.2 — Patrons segons el tall
-- **Ubicació:** 20.2.
-- **Llegenda de treball:** «Patrons segons el tall: Panell integrat a 20.1 amb secció i orientació dels anells.»
-- **Representació:** Panell integrat a 20.1 amb secció i orientació dels anells.
-- **Condicions i límits:** **Fusió recomanada amb 20.1**, no una segona figura independent.
-
-#### 20.4 — Construcció de vetes
-- **Ubicació:** 20.8.1.
-- **Llegenda de treball:** «Construcció de vetes: Seqüència de base, variacions, vetes longitudinals, discontinuïtats i recuperació de llum.»
-- **Representació:** Seqüència de base, variacions, vetes longitudinals, discontinuïtats i recuperació de llum.
-- **Condicions i límits:** Respectar direcció, longitud, amplada i jerarquia; adaptar el detall a escala i curvatura.
-
-#### 20.5 — Nus i desviació de fibres
-- **Ubicació:** 20.8.2.
-- **Llegenda de treball:** «Nus i desviació de fibres: Detall ampliat d'un nus amb desviació i continuïtat de les vetes.»
-- **Representació:** Detall ampliat d'un nus amb desviació i continuïtat de les vetes.
-- **Condicions i límits:** No representar el nus com un cercle independent; les fibres han de girar al seu voltant.
+#### 20.4 + 20.5 — Construcció de vetes i desviació de fibres al voltant d'un nus
+- **Identificadors integrats:** 20.4 i 20.5.
+- **Ubicació:** 20.8.1–20.8.2.
+- **Llegenda de treball:** «Construcció de les vetes principals i secundàries i desviació de les fibres al voltant d'un nus.»
+- **Representació:** seqüència que parteixi de la base i les variacions cromàtiques, construeixi vetes longitudinals i discontinuïtats i integri un nus que desviï la direcció de les fibres.
+- **Funció didàctica:** mostrar la continuïtat estructural de les vetes i com s'adapten al voltant d'un nus.
+- **Condicions i límits:** una composició seqüencial coordinada; el nus no pot aparèixer com un cercle aïllat. Les fibres han de girar al seu voltant i mantenir una continuïtat plausible.
 
 #### 20.7 — Adaptació a geometries
 - **Ubicació:** 20.9.2.
@@ -1043,3 +1035,12 @@ Les fitxes següents normalitzen en català les 58 propostes addicionals de la t
 - Especificacions convertides en fitxes editorials: 58.
 - Identificadors agrupats en composicions fusionades es mantenen explícits per traçabilitat; no s'han de convertir automàticament en figures separades.
 - No s'han generat ni inserit imatges.
+
+
+## Resolució de les composicions del C20 — 05/11/2026
+
+Les quatre propostes P1 del C20 es consoliden en dues composicions editorials:
+- **20.1 + 20.2:** una làmina de direcció de fibres, vetes, nusos, anells i patrons segons el tall.
+- **20.4 + 20.5:** una seqüència integrada de construcció de vetes i desviació de fibres al voltant d'un nus.
+
+Es conserven els quatre identificadors originals per a la traçabilitat, però no es produiran quatre figures independents. Aquesta decisió redueix en dues les composicions respecte del recompte brut d'identificadors P1.

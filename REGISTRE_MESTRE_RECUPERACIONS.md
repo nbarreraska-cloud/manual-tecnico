@@ -1,6 +1,6 @@
 # REGISTRE MESTRE DE RECUPERACIONS EDITORIALS
 **Manual tècnic de pintura de miniatures**  
-**Versió:** 1.79 · **Data:** 05/11/2026  
+**Versió:** 1.80 · **Data:** 05/11/2026  
 **Branca:** intervencion-editorial-2026-11
 
 ## 1. Funció i abast
@@ -22,13 +22,13 @@ Aquests 39 Markdown són la representació operativa de treball sobre els contin
 | 2 | Consolidar el Registre Mestre amb categories RT/RD/AE/MG/SC, prioritats, decisions, fonts i estat real dels canvis. | **Completada el 05/11/2026**; versió 1.74. Revisades i conciliades les 39 files de la matriu i les anotacions històriques; els estats obsolets de C28–C29 s'han actualitzat. La correspondència dels 39 Markdown amb la compilació C1–C39 s'ha verificat (39/39). Es mantenen explícits els límits documentals de C11, C14–C19 i C30–C32/C36. |
 | 3 | Aplicar les recuperacions tècniques, didàctiques i els ajustos editorials justificats a la tercera versió dels 39 Markdown. | **Completada per a les accions identificades a la matriu**; recuperacions aplicades als capítols 3–19, 25–32, 36 i 38; ajustos AE als capítols 33–34; els capítols SC es mantenen protegits, excepte ajustos editorials documentats. |
 | 4 | Validar els 39 capítols i estabilitzar-ne el contingut, les receptes, els exercicis, la numeració i les referències. | **Completada el 05/11/2026, amb límits documentals registrats**; els 39 capítols han rebut una revisió de contingut o una comprovació documental del material disponible. C1–C10, C12–C13, C20–C29, C33–C35 i C37–C39 tenen coteig documental completat; C11 i C14–C19 s'han contrastat amb material consolidat disponible, però les fonts declaren que no s'han recuperat originals complets; C30–C32 i C36 tenen revisió de contingut completada amb la font disponible; C38 té coteig documental completat dins dels límits registrats. La revisió semàntica de remissions C1–C39 i la comprovació estructural global dels 39 Markdown estan completades. Aquesta fase no equival a validació experimental de receptes ni de resultats pictòrics. |
-| 5 | Revisar i reconstruir els annexos A–E després d'estabilitzar els 39 capítols. | **Completada el 05/11/2026**; A: 48/48 referències i quatre conjunts verificats contra el catàleg oficial 2026; B: 62/62 entrades i remissions validades; C: 183/183 entrades i lletres verificades, 170 referències corregides; D: 92/92 entrades contrastades amb les receptes, A i C; E: guia i remissions verificades. Integració A–E completada. Les fitxes individuals de pintura es mantenen com a documents separats no inclosos al repositori i no es declaren auditades. |
+| 5 | Regenerar els annexos A–E a partir dels 39 capítols consolidats i tornar-los a integrar. | **Regeneració pendent (05/11/2026)**. L'auditoria de les versions anteriors es conserva com a antecedent i material de contrast, però no es considera lliurable final. Cal crear A–E de nou, verificar totes les entrades, denominacions, codis, receptes i remissions, i conservar les versions antigues com a traçabilitat. Les fitxes individuals de pintura continuen fora de l'abast si no s'incorporen com a font. |
 | 6 | Auditoria global de coherència, referències creuades, traçabilitat i absència de pèrdues o duplicacions. | **Completada el 05/11/2026**; auditoria transversal C1–C39 tancada. No s'han detectat contradiccions globals que justifiquin reorganitzacions o retallades. No equival a validació experimental. |
-| 7 | Auditoria, selecció i consolidació editorial/gràfica dels 39 capítols i annexos A–E. | **En curs**; 243 propostes classificades (157 P1, 83 P2, 3 P3). Depurat el registre: fragments textuals de C4 arxivats i cotejats; encapçalament C3 normalitzat; numeració duplicada de C18 corregida. Validació estructural dels 157 P1 documentada a `VALIDACIO_ENCAIX_P1_TERCERA_SINTESI.md`; C4/C5 contrastats en detall. Revisió individual de les 83 P2 documentada a `REVISION_INDIVIDUAL_PROPOSTES_P2_MG.md`, amb fusions i condicions de producció. Resta tancar les especificacions de producció, aprovar la llista final i integrar les figures justificades. No s'aprova produir automàticament les 243. |
-| 8 | Auditoria final integral després de la consolidació editorial i abans de Word. | **Pendent obligatòria**; comprovar estructura, contingut, numeració, remissions, annexos, figures, llegendes, receptes i absència de residus editorials. La maquetació no pot començar fins que F8 quedi tancada. |
-| 9 | Generació i verificació de la maqueta Word. | **Pendent**; només després de F8. Comprovar paginació real, composició, índexs i volum final (objectiu 350–375 pàgines; límit orientatiu 400), sense retallar contingut tècnic valuós per ajustar l'extensió. |
+| 7 | Revisió, selecció i producció del material gràfic. | **Ajornada fins després de la primera maqueta textual**. Inventari i classificació previs conservats: 243 propostes (157 P1, 83 P2, 3 P3); validació estructural P1 i revisió individual P2 documentades. No s'han aprovat visualment ni produït totes les figures. La revisió/selecció final i la producció no bloquegen la maqueta textual sense imatges. |
+| 8 | Auditoria final del document textual complet abans de la primera maquetació. | **Pendent**; revisar els 39 capítols i els annexos A–E regenerats: estructura, contingut, numeració, remissions, terminologia, receptes, duplicacions i residus editorials. No exigeix figures ni llegendes gràfiques. La maqueta textual només comença després de superar aquesta porta de control. |
+| 9 | Maquetació completa de la versió textual en Word, sense imatges. | **Pendent**; incloure els 39 capítols i els cinc annexos. Verificar estils, jerarquia, taules, índexs, encapçalaments, peus, salts i paginació real. Aquesta és una maqueta textual tancada, no la paginació editorial definitiva: la incorporació posterior d'imatges obligarà a repaginar i revisar la composició. No retallar contingut per assolir una xifra de pàgines. |
 
-La primera versió amb l'estructura completa sintetitzada i la segona síntesi dels 39 capítols són fonts diferenciades. La tercera versió és el resultat del treball actual sobre els 39 Markdown. La compilació documental única dels capítols 1–39 s'ha creat i sincronitzat amb els 39 Markdown. F2, F4, F5 i F6 consten tancades amb els límits documentals registrats; la fase gràfica i la maquetació (F7) continuen pendents.
+La primera versió amb l'estructura completa sintetitzada i la segona síntesi dels 39 capítols són fonts diferenciades. La tercera versió és el resultat del treball sobre els 39 Markdown. La compilació documental única dels capítols 1–39 s'ha creat i sincronitzat amb els 39 Markdown. F2, F4 i F6 consten tancades amb els límits documentals registrats. L'auditoria anterior dels annexos (F5) també es va completar, però queda superada com a lliurable per la decisió del 05/11/2026 de regenerar A–E. La fase gràfica (F7) queda ajornada fins després de la primera maqueta textual (F9).
 
 ### 2.1. Intervencions editorials històriques G-01–G-11
 
@@ -551,3 +551,39 @@ La depuració del text lector s'ha completat per als apartats identificats: s'ha
 | 1.77 | 05/11/2026 | Depuració del registre MG: fragments de C4 arxivats, cotejats amb la compilació final i retirats del document gràfic; capçalera C3 normalitzada. Validació de les propostes P1 de C4 i C5 completada sense necessitat de reobrir capítols. |
 | 1.78 | 05/11/2026 | Creat el registre de validació estructural dels 157 P1 contra la compilació C1–C39; corregida la numeració duplicada de C18. S'estableix que la correspondència estructural no equival a aprovació visual individual; queda pendent la revisió P2 i la selecció final de producció. |
 | 1.79 | 05/11/2026 | Revisió individual de les 83 propostes P2 documentada, amb fusions prioritàries, complements opcionals i condicions per a mostres físiques reals. |
+
+
+## 10. Actualització operativa vinculant — 05/11/2026 (versió 1.80)
+
+Aquesta actualització preval sobre qualsevol seqüència anterior incompatible que es mantingui en anotacions històriques d'aquest registre. No esborra l'historial ni reobre les recuperacions ja aplicades als capítols.
+
+### 10.1. Estat de les recuperacions dels capítols
+
+Les recuperacions RT/RD i els ajustos AE identificats a la matriu consten com a aplicats. F4 es manté tancada com a revisió documental dins dels límits de les fonts disponibles. Es mantenen explícitament les limitacions de C11, C14–C19 i C30–C32/C36. Les receptes i mescles no assajades no es presenten com a validades experimentalment. No es reobren capítols per aquesta actualització.
+
+### 10.2. Nova decisió sobre els annexos
+
+L'auditoria de les versions anteriors A–E es conserva com a antecedent verificable, però els fitxers existents no es consideren els annexos definitius del lliurable. Es reobre el treball de F5 amb un objectiu diferent: **regenerar de nou els cinc annexos A, B, C, D i E** a partir dels 39 capítols consolidats.
+
+Els annexos anteriors només s'utilitzaran com a material de contrast i traçabilitat. No s'han de copiar automàticament ni assumir que totes les seves entrades són correctes. Cal verificar de nou denominacions, codis, entrades, lletres de recepta, correspondències, remissions i coherència entre annexos. No s'han d'inventar proporcions ni convertir seqüències d'aplicació en mescles físiques. Les fitxes individuals de pintura no es declaren auditades si no formen part de les fonts disponibles.
+
+### 10.3. Seqüència de treball vigent
+
+1. **Conciliació documental:** aquesta actualització fixa l'estat vigent i preval sobre les instruccions operatives històriques incompatibles. Les anotacions antigues es conserven com a historial, no com a tasques pendents.
+2. **F5 — Regeneració d'annexos A–E:** reconstrucció dels cinc annexos des dels capítols consolidats, amb els annexos anteriors com a contrast.
+3. **F6 — Auditoria transversal:** verificar conjuntament C1–C39 i els nous annexos A–E. L'auditoria transversal anterior dels capítols es conserva, però cal una passada conjunta sobre el paquet regenerat.
+4. **F8 — Auditoria textual prèvia a maquetació:** comprovació final del document complet, sense exigir material gràfic.
+5. **F9 — Maquetació textual completa sense imatges:** generar i revisar el Word amb 39 capítols i cinc annexos. La maqueta queda tancada com a versió textual, però no com a paginació definitiva il·lustrada.
+6. **F10 — Revisió i selecció gràfica:** reprendre les 243 propostes, validar-ne la utilitat, resoldre fusions i aprovar només les figures justificades.
+7. **F11 — Producció i integració gràfica:** produir i inserir les figures aprovades, amb ubicació, llegendes i referències.
+8. **F12 — Verificació editorial definitiva:** repaginar i revisar la maqueta il·lustrada, incloent-hi salts, taules, llegendes, índexs i coherència final.
+
+La numeració F7 queda reservada a l'auditoria i preparació gràfica ja iniciada, però la seva execució pràctica es difereix. Per evitar confusió, les tasques post-maqueta s'identifiquen operativament com F10–F12. No es produeixen ni s'integren imatges abans de tancar F9.
+
+### 10.4. Criteri de volum
+
+La compilació de 39 capítols disponible té aproximadament 300 pàgines segons la versió Word de consulta generada en aquesta conversa, sense annexos. Aquesta xifra és orientativa i encara no és una paginació editorial verificada. Les 350–375 pàgines es mantenen com a referència no obligatòria, amb un límit orientatiu de 400; no s'ampliarà ni es retallarà contingut per perseguir aquestes xifres. La paginació es valorarà després d'integrar els annexos i aplicar els criteris de maquetació.
+
+### 10.5. Protecció de versions
+
+Tota aquesta seqüència s'aplica exclusivament a la branca `intervencion-editorial-2026-11`. No modificar `main`, la versió publicada ni el contingut aprovat dels 39 capítols, excepte si una incidència substancial concreta exigeix una intervenció registrada i justificada.

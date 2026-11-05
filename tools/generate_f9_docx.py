@@ -246,23 +246,12 @@ def main():
         19: "PART III · RECEPTARI DE MATERIALS I EFECTES",
         35: "PART IV · ACABATS I CORRECCIÓ",
     }
-    part_style = doc.styles.add_style("Part Marker", 1)
-    part_style.font.name = "Aptos Display"
-    part_style.font.size = Pt(9)
-    part_style.font.bold = True
-    part_style.font.color.rgb = RGBColor(80, 95, 110)
-    part_style.paragraph_format.space_before = Pt(2)
-    part_style.paragraph_format.space_after = Pt(3)
-    part_style.paragraph_format.keep_with_next = True
-
     for n, st in enumerate(starts):
         en = starts[n+1] if n+1 < len(starts) else len(chapter_lines)
         match = re.match(r'^#\s+(0?[1-9]|[1-3][0-9])\.\s+', chapter_lines[st])
         chapter_number = int(match.group(1))
         if chapter_number in part_map:
             doc.add_section(WD_SECTION.CONTINUOUS if chapter_number == 1 else WD_SECTION.NEW_PAGE)
-            marker = doc.add_paragraph(style="Part Marker")
-            marker.add_run(part_map[chapter_number])
             first_heading_break = False
         else:
             first_heading_break = (n > 0)
@@ -270,8 +259,6 @@ def main():
 
     # Part V begins with Annex A and continues through Annex F.
     doc.add_section(WD_SECTION.NEW_PAGE)
-    marker = doc.add_paragraph(style="Part Marker")
-    marker.add_run("PART V · ANNEXOS I EINES DE CONSULTA")
     for annex_index, path in enumerate(annex_paths):
         add_markdown_block(doc, path.read_text(encoding="utf-8").splitlines(), compact=False, first_heading_level=1, page_break_before_first_heading=(annex_index > 0))
 

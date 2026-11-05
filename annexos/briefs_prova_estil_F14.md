@@ -66,15 +66,16 @@ La imatge ha de comunicar diferències de comportament, no fingir una comparaci�
 
 ### Encàrrec visual
 
-Seqüència de cinc panells del mateix element metàl·lic representat amb tècnica no metàl·lica (NMM). La geometria, l'angle de visió, la direcció de llum i la posició de l'objecte han de romandre constants en tots els panells.
+Seqüència de sis panells del mateix element metàl·lic representat amb tècnica no metàl·lica (NMM). La geometria, l'angle de visió, la direcció de llum i la posició de l'objecte han de romandre constants en tots els panells.
 
 1. Base cromàtica.
-2. Distribució de les masses tonals.
-3. Definició dels contrastos principals.
-4. Incorporació dels reflexos.
-5. Accents finals.
+2. Construcció de les regions fosques.
+3. Construcció de les regions intermèdies.
+4. Construcció dels reflexos clars, adaptats a la geometria.
+5. Aplicació selectiva dels accents de màxima claredat i foscor.
+6. Integració i revisió de la superfície, sense suavitzar indiscriminadament tots els límits.
 
-Cada panell ha de mostrar l'acumulació progressiva de les fases, no cinc objectes diferents. La llum i els reflexos han de seguir una lògica coherent amb la geometria de l'element. No introduir un patró universal de reflexos ni una recepta de mescles no descrita al text.
+Cada panell ha de mostrar l'acumulació progressiva de les fases, no sis objectes diferents. La geometria, l'angle de visió, l'escala, la posició de l'objecte i la direcció de llum han de romandre constants. La seqüència és una interpretació didàctica del procediment general, no una recepta universal: el text admet començar des d'una base fosca o intermèdia i adaptar el patró de reflexos a la geometria. No inventar mescles, proporcions ni colors concrets no establerts al capítol.
 
 ### Tractament E1
 

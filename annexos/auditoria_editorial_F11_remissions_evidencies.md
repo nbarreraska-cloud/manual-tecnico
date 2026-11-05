@@ -93,3 +93,10 @@ No s'han generat ni inserit imatges. No s'ha modificat la compilació consolidad
 ### Figura 39.6 — ancoratge contextual corregit
 
 La fitxa i la matriu situaven aquesta figura a 39.7, però aquest apartat del manual tracta de prevenció i registre del procés. La composició mostra indicis superficials (acumulació, textura irregular, pèrdua d'adherència i alteració de brillantor), que el manual enumera a 39.2.3 durant la comprovació de l'estat de la superfície. S'ha corregit la ubicació a **39.2.3**, abans de formular causes possibles. La fitxa F10, la matriu de traçabilitat i la tanda 03 ja reflecteixen aquesta correcció.
+
+
+## 8. Comprovació sistemàtica dels ancoratges
+
+S'han contrastat els 116 ancoratges de les tandes 02 i 03 amb les ubicacions registrades a les fitxes editorials F10. El control no ha trobat cap composició situada fora de les ubicacions admeses per la seva fitxa. Les ubicacions alternatives de F10 s'han resolt escollint una de les opcions documentades, no inventant-ne una de nova.
+
+També s'ha conciliat la columna d'ubicació de la matriu de traçabilitat amb les fitxes editorials: les tres diferències textuals restants són només notes explicatives afegides a les fitxes per documentar les correccions de 5.3, 6.2 i 39.6; els apartats numèrics coincideixen.

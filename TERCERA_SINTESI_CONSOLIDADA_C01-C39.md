@@ -89,6 +89,8 @@ Per mantenir el rigor, cal:
 
 Aquests criteris permeten reconèixer l'origen i el grau de validació de cada dada i eviten confondre un principi tècnic, una característica declarada pel fabricant, una recomanació raonada i un resultat obtingut mitjançant una prova documentada.
 
+# 2. INVENTARI I ORGANITZACIÓ DE LES 48 PINTURES
+
 ## 2.1. Finalitat i abast de l'inventari
 
 Aquest capítol identifica i organitza la paleta de referència del manual: 48 pintures de les col·leccions Squidmar × Vallejo, distribuïdes en quatre conjunts comercials de dotze productes cadascun:
@@ -173,6 +175,8 @@ La paleta de referència del manual està formada per 48 pintures distribuïdes 
 La relació individual de les pintures i les seves dades identificatives es recull a l'annex A. Les característiques i propietats tècniques s'estudien al capítol 3, mentre que les aplicacions concretes es desenvolupen als capítols de tècniques i receptes.
 
 La identificació d'un producte no s'ha de confondre amb la comprovació del seu comportament. Mantenir aquesta distinció permet organitzar la informació amb rigor i evitar que les dades comercials, les propostes tècniques i els resultats comprovats es presentin com si tinguessin el mateix nivell de suport.
+
+# 3. CARACTERÍSTIQUES I FUNCIONS DE LES PINTURES
 
 ## 3.1. Objectiu i abast
 
@@ -422,6 +426,8 @@ La finalitat no és classificar les 48 pintures mitjançant propietats suposades
 3. Acrylicos Vallejo. *Xpress Color – descripció oficial de la família*. https://acrylicosvallejo.com/en/category/hobby/xpress-color-en/
 
 La documentació del fabricant s'utilitza per identificar les famílies comercials i recollir les característiques que Vallejo atribueix expressament als seus productes. Les explicacions sobre les propietats de les pintures es presenten com a fonaments tècnics generals. Les proves descrites són propostes de procediment: només s'hi podran incorporar observacions o resultats propis quan es facin amb pintures físiques i se'n documentin les condicions.
+
+# 4. TEORIA DEL COLOR APLICADA A LA PINTURA DE MINIATURES
 
 ## 4.1. Objectiu i abast
 

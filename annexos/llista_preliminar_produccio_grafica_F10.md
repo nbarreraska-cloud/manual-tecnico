@@ -403,3 +403,139 @@ Aquesta primera entrega recull 34 propostes P1 de C1–C7 i C11, incloent les fu
 | 24.8 | 24.8 | Comparació de múscul, teixit adipós i teixit connectiu. | Diferenciar masses i transicions sense inventar estructures anatòmiques. |
 | 24.9 | 24.9.3 | Làmina diagnòstica d'errors i correccions en pell i teixits orgànics. | Correspondència estricta amb els errors del capítol. |
 
+
+
+## 9. C30–C39 — Efectes, materials, conservació i diagnòstic
+
+### C30 — Foc, fum i combustió
+
+| ID | Ubicació | Format i contingut | Condicions |
+|---|---|---|---|
+| 30.1 | 30.2 | Esquema de les regions pictòriques d'una flama: nucli, zona intermèdia, exterior i base. | Són regions orientatives, no divisions físiques universals. |
+| 30.3 | 30.3.1–30.3.2 | Mapa cromàtic i de valors d'una flama. | Les referències de pintura són orientatives; no és una recepta universal ni una prova experimental. |
+| 30.4 | 30.5 | Seqüència de construcció pictòrica de la flama convencional. | Presentar-la com a procediment proposat; no com a resultat experimental. |
+| 30.8 | 30.9 | Escena integrada amb flama, fum, brases i material carbonitzat. | Diferenciar combustió, material incandescent i residus; no incorporar OSL ni efectes sobrenaturals. |
+
+### C31 — Sang i fluids
+
+| ID | Ubicació | Format i contingut | Condicions |
+|---|---|---|---|
+| 31.1 | 31.1–31.2 | Comparació de sang fresca, acumulada/coagulada i seca. | Separar color, consistència, distribució i acabat; no establir una escala universal d'antiguitat. |
+| 31.2 | 31.2 | Comparació pictòrica de sang, fluid aquós i fluid viscós. | No és una classificació mèdica ni una afirmació sobre composició real. |
+| 31.3 | 31.3 i 31.4.3 | Gotes, acumulacions i rastres sobre superfícies horitzontals, verticals, inclinades i corbes. | La forma ha de respondre a geometria, gravetat i escala. |
+| 31.4 | 31.4.2–31.4.3 | Seqüència de construcció de sang fresca: pel·lícula, gota i acumulació. | Recepta didàctica no experimentada; acabat humit selectiu. |
+| 31.5 | 31.5 | Seqüència de construcció de sang seca i taques antigues. | Preservar identitat rogenca; no vincular un color a una antiguitat universal. |
+| 31.8 | 31.7 | Làmina d'errors i correccions en sang i fluids. | Ubicació corregida; no confondre errors amb receptes de l'apartat 31.8. |
+
+### C32 — Màgia i energia
+
+| ID | Ubicació | Format i contingut | Condicions |
+|---|---|---|---|
+| 32.2 | 32.2 | Esquema de jerarquia visual d'una manifestació energètica. | Forma principal, intensitat i elements secundaris; no imposar un nucli blanc ni un halo universal. |
+| 32.3 | 32.2.4 i 32.4.1 | Comparació de fluorescència, color convencional i emissió simulada pictòricament. | Distingir fluorescència de fosforescència i de l'aparença de font lluminosa. |
+| 32.4 | 32.3 i 32.5 | Seqüència de construcció d'una esfera d'energia. | Conservar forma dominant i volum; subordinar detalls secundaris. |
+| 32.5 | 32.3 | Esquema de descàrrega amb recorregut principal, ramificacions i variacions de gruix/intensitat. | Evitar simetria i repetició artificials. |
+| 32.8 | 32.2.4 i 32.6 | Esquema de font energètica i llum projectada sobre una superfície. | Remissió a C17; no repetir el procediment complet d'OSL. |
+
+### C33 — Ceràmica, porcellana i plàstics
+
+| ID | Ubicació | Format i contingut | Condicions |
+|---|---|---|---|
+| 33.1 | 33.2.1–33.2.2 | Comparació de cossos ceràmics porosos, compactes i porcellana. | Diferenciar estructura i aparença, no només brillantor. |
+| 33.2 | 33.2.1 i 33.2.3 | Comparació de ceràmica sense esmaltar i superfícies esmaltades. | L'esmalt és un recobriment vitrificat integrat amb el cos, no un vernís de miniatures. |
+| 33.5 | 33.4 | Seqüència cromàtica d'una superfície de terracota. | No representar una textura pètria ni saturar els tons taronges. |
+| 33.6 | 33.5 | Construcció d'un esmalt acolorit amb organització dels reflexos. | Separar color de l'esmalt i acabat superficial. |
+| 33.7 | 33.6 | Comparació d'esmalt intacte, craquelat i amb pèrdua localitzada. | Diferenciar fissures de l'esmalt i fractures del cos ceràmic. |
+| 33.9 | 33.7–33.8 | Comparació de reflexos sobre plàstics plans, corbs i amb relleus. | Adaptar reflexos a geometria i acabat; no considerar el plàstic un material òpticament uniforme. |
+
+### C34 — Vidre
+
+| ID | Ubicació | Format i contingut | Condicions |
+|---|---|---|---|
+| 34.1 | 34.2 | Comparació de vidre transparent incolor, acolorit i esmerilat. | Mostrar la informació del fons que es conserva o es difumina. |
+| 34.2 | 34.2 | Esquema de vores, reflexos, informació transmesa, gruix i distorsió. | Evitar perfilar totes les vores o omplir la superfície de reflexos blancs. |
+| 34.3 + 34.4 | 34.4 | Seqüència composta de panell pla i recipient corb de vidre transparent. | 34.4 (P3) fusionada amb 34.3; preservar diferències geomètriques i de reflex. |
+| 34.5 | 34.5 | Comparació de vidre verd, blau, ambre i rogenc. | Conservar senyals de transparència; no convertir el vidre acolorit en superfície opaca. |
+| 34.7 | 34.7 | Comparació d'una mateixa escena a través de vidre transparent i esmerilat. | Diferenciar imatge definida i transmissió difusa. |
+| 34.9 | 34.8 | Comparació de superfície esquerdada, fractura extensa i fragments. | Ubicació corregida; diferenciar línies de fractura, vores i reflexos. |
+
+### C35 — Harmonització i integració cromàtica
+
+| ID | Ubicació | Format i contingut | Condicions |
+|---|---|---|---|
+| 35.1 | 35.2 | Miniatura anotada amb colors dominants, secundaris i accents. | Pes visual no depèn només de saturació. |
+| 35.2 | 35.2–35.3 | Mapa simplificat de distribució de masses cromàtiques. | Distingir extensió d'un color i importància visual. |
+| 35.4 | 35.3 | Comparació entre harmonització i uniformització excessiva. | Preservar la identitat dels materials. |
+| 35.5 | 35.4 | Composició amb metall, cuir, teixit i pell amb relacions cromàtiques compartides. | No esborrar diferències materials ni d'acabat. |
+| 35.6 | 35.5 | Integració de figura i peanya en una composició comuna. | No exigir paleta idèntica ni absorció completa de la figura per l'entorn. |
+| 35.8 | 35.7 | Comparació de correcció localitzada i ajust global. | Ubicació corregida; mostrar abast i risc d'alterar zones resoltes. |
+| 35.9 + 35.10 | 35.8 | Seqüència d'harmonització amb panell final d'errors i criteris d'avaluació. | 35.10 (P3) fusionada amb 35.9; preservar els errors sense crear una làmina redundant. |
+
+### C36 — Envelliment, desgast i deteriorament
+
+| ID | Ubicació | Format i contingut | Condicions |
+|---|---|---|---|
+| 36.1 | 36.2.1 | Comparació d'envelliment, desgast i deteriorament. | No tractar-los com a sinònims ni com una escala temporal universal. |
+| 36.2 | 36.3 | Objecte amb zones de contacte, vores exposades i superfícies protegides. | Distribució coherent amb ús i geometria. |
+| 36.3 | 36.4.1–36.4.3 | Comparació d'abrasió, fregadures i ratllades. | Diferenciar pèrdua superficial, fricció i marca lineal. |
+| 36.4 | 36.4.4 | Comparació d'impactes i danys localitzats de profunditats diferents. | Relacionar marca amb geometria, material i intensitat. |
+| 36.5 | 36.5.1 | Secció simplificada de suport, capes intermèdies i recobriment exterior. | No inventar una estratigrafia universal. |
+| 36.6 | 36.5.2–36.5.3 | Comparació de desconxats petits i pèrdues extenses. | Mostrar forma, densitat, extensió i material exposat. |
+| 36.8 | 36.7 | Comparació del desgast en metall pintat, fusta, cuir, teixit, ceràmica i plàstic. | Ubicació corregida; adaptar l'alteració a cada material. |
+| 36.9 | 36.8 | Seqüència de construcció d'una superfície desgastada. | Ubicació corregida; diferenciar planificació, pèrdua de recobriment, marques i avaluació. |
+
+### C37 — Acabats superficials
+
+| ID | Ubicació | Format i contingut | Condicions |
+|---|---|---|---|
+| 37.2 | 37.2.1 | Esquema de reflexió especular i reflexió més difusa. | Una superfície mate també reflecteix llum; la diferència és la distribució. |
+| 37.3 | 37.2.1–37.3 | Comparació de la brillantor percebuda segons llum, observador i orientació. | No atribuir el resultat només al producte o a la rugositat. |
+| 37.4 | 37.2.1–37.3 | Comparació de textura i distribució dels reflexos. | No presentar la rugositat com a única causa de brillantor. |
+| 37.6 | 37.4 | Matriu orientativa de selecció d'acabat segons material i efecte. | No establir una associació fixa entre material i acabat. |
+| 37.7 | 37.5 | Composició amb materials diferents i acabats selectius. | La brillantor és un indici, no l'únic criteri d'identificació. |
+| 37.8 | 37.5 | Mapa de zones mates, satinades i brillants sobre una mateixa superfície. | Evitar distribucions arbitràries o incompatibles amb el material. |
+| 37.9 | 37.6 | Seqüència d'anàlisi, selecció, prova i avaluació de l'acabat. | Ubicació corregida; distingir productes que modifiquen aparença i productes protectors. |
+| 37.10 | 37.7 | Làmina d'errors i correccions en l'aplicació d'acabats. | Ubicació corregida; no presentar resultats no documentats com a proves reals. |
+
+### C38 — Protecció i conservació
+
+| ID | Ubicació | Format i contingut | Condicions |
+|---|---|---|---|
+| 38.2 | 38.2.4 | Esquema de secat superficial, secat al tacte i estabilització de la pel·lícula. | No incloure temps universals; seguir les indicacions del fabricant. |
+| 38.4 | 38.4 | Comparació de criteris per a miniatures d'exposició, de joc i amb elements delicats. | No presentar un sistema protector com a universalment superior. |
+| 38.5 | 38.5 | Seqüència de preparació i inspecció abans d'envernissar. | Incloure pintura seca, neteja, zones sensibles i prova de compatibilitat. |
+| 38.6 | 38.6 | Comparació d'aplicació amb pinzell, aerògraf i aerosol. | No afegir pressions, distàncies ni dilucions universals. |
+| 38.7 | 38.6 i 38.7.3 | Comparació de pel·lícula controlada i acumulacions en cavitats/detalls. | Mostrar causes possibles sense atribuir-les a una sola variable. |
+| 38.8 | 38.7.1–38.7.2 | Esquema de turbidesa, canvis de brillantor, acumulacions i pèrdua de definició. | Diferenciar causes possibles i no presentar una causalitat no provada. |
+| 38.10 | Síntesi de 38.4–38.8 | Diagrama integral d'avaluació, aplicació, estabilització, manipulació, emmagatzematge i revisió. | No repetir tots els passos detallats ni donar temps universals. |
+
+### C39 — Diagnòstic i correcció
+
+| ID | Ubicació | Format i contingut | Condicions |
+|---|---|---|---|
+| 39.1 | 39.2 | Flux de diagnòstic: observació, símptoma, causes possibles, intervenció i avaluació. | Incloure retorns i causes múltiples. |
+| 39.2 | 39.2.2–39.2.5 | Exemple d'un mateix símptoma amb diverses causes i decisions de correcció. | No suggerir correspondència unívoca entre símptoma i causa. |
+| 39.3 | 39.2.1 | Comparació d'observació general, inspecció propera i llum lateral. | L'ampliació no substitueix l'avaluació a distància habitual. |
+| 39.4 | 39.3 | Mapa de categories de problemes: suport, aplicació, color, llum, textura, efectes, acabats i danys. | Seguir exactament les categories del capítol. |
+| 39.5 + 39.6 | 39.5 | Escala de nivells d'intervenció amb comparació entre correcció local i extensa. | 39.6 (P2) integrada; els nivells són orientatius, no obligatoris. |
+| 39.7 | 39.7 | Fitxa de prevenció i registre amb zona, símptoma, productes, condicions, causa probable, intervenció i resultat. | El registre és observacional, no validació experimental universal. |
+| 39.10 | 39.5.1–39.5.2 | Arbre de decisió entre corregir, integrar, reconstruir, recuperar o conservar. | Ubicació corregida; no substitueix el diagnòstic previ. |
+
+## 10. Fusions P2/P3 i figures en reserva
+
+### Fusions incorporades a les composicions principals
+- 3.5 → 3.3: comportament de la pintura sobre relleus i cavitats.
+- 5.14 → 5.6: llei de la reflexió.
+- 11.2 → 11.3: rentat general/localitzat i distribució en relleus.
+- 20.2 → 20.1: patrons segons el tall integrats amb l'estructura de la fusta.
+- 20.5 → 20.4: nus i desviació de fibres integrats en la construcció de vetes.
+- 34.4 → 34.3: recipient corb dins la seqüència de vidre transparent.
+- 35.10 → 35.9: errors i avaluació dins la seqüència d'harmonització.
+- 39.6 → 39.5: correcció localitzada i intervenció extensa dins els nivells d'intervenció.
+
+### Propostes P2 que continuen en reserva
+No s'inclouen com a figures autònomes en aquesta llista: 1.1, 2.1, 3.4, 3.6, 4.1, 4.2, 4.5, 5.1, 5.2, 5.3, 5.5, 5.8, 5.9, 5.10, 6.2, 6.3, 6.6, 7.1, 7.3, 7.8, 11.4, 11.7, 15.2, 15.4, 15.5, 15.7, 16.3, 16.5, 16.7, 17.2, 17.5, 17.6, 17.9, 18.2, 18.5, 18.7, 18.8, 18.9, 19.1, 19.2, 19.7, 19.8, 20.3, 20.6, 21.4, 21.9, 21.10, 22.3, 22.8, 22.10, 23.4, 23.7, 24.1, 24.6, 30.2, 30.5, 30.6, 30.7, 31.6, 31.7, 32.1, 32.6, 32.7, 33.3, 33.4, 33.8, 33.10, 34.6, 34.8, 34.10, 35.3, 35.7, 36.7, 36.10, 37.1, 37.5, 38.1, 38.3, 38.9, 39.8.
+- Les P2 19.1/19.2 només es reconsideraran si hi ha mostres físiques comparables.
+- La P2 38.3 només es reconsiderarà amb dades o proves reals de productes.
+- La P2 3.6 queda en reserva perquè duplica la taula de 3.4 i la seqüència 3.7.
+

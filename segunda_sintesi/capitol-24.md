@@ -390,23 +390,3 @@ La pell requereix una organització cromàtica que consideri pigmentació, matí
 - Vallejo. *Flesh: Step by Step Tutorial*. https://acrylicosvallejo.com/wp-content/uploads/2021/07/vallejo-stepbystep-flesh-EN.pdf
 
 Les referències anatòmiques i de pigmentació fonamenten les descripcions generals de pell i musculatura. Els tutorials de Vallejo serveixen com a recursos d'aplicació pictòrica, però les seves pintures i formulacions no es traslladen automàticament a la paleta d'aquest manual.
-
-## Figures proposades per a la fase gràfica final
-
-1. Estructura simplificada de la pell: epidermis, dermis i teixit subcutani.
-2. Comparació de pigmentacions clares, intermèdies i profundes, incloent matís.
-3. Mapa cromàtic orientatiu del rostre.
-4. Construcció de pell clara: base, ombres, tons mitjans i llums.
-5. Construcció de pell profunda sense aclarits desaturats generalitzats.
-6. Comparació de pells naturals i fantàstiques.
-7. Masses musculars i direcció dels grups principals.
-8. Diferenciació entre múscul, teixit adipós i teixit connectiu.
-9. Errors freqüents: pell plana, excés de blanc, ombres uniformes, múscul ratllat i confusió de teixits.
-
-## Registre editorial
-
-- Estructura: deu apartats, síntesi i sis exercicis.
-- Receptes: catorze propostes (A–N).
-- Precisió conceptual: la pigmentació es tracta com una variació contínua i complexa, no com una classificació rígida; anatomia simplificada amb finalitat pictòrica.
-- Delimitacions: cuir i pells curtides al capítol 22; tèxtils al 23; ossos i queratina al 25; sang i fluids al 31; acabats i protecció als capítols 37–38.
-- Estat: síntesi basada en el document original; receptes no assajades i sense proporcions universals.

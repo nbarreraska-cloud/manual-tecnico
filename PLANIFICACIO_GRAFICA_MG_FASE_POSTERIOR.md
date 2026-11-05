@@ -313,3 +313,99 @@ Les deu figures següents queden reservades per a la fase gràfica final. No s'h
 7. Variacions d'acabat: polit, setinat i envellit.
 8. Integració de diversos metalls en una mateixa miniatura.
 9. Errors freqüents i correccions per a cada metall.
+
+
+---
+
+## C20 — Propostes elaborades durant la tercera síntesi
+
+> Material de treball incorporat durant la síntesi; no consta com a proposta gràfica del Word original.
+
+## Figures proposades per a la fase gràfica final
+
+1. Direcció de fibres, vetes, nusos i anells.
+2. Patrons segons el tall: veta longitudinal i secció transversal.
+3. Comparació cromàtica de fustes clares, mitjanes, càlides, fosques i grises.
+4. Construcció de vetes principals i secundàries.
+5. Integració d'un nus i desviació de les fibres.
+6. Anells en una secció transversal.
+7. Adaptació a tauló, biga, barril, mànec i tronc.
+8. Comparació entre fusta natural, envellida, desgastada i humida.
+9. Errors freqüents i correccions.
+
+
+---
+
+## C21 — Propostes elaborades durant la tercera síntesi
+
+> Material de treball incorporat durant la síntesi; no consta com a proposta gràfica del Word original.
+
+## Figures proposades per a la fase gràfica final
+
+1. Comparació entre fullatge de fulla ampla, coníferes, herbes, molsa i líquens.
+2. Morfologia de fulles simples i compostes, vores i nerviació.
+3. Agrupacions, densitat, buits i superposició del fullatge.
+4. Comparació cromàtica de verds frescos, mitjans, foscos i apagats.
+5. Direcció de branques i agrupacions aciculars.
+6. Tiges, fulles, espigues i direcció de les gramínies.
+7. Coixins, coixinets i tapissos de molsa.
+8. Formes crustàcia, foliàcia i fruticulosa dels líquens.
+9. Fulles de tardor i vegetació seca.
+10. Integració de vegetació variada en una base.
+
+
+---
+
+## C22 — Propostes elaborades durant la tercera síntesi
+
+> Material de treball incorporat durant la síntesi; no consta com a proposta gràfica del Word original.
+
+## Figures proposades per a la fase gràfica final
+
+1. Estructura visual del gra del cuir.
+2. Comparació de cuir de gra natural, cuir corregit, ante i nobuk.
+3. Famílies cromàtiques del cuir.
+4. Construcció de cuir natural.
+5. Diferenciació entre ante i nobuk.
+6. Plecs i deformacions.
+7. Cantells, gruix i costures.
+8. Acabats superficials.
+9. Errors freqüents.
+10. Accessori integrador.
+
+
+---
+
+## C23 — Propostes elaborades durant la tercera síntesi
+
+> Material de treball incorporat durant la síntesi; no consta com a proposta gràfica del Word original.
+
+## Figures proposades per a la fase gràfica final
+
+1. Comparació esquemàtica de tafetà, sarga i satí.
+2. Comparació de lli/cotó, llana, seda/setí i vellut.
+3. Construcció cromàtica de teixits clars.
+4. Diferències entre tela mate i setinada.
+5. Teixits gruixuts i de pèl.
+6. Plecs i punts de tensió.
+7. Adaptació d'estampats i brodats a una superfície plegada.
+8. Errors freqüents: plecs en bandes, textura excessiva, reflexos incompatibles i patrons plans.
+
+
+---
+
+## C24 — Propostes elaborades durant la tercera síntesi
+
+> Material de treball incorporat durant la síntesi; no consta com a proposta gràfica del Word original.
+
+## Figures proposades per a la fase gràfica final
+
+1. Estructura simplificada de la pell: epidermis, dermis i teixit subcutani.
+2. Comparació de pigmentacions clares, intermèdies i profundes, incloent matís.
+3. Mapa cromàtic orientatiu del rostre.
+4. Construcció de pell clara: base, ombres, tons mitjans i llums.
+5. Construcció de pell profunda sense aclarits desaturats generalitzats.
+6. Comparació de pells naturals i fantàstiques.
+7. Masses musculars i direcció dels grups principals.
+8. Diferenciació entre múscul, teixit adipós i teixit connectiu.
+9. Errors freqüents: pell plana, excés de blanc, ombres uniformes, múscul ratllat i confusió de teixits.

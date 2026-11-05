@@ -1,6 +1,6 @@
 # REGISTRE MESTRE DE RECUPERACIONS EDITORIALS
 **Manual tècnic de pintura de miniatures**  
-**Versió:** 1.32 · **Data:** 05/11/2026  
+**Versió:** 1.33 · **Data:** 05/11/2026  
 **Branca:** intervencion-editorial-2026-11
 
 ## 1. Funció i abast
@@ -21,7 +21,7 @@ Aquests 39 Markdown són la representació operativa de treball sobre els contin
 | 1 | Auditoria comparativa dels 39 capítols Markdown: contingut conservat, simplificacions, pèrdues, redundàncies i millores de la segona síntesi. | **Completada (39/39)** |
 | 2 | Consolidar el Registre Mestre amb categories RT/RD/AE/MG/SC, prioritats, decisions, fonts i estat real dels canvis. | **En curs**; versió vigent 1.25. Resta conciliar la matriu per capítol amb els estats finals de F4 i eliminar contradiccions entre anotacions històriques i estat vigent. |
 | 3 | Aplicar les recuperacions tècniques, didàctiques i els ajustos editorials justificats a la tercera versió dels 39 Markdown. | **Completada per a les accions identificades a la matriu**; recuperacions aplicades als capítols 3–19, 25–32, 36 i 38; ajustos AE als capítols 33–34; els capítols SC es mantenen protegits, excepte ajustos editorials documentats. |
-| 4 | Validar els 39 capítols i estabilitzar-ne el contingut, les receptes, els exercicis, la numeració i les referències. | **En curs**; coteig documental completat per a C5, C12–C13, C25–C29 i C38, amb els límits de font registrats; correspondència estructural i didàctica principal revisada per a C4 i C6; revisió estructural i operativa de C7, incloent-hi seguretat i exercicis; revisió estructural i procedimental de C8; revisió estructural i procedimental de C9, inclosa la conciliació de la possible redundància 9.6/9.8; revisió estructural i tècnica de C10; revisió de contingut disponible completada per a C30–C32 i C36; C19 cotejat dins dels límits de la font disponible. La revisió semàntica de remissions C1–C39 està completada i documentada; s'ha precisat una remissió a C18. Continuen pendents les comprovacions de fidelitat documental, estructura i contingut dels capítols encara no cotejats. |
+| 4 | Validar els 39 capítols i estabilitzar-ne el contingut, les receptes, els exercicis, la numeració i les referències. | **En curs**; coteig documental completat per a C5, C12–C13, C25–C29 i C38, amb els límits de font registrats; correspondència estructural i didàctica principal revisada per a C4 i C6; revisió estructural i operativa de C7, incloent-hi seguretat i exercicis; revisió estructural i procedimental de C8; revisió estructural i procedimental de C9, inclosa la conciliació de la possible redundància 9.6/9.8; revisió estructural i tècnica de C10; revisió de contingut disponible completada per a C30–C32 i C36; C19 cotejat dins dels límits de la font disponible. La revisió semàntica de remissions C1–C39 està completada i documentada; s'ha precisat una remissió a C18. La comprovació estructural global dels 39 Markdown està completada: un únic H1 per fitxer, sense encapçalaments buits o duplicats, numeracions repetides o fora de capítol, ni marcadors de contingut pendent. Continuen pendents els cotejos de fidelitat documental i contingut dels capítols encara no revisats. |
 | 5 | Revisar i reconstruir els annexos A–E després d'estabilitzar els 39 capítols. | **Pendent i diferida** fins al tancament de F4. |
 | 6 | Auditoria global de coherència, referències creuades, traçabilitat i absència de pèrdues o duplicacions. | **Completada el 05/11/2026**; auditoria transversal C1–C39 tancada. No s'han detectat contradiccions globals que justifiquin reorganitzacions o retallades. No equival a validació experimental. |
 | 7 | Revisió gràfica, consolidació editorial i maquetació Word. | **Pendent**; s'abordarà després de F4 i F5. |
@@ -180,7 +180,7 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 ## 8. Properes actuacions operatives
 
 1. Completar la conciliació de la matriu per capítol amb els estats finals de F4, els fitxers Markdown i els commits; retirar o marcar com a històriques les instruccions que ja han quedat superades.
-2. Completar F4: continuar el coteig documental i la validació estructural dels capítols encara no revisats, sense repetir F1 ni reobrir capítols SC sense incidència substancial. La revisió semàntica de remissions C1–C39 ja està completada; C5 té coteig de contingut/bibliografia completat i C4 revisió estructural/didàctica principal.
+2. Completar F4: continuar els cotejos de fidelitat documental i contingut dels capítols encara no revisats, sense repetir F1 ni reobrir capítols SC sense incidència substancial. La revisió semàntica de remissions C1–C39 i la comprovació estructural global dels 39 Markdown ja estan completades.
 3. Mantenir explícits els límits documentals de C11 i C14–C18: no atribuir a un original complet continguts que s'han ampliat a partir de la primera versió o d'acords recuperats.
 4. Verificar per als capítols pendents la fidelitat a la font disponible, la conservació de receptes i ingredients, la seqüència dels procediments, els exercicis, la numeració, les referències i les delimitacions.
 5. La compilació documental dels capítols 1–39 ja està creada a `TERCERA_SINTESI_CONSOLIDADA_C01-C39.md` i la correspondència textual dels 39 capítols amb els fitxers font s'ha comprovat. Cal mantenir-la sincronitzada si F4 exigeix canvis posteriors.
@@ -325,3 +325,10 @@ S'ha contrastat la correspondència estructural i tècnica de C10 amb la font di
 Es conserven les funcions i aplicacions de les veladures, la selecció de materials, l'ús d'aigua i mitjans, la preparació de la mescla, la prova prèvia, la càrrega i el control del pinzell, la distribució, l'assecat, les aplicacions successives, les variants d'ús, els controls tècnics i els set errors amb els seus procediments de correcció. També es mantenen els sis exercicis, inclòs l'integrador. No s'han identificat omissions substancials en els blocs revisats.
 
 No s'han modificat receptes, ingredients, proporcions ni procediments. No s'atribueixen resultats experimentals a les propostes didàctiques.
+
+
+### F4 — comprovació estructural global dels 39 Markdown (05/11/2026)
+
+S'ha executat una comprovació estructural dels 39 fitxers Markdown de treball. Resultat: 39/39 fitxers amb un únic encapçalament principal H1, tots corresponents al número de capítol; no s'han detectat encapçalaments buits o duplicats, numeracions d'apartat repetides, numeracions que pertanyin a un altre capítol ni marcadors evidents de contingut pendent (TODO/TBD/XXX o equivalents).
+
+Aquesta comprovació acredita la consistència formal bàsica dels encapçalaments i la numeració. No substitueix el coteig de contingut amb les fonts, la revisió tècnica de procediments ni la validació experimental de receptes.

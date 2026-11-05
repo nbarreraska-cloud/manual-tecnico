@@ -120,6 +120,15 @@ Cal recuperar procediments, explicacions tècniques, fonaments, advertiments, de
 - Restituïts nou errors freqüents, els criteris d'avaluació i els sis exercicis.
 - Afegida la síntesi del capítol. Les propostes de figures i les notes de registre editorial s'han mantingut fora del text de lectura.
 
+### Capítol 14 — Transparències i superfícies translúcides
+
+- Ampliats els apartats d'anàlisi i planificació amb cinc dimensions: comportament del material, geometria, relació amb el fons, selecció de senyals i adaptació a l'escala.
+- Desenvolupats els procediments per a superfícies transparents i translúcides, amb distincions entre geometria, informació transmesa, contorns, reflexos, difusió i estructura interna.
+- Separats els comportaments combinats, la profunditat interna i la integració de contorns, reflexos i senyals internes.
+- Separats el control tècnic, els errors, els criteris d'avaluació i els exercicis.
+- Recuperada la síntesi conceptual.
+- **Límit documental:** el registre del document de referència indica que no s'ha localitzat un text original complet del capítol 14 i que la versió disponible era una consolidació nova. Per tant, aquesta ampliació es basa en la comparació amb aquella versió consolidada de la primera síntesi; no es presenta com una recuperació íntegra d'un original desaparegut.
+
 ## Tasques pendents
 
 1. Validar la integritat textual i estructural dels capítols 4 i 5 després de les recuperacions.

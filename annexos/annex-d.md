@@ -217,4 +217,4 @@ Només una part de les receptes dels capítols 19–34 formula mescles, modifica
 - No s'han inventat proporcions ni s'han convertit seqüències d'aplicació en mescles físiques.
 - Les receptes i combinacions són propostes tècniques, no resultats experimentals. No s'han realitzat proves físiques per validar-les.
 
-**Estat de regeneració F5:** 92 entrades; 92/92 amb recepta i referència localitzades; 92/92 amb les pintures identificades en el text de la secció d'origen. La cobertura semàntica global resta subjecta a F6 i el control final a F8.
+

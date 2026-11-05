@@ -969,3 +969,8 @@ Cotejat el contingut de C7 amb «manual con estructura completa.docx». Es conse
 ### F4 — coteig documental de contingut de C8 (05/11/2026)
 
 Cotejat C8 amb «manual con estructura completa.docx». Es conserven els fonaments de construcció per capes, les distincions conceptuals, els procediments de capa base i aplicacions successives, les variants de construcció cromàtica, el control tècnic, els sis errors amb criteris de correcció, els criteris d'avaluació i els cinc exercicis, inclòs l'integrador. No s'han identificat omissions substancials que justifiquin modificar el capítol. Les vuit propostes de figures originals continuen reservades a MG. C8 no s'ha modificat; la compilació consolidada conté exactament el fitxer vigent. F4 continua oberta i el coteig no equival a validació experimental.
+
+
+### F4 — coteig documental de contingut de C9 (05/11/2026)
+
+S'ha contrastat C9 amb el document original. La revisió inclou fonaments, variables cromàtiques, procediments, planificació, variants, control, errors i correccions, criteris d'avaluació, sis exercicis i síntesi. No s'han detectat omissions substancials que justifiquin modificar el capítol. Les vuit propostes gràfiques continuen reservades a MG. S'ha comprovat que la referència interna a la planificació de llum i ombra correspon al capítol 15 de l'arquitectura vigent. C9 no s'ha modificat i la compilació conté exactament el fitxer actual. F4 continua oberta; el coteig no equival a validació experimental.

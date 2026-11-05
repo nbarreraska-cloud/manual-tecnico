@@ -984,3 +984,8 @@ S'ha completat el coteig de C10 amb «manual con estructura completa.docx». Es 
 ### F4 — revisió limitada i recuperació didàctica de C14 (05/11/2026)
 
 Revisat C14 contra el material consolidat disponible, no contra un original complet (que continua sense localitzar-se). La distinció entre transparència del producte pictòric i transparència de l'objecte representat ja queda incorporada als fonaments i als errors freqüents. Es mantenen nou errors, sis exercicis i vuit propostes gràfiques reservades a MG. S'han ampliat les seqüències procedimentals dels sis exercicis a partir del material disponible, sense inventar objectius ni materials no documentats, i s'ha corregit «recetari» per «receptari». C14 i la compilació s'han sincronitzat i verificat. Aquesta revisió no equival a coteig integral amb l'original ni a validació experimental.
+
+
+### F4 — revisió limitada i recuperació didàctica de C15 (05/11/2026)
+
+Revisat C15 contra el contingut consolidat disponible, no contra un original complet (que continua sense localitzar-se). S'han recuperat desenvolupaments condensats: funcions del valor i jerarquia tonal, cinc nivells funcionals no obligatoris, planificació per zones, diagnòstic i correcció dels deu errors, vuit criteris d'avaluació i seqüències ampliades dels sis exercicis. Es mantenen les vuit propostes de figures per a MG. Corregit «sombra» per «ombra». La compilació C1–C39 s'ha sincronitzat amb el C15 vigent i la comprovació posterior ha confirmat la correspondència exacta. Aquesta revisió no equival a coteig integral amb l'original ni a validació experimental.

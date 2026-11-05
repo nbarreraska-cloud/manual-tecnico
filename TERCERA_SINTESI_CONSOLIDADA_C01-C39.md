@@ -1264,8 +1264,16 @@ L'exercici ha de concloure amb una explicació raonada de com la geometria, la i
 - Commission Internationale de l’Éclairage (CIE). (2020). *ILV: International Lighting Vocabulary*. 2a edició. CIE S 017/E:2020. https://cie.co.at/e-ilv
 - CIE. (2020). “Photometric distance law”, entrada 17-25-104 de l’*International Lighting Vocabulary*. https://cie.co.at/eilvterm/17-25-104
 - CIE. (2020). Entrades “Luminous flux” (17-21-039), “Luminous intensity” (17-21-045), “Illuminance” (17-21-060) i “Luminance” (17-21-050) de l’*International Lighting Vocabulary*. https://cie.co.at/e-ilv
+- CIE. (2020). “Regular reflection” i “Diffuse reflection”, entrades 17-24-052 i 17-24-054 de l’*International Lighting Vocabulary*. https://cie.co.at/eilvterm/17-24-052 i https://cie.co.at/eilvterm/17-24-054
+- CIE. (2020). “Scattering”, entrada 17-24-049 de l’*International Lighting Vocabulary*. https://cie.co.at/eilvterm/17-24-049
+- Illuminating Engineering Society (IES). (s. f.). “Inverse-square law”. *IES Lighting Definitions*. https://ies.org/definitions/inverse-square-law/
+- IES. (s. f.). “Cosine law”. *IES Lighting Definitions*. https://www.ies.org/definitions/cosine-law/
+- Johnston, A. i Passmore, P. J. (1994). “Shape from shading. I: Surface curvature and orientation”. *Perception*, 23(2), 169–189. https://doi.org/10.1068/p230169
+- Ling, S. J., Sanny, J. i Moebs, W. (2016). *University Physics, Volume 3*. OpenStax, Rice University. Apartat 1.2, “The Law of Reflection”. https://openstax.org/books/university-physics-volume-3/pages/1-2-the-law-of-reflection
+- Liu, B. i Todd, J. T. (2004). “Perceptual biases in the interpretation of 3D shape from shading”. *Vision Research*, 44(18), 2135–2145. https://doi.org/10.1016/j.visres.2004.03.024
+- Nielsen, K. J. i Connor, C. E. (2024). “How Shape Perception Works, in Two Dimensions and Three Dimensions”. *Annual Review of Vision Science*, 10, 47–68. https://doi.org/10.1146/annurev-vision-112823-031607
 
-Les referències sustenten els fonaments d'òptica, fotometria i percepció visual. Els exercicis són propostes d'observació i no s'han de presentar com a resultats experimentals del manual.
+Les referències sustenten els fonaments d'òptica, fotometria, reflexió, geometria de la il·luminació i percepció visual. Els exercicis són propostes d'observació i no s'han de presentar com a resultats experimentals del manual.
 
 ---
 

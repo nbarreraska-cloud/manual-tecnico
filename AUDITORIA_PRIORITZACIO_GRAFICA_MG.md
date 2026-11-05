@@ -77,7 +77,7 @@ No produir-la de manera independent quan:
 - requereix una fotografia o una prova física que no existeix;
 - no aporta informació verificable o pot induir a interpretar com a universal un exemple orientatiu.
 
-La classificació P1/P2/P3 s'ha d'assignar a cada proposta en la revisió detallada abans de produir les imatges. Aquest document estableix els criteris i la primera priorització temàtica; no simula una aprovació individual de les 243.
+La classificació individual ja s'ha completat per a les 243 propostes i consta a `CLASSIFICACIO_INDIVIDUAL_PROPOSTES_GRAFIQUES_MG.md`: 157 P1, 83 P2 i 3 P3. La priorització temàtica d'aquest document és una orientació de conjunt; la matriu individual és el registre operatiu de cada identificador.
 
 ## 3. Priorització temàtica inicial
 
@@ -128,3 +128,8 @@ Aquesta priorització és temàtica, no una assignació definitiva de P1/P2/P3 a
 ## 7. Límits
 
 Aquest document no valida receptes ni resultats pictòrics, no declara cap imatge produïda i no aprova automàticament les propostes originals o addicionals. La producció gràfica i la maqueta no poden convertir una proposta editorial en una afirmació tècnica no verificada.
+
+
+## 8. Resultat de la classificació individual
+
+La matriu completa cobreix els 243 identificadors, sense duplicats ni propostes sense assignació: **157 P1, 83 P2 i 3 P3**. Les tres P3 es fusionaran amb figures associades, sense perdre informació. La classificació és editorial i preliminar respecte a la integració final: cada P1 encara s'ha de validar contra el capítol consolidat abans de produir-la.

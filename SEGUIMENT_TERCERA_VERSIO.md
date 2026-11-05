@@ -1214,3 +1214,16 @@ La següent tasca material és regenerar l'Annex A, no produir ni seleccionar im
 ### Precontrol de l'Annex B anterior — 05/11/2026
 
 Abans de reconstruir B, s'ha fet una comprovació preliminar dels identificadors numèrics que apareixen a les remissions de l'índex existent: els 139 identificadors únics detectats tenen correspondència amb encapçalaments de la compilació vigent C1–C39. Això només confirma l'existència dels punts de referència detectats; no valida la selecció, l'agrupació, la descripció ni la cobertura de les entrades. L'Annex B continua pendent de regeneració des dels capítols.
+
+
+### Regeneració de l'Annex B — 05/11/2026
+
+S'ha arxivat sense modificacions la versió anterior a `annexos/historic/annex-b-auditoria-anterior-2026-11-05.md` i s'ha reconstruït `annexos/annex-b.md` prenent els capítols 7–39 de la tercera síntesi consolidada com a font principal.
+
+- L'índex regenerat conté 63 entrades.
+- S'han verificat 89 expressions de remissió, que despleguen 139 identificadors de subsecció únics; tots corresponen a encapçalaments existents.
+- S'ha incorporat la combinació de tècniques de textura (13.7), ampliat la localització de transparències i translucidesa (14.5–14.7) i ajustat la separació entre terra/pols i fang/brutícia (29.2–29.6).
+- No s'han modificat els procediments, les receptes ni les formulacions dels capítols.
+- La comprovació confirma l'existència de les destinacions, però la cobertura semàntica global i la coherència amb A, C, D i E queden per a F6; la revisió final de presentació i remissions queda per a F8.
+
+La nota de precontrol anterior sobre els 139 identificadors queda precisada: es tracta dels identificadors individuals després de desplegar els intervals, no de 139 expressions literals diferents.

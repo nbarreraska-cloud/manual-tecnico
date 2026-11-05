@@ -3072,3 +3072,1840 @@ La tria ha de respondre a l'objectiu visual i a les condicions concretes de treb
 El control tècnic exigeix observar la continuïtat cromàtica, identificar possibles bandes o discontinuïtats i evitar acumulacions o correccions innecessàries.
 
 El criteri fonamental és construir una transició intencionada i controlada, no aconseguir la màxima suavitat en qualsevol circumstància.
+
+
+---
+
+# 10. VELADURES I GLASSEJATS
+
+## 10.1. Introducció: modificació cromàtica mitjançant capes transparents
+
+Les veladures i els glassejats són tècniques d'aplicació que permeten modificar l'aparença d'una superfície pintada mitjançant capes fines de pintura transparent o semitransparent. La seva característica principal és alterar el matís, el valor o el croma d'una superfície sense ocultar completament la informació visual de les aplicacions inferiors.
+
+A diferència d'una aplicació opaca, l'objectiu de la qual pot ser substituir visualment el color anterior, una veladura permet que part de la informació cromàtica i pictòrica de la superfície inferior continuï participant en el resultat final.
+
+Aquestes tècniques permeten:
+
+- Modificar progressivament el matís d'una superfície.
+- Enriquir o intensificar un color.
+- Reduir o ajustar el croma.
+- Unificar zones cromàtiques que presenten diferències.
+- Suavitzar visualment determinades transicions.
+- Corregir petites desviacions de color.
+- Introduir variacions cromàtiques sense reconstruir completament la superfície.
+
+La seva aplicació requereix controlar la transparència de la pintura, la quantitat dipositada, la distribució de la capa i el comportament un cop seca.
+
+L'objectiu del capítol és comprendre les particularitats d'aquestes tècniques, aprendre a preparar i aplicar una veladura i desenvolupar criteris per decidir quan és adequada i com se n'ha d'avaluar el resultat.
+
+Una veladura no és una solució universal per a qualsevol problema de pintura. La seva eficàcia depèn de la naturalesa de la superfície, dels colors implicats i de les característiques del producte utilitzat.
+
+## 10.2. Definició i fonaments de les veladures i els glassejats
+
+### 10.2.1. Veladura
+
+Una veladura és l'aplicació d'una capa fina de pintura, generalment transparent o semitransparent, destinada a modificar el color o el valor d'una superfície sense ocultar completament la informació visual inferior.
+
+La capa aplicada modifica l'aparença de la superfície mitjançant la interacció entre el color de la pintura i el color que continua sent visible a sota.
+
+El resultat depèn de diversos factors:
+
+- La transparència i les característiques del pigment.
+- La concentració de pintura en l'aplicació.
+- El gruix i la distribució de la pel·lícula.
+- El color de la superfície inferior.
+- La quantitat de llum que es reflecteix en el conjunt de capes.
+
+Una veladura es pot aplicar sobre una superfície relativament uniforme o sobre una zona que ja presenta diferents valors i colors. En tots dos casos, la informació inferior continua influint en l'aparença final.
+
+### 10.2.2. Glassejat
+
+El glassejat és l'aplicació d'una capa molt fina i controlada de pintura transparent o semitransparent per modificar o integrar el color d'una superfície prèviament pintada.
+
+En aquest manual s'utilitza principalment *veladura* com a terme general i *glassejat* quan interessa destacar l'aplicació especialment controlada d'una capa fina destinada a modificar o integrar una zona cromàtica.
+
+Aquesta distinció és una convenció editorial i didàctica, no una separació terminològica universal. En diferents publicacions i comunitats de pintura de miniatures, tots dos termes es poden utilitzar com a sinònims.
+
+### 10.2.3. Transparència de la pintura i efecte de veladura
+
+Cal diferenciar dos aspectes relacionats, però no equivalents:
+
+- **Transparència pròpia de la pintura:** característica del producte que condiciona la seva capacitat per deixar percebre visualment la superfície inferior. Depèn, entre altres factors, de la formulació i de les propietats dels pigments.
+- **Efecte de transparència de l'aplicació:** resultat visual que s'obté quan una capa fina permet conservar part de la informació de la superfície inferior.
+
+Una pintura de transparència limitada pot modificar el seu comportament visual quan s'aplica en una pel·lícula fina, però això no significa que qualsevol pintura opaca es converteixi en transparent pel fet d'afegir-hi aigua.
+
+La tria del producte i el control de l'aplicació s'han de considerar conjuntament.
+
+### 10.2.4. Diferències respecte d'altres tècniques
+
+Les veladures i els glassejats s'han de diferenciar d'altres procediments del manual:
+
+- **Capes base i construcció mitjançant capes:** busquen establir o desenvolupar una superfície pictòrica mitjançant aplicacions successives, que no han de ser necessàriament transparents.
+- **Degradats i transicions:** tenen com a objectiu construir un canvi cromàtic progressiu. Una veladura pot ajudar a modificar o integrar una transició, però no és el mateix que construir-la.
+- **Rentats:** es caracteritzen per una distribució més fluida de la pintura i per la seva tendència a desplaçar-se cap a cavitats i zones d'acumulació. La veladura busca una distribució controlada sobre una superfície determinada.
+- **Tintes i productes específics:** la seva formulació i el seu comportament s'han d'avaluar segons les característiques del producte. No tots els productes líquids estan destinats a funcionar com a veladures.
+- **Superfícies transparents o translúcides:** impliquen representar materials que transmeten la llum. La transparència d'una pintura no equival a la transparència del material representat.
+
+Aquesta diferenciació permet seleccionar la tècnica adequada segons l'objectiu pictòric.
+
+## 10.3. Funcions i aplicacions de les veladures
+
+Les veladures es poden utilitzar amb finalitats diferents. La seva aplicació ha de respondre a una necessitat concreta de la superfície i no a la simple intenció d'afegir més capes.
+
+### 10.3.1. Modificació del matís
+
+Una veladura pot introduir una variació de matís sobre una superfície prèviament pintada.
+
+Per exemple, una superfície blava pot adquirir una aparença lleugerament més violàcia o verdosa mitjançant una aplicació transparent o semitransparent d'un altre color.
+
+El resultat depèn de la relació entre el color aplicat i el color inferior. La modificació no serà necessàriament igual a tota la superfície si la base presenta diferències de valor o de color.
+
+Per aquest motiu, convé comprovar prèviament la combinació sobre una mostra.
+
+### 10.3.2. Intensificació o modificació del croma
+
+Una veladura pot modificar la intensitat cromàtica percebuda d'una superfície. Segons els colors i els pigments utilitzats, pot enriquir una zona o reduir-ne la intensitat.
+
+No s'ha d'assumir que qualsevol veladura augmenta el croma. Una capa pot intensificar-lo, reduir-lo o desplaçar-lo cap a una altra aparença cromàtica. La modificació depèn dels colors implicats i de la resposta òptica del conjunt.
+
+### 10.3.3. Modificació del valor
+
+L'aplicació d'una pintura transparent o semitransparent pot modificar el valor percebut d'una superfície.
+
+Una veladura fosca pot reduir la claredat aparent d'una zona, mentre que una aplicació d'un altre color pot modificar-ne l'aparença sense substituir completament la informació inferior. L'efecte depèn de la transparència del producte i de la quantitat de pintura dipositada.
+
+Quan l'objectiu sigui construir una diferència de valor mitjançant colors opacs, cal utilitzar el procediment de construcció cromàtica corresponent, no assumir que una veladura resoldrà qualsevol diferència.
+
+### 10.3.4. Unificació cromàtica
+
+Una de les aplicacions més útils de les veladures consisteix a modificar lleugerament diferents zones per aconseguir una aparença cromàtica més integrada.
+
+Es pot utilitzar quan una superfície presenta petites diferències entre aplicacions i es vol reduir-ne el contrast cromàtic sense eliminar completament les variacions.
+
+La unificació no significa igualar tots els colors. Cal conservar les diferències que contribueixen a la lectura de la superfície. Una aplicació excessiva pot reduir el contrast i fer que la superfície perdi definició.
+
+### 10.3.5. Integració de transicions
+
+Una veladura es pot utilitzar sobre una transició prèviament construïda per modificar la relació visual entre les seves zones.
+
+Pot ajudar a reduir petites diferències cromàtiques o a integrar una superfície que presenta una variació massa fragmentada. Tanmateix, no substitueix la construcció del degradat ni corregeix necessàriament una transició mal planificada.
+
+Si les diferències entre els colors són massa grans, una sola aplicació transparent no serà suficient per aconseguir una transició adequada.
+
+### 10.3.6. Correcció cromàtica localitzada
+
+Les veladures també es poden utilitzar per modificar una zona concreta sense intervenir sobre tota la superfície.
+
+Per exemple, una zona petita pot necessitar una modificació de matís, una reducció del croma o una integració amb els colors pròxims.
+
+L'aplicació localitzada permet conservar la resta de la superfície i limitar la intervenció a la zona que necessita correcció. Per aconseguir-ho, cal controlar especialment la quantitat de pintura i l'extensió de l'aplicació.
+
+## 10.4. Materials i preparació de les veladures
+
+### 10.4.1. Selecció de la pintura
+
+La selecció del producte s'ha de fer considerant-ne la transparència, el comportament i la compatibilitat amb el procediment previst.
+
+Convé valorar:
+
+- La transparència o opacitat indicada pel fabricant.
+- El comportament observat del producte.
+- L'estabilitat de la mescla.
+- La facilitat per aconseguir una aplicació uniforme.
+- La modificació cromàtica que produeix sobre el color inferior.
+- La compatibilitat amb la superfície i les capes anteriors.
+
+No s'ha de deduir que una pintura és adequada per a veladures únicament perquè el seu color sigui intens o la seva consistència sigui fluida. Tampoc no s'ha d'assumir que tots els productes d'una mateixa família comercial presenten un comportament idèntic.
+
+Les propietats generals de les pintures s'expliquen al capítol 3. Aquí es consideren exclusivament des de la seva utilitat per construir veladures.
+
+### 10.4.2. Ús d'aigua i mitjans específics
+
+La preparació d'una veladura es pot fer amb aigua o amb mitjans específics, sempre que siguin compatibles amb el producte utilitzat.
+
+L'aigua modifica la consistència de la pintura i en facilita la distribució, però afegir-ne quantitats excessives pot reduir la proporció d'aglutinant respecte del pigment i perjudicar la formació d'una pel·lícula pictòrica adequada.
+
+Els mitjans específics poden facilitar la modificació de la transparència i de les condicions d'aplicació, segons la seva formulació. No tots els mitjans tenen la mateixa funció. Cal consultar la informació del fabricant per determinar-ne la compatibilitat i la manera d'utilitzar-los.
+
+No hi ha una proporció universal de pintura, aigua o mitjà que permeti preparar correctament qualsevol veladura. La preparació s'ha d'ajustar al producte i comprovar-se mitjançant una prova abans d'aplicar-la a la miniatura.
+
+### 10.4.3. Preparació de la mescla
+
+La mescla ha de permetre dipositar una pel·lícula fina, controlada i prou uniforme.
+
+Abans d'aplicar-la convé comprovar:
+
+- Que el producte està correctament homogeneïtzat.
+- Que no presenta grumolls ni separacions no previstes.
+- Que la consistència permet controlar l'aplicació.
+- Que el color resultant és adequat per a la modificació buscada.
+- Que la mescla no presenta una fluïdesa excessiva que afavoreixi acumulacions.
+
+L'aparença de la mescla a la paleta no permet conèixer per si sola com quedarà un cop aplicada i seca. Per això, les mescles s'han de provar sobre una superfície de referència, preferiblement amb un color inferior semblant al de la miniatura.
+
+### 10.4.4. Estat de la superfície
+
+La superfície sobre la qual s'aplica una veladura ha d'estar prou seca i estable.
+
+Si la capa inferior encara és humida, la nova aplicació pot barrejar-se amb la pintura o desplaçar-la involuntàriament, modificant el resultat previst.
+
+També cal evitar treballar sobre superfícies amb acumulacions, irregularitats o problemes d'aplicació que la nova capa podria accentuar. La veladura no s'ha d'utilitzar per ocultar problemes estructurals de la superfície que requereixin una correcció prèvia.
+
+## 10.5. Procediment d'aplicació d'una veladura
+
+L'aplicació d'una veladura requereix controlar la quantitat de pintura, la distribució i l'estat de la superfície. Una pel·lícula fina no s'ha de confondre amb una aplicació excessivament líquida ni amb una capa dipositada sense control.
+
+### 10.5.1. Definició de l'objectiu
+
+Abans d'aplicar la mescla cal determinar què es pretén modificar. La finalitat pot ser:
+
+- Alterar lleugerament el matís.
+- Modificar el valor.
+- Enriquir o reduir el croma.
+- Unificar zones cromàtiques.
+- Integrar una transició.
+- Corregir una zona localitzada.
+
+Definir l'objectiu permet seleccionar el color i evitar intervencions innecessàries.
+
+### 10.5.2. Preparació de la mescla i prova prèvia
+
+Un cop seleccionat el color, es prepara la mescla amb l'aigua o el mitjà adequat. És recomanable fer una prova sobre una superfície de referència abans d'aplicar-la a la miniatura.
+
+La prova permet comprovar:
+
+- La intensitat del color.
+- La transparència efectiva de l'aplicació.
+- La distribució de la pintura.
+- La modificació que produeix sobre la base.
+- L'aparença un cop seca.
+
+Si el resultat és massa intens, opac o irregular, convé modificar la preparació abans de continuar.
+
+### 10.5.3. Càrrega i control del pinzell
+
+El pinzell ha de contenir una quantitat de pintura suficient per cobrir la zona prevista, però sense excés de líquid.
+
+Una càrrega excessiva pot provocar acumulacions, desplaçaments de pintura i marques als límits de l'aplicació. Abans de treballar sobre la miniatura convé comprovar la càrrega a la paleta o en una superfície de prova.
+
+El pinzell ha de permetre mantenir el control de l'extensió i evitar que la pintura s'acumuli en zones no desitjades. No es tracta de treballar amb el pinzell completament sec, sinó de controlar la quantitat de mescla que transporta.
+
+### 10.5.4. Distribució de la veladura
+
+La pintura s'ha de distribuir de manera controlada sobre la zona prevista. Els moviments han de facilitar una pel·lícula relativament uniforme, evitant deixar dipòsits excessius als extrems o als punts on acaba el recorregut del pinzell.
+
+Durant l'aplicació convé observar:
+
+- L'extensió de la zona coberta.
+- La quantitat de pintura dipositada.
+- La uniformitat de la pel·lícula.
+- L'aparició d'acumulacions.
+- La conservació de la informació inferior.
+
+Si apareix un excés de pintura, cal evitar continuar estenent-lo indiscriminadament per tota la superfície. La correcció s'ha de fer mentre les condicions de l'aplicació ho permetin i sense deteriorar la capa inferior.
+
+### 10.5.5. Assecat i aplicacions successives
+
+Un cop aplicada la veladura, cal deixar-la assecar prou abans de valorar-ne el resultat o fer una altra intervenció.
+
+L'aparença de la pintura humida pot diferir de la que presenta un cop seca. Per això, no convé jutjar definitivament la intensitat de la modificació durant l'aplicació.
+
+Quan es necessita una modificació més intensa, es poden fer noves aplicacions fines, sempre que la superfície ho permeti. Cada aplicació s'ha d'avaluar abans de continuar. No s'ha d'assumir que diverses capes produiran necessàriament una progressió uniforme ni que més aplicacions equivalen a un resultat millor.
+
+L'acumulació excessiva pot alterar el color, reduir la definició i modificar l'aparença superficial.
+
+### 10.5.6. Avaluació final
+
+Un cop seca l'aplicació, cal comprovar si la modificació respon a l'objectiu inicial.
+
+Si el resultat és adequat, no cal continuar. Si la modificació és insuficient, es pot valorar una altra aplicació controlada. Si és excessiva o ha alterat zones que s'havien de conservar, cal estudiar una correcció específica.
+
+La decisió s'ha de prendre sobre la superfície seca i considerant el conjunt, no únicament la zona on s'ha aplicat l'última capa.
+
+## 10.6. Variants d'aplicació i usos específics
+
+Les veladures es poden organitzar de maneres diferents segons la finalitat i la distribució de la pintura.
+
+### 10.6.1. Veladura uniforme
+
+Consisteix a aplicar una capa fina sobre una zona relativament àmplia per modificar-ne l'aparença cromàtica de manera general.
+
+S'utilitza per enriquir el color, alterar lleugerament el matís o unificar una superfície. El requisit principal és mantenir una distribució controlada, evitant acumulacions i diferències d'intensitat no previstes.
+
+No s'ha de confondre una veladura uniforme amb una capa opaca convencional: l'objectiu és conservar part de la informació inferior.
+
+### 10.6.2. Veladura localitzada
+
+S'aplica únicament sobre una zona concreta de la superfície. Permet introduir una modificació cromàtica sense afectar la resta de la miniatura.
+
+És especialment útil per corregir diferències petites, modificar una zona o reforçar una relació cromàtica específica. L'extensió s'ha de controlar per evitar límits involuntàriament marcats. Si la vora de l'aplicació queda massa definida, pot ser necessari ajustar-ne la distribució mitjançant una intervenció localitzada.
+
+### 10.6.3. Veladures superposades
+
+Consisteixen a aplicar diverses capes fines successives per modificar progressivament l'aparença de la superfície. Cada aplicació es fa quan l'anterior està prou seca.
+
+Aquesta modalitat permet construir una modificació gradual i controlar el resultat entre aplicacions. La transparència de les capes permet conservar part de la informació inferior, encara que l'efecte acumulat depèn de les característiques de les pintures i del gruix total de la pel·lícula.
+
+Cal no confondre la superposició de veladures amb la construcció general mitjançant capes del capítol 8. Aquí la finalitat depèn específicament de conservar visible la informació inferior i modificar-ne l'aparença mitjançant aplicacions transparents o semitransparents.
+
+### 10.6.4. Glassejat d'integració cromàtica
+
+S'utilitza per modificar de manera controlada la relació entre diferents zones d'una superfície prèviament pintada.
+
+Es pot aplicar sobre una part d'una transició o sobre una zona que presenta diferències cromàtiques que es volen integrar. La distribució ha de respondre a la finalitat de la intervenció. No cal cobrir tota la superfície si el problema està localitzat.
+
+El resultat s'ha d'avaluar considerant la relació entre les zones modificades i les que romanen sense intervenir.
+
+### 10.6.5. Modificació cromàtica mitjançant filtres superficials
+
+En alguns procediments s'aplica una capa transparent o semitransparent per modificar globalment l'aparença d'una superfície. Es pot utilitzar per desplaçar el matís general, enriquir el color o introduir-hi una dominant cromàtica.
+
+En aquest manual es tracta com una aplicació de veladura quan el procediment es basa en una pel·lícula controlada que conserva la informació inferior. No s'ha de confondre amb els rentats ni amb els productes de filtratge específics, la formulació i el comportament dels quals poden ser diferents.
+
+## 10.7. Control tècnic i avaluació de les veladures
+
+El control d'una veladura requereix valorar tant la modificació cromàtica com l'estat de la pel·lícula aplicada. No n'hi ha prou de comprovar si la superfície ha canviat de color: cal determinar si la informació inferior continua sent visible i si l'aplicació s'ha distribuït correctament.
+
+### 10.7.1. Control de la transparència
+
+Cal comprovar que l'aplicació conserva la informació visual inferior en el grau previst.
+
+Una veladura massa opaca pot ocultar el color de base i comportar-se visualment com una aplicació de cobertura. Si la finalitat era modificar el color sense substituir-lo, el resultat no serà adequat.
+
+La transparència s'ha de valorar sobre la superfície concreta, ja que un mateix producte pot produir efectes diferents segons el color inferior i les condicions d'aplicació.
+
+### 10.7.2. Control de la intensitat cromàtica
+
+Cal avaluar si la modificació obtinguda correspon a l'objectiu inicial. Convé comprovar:
+
+- Si el matís s'ha desplaçat en la direcció prevista.
+- Si el valor s'ha modificat excessivament.
+- Si el croma ha augmentat o disminuït de manera no desitjada.
+- Si les diferències entre les zones es mantenen.
+- Si l'aparença general continua sent coherent.
+
+Una veladura pot produir una modificació més gran de l'esperada, especialment quan s'acumulen diverses aplicacions.
+
+### 10.7.3. Control de la distribució
+
+La pel·lícula ha de presentar una distribució adequada a la finalitat del procediment.
+
+Cal observar si apareixen acumulacions, marques, zones amb intensitats diferents o límits involuntaris. Una distribució irregular pot alterar la lectura de la superfície fins i tot quan la mescla cromàtica és correcta.
+
+### 10.7.4. Control de la superfície inferior
+
+Cal comprovar que les aplicacions anteriors conserven la definició prevista.
+
+Una veladura pot modificar l'aparença de relleus, transicions i detalls si es diposita en excés o s'acumula en determinades zones. També cal avaluar si la superfície presenta una aparença homogènia o si la nova aplicació hi ha introduït irregularitats.
+
+### 10.7.5. Criteri de finalització
+
+La veladura es pot considerar acabada quan ha aconseguit la modificació cromàtica prevista i conserva la informació inferior necessària.
+
+No s'ha de continuar aplicant pintura únicament per augmentar la intensitat de l'efecte. El criteri de finalització depèn de l'objectiu: una veladura d'unificació no necessita produir el mateix resultat que una modificació localitzada de matís o una integració cromàtica.
+
+La intervenció s'ha d'aturar quan compleix la seva funció.
+
+## 10.8. Errors freqüents i procediments de correcció
+
+### 10.8.1. Veladura massa opaca
+
+Es produeix quan l'aplicació oculta excessivament la superfície inferior.
+
+**Possibles causes:**
+- Pintura amb una opacitat elevada per a l'efecte buscat.
+- Excés de producte en la mescla.
+- Aplicació massa gruixuda.
+- Acumulació de diverses capes sense avaluació intermèdia.
+
+**Correcció:** deixar assecar la superfície i valorar si es pot recuperar part de la informació inferior mitjançant una intervenció posterior. Si la capa ha ocultat completament el color de base, pot ser necessari reconstruir parcialment la superfície. Per a aplicacions futures, cal seleccionar un producte més adequat o ajustar-ne la preparació i la quantitat dipositada.
+
+### 10.8.2. Aplicació excessivament líquida
+
+Es produeix quan la mescla presenta una fluïdesa que dificulta controlar-ne la distribució.
+
+**Possibles causes:**
+- Excés d'aigua o mitjà.
+- Preparació inadequada per al producte.
+- Càrrega excessiva del pinzell.
+- Superfície o condicions d'aplicació poc favorables.
+
+**Possibles conseqüències:**
+- Acumulacions.
+- Marques als límits.
+- Distribució irregular.
+- Pèrdua de control sobre la zona d'aplicació.
+
+**Correcció:** evitar continuar estenent la mescla sense control. Si l'aplicació encara permet retirar o redistribuir l'excés sense danyar la superfície, fer-ho de manera localitzada. Si ja ha començat a assecar-se, deixar estabilitzar la capa i valorar la correcció posteriorment.
+
+### 10.8.3. Acumulacions i marques a les vores
+
+Es produeixen quan la pintura es concentra en determinades zones durant la distribució o l'assecat.
+
+**Possibles causes:**
+- Excés de líquid.
+- Quantitat de pintura mal controlada.
+- Moviment inadequat del pinzell.
+- Dipòsits de pintura als extrems de l'aplicació.
+
+**Correcció:** un cop seca la superfície, avaluar si les acumulacions es poden integrar mitjançant una nova intervenció controlada o si cal reconstruir parcialment la zona. Per evitar que es repeteixin, cal controlar la càrrega del pinzell i la quantitat dipositada.
+
+### 10.8.4. Modificació cromàtica excessiva
+
+Es produeix quan la veladura altera massa el color inferior.
+
+**Possibles causes:**
+- Mescla massa intensa.
+- Aplicació massa extensa.
+- Repetició de capes sense avaluar el resultat.
+- Selecció d'un color que modifica altres dimensions cromàtiques a més de la prevista.
+
+**Correcció:** aturar les aplicacions i avaluar la superfície un cop seca. Si és possible, recuperar part de l'aparença anterior mitjançant una intervenció localitzada i adequada a l'estat de la superfície.
+
+No s'ha d'intentar neutralitzar automàticament una modificació excessiva afegint-hi el color contrari, ja que el resultat depèn dels pigments i de les capes acumulades.
+
+### 10.8.5. Veladura irregular o amb taques
+
+Es produeix quan la superfície presenta zones de diferent intensitat o una distribució no prevista.
+
+**Possibles causes:**
+- Aplicació desigual.
+- Càrrega variable del pinzell.
+- Acumulacions localitzades.
+- Diferències d'absorció o d'estat superficial.
+- Manipulació excessiva durant l'aplicació.
+
+**Correcció:** identificar si la irregularitat es deu a la distribució de la pel·lícula o a una modificació cromàtica desigual. Un cop seca, es pot corregir mitjançant una aplicació controlada si la superfície ho permet. No s'ha de cobrir tota la zona automàticament, perquè això podria augmentar el problema.
+
+### 10.8.6. Pèrdua de definició de la superfície
+
+Pot aparèixer quan les aplicacions successives modifiquen excessivament el contrast i la lectura dels detalls.
+
+**Possibles causes:**
+- Acumulació de capes.
+- Excés d'intensitat cromàtica.
+- Aplicació sobre zones que havien de conservar diferències.
+- Falta d'avaluació entre intervencions.
+
+**Correcció:** aturar el procés i valorar quines zones han perdut definició. Si cal, recuperar selectivament les diferències cromàtiques mitjançant una intervenció adequada, evitant reconstruir tota la superfície sense necessitat.
+
+### 10.8.7. Repetició excessiva de correccions
+
+Es produeix quan es continuen aplicant veladures sense una finalitat clara o sense valorar prou els resultats anteriors.
+
+**Possibles conseqüències:**
+- Acumulació de pel·lícula pictòrica.
+- Canvis cromàtics no previstos.
+- Pèrdua de contrast.
+- Dificultat per recuperar l'aparença original.
+
+**Correcció:** interrompre les aplicacions, deixar assecar la superfície i fer-ne una avaluació global. Cal determinar quin problema persisteix i si realment necessita una nova intervenció.
+
+Una veladura ha de respondre a una necessitat concreta. Si la superfície ja compleix la seva funció, continuar treballant-hi pot deteriorar el resultat.
+
+## 10.9. Resultat esperat i criteris d'avaluació
+
+En acabar el capítol, el lector hauria de ser capaç de:
+
+- Comprendre què és una veladura i quina funció compleix.
+- Diferenciar la transparència pròpia del producte de l'efecte de transparència d'una aplicació.
+- Aplicar la convenció terminològica entre veladura i glassejat utilitzada en el manual.
+- Seleccionar pintures i mitjans adequats per al procediment.
+- Preparar mescles sense recórrer a proporcions universals.
+- Controlar la càrrega del pinzell i la distribució d'una pel·lícula fina.
+- Modificar el matís, el valor o el croma d'una superfície.
+- Unificar o integrar zones cromàtiques mitjançant aplicacions controlades.
+- Construir modificacions progressives mitjançant veladures successives.
+- Identificar acumulacions, irregularitats i pèrdues de definició.
+- Avaluar quan una aplicació ha aconseguit l'efecte previst.
+
+La qualitat d'una veladura no depèn que la capa sigui tan fina com sigui possible ni que s'utilitzi un nombre elevat d'aplicacions. Cal valorar la seva capacitat per modificar l'aparença de la superfície conservant la informació inferior necessària.
+
+El resultat adequat és aquell que compleix la finalitat prevista, manté una distribució controlada i no introdueix alteracions innecessàries.
+
+## 10.10. Exercicis pràctics
+
+Els exercicis es plantegen per comprendre i controlar les veladures de manera progressiva. Les combinacions proposades tenen caràcter didàctic i s'han de comprovar físicament amb les pintures seleccionades.
+
+### 10.10.1. Exercici 1. Comparació entre pintura opaca i aplicació transparent
+
+**Objectiu:** comprendre la diferència entre una aplicació opaca i una veladura.
+
+**Materials:**
+- Una pintura d'un color identificable.
+- Una superfície de prova amb una base cromàtica uniforme.
+- Aigua o mitjà compatible.
+- Paleta i pinzell.
+
+**Procediment:**
+1. Preparar dues zones equivalents sobre una superfície de prova.
+2. Aplicar una capa de pintura amb una cobertura convencional a la primera zona.
+3. Preparar una mescla adequada per a una veladura.
+4. Aplicar-la a la segona zona.
+5. Deixar assecar totes dues aplicacions.
+6. Comparar quina informació inferior continua visible i quina modificació cromàtica s'ha produït.
+
+**Criteris d'avaluació:**
+- Es reconeix la diferència entre cobertura i modificació cromàtica transparent.
+- S'identifica la influència del color inferior.
+- S'observa l'aparença de les aplicacions un cop seques.
+
+### 10.10.2. Exercici 2. Modificació del matís mitjançant una veladura
+
+**Objectiu:** modificar el matís d'una superfície conservant part de la seva aparença inicial.
+
+**Materials:**
+- Una superfície de prova amb una base cromàtica uniforme.
+- Una pintura d'un altre matís.
+- Aigua o mitjà compatible.
+- Paleta i pinzell.
+
+**Procediment:**
+1. Seleccionar un color de base.
+2. Escollir una pintura que permeti desplaçar-ne l'aparença cap a un altre matís.
+3. Preparar una mescla per a veladura.
+4. Fer una prova sobre la superfície de referència.
+5. Aplicar la veladura de manera controlada.
+6. Deixar assecar i observar el canvi cromàtic.
+7. Comparar el resultat amb la zona que no ha rebut l'aplicació.
+
+**Criteris d'avaluació:**
+- S'aprecia una modificació del matís.
+- La informació inferior continua sent visible.
+- La intensitat del canvi respon a l'objectiu.
+- No apareixen acumulacions involuntàries.
+
+### 10.10.3. Exercici 3. Unificació de dues zones cromàtiques
+
+**Objectiu:** utilitzar una veladura per integrar visualment dues zones amb diferències cromàtiques moderades.
+
+**Materials:**
+- Una superfície de prova dividida en dues zones de color.
+- Una pintura adequada per modificar-ne la relació cromàtica.
+- Aigua o mitjà compatible.
+- Paleta i pinzell.
+
+**Procediment:**
+1. Preparar dues zones cromàtiques pròximes, però amb una diferència visible.
+2. Seleccionar un color que permeti modificar-ne la relació.
+3. Preparar una veladura i fer-ne una prova.
+4. Aplicar la mescla sobre la zona prevista.
+5. Deixar assecar i valorar-ne la integració.
+6. Si cal, fer una nova aplicació localitzada.
+7. Comparar el resultat amb la superfície original.
+
+**Criteris d'avaluació:**
+- Es redueix la diferència cromàtica no desitjada.
+- Es conserven les característiques principals de totes dues zones.
+- L'aplicació no elimina innecessàriament la separació entre plans.
+- La intervenció es manté localitzada i controlada.
+
+### 10.10.4. Exercici 4. Construcció mitjançant veladures successives
+
+**Objectiu:** comprendre com es modifica progressivament una superfície mitjançant diverses aplicacions transparents o semitransparents.
+
+**Materials:**
+- Una superfície de prova.
+- Una pintura adequada per a veladures.
+- Aigua o mitjà compatible.
+- Paleta i pinzell.
+
+**Procediment:**
+1. Preparar una superfície de base.
+2. Aplicar una primera veladura controlada.
+3. Deixar assecar prou.
+4. Avaluar la modificació cromàtica.
+5. Aplicar una segona veladura únicament si és necessària.
+6. Repetir el procés d'avaluació.
+7. Comparar el resultat després de cada aplicació.
+
+**Criteris d'avaluació:**
+- S'identifica la modificació acumulada.
+- Es conserva part de la informació inferior.
+- Es controla la intensitat de l'efecte.
+- S'evita continuar aplicant pintura quan el resultat ja és adequat.
+
+### 10.10.5. Exercici 5. Identificació i correcció d'errors
+
+**Objectiu:** reconèixer els problemes habituals de les veladures i seleccionar correccions proporcionades.
+
+**Materials:**
+- Diverses superfícies de prova amb aplicacions diferents.
+- Pintures i mitjans adequats per fer correccions.
+
+**Procediment:**
+1. Preparar o seleccionar superfícies amb defectes diferents: excés d'opacitat, acumulacions, marques, irregularitats i modificació cromàtica excessiva.
+2. Observar les superfícies un cop seques.
+3. Identificar el defecte principal.
+4. Determinar-ne la possible causa.
+5. Seleccionar una correcció adequada.
+6. Fer la intervenció únicament on sigui necessària.
+7. Comparar el resultat abans i després de la correcció.
+
+**Criteris d'avaluació:**
+- S'identifiquen correctament els defectes.
+- Es diferencien els problemes de preparació, distribució i modificació cromàtica.
+- La correcció respon a una causa concreta.
+- S'evita afegir pintura sense una finalitat definida.
+
+### 10.10.6. Exercici integrador. Modificació cromàtica d'una superfície mitjançant veladures
+
+**Objectiu:** planificar i executar una modificació cromàtica completa utilitzant veladures.
+
+**Materials:**
+- Una superfície de prova amb una base prèviament pintada.
+- Una o diverses pintures seleccionades.
+- Aigua o mitjans compatibles.
+- Paleta i pinzells.
+
+**Procediment:**
+1. Seleccionar una superfície prèviament pintada.
+2. Definir què es vol modificar: matís, valor, croma o integració cromàtica.
+3. Escollir la pintura adequada.
+4. Preparar la mescla i fer-ne una prova.
+5. Aplicar una primera veladura controlada.
+6. Deixar assecar i avaluar el resultat.
+7. Decidir si cal fer una altra aplicació.
+8. Corregir possibles irregularitats.
+9. Avaluar la superfície final.
+10. Registrar els productes utilitzats, la preparació, el procediment i les observacions.
+
+**Criteris d'avaluació:**
+- La modificació està planificada.
+- La pintura seleccionada és adequada per a l'objectiu.
+- L'aplicació conserva la informació inferior necessària.
+- La distribució de la pel·lícula és controlada.
+- S'avalua el resultat entre aplicacions.
+- Les correccions són proporcionades.
+- La superfície final compleix la funció prevista.
+
+## Síntesi del capítol
+
+Les veladures i els glassejats permeten modificar l'aparença cromàtica d'una superfície mitjançant capes fines de pintura transparent o semitransparent.
+
+La seva característica principal és que conserven part de la informació visual inferior mentre modifiquen el matís, el valor, el croma o la relació entre diferents zones.
+
+La qualitat d'aquestes tècniques depèn de la selecció del producte, la preparació de la mescla, el control de la quantitat de pintura, la distribució de la pel·lícula i l'avaluació del resultat un cop sec.
+
+Una veladura es pot utilitzar per enriquir un color, unificar zones, integrar transicions o fer modificacions cromàtiques localitzades. Tanmateix, no substitueix la construcció general mitjançant capes ni la creació de degradats.
+
+L'aplicació ha de respondre sempre a una finalitat concreta. El criteri fonamental consisteix a modificar la superfície de manera controlada, conservant la informació inferior necessària i evitant acumulacions o intervencions innecessàries.
+
+---
+
+# 11. RENTATS, TINTES, PIGMENTS I ACUMULACIONS
+
+## 11.1. Introducció: flux, concentració i dipòsits sobre la superfície
+
+Els rentats, les tintes i els pigments permeten modificar l'aparença d'una miniatura mitjançant procediments que aprofiten la fluïdesa de determinades mescles, la concentració cromàtica d'alguns productes i la distribució o acumulació de partícules sobre la superfície.
+
+Tot i que aquests recursos es poden utilitzar conjuntament, no responen al mateix principi d'aplicació:
+
+- **Rentats:** mescles fluides que es distribueixen sobre una superfície i que poden concentrar el color en determinades zones, especialment en cavitats i relleus.
+- **Tintes:** productes cromàtics la concentració de color i la transparència relativa dels quals permeten intensificar, modificar o ombrejar superfícies. També es poden utilitzar per preparar mescles i rentats.
+- **Pigments en pols:** partícules sòlides que es dipositen sobre la superfície i permeten representar pols, terra, brutícia, òxid i altres dipòsits.
+- **Acumulacions:** concentracions localitzades de producte o material sobre la superfície. Es poden produir pel moviment d'una mescla líquida, per l'aplicació deliberada de pigments o per la combinació de materials diferents.
+
+La finalitat del capítol és comprendre aquests comportaments, seleccionar el procediment adequat i controlar la distribució del producte per aconseguir l'efecte previst.
+
+És important no considerar aquestes tècniques com a variants d'una mateixa aplicació. Un rentat depèn principalment del comportament d'una mescla fluida; una tinta, de les característiques del producte cromàtic utilitzat; i un pigment sec, de la deposició i la permanència de partícules sobre la superfície.
+
+## 11.2. Rentats: fonaments i comportament
+
+### 11.2.1. Definició i funció
+
+Un rentat és una aplicació de pintura o producte acolorit de consistència fluida que es distribueix sobre una superfície i en modifica l'aparença mitjançant el moviment i la concentració del material.
+
+S'utilitza principalment per:
+
+- Enfosquir cavitats i zones protegides.
+- Reforçar les diferències entre relleus i depressions.
+- Introduir variacions cromàtiques.
+- Modificar globalment l'aparença d'una superfície.
+- Representar brutícia, desgast i determinats efectes d'ús.
+- Crear dipòsits localitzats quan el procediment ho requereix.
+
+Els rentats comercials solen estar formulats per facilitar una distribució fluida i produir determinats efectes sobre superfícies prèviament pintades. Tanmateix, no tots presenten el mateix comportament ni s'han d'aplicar de manera idèntica.
+
+Un rentat també es pot preparar a partir de pintura convencional, tinta o altres productes compatibles. En aquest cas, les seves propietats depenen de la formulació i de la preparació realitzada.
+
+### 11.2.2. Moviment i distribució del rentat
+
+El comportament d'un rentat depèn de diferents factors:
+
+- Fluïdesa de la mescla.
+- Tensió superficial i capacitat d'humectació.
+- Quantitat de producte aplicada.
+- Geometria de la superfície.
+- Orientació de la miniatura.
+- Rugositat i estat del suport.
+- Característiques de la capa pictòrica inferior.
+
+Quan s'aplica sobre una superfície amb relleus i cavitats, el producte es pot desplaçar i concentrar a les zones deprimides. Aquesta distribució permet accentuar les diferències entre plans i facilitar la lectura de determinats detalls.
+
+Tanmateix, la concentració a les cavitats no es produeix sempre de manera automàtica. Depèn del comportament de la mescla i de les característiques de la superfície.
+
+Una aplicació excessiva pot generar dipòsits en zones on no es desitgen, mentre que una quantitat insuficient pot no produir la modificació prevista.
+
+### 11.2.3. Rentat general o extensiu
+
+Consisteix a distribuir el producte sobre una superfície àmplia o sobre la totalitat d'una peça. Es pot utilitzar per modificar globalment el color, introduir una dominant cromàtica o produir un ombreig general.
+
+La seva aplicació exigeix controlar la quantitat dipositada i observar com es distribueix el producte durant l'assecat.
+
+Un rentat general no s'ha de confondre amb una veladura. Tot i que determinats productes de rentat es poden utilitzar per modificar globalment el color, la seva formulació i el seu comportament poden afavorir una distribució diferent de la que es busca mitjançant una pel·lícula fina i controlada.
+
+Si l'objectiu és modificar uniformement el color conservant la informació inferior, cal valorar si resulta més adequat el procediment de veladura del capítol 10.
+
+### 11.2.4. Rentat localitzat en cavitats
+
+Consisteix a aplicar el producte principalment en depressions, juntes, separacions i zones protegides. La finalitat és augmentar la diferència visual entre les zones profundes i els plans pròxims.
+
+L'aplicació localitzada permet limitar la intervenció i evitar que tota la superfície quedi modificada pel rentat.
+
+La quantitat de producte s'ha d'adaptar a la geometria. Una cavitat estreta no requereix la mateixa quantitat que una depressió àmplia.
+
+Aquest procediment s'ha de distingir del perfilat. L'objectiu del rentat és modificar les zones on es concentra el producte, no construir una línia de contorn mitjançant una aplicació específica.
+
+### 11.2.5. Rentats per zones i distribució selectiva
+
+En algunes superfícies convé aplicar el rentat únicament en determinades regions. Aquesta modalitat permet introduir diferències cromàtiques, reforçar zones protegides o representar brutícia localitzada.
+
+La distribució pot seguir la geometria de la peça o respondre a una finalitat visual concreta.
+
+És important evitar que el producte arribi a zones que han de conservar l'aparença inicial. Si es vol una aplicació selectiva, convé controlar la càrrega del pinzell i treballar sobre superfícies prou seques i estables.
+
+### 11.2.6. Acumulació durant l'assecat
+
+Durant l'assecat, una mescla fluida es pot desplaçar i concentrar en determinades zones. El resultat pot ser útil quan es vol representar dipòsits o brutícia, però també pot generar taques i marques involuntàries.
+
+Cal distingir entre:
+
+- **Acumulació prevista:** concentració deliberada del producte per aconseguir un efecte.
+- **Acumulació accidental:** dipòsit produït per un excés de producte o una distribució inadequada.
+- **Marca d'assecat:** irregularitat que apareix durant la pèrdua de fluïdesa i la formació de la pel·lícula.
+
+No tota acumulació representa un defecte. La seva valoració depèn de l'objectiu pictòric i de la coherència amb la superfície.
+
+## 11.3. Tintes: característiques i aplicacions
+
+### 11.3.1. Definició i característiques funcionals
+
+Les tintes per a pintura de miniatures són productes cromàtics generalment caracteritzats per una concentració elevada de color i una transparència que permet modificar superfícies sense cobrir-les necessàriament de manera opaca.
+
+Es poden utilitzar per:
+
+- Intensificar un color.
+- Modificar el matís.
+- Introduir ombres acolorides.
+- Enriquir una superfície.
+- Preparar mescles cromàtiques.
+- Elaborar determinats rentats.
+- Fer modificacions localitzades.
+
+El terme comercial *tinta* no descriu per si sol una formulació química única. Els productes poden presentar diferències de composició, transparència, consistència i acabat.
+
+Per això, no s'ha d'assumir que totes les tintes es comporten de la mateixa manera ni que qualsevol pintura transparent les pot substituir directament.
+
+### 11.3.2. Diferències entre tintes i rentats
+
+Tot i que es poden utilitzar conjuntament, convé distingir-ne les funcions:
+
+| Característica | Tintes | Rentats |
+|---|---|---|
+| Funció principal | Modificar o intensificar el color | Distribuir color mitjançant una mescla fluida |
+| Concentració cromàtica | Generalment elevada | Variable segons el producte |
+| Fluïdesa | Depèn de la formulació | Habitualment elevada |
+| Distribució | Es pot controlar mitjançant aplicacions diferents | Pot afavorir el desplaçament i la concentració |
+| Usos habituals | Intensificació, ombreig i modificació cromàtica | Ombreig, cavitats, variacions i efectes de brutícia |
+
+Una tinta es pot utilitzar per preparar un rentat, però no es converteix automàticament en un rentat pel fet de rebre aquesta denominació. La preparació ha d'aconseguir un comportament adequat per a l'efecte buscat.
+
+Tampoc no s'ha d'assumir que una tinta produeix sempre un acabat brillant o setinat. L'acabat depèn de les característiques del producte i de la superfície un cop seca.
+
+### 11.3.3. Aplicació directa de tintes
+
+Les tintes es poden aplicar directament quan la seva concentració i consistència són adequades per a l'efecte previst. Abans d'utilitzar-les convé comprovar-ne la intensitat sobre una mostra.
+
+Una aplicació directa pot modificar el color amb rapidesa, per la qual cosa és important controlar:
+
+- La quantitat dipositada.
+- L'extensió de la zona.
+- La intensitat cromàtica.
+- La transparència efectiva.
+- L'acabat final.
+- La conservació dels detalls.
+
+No és necessari aplicar una tinta sobre tota la miniatura. En alguns casos, una intervenció localitzada resulta més adequada.
+
+### 11.3.4. Tintes com a components de mescles
+
+Les tintes també es poden utilitzar per modificar altres pintures o preparar mescles de més fluïdesa.
+
+La seva concentració cromàtica pot ser útil per introduir variacions de color sense recórrer a grans quantitats de producte. Tanmateix, la combinació amb altres pintures o mitjans pot modificar la transparència, la consistència i l'acabat de la mescla.
+
+No s'han d'establir proporcions universals. Cada combinació s'ha de comprovar mitjançant una prova sobre una superfície de referència.
+
+### 11.3.5. Control de la intensitat
+
+Una de les principals dificultats de les tintes és que la seva concentració cromàtica pot produir modificacions més intenses de les previstes.
+
+Per evitar-ho, convé:
+
+- Comprovar el producte sobre una mostra.
+- Valorar-ne el comportament un cop sec.
+- Ajustar la quantitat aplicada.
+- Limitar la intervenció a la zona necessària.
+- Avaluar el resultat abans de repetir l'aplicació.
+
+La intensitat no s'ha de confondre amb l'opacitat. Una tinta pot produir un canvi cromàtic molt marcat i continuar permetent que part de la superfície inferior sigui visible.
+
+## 11.4. Pigments en pols: naturalesa i comportament
+
+### 11.4.1. Definició i característiques
+
+Els pigments en pols utilitzats en modelisme i pintura de miniatures són materials sòlids formats per partícules fines que es dipositen sobre una superfície per modificar-ne l'aparença.
+
+S'utilitzen principalment per representar:
+
+- Pols.
+- Terra.
+- Fang sec.
+- Brutícia.
+- Òxid.
+- Cendres.
+- Residus minerals.
+- Dipòsits relacionats amb l'ús i l'exposició ambiental.
+
+A diferència d'una pintura líquida, el pigment sec no s'aplica inicialment com una pel·lícula contínua de pintura. Es diposita sobre la superfície i la seva permanència depèn del contacte amb el suport, de les característiques de les partícules i del procediment de fixació.
+
+Els pigments comercials poden procedir de materials diferents i presentar propietats diverses. No s'ha d'assumir que tots són terres naturals o òxids minerals ni que tots tenen la mateixa mida de partícula, intensitat o capacitat d'adherència.
+
+### 11.4.2. Aplicació en sec
+
+L'aplicació en sec consisteix a dipositar el pigment directament sobre la superfície mitjançant un pinzell sec o una altra eina adequada. Permet construir dipòsits d'aspecte mat i representar pols, terra i brutícia.
+
+**Procediment:**
+1. Seleccionar el pigment adequat per a l'efecte.
+2. Carregar-ne una petita quantitat en un pinzell sec.
+3. Dipositar el material sobre la zona prevista.
+4. Distribuir-lo mitjançant moviments controlats.
+5. Retirar-ne l'excés quan sigui necessari.
+6. Avaluar el resultat abans d'afegir més producte.
+
+L'aplicació es pot fer per capes, introduint diferents tons per evitar una aparença excessivament uniforme. La quantitat s'ha de controlar especialment en superfícies petites, ja que una acumulació excessiva pot ocultar detalls.
+
+### 11.4.3. Aplicació mitjançant dispersió o mescla
+
+Els pigments també es poden barrejar amb determinats mitjans o líquids compatibles per modificar-ne la forma d'aplicació.
+
+El producte resultant pot facilitar la distribució del material o permetre construir dipòsits de característiques diferents. La mescla s'ha de preparar considerant la funció del mitjà utilitzat i la finalitat de l'efecte.
+
+No s'ha de confondre una mescla de pigment amb un rentat convencional. En un rentat, el color es troba distribuït en una mescla fluida; en una preparació amb pigments, les partícules sòlides es mantenen disperses i el seu comportament depèn del mitjà que les transporta.
+
+### 11.4.4. Fixació de pigments
+
+La fixació permet millorar la permanència del pigment sobre la superfície.
+
+Es pot fer mitjançant productes específics, com ara fixadors acrílics per a pigments, o altres mitjans compatibles el comportament dels quals s'hagi comprovat.
+
+Alguns fixadors estan formulats per assecar-se lentament i permetre manipular el pigment durant més temps. Aquestes característiques depenen del producte concret i no s'han de generalitzar a tots els aglutinants.
+
+La fixació pot modificar l'aparença del pigment. Segons el producte, la quantitat aplicada i la superfície, poden variar-ne la intensitat, la textura o l'acabat. Per això, convé fer proves abans de fixar el pigment directament sobre la miniatura.
+
+### 11.4.5. Pigment sec i pigment fixat
+
+Cal diferenciar l'aspecte del pigment abans i després de la fixació.
+
+**Pigment sec sense fixar:**
+- Pot presentar una aparença pulverulenta.
+- Permet retirar o redistribuir part del material.
+- La seva permanència depèn de l'adherència i de la manipulació.
+- Es pot desprendre durant el transport o la manipulació.
+
+**Pigment fixat:**
+- Presenta més permanència, segons el producte.
+- Pot adquirir una aparença diferent.
+- Resulta menys senzill de retirar o redistribuir.
+- El seu acabat depèn del fixador i de la quantitat aplicada.
+
+La fixació no s'ha de considerar un pas obligatori en tots els casos. La decisió depèn de la finalitat de l'efecte, de la ubicació del pigment i de la resistència necessària.
+
+### 11.4.6. Combinació de pigments
+
+La combinació de diversos pigments permet representar dipòsits més complexos i evitar superfícies visualment uniformes.
+
+Es poden utilitzar diferents tons de terra, pols, òxid o cendra per introduir variacions. La combinació ha de respondre a la naturalesa del material representat i a la relació amb l'entorn de la miniatura.
+
+No és necessari barrejar tots els pigments abans d'aplicar-los. En alguns casos resulta més adequat dipositar diferents tons per zones i treballar-ne la relació directament sobre la superfície.
+
+## 11.5. Acumulacions i dipòsits sobre la superfície
+
+### 11.5.1. Definició i tipus d'acumulació
+
+Una acumulació és una concentració localitzada de material sobre una superfície. Es pot produir mitjançant productes líquids o sòlids i presentar característiques visuals diferents.
+
+En aquest capítol es consideren principalment quatre modalitats:
+
+- **Acumulacions líquides:** dipòsits produïts pel desplaçament i la concentració de rentats o altres mescles fluides.
+- **Acumulacions de pigment sec:** concentracions de partícules pulverulentes.
+- **Dipòsits fixats:** materials sòlids la permanència dels quals s'ha reforçat mitjançant un fixador.
+- **Acumulacions mixtes:** combinacions de pigments i productes líquids o aglutinants.
+
+Cada modalitat presenta un comportament diferent i requereix un procediment específic.
+
+### 11.5.2. Relació entre geometria i acumulació
+
+La geometria de la superfície condiciona la localització dels dipòsits.
+
+Les cavitats, les unions, els sortints, les superfícies horitzontals i les zones protegides poden afavorir acumulacions diferents segons el material aplicat i les condicions de treball.
+
+L'orientació de la peça també pot influir en el desplaçament de les mescles fluides. En la representació d'efectes d'ús, la distribució ha de tenir una lògica visual: la brutícia, la pols i els residus no es distribueixen necessàriament de manera uniforme.
+
+L'acumulació ha de respondre a la forma, l'orientació i l'ús imaginat de la superfície.
+
+### 11.5.3. Acumulacions de pols i terra
+
+Els dipòsits de pols i terra es poden construir mitjançant pigments secs o productes específics de textura.
+
+En aquest capítol s'aborda la seva aplicació mitjançant pigments, mentre que la reproducció de textures i materials concrets es desenvolupa als capítols corresponents del recetari.
+
+La distribució pot ser més intensa en determinades zones i més lleugera en d'altres. Convé utilitzar variacions de to i controlar la quantitat per evitar una aparença artificialment homogènia.
+
+### 11.5.4. Acumulacions d'òxid i residus
+
+Els pigments es poden utilitzar per representar dipòsits d'òxid i residus sobre superfícies metàl·liques o altres materials.
+
+La selecció cromàtica ha de respondre al tipus d'efecte que es vol representar. Es poden combinar tons diferents per construir variacions d'intensitat i aparença, però no s'ha d'assumir que un únic color representa tots els estats d'oxidació o envelliment.
+
+La representació de materials i processos concrets es desenvolupa als capítols del recetari corresponents a metalls, corrosió i efectes d'ús.
+
+### 11.5.5. Acumulacions mixtes
+
+La combinació de rentats i pigments permet construir dipòsits amb característiques diferents.
+
+Un rentat pot modificar el color d'una zona i contribuir a la concentració de material en determinades regions. Un pigment pot introduir una textura pulverulenta o un dipòsit mat.
+
+La combinació s'ha de planificar per evitar que els productes es desplacin o s'alterin mútuament de manera no prevista. Convé comprovar-ne la compatibilitat i respectar les condicions d'assecat i aplicació indicades pels fabricants.
+
+No hi ha una seqüència universal vàlida per a qualsevol combinació. L'ordre depèn dels productes i de l'efecte que es vol aconseguir.
+
+## 11.6. Materials i condicions d'aplicació
+
+### 11.6.1. Selecció de productes
+
+La selecció s'ha de fer en funció del procediment i del resultat previst.
+
+| Producte | Criteris principals de selecció |
+|---|---|
+| Rentat comercial | Fluïdesa, distribució, intensitat, acabat i compatibilitat amb la superfície |
+| Tinta | Concentració cromàtica, transparència, consistència i acabat |
+| Pigment en pols | To, granulometria, intensitat i comportament sobre el suport |
+| Fixador de pigments | Compatibilitat, temps de treball, acabat i permanència |
+| Mitjà auxiliar | Funció, compatibilitat i modificació del comportament de la mescla |
+
+No s'ha de deduir la funció d'un producte únicament pel seu nom comercial. Les característiques generals de les pintures s'expliquen al capítol 3; aquí s'utilitzen com a criteris de selecció i aplicació.
+
+### 11.6.2. Eines
+
+Les eines s'han d'adaptar a la naturalesa del material.
+
+Per als rentats i les tintes es poden utilitzar pinzells de mides i formes diferents, seleccionats segons l'extensió i la precisió de l'aplicació.
+
+Per als pigments secs poden ser adequats els pinzells suaus o de cerres més fermes, segons si es vol dipositar, estendre o retirar material. També es poden utilitzar eines auxiliars, com ara bastonets o aplicadors, sempre que siguin compatibles amb el procediment.
+
+La selecció ha de permetre controlar la quantitat i la distribució del producte sense danyar les capes inferiors.
+
+### 11.6.3. Estat de la superfície
+
+Abans d'aplicar rentats, tintes o pigments, convé comprovar que la superfície està prou seca i estable.
+
+Les capes inferiors han d'haver assolit un estat adequat per evitar desplaçaments o alteracions involuntàries.
+
+També cal valorar l'acabat superficial. Una superfície brillant, setinada o mat pot modificar el comportament dels productes i la seva distribució. No s'ha d'assumir que un mateix rentat o pigment produirà resultats idèntics sobre qualsevol acabat.
+
+### 11.6.4. Compatibilitat i proves prèvies
+
+Els productes s'han d'utilitzar d'acord amb les indicacions dels fabricants.
+
+Abans de combinar rentats, tintes, pigments i fixadors, convé fer una prova sobre una superfície de referència. La prova permet observar:
+
+- La distribució del producte.
+- La intensitat cromàtica.
+- L'aparició d'acumulacions.
+- L'acabat un cop sec.
+- La compatibilitat amb la capa inferior.
+- La resposta davant d'una nova aplicació.
+
+No s'han d'establir temps d'assecat universals. Els intervals depenen de la formulació, el gruix, el suport i les condicions ambientals.
+
+## 11.7. Procediments d'aplicació i control
+
+### 11.7.1. Procediment general per a un rentat
+
+1. Identificar la finalitat del rentat: ombreig, modificació cromàtica o acumulació.
+2. Seleccionar un producte adequat.
+3. Comprovar l'estat de la superfície.
+4. Preparar el producte si requereix ajust o dilució.
+5. Fer una prova sobre una zona de referència.
+6. Aplicar una quantitat controlada sobre la superfície.
+7. Observar-ne el desplaçament i la distribució.
+8. Retirar o redistribuir l'excés si el producte i l'estat de l'aplicació ho permeten.
+9. Deixar assecar segons les indicacions del fabricant.
+10. Avaluar el resultat abans de repetir l'aplicació.
+
+L'aplicació s'ha d'aturar quan s'ha aconseguit l'efecte previst.
+
+### 11.7.2. Procediment per a un rentat localitzat
+
+1. Identificar les cavitats o zones que han de rebre el producte.
+2. Seleccionar un pinzell adequat.
+3. Carregar-ne una quantitat controlada.
+4. Dipositar el rentat sobre les zones previstes.
+5. Observar-ne el desplaçament.
+6. Evitar que el producte envaeixi superfícies que han de conservar l'aparença.
+7. Corregir els excessos quan encara sigui possible.
+8. Deixar assecar i avaluar el resultat.
+
+L'objectiu és reforçar determinades zones sense modificar innecessàriament tota la superfície.
+
+### 11.7.3. Procediment d'aplicació de tinta
+
+1. Definir la modificació cromàtica que es pretén aconseguir.
+2. Seleccionar una tinta adequada.
+3. Comprovar-ne la intensitat sobre una mostra.
+4. Preparar la mescla si és necessari.
+5. Aplicar una quantitat controlada.
+6. Avaluar-ne la distribució i la intensitat.
+7. Deixar assecar.
+8. Valorar si cal una nova aplicació.
+
+La tinta es pot utilitzar directament o com a component d'una mescla, però en tots dos casos cal controlar-ne la concentració cromàtica.
+
+### 11.7.4. Procediment d'aplicació de pigment sec
+
+1. Seleccionar el pigment i la zona d'aplicació.
+2. Comprovar que la superfície està preparada.
+3. Carregar una petita quantitat en un pinzell sec.
+4. Dipositar el pigment mitjançant moviments controlats.
+5. Estendre'l segons la distribució prevista.
+6. Retirar-ne l'excés quan sigui necessari.
+7. Afegir altres tons si l'efecte ho requereix.
+8. Avaluar la superfície abans de decidir si es fixa.
+
+L'aplicació s'ha de fer progressivament. És preferible construir el dipòsit mitjançant petites quantitats que cobrir la superfície amb un excés de pigment.
+
+### 11.7.5. Procediment de fixació de pigments
+
+1. Comprovar que el pigment està distribuït com es vol.
+2. Seleccionar un fixador compatible.
+3. Fer una prova prèvia per observar possibles canvis d'aparença.
+4. Aplicar el fixador seguint les indicacions del fabricant.
+5. Evitar desplaçar o arrossegar innecessàriament el pigment.
+6. Deixar assecar en les condicions indicades.
+7. Avaluar l'aspecte final i la permanència del dipòsit.
+
+L'aplicació del fixador pot alterar l'aparença del pigment. Per això, no s'ha de considerar un procediment visualment neutre.
+
+### 11.7.6. Procediment per a acumulacions mixtes
+
+1. Definir el tipus de dipòsit que es vol representar.
+2. Seleccionar productes compatibles.
+3. Determinar quina funció complirà cada material.
+4. Preparar una mostra amb la seqüència prevista.
+5. Aplicar el primer producte.
+6. Deixar-lo estabilitzar prou.
+7. Incorporar el segon material de manera controlada.
+8. Avaluar la distribució i l'aspecte conjunt.
+9. Corregir únicament les zones que ho necessitin.
+10. Deixar assecar i valorar el resultat final.
+
+No s'han de barrejar productes indiscriminadament. Cada component ha de complir una funció concreta i la seva compatibilitat s'ha de comprovar.
+
+## 11.8. Errors freqüents i procediments de correcció
+
+### 11.8.1. Excés de rentat sobre la superfície
+
+**Possibles causes:**
+- Càrrega excessiva del pinzell.
+- Aplicació massa extensa.
+- Falta de control durant el desplaçament.
+- Acumulació del producte en zones no previstes.
+
+**Conseqüències:**
+- Enfosquiment excessiu.
+- Pèrdua de diferències cromàtiques.
+- Marques i dipòsits.
+- Alteració dels detalls.
+
+**Correcció:** si el producte encara es pot redistribuir o retirar, utilitzar una eina neta i compatible per controlar-ne l'excés. Si ja és sec, valorar una correcció localitzada o una nova intervenció sobre la superfície, segons el producte utilitzat i l'estabilitat de la capa inferior.
+
+### 11.8.2. Rentat que no es concentra a les cavitats
+
+**Possibles causes:**
+- Característiques del producte.
+- Consistència inadequada.
+- Acabat superficial que modifica la distribució.
+- Geometria poc favorable.
+- Quantitat insuficient o aplicació massa controlada.
+
+**Correcció:** revisar el producte i les condicions d'aplicació. Si l'efecte buscat és enfosquir zones concretes, pot resultar més adequat aplicar-hi el producte de manera localitzada en lloc de confiar en el seu desplaçament espontani.
+
+### 11.8.3. Marques i acumulacions involuntàries
+
+**Possibles causes:**
+- Excés de producte.
+- Distribució irregular.
+- Desplaçament durant l'assecat.
+- Acumulació als extrems de l'aplicació.
+
+**Correcció:** deixar estabilitzar la superfície i avaluar l'abast de la marca. Si cal, fer una correcció localitzada o integrar el dipòsit mitjançant un procediment compatible. No s'ha d'afegir més producte automàticament per ocultar una acumulació.
+
+### 11.8.4. Tinta massa intensa
+
+**Possibles causes:**
+- Concentració cromàtica elevada.
+- Aplicació excessiva.
+- Falta de prova prèvia.
+- Repetició d'aplicacions sense avaluació intermèdia.
+
+**Correcció:** aturar les aplicacions i valorar la superfície un cop seca. Si el producte permet una modificació posterior, utilitzar el procediment compatible indicat pel fabricant. Quan la capa ja és estable, pot ser necessari recuperar parcialment l'aparença anterior mitjançant una intervenció pictòrica localitzada.
+
+### 11.8.5. Pigment distribuït irregularment
+
+**Possibles causes:**
+- Quantitat excessiva.
+- Càrrega irregular de l'eina.
+- Diferències d'adherència.
+- Aplicació sobre una superfície inadequada.
+- Manipulació excessiva.
+
+**Correcció:** abans de fixar el pigment, es pot retirar o redistribuir part del material mitjançant una eina neta. Si ja està fixat, la correcció dependrà del producte utilitzat i de la resistència de la superfície. No s'ha d'intentar retirar el dipòsit amb dissolvents o productes no comprovats.
+
+### 11.8.6. Canvi d'aparença després de la fixació
+
+**Possibles causes:**
+- Característiques del fixador.
+- Quantitat aplicada.
+- Modificació de la dispersió i l'aparença de les partícules.
+- Diferències entre l'aspecte sec i l'aspecte després de la fixació.
+
+**Correcció:** la millor prevenció consisteix a provar el fixador sobre una mostra abans d'utilitzar-lo a la miniatura. Si el canvi resulta excessiu, valorar una correcció compatible amb el producte i la superfície. No s'ha d'assumir que afegir més pigment recuperarà automàticament l'aspecte inicial.
+
+### 11.8.7. Dipòsits massa uniformes
+
+**Possibles causes:**
+- Distribució homogènia sense tenir en compte la geometria.
+- Utilització d'un únic to.
+- Falta de diferenciació entre zones exposades i protegides.
+
+**Correcció:** introduir variacions localitzades i ajustar la distribució a la forma i l'orientació de la superfície. La modificació s'ha de fer selectivament, evitant crear irregularitats artificials.
+
+### 11.8.8. Acumulació excessiva de materials
+
+**Possibles causes:**
+- Superposició de productes diferents sense planificació.
+- Repetició d'aplicacions.
+- Falta d'avaluació entre intervencions.
+- Absència d'un criteri de finalització.
+
+**Correcció:** aturar el procés i avaluar quins materials compleixen realment una funció visual. Si és possible, retirar selectivament els excessos abans de continuar. No totes les superfícies necessiten rentats, tintes i pigments simultàniament.
+
+## 11.9. Resultat esperat i criteris d'avaluació
+
+En acabar el capítol, el lector hauria de ser capaç de:
+
+- Comprendre el comportament general dels rentats.
+- Diferenciar aplicacions generals, localitzades i selectives.
+- Reconèixer la funció de les tintes i les seves diferències respecte dels rentats.
+- Seleccionar tintes segons la intensitat, la transparència i el comportament.
+- Comprendre les característiques dels pigments en pols.
+- Aplicar pigments en sec i valorar quan és necessària la fixació.
+- Diferenciar dipòsits líquids, pigments secs i acumulacions mixtes.
+- Relacionar la distribució dels productes amb la geometria de la superfície.
+- Controlar la quantitat aplicada i evitar acumulacions involuntàries.
+- Avaluar l'aparença dels productes un cop secs.
+- Identificar errors i seleccionar correccions proporcionades.
+
+La qualitat d'aquestes tècniques no depèn de la quantitat de producte utilitzada, sinó de la seva adequació a l'efecte previst.
+
+Un rentat s'ha de distribuir de manera controlada; una tinta ha de modificar l'aparença cromàtica sense produir canvis no desitjats, i un pigment s'ha de dipositar i fixar quan correspongui sense ocultar innecessàriament els detalls.
+
+El resultat ha de mantenir una relació coherent entre la superfície, la distribució del material i la finalitat visual.
+
+## 11.10. Exercicis pràctics
+
+Els exercicis tenen caràcter didàctic. Les combinacions i els resultats s'han de comprovar físicament amb els productes seleccionats.
+
+### 11.10.1. Exercici 1. Comparació entre rentat general i rentat localitzat
+
+**Objectiu:** reconèixer les diferències entre una aplicació extensiva i una aplicació concentrada en zones concretes.
+
+**Materials:**
+- Dues superfícies de prova amb relleus i cavitats.
+- Un rentat adequat.
+- Pinzells de mides diferents.
+- Material auxiliar de neteja.
+
+**Procediment:**
+1. Preparar dues superfícies equivalents.
+2. Aplicar el rentat sobre tota la primera superfície.
+3. Aplicar el mateix producte de manera localitzada sobre la segona.
+4. Deixar assecar totes dues aplicacions.
+5. Comparar-ne la distribució i el resultat.
+6. Identificar quin procediment s'adapta millor a cada finalitat.
+
+**Criteris d'avaluació:**
+- Es reconeixen les diferències entre tots dos procediments.
+- S'identifica la relació entre geometria i distribució.
+- Es controla la quantitat aplicada.
+- Es distingeix l'ombreig general del localitzat.
+
+### 11.10.2. Exercici 2. Intensitat cromàtica de les tintes
+
+**Objectiu:** comprendre com la concentració d'una tinta modifica l'aparença d'una superfície.
+
+**Materials:**
+- Una superfície de prova amb una base uniforme.
+- Una tinta.
+- Un mitjà compatible, si és necessari.
+- Paleta i pinzell.
+
+**Procediment:**
+1. Preparar diverses zones equivalents.
+2. Aplicar la tinta amb preparacions o quantitats controlades diferents.
+3. Deixar assecar les mostres.
+4. Comparar la intensitat cromàtica i la transparència.
+5. Identificar l'aplicació que respon millor a l'objectiu previst.
+
+**Criteris d'avaluació:**
+- S'identifica la influència de la preparació i de la quantitat aplicada.
+- Es diferencia intensitat cromàtica i opacitat.
+- S'avalua el resultat un cop sec.
+- S'evita establir una proporció universal.
+
+### 11.10.3. Exercici 3. Aplicació de pigments en sec
+
+**Objectiu:** aprendre a dipositar i distribuir pigments secs sobre una superfície.
+
+**Materials:**
+- Una superfície de prova.
+- Un o diversos pigments en pols.
+- Pinzells adequats.
+- Una eina auxiliar per retirar-ne l'excés.
+
+**Procediment:**
+1. Seleccionar un pigment.
+2. Carregar-ne una petita quantitat en un pinzell sec.
+3. Dipositar-lo sobre una zona delimitada.
+4. Distribuir-lo mitjançant moviments controlats.
+5. Retirar-ne l'excés.
+6. Repetir el procediment amb un altre to si es vol introduir variacions.
+7. Comparar les zones tractades i les no tractades.
+
+**Criteris d'avaluació:**
+- Es controla la quantitat de pigment.
+- Es conserva la definició de la superfície.
+- Es reconeixen les diferències entre els tons.
+- S'obté una distribució coherent amb l'objectiu.
+
+### 11.10.4. Exercici 4. Influència de la fixació sobre els pigments
+
+**Objectiu:** observar com canvia l'aparença d'un pigment després d'aplicar-hi un fixador.
+
+**Materials:**
+- Dues superfícies de prova.
+- Un pigment en pols.
+- Un fixador compatible.
+- Pinzells i eines auxiliars.
+
+**Procediment:**
+1. Aplicar el pigment sobre dues superfícies equivalents.
+2. Mantenir-ne una sense fixar.
+3. Aplicar el fixador sobre la segona seguint les instruccions del fabricant.
+4. Deixar assecar totes dues superfícies.
+5. Comparar-ne l'aparença.
+6. Observar els canvis d'intensitat, textura i permanència.
+7. Registrar les diferències.
+
+**Criteris d'avaluació:**
+- Es reconeix la diferència entre pigment sec i pigment fixat.
+- S'identifiquen els canvis d'aparença.
+- Es comprèn la funció del fixador.
+- Es valora la necessitat de fer proves prèvies.
+
+### 11.10.5. Exercici 5. Construcció d'acumulacions localitzades
+
+**Objectiu:** representar dipòsits de material mitjançant la distribució controlada de pigments.
+
+**Materials:**
+- Una superfície amb geometries diferents.
+- Dos o més pigments.
+- Pinzells adequats.
+- Fixador, si és necessari.
+
+**Procediment:**
+1. Seleccionar una superfície i definir les zones on es produirien els dipòsits.
+2. Escollir els tons adequats.
+3. Aplicar el pigment en petites quantitats.
+4. Variar-ne la intensitat segons la geometria i l'orientació.
+5. Introduir tons diferents quan l'efecte ho requereixi.
+6. Retirar-ne l'excés.
+7. Valorar si convé fixar el resultat.
+
+**Criteris d'avaluació:**
+- Els dipòsits presenten una distribució coherent.
+- S'evita la uniformitat artificial.
+- Es conserva la llegibilitat de la superfície.
+- La quantitat de pigment és adequada.
+
+### 11.10.6. Exercici integrador. Rentats, tintes i pigments sobre una mateixa superfície
+
+**Objectiu:** seleccionar i combinar procediments diferents segons la funció de cada producte.
+
+**Materials:**
+- Una miniatura o superfície de prova.
+- Un rentat.
+- Una tinta.
+- Un o diversos pigments.
+- Fixador compatible, si és necessari.
+- Pinzells i eines auxiliars.
+
+**Procediment:**
+1. Seleccionar una superfície prèviament pintada.
+2. Definir l'efecte que es vol representar.
+3. Determinar quines zones necessiten ombreig, modificació cromàtica o dipòsits.
+4. Seleccionar els productes adequats.
+5. Aplicar el rentat a les zones previstes.
+6. Deixar assecar i avaluar el resultat.
+7. Utilitzar la tinta únicament si hi ha una necessitat de modificació cromàtica addicional.
+8. Aplicar pigments a les zones on es vulguin representar dipòsits.
+9. Valorar si cal fixar el pigment.
+10. Avaluar el conjunt i corregir únicament els excessos o les irregularitats.
+
+**Criteris d'avaluació:**
+- Es diferencia la funció de cada producte.
+- Se selecciona una seqüència coherent.
+- Es controla la quantitat i la distribució.
+- Es comprova la compatibilitat entre materials.
+- S'evita utilitzar tècniques innecessàries.
+- El resultat manté una relació visual coherent amb la superfície.
+
+## Síntesi del capítol
+
+Els rentats, les tintes i els pigments permeten modificar l'aparença de les miniatures mitjançant procediments diferents i complementaris.
+
+Els rentats es caracteritzen per la seva fluïdesa i per la possibilitat de controlar-ne la distribució sobre relleus i cavitats. Les tintes aporten una concentració cromàtica elevada i permeten intensificar, modificar o ombrejar superfícies. Els pigments en pols es dipositen com a partícules sòlides i s'utilitzen per representar pols, terra, brutícia, òxid i altres dipòsits.
+
+Les acumulacions es poden produir mitjançant el desplaçament de mescles líquides, la deposició de pigments o la combinació de materials diferents.
+
+La selecció del producte, la geometria de la superfície, la quantitat aplicada, la compatibilitat i el control de l'assecat determinen el resultat.
+
+La utilització conjunta d'aquestes tècniques no és obligatòria. Cada intervenció ha de respondre a una finalitat concreta i mantenir-se dins d'un criteri d'aplicació controlada.
+
+---
+
+# 12. PERFILATS I DEFINICIÓ DE VOLUMS
+
+## 12.1. Introducció: funció del perfilat en la pintura de miniatures
+
+El perfilat és un recurs pictòric que permet reforçar la lectura dels elements d'una miniatura mitjançant línies o zones estretes de color. La seva funció principal consisteix a definir límits, separar superfícies contigües i destacar determinats contorns perquè les diferents parts de la figura es puguin reconèixer amb més claredat.
+
+En una miniatura, els elements poden estar físicament separats, però els seus límits no sempre resulten visualment evidents un cop pintats. Dues peces pròximes poden presentar colors semblants; una placa pot perdre definició en integrar-se amb una altra; o determinats detalls poden quedar visualment confosos amb la superfície que els envolta.
+
+El perfilat permet intervenir sobre aquestes situacions sense necessitat de modificar tota la superfície. Mitjançant una aplicació localitzada es pot recuperar una separació, reforçar una vora o destacar una forma concreta.
+
+La definició de volums mitjançant perfilats no s'ha de confondre amb la construcció de la il·luminació. El volum es fonamenta en la percepció de la forma tridimensional, mentre que el perfilat aporta informació gràfica addicional sobre els seus límits i divisions. Pot reforçar la lectura d'una peça, però no substitueix la representació de llums, ombres i transicions.
+
+Aquest capítol estudia els fonaments i els procediments de perfilat, la selecció dels colors, el control de les línies i la seva aplicació sobre geometries diferents. També aborda els criteris per decidir on convé perfilar i amb quina intensitat, evitant que l'excés de línies fragmenti la miniatura o li doni un aspecte artificial.
+
+## 12.2. Definició i fonaments del perfilat
+
+### 12.2.1. Què és un perfilat
+
+El perfilat consisteix a aplicar una línia o franja estreta de pintura sobre una zona determinada per delimitar un element, separar dues superfícies o reforçar visualment un contorn.
+
+La seva amplada, el color, la continuïtat i el contrast depenen de la funció que ha de complir i de l'escala de la miniatura.
+
+No tots els perfilats han de ser línies extremament fines. En determinades peces, una franja una mica més ampla pot resultar necessària perquè la separació sigui perceptible. L'important és que la intervenció continuï sent localitzada i respongui a una intenció definida.
+
+El perfilat es pot utilitzar per:
+
+- Separar dues superfícies que presenten colors pròxims.
+- Definir la divisió entre peces o components.
+- Reforçar el contorn d'un element.
+- Destacar vores seleccionades.
+- Millorar la llegibilitat de detalls i estructures.
+- Recuperar visualment una separació que ha perdut definició durant el procés de pintura.
+
+### 12.2.2. Perfilat i definició de límits
+
+La definició de límits consisteix a fer recognoscible la frontera entre dues zones visualment diferenciades.
+
+En una miniatura, aquests límits poden correspondre a separacions físiques, canvis de material, divisions d'una peça o trobades entre elements.
+
+El perfilat pot reforçar aquestes divisions mitjançant una línia situada sobre el límit o al seu costat. La posició ha de correspondre a la geometria real o a la separació visual que es vol destacar.
+
+Cal distingir entre:
+
+- **Límit físic:** separació que existeix en la geometria de la miniatura, com ara la unió entre dues plaques.
+- **Límit cromàtic:** frontera entre dues zones pintades amb colors diferents.
+- **Límit representat:** separació reforçada mitjançant una intervenció pictòrica per millorar-ne la lectura.
+
+Aquests límits poden coincidir, però no necessàriament. Una separació física pot resultar poc visible després de pintar, mentre que un límit representat es pot reforçar sense que hi hagi una ranura o una divisió profunda a la peça.
+
+### 12.2.3. Perfilat, contorn i vora
+
+Tot i que aquests termes estan relacionats, no descriuen exactament la mateixa operació.
+
+El **contorn** és el límit visual que permet reconèixer la silueta d'una forma. La **vora** és la zona de trobada entre dues superfícies o plans. El **perfilat** és el procediment pictòric que es pot utilitzar per reforçar algun d'aquests límits.
+
+Per tant, no totes les vores necessiten un perfilat i no tots els perfilats han de seguir el contorn exterior de la miniatura.
+
+La decisió depèn de la funció visual de cada línia i de la importància de l'element dins del conjunt.
+
+### 12.2.4. Perfilat i accentuació de volums
+
+El perfilat també pot contribuir a la definició visual dels volums.
+
+Una línia situada en una separació entre plans pot ajudar a interpretar l'estructura d'una peça, mentre que l'accentuació selectiva de determinades vores pot fer-ne més recognoscible la geometria.
+
+Tanmateix, el perfilat no crea per si mateix una il·luminació coherent ni representa necessàriament una ombra o un reflex. La seva funció és reforçar la informació de forma mitjançant una intervenció gràfica localitzada.
+
+La representació de llums, ombres i variacions de valor correspon als fonaments del capítol 5 i a la seva aplicació pràctica al capítol 15.
+
+## 12.3. Tipus de perfilat i recursos de definició
+
+### 12.3.1. Perfilat de separació
+
+S'utilitza per reforçar la divisió entre dos elements o superfícies contigües. La línia se situa sobre la unió o al seu costat, de manera que totes dues zones es puguin distingir amb més facilitat.
+
+Resulta especialment útil en:
+
+- Plaques d'armadura.
+- Unions entre peces d'equipament.
+- Separacions entre peces de roba i proteccions.
+- Components mecànics.
+- Elements decoratius superposats.
+- Divisions estructurals d'una miniatura.
+
+La línia no ha de ser completament uniforme en tots els punts. La seva continuïtat i amplada s'han d'adaptar a la geometria i a la visibilitat de la separació.
+
+### 12.3.2. Perfilat de contorn
+
+S'aplica per reforçar una part del contorn d'un element. Es pot utilitzar al perímetre d'una peça, al límit d'una placa o en determinades zones de la silueta.
+
+No sempre cal recórrer tot el contorn. Un perfilat continu pot produir una separació massa marcada respecte de la resta de la figura. En alguns casos, una definició parcial és suficient per millorar la lectura de la forma.
+
+La selecció dels trams que es perfilen ha de respondre a la seva importància visual i a la relació amb les superfícies pròximes.
+
+### 12.3.3. Perfilat de vores
+
+El perfilat de vores consisteix a aplicar una línia estreta sobre una vora seleccionada per fer-la més visible.
+
+Es pot utilitzar per destacar la geometria d'una peça, separar plans pròxims o reforçar la lectura d'una aresta.
+
+Cal distingir-lo de la il·luminació de vores. Tot i que tots dos procediments poden produir línies estretes, no tenen necessàriament la mateixa finalitat:
+
+- El perfilat de vores reforça la definició d'una aresta o separació.
+- La il·luminació de vores representa una resposta lluminosa associada a l'orientació de la superfície i a la planificació de la il·luminació.
+
+Una vora perfilada no s'ha d'interpretar automàticament com una vora il·luminada.
+
+### 12.3.4. Línies de definició interna
+
+Algunes superfícies presenten divisions o detalls que no corresponen al contorn exterior.
+
+En aquests casos es poden utilitzar línies estretes per separar components, marcar juntes, reforçar ranures o definir elements estructurals.
+
+La intervenció s'ha de limitar a les línies que aportin informació útil. Un excés de divisions pot generar una aparença esquemàtica i reduir la lectura general de la miniatura.
+
+### 12.3.5. Accentuació selectiva de contorns
+
+No totes les línies necessiten presentar la mateixa intensitat ni la mateixa continuïtat.
+
+L'accentuació selectiva permet destacar únicament els trams que contribueixen de manera significativa a la lectura d'una peça.
+
+Pot consistir a:
+
+- Reforçar les zones on dues superfícies es troben.
+- Destacar determinats canvis de pla.
+- Augmentar la definició als punts de més interès visual.
+- Reduir o interrompre línies que resultin excessivament dominants.
+
+Aquest criteri permet mantenir una jerarquia visual sense convertir tots els elements en estructures delimitades per línies de la mateixa intensitat.
+
+## 12.4. Selecció de colors i contrast del perfilat
+
+### 12.4.1. Relació cromàtica amb les superfícies
+
+El color del perfilat s'ha de seleccionar tenint en compte les superfícies que delimita.
+
+Una línia massa pròxima al color de les zones contigües pot resultar poc perceptible. Una línia excessivament contrastada pot dominar la composició i produir una separació artificial.
+
+La selecció ha de buscar un contrast suficient per complir la seva funció, sense superar innecessàriament la intensitat visual de l'element.
+
+El contrast es pot establir mitjançant diferències de:
+
+- Valor.
+- Matís.
+- Croma.
+- Temperatura cromàtica.
+
+No és imprescindible modificar totes aquestes dimensions alhora. En molts casos, una diferència moderada de valor és suficient per reforçar una separació.
+
+### 12.4.2. Perfilats foscos
+
+Els colors foscos es poden utilitzar per reforçar separacions entre peces o destacar divisions internes.
+
+La seva aplicació és especialment útil quan es vol augmentar la llegibilitat d'una estructura, encara que no sempre cal recórrer al negre.
+
+Un color fosc relacionat amb la superfície pot produir una separació menys abrupta i mantenir una integració cromàtica més adequada.
+
+Per exemple, una superfície blava es pot separar mitjançant un blau més fosc, mentre que una superfície vermella pot utilitzar un vermell profund o un to fosc de tendència vermellosa.
+
+La tria ha de dependre del color de partida i de la intensitat de separació que es busca.
+
+### 12.4.3. Perfilats clars
+
+Els perfilats clars es poden utilitzar per destacar determinades vores o separar superfícies quan una línia fosca no resulta adequada.
+
+La seva funció s'ha de distingir de la il·luminació de vores. Una línia clara no representa necessàriament una incidència de llum: es pot utilitzar simplement per millorar la definició d'un límit.
+
+Cal controlar-ne la intensitat, especialment quan s'aplica sobre superfícies fosques. Un contrast excessiu pot convertir una separació discreta en un element visual dominant.
+
+### 12.4.4. Perfilats cromàtics
+
+El perfilat no s'ha de limitar a línies negres, grises o blanques.
+
+També es poden utilitzar colors relacionats amb les superfícies contigües per aconseguir separacions cromàtiques integrades.
+
+Aquesta opció permet mantenir una relació més coherent entre els elements i evitar que totes les divisions de la miniatura presentin el mateix aspecte.
+
+La tria ha de respondre a la funció del perfilat i a l'organització cromàtica general.
+
+### 12.4.5. Jerarquia de contrast
+
+La intensitat del perfilat s'ha d'adaptar a la importància de l'element.
+
+Una separació estructural principal pot necessitar més definició que una junta secundària. De la mateixa manera, un detall petit pot requerir una intervenció discreta per no adquirir més protagonisme que la peça a la qual pertany.
+
+Convé establir una jerarquia entre:
+
+- Separacions principals.
+- Contorns secundaris.
+- Divisions internes.
+- Detalls petits.
+
+No cal que tots aquests elements presentin el mateix contrast ni la mateixa amplada de línia.
+
+## 12.5. Materials, eines i condicions d'aplicació
+
+### 12.5.1. Selecció de la pintura
+
+La pintura ha de permetre una aplicació controlada i conservar una línia recognoscible sobre la superfície.
+
+La selecció depèn del seu comportament funcional, de la geometria de la peça i de l'amplada que es vol aconseguir.
+
+Per fer perfilats convé valorar:
+
+- La consistència de la pintura.
+- La seva fluïdesa durant el desplaçament del pinzell.
+- L'opacitat o transparència.
+- La intensitat cromàtica.
+- La facilitat per mantenir una línia contínua.
+- La capacitat de conservar el límit de l'aplicació.
+
+No hi ha una formulació única adequada per a tots els perfilats. Una pintura massa fluida pot estendre's fora de la zona prevista, mentre que una consistència excessiva pot dificultar el desplaçament del pinzell i produir una línia irregular.
+
+La preparació s'ha d'ajustar al producte i al procediment concret.
+
+### 12.5.2. Selecció del pinzell
+
+El pinzell ha de permetre controlar el recorregut i la quantitat de pintura dipositada.
+
+La tria depèn de la longitud de la línia, l'accessibilitat de la zona i la geometria de la peça.
+
+Un pinzell de punta fina pot facilitar el treball sobre detalls petits, però la mida nominal no garanteix per si sola un control millor. També influeixen la forma de la punta, l'elasticitat, la conservació de la seva geometria i la quantitat de pintura que pot transportar.
+
+Per a línies una mica més llargues pot resultar útil un pinzell que mantingui una càrrega suficient sense perdre precisió.
+
+### 12.5.3. Posició i estabilitat
+
+El control del perfilat depèn de l'estabilitat de la mà, del suport i de la posició de la miniatura.
+
+Convé adoptar una postura que permeti fer el recorregut sense forçar el canell ni mantenir el braç en una posició inestable.
+
+Quan sigui possible, és útil recolzar les mans entre si o utilitzar un punt de suport estable. La miniatura s'ha d'orientar perquè la línia es pugui fer des d'una posició còmoda.
+
+No cal intentar resoldre tots els contorns des d'una única orientació. Girar la peça pot facilitar l'accés i millorar el control del recorregut.
+
+### 12.5.4. Càrrega i quantitat de pintura
+
+La càrrega del pinzell ha de permetre fer el recorregut sense interrupcions ni dipòsits excessius.
+
+Una càrrega insuficient pot produir una línia discontínua o irregular. Una càrrega excessiva pot provocar acumulacions, eixamplaments o invasions de les superfícies contigües.
+
+Abans d'aplicar el perfilat convé comprovar el comportament de la pintura en una superfície de prova o en una zona poc visible quan sigui apropiat.
+
+La quantitat adequada depèn del pinzell, la pintura, la longitud de la línia i les condicions d'aplicació.
+
+## 12.6. Procediments d'aplicació
+
+### 12.6.1. Preparació del perfilat
+
+Abans de començar, convé identificar la separació o el contorn que es vol reforçar.
+
+El procediment general consisteix a:
+
+1. Localitzar el límit que necessita definició.
+2. Determinar si es tracta d'una separació, un contorn exterior, una vora o una línia interna.
+3. Seleccionar el color segons el contrast necessari.
+4. Escollir un pinzell adequat a la geometria i l'extensió del recorregut.
+5. Preparar una quantitat de pintura que permeti controlar l'aplicació.
+6. Comprovar l'orientació de la miniatura i l'estabilitat de la mà.
+7. Fer una prova d'aplicació quan sigui necessari.
+
+Aquesta preparació evita perfilar indiscriminadament i ajuda a donar una finalitat concreta a cada línia.
+
+### 12.6.2. Aplicació de línies de separació
+
+Per reforçar una separació entre dues superfícies, la línia ha de seguir el límit previst i mantenir-se dins de la zona seleccionada.
+
+**Procediment:**
+1. Identificar el recorregut de la unió.
+2. Orientar la peça per facilitar el desplaçament del pinzell.
+3. Situar la punta a l'inici del recorregut.
+4. Desplaçar el pinzell de manera controlada, mantenint una pressió moderada i estable.
+5. Interrompre l'aplicació quan canviï la geometria o la posició deixi de permetre un control adequat.
+6. Reorientar la peça i continuar des d'un punt convenient.
+7. Comprovar la continuïtat i l'amplada de la línia un cop acabada l'aplicació.
+
+No cal completar una separació llarga amb un únic moviment. Treballar per trams pot facilitar el control, sempre que s'evitin unions massa visibles o acumulacions als punts de trobada.
+
+### 12.6.3. Aplicació de perfils de contorn
+
+Quan es vol reforçar el contorn d'una peça, convé seleccionar prèviament els trams que necessiten més definició.
+
+El perfilat pot ser continu o parcial. En un perfilat parcial es prioritzen els sectors que contribueixen més a la lectura de la forma. Els trams restants poden mantenir-se sense línia si la seva delimitació ja resulta prou clara.
+
+La continuïtat s'ha d'adaptar a la geometria. En superfícies corbes o irregulars pot ser necessari dividir el recorregut en segments petits.
+
+L'objectiu no és produir un contorn uniforme al voltant de tots els elements, sinó aconseguir una definició visual equilibrada.
+
+### 12.6.4. Aplicació sobre vores
+
+Per reforçar una vora, el pinzell s'ha de desplaçar seguint l'aresta o el límit seleccionat.
+
+La posició de la punta i la inclinació del pinzell condicionen l'amplada de la línia.
+
+En vores estretes, convé fer una aplicació localitzada que no envaeixi les superfícies adjacents. En arestes més àmplies pot ser necessari adaptar el recorregut per mantenir una amplada visual coherent.
+
+Cal evitar convertir automàticament totes les vores en línies d'alt contrast. La selecció ha de respondre a l'estructura de la miniatura i no a la simple disponibilitat d'una tècnica.
+
+### 12.6.5. Definició de línies internes i juntes
+
+Les línies internes han de seguir l'organització real de la peça.
+
+Es poden utilitzar per reforçar ranures, unions, divisions entre components o elements estructurals.
+
+Abans d'aplicar-les convé comprovar que la línia aporta informació útil i no duplica una separació que ja resulta evident.
+
+En detalls petits, una línia massa ampla pot ocultar la geometria original. Per això, l'amplada s'ha d'adaptar a l'escala i a la mida de l'element.
+
+### 12.6.6. Construcció progressiva i control de la línia
+
+Quan una separació necessita més intensitat, pot ser preferible construir-la progressivament en lloc d'intentar aconseguir tot el contrast amb una única aplicació.
+
+La intervenció s'ha de fer únicament on sigui necessària. Després de cada aplicació convé comprovar:
+
+- Si la línia manté el recorregut.
+- Si l'amplada és adequada.
+- Si el contrast és suficient.
+- Si s'han conservat les superfícies contigües.
+- Si la separació destaca sense dominar el conjunt.
+
+No s'ha d'afegir automàticament una segona aplicació. Si el perfilat ja compleix la seva funció, continuar pot augmentar-ne innecessàriament la intensitat.
+
+## 12.7. Control tècnic i avaluació del perfilat
+
+### 12.7.1. Continuïtat i regularitat
+
+La línia ha de conservar una continuïtat visual adequada a la seva funció.
+
+Això no significa que tots els perfilats hagin de ser completament continus. Una interrupció pot ser intencionada quan no cal destacar tot el contorn.
+
+L'important és distingir entre una interrupció deliberada i una discontinuïtat involuntària produïda per una aplicació irregular.
+
+### 12.7.2. Amplada i precisió
+
+L'amplada ha de ser coherent amb l'escala, la geometria i la importància de l'element.
+
+Una línia massa ampla pot reduir visualment les superfícies que separa. Una línia massa fina pot resultar imperceptible des d'una distància normal d'observació.
+
+La precisió no consisteix únicament a aconseguir línies estretes. També implica situar-les correctament i mantenir una relació adequada amb els elements pròxims.
+
+### 12.7.3. Contrast i integració
+
+El perfilat ha de ser visible sense trencar innecessàriament la integració cromàtica.
+
+Per avaluar-lo convé observar la miniatura des d'una distància habitual i comprovar si les separacions es reconeixen amb claredat.
+
+Una línia que només funciona quan s'observa molt de prop pot no complir la seva funció visual principal. En canvi, un perfilat excessivament contrastat pot dominar la peça quan s'observa en conjunt.
+
+### 12.7.4. Jerarquia visual
+
+Les línies principals han de destacar més que les secundàries quan la seva funció estructural ho justifiqui.
+
+Si totes les separacions presenten la mateixa intensitat, la miniatura pot adquirir un aspecte excessivament esquemàtic.
+
+L'avaluació ha de comprovar que el perfilat millora la lectura de l'estructura sense fragmentar la superfície en un conjunt de línies independents.
+
+### 12.7.5. Criteri de finalització
+
+El perfilat es pot considerar acabat quan:
+
+- Els límits seleccionats es reconeixen amb claredat.
+- Les línies mantenen una amplada i una continuïtat adequades.
+- El contrast és suficient, però no dominant.
+- Les superfícies contigües conserven la seva identitat.
+- La definició millora la lectura general de la miniatura.
+- No queden acumulacions o invasions involuntàries que n'alterin el resultat.
+
+La finalitat no és perfilar totes les línies possibles, sinó intervenir únicament on la definició addicional aporta una millora recognoscible.
+
+## 12.8. Errors freqüents i procediments de correcció
+
+### 12.8.1. Línies massa amples
+
+Una línia excessivament ampla pot reduir visualment les superfícies que separa i fer que la miniatura sembli dibuixada mitjançant contorns gruixuts.
+
+Convé revisar la càrrega del pinzell, la pressió i la posició d'aplicació. Si el perfilat ja és sec, es pot recuperar part de la superfície contigua mitjançant una aplicació controlada del seu color corresponent.
+
+### 12.8.2. Línies discontínues o irregulars
+
+Les interrupcions poden deure's a una càrrega insuficient, una punta deteriorada, una posició inestable o una dificultat per mantenir el recorregut.
+
+Convé identificar-ne la causa abans de repetir l'aplicació. Afegir pintura sense corregir el problema pot produir una línia més ampla i encara irregular.
+
+### 12.8.3. Acumulacions als extrems
+
+Els dipòsits de pintura poden aparèixer quan el pinzell s'atura, canvia de direcció o roman massa temps en un mateix punt.
+
+Per evitar-ho, convé controlar l'inici i el final del recorregut, així com la quantitat de pintura transportada.
+
+Si l'acumulació ja s'ha produït, la correcció dependrà de l'estat de la pintura i de la superfície. No s'ha de manipular una aplicació que encara no estigui en condicions adequades per ser intervinguda.
+
+### 12.8.4. Invasió de superfícies contigües
+
+Una línia pot sortir del recorregut i modificar accidentalment el color d'una superfície pròxima.
+
+La correcció s'ha de limitar a recuperar la zona afectada, utilitzant el color corresponent i evitant estendre la intervenció a elements que ja estiguin correctament resolts.
+
+### 12.8.5. Contrast excessiu
+
+Un perfilat massa fosc, clar o saturat pot dominar la superfície i fragmentar visualment la miniatura.
+
+La solució no consisteix sempre a eliminar tota la línia. Pot ser suficient reduir-ne l'amplada, interrompre alguns trams o recuperar parcialment el color de la superfície contigua.
+
+La correcció ha de mantenir la funció de separació sense conservar una intensitat innecessària.
+
+### 12.8.6. Perfilat indiscriminat
+
+Perfilar totes les vores i divisions pot generar una aparença artificial i reduir la jerarquia visual.
+
+Convé revisar quines línies aporten informació estructural i quines es poden eliminar o atenuar.
+
+El perfilat selectiu acostuma a resultar més eficaç que l'aplicació sistemàtica de contorns sobre totes les peces.
+
+### 12.8.7. Confusió entre perfilat i il·luminació de vores
+
+Una línia clara aplicada sobre una aresta es pot interpretar com a il·luminació, encara que s'hagi utilitzat únicament per delimitar-la.
+
+Per evitar aquesta confusió, cal definir la finalitat de cada intervenció abans d'aplicar-la.
+
+Quan es vol representar una incidència lluminosa, s'han de seguir els criteris d'il·luminació aplicada del capítol 15. Quan es vol reforçar una separació o un límit, es tracta d'un perfilat.
+
+### 12.8.8. Excés de correccions
+
+La repetició de petites correccions pot acabar eixamplant les línies, deteriorant els límits o modificant les superfícies pròximes.
+
+Abans d'intervenir de nou convé avaluar el resultat des d'una distància normal d'observació i determinar si el defecte afecta realment la lectura de la miniatura.
+
+No cal corregir cada irregularitat microscòpica si no té conseqüències visuals rellevants.
+
+## 12.9. Resultat esperat i criteris d'avaluació
+
+El resultat d'un perfilat adequat ha de millorar la llegibilitat de les peces i les divisions estructurals de la miniatura sense alterar-ne innecessàriament l'organització cromàtica.
+
+| Criteri | Resultat esperat |
+|---|---|
+| Definició de límits | Les separacions seleccionades es reconeixen amb claredat. |
+| Amplada | Les línies mantenen una dimensió proporcionada a l'escala. |
+| Continuïtat | Els recorreguts són coherents amb la funció del perfilat. |
+| Contrast | Hi ha prou diferència visual sense generar una separació excessiva. |
+| Precisió | L'aplicació es manté a la zona prevista. |
+| Jerarquia | Les línies principals destaquen més que les secundàries quan correspon. |
+| Integració | El perfilat millora la lectura sense fragmentar innecessàriament la miniatura. |
+
+El criteri de qualitat no depèn de la quantitat de línies aplicades ni de la seva uniformitat absoluta. Depèn que cada intervenció compleixi una funció recognoscible i contribueixi a la lectura del conjunt.
+
+## 12.10. Exercicis pràctics
+
+### 12.10.1. Perfilat de separació entre dues superfícies
+
+Seleccionar una peça formada per dues zones cromàtiques contigües. Aplicar un perfilat sobre la separació i avaluar:
+
+- La posició de la línia.
+- La seva continuïtat.
+- L'amplada.
+- El contrast respecte de totes dues superfícies.
+
+L'objectiu és reforçar el límit sense envair innecessàriament els colors contigus.
+
+### 12.10.2. Comparació de perfilats foscos i cromàtics
+
+Preparar diverses separacions equivalents i comparar diferents opcions de color. Utilitzar un perfilat fosc neutre i un altre de relacionat cromàticament amb les superfícies.
+
+Avaluar quin permet distingir millor els elements i quin manté una integració més adequada.
+
+L'exercici no busca establir una solució universal, sinó reconèixer com canvia la lectura segons la relació cromàtica escollida.
+
+### 12.10.3. Perfilat parcial de contorns
+
+Seleccionar una peça amb un contorn recognoscible. Fer una primera proposta de perfilat continu i una segona intervenció limitada a determinats trams.
+
+Comparar tots dos resultats i valorar quin ofereix una definició més equilibrada.
+
+L'objectiu és comprendre que no tots els contorns necessiten la mateixa intensitat ni continuïtat.
+
+### 12.10.4. Definició de vores i línies internes
+
+Seleccionar una peça que presenti arestes, juntes o divisions internes. Reforçar únicament els elements que contribueixin a millorar-ne la lectura.
+
+Avaluar si les línies mantenen la geometria original i si les divisions resulten proporcionades a la mida de la peça.
+
+### 12.10.5. Exercici integrador: definició selectiva d'una miniatura
+
+Seleccionar una miniatura o una part que contingui diverses peces i superfícies diferenciades.
+
+Identificar les separacions principals, els contorns secundaris i els detalls interns que necessiten definició.
+
+Planificar els perfilats i aplicar-los progressivament, seleccionant el color, l'amplada i la continuïtat de cada línia.
+
+En acabar, avaluar el resultat des d'una distància normal d'observació.
+
+L'exercici ha de permetre comprovar si el perfilat millora la lectura estructural de la miniatura sense generar un excés de contorns ni substituir la representació de llums i ombres.
+
+## Síntesi del capítol
+
+El perfilat és un recurs de definició visual que permet separar superfícies, reforçar contorns i millorar la lectura dels elements d'una miniatura mitjançant línies o zones estretes de color.
+
+La seva aplicació requereix seleccionar adequadament la posició, el color, l'amplada, la continuïtat i el contrast de cada intervenció.
+
+No totes les vores necessiten perfilar-se i no totes les línies han de presentar la mateixa intensitat. La selecció ha de respondre a la importància estructural de cada element i a la jerarquia visual del conjunt.
+
+La definició de volums mitjançant perfilats complementa la representació pictòrica, però no substitueix la construcció de llums, ombres i transicions ni la planificació de la il·luminació.
+
+El criteri fonamental consisteix a utilitzar el perfilat de manera selectiva: intervenir on aporta informació visual i aturar-se quan la separació i l'estructura ja es reconeixen amb claredat.

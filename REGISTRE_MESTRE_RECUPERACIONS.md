@@ -1,6 +1,6 @@
 # REGISTRE MESTRE DE RECUPERACIONS EDITORIALS
 **Manual tècnic de pintura de miniatures**  
-**Versió:** 1.50 · **Data:** 05/11/2026  
+**Versió:** 1.51 · **Data:** 05/11/2026  
 **Branca:** intervencion-editorial-2026-11
 
 ## 1. Funció i abast
@@ -19,7 +19,7 @@ Aquests 39 Markdown són la representació operativa de treball sobre els contin
 |---|---|---|
 | 0 | Preservar les versions, les fonts, la traçabilitat i la branca de treball; vincular cada intervenció amb capítol/apartat/font i mantenir main intacta. | **Completada** |
 | 1 | Auditoria comparativa dels 39 capítols Markdown: contingut conservat, simplificacions, pèrdues, redundàncies i millores de la segona síntesi. | **Completada (39/39)** |
-| 2 | Consolidar el Registre Mestre amb categories RT/RD/AE/MG/SC, prioritats, decisions, fonts i estat real dels canvis. | **En curs**; versió vigent 1.49. S'ha actualitzat la matriu amb els cotejos documentals completats de C4–C10, C12–C13, C20–C21, C25–C29 i C38, així com les revisions limitades de C11 i C14–C19 contra el material disponible, amb els límits de font documentats. Resta revisar la totalitat de les files i les anotacions històriques per assegurar que tots els estats per capítol coincideixen amb les conclusions documentades. |
+| 2 | Consolidar el Registre Mestre amb categories RT/RD/AE/MG/SC, prioritats, decisions, fonts i estat real dels canvis. | **En curs**; versió vigent 1.51. S'ha actualitzat la matriu amb els cotejos documentals completats de C4–C10, C12–C13, C20–C22, C25–C29 i C38, així com les revisions limitades de C11 i C14–C19 contra el material disponible, amb els límits de font documentats. Resta revisar la totalitat de les files i les anotacions històriques per assegurar que tots els estats per capítol coincideixen amb les conclusions documentades. |
 | 3 | Aplicar les recuperacions tècniques, didàctiques i els ajustos editorials justificats a la tercera versió dels 39 Markdown. | **Completada per a les accions identificades a la matriu**; recuperacions aplicades als capítols 3–19, 25–32, 36 i 38; ajustos AE als capítols 33–34; els capítols SC es mantenen protegits, excepte ajustos editorials documentats. |
 | 4 | Validar els 39 capítols i estabilitzar-ne el contingut, les receptes, els exercicis, la numeració i les referències. | **En curs**; coteig documental de contingut completat per a C4–C6, C7–C10, C12–C13, C20–C22, C25–C29 i C38, amb els límits de font registrats quan escau; revisions limitades de C11 i C14–C19 contra material consolidat disponible, sense originals complets recuperats quan així consta a la font; revisió de contingut disponible completada per a C30–C32 i C36. La revisió semàntica de remissions C1–C39 està completada i documentada; s'ha precisat una remissió a C18. La comprovació estructural global dels 39 Markdown està completada: un únic H1 per fitxer, sense encapçalaments buits o duplicats, numeracions repetides o fora de capítol, ni marcadors de contingut pendent. Continuen pendents els cotejos de fidelitat documental i contingut dels capítols encara no revisats. |
 | 5 | Revisar i reconstruir els annexos A–E després d'estabilitzar els 39 capítols. | **Pendent i diferida** fins al tancament de F4. |
@@ -437,3 +437,6 @@ En C14, revisat també contra el material consolidat disponible i no contra un o
 S'ha completat el coteig de C22 amb «manual con estructura completa.docx». S'han contrastat les diferències entre cuir de gra natural i corregit, ante, nobuk, cuir rígid, superfícies encerades o polides, pells amb pèl, pell sense adobar, cuir curtit i pergamí; la paleta de dotze pintures; les disset receptes A–Q i els seus ingredients; els procediments de construcció de cuirs clars, marrons, rogencs, foscos, ante, nobuk i superfícies tractades; els plecs, vores, gruix, costures, perforacions i unions; els deu errors amb diagnòstic i correcció; els criteris d'avaluació; els sis exercicis amb objectius, materials, procediments i avaluació; les set referències i les deu propostes de figures. S'han recuperat els desenvolupaments d'errors, criteris, exercicis, referències i límits editorials que s'havien condensat o omès. No s'han modificat les receptes ni s'han afegit proporcions. La compilació C1–C39 s'ha sincronitzat i conté exactament el C22 actual. Les receptes continuen sent propostes no assajades.
 
 | 1.50 | 05/11/2026 | F4: coteig documental complet de C22; recuperacions didàctiques i bibliogràfiques aplicades; disset receptes, sis exercicis i deu figures preservats. Compilació sincronitzada. |
+
+
+| 1.51 | 05/11/2026 | F2: conciliat el resum de la versió vigent amb el registre 1.51 i incorporat C22 al resum de cotejos documentals completats. |

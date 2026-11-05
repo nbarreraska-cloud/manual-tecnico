@@ -767,4 +767,16 @@ No s'han identificat altres omissions substancials que justifiquin reobrir o amp
 
 Resta pendent la revisió transversal de terminologia, referències creuades i coherència global. En particular, s'ha de revisar en la passada terminològica la forma «arenisca» emprada a C26 i decidir-ne la normalització catalana sense fer ara una correcció aïllada. També continua pendent la normalització transversal de les formes barnís/barnissos/barnissat a favor de la forma catalana de referència vernís i els seus derivats.
 
-La prioritat immediata passa a la revisió transversal de C38, la conciliació dels ajustos AE de C33–C34 i la passada conjunta de terminologia i referències. Els capítols SC continuen protegits.
+### Actualització F4 — revisió transversal de C38 i terminologia (05/11/2026)
+
+S'ha reprès la revisió de C38 a partir del Markdown de la branca i del document font «manual con estructura completa.docx».
+
+- Confirmada la correspondència dels apartats 38.1–38.8 i 38.10.1–38.10.6 amb l'estructura de la font disponible. Els nou errors freqüents es mantenen compactats en una taula i els criteris d'avaluació final es conserven com a subapartat 38.9.10; aquesta numeració és correcta perquè l'original també conté nou errors i un desè apartat d'avaluació.
+- Els sis exercicis continuen desenvolupats amb objectius, procediments i criteris d'avaluació identificats com a propostes editorials. No s'han convertit en resultats experimentals.
+- Es mantenen els tres detalls tècnics recuperats prèviament: comprovacions de selecció dels vernissos acrílics, distinció dels poliuretans de base aquosa aplicables a pinzell o aerògraf quan ho indiqui el fabricant, i condicions/riscos específics dels aerosols.
+- Revisades les delimitacions immediates: C37 conserva la selecció i el control de l'aparença superficial; C38, la protecció, l'envernissament i la conservació; C39, el diagnòstic i la correcció dels defectes. La referència C38→C39 es manté coherent.
+- S'ha detectat una inconsistència terminològica en C3 i C37–C39. Després de comprovar les formes normatives, s'han normalitzat els quatre fitxers: «vernís/vernissos», «envernissar», «envernissat/envernissada» i «envernissament». A C3, «vernissatge» s'ha substituït per «envernissament». La passada pels 39 Markdown no ha identificat altres aparicions de les variants corregides.
+- S'ha corregit a C38 l'error gramatical «el brillantor» per «la brillantor».
+- No s'han modificat receptes, ingredients, proporcions ni procediments tècnics. No s'han alterat els capítols SC més enllà de les remissions o ajustos terminològics necessaris.
+
+La conciliació AE de C33–C34 i la revisió global de coherència i referències continuen pendents. Els capítols SC continuen protegits.

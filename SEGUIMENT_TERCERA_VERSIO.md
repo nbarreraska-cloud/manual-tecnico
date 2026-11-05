@@ -1209,3 +1209,8 @@ La següent tasca material és regenerar l'Annex A, no produir ni seleccionar im
 - S'ha creat `annexos/registre_regeneracio_A-E.md` per registrar fonts, decisions i controls de cada annex.
 - La regeneració d'A no tanca F5: caldrà fer-ne el control transversal amb els capítols i regenerar B, C, D i E.
 - **Següent tasca:** iniciar la reconstrucció de l'Annex B, després de mantenir A com a versió de treball subjecta a F6/F8.
+
+
+### Precontrol de l'Annex B anterior — 05/11/2026
+
+Abans de reconstruir B, s'ha fet una comprovació preliminar dels identificadors numèrics que apareixen a les remissions de l'índex existent: els 139 identificadors únics detectats tenen correspondència amb encapçalaments de la compilació vigent C1–C39. Això només confirma l'existència dels punts de referència detectats; no valida la selecció, l'agrupació, la descripció ni la cobertura de les entrades. L'Annex B continua pendent de regeneració des dels capítols.

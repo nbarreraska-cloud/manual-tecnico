@@ -765,7 +765,7 @@ S'ha completat una passada de comparació amb el document font disponible «manu
 
 No s'han identificat altres omissions substancials que justifiquin reobrir o ampliar aquests sis capítols i C36. L'única recuperació aplicada en aquesta passada és la restitució de les tres referències complementàries de la paleta de C25. No s'han modificat les receptes ni s'han inventat proporcions, quantitats, propietats de pintura o resultats de proves.
 
-Resta pendent la revisió transversal de terminologia, referències creuades i coherència global. En particular, s'ha de revisar en la passada terminològica la forma «arenisca» emprada a C26 i decidir-ne la normalització catalana sense fer ara una correcció aïllada. També continua pendent la normalització transversal de les formes barnís/barnissos/barnissat a favor de la forma catalana de referència vernís i els seus derivats.
+Resta pendent la revisió global de referències creuades i coherència. La forma «arenisca» emprada a C26 continua reservada per a la conciliació terminològica conjunta. La normalització de vernís/envernissament a C3 i C37–C39 ja s'ha aplicat i s'ha registrat a l'actualització F4 següent.
 
 ### Actualització F4 — revisió transversal de C38 i terminologia (05/11/2026)
 

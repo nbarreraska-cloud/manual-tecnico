@@ -135,3 +135,12 @@ S'ha ampliat `annexos/llista_preliminar_produccio_grafica_F10.md` amb 58 especif
 La proposta 20.2 queda plantejada com a panell de 20.1, no com a figura independent. També s'han marcat decisions de composició pendents a C15, C17 i C24. No s'han generat imatges, modificat capítols ni alterat la branca `main`.
 
 **Estat F10:** el coteig detallat de P1 està complet per a totes les tandes; la primera especificació de producció cobreix C1–C7/C11 i C15–C24. La següent tasca és completar les especificacions C30–C39, i després fer una passada única de normalització de les descripcions originals, llegendes, fusions i numeració per construir la llista definitiva de producció. F11 continua bloquejada fins a tancar aquesta llista.
+
+
+## 12. Especificacions preliminars C30–C39 — 05/11/2026
+
+S'ha ampliat la llista preliminar de producció amb les especificacions de les P1 de C30–C39, a partir del coteig detallat de l'apartat 14 del registre F10. S'hi han incorporat les ubicacions corregides i les cauteles específiques per a foc, fluids, energia, ceràmica, vidre, integració cromàtica, desgast, acabats, protecció i diagnòstic.
+
+S'han marcat les fusions 35.9 + 35.10 (P3) i 39.5 + 39.6 (P2). Les receptes no assajades continuen definides com a seqüències didàctiques, no com a resultats experimentals.
+
+**Estat:** la llista preliminar de producció cobreix ara C1–C7/C11, C15–C24 i C30–C39. La següent etapa és una consolidació transversal: normalitzar les descripcions originals, traduir al català les propostes seleccionades, resoldre fusions/duplicacions i numerar les figures finals. F10 no queda tancada encara; F11 no s'inicia.

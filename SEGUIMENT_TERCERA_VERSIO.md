@@ -147,6 +147,15 @@ Cal recuperar procediments, explicacions tècniques, fonaments, advertiments, de
 - Mantingudes les propostes de figures i el registre editorial.
 - **Límit documental:** el registre del document de referència descriu el capítol 16 com una versió consolidada nova perquè no s'ha recuperat un text original complet. La revisió es basa en aquesta consolidació disponible, no en un original independent.
 
+### Capítol 17 — Il·luminació d'efectes lluminosos (OSL)
+
+- Desenvolupats els fonaments visuals: font i superfície receptora, emissió i color intens, il·luminació directa i reflexos, llum indirecta i simplificació.
+- Ampliada la planificació de la font amb posició, direcció, distància, geometria, bloqueig i esquema previ.
+- Recuperada l'organització de valors i colors, incloent-hi jerarquia, intensitat, pèrdua d'influència i coherència amb la il·luminació general.
+- Desenvolupat el procediment en set fases i l'adaptació a set geometries/materials i escales.
+- Ampliat el control tècnic, desenvolupats dotze errors i recuperats els criteris d'avaluació i els sis exercicis.
+- Conservades la síntesi, les propostes de figures i el registre editorial.
+
 ## Tasques pendents
 
 1. Validar la integritat textual i estructural dels capítols 4 i 5 després de les recuperacions.

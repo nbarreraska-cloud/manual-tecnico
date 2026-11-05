@@ -65,15 +65,15 @@ La conservació requereix combinar una protecció adequada amb manipulació acur
 
 ### 38.3.1. Barnissos acrílics
 
-Són habituals en pintura de miniatures i poden presentar diferents graus de brillantor. Les característiques depenen de la formulació i del producte concret. Cal consultar-ne la documentació i no generalitzar-ne el comportament.
+Són habituals en pintura de miniatures i poden presentar diferents graus de brillantor. Les característiques depenen de la formulació i del producte concret. Cal consultar-ne la documentació i no generalitzar-ne el comportament. Abans d'utilitzar-los, convé comprovar-ne la compatibilitat amb el suport i les capes pictòriques, el mètode d'aplicació, la necessitat de dilució, les condicions d'assecat, la resistència declarada i les recomanacions de conservació i seguretat.
 
 ### 38.3.2. Barnissos de poliuretà
 
-Hi ha formulacions destinades a proporcionar pel·lícules resistents i duradores. No s'ha de pressuposar que tots tenen les mateixes propietats, compatibilitat o condicions d'aplicació.
+Hi ha formulacions destinades a proporcionar pel·lícules resistents i duradores. En modelisme també existeixen productes de poliuretà de base aquosa que poden aplicar-se a pinzell o aerògraf quan el fabricant ho preveu. No s'ha de pressuposar que tots tenen les mateixes propietats, compatibilitat o condicions d'aplicació, ni que ofereixen una resistència superior en qualsevol circumstància. La selecció s'ha de basar en la fitxa tècnica i l'ús previst.
 
 ### 38.3.3. Barnissos en aerosol
 
-Distribueixen el producte per pulverització i poden ser pràctics per a superfícies extenses o de geometria complexa. Requereixen controlar condicions ambientals, distància i moviment segons instruccions del fabricant i aplicar les mesures de seguretat corresponents.
+Distribueixen el producte per pulverització i poden ser pràctics per a superfícies extenses o de geometria complexa. Requereixen controlar la ventilació, la temperatura i la humitat recomanades, la distància, el moviment, la quantitat aplicada i la compatibilitat amb els materials de la miniatura. Cal tenir presents la inflamabilitat i la pressurització de l'envàs, els riscos d'inhalació i totes les indicacions de seguretat del fabricant. No s'han d'utilitzar en espais tancats ni sense ventilació i protecció adequades.
 
 ### 38.3.4. Productes protectors específics
 

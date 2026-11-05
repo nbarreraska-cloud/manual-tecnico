@@ -636,3 +636,12 @@ La branca de treball continua sent `intervencion-editorial-2026-11`. La comparac
 - La comparació confirma també que el tractament de pedres i fragments del terreny es manté delimitat respecte del capítol 26.
 - Correccions lingüístiques aplicades: concordança de «rovell» en C28; «associada» en la referència a la plata; i errades de contracció, article i apostrofació en C29.
 - Estat: **fidelitat documental de C28–C29 completada**. La validació de les receptes com a resultats experimentals no és aplicable: es mantenen explícitament com a propostes no assajades. La revisió transversal de coherència tècnica i referències continua oberta.
+
+
+### Actualització F4 — capítol 38 (05/11/2026)
+
+S'ha cotejat l'estructura del C38 Markdown amb l'original: els apartats 38.1–38.8 i 38.10.1–38.10.6 es mantenen; els nou errors del bloc 38.9 s'han compactat en una taula i els criteris d'avaluació final continuen presents. Els sis exercicis s'han desenvolupat més que en l'original, amb criteris d'avaluació explícitament identificats com a propostes editorials.
+
+En el coteig s'han recuperat tres detalls tècnics que havien quedat massa comprimits: la llista de comprovació per seleccionar barnissos acrílics, l'existència de formulacions de poliuretà de base aquosa aplicables a pinzell o aerògraf quan el fabricant ho indiqui, i les condicions i riscos específics dels aerosols (ventilació, temperatura/humitat, inflamabilitat, pressurització, inhalació, compatibilitat i advertiments).
+
+La validació transversal encara no es tanca. S'ha detectat una inconsistència terminològica entre `barnís/barnissos/barnissat` i `vernís/vernissar` als capítols 37–39. Es normalitzarà de manera conjunta a tots els capítols afectats, després de comprovar-ne l'abast en els 39 Markdown. No s'han fet canvis parcials de terminologia.

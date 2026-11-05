@@ -122,7 +122,7 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 35 | SC | Contingut protegit; no es va identificar recuperació prioritària. |
 | 36 | RD / MG · baixa | Intervenció aplicada el 05/11/2026: recuperats i desenvolupats els sis exercicis amb objectiu i procediment; afegits criteris d'avaluació proposats com a millora didàctica, diferenciats del text original; recuperada la síntesi; mantinguts els criteris de selecció i adaptació per material. Les 10 propostes gràfiques originals es reserven per a MG. Validació semàntica pendent. |
 | 37 | SC | Contingut protegit. G-08 va ajustar §§37.1, 37.6 i 37.7 a l'HTML i va preservar els apartats 38.1 i 38.2.5; no és una modificació del Markdown actual. Mantenir la seva funció d'acabats visuals i control del brillantor. |
-| 38 | RT / RD / MG · alta | Recuperació tècnica i didàctica aplicada el 05/11/2026: recuperats els fonaments i límits de protecció, criteris d'assecat/estabilització i sis exercicis desenvolupats; afegits criteris d'avaluació proposats com a millora didàctica, sense atribuir-los al text original. Validació semàntica i coteig complet pendents. Les 10 propostes gràfiques originals es reserven per a la fase MG. |
+| 38 | RT / RD / MG · alta | Recuperació tècnica i didàctica aplicada. F4: estructura i procediments cotejats amb l'original; sis exercicis conservats i desenvolupats, amb criteris d'avaluació identificats com a propostes editorials. S'han recuperat tres detalls tècnics omesos de la síntesi (llista de comprovació dels barnissos acrílics, distinció dels poliuretans de base aquosa i condicions/riscos específics dels aerosols). Resta la revisió transversal de terminologia, coherència i referències. Les 10 propostes gràfiques es reserven per a MG. |
 | 39 | SC / MG | Contingut textual protegit; mantenir i planificar el material gràfic de suport sense convertir propostes en imatges ja produïdes. |
 
 ### Lectura global de la matriu
@@ -196,3 +196,8 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 1.8 | 05/11/2026 | F4: coteig de fidelitat documental completat per a C28–C29; comprovades les receptes A–K/A–Q, els materials dels sis exercicis de cada capítol i la correspondència dels codis de pintura. Correccions lingüístiques menors aplicades; revisió transversal tècnica encara oberta. |
 
 Aquest registre és una consolidació operativa basada en l'auditoria i els resultats recuperats del projecte. Els punts marcats com a pendents o no validats s'han de comprovar amb el fitxer real i la font corresponent abans de declarar-los tancats.
+
+
+### Incidència transversal de terminologia detectada durant F4
+
+En C37–C39 conviuen les formes `barnís/barnissos/barnissat` i `vernís/vernissar`. Cal normalitzar la terminologia catalana de manera transversal i coherent, no corregir un sol capítol de forma aïllada. La forma normativa de referència és `vernís` i els derivats corresponents (`vernissar`, `envernissar`, `vernissat`); la normalització queda pendent d'una passada conjunta pels 39 Markdown i de la revisió de totes les remissions. No s'ha fet encara cap canvi terminològic d'aquest tipus.

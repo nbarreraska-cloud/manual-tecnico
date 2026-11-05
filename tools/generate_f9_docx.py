@@ -18,6 +18,7 @@ ANNEX_DIR = ROOT / "annexos"
 FICHE_DIR = ROOT / "fitxes-pintures"
 FICHE_INDEX = FICHE_DIR / "INDEX.md"
 OUTPUT = DIST / "Manual_tecnic_pintura_miniatures_F9.docx"
+FICHE_BOOKMARKS = {}
 
 def set_cell_margins(cell, top=45, start=65, bottom=45, end=65):
     tcPr = cell._tc.get_or_add_tcPr()
@@ -62,11 +63,29 @@ def add_inline(paragraph, text):
         elif s.startswith("\x60"):
             r = paragraph.add_run(s[1:-1]); r.font.name = "Consolas"; r.font.size = Pt(8)
         else:
-            mm = re.match(r'\[([^\]]+)\]\(([^)]+)\)', s)
-            r = paragraph.add_run(mm.group(1) if mm else s)
+            mm = re.match(r"\[([^\]]+)\]\(([^)]+)\)", s)
             if mm:
-                r.font.color.rgb = RGBColor(35, 83, 130)
-                r.underline = True
+                label, target = mm.group(1), mm.group(2)
+                bookmark = FICHE_BOOKMARKS.get(Path(target).name)
+                if bookmark:
+                    hyperlink = OxmlElement("w:hyperlink")
+                    hyperlink.set(qn("w:anchor"), bookmark[0])
+                    hyperlink.set(qn("w:history"), "1")
+                    run = OxmlElement("w:r")
+                    rpr = OxmlElement("w:rPr")
+                    color = OxmlElement("w:color"); color.set(qn("w:val"), "235382")
+                    underline = OxmlElement("w:u"); underline.set(qn("w:val"), "single")
+                    rpr.extend([color, underline])
+                    run.append(rpr)
+                    text_node = OxmlElement("w:t"); text_node.text = label
+                    run.append(text_node); hyperlink.append(run)
+                    paragraph._p.append(hyperlink)
+                else:
+                    r = paragraph.add_run(label)
+                    r.font.color.rgb = RGBColor(35, 83, 130)
+                    r.underline = True
+            else:
+                paragraph.add_run(s)
         pos = m.end()
     if pos < len(text):
         paragraph.add_run(text[pos:])
@@ -77,9 +96,10 @@ def set_repeat_table_header(row):
     tblHeader.set(qn("w:val"), "true")
     trPr.append(tblHeader)
 
-def add_markdown_block(doc, lines, compact=False, first_heading_level=1, page_break_before_first_heading=False):
+def add_markdown_block(doc, lines, compact=False, first_heading_level=1, page_break_before_first_heading=False, first_heading_bookmark=None):
     i = 0
     first_heading_seen = False
+    add_markdown_block._bookmark_added = False
     while i < len(lines):
         raw = lines[i].rstrip()
         if not raw.strip() or raw.strip() == "---":
@@ -129,6 +149,15 @@ def add_markdown_block(doc, lines, compact=False, first_heading_level=1, page_br
             p.paragraph_format.space_before = Pt(3 if compact else 9)
             p.paragraph_format.space_after = Pt(1 if compact else 4)
             add_inline(p, hm.group(2).strip())
+            if first_heading_bookmark and not add_markdown_block._bookmark_added:
+                bookmark_start = OxmlElement("w:bookmarkStart")
+                bookmark_start.set(qn("w:id"), str(first_heading_bookmark[1]))
+                bookmark_start.set(qn("w:name"), first_heading_bookmark[0])
+                bookmark_end = OxmlElement("w:bookmarkEnd")
+                bookmark_end.set(qn("w:id"), str(first_heading_bookmark[1]))
+                p._p.insert(0, bookmark_start)
+                p._p.append(bookmark_end)
+                add_markdown_block._bookmark_added = True
             i += 1
             continue
         if re.match(r'^\s*[-*]\s+', raw):
@@ -197,6 +226,11 @@ def main():
     fiche_paths = [p for p in fiche_paths if p.is_file()]
     if len(fiche_paths) != 48:
         raise SystemExit(f"Expected 48 fiche links; found {len(fiche_paths)}")
+    for bookmark_id, fiche_path in enumerate(fiche_paths, start=100):
+        paint_code = re.match(r"([0-9]+)-", fiche_path.name)
+        if not paint_code:
+            raise SystemExit(f"Cannot derive paint code for bookmark: {fiche_path.name}")
+        FICHE_BOOKMARKS[fiche_path.name] = (f"fiche_{paint_code.group(1)}", bookmark_id)
     annex_paths = [ANNEX_DIR / f"annex-{letter}.md" for letter in "abcde"]
     if not all(p.is_file() for p in annex_paths):
         raise SystemExit("One or more annexes A-E are missing")
@@ -275,7 +309,10 @@ def main():
         if group_name and group_name != current_group:
             doc.add_heading(group_name, level=2)
             current_group = group_name
-        add_markdown_block(doc, fiche_text.splitlines(), compact=True, first_heading_level=1)
+        add_markdown_block(
+            doc, fiche_text.splitlines(), compact=True, first_heading_level=1,
+            first_heading_bookmark=FICHE_BOOKMARKS[path.name],
+        )
 
     # Ask Word to refresh the automatic table of contents when the file is opened.
     settings = doc.settings.element

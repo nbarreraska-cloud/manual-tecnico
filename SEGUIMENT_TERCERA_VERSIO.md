@@ -169,10 +169,7 @@ Cal recuperar procediments, explicacions tècniques, fonaments, advertiments, de
 
 ## Tasques pendents
 
-1. Validar la integritat textual i estructural dels capítols 4 i 5 després de les recuperacions.
-2. Continuar la revisió comparativa de la resta dels 39 capítols, en ordre, amb el mateix criteri editorial.
-3. Verificar l'extensió real de la segona síntesi i de la tercera versió en una exportació maquetada.
-4. Mantenir com a tasca separada la revisió HTML de la primera versió: tres marcadors `<<p`, tres H1 buits i reconstrucció de l'encapçalament del capítol 31. Aquesta intervenció no forma part de l'actualització dels 39 Markdown.
+**Nota d'actualització:** aquest llistat correspon a una instantània inicial del seguiment i queda substituït per l'estat vigent documentat a l'última secció d'aquest fitxer (05/11/2026). No s'ha de seguir com a pla operatiu actual: la revisió comparativa 39/39, les recuperacions identificades i l'auditoria F6 ja s'han executat. La revisió HTML de la primera versió continua sent una línia de treball separada.
 
 ## Traçabilitat
 
@@ -199,16 +196,18 @@ Aquests 39 Markdown són la representació operativa dels continguts de la segon
 ### Fases i situació actual
 
 - Fase 0 — preservació de versions, fonts i branca de treball: completada.
-- Fase 1 — auditoria comparativa dels 39 capítols: completada (39/39).
-- Fase 2 — consolidació del registre mestre de recuperacions: primera versió creada el 05/11/2026.
-- Fase 3 — aplicació de recuperacions RT/RD i ajustos AE: en curs; les intervencions dels capítols 4–19 consten a l'historial de la branca.
-- Fase 4 — validació de les intervencions: parcial i pendent de completar per capítol.
-- Fases posteriors — depuració gràfica, revisió d'annexos, coherència global i maquetació: pendents.
+- Fase 1 — auditoria### Fases i situació actual
 
-### Nou document de control
+- **F0 — preservació de versions, fonts i traçabilitat:** completada.
+- **F1 — auditoria comparativa dels 39 capítols:** completada (39/39).
+- **F2 — consolidació del Registre Mestre:** en curs; versió 1.25. Resta conciliar la matriu per capítol amb els estats finals de F4 i les anotacions històriques.
+- **F3 — aplicació de recuperacions RT/RD i ajustos AE:** completada per a les accions identificades a la matriu.
+- **F4 — validació dels 39 capítols:** en curs. Cotejos documentals completats per a C12–C13, C25–C29 i C38, amb límits de font explícits; revisions de contingut disponibles completades per a C30–C32 i C36; C19 cotejat dins dels límits de la font. Resta revisar remissions C1–C18 i validar els capítols encara no cotejats.
+- **F5 — annexos A–E:** pendent; no iniciar fins a estabilitzar els 39 capítols.
+- **F6 — auditoria global de coherència:** completada el 05/11/2026, amb passada transversal C1–C39.
+- **F7 — revisió gràfica i maquetació Word:** pendent, després de F4 i F5.
 
-S'ha creat a l'arrel del repositori `REGISTRE_MESTRE_RECUPERACIONS.md` (versió 1.0). Recull:
-- Les categories RT (recuperació tècnica), RD (recuperació didàctica), AE (ajust editorial), MG (material gràfic) i SC (sense canvis).
+Les categories RT (recuperació tècnica), RD (recuperació didàctica), AE (ajust editorial), MG (material gràfic) i SC (sense canvis).
 - Les prioritats alta, mitjana i baixa.
 - La matriu de classificació dels 39 capítols segons l'auditoria comparativa.
 - La distinció entre contingut diagnosticat, decisió editorial, aplicació i validació.
@@ -853,3 +852,37 @@ S'han mantingut diferenciats: imprimació i capa base; rentat, tinta i veladura;
 **Intervenció aplicada a C27:** a la recepta A («Cristall transparent o quars clar») s'ha incorporat una aclaració per evitar que «base clara» s'interpreti com una capa opaca que cobreixi tota la superfície. La base queda limitada als plans o zones que necessitin aclariment i s'indica conservar informació cromàtica del fons o de les capes subjacents quan la representació i la geometria ho permetin. No s'han modificat la paleta ni la resta del procediment.
 
 F6 queda tancada com a auditoria de coherència global. Aquest resultat no valida experimentalment les receptes ni certifica el comportament de les pintures o productes. Es mantenen diferenciats el coteig documental, la coherència interna i la validació experimental. L'arquitectura continua en 39 capítols; no s'ha modificat main.
+
+
+---
+
+## Estat vigent i compilació documental — 05/11/2026
+
+Aquesta secció és la referència operativa més recent i preval sobre les instruccions de continuïtat i les instantànies anteriors que es conserven en aquest document com a historial del procés.
+
+### Situació de les fases
+
+- **F0:** completada.
+- **F1:** auditoria comparativa completada per als 39 capítols.
+- **F2:** en curs; el Registre Mestre està actualitzat a la versió 1.25. Resta conciliar la matriu per capítol i les entrades històriques amb l'estat final de F4.
+- **F3:** completada per a les accions RT/RD/AE identificades a la matriu.
+- **F4:** en curs. La revisió semàntica de remissions C19–C39 està documentada; C1–C18 encara requereixen comprovació específica de remissions. La fidelitat documental s'ha cotejat per a C12–C13, C25–C29 i C38, amb els límits de font descrits al Registre Mestre. C30–C32 i C36 tenen revisió de contingut amb la font disponible. C19 té un coteig limitat a la font disponible. No es considera validada la totalitat dels 39 capítols.
+- **F5:** pendent fins al tancament de F4.
+- **F6:** completada el 05/11/2026; auditoria global de coherència transversal C1–C39 tancada. No equival a validació experimental.
+- **F7:** pendent; revisió gràfica i maquetació Word després de F4 i F5.
+
+### Compilació dels capítols 1–39
+
+S'ha creat a l'arrel del repositori el fitxer `TERCERA_SINTESI_CONSOLIDADA_C01-C39.md`. Reuneix els 39 fitxers Markdown vigents en ordre numèric i exclou els annexos A–E. Inclou una capçalera d'identificació i separadors entre els fitxers d'origen; no s'ha reescrit ni resumit el contingut dels capítols.
+
+La integritat de la compilació s'ha verificat recuperant de nou els 39 fitxers font i comprovant que el contingut de cadascun hi és present íntegrament (39/39). El document resultant té 871.188 caràcters i 39 encapçalaments principals de capítol. Aquesta és una compilació documental de treball, no una versió final validada: qualsevol modificació posterior a un dels 39 Markdown durant F4 s'haurà de reflectir també en aquesta compilació.
+
+### Ordre operatiu vigent
+
+1. Conciliar el Registre Mestre i el Seguiment amb els estats reals de les auditorias, retirant les instruccions històriques que ja no siguin vigents.
+2. Completar F4, prioritzant les remissions semàntiques C1–C18 i els capítols encara no cotejats.
+3. Sincronitzar i tornar a verificar la compilació consolidada si F4 produeix canvis als capítols.
+4. Només després de l'estabilització dels 39 capítols, iniciar F5 (annexos A–E).
+5. Abordar F7 (gràfica i maquetació Word) després dels annexos.
+
+La branca de treball continua sent `intervencion-editorial-2026-11`; `main` no s'ha de modificar. La validació documental, la coherència interna i l'assaig experimental de receptes continuen sent nivells diferenciats.

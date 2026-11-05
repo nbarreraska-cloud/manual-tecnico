@@ -211,9 +211,9 @@ Cal mantenir especialment les distincions següents:
 - **Òxid i pàtines:** la base metàl·lica, els productes de corrosió i les zones de metall exposat s'han de distingir.
 - **Foc i energia:** les transicions cromàtiques i les aplicacions successives no equivalen necessàriament a mescles a la paleta.
 
-El fang del capítol 29 es descriu com una mescla física de terra o sediments amb aigua. No constitueix una formulació de pintures i, per això, no s'incorpora a aquesta taula.
+Les receptes de pols, terra seca, terrenys compactats i fang del capítol 29 presenten colors per a aplicacions successives o localitzades; no especifiquen mescles físiques entre pintures. El fang es descriu com una mescla física de terra o sediments amb aigua, però no constitueix una formulació de pintures i, per això, no s'incorpora a aquesta taula.
 
-Les receptes de màgia i energia i de vidre inclouen seleccions cromàtiques i procediments, però no estableixen proporcions ni mescles físiques concretes que justifiquin afegir noves fórmules a aquest annex. Les combinacions cromàtiques dels fluids orgànics no sanguinis del capítol 31 sí que s'hi inclouen, per la seva vinculació explícita amb funcions cromàtiques concretes.
+Les cinc receptes d'energia del capítol 32 i les receptes de vidre del capítol 34 inclouen seleccions cromàtiques i procediments, però no estableixen mescles físiques ni proporcions concretes; per això no generen entrades a la taula. Les combinacions cromàtiques dels fluids orgànics no sanguinis del capítol 31 sí que s'hi inclouen, per la seva vinculació explícita amb funcions cromàtiques concretes.
 
 ## D.5. Criteris per interpretar i ampliar les formulacions
 
@@ -240,7 +240,7 @@ La seva funció és proporcionar una referència organitzada de les mescles i co
 - No s'han inventat proporcions ni s'han convertit seqüències d'aplicació en mescles físiques.
 - Els noms comercials es mantenen en la forma identificativa de l'Annex A.
 - Les receptes i combinacions són propostes tècniques, no resultats experimentals.
-- Les referències als capítols s'han de verificar després de la consolidació final dels annexos.
+- Les 92 entrades de D.3 s'han contrastat amb les lletres de recepta, els colors citats als capítols i l'Annex C: 92/92 correspondències correctes.
 - No s'han realitzat proves físiques per validar les combinacions.
 
-**Estat F5:** reconstrucció editorial inicial; pendent de coteig de totes les entrades amb les receptes vigents dels capítols 19–34.
+**Estat F5:** coteig de les 92 entrades completat: totes corresponen a una recepta vigent i als colors que s'hi indiquen; les 92 també tenen correspondència amb les lletres de l'Annex C. Les exclusions de C29, C32 i C34 queden justificades a D.4. No s'han validat experimentalment les combinacions ni s'han establert proporcions.

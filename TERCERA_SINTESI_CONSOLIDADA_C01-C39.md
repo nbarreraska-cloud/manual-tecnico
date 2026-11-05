@@ -7510,3 +7510,862 @@ La planificació integral coordina l'anàlisi de la miniatura, la definició d'o
 - Enfocament: organització global i presa de decisions; no repeteix les tècniques individuals.
 - Criteri central: la planificació és una referència flexible que s'ha de poder modificar durant l'execució.
 - Estat: síntesi basada en el document de referència. No s'han realitzat proves físiques.
+
+
+---
+
+# 19. METALLS
+
+## 19.1. Fonaments i paleta metàl·lica disponible
+
+La representació de metalls depèn de la relació entre reflexos, contrast, color i geometria. Cal distingir dos enfocaments:
+
+- **TMM (*True Metallic Metal*):** utilitza pintures metal·litzades; les partícules reflectants del producte contribueixen directament a l'aparença metàl·lica.
+- **NMM (*Non-Metallic Metal*):** utilitza pintures convencionals i construeix els reflexos i contrastos de manera pictòrica. El procediment general es desenvolupa al capítol 16.
+
+Aquest capítol tracta principalment el TMM i proposa solucions per a acer, plata, or, coure i bronze. La paleta de referència conté quatre pintures metàl·liques:
+
+| Pintura | Referència | Funció orientativa |
+|---|---:|---|
+| Silver | 72.052 | Bases clares, reflexos i aclarits |
+| Dark Gunmetal | 72.054 | Bases fosques i ombres metàl·liques |
+| Glorious Gold | 72.056 | Bases daurades i combinacions càlides |
+| Tinny Tin | 72.060 | Bases fosques i combinacions d'aspecte envellit |
+
+Les funcions són orientacions de treball, no resultats de proves comparatives. Altres pintures metàl·liques del catàleg, com Chainmail, Polished Gold, Bright Bronze o Hammered Copper, no formen part de les 48 referències del projecte i no s'incorporen a les receptes principals.
+
+Les receptes són **propostes tècniques**, no formulacions experimentals validades. Cal distingir la base metàl·lica, que aporta la superfície reflectant; la modificació cromàtica, que introdueix matís o temperatura; i la construcció tonal, que organitza ombres, mitjos tons i llums. No s'han d'inventar proporcions quan el document no les especifica. Les modificacions amb colors convencionals han de ser controlades perquè una cobertura massa opaca pot reduir l'efecte metàl·lic.
+
+### 19.1.1. Pintures metàl·liques disponibles a la paleta
+
+Dins de les 48 pintures Squidmar × Vallejo s'inclouen quatre referències metàl·liques:
+
+| Pintura | Referència | Utilització orientativa |
+|---|---:|---|
+| Silver | 72.052 | Bases metàl·liques clares, reflexos i aclarits |
+| Dark Gunmetal | 72.054 | Bases fosques i ombres metàl·liques |
+| Glorious Gold | 72.056 | Bases daurades i combinacions càlides |
+| Tinny Tin | 72.060 | Alternativa metàl·lica per a tons foscos i combinacions d'aspecte envellit |
+
+La denominació comercial identifica els productes, però no permet deduir per si sola totes les seves propietats. Les funcions proposades són orientacions de treball, no resultats de proves comparatives realitzades amb aquestes pintures.
+
+El catàleg del fabricant inclou altres referències metàl·liques, com Chainmail, Polished Gold, Bright Bronze i Hammered Copper, que no formen part de les 48 pintures del projecte. Per tant, no s'utilitzen com a components de les receptes principals.
+
+### 19.1.2. Criteris de formulació de les receptes
+
+Les combinacions es presenten com a propostes tècniques de treball. Cal distingir tres tipus d'intervenció:
+
+- **Aplicació de pintura metàl·lica:** estableix la superfície reflectant.
+- **Modificació cromàtica:** introdueix variacions de temperatura i matís mitjançant pintures convencionals o tintes.
+- **Construcció tonal:** organitza les zones fosques, intermèdies i lluminoses per millorar la lectura del volum.
+
+Les pintures convencionals barrejades directament amb una pintura metàl·lica poden modificar-ne l'aparença i reduir la intensitat del reflex. Per això, quan es vol conservar l'efecte metàl·lic, sol ser preferible utilitzar les pintures convencionals en aplicacions localitzades o transparents sobre la superfície metàl·lica, en lloc d'incorporar-les indiscriminadament a tota la mescla.
+
+Les proporcions concretes s'han d'ajustar mitjançant proves. No s'estableixen formulacions universals ni es presenten les combinacions com a resultats experimentals comprovats.
+
+## 19.2. Acer
+
+L'acer es representa habitualment amb una gamma grisa neutra o freda. Pot ser fosc, polit, setinat o desgastat. Es diferencia de la plata sobretot per la lluminositat general i la intensitat dels reflexos, no només pel color base.
+
+La superfície s'organitza mitjançant una base metàl·lica, zones d'ombra i reflexos. En una espasa poden aparèixer bandes longitudinals; en una armadura, els plans exposats poden rebre més llum i les separacions quedar més fosques. L'acabat polit admet contrastos més definits; el setinat, una distribució més moderada.
+
+### 19.2.1. Receptes
+
+**A. Acer fosc**
+- Base: Dark Gunmetal (72.054).
+- Ombra: Dark Gunmetal amb Black (70.950), localitzadament.
+- Llum: Silver (72.052) a les zones exposades.
+- Reflex màxim: Silver concentrat en arestes i punts d'incidència.
+
+Adequat per a armes, armadures fosques, eines i peces poc polides.
+
+**B. Acer neutre**
+- Base: Dark Gunmetal (72.054).
+- Llum intermèdia: Silver (72.052) sobre les superfícies principals.
+- Llum final: Silver selectiu en vores i relleus.
+
+Permet una aparença més clara sense introduir una dominant cromàtica marcada.
+
+**C. Acer fred**
+- Base: Dark Gunmetal (72.054).
+- Modificació: Dark Sea Blue (70.898), transparent i localitzada.
+- Il·luminació: Silver (72.052).
+- Reflexos finals: Silver sense modificar.
+
+La modificació blavosa ha de ser continguda; no ha de convertir tota la superfície en blava.
+
+### 19.2.2. Procediment TMM
+
+1. Preparar la superfície i aplicar una base uniforme.
+2. Comprovar-ne la cobertura i identificar les zones que han de romandre fosques.
+3. Aplicar les ombres localment, sense cobrir innecessàriament la superfície reflectant.
+4. Incorporar Silver a les zones il·luminades.
+5. Definir reflexos selectius a les vores, arestes i punts destacats.
+6. Revisar la peça des de diferents angles.
+7. Si es vol una aparença freda, introduir Dark Sea Blue amb aplicacions transparents i selectives.
+
+### 19.2.3. Acabats i correccions
+
+L'acer polit presenta reflexos definits; el setinat, reflexos més moderats; l'acer fosc concentra ombres; i el desgast introdueix pèrdues irregulars del recobriment. L'oxidació i la brutícia es desenvolupen als capítols 28 i 29.
+
+| Problema | Correcció |
+|---|---|
+| Acer massa gris i pla | Reforçar la separació entre ombres i reflexos. |
+| Superfície massa fosca | Recuperar zones metàl·liques amb Silver. |
+| Dominant blava excessiva | Reduir la modificació freda i recuperar el gris metàl·lic. |
+| Reflexos massa uniformes | Concentrar els punts lluminosos en zones concretes. |
+| Pèrdua de l'efecte metàl·lic | Recuperar reflexos amb aplicacions selectives de pintura metàl·lica. |
+
+## 19.3. Plata
+
+La plata sol presentar una aparença clara, neutra i molt reflectant. Comparteix una base grisa amb l'acer, però acostuma a requerir una lluminositat general més elevada. Pot ser polida, setinada, enfosquida o envellida.
+
+Els reflexos més intensos es poden reservar per a vores de recipients, joieria, armes, relleus d'armadura i superfícies convexes exposades. No cal aclarir tota la peça: la distribució selectiva manté la lectura metàl·lica.
+
+### 19.3.1. Receptes
+
+**A. Plata clara**
+- Base: Silver (72.052).
+- Ombra: Dark Gunmetal (72.054) a les escletxes i zones protegides.
+- Llum: recuperar Silver a les zones exposades.
+- Reflex màxim: Silver concentrat en vores i punts concrets.
+
+**B. Plata enfosquida**
+- Base: Dark Gunmetal (72.054).
+- Aplicació principal: Silver (72.052) sobre les superfícies exposades.
+- Ombra profunda: Dark Gunmetal amb Black (70.950), localitzadament.
+- Reflex final: Silver.
+
+Adequada per a peces contrastades o que no han de destacar tant com altres elements.
+
+**C. Plata freda**
+- Base: Silver (72.052).
+- Modificació cromàtica: Dark Turquoise Ink (72.084), molt controlada.
+- Ombra: Dark Gunmetal (72.054).
+- Llum: Silver (72.052).
+
+La tinta pot introduir una tendència freda, però cal comprovar-ne la intensitat abans d'estendre-la.
+
+### 19.3.2. Procediment TMM
+
+1. Aplicar Silver com a base per a una plata clara, o Dark Gunmetal si es busca una plata enfosquida.
+2. Identificar les zones de màxima llum.
+3. Introduir Dark Gunmetal a les separacions i zones protegides.
+4. Recuperar Silver a les superfícies exposades.
+5. Afegir els reflexos més intensos de manera selectiva.
+6. Revisar que la superfície no presenti un nivell de brillantor uniforme.
+
+### 19.3.3. Acabats i correccions
+
+La plata polida necessita reflexos definits; la setinada, una distribució més moderada; l'enfosquida, més presència de Dark Gunmetal i menys superfície clara. La brutícia i les taques s'han d'aplicar selectivament.
+
+| Problema | Correcció |
+|---|---|
+| Plata massa uniforme | Incorporar Dark Gunmetal i recuperar Silver en zones seleccionades. |
+| Aspecte de gris mat | Reforçar els punts lluminosos amb Silver. |
+| Plata massa fosca | Reduir l'ombra i recuperar la base metàl·lica. |
+| Dominant cromàtica excessiva | Reduir la intensitat de les tintes. |
+| Reflexos poc llegibles | Reorganitzar les llums segons els plans de la peça. |
+
+## 19.4. Or
+
+L'or presenta una aparença metàl·lica càlida, generalment groga i daurada, amb variacions pàl·lides, ataronjades o vermelloses. Es diferencia de la plata i l'acer per la dominant groga; del coure, perquè acostuma a ser menys vermellós; i del bronze, per una lluminositat general més elevada i menys terrosa.
+
+Les ombres poden orientar-se cap a marrons, vermells o neutres foscos. Les llums han de conservar la identitat daurada i evitar una aparença groga plana. Els reflexos més intensos es reserven per a arestes, volums convexos i punts exposats.
+
+### 19.4.1. Receptes
+
+**A. Or clàssic**
+- Base: Glorious Gold (72.056).
+- Ombra: Sepia Ink (72.091), localitzada i controlada.
+- Llum: recuperar Glorious Gold a les zones exposades.
+- Reflex màxim: Silver (72.052), amb moderació.
+
+**B. Or càlid**
+- Base: Glorious Gold (72.056).
+- Modificació càlida: Hot Orange (72.009), transparent i localitzada.
+- Ombra: Sepia Ink (72.091).
+- Reflex: Glorious Gold.
+- Punt lluminós: Silver (72.052), selectiu.
+
+La modificació taronja ha de ser continguda per evitar una aparença de coure.
+
+**C. Or envellit**
+- Base: Glorious Gold (72.056).
+- Ombra: Sepia Ink (72.091).
+- Modificació: Parasite Brown (72.042), en zones determinades.
+- Llum: recuperar Glorious Gold a les parts exposades.
+- Reflex: Silver (72.052), només en punts seleccionats.
+
+**D. Or pàl·lid**
+- Base: Glorious Gold (72.056).
+- Modificació: Ivory (70.918), controlada sobre les zones il·luminades.
+- Reflex: Silver (72.052), molt localitzat.
+- Ombra: Sepia Ink (72.091).
+
+Les pintures convencionals s'han d'aplicar amb contenció perquè la superfície no perdi la resposta metàl·lica.
+
+### 19.4.2. Procediment TMM
+
+1. Aplicar Glorious Gold i comprovar-ne la uniformitat.
+2. Introduir Sepia Ink a les escletxes i zones protegides.
+3. Recuperar l'or a les regions exposades.
+4. Afegir modificacions càlides o pàl·lides només si l'acabat ho requereix.
+5. Incorporar reflexos molt clars de manera selectiva.
+6. Comprovar que la superfície continua llegint-se com a or i no com a groc, taronja o marró.
+
+Una base fosca pot augmentar el contrast, però cal conservar prou superfície metàl·lica visible.
+
+### 19.4.3. Acabats i correccions
+
+L'or polit necessita reflexos definits; el setinat, contrastos més moderats; l'envellit, ombres càlides i variacions localitzades. La pèrdua del recobriment s'ha de distingir de la simple modificació cromàtica. La pàtina i la corrosió corresponen al capítol 28.
+
+| Problema | Correcció |
+|---|---|
+| Or massa groc i poc metàl·lic | Recuperar Glorious Gold i reforçar els reflexos. |
+| Or ataronjat o cobrís | Reduir Hot Orange i recuperar el to daurat. |
+| Or sense profunditat | Introduir Sepia Ink localitzadament. |
+| Superfície massa marró | Recuperar Glorious Gold i reduir les ombres terroses. |
+| Reflexos massa blancs | Reservar Silver per a punts molt concrets. |
+
+## 19.5. Coure
+
+El coure presenta una dominant metàl·lica vermellosa o ataronjada. Pot ser brillant, fosc, envellit o alterat per pàtina. La paleta no inclou una pintura metàl·lica específica de coure: Hammered Copper (72.059) no forma part de les 48 pintures de referència. Per tant, les propostes combinen bases metàl·liques disponibles amb colors convencionals.
+
+### 19.5.1. Receptes
+
+**A. Coure amb base metàl·lica clara**
+- Base: Silver (72.052).
+- Modificació cromàtica: Hot Orange (72.009) i Burnt Red (70.814), en mescla o aplicació transparent.
+- Ombra: Dark Rust (70.771), localitzada.
+- Reflex: recuperar Silver en punts concrets.
+
+Cal evitar una cobertura opaca extensa de taronja i vermell, que reduiria l'efecte metàl·lic.
+
+**B. Coure fosc**
+- Base: Tinny Tin (72.060).
+- Modificació càlida: Hot Orange (72.009) i Burnt Red (70.814), controlades.
+- Ombra: Dark Rust (70.771).
+- Reflex: Silver (72.052), molt localitzat.
+
+La base Tinny Tin s'ha de comprovar en una mostra abans d'adoptar-la com a base definitiva.
+
+**C. Coure vermellós**
+- Base: Silver (72.052).
+- Modificació: Burnt Red (70.814), transparent.
+- Reforç càlid: Hot Orange (72.009), en zones seleccionades.
+- Ombra: Dark Rust (70.771).
+- Reflex: Silver (72.052).
+
+La diferència respecte del coure més ataronjat és la major presència de la dominant vermellosa.
+
+### 19.5.2. Procediment TMM
+
+1. Escollir Silver o Tinny Tin segons la lluminositat buscada.
+2. Comprovar la base abans de modificar-la.
+3. Introduir Hot Orange i Burnt Red amb aplicacions transparents o selectives.
+4. Enfosquir les zones protegides amb Dark Rust.
+5. Recuperar el reflex metàl·lic a les regions exposades.
+6. Ajustar la relació entre taronja i vermell mitjançant proves.
+7. Comprovar que la superfície no sembla simplement pintada de taronja o marró.
+
+No hi ha una proporció universal que produeixi el mateix coure en qualsevol superfície.
+
+### 19.5.3. Acabats i correccions
+
+El coure brillant conserva reflexos definits; el fosc presenta més ombres vermelloses i marrons; l'envellit pot incorporar alteracions superficials. La pàtina verdosa correspon al capítol 28 i no s'ha de confondre amb un simple enfosquiment.
+
+| Problema | Correcció |
+|---|---|
+| Coure massa taronja | Augmentar la presència de Burnt Red. |
+| Coure massa vermell | Recuperar Hot Orange i la base metàl·lica. |
+| Aparença de pintura mat | Recuperar Silver en zones seleccionades. |
+| Coure massa fosc | Reduir Dark Rust i recuperar zones metàl·liques. |
+| Aparença d'or | Reforçar les dominants vermelloses i ataronjades. |
+
+## 19.6. Bronze
+
+El bronze se situa visualment entre els tons daurats, marrons i cobrizos. En general es representa més fosc i terrós que l'or, i menys vermellós que el coure. La paleta no conté una pintura identificada específicament com a bronze: Bright Bronze (72.057) no forma part de les 48 referències disponibles.
+
+### 19.6.1. Receptes
+
+**A. Bronze clàssic**
+- Base: Glorious Gold (72.056).
+- Ombra: Parasite Brown (72.042), localitzada.
+- Ombra profunda: Dark Rust (70.771), en escletxes seleccionades.
+- Llum: recuperar Glorious Gold a les zones exposades.
+- Reflex: Silver (72.052), molt localitzat.
+
+**B. Bronze fosc**
+- Base: Tinny Tin (72.060).
+- Modificació càlida: Glorious Gold (72.056), a les zones exposades.
+- Ombra: Dark Rust (70.771).
+- Reflex: Silver (72.052), selectiu.
+
+L'aparença dependrà de la relació entre la base metàl·lica i les zones daurades recuperades.
+
+**C. Bronze vermellós**
+- Base: Glorious Gold (72.056).
+- Modificació: Burnt Red (70.814), controlada.
+- Ombra: Dark Rust (70.771).
+- Llum: Glorious Gold.
+- Reflex: Silver (72.052), només en punts concrets.
+
+La dominant vermellosa s'ha de diferenciar de la del coure mantenint una presència més clara de la base daurada.
+
+### 19.6.2. Procediment TMM
+
+1. Aplicar Glorious Gold o Tinny Tin segons l'aparença inicial.
+2. Comprovar la distribució de la base metàl·lica.
+3. Introduir ombres amb Parasite Brown o Dark Rust.
+4. Recuperar Glorious Gold a les zones que han de conservar més lluminositat.
+5. Afegir variacions vermelloses o terroses si cal.
+6. Incorporar reflexos metàl·lics clars de manera selectiva.
+7. Comprovar que el resultat es diferencia de l'or i del coure.
+
+### 19.6.3. Acabats i correccions
+
+El bronze polit pot tenir una aparença daurada càlida i reflexos definits; el fosc necessita més marrons i ombres profundes; l'envellit pot incorporar alteracions i pàtines. La pàtina, especialment la verdosa, correspon al capítol 28; el desgast, al 36.
+
+| Problema | Correcció |
+|---|---|
+| Bronze massa semblant a l'or | Incrementar les ombres terroses. |
+| Bronze massa vermellós | Recuperar Glorious Gold i reduir Burnt Red. |
+| Bronze semblant al coure | Reforçar els tons daurats i marrons. |
+| Pèrdua de l'efecte metàl·lic | Recuperar reflexos amb Glorious Gold. |
+| Superfície massa fosca | Recuperar les zones metàl·liques exposades. |
+
+## 19.7. Comparació i selecció de receptes
+
+La taula resumeix les dominants i les bases de referència; no estableix equivalències físiques exactes entre pintures i metalls.
+
+| Metall | Dominant principal | Base metàl·lica | Modificacions possibles |
+|---|---|---|---|
+| Acer | Gris neutre o fred | Dark Gunmetal / Silver | Dark Sea Blue |
+| Plata | Gris clar i neutre | Silver | Dark Turquoise Ink |
+| Or | Groc daurat | Glorious Gold | Sepia Ink, Hot Orange, Ivory |
+| Coure | Vermell ataronjat | Silver / Tinny Tin | Hot Orange, Burnt Red |
+| Bronze | Daurat terrós i marró | Glorious Gold / Tinny Tin | Parasite Brown, Dark Rust, Burnt Red |
+
+La selecció ha de considerar el material, la lluminositat, la dominant cromàtica, l'estat superficial, la geometria, la importància visual i el contrast desitjat. No cal aplicar sempre una recepta completa: es pot seleccionar una base i modificar només les ombres o els reflexos.
+
+Quan una miniatura combina metalls, convé diferenciar-los per dominant, lluminositat i distribució dels reflexos. Per exemple, es pot reservar l'acer fosc per a armes, la plata clara per a ornaments petits, l'or per a decoracions, el coure per a canonades i el bronze per a peces ornamentals. No cal exagerar les diferències ni donar a tots els metalls el mateix contrast.
+
+## 19.8. Relació entre TMM i NMM
+
+El TMM aprofita la resposta reflectant de les pintures metal·litzades; el NMM construeix els reflexos amb pintures convencionals. El TMM pot ser adequat quan es busca una aparença metàl·lica directa; el NMM permet controlar pictòricament la distribució dels reflexos i desenvolupar efectes estilitzats o de contrast elevat. La tria depèn de l'objectiu, la geometria, el nivell tècnic i el temps disponible.
+
+Utilitzar colors convencionals sobre una base metàl·lica per modificar-ne la tonalitat no converteix automàticament el procediment en NMM. La diferència és la funció de la pintura i la manera com es construeix l'aparença final. Per al procediment general NMM, cal consultar el capítol 16.
+
+## 19.9. Control i avaluació
+
+Cal comprovar:
+
+- Que el material es reconeix i es diferencia dels metalls pròxims.
+- Que la dominant cromàtica és adequada.
+- Que llums, ombres i reflexos s'organitzen segons la geometria.
+- Que les modificacions cromàtiques no eliminen la resposta metàl·lica.
+- Que els reflexos són selectius i mantenen una jerarquia.
+- Que l'acabat correspon a l'estat superficial buscat.
+- Que el resultat és llegible de prop i des de la distància habitual.
+
+Abans de corregir, cal identificar si el problema prové de la cobertura, la distribució tonal, la dominant cromàtica o la pèrdua de reflexos. Les correccions han de ser selectives. Si les aplicacions convencionals han cobert massa la base, pot caldre recuperar pintura metàl·lica en zones concretes. El diagnòstic general correspon al capítol 39.
+
+## 19.10. Exercicis pràctics
+
+### 19.10.1. Comparació de les quatre pintures metàl·liques
+Aplicar Silver, Dark Gunmetal, Glorious Gold i Tinny Tin en zones separades d'una superfície d'assaig. Deixar assecar, observar-les sota condicions equivalents i registrar-ne les diferències de color i reflex.
+
+### 19.10.2. Construcció d'acer TMM
+Aplicar Dark Gunmetal, introduir ombres localitzades amb Black, recuperar Silver a les zones il·luminades i afegir reflexos selectius. Comparar amb una aplicació uniforme de Silver.
+
+### 19.10.3. Plata clara i enfosquida
+Preparar dues superfícies equivalents: una amb Silver i una altra amb Dark Gunmetal com a base. Incorporar llums i ombres, comparar l'extensió de les zones clares i registrar les diferències.
+
+### 19.10.4. Or càlid i envellit
+Aplicar Glorious Gold sobre dues superfícies. A la primera, introduir Sepia Ink localitzadament; a la segona, afegir Parasite Brown i més profunditat tonal. Recuperar la base metàl·lica i comparar els resultats.
+
+### 19.10.5. Coure i bronze amb la paleta disponible
+Preparar superfícies d'assaig amb Silver o Tinny Tin. Per al coure, introduir Hot Orange i Burnt Red; per al bronze, Glorious Gold i Parasite Brown. Afegir Dark Rust i recuperar els reflexos metàl·lics. Comparar les aparences sense donar per establertes proporcions universals.
+
+### 19.10.6. Comparació entre TMM i NMM
+Seleccionar una placa o una espasa i representar-la amb TMM i NMM. Comparar reflexos, contrastos i lectura des de diferents angles, i registrar avantatges i limitacions de cada enfocament.
+
+### 19.10.7. Integració de diversos metalls
+Seleccionar una miniatura amb almenys dos elements metàl·lics. Identificar els materials, escollir les receptes, definir diferències cromàtiques i de lluminositat, aplicar-les i avaluar-ne la diferenciació i la integració.
+
+## Síntesi del capítol
+
+La representació de metalls exigeix coordinar color, reflexos, ombres i geometria. Es desenvolupen cinc materials —acer, plata, or, coure i bronze— mitjançant propostes TMM adaptades a les quatre pintures metàl·liques disponibles i a les modificacions convencionals de la paleta. El coure i el bronze requereixen construir la seva dominant amb bases metàl·liques alternatives perquè no hi ha pintures específiques d'aquests materials dins de les 48 referències. Les receptes són propostes que cal comprovar i ajustar en superfícies d'assaig. TMM i NMM són enfocaments diferents; les receptes del primer es desenvolupen aquí i el procediment general del segon, al capítol 16. La selecció ha de respondre al material, l'acabat, la geometria i el resultat buscat.
+
+## Figures proposades per a la fase gràfica final
+
+1. Comparació de les quatre pintures metàl·liques disponibles.
+2. Diferències visuals entre acer, plata, or, coure i bronze.
+3. Construcció TMM d'acer i plata.
+4. Construcció TMM d'or.
+5. Construcció de coure i bronze amb modificacions cromàtiques.
+6. Comparació entre TMM i NMM.
+7. Variacions d'acabat: polit, setinat i envellit.
+8. Integració de diversos metalls en una mateixa miniatura.
+9. Errors freqüents i correccions per a cada metall.
+
+## Registre editorial
+
+- Estructura: deu apartats, síntesi i set exercicis.
+- Enfocament: receptes TMM per a cinc metalls amb la paleta de 48 pintures.
+- Delimitació: el procediment general NMM correspon al capítol 16; la corrosió i les pàtines, al 28; el desgast, al 36; el diagnòstic general, al 39.
+- Criteri tècnic: les receptes són propostes orientatives, no resultats comprovats. No s'afegeixen proporcions no especificades ni s'incorporen pintures fora de la paleta de referència.
+
+---
+
+# 20. FUSTA
+
+## 20.1. Identitat visual de la fusta
+
+La fusta presenta una gran varietat de colors i patrons: tons clars, groguencs, ocres, marrons, rogencs, grisos i gairebé negres; vetes rectes o ondulades, anells, nusos, fissures i variacions de to. En miniatura no cal reproduir-ne tota l'anatomia: cal seleccionar els indicis visuals que permeten reconèixer el material i adaptar-los a l'escala.
+
+La representació combina quatre elements:
+- **Color de fons:** estableix la tonalitat general.
+- **Vetes i fibres:** comuniquen la direcció i l'organització del material.
+- **Variacions cromàtiques:** aporten profunditat i eviten la uniformitat.
+- **Detalls estructurals:** nusos, anells, fissures, talls i zones erosionades, quan la geometria i l'escala ho permeten.
+
+La direcció i la forma de les vetes depenen del tall i de l'estructura de la peça. No són necessàriament línies paral·leles; poden formar bandes, desviacions i patrons irregulars. Els nusos també modifiquen la direcció de les fibres.
+
+## 20.2. Lectura de superfícies i patrons
+
+Abans de pintar cal identificar el tipus de superfície:
+
+- **Vetes longitudinals:** en taulons, bigues, mànecs i peces allargades segueixen generalment l'eix principal. Es poden suggerir amb línies i bandes de longitud, amplada i curvatura variables. La regularitat excessiva produeix un patró artificial.
+- **Seccions transversals:** poden mostrar anells aproximadament concèntrics, irregulars i no equidistants. A escala petita n'hi ha prou amb pocs arcs de gruix i separació variables.
+- **Nusos:** formes ovalades o irregulars al voltant de les quals es desvien les fibres. Cal integrar-los amb vetes corbades, no representar-los com cercles aïllats.
+- **Escorça i fusta sense treballar:** presenten plaques, fissures, relleus i irregularitats; no s'han de tractar com taulons amb vetes més gruixudes. La vegetació adherida, la molsa i els líquens corresponen al capítol 21.
+
+La diferenciació respecte d'altres materials depèn de la relació entre patró i geometria: la pedra es reconeix per fractures, estrats i patrons minerals; el cuir, per plecs, arrugues i marques de tensió; els teixits, per una trama; i el metall ratllat, per marques superficials que no representen fibres internes.
+
+## 20.3. Paleta de referència i criteris cromàtics
+
+| Pintura | Referència | Funció orientativa |
+|---|---:|---|
+| Deck Tan | 70.986 | Bases clares i variacions apagades |
+| Ivory | 70.918 | Aclarits i vetes clares |
+| Ice Yellow | 70.858 | Accents groguencs lluminosos |
+| Japanese Uniform WWII | 70.923 | Tons terrosos mitjans i bases naturals |
+| Parasite Brown | 72.042 | Variacions marrons càlides |
+| Burnt Red | 70.814 | Matisos rogencs |
+| Dark Rust | 70.771 | Marrons rogencs foscos i vetes profundes |
+| Sepia Ink | 72.091 | Modificació cromàtica i enfosquiment local |
+| Black | 70.950 | Enfosquiment selectiu |
+| Dark Sea Blue | 70.898 | Neutralització freda i variacions grisenques |
+
+Les combinacions són **propostes cromàtiques**, no mescles experimentals verificades. El resultat depèn de les pintures reals, la cobertura, la quantitat aplicada i la seqüència. Es poden organitzar en famílies clares, mitjanes/naturals, càlides/rogenques, fosques i envellides/grisenques. No cal utilitzar tots els colors d'una família: convé seleccionar una base, un o dos tons de variació i un color per a les vetes principals.
+
+## 20.4. Fustes clares
+
+Poden presentar tons beix, crema, groguencs o lleugerament grisencs. La identitat no ha de dependre d'un fons gairebé blanc: cal mantenir una diferència visible, encara que moderada, entre base i vetes.
+
+**Recepta A · Fusta clara natural**
+- Base: Deck Tan (70.986).
+- Variació càlida: Japanese Uniform WWII (70.923).
+- Vetes principals: Parasite Brown (72.042).
+- Aclarits: Ivory (70.918).
+- Accents: Ice Yellow (70.858).
+
+**Recepta B · Fusta clara envellida**
+- Base: Deck Tan (70.986).
+- Variació neutra: mescla proposada de Deck Tan i Ivory.
+- Vetes: Japanese Uniform WWII (70.923).
+- Accents foscos locals: Dark Sea Blue (70.898) amb una petita quantitat de Black (70.950).
+
+**Seqüència orientativa:** aplicar Deck Tan; introduir variacions suaus de Japanese Uniform WWII; construir vetes longitudinals amb Parasite Brown; alternar línies fines i discontínues; recuperar llum amb Ivory i reservar Ice Yellow per a petits accents. Cal evitar que les vetes semblin dibuixades separadament. En peces estretes o petites, reduir-ne el nombre i adaptar-les a la curvatura.
+
+## 20.5. Fustes mitjanes, càlides i rogenques
+
+Aquesta família inclou marrons naturals, ocres i tons rogencs. La diferència respecte de les fustes clares s'ha de construir amb una base més profunda i més presència de tons mitjans i càlids, no només afegint línies fosques.
+
+**Recepta C · Fusta marró natural**
+- Base: Japanese Uniform WWII (70.923).
+- Variació càlida: Parasite Brown (72.042).
+- Vetes fosques: Dark Rust (70.771).
+- Vetes clares: Deck Tan (70.986).
+- Aclarits puntuals: Ivory (70.918).
+
+**Recepta D · Fusta rogenca**
+- Base: Parasite Brown (72.042).
+- Variació cromàtica: Burnt Red (70.814).
+- Vetes profundes: Dark Rust (70.771).
+- Vetes clares: Japanese Uniform WWII (70.923).
+- Accents lluminosos: Deck Tan (70.986).
+
+**Seqüència orientativa:** aplicar la base; incorporar bandes irregulars longitudinals; establir les vetes principals amb Dark Rust o Burnt Red; afegir línies secundàries fines; introduir petites vetes clares; variar longitud i continuïtat. La fusta rogenca ha de conservar una base marró recognoscible. En barrils, les vetes s'han d'adaptar a cada doga; en mànecs, seguir la forma allargada.
+
+## 20.6. Fustes fosques
+
+Les fustes fosques poden presentar marrons profunds, rogencs i negres càlids. El risc principal és enfosquir tota la superfície fins a perdre les variacions que la fan llegible com a fusta.
+
+**Recepta E · Fusta fosca marró**
+- Base: Dark Rust (70.771).
+- Variació profunda: mescla proposada de Dark Rust i Black (70.950).
+- Vetes mitjanes: Parasite Brown (72.042).
+- Vetes càlides: Burnt Red (70.814).
+- Accents clars: Japanese Uniform WWII (70.923).
+
+**Recepta F · Fusta fosca gairebé negra**
+- Base: Black (70.950) modificat amb Dark Rust (70.771).
+- Variació cromàtica: Dark Rust.
+- Vetes: mescla proposada de Dark Rust i Parasite Brown (72.042).
+- Accents puntuals: Burnt Red (70.814).
+
+**Control:** recuperar variacions marrons i tons mitjans abans de definir vetes fosques. Reservar els tons més profunds per a nusos, esquerdes i separacions. Les vetes clares han de ser escasses i de contrast variable; si totes destaquen igual, el patró sembla geomètric.
+
+## 20.7. Fustes envellides, desgastades, humides i deteriorades
+
+Cal distingir:
+- **Envelliment:** canvis cromàtics i superficials associats al pas del temps.
+- **Desgast:** pèrdua de material, vores erosionades, rascades i fibres exposades.
+- **Humitat:** enfosquiment local que no implica necessàriament un acabat brillant.
+- **Deteriorament:** fissures, fragmentació, pèrdua d'integritat i alteracions irregulars.
+
+El desgast general correspon al capítol 36; la brutícia i els dipòsits, al 29; els acabats brillants, al 37; i la vegetació adherida, al 21.
+
+**Recepta G · Fusta grisa envellida**
+- Base: Deck Tan (70.986).
+- Modificació grisa: mescla proposada de Deck Tan i Dark Sea Blue (70.898).
+- Variacions clares: Ivory (70.918).
+- Vetes: Japanese Uniform WWII (70.923).
+- Accents foscos: Black (70.950), localitzat.
+
+Cal mantenir algunes àrees beix i marrons, recuperar vetes i afegir línies clares a les zones exposades; no convertir tota la superfície en gris fred.
+
+**Recepta H · Fusta natural desgastada**
+- Base: Japanese Uniform WWII (70.923).
+- Variacions: Parasite Brown (72.042).
+- Zones profundes: Dark Rust (70.771).
+- Vores aclarides: Deck Tan (70.986) i Ivory (70.918).
+
+Construir primer la fusta amb la recepta C; seleccionar vores i zones de contacte; afegir aclarits irregulars, marques en la direcció de les fibres i algunes fissures fosques. No crear un contorn clar continu ni substituir la identitat de la fusta pel desgast.
+
+**Recepta I · Fusta humida enfosquida**
+- Base: Japanese Uniform WWII (70.923) o Parasite Brown (72.042).
+- Enfosquiment: Dark Rust (70.771).
+- Profunditat: mescla proposada de Dark Rust i Black (70.950).
+- Variacions càlides conservades: Burnt Red (70.814).
+
+Construir una base natural, seleccionar les zones humides, enfosquir-les localment i conservar part de les vetes i variacions originals. No aplicar el mateix enfosquiment a tota la peça ni representar la humitat necessàriament amb blau o brillantor uniforme.
+
+La fusta deteriorada pot partir d'una base envellida i incorporar esquerdes irregulars, ombres a les fissures, àrees apagades i vores fragmentades. No s'ha de confondre amb una simple fusta humida o fosca.
+
+## 20.8. Construcció de vetes, nusos i anells
+
+**Vetes longitudinals**
+1. Identificar l'eix principal de la peça.
+2. Establir les vetes principals amb un to diferenciat de la base.
+3. Variar-ne longitud i amplada.
+4. Afegir línies secundàries fines i discontínues.
+5. Incorporar variacions paral·leles o lleugerament ondulades.
+6. Revisar-ne la lectura des de la distància habitual.
+
+Cal alternar zones netes i zones amb més informació; evitar línies equidistants i paral·leles.
+
+**Nusos**
+1. Escollir una zona coherent amb la geometria.
+2. Pintar una forma central ovalada o irregular.
+3. Afegir contorns parcials, no necessàriament tancats.
+4. Corbar les vetes pròximes.
+5. Introduir una variació de lluminositat.
+6. Evitar repetir nusos idèntics.
+
+**Anells**
+En una secció transversal, establir el fons i pintar pocs arcs al voltant d'un centre aproximat. Variar-ne distància i gruix, interrompre alguns segments i adaptar-los a la forma circular, ovalada o irregular.
+
+No totes les fustes necessiten vetes molt marcades: en superfícies petites o polides poden ser suficients bandes suaus i poques línies discretes.
+
+## 20.9. Adaptació a escala, geometria i control
+
+- **Escala petita:** reduir vetes, simplificar nusos i anells i prioritzar la direcció general de les fibres.
+- **Escala gran:** combinar vetes principals i secundàries, nusos, variacions d'amplada i irregularitats addicionals.
+- **Tauló:** vetes longitudinals de longitud i amplada variables.
+- **Biga:** fibres adaptades a cada cara.
+- **Barril:** vetes ajustades a les dogues i a la curvatura.
+- **Mànec cilíndric:** línies longitudinals discretes.
+- **Tronc:** irregularitat superficial i canvis de direcció.
+- **Secció transversal:** anells corbats i irregulars.
+- **Cofre o moble:** diferenciar taulons, unions i orientació de les fibres.
+
+Errors i correccions principals:
+- **Marró uniforme:** introduir variacions i vetes coherents amb la geometria.
+- **Vetes massa rectes o paral·leles:** variar-ne direcció, amplada, longitud i continuïtat.
+- **Excés de línies:** reduir-ne el nombre i reservar els traços contrastats.
+- **Contrast excessiu:** incorporar tons intermedis i transicions.
+- **Nusos geomètrics:** irregularitzar-los i desviar les vetes pròximes.
+- **Anells massa regulars:** variar separació i gruix i interrompre segments.
+- **Fusta envellida completament grisa:** conservar beixos i marrons.
+- **Fusta humida simplement negra:** enfosquir zones selectives i preservar el patró.
+- **Desgast uniforme:** concentrar-lo en zones coherents amb l'ús i la forma.
+- **Patrons incompatibles amb la geometria:** orientar les fibres segons cada component i respectar unions i canvis de pla.
+
+## 20.10. Exercicis pràctics
+
+1. **Comparació de fustes clares i mitjanes:** preparar les receptes A i C i comparar bases, vetes i variacions.
+2. **Fusta rogenca:** aplicar la recepta D en una superfície allargada i construir vetes principals i secundàries de contrast diferent.
+3. **Vetes i nusos:** integrar un nus en una superfície mitjana i comprovar que les fibres hi convergeixen.
+4. **Secció transversal:** pintar una secció circular o ovalada amb anells de gruix i separació variables.
+5. **Fusta natural i envellida:** comparar una base natural amb la recepta G, conservant part de les vetes.
+6. **Exercici integrador:** representar un tauló de fusta mitjana amb variacions càlides, vetes, un nus, fissures i desgast localitzat.
+
+## Síntesi del capítol
+
+La fusta es reconeix per la relació entre base cromàtica, direcció de les fibres, vetes, nusos, anells i geometria. Les nou receptes proposen aparences clares, mitjanes, rogenques, fosques, envellides, desgastades i humides amb la paleta de 48 pintures. Són propostes tècniques, no resultats comprovats. La quantitat de detall s'ha d'adaptar a l'escala i al tipus de tall. Una superfície no sembla fusta per acumular línies marrons, sinó perquè aquestes segueixen una organització coherent amb l'estructura de la peça.
+
+## Figures proposades per a la fase gràfica final
+
+1. Direcció de fibres, vetes, nusos i anells.
+2. Patrons segons el tall: veta longitudinal i secció transversal.
+3. Comparació cromàtica de fustes clares, mitjanes, càlides, fosques i grises.
+4. Construcció de vetes principals i secundàries.
+5. Integració d'un nus i desviació de les fibres.
+6. Anells en una secció transversal.
+7. Adaptació a tauló, biga, barril, mànec i tronc.
+8. Comparació entre fusta natural, envellida, desgastada i humida.
+9. Errors freqüents i correccions.
+
+## Registre editorial
+
+- Estructura: deu apartats, síntesi i sis exercicis.
+- Receptes: nou propostes (A–I), sense proporcions inventades.
+- Delimitacions: vegetació adherida al capítol 21; brutícia i dipòsits al 29; desgast general al 36; acabats al 37.
+- Criteri central: vetes i fibres han de correspondre a la geometria, el tall i l'escala.
+- Estat: síntesi basada en el document original de referència; les combinacions continuen classificades com a propostes no assajades.
+
+---
+
+# 21. VEGETACIÓ
+
+## 21.1. Identitat i abast
+
+La vegetació inclou estructures molt diverses: arbres i arbustos de fulla ampla, coníferes, herbes, gramínies, plantes herbàcies, molsa, líquens i restes vegetals seques. No s'ha de representar com una superfície coberta de diferents verds: la identitat de cada element depèn de la forma de creixement, l'organització de les parts, la densitat, la textura, el color i l'estat de conservació.
+
+Cal diferenciar, per exemple, el fullatge de fulles amples del de les coníferes, la molsa d'una acumulació de fulles i l'herba seca de la vegetació activa. El capítol tracta les estructures vegetals; la fusta i l'escorça com a materials corresponen al 20. Les tècniques generals són als capítols 8–13; la brutícia i els dipòsits, al 29; l'envelliment i el desgast, al 36; i la integració cromàtica ambiental, al 35.
+
+## 21.2. Lectura visual i estructura
+
+- **Fullatge de fulla ampla:** prioritzar la massa general, la direcció de les branques, l'agrupació i superposició de fulles, les zones interiors i exposades, la densitat i els buits. No cal dibuixar cada fulla.
+- **Coníferes i fulles estretes:** construir primer la forma de la capçada i les branques; després afegir agrupacions de marques curtes i direccionals. La densitat i l'orientació han de correspondre a la planta.
+- **Herbes i plantes herbàcies:** distingir tiges, fulles allargades, agrupacions basals, espigues i fulles corbades o seques. La direcció de creixement és essencial.
+- **Molsa:** pot formar coixins, coixinets, tapissos o agrupacions irregulars que segueixen el suport. Cal representar-ne la densitat i el relleu, no una taca verda uniforme.
+- **Líquens:** no són plantes en sentit estricte, sinó associacions entre un fong i un organisme fotosintètic, habitualment una alga o cianobacteri. Es consideren aquí per la seva presència sobre roques, escorces i altres suports. Poden ser crustacis (adherits i plans), foliàcis (amb lòbuls), fruticulosos (ramificats o penjants) o esquamulosos (amb petites escates).
+- **Matèria vegetal seca:** fulles caigudes, herbes marcides, tiges i espigues. Pot conservar verds residuals, grocs, ocres, rogencs i marrons; no s'ha de reduir a una massa marró uniforme.
+
+## 21.3. Paleta de referència
+
+| Pintura | Referència | Funció orientativa |
+|---|---:|---|
+| Yellow Green | 70.954 | Verds groguencs |
+| Lime Green | 70.827 | Verds vius i lluminosos |
+| Scorpy Green | 72.032 | Accents intensos |
+| Cayman Green | 72.067 | Verds mitjans i naturals |
+| Dark Green | 72.028 | Verds profunds |
+| Snake Green | 72.417 | Variacions verdes |
+| Blue Green | 70.808 | Tendències fredes |
+| Turquoise | 72.024 | Variacions fredes i blavoses |
+| Dark Sea Blue | 70.898 | Profunditat i refredament |
+| Ice Yellow | 70.858 | Aclarits groguencs |
+| Ivory | 70.918 | Aclarits neutres |
+| Deck Tan | 70.986 | Tons apagats |
+| Japanese Uniform WWII | 70.923 | Variacions terroses |
+| Parasite Brown | 72.042 | Tons càlids i marrons |
+| Burnt Red | 70.814 | Variacions rogenques |
+| Dark Rust | 70.771 | Tons foscos i restes vegetals |
+| Sepia Ink | 72.091 | Modificació cromàtica local |
+| Black | 70.950 | Profunditat tonal |
+
+Les funcions són orientatives i no atribueixen propietats tècniques no verificades. Les combinacions són propostes cromàtiques, no proves físiques ni formulacions amb proporcions universals. Cal seleccionar els colors segons el tipus de vegetació i la referència: verd fresc, intens, fosc, apagat, molsa o vegetació seca.
+
+## 21.4. Fullatge de fulla ampla i vegetació arbustiva
+
+**Combinació A · Fullatge verd mitjà**
+- Base: Cayman Green.
+- Variació càlida: Yellow Green.
+- Zones fosques: Dark Green.
+- Aclarits: mescla proposada de Cayman Green i Ivory.
+- Accents: Lime Green, selectivament.
+
+**Combinació B · Vegetació jove i lluminosa**
+- Base: Yellow Green.
+- Variació: Cayman Green.
+- Zones profundes: Dark Green.
+- Aclarits: Ice Yellow amb Yellow Green.
+- Accents: Lime Green.
+
+**Combinació C · Vegetació densa i d'ombra**
+- Base: Dark Green.
+- Variació freda: Blue Green.
+- Zones profundes: Dark Green modificat amb Dark Sea Blue.
+- Tons mitjans: Cayman Green.
+- Accents: Yellow Green o Lime Green en zones petites.
+
+**Construcció:** establir la massa general; diferenciar agrupacions; enfosquir zones interiors i denses; aclarir les parts exposades; afegir petits accents que suggereixin fulles o grups il·luminats. En fulles amples cal suggerir plans i agrupacions; en fulles petites, la distribució de masses és més important que el contorn individual. Conservar buits i separacions en vegetació dispersa.
+
+## 21.5. Coníferes i vegetació de fulla estreta
+
+**Combinació D · Fullatge de conífera**
+- Base: Dark Green.
+- Variació: Cayman Green.
+- Zones fosques: mescla proposada de Dark Green i Dark Sea Blue.
+- Aclarits: Blue Green o Cayman Green.
+- Accents: Yellow Green en petites agrupacions.
+
+**Combinació E · Conífera jove o lluminosa**
+- Base: Cayman Green.
+- Variació: Yellow Green.
+- Zones fosques: Dark Green.
+- Aclarits: Lime Green.
+- Accents: Ice Yellow amb Yellow Green.
+
+**Construcció:** definir la forma general de la capçada; establir ombres i zones exposades; marcar les agrupacions de branques amb traços direccionals; diferenciar plans exteriors i interiors; afegir variacions de verd. Treballar en dos nivells —branques principals i agrupacions de fulles— en lloc de distribuir línies aïllades. La longitud, densitat i orientació varien segons la planta.
+
+## 21.6. Herbes, gramínies i plantes herbàcies
+
+**Combinació F · Herba verda**
+- Base: Cayman Green.
+- Variació: Yellow Green.
+- Zones fosques: Dark Green.
+- Aclarits: Lime Green.
+- Accents: Ice Yellow amb Yellow Green.
+
+**Construcció:** establir la massa general; diferenciar grups de fulles; afegir traços allargats en la direcció de creixement; enfosquir bases i zones interiors; aclarir algunes fulles. Variar altura, curvatura, densitat i orientació: tiges idèntiques i equidistants semblen artificials. En gramínies, distingir tiges principals, fulles estretes, espigues i fulles inclinades. En plantes de fulla ampla, adaptar la distribució a cada làmina i mantenir la relació entre tija i fulla.
+
+## 21.7. Molsa
+
+**Combinació G · Molsa verda natural**
+- Base: Cayman Green.
+- Variació groguenca: Yellow Green.
+- Zones fosques: Dark Green.
+- Aclarits: Lime Green.
+- Accents: Ice Yellow amb Yellow Green.
+
+**Combinació H · Molsa fosca i humida**
+- Base: Dark Green.
+- Variació freda: Blue Green.
+- Profunditat: Dark Green amb Dark Sea Blue.
+- Tons mitjans: Cayman Green.
+- Accents: Yellow Green, en zones petites.
+
+**Combinació I · Molsa envellida o seca**
+- Base: Cayman Green.
+- Variació apagada: mescla proposada de Cayman Green i Deck Tan.
+- Zones fosques: Dark Green.
+- Aclarits: Deck Tan i Ivory.
+- Accents càlids: Japanese Uniform WWII.
+
+**Construcció:** establir la forma de la coberta seguint les irregularitats del suport; diferenciar densitats amb tons foscos; introduir agrupacions groguenques; afegir marques o punts irregulars. Els coixins compactes poden suggerir-se amb agrupacions arrodonides; els tapissos, amb una distribució baixa i contínua; els creixements irregulars, amb buits i densitats variables. El pinzell sec, el puntejat i l'esponjat són recursos possibles segons el relleu i l'escala (capítol 13). La humitat no s'expressa només enfosquint: també intervenen la llum i l'acabat superficial (capítol 37).
+
+## 21.8. Líquens
+
+**Combinació J · Liquen groc verdós, crustaci**
+- Base: Yellow Green.
+- Variació: Lime Green.
+- Zones apagades: mescla proposada de Yellow Green i Deck Tan.
+- Accents: Ice Yellow.
+- Separacions profundes: Dark Green, localitzat.
+
+**Combinació K · Liquen verd apagat, foliaci**
+- Base: Cayman Green.
+- Variació: Blue Green.
+- Zones fosques: Dark Green.
+- Aclarits: Deck Tan amb Yellow Green.
+- Accents: Lime Green, en zones petites.
+
+**Combinació L · Liquen clar, fruticulós**
+- Base: Deck Tan.
+- Variació: Ivory.
+- Ombres: Japanese Uniform WWII.
+- Accents: Ice Yellow.
+- Zones profundes: mescla proposada de Japanese Uniform WWII i Dark Green, si la referència és verdosa.
+
+La forma de creixement és prioritària: els crustacis s'adhereixen al suport amb vores irregulars; els foliàcis es poden suggerir amb lòbuls superposats; els fruticulosos necessiten ramificacions fines amb una direcció coherent. No s'han de convertir en cercles regulars o simples taques. Molsa i líquens s'han de diferenciar per forma, relleu, distribució de marques, continuïtat i color. No tots els líquens són clars ni tota la molsa és verda.
+
+## 21.9. Vegetació de tardor, seca i deteriorada
+
+**Combinació M · Fulla groga**
+- Base: Sun Yellow.
+- Variació: Moon Yellow.
+- Zones fosques: Japanese Uniform WWII.
+- Accents: Ice Yellow.
+- Ombres profundes: Parasite Brown.
+
+**Combinació N · Fulla rogenca**
+- Base: Parasite Brown.
+- Variació: Burnt Red.
+- Zones profundes: Dark Rust.
+- Aclarits: Sun Yellow o Ice Yellow, segons l'efecte buscat.
+
+**Combinació O · Fulla marró**
+- Base: Japanese Uniform WWII.
+- Variació: Parasite Brown.
+- Zones fosques: Dark Rust.
+- Aclarits: Deck Tan.
+- Accents: Ivory, puntualment.
+
+**Combinació P · Herba seca i tiges marcides**
+- Base: Japanese Uniform WWII.
+- Variació: Parasite Brown.
+- Zones fosques: Dark Rust.
+- Aclarits: Deck Tan.
+- Accents: Ice Yellow o Ivory.
+
+Per a l'herba seca, diferenciar tiges i fulles, enfosquir les bases i les zones d'acumulació, aclarir extrems exposats i conservar verds residuals si la planta és parcialment marcida. Les fulles caigudes poden representar-se amb formes planes, fragments irregulars i agrupacions superposades, variant mida, orientació, vores i color. Cal distingir-les de la terra i la brutícia acumulades entre elles (capítol 29).
+
+## 21.10. Adaptació, control i errors
+
+A escala petita cal prioritzar la massa general, la direcció de creixement i els detalls rellevants; a escales més grans es poden diferenciar formes, mides, tiges i ramificacions. Quan conviuen diversos tipus de vegetació, cadascun ha de mantenir la seva identitat, però integrar-se cromàticament amb l'entorn. No cal utilitzar el mateix verd: la coherència pot provenir de relacions de valor, temperatura i croma i de la repetició selectiva d'alguns tons.
+
+Errors i correccions:
+- **Vegetació uniforme:** introduir agrupacions, variacions de valor i colors secundaris.
+- **Excés de verds intensos:** reservar-los per als accents i incorporar tons de croma inferior.
+- **Fullatge sense estructura:** reconstruir la massa i orientar les marques segons les branques.
+- **Coníferes amb línies aleatòries:** definir primer la capçada i després les agrupacions direccionals.
+- **Herba regular:** variar alçades, curvatures, densitats i direccions.
+- **Molsa plana:** introduir agrupacions, densitats, relleu i variacions cromàtiques.
+- **Líquens com a taques:** representar-ne costres, lòbuls o ramificacions.
+- **Vegetació seca completament marró:** combinar grocs, ocres, marrons i verds residuals.
+- **Excés de detall:** reduir marques secundàries i recuperar la jerarquia de masses.
+- **Vegetació desconnectada del suport:** adaptar direcció, distribució i densitat a la superfície.
+
+L'avaluació ha de comprovar que el tipus de vegetació es reconeix, que el creixement i la textura són coherents, que la llum i les variacions cromàtiques estan diferenciades, que el detall correspon a l'escala i que els elements s'integren amb el suport i l'entorn.
+
+## 21.11. Exercicis pràctics
+
+1. **Comparació de fullatge:** representar tres agrupacions amb les combinacions A, B i C; comparar valor, temperatura, intensitat i lectura de massa.
+2. **Conífera:** construir una capçada amb la combinació D, començant per la forma general i afegint agrupacions direccionals.
+3. **Herba i gramínies:** utilitzar F i variar altura, direcció i densitat dels tiges; comparar una distribució regular amb una irregular.
+4. **Molsa i líquens:** representar una superfície de molsa i una altra amb líquens crustacis; comparar continuïtat, relleu, marques i color.
+5. **Vegetació seca:** utilitzar P i diferenciar tiges, fulles i extrems secs amb variacions de valor i color.
+6. **Fulles de tardor:** construir agrupacions amb M, N i O i variar els tons dins de cada grup.
+7. **Exercici integrador:** crear una base natural amb herba, fullatge arbustiu, molsa, líquens sobre una superfície mineral o llenyosa i restes vegetals seques.
+
+## Síntesi del capítol
+
+La vegetació s'ha de representar a partir de l'estructura i la forma de creixement de cada element, no mitjançant una recepta verda comuna. Fullatge, coníferes, herbes, molsa, líquens i restes vegetals seques exigeixen patrons, textures i distribucions cromàtiques diferenciats. Les setze combinacions A–P són propostes adaptables a la referència i l'escala, no resultats comprovats. La lectura general i la relació amb el suport tenen prioritat sobre l'acumulació de detalls.
+
+## Figures proposades per a la fase gràfica final
+
+1. Comparació entre fullatge de fulla ampla, coníferes, herbes, molsa i líquens.
+2. Morfologia de fulles simples i compostes, vores i nerviació.
+3. Agrupacions, densitat, buits i superposició del fullatge.
+4. Comparació cromàtica de verds frescos, mitjans, foscos i apagats.
+5. Direcció de branques i agrupacions aciculars.
+6. Tiges, fulles, espigues i direcció de les gramínies.
+7. Coixins, coixinets i tapissos de molsa.
+8. Formes crustàcia, foliàcia i fruticulosa dels líquens.
+9. Fulles de tardor i vegetació seca.
+10. Integració de vegetació variada en una base.
+
+## Registre editorial
+
+- Estructura: onze apartats, síntesi i set exercicis.
+- Receptes: setze combinacions (A–P).
+- Precisió conceptual: els líquens no són plantes; molsa i líquens tenen formes de creixement diferents.
+- Delimitacions: fusta al capítol 20; terra i dipòsits al 29; envelliment i desgast al 36; integració ambiental al 35.
+- Estat: síntesi basada en el document original. Les combinacions cromàtiques no s'han assajat físicament.

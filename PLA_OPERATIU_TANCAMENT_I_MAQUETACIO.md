@@ -126,3 +126,12 @@ El coteig detallat de les P1 s'ha completat per a les tandes C1–C3, C4–C7/C1
 
 El recompte actual és de 156 P1, 84 P2 i 3 P3, però no representa el nombre final d'imatges: cal resoldre les fusions, evitar duplicacions entre capítols i establir quines P2 aporten una funció real. El següent treball és depurar i traduir al català les propostes seleccionades, redactar especificacions completes i crear la llista definitiva de producció abans de tancar F10. F11 continua bloquejada fins que aquesta selecció estigui tancada.
 
+
+
+## 11. Desenvolupament de les especificacions gràfiques — 05/11/2026
+
+S'ha ampliat `annexos/llista_preliminar_produccio_grafica_F10.md` amb 58 especificacions preliminars corresponents als identificadors P1 de C15–C24, a partir del coteig lector ja registrat a l'apartat 13 del registre F10. S'hi han traslladat les ubicacions corregides i les condicions tècniques, incloses les receptes no assajades i les figures que requereixen referències o proves reals.
+
+La proposta 20.2 queda plantejada com a panell de 20.1, no com a figura independent. També s'han marcat decisions de composició pendents a C15, C17 i C24. No s'han generat imatges, modificat capítols ni alterat la branca `main`.
+
+**Estat F10:** el coteig detallat de P1 està complet per a totes les tandes; la primera especificació de producció cobreix C1–C7/C11 i C15–C24. La següent tasca és completar les especificacions C30–C39, i després fer una passada única de normalització de les descripcions originals, llegendes, fusions i numeració per construir la llista definitiva de producció. F11 continua bloquejada fins a tancar aquesta llista.

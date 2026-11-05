@@ -1201,3 +1201,11 @@ S'estableix com a pla operatiu vigent `PLA_OPERATIU_TANCAMENT_I_MAQUETACIO.md`. 
 - Es manté la protecció de `main`, de la versió publicada i dels 39 capítols aprovats.
 
 La següent tasca material és regenerar l'Annex A, no produir ni seleccionar imatges.
+
+
+## Progrés de regeneració dels annexos — 05/11/2026
+
+- **Annex A:** primera reconstrucció publicada a `annexos/annex-a.md`. Control estructural: 48 entrades consecutives, 48 referències úniques i 12 per cadascun dels quatre sets. La composició per referències s'ha contrastat amb el catàleg oficial Vallejo 2026. La versió anterior s'ha conservat a `annexos/historic/annex-a-auditoria-anterior-2026-11-05.md`.
+- S'ha creat `annexos/registre_regeneracio_A-E.md` per registrar fonts, decisions i controls de cada annex.
+- La regeneració d'A no tanca F5: caldrà fer-ne el control transversal amb els capítols i regenerar B, C, D i E.
+- **Següent tasca:** iniciar la reconstrucció de l'Annex B, després de mantenir A com a versió de treball subjecta a F6/F8.

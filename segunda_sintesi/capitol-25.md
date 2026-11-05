@@ -128,7 +128,7 @@ Errors que cal evitar:
 - Enfosquir totes les cavitats amb negre: reservar-lo per a profunditats puntuals.
 - Confondre astes i banyes: distingir l'asta òssia de la beina queratínica.
 - Exagerar les estries: variar-ne longitud, separació, intensitat i continuïtat.
-- Aplicar transicions idèntiques a totes les garrres i banyes: adaptar-les a la forma, el material i la referència visual.
+- Aplicar transicions idèntiques a totes les urpes i banyes: adaptar-les a la forma, el material i la referència visual.
 - Representar totes les superfícies com a llises: introduir textures localitzades i proporcionades per diferenciar os compacte, os porós i queratina amb estries.
 - Confondre brutícia i envelliment: separar alteracions del material i dipòsits externs.
 - Exagerar el desgast fins a fer irreconeixible l'estructura.
@@ -202,7 +202,7 @@ Errors que cal evitar:
 
 **Avaluació:** comprovar que les estructures es diferencien tant per la geometria com per l'aparença superficial.
 
-### Exercici 5. Construcció de garrres i peülles
+### Exercici 5. Construcció de urpes i peülles
 
 **Objectiu:** representar dues estructures queratíniques amb geometries diferents.
 

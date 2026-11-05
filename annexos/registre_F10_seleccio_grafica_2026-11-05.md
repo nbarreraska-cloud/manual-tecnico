@@ -287,3 +287,142 @@ Les 90 propostes addicionals de C15–C24 no provenen del Word original: es van 
 5. Els exemples de pell, vegetació, fusta, cuir i teixits han de respectar l'estructura i la morfologia descrites al capítol; no s'han de generar detalls anatòmics o botànics decoratius sense fonament.
 
 **Resultat de la tercera tanda:** contrastades les 90 propostes de C15–C24 amb l'estructura i el contingut dels capítols consolidats. Es mantenen les prioritats P1 com a candidates, amb fusions i condicions per a les P2. No s'ha produït cap imatge ni modificat cap capítol. La següent tanda és C30–C39.
+
+
+## 10. Quarta tanda de validació — C30–C39
+
+### C30 — Foc, fum i combustió
+
+| Identificador | Prioritat inicial | Decisió F10 | Justificació i condicions |
+|---|---|---|---|
+| 30.1 — Estructura visual d'una flama | P1 | **Mantenir P1** | Distingir nucli, regió intermèdia, zona exterior i base com a esquema cromàtic orientatiu, no com a estructura física universal. |
+| 30.3 — Planificació cromàtica del foc | P1 | **Mantenir P1** | Mostrar la jerarquia de valors i colors sense convertir-la en una recepta universal ni en una escala fixa de temperatura. |
+| 30.4 — Construcció pictòrica d'una flama | P1 | **Mantenir P1** | Seqüència didàctica de la recepta A. No presentar-la com a resultat experimental si no hi ha una prova real documentada. |
+| 30.8 — Integració de foc, fum i material carbonitzat | P1 | **Mantenir P1** | Escena integradora que relaciona els efectes del capítol. No incorporar OSL ni efectes sobrenaturals que pertanyen a altres capítols. |
+| 30.2, 30.5, 30.6 i 30.7 | P2 | **Mantenir P2; fusionables** | La comparació foc/brases, estats de les brases, densitat del fum i cendres pot quedar en panells de 30.1, 30.3 o 30.8. Evitar figures independents que repeteixin la mateixa paleta. |
+
+### C31 — Sang i fluids orgànics
+
+| Identificador | Prioritat inicial | Decisió F10 | Justificació i condicions |
+|---|---|---|---|
+| 31.1 — Estats visuals de la sang | P1 | **Mantenir P1** | Comparar sang fresca, acumulada/coagulada i seca per color, distribució, volum i acabat. No convertir la comparació en una escala cronològica universal. |
+| 31.2 — Sang i altres fluids | P1 | **Mantenir P1** | Distingir cobertura, volum, transparència i distribució. La figura és pictòrica, no una classificació mèdica ni una afirmació sobre fluids biològics reals. |
+| 31.3 — Distribució sobre geometries | P1 | **Mantenir P1** | Comparar superfícies horitzontals, verticals, inclinades i corbes; els recorreguts han de respondre a la gravetat i la geometria representades. |
+| 31.4 — Construcció de sang fresca | P1 | **Mantenir P1** | Seqüència de base, variacions i acabat humit. Diferenciar una pel·lícula fina d'una gota o acumulació. |
+| 31.5 — Construcció de sang seca | P1 | **Mantenir P1** | Seqüència cromàtica i de contorns; identificar-la com a proposta didàctica i no com a recepta experimental validada. |
+| 31.8 — Errors freqüents | P1 | **Mantenir P1** | Útil com a diagnòstic si cada exemple s'associa a un criteri de correcció concret i no es redueix a una llista decorativa. |
+| 31.6 i 31.7 | P2 | **Mantenir P2; fusionar si escau** | Salpicadures, rastres i fluids aquosos/turbis/viscosos es poden integrar en 31.2/31.3. No produir dos panells que comparin exactament les mateixes propietats. |
+
+### C32 — Màgia i energia
+
+| Identificador | Prioritat inicial | Decisió F10 | Justificació i condicions |
+|---|---|---|---|
+| 32.2 — Jerarquia visual d'una manifestació energètica | P1 | **Mantenir P1** | Mostra forma principal, intensitats i elements secundaris. Evitar una distribució universal de valors. |
+| 32.3 — Fluorescència, color convencional i aparença lluminosa | P1 | **Mantenir P1** | Diferenciar propietat fluorescent del pigment i aparença d'emissió simulada pictòricament. Remetre a C3 i C17 quan pertoqui. |
+| 32.4 — Construcció d'una esfera d'energia | P1 | **Mantenir P1** | Seqüència de forma, organització cromàtica, intensificació i detalls; no afegir procediments no descrits. |
+| 32.5 — Estructura d'una descàrrega | P1 | **Mantenir P1** | Representar recorregut principal, ramificacions i intensitats sense simetria o repetició artificials. |
+| 32.8 — Font energètica i il·luminació projectada | P1 | **Mantenir P1** | Distingir font, aparença d'emissió i superfície receptora. Remissió explícita a C17 per al procediment OSL. |
+| 32.1, 32.6 i 32.7 | P2 | **Mantenir P2; fusionables** | Famílies d'efectes, runes i portals són exemples complementaris. Es poden integrar en una làmina de tipologies o en 32.2/32.4; no produir per completar una sèrie. |
+
+### C33 — Ceràmica, porcellana i plàstics
+
+| Identificador | Prioritat inicial | Decisió F10 | Justificació i condicions |
+|---|---|---|---|
+| 33.1 — Comparació de cossos ceràmics | P1 | **Mantenir P1** | Distingir ceràmica porosa, compacta i porcellana per estructura i aparença, no només per brillantor. |
+| 33.2 — Ceràmica sense esmaltar i esmaltada | P1 | **Mantenir P1** | Comparar l'efecte del recobriment sobre continuïtat, textura i aparença. No confondre esmalt ceràmic amb vernís de miniatures. |
+| 33.5 — Construcció de terracota | P1 | **Mantenir P1** | Seqüència cromàtica específica, diferenciada d'una textura de pedra. |
+| 33.6 — Construcció d'un esmalt acolorit | P1 | **Mantenir P1** | Diferenciar color de l'esmalt i acabat superficial; organitzar els reflexos segons la geometria. |
+| 33.7 — Craquelat i pèrdua localitzada de l'esmalt | P1 | **Mantenir P1** | Distingir fissures superficials de fractures del cos ceràmic. |
+| 33.9 — Reflexos sobre plàstics | P1 | **Mantenir P1** | Comparar geometries planes, corbes i amb relleu; no presentar el plàstic com un material amb una única resposta òptica. |
+| 33.3, 33.4, 33.8 i 33.10 | P2 | **Mantenir P2; fusionar 33.8 + 33.10** | Acabats, porcellana blanca/marfil i famílies de plàstics poden integrar-se en les figures principals. La comparació final d'errors no necessita una làmina independent si es resol amb 33.8 i el text. |
+
+### C34 — Vidre
+
+| Identificador | Prioritat inicial | Decisió F10 | Justificació i condicions |
+|---|---|---|---|
+| 34.1 — Tipus de vidre | P1 | **Mantenir P1** | Comparar vidre transparent incolor, acolorit i esmerilat a partir de la informació que transmeten del fons. |
+| 34.2 — Senyals visuals del vidre | P1 | **Mantenir P1** | Integrar vores, reflexos, fons transmès, gruix i distorsió sense convertir la figura en una col·lecció de línies blanques. |
+| 34.3 — Panell de vidre transparent | P1 | **Mantenir P1; integrar-hi 34.4 (P3)** | El panell pla pot incorporar un subpanell de recipient corb per mostrar com canvien vores i reflexos amb la geometria. Si la lectura es compromet, revalorar 34.4 com a P2; no eliminar la diferència geomètrica. |
+| 34.5 — Vidre acolorit | P1 | **Mantenir P1** | Comparació de vidres acolorits que conservin els senyals de transparència. No representar-los com a superfícies opaques uniformes. |
+| 34.7 — Vidre transparent i esmerilat | P1 | **Mantenir P1** | La mateixa escena vista a través de dos materials mostra la diferència entre transmissió definida i dispersa. |
+| 34.9 — Esquerdes i fragments | P1 | **Mantenir P1** | Diferenciar fissures, fractures i fragments, respectant els reflexos i les vores de cada peça. |
+| 34.6, 34.8 i 34.10 | P2 | **Mantenir P2; fusionables** | Vitralls, textures gravades i errors poden integrar-se a 34.1, 34.2 o 34.9 quan afegeixin informació real. |
+| 34.4 — Recipient de vidre transparent | P3 | **Mantenir P3 com a fusió** | Incorporar la geometria corba i la distorsió al subpanell de 34.3; preservar-ne la informació sense producció autònoma. |
+
+### C35 — Harmonització i integració cromàtica
+
+| Identificador | Prioritat inicial | Decisió F10 | Justificació i condicions |
+|---|---|---|---|
+| 35.1 — Anàlisi cromàtica global | P1 | **Mantenir P1** | Identificar dominants, secundaris i accents abans d'intervenir. |
+| 35.2 — Distribució de masses cromàtiques | P1 | **Mantenir P1** | Diferenciar extensió d'un color i importància visual; no confondre superfície ocupada amb jerarquia perceptiva. |
+| 35.4 — Harmonització i uniformitat | P1 | **Mantenir P1** | Comparar unitat cromàtica amb pèrdua d'identitat material per modificació massa uniforme. |
+| 35.5 — Integració entre materials | P1 | **Mantenir P1** | Mostrar relacions cromàtiques compartides sense esborrar les diferències entre materials. |
+| 35.6 — Integració de figura i peanya | P1 | **Mantenir P1** | Aporta una lectura compositiva del conjunt; no imposar una paleta o relació universal. |
+| 35.8 — Correccions localitzades i globals | P1 | **Mantenir P1** | Diferenciar l'abast de la intervenció i el risc d'alterar zones que ja funcionen. |
+| 35.9 — Seqüència d'harmonització | P1 | **Mantenir P1; integrar-hi 35.10 (P3)** | El flux d'anàlisi, objectius, selecció, intervenció i avaluació pot incorporar exemples d'errors com a panell final. |
+| 35.3 i 35.7 | P2 | **Mantenir P2; fusionables** | Repetició/variació cromàtica i influències ambientals poden quedar com a subpanells de 35.4–35.6 si no es repeteix la informació. |
+| 35.10 — Resultat integrat i errors freqüents | P3 | **Mantenir P3 com a fusió** | Integrar els errors i el resultat coherent en 35.9, preservant les comparacions útils. |
+
+### C36 — Envelliment, desgast i deteriorament
+
+| Identificador | Prioritat inicial | Decisió F10 | Justificació i condicions |
+|---|---|---|---|
+| 36.1 — Envelliment, desgast i deteriorament | P1 | **Mantenir P1** | Diferenciar els tres conceptes amb superfícies comparables i causes diferenciades. |
+| 36.2 — Distribució del desgast segons geometria i ús | P1 | **Mantenir P1** | Relacionar les alteracions amb zones de contacte, vores exposades i superfícies protegides; no aplicar patrons uniformes. |
+| 36.3 — Abrasió, fregadures i ratllades | P1 | **Mantenir P1** | Comparació útil de fenòmens diferents, amb marques i efectes visualment diferenciats. |
+| 36.4 — Impactes i danys localitzats | P1 | **Mantenir P1** | Mostrar variació de profunditat i forma segons geometria; no presentar totes les marques com a pèrdues de pintura. |
+| 36.5 — Capes i pèrdua de recobriment | P1 | **Mantenir P1** | Secció simplificada per distingir suport, capes intermèdies i recobriment. No inventar una estratigrafia universal. |
+| 36.6 — Desconxats petits i pèrdues extenses | P1 | **Mantenir P1** | Comparar extensió, densitat i materials exposats, diferenciant escala i distribució. |
+| 36.8 — Desgast en diferents materials | P1 | **Mantenir P1** | Cada material ha de mostrar alteracions coherents amb la seva naturalesa; evitar un patró únic aplicat a metall, fusta, cuir i teixit. |
+| 36.9 — Seqüència de construcció d'una superfície desgastada | P1 | **Mantenir P1** | Seqüència integradora amb planificació, pèrdua de recobriment, marques i avaluació. No s'ha de presentar com un resultat físic real si és una il·lustració digital. |
+| 36.7 i 36.10 | P2 | **Mantenir P2; fusionables** | Alteracions ambientals i estats de conservació poden integrar-se a 36.1/36.2/36.9; no produir una comparació final redundant. |
+
+### C37 — Acabats superficials
+
+| Identificador | Prioritat inicial | Decisió F10 | Justificació i condicions |
+|---|---|---|---|
+| 37.2 — Reflexió especular i més difusa | P1 | **Mantenir P1** | Explicar distribucions de reflexió sense identificar reflexió difusa amb absència de reflexió. Delimitar-la respecte de C5 i C6. |
+| 37.3 — Orientació i il·luminació en la brillantor percebuda | P1 | **Mantenir P1** | Mostrar que la percepció depèn de la posició de la llum i de l'observador, no només del producte aplicat. |
+| 37.4 — Acabat, textura i distribució dels reflexos | P1 | **Mantenir P1** | Comparar variables sense presentar la rugositat com l'única causa de qualsevol diferència de brillantor. |
+| 37.6 — Selecció de l'acabat segons materials i efectes | P1 | **Mantenir P1** | Els exemples són orientatius (tela, cuir, metall, vidre, fusta i roca), no regles universals. |
+| 37.7 — Diferenciació de materials mitjançant acabats selectius | P1 | **Mantenir P1** | Mostrar com l'acabat contribueix a identificar materials diferents dins una mateixa miniatura. |
+| 37.8 — Distribució localitzada de la brillantor | P1 | **Mantenir P1** | Comparar zones mates, satinades i brillants dins una superfície, sense suggerir que tots els materials admeten qualsevol acabat. |
+| 37.9 — Seqüència d'anàlisi i selecció | P1 | **Mantenir P1** | Recurs de decisió operativa, vinculat a l'objectiu i a la comprovació del resultat. |
+| 37.10 — Errors i resultats corregits | P1 | **Mantenir P1** | Comparació diagnòstica; no presentar un resultat corregit com a prova real si no hi ha fotografia documentada. |
+| 37.1 i 37.5 | P2 | **Mantenir P2; fusionar-les** | Les dues comparen mat, setinat i brillant. Fer una sola figura amb una mateixa superfície cromàtica i condicions d'il·luminació constants. |
+
+### C38 — Protecció i conservació
+
+| Identificador | Prioritat inicial | Decisió F10 | Justificació i condicions |
+|---|---|---|---|
+| 38.2 — Assecat superficial, al tacte i estabilització | P1 | **Mantenir P1** | Esquema de fases de formació de pel·lícula; no incloure temps universals ni confondre tacte sec amb estabilització completa. |
+| 38.4 — Selecció del sistema segons l'ús | P1 | **Mantenir P1** | Comparar exposició, joc/manipulació i elements delicats segons necessitats de protecció, no com a jerarquia absoluta de productes. |
+| 38.5 — Preparació i inspecció | P1 | **Mantenir P1** | Seqüència de comprovació, neteja, zones sensibles i compatibilitat. No presentar una prova no realitzada com a resultat. |
+| 38.6 — Aplicació amb pinzell, aerògraf i aerosol | P1 | **Mantenir P1** | Comparar procediments sense incorporar pressions, distàncies o proporcions universals. |
+| 38.7 — Distribució i acumulació excessiva | P1 | **Mantenir P1** | Mostrar la diferència entre una pel·lícula controlada i acumulacions, amb atenció a cavitats i detalls. |
+| 38.8 — Alteracions per incompatibilitat o aplicació incorrecta | P1 | **Mantenir P1** | Incloure turbidesa, canvis de brillantor i pèrdua de definició, sense atribuir una causa única a cada defecte quan hi ha variables múltiples. |
+| 38.10 — Seqüència integral de protecció i conservació | P1 | **Mantenir P1** | Recurs integrador des de l'avaluació fins a la conservació i revisió. |
+| 38.1, 38.3 i 38.9 | P2 | **Mantenir P2; fusionables** | La secció de capes protectores pot integrar-se a 38.2; famílies de productes a 38.4/38.6; manipulació i transport a 38.10. No comparar marques ni productes concrets sense dades o proves. |
+
+### C39 — Diagnòstic i correcció
+
+| Identificador | Prioritat inicial | Decisió F10 | Justificació i condicions |
+|---|---|---|---|
+| 39.1 — Seqüència general de diagnòstic | P1 | **Mantenir P1** | Mostrar observació, símptoma, causes possibles, intervenció i avaluació. Cal preservar la pluralitat de causes. |
+| 39.2 — Símptoma, causa i correcció | P1 | **Mantenir P1** | Comparar una mateixa alteració amb causes diferents i intervencions possibles. No suggerir una correspondència unívoca. |
+| 39.3 — Inspecció d'una miniatura | P1 | **Mantenir P1** | Comparar observació general, inspecció propera i il·luminació lateral, sense convertir-ho en un protocol instrumental. |
+| 39.4 — Classificació de problemes | P1 | **Mantenir P1** | Mapa de categories coherent amb les seccions del capítol; evitar categories duplicades o omissions. |
+| 39.5 — Nivells d'intervenció | P1 | **Mantenir P1; integrar-hi 39.6 (P2)** | Mostrar ajust local, integració, reconstrucció parcial i recuperació general, amb una comparació de correcció localitzada/extensa. |
+| 39.7 — Prevenció i registre del procés | P1 | **Mantenir P1** | La traçabilitat de les decisions és una part operativa del diagnòstic i correcció. |
+| 39.10 — Arbre de decisió per corregir o conservar | P1 | **Mantenir P1** | Eina de consulta que ha de distingir intervenir, integrar, reconstruir, recuperar o mantenir; no substituir el diagnòstic previ. |
+| 39.6, 39.8 i 39.9 | P2 | **Mantenir P2; fusionables** | La correcció local/global s'integra a 39.5; l'avaluació i el registre es poden incorporar a 39.1/39.7. No crear fitxes redundants. |
+
+## 11. Controls transversals de la quarta tanda
+
+1. Les descripcions originals de C30–C39 es conserven majoritàriament en castellà. Abans de la producció cal traduir-les al català amb revisió terminològica, sense alterar el sentit tècnic.
+2. Les imatges de sang, fluids, foc, fusta cremada, vidre trencat, desgast i acabats són esquemes didàctics si no hi ha mostres físiques documentades; no s'han de presentar com a proves o fotografies reals.
+3. Les figures compostes han de preservar les diferències materials i procedimentals; la fusió no és una excusa per ometre passos.
+4. Les figures de diagnòstic han de representar causes possibles i decisions condicionals, no receptes universals.
+5. Cal revisar la correspondència de la numeració interna amb la numeració editorial final després de les fusions P3 i les decisions de P2.
+
+**Resultat de la quarta tanda:** contrastades les propostes de C30–C39 amb els capítols consolidats i les descripcions del registre gràfic. Les P1 es mantenen com a candidates amb condicions; les fusions P3 es preserven i les P2 continuen condicionades a l'aportació didàctica. No s'ha produït cap imatge ni modificat cap capítol.

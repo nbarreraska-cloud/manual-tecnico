@@ -48,7 +48,6 @@ La selecció per a un procediment concret ha de considerar la superfície, el fo
 - **Caracterització tècnica individual:** incompleta quan no hi ha dades específiques del fabricant.
 - **Aplicacions del manual:** traçades a les files de taula indicades, sense atribuir validació experimental.
 - **Proves físiques pròpies:** no documentades en aquesta fitxa.
-- **Estat editorial:** fitxa regenerada documentalment el 05/11/2026; pendent d'ampliació si s'aporten fitxes tècniques individuals del fabricant o resultats de proves físiques.
 
 ## 7. Fonts
 

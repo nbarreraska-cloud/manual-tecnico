@@ -88,3 +88,8 @@ La ubicació de la matriu i de la fitxa F10 s'havia quedat a 6.4. El coteig del 
 La traçabilitat global està verificada. Les discrepàncies 5.3 i 6.2 s'han resolt documentalment. La classificació E1/E2 i les remissions creuades queden explicitades. Encara falta la revisió individual de les 116 fórmules provisionals de les tandes 02 i 03 i la validació contextual final de totes les remissions abans de tocar el manual lector.
 
 No s'han generat ni inserit imatges. No s'ha modificat la compilació consolidada ni la branca `main`.
+
+
+### Figura 39.6 — ancoratge contextual corregit
+
+La fitxa i la matriu situaven aquesta figura a 39.7, però aquest apartat del manual tracta de prevenció i registre del procés. La composició mostra indicis superficials (acumulació, textura irregular, pèrdua d'adherència i alteració de brillantor), que el manual enumera a 39.2.3 durant la comprovació de l'estat de la superfície. S'ha corregit la ubicació a **39.2.3**, abans de formular causes possibles. La fitxa F10, la matriu de traçabilitat i la tanda 03 ja reflecteixen aquesta correcció.

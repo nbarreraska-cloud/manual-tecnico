@@ -614,7 +614,9 @@ La segona síntesi de referència està formada per **dos fitxers** que contenen
 - **F2 — Registre Mestre:** consolidat fins a la versió 1.17; es manté la conciliació fina de la traçabilitat.
 - **F3 — aplicació de les recuperacions identificades:** completada per a les accions RT/RD/AE de la matriu; no equival a validació.
 - **F4 — validació tècnica, semàntica i estructural:** en curs.
-- **F5 — annexos A–E; F6 — coherència global; F7 — gràfica i maquetació:** pendents i en l'ordre acordat.
+- **F5 — annexos A–E:** pendent, segons l'ordre acordat.
+- **F6 — coherència global:** completada el 05/11/2026; tancada després de la passada transversal C1–C39. No equival a validació experimental.
+- **F7 — gràfica i maquetació:** pendent.
 
 ### Estat de F4
 
@@ -840,3 +842,14 @@ S'han ajustat les dues remissions: C37 correspon a la selecció de l'acabat supe
 S'ha iniciat l'auditoria global transversal. La primera passada ha revisat l'arquitectura i les delimitacions de C3–C14 i C19–C39. No s'han detectat duplicacions conceptuals que justifiquin retallar contingut. Es mantenen diferenciats els fonaments físics i perceptius (C5) de la planificació aplicada (C15); els fonaments de reconeixement dels materials (C6) de la seva representació específica; els procediments generals (C11) de les aplicacions materials concretes (C29); i la identitat dels materials dels processos d'envelliment i desgast (C36). També s'ha comprovat la separació funcional de C3, C7, C8–C10, C12–C13 i C14.
 
 Les numeracions C28.5.6 i C38.9.10 s'han contrastat amb el document original: totes dues hi consten i es conserven, sense considerar-les anomalies de la tercera versió. No s'han modificat capítols tècnics, receptes ni procediments. La fase 6 continua oberta; resten la lectura transversal dels blocs encara no revisats i la verificació més detallada de possibles contradiccions o omissions entre procediments.
+
+
+### Tancament F6 — auditoria transversal C1–C39 (05/11/2026)
+
+S'ha completat la darrera comprovació transversal de coherència dels 39 capítols. La revisió ha contrastat terminologia tècnica i criteris comuns d'aplicació, assecat, proves prèvies, compatibilitat, avaluació, intervenció localitzada, acabats, protecció i diagnòstic. No s'han detectat contradiccions globals ni divergències terminològiques que justifiquin una normalització general, reorganitzacions, noves remissions o retallades.
+
+S'han mantingut diferenciats: imprimació i capa base; rentat, tinta i veladura; degradat, transició, perfilat i textura; llum, reflex, OSL i fluorescència; transparència, translucidesa i opacitat; pigment, fixador i vernís; aparença superficial i protecció; desgast, corrosió i dipòsit; i assecat, estabilització i curat. També s'ha confirmat la coherència dels criteris de prova prèvia, consulta de les instruccions del fabricant, avaluació després de l'assecat i correcció selectiva.
+
+**Intervenció aplicada a C27:** a la recepta A («Cristall transparent o quars clar») s'ha incorporat una aclaració per evitar que «base clara» s'interpreti com una capa opaca que cobreixi tota la superfície. La base queda limitada als plans o zones que necessitin aclariment i s'indica conservar informació cromàtica del fons o de les capes subjacents quan la representació i la geometria ho permetin. No s'han modificat la paleta ni la resta del procediment.
+
+F6 queda tancada com a auditoria de coherència global. Aquest resultat no valida experimentalment les receptes ni certifica el comportament de les pintures o productes. Es mantenen diferenciats el coteig documental, la coherència interna i la validació experimental. L'arquitectura continua en 39 capítols; no s'ha modificat main.

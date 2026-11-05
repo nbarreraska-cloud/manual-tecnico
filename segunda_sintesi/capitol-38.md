@@ -4,7 +4,7 @@
 
 Una miniatura pintada integra materials i capes que poden deteriorar-se durant manipulació, exposició, transport i emmagatzematge. Els productes protectors poden contribuir a conservar la pel·lícula pictòrica, però no garanteixen per si sols la conservació absoluta.
 
-Cal distingir protecció, modificació de l'acabat i altres tractaments superficials. Un producte transparent que modifica la brillantor no ofereix necessàriament resistència mecànica; un producte decoratiu no és automàticament un barnís protector. Cal identificar la funció declarada: modificar brillantor, crear una superfície específica, protegir la pintura o aportar una característica funcional.
+Cal distingir protecció, modificació de l'acabat i altres tractaments superficials. Un producte transparent que modifica la brillantor no ofereix necessàriament resistència mecànica; un producte decoratiu no és automàticament un barnís protector. Cal identificar la funció declarada: modificar brillantor, crear una superfície específica, protegir la pintura o aportar una característica funcional. El capítol 37 estudia la selecció i el control de l'aparença superficial, especialment el brillantor; aquest capítol tracta la funció protectora, els procediments de barnissat i la conservació. Un barnís pot modificar alhora l'aparença i la protecció, però aquestes dues funcions s'han d'avaluar per separat.
 
 ## 38.2. Fonaments de la protecció superficial
 
@@ -260,7 +260,18 @@ Revisar desgast en vores i contactes, ratllades, pèrdua d'adherència, pols, al
 | Utilitzar barnís per corregir defectes pictòrics | Defectes persistents o més visibles | Corregir abans de protegir. |
 | Emmagatzemar sense protecció física | Cops, pressió i fregaments | Utilitzar sistemes adaptats a geometria i fragilitat. |
 
-Abans de finalitzar, comprovar preparació de pintura, adequació del producte al suport i capes, correcció del mètode, absència d'acumulacions importants, conservació de detalls, coherència d'aparença, estabilitat de zones sensibles i respecte de les condicions d'assecat. També cal un sistema adequat d'emmagatzematge i transport.
+### 38.9.10. Criteris d'avaluació final
+
+Abans de finalitzar, comprovar:
+- Que la pintura estava preparada per rebre el producte.
+- Que el barnís és adequat per al suport i les capes existents.
+- Que el mètode d'aplicació correspon al producte.
+- Que no hi ha acumulacions o irregularitats importants.
+- Que els detalls es mantenen definits.
+- Que l'aparença superficial és coherent amb l'objectiu.
+- Que les zones sensibles no presenten alteracions.
+- Que s'han respectat les condicions d'assecat i estabilització.
+- Que el sistema d'emmagatzematge i transport és adequat.
 
 ## 38.10. Exercicis pràctics
 

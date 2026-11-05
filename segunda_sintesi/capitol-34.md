@@ -10,7 +10,7 @@ El vidre presenta una dificultat específica: la seva aparença depèn tant de l
 - canvis relacionats amb gruix i curvatura;
 - marques, gravats i irregularitats.
 
-Els criteris s'apliquen a panells, finestres, recipients, ampolles, vidres acolorits, vitralls, superfícies esmerilades, peces esquerdades i fragments. Els fonaments de transparència i translucidesa es desenvolupen al capítol 14; teoria de la llum i resposta dels materials, als capítols 5 i 6. Aquest capítol se centra en l'aplicació pictòrica del vidre.
+Els criteris s'apliquen a panells, finestres, recipients, ampolles, vidres acolorits, vitralls, superfícies esmerilades, peces esquerdades i fragments. Els fonaments de transparència i translucidesa es desenvolupen al capítol 14; teoria de la llum i resposta dels materials, als capítols 5 i 6. Aquest capítol se centra en l'aplicació pictòrica del vidre. Cal distingir el vidre de la ceràmica, la porcellana i els plàstics, desenvolupats al capítol 33: un acabat brillant no converteix un material en vidre.
 
 Les vuit receptes són propostes basades en les 48 pintures de l'inventari Squidmar × Vallejo. No són mescles experimentades ni resultats comprovats.
 
@@ -59,7 +59,7 @@ Definir silueta, cos, coll, obertura i base; mantenir el centre relativament obe
 
 ### 34.4.1. Recipients transparents amb contingut
 
-Distingir vidre exterior i contingut interior. Construir primer el contingut segons el material representat (els líquids i fluids es tracten al capítol 31). Després definir límits del recipient, mantenir visible el contingut, introduir vores i reflexos exteriors, diferenciar superfície del líquid i reflexos del vidre i comprovar que tots dos es llegeixen independentment. El reflex del vidre no s'ha de confondre amb el brillantor del líquid.
+Distingir vidre exterior i contingut interior. Construir primer el contingut segons el material representat (els líquids i fluids es tracten al capítol 31). Després definir límits del recipient, mantenir visible el contingut, introduir vores i reflexos exteriors, diferenciar superfície del líquid i reflexos del vidre i comprovar que tots dos es llegeixen independentment. El reflex del vidre no s'ha de confondre amb el brillantor del líquid. La selecció i aplicació de vernissos i altres acabats superficials es desenvolupa al capítol 37.
 
 ## 34.5. Vidre acolorit
 

@@ -54,7 +54,8 @@ def main():
         for i in range(indexes.getCount()):
             indexes.getByIndex(i).update()
         doc.refresh()
-        doc.calculateAll()
+        fields = doc.getTextFields()
+        fields.refresh()
         doc.store()
         doc.storeToURL(
             uno.systemPathToFileUrl(str(target)),

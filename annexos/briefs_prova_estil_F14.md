@@ -58,7 +58,7 @@ Etiquetes de les quatre descripcions de la llegenda i una nota discreta «Esquem
 
 La imatge ha de comunicar diferències de comportament, no fingir una comparació experimental. Si sembla una fotografia de quatre mostres reals, s'ha de rebutjar.
 
-## 4. Pilot C — Figura 16.4 / G0xx — E1
+## 4. Pilot C — Figura 16.4 / G042 — E1
 
 **P1 d'origen:** 16.6  
 **Ubicació lectora:** apartat 16.5  
@@ -84,7 +84,7 @@ Incloure fora de la imatge o en la llegenda la indicació «Seqüència didàcti
 
 S'ha de llegir com una seqüència pedagògica del mateix objecte. Si els panells canvien de geometria, llum o perspectiva, la comparació perd validesa.
 
-## 5. Pilot D — Figura 34.1 / G0xx — E0
+## 5. Pilot D — Figura 34.1 / G110 — E0
 
 **P1 d'origen:** 34.1 i 34.7  
 **Ubicació lectora:** apartat 34.2; remissió des de 34.7  

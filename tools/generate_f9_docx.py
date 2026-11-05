@@ -239,7 +239,7 @@ def main():
     if start is None:
         raise SystemExit("Chapter 1 heading not found")
     chapter_lines = lines[start:]
-    starts = [i for i, line in enumerate(chapter_lines) if re.match(r'^#\\s+(?:0?[1-9]|[1-3][0-9])\\.\\s+', line)]
+    starts = [i for i, line in enumerate(chapter_lines) if re.match(r'^#\s+(?:0?[1-9]|[1-3][0-9])\.\s+', line)]
     part_map = {
         1: "PART I · FONAMENTS",
         7: "PART II · TÈCNIQUES I PROCEDIMENTS",
@@ -257,7 +257,7 @@ def main():
 
     for n, st in enumerate(starts):
         en = starts[n+1] if n+1 < len(starts) else len(chapter_lines)
-        match = re.match(r'^#\\s+(0?[1-9]|[1-3][0-9])\\.\\s+', chapter_lines[st])
+        match = re.match(r'^#\s+(0?[1-9]|[1-3][0-9])\.\s+', chapter_lines[st])
         chapter_number = int(match.group(1))
         if chapter_number in part_map:
             doc.add_section(WD_SECTION.CONTINUOUS if chapter_number == 1 else WD_SECTION.NEW_PAGE)

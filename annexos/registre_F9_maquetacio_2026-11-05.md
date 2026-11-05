@@ -40,3 +40,24 @@ F9 no es declara completada fins a resoldre aquestes comprovacions.
 ## Restriccions
 
 No s'han alterat capítols, annexos ni fitxes. No s'han afegit imatges ni s'ha iniciat F10. main no forma part de l'àmbit de treball.
+
+
+## Revisió de la primera maqueta — incidències detectades (05/11/2026)
+
+La inspecció visual de pàgines representatives i l'escaneig del text extret del PDF han detectat dues incidències de composició:
+
+- Pàgines 35 i 284 pràcticament buides, associades als salts de pàgina explícits abans de capítols i annexos.
+- Numeració automàtica de Word acumulada entre llistes independents. En alguns punts, els números visibles arribaven a valors superiors a 1.400, tot i que la font Markdown conserva la numeració local de cada llista.
+
+S'ha corregit el generador a la branca de treball (commit `aeec294c8d3c3828f330ee0d0aeef3cdc6388519`):
+
+- Els salts de capítol i annex s'apliquen ara al primer títol del bloc mitjançant `page_break_before`, en lloc d'afegir paràgrafs de salt independents.
+- Les llistes numerades conserven el número literal de la font i deixen d'utilitzar el comptador automàtic compartit de Word.
+
+Aquesta correcció és estrictament de maquetació i preservació de la numeració d'origen. La nova generació encara s'ha de validar abans de donar aquestes incidències per resoltes en el DOCX lliurable.
+
+## Revisió global i límits pendents
+
+L'escaneig de les 339 pàgines confirma que, a més de la pàgina de l'índex pendent d'actualització, les pàgines 35 i 284 són les dues pàgines pràcticament buides detectades. S'han revisat visualment mostres de portada, índex, cos dels capítols, annexos i fitxes; això no equival a una inspecció visual individual de cada pàgina ni a una verificació exhaustiva de cada cel·la de les 159 taules.
+
+La fidelitat estructural queda confirmada per recompte (39 capítols, A–F, 48 fitxes i 336 seccions), però la comparació textual exhaustiva caràcter a caràcter amb totes les fonts Markdown continua pendent. També resta pendent actualitzar i verificar l'índex amb Microsoft Word; la conversió de comprovació no n'ha calculat els camps.

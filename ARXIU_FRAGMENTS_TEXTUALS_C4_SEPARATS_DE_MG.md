@@ -6,7 +6,7 @@
 
 ## Motiu de la separació
 
-Aquests fragments no són especificacions de figures. Es conserven íntegrament i literalment en aquest arxiu per mantenir la traçabilitat de la font. No s'han incorporat al capítol 4 ni s'ha decidit si són redundants o si cal recuperar-ne alguna part. Aquesta decisió només es podrà prendre després de comparar-los amb el text lector definitiu de C4 i amb l'original.
+Aquests fragments no són especificacions de figures. Es conserven íntegrament i literalment en aquest arxiu per mantenir la traçabilitat de la font. S'han contrastat amb C4 dins de `TERCERA_SINTESI_CONSOLIDADA_C01-C39.md`: els continguts d'adaptació visual, RGB, dimensions del color, harmonies, funcions cromàtiques, mescla física i errors ja hi són incorporats. Per tant, no cal recuperar aquests fragments al capítol final; es mantenen només com a rastre documental de la depuració del registre gràfic.
 
 ### Fragment 1
 

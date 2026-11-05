@@ -33,7 +33,7 @@ També les comparacions d'acabats, superfícies o materials de C6 i C37 s'han de
 Les figures següents il·lustren procediments o receptes que el manual descriu com a propostes no assajades. La seva aparença ha de ser esquemàtica i no pot suggerir una validació experimental:
 
 - **16.6:** construcció progressiva del NMM.
-- **19.3, 19.4, 19.5 i 19.6:** seqüències TMM per a acer/plata, or, coure i bronze.
+- **19.3, 19.4 i 19.5:** seqüències TMM per a acer/plata, or i coure/bronze. La composició **19.6** és una comparació conceptual TMM/NMM (E0), no una recepta ni un resultat experimental.
 - **22.4:** construcció cromàtica de cuir natural.
 - **24.4 i 24.5:** seqüències de construcció de pell clara i profunda.
 - **30.4:** construcció pictòrica d'una flama segons la recepta A.

@@ -405,14 +405,14 @@ Les deu figures següents queden reservades per a la fase gràfica final. No s'h
 ## Figures proposades per a la fase gràfica final
 
 1. Mapa del procés integral: relació entre anàlisi, planificació, selecció, execució, control i avaluació.
-1. Fitxa d'anàlisi inicial de la miniatura.
-2. Esquema de planificació cromàtica, tonal i lumínica.
-3. Arbre de selecció de tècniques segons l'objectiu visual.
-4. Diagrama de dependències i alternatives de seqüenciació, sense ordre universal.
-5. Comparació entre organització per zones, materials i fases.
-6. Cicle de control: execució, observació, avaluació, ajust i continuació.
-7. Fitxa de control i avaluació integral.
-8. Exemple de registre de decisions i modificacions.
+2. Fitxa d'anàlisi inicial de la miniatura.
+3. Esquema de planificació cromàtica, tonal i lumínica.
+4. Arbre de selecció de tècniques segons l'objectiu visual.
+5. Diagrama de dependències i alternatives de seqüenciació, sense ordre universal.
+6. Comparació entre organització per zones, materials i fases.
+7. Cicle de control: execució, observació, avaluació, ajust i continuació.
+8. Fitxa de control i avaluació integral.
+9. Exemple de registre de decisions i modificacions.
 
 
 ---

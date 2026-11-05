@@ -27,6 +27,8 @@ jobs:
           python -m pip install python-docx
       - name: Generate complete text-only Word document
         run: python tools/generate_f9_docx.py
+      - name: Audit source-to-DOCX text fidelity and order
+        run: python tools/validate_f9_text.py
       - name: Upload Word document
         uses: actions/upload-artifact@v4
         with:

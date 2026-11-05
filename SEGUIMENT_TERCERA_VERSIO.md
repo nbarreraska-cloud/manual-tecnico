@@ -1184,3 +1184,20 @@ S'ha creat `VALIDACIO_ENCAIX_P1_TERCERA_SINTESI.md` amb la matriu dels 157 P1 di
 - **F7 — Consolidació editorial i gràfica:** depurar el registre MG, classificar P1/P2/P3, aprovar i produir només les figures justificades, integrar-les i estabilitzar els 39 capítols i els annexos A–E.
 - **F8 — Auditoria final integral:** després de la consolidació i abans de Word, revisar estructura, contingut, numeració, referències creuades, annexos, figures, llegendes, remissions, integritat de receptes i absència de residus editorials. Aquesta fase és una porta de control obligatòria; no s'inicia la maquetació si no queda superada.
 - **F9 — Maquetació Word:** només després de tancar F8, generar el document complet, comprovar la paginació real i valorar l'objectiu de 350–375 pàgines i el límit orientatiu de 400, sense retallar contingut tècnic valuós per ajustar la xifra.
+
+
+---
+
+## Actualització del procés i ordre de treball — 05/11/2026
+
+S'estableix com a pla operatiu vigent `PLA_OPERATIU_TANCAMENT_I_MAQUETACIO.md`. Aquesta actualització preval sobre les seqüències antigues d'aquest seguiment quan siguin incompatibles.
+
+- Les recuperacions RT/RD/AE identificades a la matriu consten com a aplicades; F4 està tancada com a revisió documental dins dels límits de font registrats. No es reobren els capítols sense incidència substancial.
+- L'auditoria anterior dels annexos A–E queda com a antecedent. **F5 es reprèn amb la regeneració completa dels cinc annexos**, prenent C1–C39 com a font principal i els annexos antics com a contrast.
+- Després: F6 auditoria transversal de C1–C39 + A–E regenerats; F8 auditoria textual final; F9 maqueta Word completa sense imatges.
+- Només després de tancar F9 es reprendran F10 selecció gràfica, F11 producció/integració i F12 verificació final amb repaginació.
+- La primera maqueta serà completa com a versió textual, però no tindrà paginació definitiva il·lustrada.
+- La compilació actual ronda les 300 pàgines sense annexos segons l'estimació disponible; les 350–375 pàgines són orientatives, no un objectiu que justifiqui retallar o afegir contingut.
+- Es manté la protecció de `main`, de la versió publicada i dels 39 capítols aprovats.
+
+La següent tasca material és regenerar l'Annex A, no produir ni seleccionar imatges.

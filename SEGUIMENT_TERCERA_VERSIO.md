@@ -810,3 +810,10 @@ En la lectura semàntica de les remissions s'ha detectat que C31.7 atribuïa al 
 S'ha corregit la frase de C31.7 per separar-les: la selecció i el control de la brillantor remeten a C37; els vernissos protectors, l'envernissament i la conservació remeten a C38. No s'han modificat receptes, ingredients ni procediments. Aquesta és una correcció de precisió semàntica, no una recuperació de contingut tècnic.
 
 La revisió semàntica de les altres remissions continua oberta.
+
+
+### Actualització F4 — precisió semàntica de la remissió C4.10.5 (05/11/2026)
+
+La frase de C4.10.5 remetia la construcció posterior de llums i ombres exclusivament al capítol 5. La font original conté aquesta remissió, però la lectura de l'arquitectura vigent mostra que C5 desenvolupa els fonaments físics i perceptius, mentre que C15 tracta específicament la planificació aplicada de la il·luminació i dels valors. S'ha ajustat la frase perquè remeti als fonaments de C5 i als criteris de planificació aplicada de C15. Així es preserva el sentit original i s'evita deixar fora el capítol que desenvolupa l'aplicació.
+
+Aquesta és una conciliació semàntica amb l'arquitectura actual, no una omissió recuperada del text font. No s'ha modificat la resta del capítol.

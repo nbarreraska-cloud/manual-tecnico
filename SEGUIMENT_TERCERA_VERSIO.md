@@ -979,3 +979,8 @@ S'ha contrastat C9 amb el document original. La revisió inclou fonaments, varia
 ### F4 — coteig documental de contingut de C10 (05/11/2026)
 
 S'ha completat el coteig de C10 amb «manual con estructura completa.docx». Es conserven les definicions i delimitacions conceptuals; les sis funcions cromàtiques; els criteris de selecció i preparació de pintures i mitjans; el procediment complet; les cinc variants; els controls i el criteri de finalització; els set errors amb causes i correccions; els criteris d'avaluació; els sis exercicis i la síntesi. Les vuit propostes de figures originals continuen reservades a MG, fora del text lector. No s'han identificat omissions substancials i no s'ha modificat C10. La compilació consolidada conté exactament el fitxer vigent. F4 continua oberta; el coteig documental no equival a validació experimental.
+
+
+### F4 — revisió limitada i recuperació didàctica de C14 (05/11/2026)
+
+Revisat C14 contra el material consolidat disponible, no contra un original complet (que continua sense localitzar-se). La distinció entre transparència del producte pictòric i transparència de l'objecte representat ja queda incorporada als fonaments i als errors freqüents. Es mantenen nou errors, sis exercicis i vuit propostes gràfiques reservades a MG. S'han ampliat les seqüències procedimentals dels sis exercicis a partir del material disponible, sense inventar objectius ni materials no documentats, i s'ha corregit «recetari» per «receptari». C14 i la compilació s'han sincronitzat i verificat. Aquesta revisió no equival a coteig integral amb l'original ni a validació experimental.

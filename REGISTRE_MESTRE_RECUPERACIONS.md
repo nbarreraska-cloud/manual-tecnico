@@ -208,6 +208,8 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 Aquest registre és una consolidació operativa basada en l'auditoria i els resultats recuperats del projecte. Els punts marcats com a pendents o no validats s'han de comprovar amb el fitxer real i la font corresponent abans de declarar-los tancats.
 
 
-### Incidència transversal de terminologia detectada durant F4
+### Incidència transversal de terminologia — resolució inicial F4 (05/11/2026)
 
-En C37–C39 conviuen les formes `barnís/barnissos/barnissat` i `vernís/vernissar`. Cal normalitzar la terminologia catalana de manera transversal i coherent, no corregir un sol capítol de forma aïllada. La forma normativa de referència és `vernís` i els derivats corresponents (`vernissar`, `envernissar`, `vernissat`); la normalització queda pendent d'una passada conjunta pels 39 Markdown i de la revisió de totes les remissions. No s'ha fet encara cap canvi terminològic d'aquest tipus.
+La passada pels 39 Markdown va identificar variants no homogènies a C3, C37, C38 i C39. S'han normalitzat aquests quatre fitxers amb el criteri següent: `vernís/vernissos`, `envernissar`, `envernissat/envernissada` i `envernissament`. A C3, `vernissatge` s'ha substituït per `envernissament`. A C37–C39 s'han corregit les formes derivades de `barnís/barnissos/barnissar/barnissat`. També s'ha corregit a C38 `el brillantor` per `la brillantor`.
+
+La forma `vernís` i el verb `envernissar` coincideixen amb el DIEC; TERMCAT recull les formes tècniques `envernissada` i `envernissament`. La comprovació dels 39 Markdown no ha identificat altres aparicions de les variants corregides. Aquesta resolució terminològica immediata no tanca la revisió de totes les referències creuades ni la coherència global, que continuen pendents.

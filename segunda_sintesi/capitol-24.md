@@ -195,33 +195,55 @@ Els teixits orgànics fantàstics poden utilitzar colors rogenques, violacis, ve
 
 ## 24.9. Adaptació, errors i avaluació
 
-A escala petita cal prioritzar distribució de llums i ombres, grans zones anatòmiques, variacions cromàtiques principals, masses musculars i trets rellevants del rostre i les mans. En superfícies grans es poden afegir variacions si segueixen la geometria. La pell ha de seguir la forma del cos: les articulacions, compressions i masses musculars condicionen la distribució de llums i ombres. No n'hi ha prou amb aclarir les zones superiors i enfosquir les inferiors.
+### 24.9.1. Adaptació a l'escala
 
-Errors i correccions:
-1. **Un sol color per a tota la pell:** afegir variacions moderades de valor i temperatura.
-2. **Aclarir indiscriminadament amb blanc:** utilitzar tons clars de la mateixa família i reservar el blanc per a punts concrets.
-3. **Enfosquir totes les pells amb marró o negre:** seleccionar ombres compatibles amb la base i incorporar variacions rogenques o fredes quan calgui.
-4. **Aplicar els mateixos colors a totes les pigmentacions:** adaptar bases i ombres a la família cromàtica.
-5. **Exagerar variacions locals:** mantenir una base dominant i reservar colors secundaris per a zones concretes.
-6. **Músculs com línies paral·leles:** construir primer les masses i després suggerir fibres.
-7. **Confondre múscul i greix:** diferenciar-los cromàticament i estructuralment.
-8. **Contrastos anatòmics excessius:** jerarquitzar grups principals i reduir divisions secundàries.
-9. **Textura excessiva:** limitar punts i línies a zones on aportin informació.
-10. **Mateixa organització per a pell i carn exposada:** diferenciar superfície externa, masses musculars i teixits interns.
+La mida de la miniatura determina quant detall es pot representar sense perjudicar la lectura general.
 
-L'avaluació de la pell comprova:
-- Que la pigmentació general és coherent.
-- Que les llums i les ombres segueixen la geometria.
-- Que les variacions cromàtiques no fragmenten la superfície.
-- Que els trets anatòmics principals es reconeixen.
-- Que l'acabat correspon a l'aparença buscada.
+En miniatures petites convé prioritzar:
+- La distribució general de llums i ombres.
+- La diferenciació entre les grans zones anatòmiques.
+- Les variacions cromàtiques principals.
+- La lectura dels grups musculars.
+- Els detalls més importants del rostre i les mans.
 
-En carn i musculatura cal comprovar:
-- Que es diferencien les masses musculars principals.
-- Que les separacions segueixen una organització anatòmica comprensible.
-- Que les fibres i estructures internes estan simplificades de manera proporcionada.
-- Que el teixit adipós i el connectiu es distingeixen quan apareixen.
-- Que la representació manté una lectura orgànica i no es redueix a una acumulació de línies.
+En superfícies grans es poden incorporar més variacions, sempre que mantinguin una relació amb la geometria.
+
+### 24.9.2. Adaptació a la geometria
+
+La pell ha de seguir la forma del cos. En superfícies corbes, els canvis de pla i la il·luminació determinen la distribució de llums i ombres. A les articulacions, els plecs i les compressions generen variacions locals. En els grups musculars, l'orientació de cada massa en condiciona la lectura.
+
+L'aplicació no s'ha de limitar a distribuir tons clars a les zones superiors i foscos a les inferiors. La geometria i la direcció de la il·luminació han de guiar la construcció.
+
+### 24.9.3. Errors freqüents i procediments de correcció
+
+| Error | Problema que produeix | Correcció |
+|---|---|---|
+| Utilitzar un únic color per a tota la pell | Una superfície completament uniforme pot semblar plana i artificial. | Introduir variacions moderades de valor i temperatura cromàtica. |
+| Aclarir la pell incorporant blanc indiscriminadament | Pot produir tons grisosos o reduir la riquesa cromàtica. | Utilitzar tons clars de la mateixa família cromàtica i reservar el blanc per a punts concrets. |
+| Enfosquir totes les pells amb marró o negre | Les ombres poden perdre riquesa cromàtica i resultar excessivament apagades. | Seleccionar ombres compatibles amb el to de base i incorporar variacions rogenques o fredes quan siguin adequades. |
+| Aplicar els mateixos colors a totes les pigmentacions | Pot generar una aparença poc diferenciada entre superfícies. | Seleccionar bases i ombres adaptades a cada família cromàtica. |
+| Exagerar les variacions locals | L'acumulació de tons rosats, grocs, violacis i marrons pot fragmentar la superfície. | Mantenir una base dominant i reservar les variacions per a zones concretes. |
+| Representar la musculatura mitjançant línies paral·leles | Pot produir una aparença ratllada i poc anatòmica. | Construir primer les masses musculars i després introduir les marques que en suggereixin l'estructura. |
+| Confondre múscul i teixit adipós | Tots dos poden acabar representats amb tons rogencs o marrons semblants. | Establir diferències cromàtiques i estructurals entre les masses musculars i les zones adiposes. |
+| Exagerar el contrast dels detalls anatòmics | Les separacions massa fosques poden fragmentar el cos. | Jerarquitzar els grups principals i reduir el contrast de les divisions secundàries. |
+| Aplicar textura excessiva | Una superfície coberta de punts i línies pot perdre la seva identitat com a pell. | Limitar les marques a les zones on aportin informació visual. |
+| Utilitzar la mateixa organització cromàtica per a pell i carn exposada | Tot i que poden compartir colors, les seves estructures i aparences són diferents. | Diferenciar la superfície externa de la pell, les masses musculars i els teixits interns. |
+
+### 24.9.4. Criteris d'avaluació
+
+Una superfície de pell pot considerar-se adequadament representada quan:
+- La pigmentació general és coherent.
+- Les llums i les ombres segueixen la geometria.
+- Les variacions cromàtiques no fragmenten la superfície.
+- Els trets anatòmics principals es reconeixen.
+- L'acabat superficial correspon a l'aparença buscada.
+
+Una superfície de carn o musculatura pot considerar-se adequada quan:
+- Es diferencien les masses musculars principals.
+- Les separacions segueixen una organització anatòmica comprensible.
+- Les fibres i les estructures internes estan simplificades de manera proporcionada.
+- El teixit adipós i el connectiu es distingeixen quan apareixen.
+- La representació manté una lectura orgànica i no es redueix a una acumulació de línies.
 
 ## 24.10. Exercicis pràctics
 

@@ -1106,3 +1106,7 @@ S'ha completat el coteig de C1 i C2 amb «manual con estructura completa.docx».
 ### F4 — tancament amb limitacions documentals (05/11/2026)
 
 S'ha tancat F4 després de documentar el nivell de revisió dels 39 capítols. Els cotejos complets s'han completat als capítols indicats al resum general; C11 i C14–C19 mantenen limitacions perquè no s'ha recuperat un original íntegre per a un coteig complet; C30–C32 i C36 s'han revisat dins dels límits del contingut disponible. La revisió semàntica de remissions i la comprovació estructural global estan completades. El tancament no implica validació experimental de receptes, materials o resultats.
+
+### Separació del material gràfic MG de la tercera síntesi (05/11/2026)
+
+S'ha corregit una desviació de fase detectada en la compilació: les propostes de figures no han de formar part del contingut lector de la tercera síntesi. S'han retirat dels fitxers de C1, C2, C3, C33, C34, C35 i C37 els blocs de planificació gràfica, així com els criteris de producció gràfica de C3 i les mencions redundants a figures en els resums de control de C33–C35 i C37. Les 50 propostes i els criteris de producció s'han conservat en el document independent «PLANIFICACIO_GRAFICA_MG_FASE_POSTERIOR.md». La compilació C1–C39 s'ha regenerat a partir de la mateixa depuració. No s'han suprimit explicacions tècniques, procediments, exercicis, receptes ni referències que formen part del contingut lector. La fase gràfica continua pendent.

@@ -322,7 +322,6 @@ def add_card_content(cell, data):
         p.paragraph_format.keep_together = True
         p.paragraph_format.widow_control = True
         p.paragraph_format.line_spacing = 1.05
-        p.paragraph_format.widow_control = False
         r = p.add_run(text)
         r.font.name = "Aptos"
         r.font.size = Pt(size)
@@ -364,7 +363,6 @@ def add_card_content(cell, data):
             p.paragraph_format.line_spacing = 1.05
             p.paragraph_format.keep_together = True
             p.paragraph_format.widow_control = True
-            p.paragraph_format.widow_control = False
             a = p.add_run(f"C{chapter}  ")
             a.bold = True
             a.font.size = Pt(7.25)

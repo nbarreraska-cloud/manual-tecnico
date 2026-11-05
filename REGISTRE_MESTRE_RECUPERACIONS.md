@@ -179,13 +179,13 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 
 ## 8. Properes actuacions operatives
 
-1. Completar la conciliació de la matriu per capítol amb els estats finals de F4, els fitxers Markdown i els commits; retirar o marcar com a històriques les instruccions que ja han quedat superades.
-2. F4 està tancada amb limitacions documentals explícites; no repetir els cotejos ja completats ni reobrir capítols SC sense una incidència substancial nova. F6 també està tancada.
-3. Mantenir explícits els límits documentals de C11 i C14–C18: no atribuir a un original complet continguts que s'han ampliat a partir de la primera versió o d'acords recuperats.
-4. Mantenir explícits els límits documentals de C11 i C14–C18, i els límits de la revisió de C30–C32 i C36; no presentar les fonts parcials com a originals complets.
-5. La compilació documental dels capítols 1–39 ja està creada a `TERCERA_SINTESI_CONSOLIDADA_C01-C39.md` i la correspondència textual dels 39 capítols amb els fitxers font s'ha comprovat. Cal mantenir-la sincronitzada si F4 exigeix canvis posteriors.
-6. Després de tancar F2 i confirmar l'estabilitat de C1–C39, abordar els annexos A–E (F5); la fase gràfica i la maquetació Word (F7) queden per després.
-7. Mantenir la branca intervencion-editorial-2026-11; no modificar main ni intervenir en l'HTML de la primera versió durant aquesta fase.
+1. Completar la conciliació final de F2: revisar les 39 files de la matriu, contrastar-les amb els estats finals de F4, els fitxers Markdown vigents i els commits; retirar o marcar com a històriques les instruccions superades.
+2. Mantenir F4 tancada amb les limitacions documentals explícites. No repetir cotejos completats ni reobrir capítols SC sense una incidència tècnica o documental substancial.
+3. Preservar els límits de font de C11 i C14–C18, i els límits de revisió de C30–C32 i C36; no atribuir a originals complets continguts contrastats només amb material parcial o consolidat.
+4. Mantenir sincronitzada la compilació `TERCERA_SINTESI_CONSOLIDADA_C01-C39.md` amb els 39 Markdown i tornar a verificar-ne la correspondència exacta després de qualsevol canvi.
+5. Un cop tancada F2 i confirmada l'estabilitat de C1–C39, iniciar F5: regenerar i auditar els annexos A–E, contrastant-ne contingut, denominacions, referències i correspondència amb els capítols.
+6. Després de F5, abordar F7: producció gràfica a partir del document MG independent i maquetació Word, comprovant el volum real sense retallar contingut valuós per ajustar pàgines.
+7. Mantenir la branca `intervencion-editorial-2026-11`; no modificar `main` ni intervenir en l'HTML de la primera versió durant aquesta fase.
 
 ## 9. Historial del registre
 

@@ -611,7 +611,7 @@ La segona síntesi de referència està formada per **dos fitxers** que contenen
 
 - **F0 — preservació i traçabilitat:** completada.
 - **F1 — auditoria comparativa dels 39 capítols:** completada (39/39).
-- **F2 — Registre Mestre:** consolidat fins a la versió 1.7; es manté la conciliació fina de la traçabilitat.
+- **F2 — Registre Mestre:** consolidat fins a la versió 1.17; es manté la conciliació fina de la traçabilitat.
 - **F3 — aplicació de les recuperacions identificades:** completada per a les accions RT/RD/AE de la matriu; no equival a validació.
 - **F4 — validació tècnica, semàntica i estructural:** en curs.
 - **F5 — annexos A–E; F6 — coherència global; F7 — gràfica i maquetació:** pendents i en l'ordre acordat.
@@ -704,3 +704,67 @@ S'ha cotejat el contingut de C19 amb el material de referència disponible:
 - Es conserven els set exercicis (19.10.1–19.10.7). El registre editorial de la font deia sis, però el contingut efectiu en presenta set i la síntesi els manté.
 - No s'han localitzat proporcions quantitatives exactes en la font disponible ni en els acords previs del 04/11/2026. No s'afegeixen proporcions inventades. Les combinacions continuen identificades com a propostes tècniques pendents de proves.
 - La font declara que no s'ha recuperat un original complet; el resultat és un coteig de fidelitat amb el material disponible, no una validació integral de l'original ni una validació experimental.
+
+
+---
+
+## Actualització F4 — validació dels capítols 25–27, 30–32 i 36 (05/11/2026)
+
+S'ha completat una passada de comparació amb el document font disponible «manual con estructura completa.docx». S'han revisat la correspondència conceptual, les receptes, les paletes, els exercicis, els procediments i les delimitacions entre capítols. Aquesta comprovació no constitueix una validació experimental de les combinacions de pintura.
+
+### Capítol 25 — ossos i estructures queratíniques
+
+- Cotejades les tretze receptes A–M i els sis exercicis recuperats. Es mantenen les distincions entre teixit ossi, teixits dentals, astes, banyes amb beina queratínica, estructures queratíniques massisses, urpes, ungles, peülles, becs i escates.
+- S'ha detectat que la taula de paleta del Markdown contenia nou referències, mentre que la font n'inclou dotze. S'han restituït **Dark Sea Blue (70.898), Light Flesh (70.928) i Skin Tone (72.099)** amb les funcions orientatives originals. Són referències complementàries; no s'han incorporat a les receptes A–M ni s'han alterat els seus ingredients.
+- Es mantenen les referències bibliogràfiques/documentals registrades i les dues referències complementàries recuperades anteriorment, amb l'enllaç de la British Horse Society.
+- Estat: coteig de contingut completat amb la font disponible; receptes no assajades.
+
+### Capítol 26 — roques, pedres i minerals
+
+- Cotejades les deu receptes A–J, els sis exercicis i la paleta de dinou referències.
+- Es mantenen la classificació de roques ígnies, sedimentàries i metamòrfiques; la diferència entre roca i mineral; les textures granulars, vesiculars, estratificades, foliades i bandejades; i el tractament de vetes i pedra treballada.
+- No s'han identificat omissions substancials en els procediments, els errors, els criteris d'avaluació o les delimitacions respecte de C27 i C29.
+- Estat: revisió de contingut completada amb la font disponible; receptes no assajades.
+
+### Capítol 27 — cristalls, gel, neu i gemmes
+
+- Cotejades les catorze receptes A–N, els sis exercicis i la paleta de vint-i-vuit referències.
+- Es mantenen les distincions entre transparència, translucidesa i opacitat; cristall natural i gema tallada; gel i neu; facetes, fractures, inclusions, acumulacions i cabuixons.
+- Es conserva la indicació d'adaptar la recepta B a les ametistes tallades quan la diferència principal és geomètrica, sense crear una recepta cromàtica innecessària.
+- Es manté la delimitació respecte de les superfícies rocoses de C26 i dels efectes sobrenaturals de C32.
+- Estat: revisió de contingut completada amb la font disponible; receptes no assajades.
+
+### Capítol 30 — foc, fum i cendres
+
+- Cotejades les cinc receptes A–E i els cinc exercicis.
+- Es mantenen la diferenciació entre flama, material incandescent i residus carbonitzats; la planificació de valors; la temperatura cromàtica; la preparació segons geometria i superfície; i la separació respecte dels efectes sobrenaturals de C32.
+- Estat: revisió de contingut completada amb la font disponible; receptes no assajades.
+
+### Capítol 31 — sang i fluids
+
+- Cotejades les cinc receptes A–E i els sis exercicis.
+- Es mantenen les diferències entre sang fresca, acumulada/coagulada, seca i fluids no sanguinis; també la separació entre color, consistència, cobertura, distribució i acabat superficial.
+- Es conserva l'adaptació dels rastres i les acumulacions a la geometria del suport i la delimitació respecte de C11, C14, C17, C24, C28 i C29.
+- Estat: revisió de contingut completada amb la font disponible; receptes no assajades.
+
+### Capítol 32 — màgia, energia i efectes sobrenaturals
+
+- Cotejades les cinc receptes A–E i els sis exercicis.
+- Es mantenen les distincions entre efecte cromàtic, font lluminosa i il·luminació projectada (OSL); entre fluorescència i fosforescència; i entre l'efecte sobrenatural i els materials físics dels capítols 25–27 i 30.
+- Es manté l'avís que els tutorials externs d'OSL són recursos complementaris i no receptes que s'hagin de traslladar literalment ni autoritzen productes aliens a l'inventari de 48 pintures.
+- Estat: revisió de contingut completada amb la font disponible; receptes no assajades.
+
+### Capítol 36 — envelliment, desgast i transformació
+
+- Revisada la correspondència dels fonaments, les alteracions mecàniques, ambientals, químiques i estructurals, els procediments i els sis exercicis.
+- Es mantenen els deu blocs d'errors i les set famílies d'adaptació material: metalls, fusta, cuir i pells, teixits, ceràmica/porcellana, plàstics i superfícies minerals/naturals. La font les desplega en subapartats; el Markdown les conserva en una llista compacta sense perdre'n els continguts específics.
+- Els criteris d'avaluació afegits als exercicis continuen identificats com a propostes editorials, no com a contingut literal de la font.
+- Estat: revisió de contingut completada amb la font disponible; no hi ha receptes experimentals.
+
+### Resultat del bloc i pendents
+
+No s'han identificat altres omissions substancials que justifiquin reobrir o ampliar aquests sis capítols i C36. L'única recuperació aplicada en aquesta passada és la restitució de les tres referències complementàries de la paleta de C25. No s'han modificat les receptes ni s'han inventat proporcions, quantitats, propietats de pintura o resultats de proves.
+
+Resta pendent la revisió transversal de terminologia, referències creuades i coherència global. En particular, s'ha de revisar en la passada terminològica la forma «arenisca» emprada a C26 i decidir-ne la normalització catalana sense fer ara una correcció aïllada. També continua pendent la normalització transversal de les formes barnís/barnissos/barnissat a favor de la forma catalana de referència vernís i els seus derivats.
+
+La prioritat immediata passa a la revisió transversal de C38, la conciliació dels ajustos AE de C33–C34 i la passada conjunta de terminologia i referències. Els capítols SC continuen protegits.

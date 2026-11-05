@@ -864,7 +864,7 @@ Aquesta secció és la referència operativa més recent i preval sobre les inst
 
 - **F0:** completada.
 - **F1:** auditoria comparativa completada per als 39 capítols.
-- **F2:** en curs; el Registre Mestre està actualitzat a la versió 1.33. Resta conciliar la matriu per capítol i les entrades històriques amb l'estat final de F4.
+- **F2:** en curs; el Registre Mestre està actualitzat a la versió 1.44. Resta revisar la totalitat de les files de la matriu i les anotacions històriques per completar la conciliació.
 - **F3:** completada per a les accions RT/RD/AE identificades a la matriu.
 - **F4:** en curs. La revisió semàntica de remissions C1–C39 està completada i documentada; s'ha precisat una remissió a C18. C5 té coteig de contingut i bibliografia completat; C4 té revisió de correspondència estructural i didàctica principal. La fidelitat documental s'ha cotejat per a C12–C13, C25–C29 i C38, amb els límits de font descrits al Registre Mestre. C30–C32 i C36 tenen revisió de contingut amb la font disponible. C19 té un coteig limitat a la font disponible. No es considera validada la totalitat dels 39 capítols.
 - **F5:** pendent fins al tancament de F4.

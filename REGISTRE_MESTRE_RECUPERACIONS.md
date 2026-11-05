@@ -1,6 +1,6 @@
 # REGISTRE MESTRE DE RECUPERACIONS EDITORIALS
 **Manual tècnic de pintura de miniatures**  
-**Versió:** 1.9 · **Data:** 05/11/2026  
+**Versió:** 1.10 · **Data:** 05/11/2026  
 **Branca:** intervencion-editorial-2026-11
 
 ## 1. Funció i abast
@@ -96,8 +96,8 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 9 | SC | Contingut protegit; es va reservar una possible redundància interna entre §9.7 i §9.9 per a revisió global, sense reobertura automàtica. |
 | 10 | SC | Contingut protegit per l'auditoria inicial. Posteriorment s'hi va desenvolupar i reorganitzar contingut de veladures/glassejats; validació global pendent. |
 | 11 | RT · alta | Intervenció aplicada i tancada editorialment. F4: comprovada l'estructura 11.1–11.10.6, els vuit blocs d'errors i els sis exercicis sobre el text consolidat disponible. El mateix document de referència declara que no s'ha recuperat l'original complet; per tant, no es pot afirmar un coteig integral amb l'original. No reobrir sense una incidència substancial. |
-| 12 | RT · alta | Recuperar passos específics dels perfilats. Intervenció aplicada amb fonaments, cinc tipus de perfilat, sis procediments, controls, errors i exercicis; validació pendent. |
-| 13 | RT · alta | Recuperar variables i limitacions de les tècniques de textura. Intervenció aplicada a pinzell sec, puntejat, ratllat i esponjat, amb criteris, errors i exercicis; validació pendent. |
+| 12 | RT · alta | F4 estructural: coincideixen els deu apartats, els subapartats numerats i els cinc exercicis de la font disponible. La comparació semàntica detallada dels procediments continua pendent. El registre editorial incorporat a la font conté una delimitació antiga que assigna tècniques de textura a C14; l'índex i C13 confirmen que C14 correspon a transparències. Tractar-ho com a incidència de metadades/remissions, no com a contingut a reescriure sense coteig. |
+| 13 | RT · alta | F4 estructural: coincideixen els deu apartats, les quatre tècniques, els nou blocs d'errors i els sis exercicis numerats amb la font disponible. La comparació semàntica detallada de procediments i limitacions continua pendent. Les vuit propostes gràfiques es mantenen reservades a MG. |
 | 14 | SC | Contingut protegit en l'auditoria inicial. Ampliació posterior documentada sobre la consolidació disponible de la primera versió; no hi ha text original complet localitzat. |
 | 15 | SC | Contingut protegit en l'auditoria inicial. Ampliació posterior documentada sobre la consolidació disponible de la primera versió; no hi ha text original complet localitzat. |
 | 16 | AE | Ajust de numeració i estructura de les geometries. Correcció aplicada; contingut NMM ampliat posteriorment. |
@@ -195,6 +195,7 @@ Aquesta matriu conserva el dictamen comparatiu recuperat de l'auditoria. La clas
 | 1.7 | 05/11/2026 | Precisió de la relació entre les dues fonts de la segona síntesi i els 39 fitxers Markdown de treball; correcció de l'estat dels capítols SC i de les properes actuacions, que passen a centrar-se en F4. |
 | 1.8 | 05/11/2026 | F4: coteig de fidelitat documental completat per a C28–C29; comprovades les receptes A–K/A–Q, els materials dels sis exercicis de cada capítol i la correspondència dels codis de pintura. Correccions lingüístiques menors aplicades; revisió transversal tècnica encara oberta. |
 | 1.9 | 05/11/2026 | F4: recuperació de detalls tècnics omesos a C38; comprovació limitada de C11 amb preservació del límit documental (original complet no recuperat i tancament editorial previ). Continuïtat de F4 prioritzada a C12–C13. |
+| 1.10 | 05/11/2026 | F4 estructural: C12 (deu apartats i cinc exercicis) i C13 (deu apartats, quatre tècniques, nou blocs d'errors i sis exercicis) coincideixen amb l'estructura de la font disponible. Es registra una remissió editorial antiga a la font de C12 que no concorda amb l'índex definitiu; coteig semàntic encara pendent. |
 
 Aquest registre és una consolidació operativa basada en l'auditoria i els resultats recuperats del projecte. Els punts marcats com a pendents o no validats s'han de comprovar amb el fitxer real i la font corresponent abans de declarar-los tancats.
 

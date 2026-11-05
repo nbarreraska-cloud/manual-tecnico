@@ -652,3 +652,10 @@ La validació transversal encara no es tanca. S'ha detectat una inconsistència 
 S'ha comprovat la correspondència estructural del C11 Markdown amb el material disponible: es mantenen els apartats 11.1–11.10.6, els vuit blocs d'errors i els sis exercicis. Tanmateix, el mateix document de referència declara que **no s'ha recuperat el text original complet** i que el capítol està tancat editorialment. Per tant, aquesta passada és una comprovació limitada sobre el text consolidat disponible, no un coteig integral amb l'original. No s'han fet canvis al capítol ni es reobre la decisió editorial.
 
 La prioritat immediata de F4 passa als capítols 12 i 13. C28–C29 tenen completat el coteig de fidelitat documental; C38 té recuperats els detalls tècnics omesos i continua pendent de la passada transversal de terminologia, coherència i referències.
+
+
+### Actualització F4 — comprovació estructural de C12–C13 (05/11/2026)
+
+- **C12:** es mantenen els deu apartats, tots els subapartats numerats i els cinc exercicis de la font disponible. La comparació semàntica detallada dels procediments continua pendent.
+- **C13:** es mantenen els deu apartats, les quatre tècniques (pinzell sec, puntejat, ratllat i esponjat), els nou blocs d'errors i els sis exercicis numerats de la font disponible. La comparació semàntica detallada dels procediments i les limitacions continua pendent.
+- **Incidència de metadades:** el registre editorial inclòs al final de la font de C12 conté una delimitació antiga que assigna el pinzell sec i el puntejat a C13 i el ratllat i l'esponjat a C14. L'índex definitiu i el contingut de C13 confirmen que les quatre tècniques pertanyen a C13 i que C14 està reservat a transparències. No es modifica el contingut lector de C12 per aquesta nota interna; la incidència queda reservada a la conciliació de metadades i remissions.

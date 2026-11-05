@@ -1,6 +1,9 @@
 name: Build F9 Word master
 
 on:
+  push:
+    branches:
+      - intervencion-editorial-2026-11
   workflow_dispatch:
 
 permissions:

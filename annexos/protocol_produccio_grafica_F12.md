@@ -172,6 +172,10 @@ El detall individual de les 150 composicions —codi G, identificadors P1 d'orig
 | Insercions a la còpia il·lustrada | 0 |
 | Modificacions del manual mestre | 0 |
 
+## 11. Avaluació de les proves i prototips
+
+L'execució inicial i la decisió de rebutjar els collages generatius, així com la revisió tècnica dels quatre SVG, queden registrades a [F15 — Avaluació de les proves d'estil](avaluacio_proves_estil_F15.md). Els quatre SVG són prototips editables en revisió; no s'han d'estendre les convencions a la resta de figures fins que superin la validació de renderització i lectura.
+
 ## 11. Briefs de prova d'estil
 
 Els quatre encàrrecs pilot estan desenvolupats a [F14 — Briefs de prova d'estil](briefs_prova_estil_F14.md): figura 4.1 (E0), figura 3.1 (E2 amb alternativa E0), figura 16.4 (E1) i figura 34.1 (E0). Aquests quatre casos cobreixen esquemes comparatius, evidència condicionada, seqüències tècniques i representació de materials. La seva execució servirà per validar les convencions visuals abans d'estendre-les a la resta del registre.

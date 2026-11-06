@@ -5,7 +5,7 @@
   "placement": "després de 26.8.",
   "production_status": "family_prototype_renderable",
   "approval_status": "not_approved_pending_visual_and_documentary_review",
-  "rendering_note": "No renderitzar fins que s'hagi desenvolupat una plantilla que representi fidelment aquesta composició.",
+  "rendering_note": "Plantilla específica implementada a tools/graphics/render_figure.py; pendent de renderitzat i revisió visual.",
   "title": "Construcció de textures pètries",
   "subtitle": "Components · estrats · vetes i fractures · pedra treballada",
   "description": "Quatre estudis esquemàtics de construcció pictòrica de superfícies pètries: distribució irregular de components minerals, estrats discontinus, vetes i fractures integrades en el volum, i pedra treballada amb plans de tall, juntes i marques d'eina.",

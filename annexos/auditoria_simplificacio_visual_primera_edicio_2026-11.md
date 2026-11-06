@@ -317,3 +317,12 @@ Les sis dependències E2 identificades a la matriu F10 són les dels apartats d'
 - Validació final de cada figura sobre la maqueta: pendent.
 
 **Conclusió:** la primera edició no ha de perseguir les 170 composicions. El punt de partida passa a ser un conjunt de 48 suports visuals prioritaris, 71 propostes que s'han de simplificar o integrar només quan aportin valor, i 51 figures que no es produiran com a recursos autònoms en aquesta primera edició. El nombre final de fitxers gràfics haurà de ser inferior al nombre de propostes prioritàries si les fusions milloren la lectura.
+
+
+## 10. Segona reducció: consolidació de les prioritats
+
+La segona passada agrupa les 48 propostes A en **30 recursos visuals provisionals**, amb cobertura completa dels identificadors i sense duplicacions. Aquesta xifra és una proposta de treball, no una quota ni una autorització de producció. La validació sobre la maqueta encara pot reduir-la.
+
+Document: [Proposta de consolidació de 48 propostes en 30 recursos visuals](proposta_consolidacio_48_a_30_recursos_visuals_2026-11.md).
+
+Estat: consolidació conceptual completada; producció, inserció i validació en maqueta pendents.

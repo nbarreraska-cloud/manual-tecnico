@@ -500,7 +500,7 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 
 ## C2 — Inventari de les pintures
 
-### 2.2 — Organització documental de la informació sobre les pintures
+### Figura 2.1 (identificador original P1 2.2) — Organització documental de la informació sobre les pintures
 - **Ubicació:** apartat 2.5.
 - **Llegenda prevista:** «Relació entre inventari, catàleg, fitxes individuals, caracterització tècnica i aplicació pràctica de les pintures.»
 - **Representació:** mapa de relacions entre el capítol 2, l'annex A, les fitxes, el capítol 3 i els capítols tècnics.

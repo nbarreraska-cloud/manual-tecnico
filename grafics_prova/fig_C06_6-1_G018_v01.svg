@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900"><defs><style>.t{font:700 30px Arial,sans-serif;fill:#183247}.h{font:700 21px Arial,sans-serif;fill:#28465b}.b{font:17px Arial,sans-serif;fill:#263b49}.s{font:14px Arial,sans-serif;fill:#526777}.p{fill:#fff;stroke:#b7c7d1;stroke-width:2}</style></defs>
+<rect width="1400" height="900" fill="#f3f6f8"/><text x="700" y="52" text-anchor="middle" class="t">Distribució de la il·luminació en superfícies planes i corbes</text>
+<rect x="35" y="95" width="650" height="710" rx="16" class="p"/><rect x="715" y="95" width="650" height="710" rx="16" class="p"/>
+<text x="360" y="145" text-anchor="middle" class="h">Pla d'orientació constant</text><text x="1040" y="145" text-anchor="middle" class="h">Superfície corba · normals variables</text>
+<circle cx="130" cy="270" r="40" fill="#f2c94c"/><path d="M170 270 L390 470" stroke="#d3a52d" stroke-width="5"/><rect x="250" y="470" width="300" height="90" fill="#83afd0" stroke="#28465b" stroke-width="3"/><rect x="250" y="470" width="300" height="90" fill="#f2c94c" opacity=".32"/>
+<path d="M250 585 H550" stroke="#28465b" stroke-width="2"/><text x="400" y="640" text-anchor="middle" class="s">Orientació igual al llarg del pla</text>
+<circle cx="800" cy="270" r="40" fill="#f2c94c"/><path d="M840 270 L1080 470" stroke="#d3a52d" stroke-width="5"/><path d="M800 560 C860 390 1180 390 1240 560 Z" fill="#83afd0" stroke="#28465b" stroke-width="3"/><path d="M800 560 C860 390 1180 390 1240 560 Z" fill="#f2c94c" opacity=".32"/>
+<path d="M850 460 L815 380 M1020 405 V315 M1185 460 L1220 380" stroke="#d34b43" stroke-width="4" fill="none"/>
+<text x="1040" y="640" text-anchor="middle" class="s">La inclinació local modifica la recepció de llum</text>
+<text x="700" y="745" text-anchor="middle" class="s">Esquema geomètric simplificat; no representa una mesura fotomètrica ni una distribució de llum calculada.</text></svg>

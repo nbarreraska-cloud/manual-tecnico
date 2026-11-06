@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100" role="img" aria-labelledby="title desc">
+<title id="title">G044 i G048 — Font emissora i construcció de l'OSL</title>
+<desc id="desc">Dos panells: esquema espacial de la font lluminosa i les superfícies receptores; seqüència de planificació, aplicació i integració de l'OSL.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#202936"/><stop offset="1" stop-color="#111923"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#fff4bf" stop-opacity="1"/><stop offset=".32" stop-color="#ffbd58" stop-opacity=".8"/><stop offset="1" stop-color="#ff8b35" stop-opacity="0"/></radialGradient>
+  <linearGradient id="receiver" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8d9bab"/><stop offset="1" stop-color="#394858"/></linearGradient>
+  <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L9,3 L0,6 Z" fill="#ffc66d"/></marker>
+  <style>
+    text{font-family:Arial,Helvetica,sans-serif;fill:#f4f0e8}
+    .h1{font-size:31px;font-weight:700;letter-spacing:.3px}
+    .h2{font-size:23px;font-weight:700}
+    .body{font-size:19px}
+    .small{font-size:16px;fill:#d4dce4}
+    .muted{fill:#aebdca}
+    .panel{fill:#202c39;stroke:#536475;stroke-width:2}
+    .line{stroke:#ffc66d;stroke-width:4;fill:none;marker-end:url(#arrow)}
+    .step{fill:#293847;stroke:#65788a;stroke-width:2}
+    .num{fill:#ffc66d;font-size:22px;font-weight:700}
+  </style>
+</defs>
+<rect width="1600" height="1100" fill="url(#bg)"/>
+<text x="70" y="66" class="h1">LLUM EMESA I CONSTRUCCIÓ DE L'OSL</text>
+<text x="70" y="101" class="small">Dues lectures complementàries: relació espacial de la llum i procés pictòric d'integració</text>
+
+<!-- G044 -->
+<rect x="55" y="135" width="1490" height="410" rx="18" class="panel"/>
+<text x="90" y="180" class="h2">G044 · FIGURA 17.1 — FONT EMISSORA I SUPERFÍCIES RECEPTORES</text>
+<text x="90" y="211" class="small">La font és l'origen representat; les superfícies veïnes reben la llum i poden mostrar reflexos localitzats.</text>
+
+<!-- light source -->
+<circle cx="330" cy="365" r="125" fill="url(#glow)"/>
+<circle cx="330" cy="365" r="44" fill="#fff0ae" stroke="#fff9df" stroke-width="5"/>
+<path d="M310 365 Q330 340 350 365 Q330 390 310 365Z" fill="#ffc05b" opacity=".75"/>
+<text x="330" y="455" text-anchor="middle" class="body">Font lluminosa</text>
+<text x="330" y="481" text-anchor="middle" class="small">emissió representada</text>
+
+<!-- rays -->
+<path d="M390 340 L760 275" class="line"/>
+<path d="M390 390 L760 445" class="line"/>
+<text x="555" y="300" class="small" transform="rotate(-10 555 300)">llum incident</text>
+<text x="565" y="435" class="small" transform="rotate(9 565 435)">llum incident</text>
+
+<!-- receiver upper -->
+<path d="M790 245 L1050 245 L1110 295 L850 295 Z" fill="url(#receiver)" stroke="#a9b8c7" stroke-width="3"/>
+<path d="M850 295 L1110 295 L1110 360 L850 360 Z" fill="#46596b" stroke="#a9b8c7" stroke-width="3"/>
+<path d="M790 245 L850 295 L850 360 L790 310 Z" fill="#354758" stroke="#a9b8c7" stroke-width="3"/>
+<path d="M810 247 L865 292 L1038 292" stroke="#ffb34d" stroke-width="12" opacity=".9" fill="none"/>
+<text x="950" y="390" text-anchor="middle" class="body">Superfície receptora A</text>
+<text x="950" y="416" text-anchor="middle" class="small">zona il·luminada</text>
+
+<!-- receiver lower -->
+<path d="M790 425 L1050 425 L1110 475 L850 475 Z" fill="url(#receiver)" stroke="#a9b8c7" stroke-width="3"/>
+<path d="M850 475 L1110 475 L1110 520 L850 520 Z" fill="#46596b" stroke="#a9b8c7" stroke-width="3"/>
+<path d="M790 425 L850 475 L850 520 L790 470 Z" fill="#354758" stroke="#a9b8c7" stroke-width="3"/>
+<path d="M855 478 L930 478" stroke="#ffb34d" stroke-width="11" opacity=".95"/>
+<text x="1215" y="450" class="body">Reflex localitzat</text>
+<text x="1215" y="478" class="small">accent sobre una zona</text>
+<text x="1215" y="502" class="small">orientada cap a la font</text>
+<path d="M1090 482 L1185 465" stroke="#ffc66d" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<text x="1190" y="290" class="body">Llum rebuda</text>
+<text x="1190" y="318" class="small">no és una segona font</text>
+<path d="M1105 310 L1175 310" stroke="#aebdca" stroke-width="2" fill="none"/>
+
+<!-- G048 -->
+<rect x="55" y="575" width="1490" height="445" rx="18" class="panel"/>
+<text x="90" y="620" class="h2">G048 · FIGURA 17.5 — SEQÜÈNCIA DE CONSTRUCCIÓ I INTEGRACIÓ DE L'OSL</text>
+<text x="90" y="651" class="small">La seqüència orienta el treball; cal revisar-la segons la geometria, el material i la intensitat de la font.</text>
+
+<!-- five steps -->
+<g>
+ <rect x="85" y="700" width="260" height="220" rx="14" class="step"/>
+ <circle cx="120" cy="738" r="22" fill="#ffc66d"/><text x="120" y="746" text-anchor="middle" style="fill:#202936;font-size:22px;font-weight:700">1</text>
+ <text x="155" y="746" class="h2">Planificar</text>
+ <path d="M125 785 L295 785" stroke="#8395a6" stroke-width="2"/>
+ <text x="110" y="825" class="body">Definir la font,</text><text x="110" y="852" class="body">la direcció i</text><text x="110" y="879" class="body">l'abast previst.</text>
+
+ <rect x="375" y="700" width="260" height="220" rx="14" class="step"/>
+ <circle cx="410" cy="738" r="22" fill="#ffc66d"/><text x="410" y="746" text-anchor="middle" style="fill:#202936;font-size:22px;font-weight:700">2</text>
+ <text x="445" y="746" class="h2">Situar la font</text>
+ <path d="M415 785 L585 785" stroke="#8395a6" stroke-width="2"/>
+ <circle cx="505" cy="835" r="25" fill="#ffca68"/><circle cx="505" cy="835" r="48" fill="none" stroke="#ffca68" stroke-width="3" opacity=".45"/>
+ <text x="505" y="895" text-anchor="middle" class="small">Origen i orientació</text>
+
+ <rect x="665" y="700" width="260" height="220" rx="14" class="step"/>
+ <circle cx="700" cy="738" r="22" fill="#ffc66d"/><text x="700" y="746" text-anchor="middle" style="fill:#202936;font-size:22px;font-weight:700">3</text>
+ <text x="735" y="746" class="h2">Mapar rebudes</text>
+ <path d="M705 785 L875 785" stroke="#8395a6" stroke-width="2"/>
+ <path d="M735 855 L845 815 L865 865 Z" fill="#718496" stroke="#b7c5d1" stroke-width="2"/>
+ <path d="M748 845 L790 830" stroke="#ffc66d" stroke-width="8"/>
+ <text x="795" y="895" text-anchor="middle" class="small">Plans i zones afectades</text>
+
+ <rect x="955" y="700" width="260" height="220" rx="14" class="step"/>
+ <circle cx="990" cy="738" r="22" fill="#ffc66d"/><text x="990" y="746" text-anchor="middle" style="fill:#202936;font-size:22px;font-weight:700">4</text>
+ <text x="1025" y="746" class="h2">Aplicar</text>
+ <path d="M995 785 L1165 785" stroke="#8395a6" stroke-width="2"/>
+ <path d="M1015 860 Q1080 810 1155 850" stroke="#ffb34d" stroke-width="14" fill="none" opacity=".85"/>
+ <path d="M1015 875 Q1080 835 1155 865" stroke="#f5dfac" stroke-width="5" fill="none"/>
+ <text x="1085" y="895" text-anchor="middle" class="small">Valor, color i transició</text>
+
+ <rect x="1245" y="700" width="260" height="220" rx="14" class="step"/>
+ <circle cx="1280" cy="738" r="22" fill="#ffc66d"/><text x="1280" y="746" text-anchor="middle" style="fill:#202936;font-size:22px;font-weight:700">5</text>
+ <text x="1315" y="746" class="h2">Integrar i revisar</text>
+ <path d="M1285 785 L1455 785" stroke="#8395a6" stroke-width="2"/>
+ <path d="M1300 855 L1345 820 L1400 840 L1450 815" stroke="#aebdca" stroke-width="8" fill="none"/>
+ <path d="M1335 834 L1360 825" stroke="#ffc66d" stroke-width="8"/>
+ <text x="1375" y="895" text-anchor="middle" class="small">Coherència amb l'entorn</text>
+</g>
+<path d="M348 810 L367 810 M638 810 L657 810 M928 810 L947 810 M1218 810 L1237 810" stroke="#ffc66d" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="90" y="970" class="small">Nota: esquema conceptual. L'OSL és una simulació pictòrica; la pintura no emet llum real. La intensitat i l'extensió de la llum representada depenen de la font i de les superfícies.</text>
+</svg>

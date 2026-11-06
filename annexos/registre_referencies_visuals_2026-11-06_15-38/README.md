@@ -579,67 +579,57 @@ Una làmina original de dos panells coordinats:
 
 ---
 
-## G081 — Figura 23.6. Plecs i punts de tensió dels teixits
+## G081 — Figura 23.5. Plecs i punts de tensió dels teixits
 
-**Capítol:** 23 — Teixits i teles. **Ubicació F9:** pàgines 172–173. **Fitxa F10:** C23, identificador 23.6; ubicació 23.9.1–23.9.2.  
-**Estat:** contingut i criteri visual contrastats; brief per a generació externa preparat. Producció, revisió visual i validació d'impressió pendents.
+**Capítol:** 23 — Teixits i teles. **Ubicació F9:** pàgines 172–173. **Fitxa F10:** C23, identificador 23.5; ubicació 23.9.1–23.9.2.  
+**Estat:** imatge generada amb Runway; revisió visual editorial i transferència del fitxer PNG al repositori pendents. No es considera arxivada ni validada.
 
 ### Objectiu didàctic
 
 Mostrar que els plecs no són línies decoratives independents, sinó deformacions de la tela relacionades amb els punts de subjecció, la tensió, la compressió, les zones lliures, la gravetat i els canvis d'orientació.
 
-### Decisió visual
+### Brief i producció realitzada
 
-Es proposa una làmina editorial d'il·lustració digital amb tres vinyetes coordinades, utilitzant una tela mate de gruix mitjà i una il·luminació constant:
+S'ha generat una primera imatge amb Runway, en format PNG 4:3 i resolució 2K. La composició produïda mostra una única tela de teixit mate drapada sobre un suport arrodonit i intenta fer visibles quatre comportaments: plecs de tensió radiats des d'un punt de subjecció, plecs de compressió, plecs amplis de caiguda per gravetat i plecs de contacte amb el suport.
 
-1. **Subjecció i tensió:** tela fixada en un punt o en una vora; els plecs principals s'organitzen des de la zona de subjecció i segueixen la direcció de la tracció.
-2. **Compressió i contacte:** tela comprimida en una zona de contacte o articulació; plecs més curts i agrupats, sense repetir-los de manera regular.
-3. **Caiguda i gravetat:** zona de tela lliure que penja; plecs més amplis i continus, amb direcció condicionada pel pes i la geometria.
+La imatge generada és una primera proposta, no una versió final aprovada. La composició d'una sola escena no coincideix literalment amb la proposta inicial de tres vinyetes independents; cal valorar si la lectura dels quatre comportaments és prou clara o si convé ajustar-la abans de tancar la figura.
 
-Les tres vinyetes han de permetre distingir plecs principals i secundaris, crestes i valls, punts de fixació, direccions de tensió i zones de compressió. Les fletxes i etiquetes s'afegiran posteriorment en edició vectorial; la imatge generada no ha de contenir text.
+### Registre de generació
 
-### Brief per al generador extern
+- **Plataforma:** Runway.
+- **Model:** Nano Banana 2.
+- **Format:** PNG, 4:3, 2K.
+- **Identificador de tasca Runway:** `03cfd908-58d9-4895-9f2c-90d140953b54`.
+- **Identificador de recurs a la galeria Runway:** `4a17e076-453d-40a3-a3fe-d9c85e74d2d6`.
+- **Crèdits restants indicats després de la generació:** 489.
+- **Prompt:** tela mate de teixit visible drapada sobre un suport arrodonit; quatre comportaments de plec diferenciats; llum suau des de dalt a l'esquerra; fons gris molt clar; sense text, etiquetes ni fletxes.
 
-**Prompt principal:**
+### Fitxer i arxivament
 
-> Create a refined, high-end digital textbook illustration plate about how fabric folds form under attachment, tension, compression and gravity. Landscape composition, three clearly separated but visually coherent instructional vignettes on a warm off-white background. Use the same medium-weight, matte, neutral grey-beige cloth in all three vignettes, with consistent soft studio lighting from the upper left and realistic, carefully observed fabric volume.
->
-> Vignette 1: fabric attached at a clear upper fixing point or edge, with primary folds radiating and flowing from the attachment according to the direction of tension. Show believable transitions between taut areas and relaxed fabric.
->
-> Vignette 2: fabric compressed at a contact or articulated area, producing short, clustered, irregular folds. Make the compression understandable through the cloth geometry, not through decorative dark lines.
->
-> Vignette 3: a freely hanging section of fabric shaped by gravity, with broader, continuous folds and natural variation in width and depth.
->
-> Make the cloth physically plausible and sculpturally readable. Clearly distinguish raised fold ridges from recessed valleys through light and shadow. Keep the fabric surface simple and matte so that the fold structure remains the focus. Sophisticated scientific editorial illustration, accurate material rendering, restrained palette, crisp edges where needed, subtle painterly transitions, excellent tonal hierarchy, professional art direction, generous negative space around each vignette. No labels, no lettering, no numbers, no arrows, no symbols, no watermark, no decorative patterns, no extra objects.
+La generació ha acabat correctament i el recurs consta a la galeria de Runway. **El fitxer PNG encara no s'ha pogut copiar a aquesta carpeta de GitHub**: la via de transferència disponible en aquesta sessió no ha permès obtenir els bytes del fitxer generat. Per tant, no s'ha creat cap fitxer d'imatge fictici ni s'ha substituït per un enllaç temporal.
 
-**Negative prompt / exclusions:** pleats arranged in evenly spaced parallel rows; arbitrary dark contour lines; identical folds repeated across all vignettes; glossy satin reflections; velvet pile; busy fabric patterns; exaggerated wrinkles; unsupported anatomical detail; hands or figures obscuring the cloth; text or pseudo-text; infographic icons; collage-like panel overlap.
+Cal recuperar el PNG des del recurs de Runway i afegir-lo a aquesta carpeta amb un nom estable, per exemple `G081_figura_23_5_plecs_punts_tensio.png`. Després s'haurà de recuperar el fitxer des de GitHub per comprovar-ne la presència i la integritat.
 
-### Criteris de validació de la imatge generada
+### Criteris de validació pendents
 
-- Les tres situacions s'han de distingir sense dependre de les etiquetes.
-- Els plecs han de néixer de punts de subjecció, tensió, compressió o caiguda plausibles.
-- La gravetat i les zones lliures han de ser llegibles en la tercera vinyeta.
-- Les crestes i les valls han de definir volum; no s'han de substituir per ratlles fosques.
-- No s'ha de suggerir un patró universal: la geometria representada és un exemple didàctic.
-- La mateixa tela mate i la mateixa llum s'han de mantenir entre vinyetes per facilitar la comparació.
-- Afegir després, manualment, les etiquetes en català: «punt de subjecció», «direcció de la tensió», «zona de compressió», «plec principal», «plec secundari», «caiguda» i «gravetat», només quan cada element sigui inequívoc.
-- La il·lustració generada és una base visual; les fletxes, els rètols i la composició final es validaran i s'editaran externament.
-
-### Límit tècnic
-
-La fitxa F10 utilitza l'identificador 23.6 dins C23; G081 es conserva aquí com a identificador de treball del registre visual. La numeració que ha d'aparèixer a la maquetació és **Figura 23.6**. No s'ha de confondre l'identificador intern G081 amb el número de figura.
+- Comprovar que els quatre comportaments de plec es distingeixen sense etiquetes.
+- Verificar que els plecs neixen de punts de subjecció, tensió, compressió, contacte o caiguda físicament plausibles.
+- Comprovar que les crestes i les valls defineixen volum i no semblen línies decoratives.
+- Valorar si la composició única és didàcticament suficient o si cal recuperar les tres vinyetes previstes.
+- Afegir posteriorment, en català, les etiquetes i fletxes necessàries només quan cada element sigui inequívoc.
+- Validar la llegibilitat a la mida final d'impressió després de la inserció a la còpia de maquetació.
 
 ### Procedència i drets d'ús
 
-La imatge final s'ha de generar en una plataforma externa a ChatGPT. No s'utilitzarà ImageGen ni cap generador integrat a ChatGPT. Cal conservar el prompt, identificar l'eina externa i registrar la versió final seleccionada i les condicions d'ús aplicables.
+La imatge és una generació original feta amb Runway. Cal conservar el registre de la plataforma, la tasca i el prompt. La disponibilitat del recurs a Runway no substitueix la còpia estable al repositori ni la validació editorial.
 
 ### Historial de decisions
 
 | Data | Decisió | Estat |
 |---|---|---|
-| 2026-11-06 | Contrastar el contingut del capítol 23 amb la fitxa F10 C23, identificador 23.6 | Contingut i ancoratge verificats |
-| 2026-11-06 | Substituir el plantejament de diagrama SVG per una il·lustració digital generada externament, amb anotacions afegides després | Via de producció definida |
-| 2026-11-06 | Preparar prompt i criteris de validació; no generar dins de ChatGPT | Brief preparat; producció externa pendent |
+| 2026-11-06 | Contrastar G081 amb la fitxa F10 C23 i corregir la numeració de la figura a 23.5 | Identificador i ancoratge verificats |
+| 2026-11-06 | Generar una primera imatge externa amb Runway, sense crear variants addicionals | Generada; revisió pendent |
+| 2026-11-06 | Registrar la tasca i els paràmetres; ajornar la declaració de figura final fins a la còpia i validació | Registre actualitzat; arxivament a GitHub pendent |
 
 ## G083 + G084 — Figures 24.2 i 24.3. Pigmentacions de la pell i mapa cromàtic del rostre
 

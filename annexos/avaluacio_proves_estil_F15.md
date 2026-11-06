@@ -338,3 +338,12 @@ La revisió visual de G042 v02 confirma que la geometria de la fulla és constan
 ### Revisió visual de G003 v02 i G006 v03
 
 La renderització del commit `0b9bec6b62d408a12c47edaed32260586efa1e8b` confirma que G003 v02 ja situa la nota comuna fora de l'àrea dels panells i manté llegibles les quatre mostres conceptuals. G006 v03 presenta els resultats ideals RGB/CMY com a combinacions explícites i separades; després de corregir el contrast de la tipografia clara sobre fons fosc, la lectura és satisfactòria a la resolució del PNG. Ambdues continuen pendents de lectura en la mida real de maquetació i d'aprovació editorial.
+
+
+## 20. Renderització i revisió visual de G042 v03
+
+El workflow [Render SVG prototype review](https://github.com/nbarreraska-cloud/manual-tecnico/actions/runs/42136936577) ha completat correctament la validació XML i la renderització dels prototips. El PNG de G042 v03 confirma que la fulla manté la mateixa geometria als sis panells i que els plans superior i inferior es distingeixen millor que a v02. Les masses fosques, la transició intermèdia, el reflex principal i els accents tenen una relació més clara amb els plans de la fulla. La fase 6 introdueix un ajust addicional de transició i jerarquia respecte de la fase 5.
+
+**Dictamen provisional:** G042 v03 és una millora tècnica clara i apta per passar a revisió editorial de contingut i lectura a mida real de pàgina. No queda aprovada ni inserida. Continua identificada com a E1 proposada i no assajada.
+
+La mateixa execució confirma que G003 v02 i G006 v03 renderitzen correctament i que les correccions de composició i contrast es veuen al PNG. Això no substitueix la comprovació a la mida final de maquetació ni l'aprovació editorial.

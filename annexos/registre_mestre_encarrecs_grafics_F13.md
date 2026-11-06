@@ -211,3 +211,6 @@ L'evidència continua registrada com E2 a nivell de planificació, però no es p
 - G042: [SVG v02](../grafics_prova/fig_C16_16-4_G042_v02.svg), seqüència E1 proposada no assajada. La v01 es conserva com a antecedent rebutjat; la v02 utilitza una mateixa fulla d'espasa i fa progressar masses fosques, transicions, reflex principal, accents i integració.
 
 Tots dos prototips resten en revisió tècnica. La creació dels SVG no equival a aprovació ni a inserció al manual.
+
+
+- G006: [SVG v02](../grafics_prova/fig_C04_4-1_G006_v02.svg). La versió utilitza composició alfa SVG estàndard en lloc de modes de fusió no suportats pel renderitzador anterior. Pendent de renderització i revisió; la v01 es conserva.

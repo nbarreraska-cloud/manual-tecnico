@@ -565,3 +565,10 @@ Els 65 fitxers SVG del directori han superat la validació XML i l'exportació C
 Aquesta validació confirma el render tècnic dels 65 fitxers, no la seva aprovació editorial. La inspecció individual a mida màxima s'ha fet sobre una selecció representativa i sobre les figures amb incidències detectades; no s'ha completat encara una revisió exhaustiva de cada versió històrica. Les 24 composicions amb prototip continuen pendents de revisió editorial i tipogràfica; les altres 126 composicions no tenen encara un prototip SVG actiu referenciat a F13.
 
 Cap SVG s'ha inserit al manual. F10, la selecció de 150 composicions, els capítols consolidats, `main` i el màster de text sense imatges romanen sense modificacions.
+
+
+## 30. Recerca visual — tanda 05 — 06/11/2026
+
+S'ha afegit `annexos/registre_recerca_visual_tanda_05.md`, centrada en escorça, molsa, líquens, falgueres, gel i malla metàl·lica. S'hi documenten 13 recursos amb autoria i llicència identificades i un recurs descartat per resolució molt baixa i permís de reutilització insuficientment acreditat.
+
+Amb les tandes 02–05, el registre acumula 41 candidatures noves amb autoria i llicència identificades i 11 recursos en reserva o descartats. Aquest recompte és documental: no equival a 41 recursos únics ni a 41 imatges aptes per al manual. No s'ha descarregat ni incorporat cap recurs; tots resten pendents de coteig amb F10, del text lector i dels drets subjacents.

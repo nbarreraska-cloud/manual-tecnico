@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "G170",
+  "editorial_title": "29",
+  "chapter": "CV-29-03",
+  "placement": "Distribució de dipòsits segons la geometria i l'ús",
+  "brief_title": "Distribució de dipòsits segons la geometria i l'ús",
+  "composition": "## G170 — Distribució de dipòsits segons la geometria i l'ús\n\n**Capítol i ancoratge:** C29, després de 29.7.5 — «Combinació de pols, fang i brutícia».  \n**Tipus:** E0 — esquema conceptual de distribució.\n\n**Composició**\n- Tres geometries comparables:\n  1. superfície horitzontal: acumulació i retenció;\n  2. superfície vertical: rastres, escorriments i acumulació en punts de contacte;\n  3. superfície corba: zones de retenció i dipòsits condicionats per la forma.\n- Un quart detall opcional pot mostrar combinació selectiva de pols, terra, fang i brutícia.\n- Les fletxes o indicadors han d'explicar orientació, gravetat, contacte i ús, no decorar.\n\n**Jerarquia de lectura**\nLa relació entre geometria i distribució és principal. La varietat de materials dipositats és secundària.\n\n**Informació que ha de quedar clara**\nEls dipòsits segueixen la forma, l'orientació, el contacte i l'ús. No són esquitxades aleatòries ni una capa uniforme.\n\n**No representar**\nPatrons regulars repetitius, cobertura total que oculti la geometria o confusió entre dipòsit, desgast i corrosió.\n\n**Control de qualitat**\nCada acumulació ha de tenir una causa espacial llegible. Els tres casos han de ser comparables i prou diferents perquè s'entengui el paper de l'orientació.\n\n---",
+  "source": "annexos/briefs_visuals_detallats_G151-G170_DBD02_2026-11.md",
+  "production_status": "brief_structured_not_renderable",
+  "approval_status": "brief_approved_visual_design_pending",
+  "rendering_note": "No renderitzar fins que s'hagi desenvolupat una plantilla que representi fidelment aquesta composició."
+}

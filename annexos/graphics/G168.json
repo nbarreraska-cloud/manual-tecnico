@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "G168",
+  "editorial_title": "29",
+  "chapter": "CV-29-01",
+  "placement": "Pols, dipòsits secs i terres compactades",
+  "brief_title": "Pols, dipòsits secs i terres compactades",
+  "type": "E0 — comparació conceptual de materials i aparences.",
+  "composition": "## G168 — Pols, dipòsits secs i terres compactades\n\n**Capítol i ancoratge:** C29, després de 29.4 — «Terra i terrenys compactats».  \n**Tipus:** E0 — comparació conceptual de materials i aparences.\n\n**Composició**\n- Dos blocs:\n  - **A. Pols i dipòsits secs:** gra fi, cobertura discontínua, acumulació en zones de retenció i adherència superficial.\n  - **B. Terra compactada:** gra, irregularitat, compacció, relleu i continuïtat amb el terreny.\n- Mostrar diferències de cobertura i volum amb mostres de mida comparable.\n- Variacions cromàtiques només com a exemples.\n\n**Jerarquia de lectura**\nDiferència entre dipòsit superficial i massa de terra compactada; color en segon pla.\n\n**Informació que ha de quedar clara**\nLa pols no és terra compactada a escala reduïda. Gra, adherència, densitat i volum canvien la lectura.\n\n**No representar**\nUna repetició del procediment general d'aplicació de pigments del C11. No utilitzar el color com a únic identificador.\n\n**Control de qualitat**\nLes acumulacions han de respondre a la superfície i a les zones de retenció, no a una distribució uniforme sense causa.",
+  "source": "annexos/briefs_visuals_detallats_G151-G170_DBD02_2026-11.md",
+  "production_status": "brief_structured_not_renderable",
+  "approval_status": "brief_approved_visual_design_pending",
+  "rendering_note": "No renderitzar fins que s'hagi desenvolupat una plantilla que representi fidelment aquesta composició."
+}

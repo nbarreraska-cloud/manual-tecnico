@@ -5,7 +5,7 @@
   "subtitle": "Tres grups de materials amb estructures i superfícies diferents",
   "description": "Comparació esquemàtica de teixit ossi, teixits dentals i banya de bòvid amb nucli ossi recobert per beina de queratina. Les formes són conceptuals, no anatòmiques ni histològiques.",
   "template": "biological_material_atlas",
-  "note": "Esquema conceptual basat en el capítol 25. Verificar les siluetes i la llegibilitat a mida d'impressió.",
+  "note": "Les astes dels cèrvids són òssies; la banya del rinoceront és principalment queratina compactada.",
   "production_status": "family_prototype_renderable",
   "approval_status": "not_approved_pending_visual_and_documentary_review",
   "provenance": "Brief DBD-02 G158 i capítol 25, apartats 25.1 i 25.2. El capítol diferencia os, teixits dentals i estructures queratíniques; les banyes dels bòvids tenen nucli ossi recobert per beina de queratina. Les astes dels cèrvids són òssies i la banya del rinoceront és principalment queratina compactada.",

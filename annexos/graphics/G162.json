@@ -1,14 +1,16 @@
 {
   "schema_version": 1,
   "id": "G162",
-  "editorial_title": "Construcció de textures pètries, vetes i components minerals",
   "chapter": "26",
   "placement": "després de 26.8.",
-  "brief_title": "Construcció de textures pètries, vetes i components minerals",
-  "type": "E1 — procediments de representació proposats.",
-  "composition": "## G162 — Construcció de textures pètries, vetes i components minerals\n\n**Capítol i ancoratge:** C26, després de 26.8 — «Vetes, components minerals i pedra treballada».  \n**Tipus:** E1 — procediments de representació proposats.\n\n**Composició**\n- Matriu de quatre estudis:\n  1. granulat irregular i components dominants/secundaris;\n  2. estrats i plans de separació;\n  3. bandes, vetes i components minerals;\n  4. pedra treballada, marques d'eina, juntes i alteracions localitzades.\n- Cada estudi ha d'incloure una vista general i, quan sigui necessari, una ampliació del patró.\n- Relacionar les marques amb la geometria del bloc o la superfície.\n\n**Jerarquia de lectura**\nEls quatre patrons tenen rang comparable; la pedra treballada ha de quedar visualment diferenciada de la textura natural.\n\n**Informació que ha de quedar clara**\nNo totes les roques es resolen amb puntejat. La textura depèn de components, plans, fractures, erosió i intervenció humana.\n\n**No representar**\nUna repetició de l'atles de G161. No presentar les tècniques de C13 com a receptes obligatòries o exclusives per a roca.\n\n**Control de qualitat**\nLes vetes han de seguir una estructura coherent amb el volum; les marques d'eina han de suggerir una acció sobre la pedra, no un patró decoratiu arbitrari.",
-  "source": "annexos/briefs_visuals_detallats_G151-G170_DBD02_2026-11.md",
-  "production_status": "brief_structured_not_renderable",
-  "approval_status": "brief_approved_visual_design_pending",
-  "rendering_note": "No renderitzar fins que s'hagi desenvolupat una plantilla que representi fidelment aquesta composició."
+  "production_status": "family_prototype_renderable",
+  "approval_status": "not_approved_pending_visual_and_documentary_review",
+  "rendering_note": "No renderitzar fins que s'hagi desenvolupat una plantilla que representi fidelment aquesta composició.",
+  "title": "Construcció de textures pètries",
+  "subtitle": "Components · estrats · vetes i fractures · pedra treballada",
+  "description": "Quatre estudis esquemàtics de construcció pictòrica de superfícies pètries: distribució irregular de components minerals, estrats discontinus, vetes i fractures integrades en el volum, i pedra treballada amb plans de tall, juntes i marques d'eina.",
+  "template": "stone_texture_studies",
+  "note": "Basat en C26.8 i els procediments del capítol 26. Les mostres són esquemàtiques; no són receptes experimentades ni textures geològiques universals.",
+  "provenance": "Brief DBD-02 G162 i capítol 26, especialment 26.3–26.8 i criteris d'avaluació. Es diferencia la textura natural de la pedra treballada; volum i plans precedeixen les marques superficials.",
+  "evidence_note": "E1 — procediments de representació proposats pel capítol. Les quatre mostres són esquemes didàctics, no resultats d'experimentació ni identificacions litològiques."
 }

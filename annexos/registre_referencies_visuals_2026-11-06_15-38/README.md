@@ -2,7 +2,7 @@
 
 **Data de creació:** 2026-11-06  
 **Hora de creació:** 15:38 (Europe/Madrid, UTC+01:00)  
-**Darrera actualització:** 2026-11-06, 15:42 (Europe/Madrid, UTC+01:00)  
+**Darrera actualització:** 2026-11-06 (Europe/Madrid)  
 **Branca:** `auditoria-cobertura-visual-incidencies-2026-11`
 
 Aquest és el registre únic i acumulatiu de totes les figures que es treballin en aquesta fase. Les decisions de cada figura s'incorporen com a seccions d'aquest document; no es creen fitxers individuals.
@@ -83,14 +83,72 @@ No s'utilitzarà cap imatge externa com a imatge final de G001. Les referències
 
 ## G002 — Figura 2.1. Organització documental de la informació sobre les pintures
 
+**Data del registre:** 2026-11-06  
 **Capítol:** 2  
 **Ubicació:** apartat 2.5  
-**Estat:** pendent d'anàlisi i cerca.
+**Estat:** cerca tancada; solució definida com a diagrama original pendent de producció.
 
-### Especificació inicial recuperada
+### Objectiu didàctic
 
-Mapa de relacions entre inventari, catàleg, fitxes individuals, caracterització tècnica, capítol 3 i capítols d'aplicació. No repetir taules existents ni atribuir propietats no verificades.
+Explicar com es distribueix i es connecta la informació sobre les 48 pintures al llarg del manual, i ajudar el lector a identificar on ha d'anar segons si necessita una visió general, dades identificatives, documentació individual, criteris d'interpretació tècnica o exemples d'aplicació.
+
+### Especificació de contingut recuperada del manual
+
+- **Capítol 2 — Inventari i organització:** presenta l'abast i l'organització general de les 48 pintures.
+- **Annex A — Catàleg:** reuneix les dades identificatives de les 48 pintures.
+- **Fitxes individuals:** amplien la documentació específica de cada pintura.
+- **Capítol 3 — Caracterització tècnica:** aporta els fonaments per interpretar-ne les propietats i característiques.
+- **Capítols de tècniques i receptes — Aplicacions:** mostren l'ús pràctic dels materials.
+
+La figura ha de preservar la distinció entre identificar un producte, documentar-lo, interpretar-ne el comportament i mostrar-ne aplicacions. No ha d'insinuar que les propietats o els resultats d'una pintura queden verificats pel simple fet d'aparèixer al catàleg.
+
+### Referències visuals examinades
+
+1. **Dassault Systèmes — Document Map and Render Format.** Referència útil per representar una estructura documental que enllaça seccions amb unitats de contingut, sense duplicar-les. És l'analogia més propera a la funció de la figura.  
+   https://3dswym.3dexperience.3ds.com/post/enovia-user-community/introduction-to-structured-document-manager_Xge5r1FLRWaqN9iAYM_Gag
+
+2. **DITA — Cross-Document Linking.** Aporta exemples de referències creuades entre continguts distribuïts en documents o publicacions diferents. La representació concreta és massa densa i tècnica per traslladar-la al manual.  
+   https://www.slideshare.net/slideshow/poster-crossdocument-linking-in-dita/51501810
+
+3. **SAP Commerce — Product Data Flow Diagram.** Mostra la centralització de la informació de producte i les seves diferents sortides. És una referència conceptual secundària, però representa un flux de dades d'un sistema comercial i no una arquitectura editorial.  
+   https://help.sap.com/docs/SAP_COMMERCE/D0224ECA81E249CB821F2CDF45A82ACE/8c32805c866910148932c1df5d0e89c1.html
+
+### Avaluació de les alternatives
+
+- **Mapa jeràrquic d'arbre:** descartat com a solució principal. Simplificaria en excés les relacions i podria suggerir una dependència lineal entre capítols i annexos.
+- **Diagrama de flux de dades de producte:** descartat. La figura no descriu un procés de transformació ni un sistema informàtic.
+- **Mapa de relacions documentals:** escollit com a base conceptual. Permet mostrar les diferents funcions documentals i les seves connexions sense convertir-les en una seqüència.
+
+### Decisió de producció
+
+Crear un **diagrama original de relacions documentals**, amb una composició clara en dues zones funcionals:
+
+- **Identificació i documentació:** capítol 2 (visió general), annex A (catàleg de les 48 pintures) i fitxes individuals (documentació específica).
+- **Interpretació i aplicació:** capítol 3 (fonaments de caracterització tècnica) i capítols de tècniques i receptes (ús pràctic).
+
+Les zones s'han de connectar mitjançant línies o connectors discrets, amb etiquetes curtes que n'expliquin la relació. La composició ha de permetre veure que els capítols i annexos són vies complementàries de consulta sobre un mateix conjunt de pintures, no etapes obligatòries d'un procés.
+
+### Restriccions de representació
+
+- No convertir el diagrama en un flux seqüencial ni numerar les consultes com a passos.
+- No atribuir al catàleg dades de comportament que el capítol 2 no verifica.
+- No confondre inventari, catàleg, fitxa individual i caracterització tècnica.
+- No duplicar les taules de l'annex A ni reproduir les 48 entrades.
+- Utilitzar els noms reals de les seccions del manual i textos en català.
+- Mantenir una jerarquia tipogràfica clara i llegibilitat a la mida final de maquetació.
+- Evitar una estètica d'arquitectura informàtica, base de dades o organigrama corporatiu.
+
+### Procedència i drets d'ús
+
+Les tres referències s'han utilitzat únicament per estudiar estructures i llenguatges de representació. No se selecciona cap imatge externa com a recurs final ni se'n copiarà la composició literal. La figura es produirà com a diagrama original; per tant, no depèn de reutilitzar els drets d'una imatge de tercers.
+
+### Estat de resolució
+
+La cerca de referències i la selecció del tipus de solució visual queden tancades. **La figura final encara no està produïda.**
 
 ### Historial de decisions
 
-Encara no s'ha pres cap decisió visual.
+| Data | Decisió | Estat |
+|---|---|---|
+| 2026-11-06 | Comparar mapa documental, referències creuades i flux de dades de producte | Cerca examinada |
+| 2026-11-06 | Crear un mapa original de relacions documentals en dues zones funcionals | Solució definida; producció pendent |

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "G154",
+  "editorial_title": "12",
+  "chapter": "CV-12-01",
+  "placement": "Tipus de perfilat i definició selectiva dels volums",
+  "brief_title": "Tipus de perfilat i definició selectiva dels volums",
+  "type": "E1 — comparació de procediments proposats.",
+  "composition": "## G154 — Tipus de perfilat i definició selectiva dels volums\n\n**Capítol i ancoratge:** C12, després de 12.3.5 — «Accentuació selectiva de contorns».  \n**Tipus:** E1 — comparació de procediments proposats.\n\n**Composició**\n- Matriu de quatre panells sobre geometries equivalents:\n  1. perfilat de separació entre superfícies contigües;\n  2. perfilat del contorn exterior;\n  3. perfilat selectiu de vores;\n  4. línies internes per definir juntes o detalls.\n- Afegir, si la mida ho permet, un detall final de jerarquia selectiva: zones reforçades i zones que es deixen respirar.\n\n**Jerarquia de lectura**\nEls quatre tipus de perfilat han de tenir el mateix pes. El detall de jerarquia és complementari.\n\n**Informació que ha de quedar clara**\nLa ubicació i la funció de cada línia canvien segons el tipus de perfilat. No tots els límits necessiten la mateixa intensitat ni continuïtat.\n\n**No representar**\nTots els perfils com a línies fosques uniformes. No confondre perfilat de vores amb il·luminació de vores ni amb una línia de contorn aplicada sistemàticament.\n\n**Control de qualitat**\nLa diferència entre els quatre casos s'ha de reconèixer per la funció i la ubicació, no només per canvis de color. Mantenir gruixos i intensitats diferenciats però llegibles.",
+  "source": "annexos/briefs_visuals_detallats_G151-G170_DBD02_2026-11.md",
+  "production_status": "brief_structured_not_renderable",
+  "approval_status": "brief_approved_visual_design_pending",
+  "rendering_note": "No renderitzar fins que s'hagi desenvolupat una plantilla que representi fidelment aquesta composició."
+}

@@ -510,11 +510,11 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 ## C3 — Propietats i comportament de les pintures
 
 ### 3.1 — Comportament d'opacitat i transparència de les pintures
-- **Ubicació:** apartat 3.1.
-- **Llegenda prevista:** «Comparació de pintures opaques, semiopàques, semitransparents i transparents sobre un mateix fons.»
-- **Representació:** mostres amb diferents graus d'ocultació del fons i cobertura de la capa.
-- **Funció didàctica:** distingir l'ocultació del fons, la transmissió visual i la cobertura pictòrica.
-- **Límits:** no convertir els comportaments en categories comercials rígides ni confondre opacitat, transparència, cobertura i uniformitat.
+- **Ubicació corregida:** apartat 3.2.1.
+- **Llegenda prevista:** «Comparació orientativa dels graus d'opacitat i transparència sobre un suport contrastat, amb diferenciació de la capacitat de cobertura.»
+- **Representació:** quatre mostres esquemàtiques —opaca, semiopaca, semitransparent i transparent— sobre un mateix suport de prova amb zones clares i fosques. Un segon panell diferencia una capa distribuïda uniformement d'una cobertura irregular.
+- **Funció didàctica:** distingir l'ocultació del fons, la visibilitat del fons a través de la capa i la continuïtat i uniformitat de la cobertura.
+- **Límits:** no convertir els comportaments en categories comercials rígides ni en llindars universals; no confondre opacitat, transparència i cobertura. La representació és esquemàtica, no una prova de productes ni una caracterització de les 48 pintures. Les comparacions pressuposen un suport, un gruix aproximat de pel·lícula i unes condicions d'aplicació equivalents.
 
 ### 3.2 — Influència del fons en una mateixa capa de pintura
 - **Ubicació:** apartat 3.2.1.

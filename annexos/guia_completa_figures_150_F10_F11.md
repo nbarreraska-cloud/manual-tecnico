@@ -173,7 +173,6 @@
 - **P1 d'origen:** 1.2
 - **Capítol:** 1
 - **Ubicació lectora F10:** apartat 1.5.
-- **P1 confirmat a F11:** 1.2
 - **Punt d'inserció proposat:** Després del paràgraf que tanca l'explicació de les quatre categories A–D i abans de la llista de criteris de rigor.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 1.1 resumeix les quatre categories i permet distingir visualment la naturalesa de cada tipus d'informació.»
@@ -183,7 +182,6 @@
 - **P1 d'origen:** 2.2
 - **Capítol:** 2
 - **Ubicació lectora F10:** apartat 2.5.
-- **P1 confirmat a F11:** 2.2
 - **Punt d'inserció proposat:** Després de la llista que descriu la funció del capítol 2, l'annex A, les fitxes individuals, el capítol 3 i els capítols d'aplicació.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 2.1 sintetitza la relació entre l'inventari, el catàleg, les fitxes de caracterització, els fonaments tècnics i les aplicacions pràctiques.»
@@ -193,7 +191,6 @@
 - **P1 d'origen:** 3.1
 - **Capítol:** 3
 - **Ubicació lectora F10:** apartat 3.1.
-- **P1 confirmat a F11:** 3.1
 - **Punt d'inserció proposat:** Després de la definició d'opacitat, transparència i comportaments intermedis, i de la llista dels tres comportaments generals.
 - **Evidència:** E2
 - **Remissió textual proposada:** «La Figura 3.1 representa de manera esquemàtica els diferents graus d'ocultació del fons.»
@@ -203,7 +200,6 @@
 - **P1 d'origen:** 3.2
 - **Capítol:** 3
 - **Ubicació lectora F10:** apartat 3.2.1.
-- **P1 confirmat a F11:** 3.2
 - **Punt d'inserció proposat:** Després del paràgraf que explica la influència dels fons blanc, gris i fosc i del gruix de la capa.
 - **Evidència:** E2
 - **Remissió textual proposada:** «La Figura 3.2 mostra com una mateixa capa pot presentar aparences diferents segons el valor del fons.»
@@ -213,7 +209,6 @@
 - **P1 d'origen:** 3.3
 - **Capítol:** 3
 - **Ubicació lectora F10:** apartat 3.3.
-- **P1 confirmat a F11:** 3.3
 - **Punt d'inserció proposat:** Després del paràgraf que descriu el desplaçament i l'acumulació en relleus, cavitats i zones estretes, i abans de la descripció específica de Xpress Color.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 3.3 il·lustra esquemàticament la distribució d'una pintura fluida sobre zones elevades i cavitats.»
@@ -224,7 +219,6 @@
 - **P1 d'origen:** 4.3
 - **Capítol:** 4
 - **Ubicació lectora F10:** apartats 4.3.2–4.3.3.
-- **P1 confirmat a F11:** 4.3
 - **Punt d'inserció proposat:** Després de desenvolupar els models RGB i CMY, mantenint diferenciats els processos additiu i sostractiu.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 4.1 compara la mescla additiva RGB amb la mescla sostractiva CMY.»
@@ -234,7 +228,6 @@
 - **P1 d'origen:** 4.4
 - **Capítol:** 4
 - **Ubicació lectora F10:** apartat 4.4.
-- **P1 confirmat a F11:** 4.4
 - **Punt d'inserció proposat:** Després de definir matís, valor i croma i d'explicar que les tres dimensions s'han d'analitzar conjuntament.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 4.2 representa les tres dimensions del color i les diferències entre els criteris que descriuen.»
@@ -244,7 +237,6 @@
 - **P1 d'origen:** 4.6
 - **Capítol:** 4
 - **Ubicació lectora F10:** apartat 4.6.
-- **P1 confirmat a F11:** 4.6
 - **Punt d'inserció proposat:** Després de presentar els esquemes d'harmonia cromàtica i abans de les consideracions d'aplicació i jerarquia.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 4.3 reuneix els principals esquemes d'harmonia cromàtica basats en el cercle RYB tradicional.»
@@ -254,7 +246,6 @@
 - **P1 d'origen:** 4.7
 - **Capítol:** 4
 - **Ubicació lectora F10:** apartat 4.7.
-- **P1 confirmat a F11:** 4.7
 - **Punt d'inserció proposat:** Després de descriure els tipus de contrast i la seva funció en la jerarquia visual.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 4.4 compara els principals tipus de contrast cromàtic i la seva contribució a la jerarquia visual.»
@@ -264,7 +255,6 @@
 - **P1 d'origen:** 4.8
 - **Capítol:** 4
 - **Ubicació lectora F10:** apartat 4.8.
-- **P1 confirmat a F11:** 4.8
 - **Punt d'inserció proposat:** Després d'explicar la mescla física i les modificacions de matís, valor i croma, no al final de la introducció general.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 4.5 sintetitza les principals vies de modificació cromàtica i les dimensions que poden veure's afectades.»
@@ -274,7 +264,6 @@
 - **P1 d'origen:** 4.9
 - **Capítol:** 4
 - **Ubicació lectora F10:** apartat 4.9.
-- **P1 confirmat a F11:** 4.9
 - **Punt d'inserció proposat:** Després de la planificació de la paleta de l'armadura blava i de la comprovació de la jerarquia, abans de l'avaluació final.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 4.6 mostra l'aplicació dels criteris de planificació cromàtica a una miniatura amb armadura blava.»
@@ -284,7 +273,6 @@
 - **P1 d'origen:** 5.4
 - **Capítol:** 5
 - **Ubicació lectora F10:** apartat 5.3.1.
-- **P1 confirmat a F11:** 5.4
 - **Punt d'inserció proposat:** Després del paràgraf que diferencia la normal en superfícies planes i corbes i explica la relació amb l'orientació.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 5.1 compara l'orientació de diferents plans respecte d'una mateixa font lluminosa.»
@@ -295,7 +283,6 @@
 - **P1 d'origen:** 5.6
 - **Capítol:** 5
 - **Ubicació lectora F10:** apartat 5.3.2; remissió conceptual a 5.4.1.
-- **P1 confirmat a F11:** 5.6
 - **Punt d'inserció proposat:** Després de l'expressió de la llei del cosinus i de la definició de l'angle respecte de la normal.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 5.2 identifica la superfície, la normal i les direccions d'incidència, i mostra des de quin eix es mesura l'angle.»
@@ -306,7 +293,6 @@
 - **P1 d'origen:** 5.7
 - **Capítol:** 5
 - **Ubicació lectora F10:** apartats 5.3.1 i 5.3.4.
-- **P1 confirmat a F11:** 5.7
 - **Punt d'inserció proposat:** Després de l'explicació que la normal varia progressivament en superfícies corbes.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 5.3 compara la distribució de la il·luminació sobre superfícies planes i corbes.»
@@ -316,7 +302,6 @@
 - **P1 d'origen:** 5.11
 - **Capítol:** 5
 - **Ubicació lectora F10:** apartat 5.5.1.
-- **P1 confirmat a F11:** 5.11
 - **Punt d'inserció proposat:** Després del paràgraf que explica la relació espacial entre font, objecte que bloqueja la llum i superfície receptora.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 5.4 esquematitza el bloqueig de la llum i la formació de l'ombra sobre una superfície receptora.»
@@ -326,7 +311,6 @@
 - **P1 d'origen:** 5.12
 - **Capítol:** 5
 - **Ubicació lectora F10:** apartat 5.5.2.
-- **P1 confirmat a F11:** 5.12
 - **Punt d'inserció proposat:** Després de distingir l'ombra pròpia de la projectada i d'explicar on apareix cadascuna.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 5.5 diferencia l'ombra pròpia de l'ombra projectada en una mateixa situació d'il·luminació.»
@@ -336,7 +320,6 @@
 - **P1 d'origen:** 5.13
 - **Capítol:** 5
 - **Ubicació lectora F10:** apartat 5.5.3.
-- **P1 confirmat a F11:** 5.13
 - **Punt d'inserció proposat:** Després de definir umbra i penombra i explicar la influència de la mida aparent de la font.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 5.6 representa les regions d'umbra i penombra produïdes per una font extensa.»
@@ -346,7 +329,6 @@
 - **P1 d'origen:** 5.15
 - **Capítol:** 5
 - **Ubicació lectora F10:** apartat 5.7.
-- **P1 confirmat a F11:** 5.15
 - **Punt d'inserció proposat:** Després de la síntesi de les senyals que contribueixen a la percepció del volum i abans del paràgraf sobre simplificació pictòrica.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 5.7 relaciona la distribució de llums, ombres, reflexos i canvis d'orientació amb la construcció visual del volum.»
@@ -356,7 +338,6 @@
 - **P1 d'origen:** 5.16
 - **Capítol:** 5
 - **Ubicació lectora F10:** apartat 5.8.4.
-- **P1 confirmat a F11:** 5.16
 - **Punt d'inserció proposat:** Després del paràgraf que diferencia la il·luminació observada de la representada i abans del criteri de decisió pictòrica.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 5.8 exemplifica l'anàlisi de la il·luminació d'una miniatura i la selecció de la informació que es trasllada a la pintura.»
@@ -367,7 +348,6 @@
 - **P1 d'origen:** 6.1
 - **Capítol:** 6
 - **Ubicació lectora F10:** apartat 6.1.
-- **P1 confirmat a F11:** 6.1
 - **Punt d'inserció proposat:** Després de definir material, aparença material i representació pictòrica, i d'explicar que no hi ha una correspondència visual única.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 6.1 relaciona el material, les senyals d'aparença i la seva interpretació pictòrica.»
@@ -378,7 +358,6 @@
 - **P1 d'origen:** 6.4
 - **Capítol:** 6
 - **Ubicació lectora F10:** apartat 6.4.
-- **P1 confirmat a F11:** 6.4
 - **Punt d'inserció proposat:** Després de desenvolupar les respostes òptiques dels materials i abans de l'apartat de transparència i transmissió.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 6.2 compara les respostes òptiques generals que contribueixen a l'aparença de les superfícies.»
@@ -388,7 +367,6 @@
 - **P1 d'origen:** 6.5
 - **Capítol:** 6
 - **Ubicació lectora F10:** apartats 6.4.1–6.4.2.
-- **P1 confirmat a F11:** 6.5
 - **Punt d'inserció proposat:** Després de distingir transparència, translucidesa i opacitat, sense convertir-les en categories absolutes deslligades de les condicions d'observació.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 6.3 compara la transparència, la translucidesa i l'opacitat a partir de la informació que es conserva del fons.»
@@ -398,7 +376,6 @@
 - **P1 d'origen:** 6.7
 - **Capítol:** 6
 - **Ubicació lectora F10:** apartat 6.5.1.
-- **P1 confirmat a F11:** 6.7
 - **Punt d'inserció proposat:** Després dels exemples de senyals compartides entre materials i del criteri que una sola senyal no és una prova definitiva.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 6.4 mostra com la identificació d'un material es reforça quan diverses senyals visuals són compatibles.»
@@ -408,7 +385,6 @@
 - **P1 d'origen:** 6.8
 - **Capítol:** 6
 - **Ubicació lectora F10:** apartat 6.6.
-- **P1 confirmat a F11:** 6.8
 - **Punt d'inserció proposat:** Després d'explicar la selecció i simplificació de senyals a escala miniatura.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 6.5 exemplifica la simplificació i la jerarquia de les senyals visuals necessàries per reconèixer un material a escala miniatura.»
@@ -419,7 +395,6 @@
 - **P1 d'origen:** 7.2
 - **Capítol:** 7
 - **Ubicació lectora F10:** apartat 7.3.1.
-- **P1 confirmat a F11:** 7.2
 - **Punt d'inserció proposat:** Després de descriure pèl, virolla i mànec, i abans de desenvolupar les formes i criteris de selecció.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 7.1 identifica els components del pinzell i les característiques funcionals que condicionen el seu ús.»
@@ -429,7 +404,6 @@
 - **P1 d'origen:** 7.4
 - **Capítol:** 7
 - **Ubicació lectora F10:** apartat 7.3.7.
-- **P1 confirmat a F11:** 7.4
 - **Punt d'inserció proposat:** Després de la comparació funcional entre aerògraf i aerosol i abans de les instruccions de seguretat i manteniment que hi siguin aplicables.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 7.2 compara els sistemes d'aplicació per aerògraf i aerosol, que no s'han de confondre malgrat que tots dos pulveritzen el producte.»
@@ -439,7 +413,6 @@
 - **P1 d'origen:** 7.5
 - **Capítol:** 7
 - **Ubicació lectora F10:** apartat 7.4.
-- **P1 confirmat a F11:** 7.5
 - **Punt d'inserció proposat:** Després de la introducció que estableix els objectius de la preparació i abans de desenvolupar les operacions individuals.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 7.3 ordena les fases de preparació d'una miniatura abans de començar el treball pictòric.»
@@ -449,7 +422,6 @@
 - **P1 d'origen:** 7.6
 - **Capítol:** 7
 - **Ubicació lectora F10:** apartat 7.5.
-- **P1 confirmat a F11:** 7.6
 - **Punt d'inserció proposat:** Després d'explicar les funcions de la imprimació i la diferència respecte de la capa base; la figura ha de comparar cobertura i conservació del relleu.
 - **Evidència:** E2
 - **Remissió textual proposada:** «La Figura 7.4 mostra els criteris visuals per valorar una imprimació suficient sense perdre el detall de la superfície.»
@@ -459,7 +431,6 @@
 - **P1 d'origen:** 7.7
 - **Capítol:** 7
 - **Ubicació lectora F10:** apartat 7.6.
-- **P1 confirmat a F11:** 7.7
 - **Punt d'inserció proposat:** Després de la introducció de la gestió operativa de les pintures i abans dels procediments de comprovació, homogeneïtzació i dosificació.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 7.5 resumeix la preparació operativa de les pintures abans i durant l'aplicació.»
@@ -469,7 +440,6 @@
 - **P1 d'origen:** 11.1
 - **Capítol:** 11
 - **Ubicació lectora F10:** apartat 11.1.
-- **P1 confirmat a F11:** 11.1
 - **Punt d'inserció proposat:** Després de definir rentats, tintes, pigments en pols i acumulacions, i abans d'explicar per què no són variants d'una mateixa aplicació.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 11.1 compara la naturalesa, la presentació i el comportament general dels rentats, les tintes i els pigments en pols.»
@@ -479,7 +449,6 @@
 - **P1 d'origen:** 11.3
 - **Capítol:** 11
 - **Ubicació lectora F10:** apartats 11.2.3–11.2.4.
-- **P1 confirmat a F11:** 11.3
 - **Punt d'inserció proposat:** Després de descriure les dues modalitats, preferentment al final de 11.2.4, amb una comparació de geometries equivalents.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 11.2 compara el rentat general i el rentat localitzat sobre superfícies equivalents.»
@@ -490,7 +459,6 @@
 - **P1 d'origen:** 11.5
 - **Capítol:** 11
 - **Ubicació lectora F10:** apartats 11.4.2 i 11.7.4.
-- **P1 confirmat a F11:** 11.5
 - **Punt d'inserció proposat:** Després del procediment numerat d'aplicació en sec i abans de continuar amb l'aplicació mitjançant dispersió o mescla.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 11.3 mostra la seqüència de càrrega, dipòsit, distribució i retirada de l'excés de pigment en sec.»
@@ -500,7 +468,6 @@
 - **P1 d'origen:** 11.6
 - **Capítol:** 11
 - **Ubicació lectora F10:** apartats 11.4.5 i 11.7.5.
-- **P1 confirmat a F11:** 11.6
 - **Punt d'inserció proposat:** Després de les llistes de característiques del pigment sec i del pigment fixat, i abans del criteri sobre si la fixació és necessària.
 - **Evidència:** E2
 - **Remissió textual proposada:** «La Figura 11.4 compara l'aparença del pigment abans i després de la fixació; qualsevol diferència de producte concret requeriria una prova documentada.»
@@ -510,7 +477,6 @@
 - **P1 d'origen:** 11.8
 - **Capítol:** 11
 - **Ubicació lectora F10:** apartat 11.8.
-- **P1 confirmat a F11:** 11.8
 - **Punt d'inserció proposat:** Després del desenvolupament dels errors i les correccions, abans de l'avaluació o síntesi de l'apartat.
 - **Evidència:** E0
 - **Remissió textual proposada:** «La Figura 11.5 reuneix els errors de distribució i acumulació més representatius i els relaciona amb els criteris de correcció del capítol.»
@@ -861,7 +827,7 @@
 - **Capítol:** 30
 - **Ubicació lectora F10:** 30.2.
 - **P2/P3 associades:** 30.2 — Integració prevista; validar que no duplica el text
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 30.2 — Planificació cromàtica del foc
 - **Codi intern:** G090
@@ -869,35 +835,35 @@
 - **Capítol:** 30
 - **Ubicació lectora F10:** 30.3.1–30.3.2.
 - **P2/P3 associades:** 30.2 — Integració prevista; validar que no duplica el text
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 30.3 — Construcció pictòrica d'una flama
 - **Codi intern:** G091
 - **P1 d'origen:** 30.4
 - **Capítol:** 30
 - **Ubicació lectora F10:** 30.5.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 30.4 — Integració de foc, fum i material carbonitzat
 - **Codi intern:** G092
 - **P1 d'origen:** 30.8
 - **Capítol:** 30
 - **Ubicació lectora F10:** 30.9.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 31.1 — Estats visuals de la sang
 - **Codi intern:** G093
 - **P1 d'origen:** 31.1
 - **Capítol:** 31
 - **Ubicació lectora F10:** 31.1–31.2.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 31.2 — Diferenciació entre sang i altres fluids
 - **Codi intern:** G094
 - **P1 d'origen:** 31.2
 - **Capítol:** 31
 - **Ubicació lectora F10:** 31.2.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 31.3 — Distribució de fluids sobre diferents geometries
 - **Codi intern:** G095
@@ -905,7 +871,7 @@
 - **Capítol:** 31
 - **Ubicació lectora F10:** 31.3 i 31.4.3.
 - **P2/P3 associades:** 31.6 — Integració prevista; validar que no duplica el text
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 31.4 — Construcció de sang fresca
 - **Codi intern:** G096
@@ -913,105 +879,105 @@
 - **Capítol:** 31
 - **Ubicació lectora F10:** 31.4.2–31.4.3.
 - **P2/P3 associades:** 31.6 — Integració prevista; validar que no duplica el text
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 31.5 — Construcció de sang seca
 - **Codi intern:** G097
 - **P1 d'origen:** 31.5
 - **Capítol:** 31
 - **Ubicació lectora F10:** 31.5.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 31.6 — Errors freqüents en la representació de sang i fluids
 - **Codi intern:** G098
 - **P1 d'origen:** 31.8
 - **Capítol:** 31
 - **Ubicació lectora F10:** 31.7.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 32.1 — Jerarquia visual d'una manifestació energètica
 - **Codi intern:** G099
 - **P1 d'origen:** 32.2
 - **Capítol:** 32
 - **Ubicació lectora F10:** 32.2.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 32.2 — Fluorescència, color convencional i aparença lluminosa
 - **Codi intern:** G100
 - **P1 d'origen:** 32.3
 - **Capítol:** 32
 - **Ubicació lectora F10:** 32.2.4 i 32.4.1.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 32.3 — Construcció d'una esfera d'energia
 - **Codi intern:** G101
 - **P1 d'origen:** 32.4
 - **Capítol:** 32
 - **Ubicació lectora F10:** 32.3 i 32.5.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 32.4 — Estructura d'una descàrrega
 - **Codi intern:** G102
 - **P1 d'origen:** 32.5
 - **Capítol:** 32
 - **Ubicació lectora F10:** 32.3.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 32.5 — Font energètica i il·luminació projectada
 - **Codi intern:** G103
 - **P1 d'origen:** 32.8
 - **Capítol:** 32
 - **Ubicació lectora F10:** 32.2.4 i 32.6; remissió a C17.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 33.1 — Comparació de cossos ceràmics
 - **Codi intern:** G104
 - **P1 d'origen:** 33.1
 - **Capítol:** 33
 - **Ubicació lectora F10:** 33.2.1–33.2.2.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 33.2 — Ceràmica sense esmaltar i superfícies esmaltades
 - **Codi intern:** G105
 - **P1 d'origen:** 33.2
 - **Capítol:** 33
 - **Ubicació lectora F10:** 33.2.1 i 33.2.3.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 33.3 — Construcció d'una superfície de terracota
 - **Codi intern:** G106
 - **P1 d'origen:** 33.5
 - **Capítol:** 33
 - **Ubicació lectora F10:** 33.4.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 33.4 — Construcció d'un esmalt acolorit
 - **Codi intern:** G107
 - **P1 d'origen:** 33.6
 - **Capítol:** 33
 - **Ubicació lectora F10:** 33.5.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 33.5 — Craquelat i pèrdua localitzada de l'esmalt
 - **Codi intern:** G108
 - **P1 d'origen:** 33.7
 - **Capítol:** 33
 - **Ubicació lectora F10:** 33.6.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 33.6 — Reflexos sobre superfícies plàstiques
 - **Codi intern:** G109
 - **P1 d'origen:** 33.9
 - **Capítol:** 33
 - **Ubicació lectora F10:** 33.7–33.8.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 34.1 — Tipus de vidre i diferències entre transparència i difusió
 - **Codi intern:** G110
 - **P1 d'origen:** 34.1 + 34.7
 - **Capítol:** 34
 - **Ubicació lectora F10:** 34.2; remissió des de 34.7.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 34.2 — Senyals visuals del vidre
 - **Codi intern:** G111
@@ -1019,7 +985,7 @@
 - **Capítol:** 34
 - **Ubicació lectora F10:** 34.2.
 - **P2/P3 associades:** 34.10 — Integració prevista; validar que no duplica el text
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 34.3 — Construcció d'un panell i d'un recipient de vidre transparent
 - **Codi intern:** G112
@@ -1027,14 +993,14 @@
 - **Capítol:** 34
 - **Ubicació lectora F10:** 34.4.
 - **P2/P3 associades:** 34.4 — Integració confirmada en una composició P1
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 34.4 — Vidre acolorit
 - **Codi intern:** G113
 - **P1 d'origen:** 34.5
 - **Capítol:** 34
 - **Ubicació lectora F10:** 34.5.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 34.5 — Esquerdes, fractures i fragments de vidre
 - **Codi intern:** G114
@@ -1042,28 +1008,28 @@
 - **Capítol:** 34
 - **Ubicació lectora F10:** 34.8.
 - **P2/P3 associades:** 34.10 — Integració prevista; validar que no duplica el text
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 35.1 — Anàlisi global i distribució de masses cromàtiques
 - **Codi intern:** G115
 - **P1 d'origen:** 35.1 + 35.2
 - **Capítol:** 35
 - **Ubicació lectora F10:** 35.2–35.3.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 35.2 — Harmonització i uniformitat
 - **Codi intern:** G116
 - **P1 d'origen:** 35.4
 - **Capítol:** 35
 - **Ubicació lectora F10:** 35.3.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 35.3 — Integració cromàtica entre materials
 - **Codi intern:** G117
 - **P1 d'origen:** 35.5
 - **Capítol:** 35
 - **Ubicació lectora F10:** 35.4.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 35.4 — Integració cromàtica de figura i peanya
 - **Codi intern:** G118
@@ -1071,14 +1037,14 @@
 - **Capítol:** 35
 - **Ubicació lectora F10:** 35.5.
 - **P2/P3 associades:** 35.7 — Integració prevista; validar que no duplica el text
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 35.5 — Correccions localitzades i globals
 - **Codi intern:** G119
 - **P1 d'origen:** 35.8
 - **Capítol:** 35
 - **Ubicació lectora F10:** 35.7.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 35.6 — Seqüència d'harmonització cromàtica
 - **Codi intern:** G120
@@ -1086,119 +1052,119 @@
 - **Capítol:** 35
 - **Ubicació lectora F10:** 35.8.
 - **P2/P3 associades:** 35.10 — Integració confirmada en una composició P1
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 36.1 — Envelliment, desgast i deteriorament
 - **Codi intern:** G121
 - **P1 d'origen:** 36.1
 - **Capítol:** 36
 - **Ubicació lectora F10:** 36.2.1.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 36.2 — Distribució del desgast segons la geometria i l'ús
 - **Codi intern:** G122
 - **P1 d'origen:** 36.2
 - **Capítol:** 36
 - **Ubicació lectora F10:** 36.3.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 36.3 — Abrasió, fregadures i ratllades
 - **Codi intern:** G123
 - **P1 d'origen:** 36.3
 - **Capítol:** 36
 - **Ubicació lectora F10:** 36.4.1–36.4.3.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 36.4 — Impactes i danys localitzats
 - **Codi intern:** G124
 - **P1 d'origen:** 36.4
 - **Capítol:** 36
 - **Ubicació lectora F10:** 36.4.4.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 36.5 — Estructura de capes i pèrdua de recobriment
 - **Codi intern:** G125
 - **P1 d'origen:** 36.5
 - **Capítol:** 36
 - **Ubicació lectora F10:** 36.5.1.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 36.6 — Desconxats petits i pèrdues extenses
 - **Codi intern:** G126
 - **P1 d'origen:** 36.6
 - **Capítol:** 36
 - **Ubicació lectora F10:** 36.5.2–36.5.3.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 36.7 — Desgast en materials diferents
 - **Codi intern:** G127
 - **P1 d'origen:** 36.8
 - **Capítol:** 36
 - **Ubicació lectora F10:** 36.7.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 36.8 — Seqüència de construcció d'una superfície desgastada
 - **Codi intern:** G128
 - **P1 d'origen:** 36.9
 - **Capítol:** 36
 - **Ubicació lectora F10:** 36.8.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 37.1 — Reflexió especular i reflexió més difusa
 - **Codi intern:** G129
 - **P1 d'origen:** 37.2
 - **Capítol:** 37
 - **Ubicació lectora F10:** 37.2.1.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 37.2 — Orientació, il·luminació i brillantor percebuda
 - **Codi intern:** G130
 - **P1 d'origen:** 37.3
 - **Capítol:** 37
 - **Ubicació lectora F10:** 37.2.1–37.3.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 37.3 — Relació entre acabat, textura i reflexos
 - **Codi intern:** G131
 - **P1 d'origen:** 37.4
 - **Capítol:** 37
 - **Ubicació lectora F10:** 37.2.1–37.3.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 37.4 — Selecció de l'acabat segons materials i efectes
 - **Codi intern:** G132
 - **P1 d'origen:** 37.6
 - **Capítol:** 37
 - **Ubicació lectora F10:** 37.4.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 37.5 — Diferenciació de materials mitjançant acabats selectius
 - **Codi intern:** G133
 - **P1 d'origen:** 37.7
 - **Capítol:** 37
 - **Ubicació lectora F10:** 37.5.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 37.6 — Distribució localitzada de la brillantor
 - **Codi intern:** G134
 - **P1 d'origen:** 37.8
 - **Capítol:** 37
 - **Ubicació lectora F10:** 37.5.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 37.7 — Seqüència d'anàlisi i selecció de l'acabat
 - **Codi intern:** G135
 - **P1 d'origen:** 37.9
 - **Capítol:** 37
 - **Ubicació lectora F10:** 37.6.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 37.8 — Errors freqüents i criteris de correcció
 - **Codi intern:** G136
 - **P1 d'origen:** 37.10
 - **Capítol:** 37
 - **Ubicació lectora F10:** 37.7.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 38.1 — Fases d'assecat i estabilització
 - **Codi intern:** G137
@@ -1206,49 +1172,49 @@
 - **Capítol:** 38
 - **Ubicació lectora F10:** 38.2.4.
 - **P2/P3 associades:** 38.1 — Integració prevista; validar que no duplica el text
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 38.2 — Selecció del sistema de protecció segons l'ús
 - **Codi intern:** G138
 - **P1 d'origen:** 38.4
 - **Capítol:** 38
 - **Ubicació lectora F10:** 38.4.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 38.3 — Seqüència de preparació i inspecció
 - **Codi intern:** G139
 - **P1 d'origen:** 38.5
 - **Capítol:** 38
 - **Ubicació lectora F10:** 38.5.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 38.4 — Aplicació amb pinzell, aerògraf i aerosol
 - **Codi intern:** G140
 - **P1 d'origen:** 38.6
 - **Capítol:** 38
 - **Ubicació lectora F10:** 38.6.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 38.5 — Distribució controlada i acumulació excessiva
 - **Codi intern:** G141
 - **P1 d'origen:** 38.7
 - **Capítol:** 38
 - **Ubicació lectora F10:** 38.6 i 38.7.3.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 38.6 — Alteracions per incompatibilitat o aplicació incorrecta
 - **Codi intern:** G142
 - **P1 d'origen:** 38.8
 - **Capítol:** 38
 - **Ubicació lectora F10:** 38.7.1–38.7.2.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 38.7 — Seqüència integral de protecció i conservació
 - **Codi intern:** G143
 - **P1 d'origen:** 38.10
 - **Capítol:** 38
 - **Ubicació lectora F10:** 38.8 i síntesi.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 39.1 — Seqüència general de diagnòstic
 - **Codi intern:** G144
@@ -1256,7 +1222,7 @@
 - **Capítol:** 39
 - **Ubicació lectora F10:** 39.2.
 - **P2/P3 associades:** 39.9 — Integració prevista; validar que no duplica el text
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 39.2 — Diferència entre símptoma, causa i correcció
 - **Codi intern:** G145
@@ -1264,21 +1230,21 @@
 - **Capítol:** 39
 - **Ubicació lectora F10:** 39.2.2–39.2.5.
 - **P2/P3 associades:** 39.9 — Integració prevista; validar que no duplica el text
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 39.3 — Inspecció d'una miniatura
 - **Codi intern:** G146
 - **P1 d'origen:** 39.3
 - **Capítol:** 39
 - **Ubicació lectora F10:** 39.2.1.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 39.4 — Classificació dels problemes habituals
 - **Codi intern:** G147
 - **P1 d'origen:** 39.4
 - **Capítol:** 39
 - **Ubicació lectora F10:** 39.3.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 39.5 — Nivells d'intervenció
 - **Codi intern:** G148
@@ -1286,21 +1252,21 @@
 - **Capítol:** 39
 - **Ubicació lectora F10:** 39.5.
 - **P2/P3 associades:** 39.6 — Integració confirmada en una composició P1
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 39.6 — Diagnòstic d'alteracions superficials
 - **Codi intern:** G149
 - **P1 d'origen:** 39.7
 - **Capítol:** 39
 - **Ubicació lectora F10:** 39.7.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ### Figura 39.7 — Arbre de decisió: corregir o conservar
 - **Codi intern:** G150
 - **P1 d'origen:** 39.10
 - **Capítol:** 39
 - **Ubicació lectora F10:** 39.5.1–39.5.2.
-- **Detall addicional:** consulteu el text del capítol i les fitxes originals F10; la ubicació i el títol estan fixats a la llista definitiva.
+- **Detall addicional:** consultar el text del capítol i la fitxa original F10; títol i ubicació fixats.
 
 ## Documents font i verificació
 - [Llista definitiva F10 — numeració, títols i ubicacions](llista_definitiva_produccio_grafica_F10.md)

@@ -25,13 +25,13 @@
 | 3.2 / G004 | 3.2 | apartat 3.2.1 | E2 | «Una mateixa capa de pintura transparent o semitransparent sobre fons blanc, gris i negre.» | Pendent d'encàrrec |
 | 3.3 / G005 | 3.3 | apartat 3.3 | E0 | «Distribució d'una pintura sobre zones elevades, planes i cavitats d'una superfície en relleu.» | Pendent d'encàrrec |
 | 4.1 / G006 | 4.3 | apartats 4.3.2–4.3.3 | E0 | Mescla additiva RGB i mescla sostractiva CMY | [Prototip SVG v01 · en revisió](../grafics_prova/fig_C04_4-1_G006_v01.svg) |
-| 4.2 / G007 | 4.4 | apartat 4.4 | E0 | Dimensions del color: matís, valor i croma | Pendent d'encàrrec |
+| 4.2 / G007 | 4.4 | apartat 4.4 | E0 | Dimensions del color: matís, valor i croma | [SVG v01 · prova conceptual pendent de revisió](../grafics_prova/fig_C04_4-2_G007_v01.svg) |
 | 4.3 / G008 | 4.6 | apartat 4.6 | E0 | «Comparació entre la mescla additiva de llum RGB i la mescla sostractiva CMY de pigments o colorants.» | Pendent d'encàrrec |
-| 4.4 / G009 | 4.7 | apartat 4.7 | E0 | «Dimensions del color —matís, valor i croma— representades en un espai tridimensional i en tres escales independents.» | Pendent d'encàrrec |
+| 4.4 / G009 | 4.7 | apartat 4.7 | E0 | «Dimensions del color —matís, valor i croma— representades en un espai tridimensional i en tres escales independents.» | [SVG v01 · prova conceptual pendent de revisió](../grafics_prova/fig_C04_4-4_G009_v01.svg) |
 | 4.5 / G010 | 4.8 | apartat 4.8 | E0 | Mescla i modificació cromàtica | Pendent d'encàrrec |
-| 4.6 / G011 | 4.9 | apartat 4.9 | E0 | «Relacions cromàtiques monocromàtiques, anàlogues, complementàries i complementàries dividides.» | Pendent d'encàrrec |
-| 5.1 / G012 | 5.4 | apartat 5.3.1 | E0 | Orientació dels plans respecte de la font | Pendent d'encàrrec |
-| 5.2 / G013 | 5.6 | apartat 5.3.2; remissió conceptual a 5.4.1 | E0 | Angle d'incidència i llei de la reflexió | Pendent d'encàrrec |
+| 4.6 / G011 | 4.9 | apartat 4.9 | E0 | «Relacions cromàtiques monocromàtiques, anàlogues, complementàries i complementàries dividides.» | [SVG v01 · prova conceptual pendent de revisió](../grafics_prova/fig_C04_4-6_G011_v01.svg) |
+| 5.1 / G012 | 5.4 | apartat 5.3.1 | E0 | Orientació dels plans respecte de la font | [SVG v01 · prova conceptual pendent de revisió](../grafics_prova/fig_C05_5-1_G012_v01.svg) |
+| 5.2 / G013 | 5.6 | apartat 5.3.2; remissió conceptual a 5.4.1 | E0 | Angle d'incidència i llei de la reflexió | [SVG v01 · prova conceptual pendent de revisió](../grafics_prova/fig_C05_5-2_G013_v01.svg) |
 | 5.3 / G014 | 5.7 | apartat 5.3.1 | E0 | Il·luminació de superfícies planes i corbes | Pendent d'encàrrec |
 | 5.4 / G015 | 5.11 | apartat 5.5.1 | E0 | «Diferents orientacions de superfície davant d'una mateixa font lluminosa i les normals geomètriques corresponents.» | Pendent d'encàrrec |
 | 5.5 / G016 | 5.12 | apartat 5.5.2 | E0 | Ombra pròpia i ombra projectada | Pendent d'encàrrec |

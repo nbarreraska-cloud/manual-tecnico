@@ -321,9 +321,17 @@ def render_rock_family_atlas(spec: dict) -> str:
                     px=cx-31+((j*17+5)%62); py=cy-30+((j*29+7)%60)
                     parts.append(f'<circle cx="{px}" cy="{py}" r="{2+(j%3)}" fill="{["#E9E2D5","#55595B","#B79E7D"][j%3]}" opacity=".9"/>')
             elif kind=="basalt":
+                # Deterministic irregular microcrystals, constrained to the circular detail.
+                import random
+                rng = random.Random(162)
                 for j in range(26):
-                    px=cx-32+((j*23+3)%64); py=cy-31+((j*41+9)%62)
-                    parts.append(f'<circle cx="{px}" cy="{py}" r="{1+(j%2)}" fill="#C2C8C8" opacity=".7"/>')
+                    while True:
+                        dx = rng.uniform(-31, 31)
+                        dy = rng.uniform(-31, 31)
+                        if dx*dx + dy*dy <= 29*29:
+                            break
+                    px, py = cx + dx, cy + dy
+                    parts.append(f'<circle cx="{px:.1f}" cy="{py:.1f}" r="{1+rng.random():.1f}" fill="#C2C8C8" opacity=".7"/>')
             elif kind=="sandstone":
                 for j in range(5):
                     yy=cy-28+j*14

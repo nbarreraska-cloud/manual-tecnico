@@ -7,7 +7,12 @@
   "height": 900,
   "ink": "#202A33",
   "muted": "#596773",
-  "palette": ["#E8EEF4", "#E8F0E9", "#F4EDE1", "#EEE9F3"],
+  "palette": [
+    "#E8EEF4",
+    "#E8F0E9",
+    "#F4EDE1",
+    "#EEE9F3"
+  ],
   "cards": [
     {
       "letter": "A",
@@ -47,5 +52,6 @@
       ]
     }
   ],
-  "note": "Les categories indiquen el tipus i la procedència de la informació; no determinen per si soles el grau de caracterització de cada pintura."
+  "note": "Les categories indiquen el tipus i la procedència de la informació; no determinen per si soles el grau de caracterització de cada pintura.",
+  "id": "G001"
 }

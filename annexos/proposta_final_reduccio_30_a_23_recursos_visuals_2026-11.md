@@ -1,3 +1,7 @@
+> **DOCUMENT SUPERAT (06/11/2026):** aquesta proposta de 23 recursos és una versió intermèdia. Després de contrastar-la amb la maqueta F9, la selecció queda revisada en 18 recursos no condicionals més G019 condicional. Consulteu [la proposta vigent de 18 recursos](proposta_final_reduccio_30_a_18_recursos_visuals_2026-11.md) i [l'auditoria de validació contra F9](auditoria_validacio_18_recursos_visuals_contra_maqueta_F9_2026-11.md).
+
+---
+
 # Proposta final de reducció del conjunt visual: de 30 a 23 recursos
 
 **Data:** 06/11/2026  

@@ -53,6 +53,21 @@ jobs:
               "fig_C07_7-1_G025_v01.svg",
               "fig_C15_15-1_G035_v01.svg",
               "fig_C15_15-2_G036_v01.svg",
+              "fig_C04_4-2_G007_v03.svg",
+              "fig_C04_4-4_G009_v03.svg",
+              "fig_C04_4-6_G011_v03.svg",
+              "fig_C05_5-1_G012_v03.svg",
+              "fig_C05_5-2_G013_v03.svg",
+              "fig_C05_5-3_G014_v03.svg",
+              "fig_C05_5-5_G016_v03.svg",
+              "fig_C06_6-1_G018_v03.svg",
+              "fig_C06_6-2_G021_v02.svg",
+              "fig_C06_6-3_G022_v02.svg",
+              "fig_C06_6-4_G023_v02.svg",
+              "fig_C06_6-5_G024_v02.svg",
+              "fig_C07_7-1_G025_v02.svg",
+              "fig_C15_15-1_G035_v02.svg",
+              "fig_C15_15-2_G036_v02.svg",
           }
           names = {p.name for p in files}
           missing = expected - names

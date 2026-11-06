@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1040" viewBox="0 0 1500 1040">
+<defs><style>
+.title{font:700 34px Arial,sans-serif;fill:#183247}.sub{font:700 22px Arial,sans-serif;fill:#28465b}.body{font:17px Arial,sans-serif;fill:#263b49}.small{font:15px Arial,sans-serif;fill:#526777}.panel{fill:#fff;stroke:#aebfc9;stroke-width:2}
+</style>
+<g id="bladeBase">
+ <path d="M48 92 L320 92 L390 135 L320 178 L48 178 Z" fill="#737e87" stroke="#26313a" stroke-width="3" stroke-linejoin="round"/>
+ <path d="M48 92 L320 92 L390 135 L48 135 Z" fill="#9aa4ad"/>
+ <path d="M48 135 L390 135 L320 178 L48 178 Z" fill="#515c66"/>
+ <path d="M48 168 L320 168 L390 135 L320 178 L48 178 Z" fill="#3b454f"/>
+ <path d="M48 135 L390 135" stroke="#202a33" stroke-width="3"/>
+ <path d="M48 92 L320 92 L390 135" fill="none" stroke="#d4dbe0" stroke-width="2"/>
+ <path d="M48 82 L48 188 M35 82 L61 82 L61 188 L35 188 Z" fill="#424b53" stroke="#26313a" stroke-width="3"/>
+ <path d="M18 135 L48 110 L58 135 L48 160 Z" fill="#4a535c" stroke="#26313a" stroke-width="3"/>
+</g></defs>
+<rect width="1500" height="1040" fill="#f3f6f8"/>
+<text x="750" y="48" text-anchor="middle" class="title">Construcció d'un reflex NMM sobre una fulla d'espasa</text>
+<text x="750" y="80" text-anchor="middle" class="small">Seqüència didàctica proposada; no assajada · exemple orientatiu, no recepta universal</text>
+<g>
+ <rect x="30" y="115" width="465" height="395" rx="14" class="panel"/><rect x="517" y="115" width="465" height="395" rx="14" class="panel"/><rect x="1004" y="115" width="465" height="395" rx="14" class="panel"/>
+ <rect x="30" y="535" width="465" height="395" rx="14" class="panel"/><rect x="517" y="535" width="465" height="395" rx="14" class="panel"/><rect x="1004" y="535" width="465" height="395" rx="14" class="panel"/>
+</g>
+<g class="sub" text-anchor="middle">
+ <text x="262" y="155">1 · Base cromàtica</text><text x="750" y="155">2 · Regions fosques</text><text x="1237" y="155">3 · Regions intermèdies</text>
+ <text x="262" y="575">4 · Reflexos clars</text><text x="750" y="575">5 · Accents màxims</text><text x="1237" y="575">6 · Integració</text>
+</g>
+<use href="#bladeBase" transform="translate(65 235)"/>
+<g transform="translate(552 235)">
+ <use href="#bladeBase"/>
+ <path d="M48 92 L320 92 L390 135 L320 111 L48 112 Z" fill="#252f39"/>
+ <path d="M48 153 L320 164 L390 135 L320 178 L48 178 Z" fill="#252f39"/>
+ <path d="M48 82 L48 188" stroke="#111a22" stroke-width="4"/>
+</g>
+<g transform="translate(1039 235)">
+ <use href="#bladeBase"/>
+ <path d="M48 92 L320 92 L390 135 L320 111 L48 112 Z" fill="#252f39"/>
+ <path d="M48 153 L320 164 L390 135 L320 178 L48 178 Z" fill="#252f39"/>
+ <path d="M78 113 L290 116 L350 135 L290 129 L78 125 Z" fill="#c3cbd1"/>
+ <path d="M48 82 L48 188" stroke="#111a22" stroke-width="4"/>
+</g>
+<g transform="translate(65 655)">
+ <use href="#bladeBase"/>
+ <path d="M48 92 L320 92 L390 135 L320 111 L48 112 Z" fill="#252f39"/>
+ <path d="M48 153 L320 164 L390 135 L320 178 L48 178 Z" fill="#252f39"/>
+ <path d="M78 113 L290 116 L350 135 L290 129 L78 125 Z" fill="#c3cbd1"/>
+ <path d="M100 101 L290 103 L340 132 L285 119 L100 113 Z" fill="#e7ecef"/>
+ <path d="M48 82 L48 188" stroke="#111a22" stroke-width="4"/>
+</g>
+<g transform="translate(552 655)">
+ <use href="#bladeBase"/>
+ <path d="M48 92 L320 92 L390 135 L320 111 L48 112 Z" fill="#252f39"/>
+ <path d="M48 153 L320 164 L390 135 L320 178 L48 178 Z" fill="#252f39"/>
+ <path d="M78 113 L290 116 L350 135 L290 129 L78 125 Z" fill="#c3cbd1"/>
+ <path d="M100 101 L290 103 L340 132 L285 119 L100 113 Z" fill="#e7ecef"/>
+ <path d="M112 103 L260 105 L300 119 L112 111 Z" fill="#ffffff"/>
+ <path d="M325 151 L368 135 L337 160 Z" fill="#111a22"/>
+ <path d="M48 82 L48 188" stroke="#111a22" stroke-width="4"/>
+</g>
+<g transform="translate(1039 655)">
+ <use href="#bladeBase"/>
+ <path d="M48 92 L320 92 L390 135 L320 111 L48 112 Z" fill="#252f39"/>
+ <path d="M48 153 L320 164 L390 135 L320 178 L48 178 Z" fill="#252f39"/>
+ <path d="M78 113 L290 116 L350 135 L290 129 L78 125 Z" fill="#aeb9c1"/>
+ <path d="M103 103 L282 105 L337 132 L285 119 L103 114 Z" fill="#e0e6ea"/>
+ <path d="M125 104 L255 106 L295 119 L125 112 Z" fill="#ffffff"/>
+ <path d="M325 151 L368 135 L337 160 Z" fill="#111a22"/>
+ <path d="M68 160 L170 164 L228 170 L170 169 L68 165 Z" fill="#707b84"/>
+ <path d="M48 82 L48 188" stroke="#111a22" stroke-width="4"/>
+ <path d="M48 92 L320 92 L390 135" fill="none" stroke="#f0f3f5" stroke-width="2"/>
+</g>
+<g class="body" text-anchor="middle">
+ <text x="262" y="455">Establir el valor de partida.</text><text x="750" y="455">Separar plans amb masses fosques.</text><text x="1237" y="455">Relacionar foscos i intermedis.</text>
+ <text x="262" y="875">Definir el reflex sobre un pla concret.</text><text x="750" y="875">Afegir accents màxims selectius.</text><text x="1237" y="875">Ajustar transicions i jerarquia final.</text>
+</g>
+<text x="750" y="985" text-anchor="middle" class="small">La geometria i l'orientació es mantenen constants; el patró de reflexos és una simplificació didàctica, no una simulació òptica.</text>
+</svg>

@@ -130,7 +130,7 @@ def render_layer_sequence(spec: dict) -> str:
 
 
 def render_light_orientation(spec: dict) -> str:
-    """Compare differently oriented planes under one shared light source."""
+    """Compare differently oriented planes with independent rays from one source."""
     width, height = 1600, 900
     dark, muted = "#263746", "#5B6872"
     parts = [
@@ -146,23 +146,25 @@ def render_light_orientation(spec: dict) -> str:
         '<g stroke="#D69A36" stroke-width="4" stroke-linecap="round"><path d="M190 335 V310"/><path d="M190 525 V550"/><path d="M95 430 H70"/><path d="M285 430 H310"/><path d="M123 363 L105 345"/><path d="M257 497 L275 515"/><path d="M257 363 L275 345"/><path d="M123 497 L105 515"/></g>',
         f'<text x="190" y="535" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="20" font-weight="700" fill="{dark}">Font comuna</text>',
     ]
+    # The three planes are spatially separated so each illustrative ray reaches
+    # its intended surface without appearing to pass through another opaque plane.
     planes = [
-        {"x": 590, "y": 340, "dx": 0, "dy": 220, "label": "Pla vertical"},
-        {"x": 930, "y": 340, "dx": 150, "dy": 180, "label": "Pla inclinat"},
-        {"x": 1270, "y": 340, "dx": 220, "dy": 0, "label": "Pla horitzontal"},
+        {"x1": 500, "y1": 390, "x2": 500, "y2": 510, "tx": 500, "ty": 450, "label": "Pla vertical"},
+        {"x1": 850, "y1": 240, "x2": 1000, "y2": 390, "tx": 925, "ty": 315, "label": "Pla inclinat"},
+        {"x1": 1250, "y1": 170, "x2": 1480, "y2": 170, "tx": 1365, "ty": 170, "label": "Pla horitzontal"},
     ]
     for i, p in enumerate(planes):
-        ex, ey = p["x"] + p["dx"], p["y"] + p["dy"]
-        parts.append(f'<path d="M 285 430 L {p["x"]} {p["y"] + p["dy"]/2}" fill="none" stroke="#D69A36" stroke-width="4" marker-end="url(#ray)"/>')
-        parts.append(f'<path d="M {p["x"]} {p["y"]} L {ex} {ey}" stroke="#344654" stroke-width="13" stroke-linecap="round"/>')
-        # A dashed normal is illustrative and perpendicular to each plane.
-        cx, cy = (p["x"]+ex)/2, (p["y"]+ey)/2
-        nx, ny = -p["dy"], p["dx"]
+        parts.append(f'<path d="M 285 430 L {p["tx"]} {p["ty"]}" fill="none" stroke="#D69A36" stroke-width="4" marker-end="url(#ray)"/>')
+        parts.append(f'<path d="M {p["x1"]} {p["y1"]} L {p["x2"]} {p["y2"]}" stroke="#344654" stroke-width="13" stroke-linecap="round"/>')
+        cx, cy = (p["x1"]+p["x2"])/2, (p["y1"]+p["y2"])/2
+        dx, dy = p["x2"]-p["x1"], p["y2"]-p["y1"]
+        nx, ny = -dy, dx
         norm = max((nx*nx+ny*ny)**0.5, 1)
         nx, ny = nx/norm*82, ny/norm*82
         parts.append(f'<path d="M {cx-nx} {cy-ny} L {cx+nx} {cy+ny}" stroke="#6B8797" stroke-width="3" stroke-dasharray="9 8"/>')
-        parts.append(f'<text x="{cx}" y="690" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="22" font-weight="700" fill="{dark}">{escape(p["label"])}</text>')
-        parts.append(f'<text x="{cx}" y="728" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="17" fill="{muted}">Orientació {i+1}</text>')
+        label_x = cx
+        parts.append(f'<text x="{label_x}" y="690" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="22" font-weight="700" fill="{dark}">{escape(p["label"])}</text>')
+        parts.append(f'<text x="{label_x}" y="728" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="17" fill="{muted}">Orientació {i+1}</text>')
     parts.extend([
         '<path d="M 430 795 H 510" stroke="#D69A36" stroke-width="4" marker-end="url(#ray)"/>',
         f'<text x="530" y="802" font-family="DejaVu Sans, Arial" font-size="18" fill="{muted}">Direcció de la llum</text>',
@@ -174,7 +176,6 @@ def render_light_orientation(spec: dict) -> str:
     svg = "\n".join(parts)
     ET.fromstring(svg)
     return svg
-
 
 def main() -> int:
     parser = argparse.ArgumentParser()

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "G151",
+  "editorial_title": "8",
+  "chapter": "CV-08-01",
+  "placement": "Construcció progressiva d'una superfície mitjançant capes",
+  "brief_title": "Construcció progressiva d'una superfície mitjançant capes",
+  "type": "E1 — seqüència didàctica proposada.",
+  "composition": "## G151 — Construcció progressiva d'una superfície mitjançant capes\n\n**Capítol i ancoratge:** C8, després de 8.5.5 — «Comprovació entre aplicacions».  \n**Tipus:** E1 — seqüència didàctica proposada.\n\n**Composició**\n- Una mateixa forma o superfície es repeteix en quatre vinyetes consecutives, amb enquadrament, escala i orientació constants.\n- Vinyeta 1: establiment de la capa base i cobertura inicial.\n- Vinyeta 2: aplicació posterior que modifica parcialment la informació de la base.\n- Vinyeta 3: diferenciació de plans o zones cromàtiques, sense convertir-ho en un mapa de llums i ombres aliè al procediment.\n- Vinyeta 4: comprovació del resultat i recuperació selectiva dels límits quan sigui necessari.\n- Si hi ha espai, afegir un petit detall comparatiu entre una superfície excessivament uniforme i una altra amb plans diferenciats.\n\n**Jerarquia de lectura**\nLa seqüència de quatre fases és el contingut principal. El detall comparatiu és secundari i prescindible si redueix la mida de les fases.\n\n**Informació que ha de quedar clara**\nLes aplicacions successives poden conservar, modificar o delimitar informació cromàtica anterior. La comprovació entre aplicacions forma part del procés, no és un afegit final ornamental.\n\n**No representar**\nUn nombre fix de capes, una paleta obligatòria, dilucions o temps d'assecat no indicats a F9. No convertir la seqüència en una recepta universal.\n\n**Control de qualitat**\nLes quatre vinyetes han de permetre identificar què s'ha afegit o modificat a cada fase. No s'han d'introduir canvis de geometria que dificultin la comparació.",
+  "source": "annexos/briefs_visuals_detallats_G151-G170_DBD02_2026-11.md",
+  "production_status": "brief_structured_not_renderable",
+  "approval_status": "brief_approved_visual_design_pending",
+  "rendering_note": "No renderitzar fins que s'hagi desenvolupat una plantilla que representi fidelment aquesta composició."
+}

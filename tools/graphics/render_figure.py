@@ -128,6 +128,54 @@ def render_layer_sequence(spec: dict) -> str:
     return svg
 
 
+
+def render_light_orientation(spec: dict) -> str:
+    """Compare differently oriented planes under one shared light source."""
+    width, height = 1600, 900
+    dark, muted = "#263746", "#5B6872"
+    parts = [
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title desc">',
+        f'<title id="title">{escape(spec["title"])}</title>',
+        f'<desc id="desc">{escape(spec.get("description", spec["title"]))}</desc>',
+        '<defs><marker id="ray" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#D69A36"/></marker></defs>',
+        '<rect width="1600" height="900" fill="#FAF9F6"/>',
+        f'<text x="82" y="86" font-family="DejaVu Sans, Arial" font-size="23" font-weight="700" letter-spacing="2" fill="{muted}">FIGURA {escape(spec["id"])} · ESQUEMA GEOMÈTRIC</text>',
+        f'<text x="82" y="150" font-family="DejaVu Sans, Arial" font-size="43" font-weight="700" fill="{dark}">{escape(spec["title"])}</text>',
+        f'<text x="82" y="194" font-family="DejaVu Sans, Arial" font-size="22" fill="{muted}">{escape(spec.get("subtitle", ""))}</text>',
+        '<circle cx="190" cy="430" r="62" fill="#F6D88F" stroke="#9B6A1E" stroke-width="4"/>',
+        '<g stroke="#D69A36" stroke-width="4" stroke-linecap="round"><path d="M190 335 V310"/><path d="M190 525 V550"/><path d="M95 430 H70"/><path d="M285 430 H310"/><path d="M123 363 L105 345"/><path d="M257 497 L275 515"/><path d="M257 363 L275 345"/><path d="M123 497 L105 515"/></g>',
+        f'<text x="190" y="535" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="20" font-weight="700" fill="{dark}">Font comuna</text>',
+    ]
+    planes = [
+        {"x": 590, "y": 340, "dx": 0, "dy": 220, "label": "Pla vertical"},
+        {"x": 930, "y": 340, "dx": 150, "dy": 180, "label": "Pla inclinat"},
+        {"x": 1270, "y": 340, "dx": 220, "dy": 0, "label": "Pla horitzontal"},
+    ]
+    for i, p in enumerate(planes):
+        ex, ey = p["x"] + p["dx"], p["y"] + p["dy"]
+        parts.append(f'<path d="M 285 430 L {p["x"]} {p["y"] + p["dy"]/2}" fill="none" stroke="#D69A36" stroke-width="4" marker-end="url(#ray)"/>')
+        parts.append(f'<path d="M {p["x"]} {p["y"]} L {ex} {ey}" stroke="#344654" stroke-width="13" stroke-linecap="round"/>')
+        # A dashed normal is illustrative and perpendicular to each plane.
+        cx, cy = (p["x"]+ex)/2, (p["y"]+ey)/2
+        nx, ny = -p["dy"], p["dx"]
+        norm = max((nx*nx+ny*ny)**0.5, 1)
+        nx, ny = nx/norm*82, ny/norm*82
+        parts.append(f'<path d="M {cx-nx} {cy-ny} L {cx+nx} {cy+ny}" stroke="#6B8797" stroke-width="3" stroke-dasharray="9 8"/>')
+        parts.append(f'<text x="{cx}" y="690" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="22" font-weight="700" fill="{dark}">{escape(p["label"])}</text>')
+        parts.append(f'<text x="{cx}" y="728" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="17" fill="{muted}">Orientació {i+1}</text>')
+    parts.extend([
+        '<path d="M 430 795 H 510" stroke="#D69A36" stroke-width="4" marker-end="url(#ray)"/>',
+        f'<text x="530" y="802" font-family="DejaVu Sans, Arial" font-size="18" fill="{muted}">Direcció de la llum</text>',
+        '<path d="M 850 795 H 930" stroke="#6B8797" stroke-width="3" stroke-dasharray="9 8"/>',
+        f'<text x="950" y="802" font-family="DejaVu Sans, Arial" font-size="18" fill="{muted}">Normal geomètrica</text>',
+        f'<text x="82" y="858" font-family="DejaVu Sans, Arial" font-size="18" fill="{muted}">{escape(spec.get("note", ""))}</text>',
+        '</svg>'
+    ])
+    svg = "\\n".join(parts)
+    ET.fromstring(svg)
+    return svg
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--figure", required=True, help="Figure identifier, e.g. G001")
@@ -142,6 +190,8 @@ def main() -> int:
     svg_path = OUT_DIR / f"{figure_id}.svg"
     if spec.get("template") == "layer_sequence_4":
         svg_content = render_layer_sequence(spec)
+    elif spec.get("template") == "light_orientation":
+        svg_content = render_light_orientation(spec)
     else:
         svg_content = render(spec)
     svg_path.write_text(svg_content, encoding="utf-8")

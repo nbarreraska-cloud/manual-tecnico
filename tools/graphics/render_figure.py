@@ -516,7 +516,7 @@ def render_ice_snow_comparison(spec: dict) -> str:
       f'<text x="72" y="872" font-family="DejaVu Sans, Arial" font-size="15" fill="{muted}">{escape(spec.get("note",""))}</text>',
       '</svg>'
     ]
-    svg="\\n".join(p)
+    svg="\n".join(p)
     ET.fromstring(svg)
     return svg
 

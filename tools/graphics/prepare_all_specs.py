@@ -83,7 +83,9 @@ def main():
         gid = f"G{n:03d}"
         path = SPECS / f"{gid}.json"
         existing = json.loads(path.read_text(encoding="utf-8")) if path.exists() else None
-        if existing and existing.get("production_status") not in ("brief_structured_not_renderable",):
+        if existing:
+            # Preserve editorial briefs verbatim until a figure-specific visual grammar exists.
+            # Never flatten a structured brief into generic cards just to force a render.
             preserved.append(gid)
             continue
         if gid in complementary:

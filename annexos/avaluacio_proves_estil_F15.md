@@ -266,3 +266,25 @@ El resultat és vàlid com a esquema introductori de transmissió visual, no com
 La prova tècnica ha superat el pas de processament XML i exportació a PNG, però això no equival a l'aprovació de les figures. Cap prototip queda aprovat. Les versions v01 es conserven com a antecedents i no s'han d'esborrar ni sobreescriure.
 
 La següent iteració s'ha de centrar en G006, G003 i G042. G110 no necessita un redisseny conceptual amb l'evidència actual. Encara queda pendent comprovar la lectura de cada figura a la mida real de maquetació i, més endavant, en l'entorn d'exportació del document.
+
+
+## 13. Protocols de proves físiques i conciliació de G003
+
+S'han preparat protocols específics per separar la producció gràfica de l'obtenció d'evidència física:
+
+- [Protocol G003 — opacitat, transparència i cobertura](protocol_prova_fisica_G003.md). La prova continua pendent d'execució. Fins que no hi hagi mostres identificades i fotografies documentades, G003 no es pot presentar com a resultat E2; es manté disponible l'alternativa conceptual E0 prevista a F14.
+- [Protocol G042 — construcció NMM](protocol_prova_fisica_G042.md). Defineix una seqüència fotogràfica de sis estats reals de la mateixa peça, basada en els apartats 16.5.2–16.5.7. El protocol no valida ni aprova el SVG v01; el redisseny s'ha de basar en una execució real i no en retocs cromàtics del prototip que no va superar la revisió de fidelitat.
+
+### Conciliació de l'ancoratge G003
+
+La lectura del capítol 3 i de la tanda F11 confirma que la ubicació lectora adequada és **3.2.1**, no 3.1. El registre F13 s'ha corregit per reflectir aquesta ubicació. La correcció és documental i no altera el contingut del manual, la selecció gràfica ni la compilació consolidada.
+
+### Estat després d'aquesta actualització
+
+- Proves físiques G003 i G042 executades: **0**.
+- Fotografies de resultats reals incorporades: **0**.
+- Prototips SVG aprovats: **0**.
+- Insercions al manual lector: **0**.
+- Modificacions de la compilació consolidada: **0**.
+
+La preparació documental no s'ha de confondre amb l'execució de les proves ni amb l'aprovació editorial de les figures.

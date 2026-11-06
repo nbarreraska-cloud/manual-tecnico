@@ -420,3 +420,19 @@ La revisió visual a 1400 × 900 px i el contrast amb F10 i el text consolidat h
 ### 22.4. Límits de la comprovació
 
 La mida de render 1400 × 900 px permet revisar la composició general, però no equival a una prova de maquetació. Cal definir o recuperar la mida física d'inserció i comprovar la llegibilitat dels textos, les línies, les fletxes i les notes a aquesta mida. També cal validar que els esquemes conceptuals no es confonguin amb fotografies, mesures o resultats experimentals.
+
+
+## 23. Conciliació de discrepàncies entre F10 i F13 — C5 i C7 — 06/11/2026
+
+El coteig de les fitxes F10 amb el text consolidat ha detectat que diverses llegendes de F13 no corresponien a la proposta gràfica d'origen. S'han corregit les files de F13, mantenint F10 com a referència editorial:
+
+- **G015 / P1 5.11:** correspon al bloqueig de llum i formació de l'ombra, no a orientacions de plans i normals.
+- **G017 / P1 5.13:** correspon a umbra i penombra, no a la llei de la reflexió (ja tractada per G013).
+- **G018 / P1 5.15:** correspon a les senyals visuals que suggereixen volum, no a la comparació de plans i superfícies corbes (G014). La v03 de G018 duplicava parcialment G014 i no es considera vàlida per a aquesta composició; s'ha creat G018 v04 amb el contingut correcte.
+- **G026 / P1 7.4:** correspon a la comparació entre aplicació manual amb pinzell, aerògraf i aerosol. L'anatomia del pinzell és G025 / P1 7.2.
+- **G028 / P1 7.6:** correspon al control de la imprimació. La classificació E2 es manté bloquejada perquè no hi ha mostres físiques documentades; no es produirà cap comparativa que sembli un resultat observat. F10 permet considerar una alternativa conceptual E0, però encara no s'ha convertit ni aprovat.
+- **G029 / P1 7.7:** correspon a la preparació operativa de pintures, no a la preparació de la miniatura (G027 / P1 7.5).
+
+S'han creat prototips per a G015, G017, G018 v04, G026 i G029. G028 continua sense SVG fins a resoldre la condició E2 o autoritzar formalment la via conceptual E0.
+
+**Estat:** conciliació documental feta; cinc SVG nous pendents de renderització i revisió; G028 bloquejada; cap aprovació ni inserció. Aquesta actuació no modifica F10, la selecció de 150 composicions, els capítols consolidats ni la branca `main`.

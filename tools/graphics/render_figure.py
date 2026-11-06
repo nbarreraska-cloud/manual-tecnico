@@ -243,6 +243,97 @@ def render_biological_material_atlas(spec: dict) -> str:
     ET.fromstring(svg)
     return svg
 
+
+def render_rock_family_atlas(spec: dict) -> str:
+    """Compare representative visual patterns across three rock families."""
+    width, height = 1600, 900
+    dark, muted = "#263746", "#5B6872"
+    cards = [
+        {"x":72,"name":"ROQUES ÍGNIES","desc":"Solidificació de material fos",
+         "rows":[("Granit","granite"),("Basalt","basalt")]},
+        {"x":584,"name":"ROQUES SEDIMENTÀRIES","desc":"Acumulació, compactació o precipitació",
+         "rows":[("Gres","sandstone"),("Calcària","limestone")]},
+        {"x":1096,"name":"ROQUES METAMÒRFIQUES","desc":"Transformació per pressió, temperatura i fluids",
+         "rows":[("Pissarra","slate"),("Marbre","marble"),("Gneis","gneiss")]}
+    ]
+    parts = [
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title desc">',
+        f'<title id="title">{escape(spec["title"])}</title>',
+        f'<desc id="desc">{escape(spec["description"])}</desc>',
+        '<rect width="1600" height="900" fill="#FAF9F6"/>',
+        f'<text x="72" y="76" font-family="DejaVu Sans, Arial" font-size="22" font-weight="700" letter-spacing="2" fill="{muted}">FIGURA G161 · ATLES COMPARATIU</text>',
+        f'<text x="72" y="132" font-family="DejaVu Sans, Arial" font-size="42" font-weight="700" fill="{dark}">{escape(spec["title"])}</text>',
+        f'<text x="72" y="174" font-family="DejaVu Sans, Arial" font-size="21" fill="{muted}">{escape(spec["subtitle"])}</text>',
+    ]
+    for card in cards:
+        x=card["x"]
+        parts.extend([
+            f'<rect x="{x}" y="215" width="432" height="545" rx="18" fill="#FFFFFF" stroke="#D8DEE3" stroke-width="2"/>',
+            f'<text x="{x+22}" y="258" font-family="DejaVu Sans, Arial" font-size="22" font-weight="700" fill="{dark}">{card["name"]}</text>',
+            f'<text x="{x+22}" y="288" font-family="DejaVu Sans, Arial" font-size="15" fill="{muted}">{card["desc"]}</text>'
+        ])
+        n=len(card["rows"])
+        row_h=190 if n==2 else 145
+        for idx,(label,kind) in enumerate(card["rows"]):
+            y=310+idx*row_h
+            parts.append(f'<text x="{x+22}" y="{y+22}" font-family="DejaVu Sans, Arial" font-size="18" font-weight="700" fill="{dark}">{label}</text>')
+            sx,sy,sw,sh=x+22,y+35,230,76
+            base={"granite":"#AFA99B","basalt":"#454A4D","sandstone":"#C6A77A","limestone":"#D9D1BF","slate":"#687985","marble":"#D9D7D0","gneiss":"#A9A39A"}[kind]
+            parts.append(f'<rect x="{sx}" y="{sy}" width="{sw}" height="{sh}" rx="8" fill="{base}" stroke="#7A858C" stroke-width="2"/>')
+            if kind=="granite":
+                for j in range(36):
+                    px=sx+8+((j*47+13)%210); py=sy+7+((j*29+9)%61)
+                    rr=2+(j%4)
+                    col=["#E6DFD0","#4E5356","#D0BDA0","#7A7770"][j%4]
+                    parts.append(f'<circle cx="{px}" cy="{py}" r="{rr}" fill="{col}" opacity=".9"/>')
+            elif kind=="basalt":
+                for j in range(52):
+                    px=sx+5+((j*31+7)%220); py=sy+5+((j*19+11)%66)
+                    parts.append(f'<circle cx="{px}" cy="{py}" r="{1+(j%2)}" fill="#9CA2A3" opacity=".55"/>')
+            elif kind in ("sandstone","limestone"):
+                for j in range(4 if kind=="sandstone" else 2):
+                    yy=sy+14+j*16
+                    col=["#9E7955","#D9B987","#A77E59","#E0C99F"][j%4] if kind=="sandstone" else "#B5AC9B"
+                    parts.append(f'<path d="M {sx+2} {yy} C {sx+55} {yy-5} {sx+130} {yy+5} {sx+sw-2} {yy-1}" stroke="{col}" stroke-width="{3 if kind=="sandstone" else 1.5}" fill="none"/>')
+                if kind=="limestone":
+                    parts.append(f'<ellipse cx="{sx+165}" cy="{sy+40}" rx="22" ry="12" fill="none" stroke="#9C927F" stroke-width="3"/>')
+                    parts.append(f'<circle cx="{sx+70}" cy="{sy+24}" r="5" fill="#9C927F"/>')
+            elif kind=="slate":
+                for j in range(5):
+                    yy=sy+12+j*13
+                    parts.append(f'<path d="M {sx+4} {yy} L {sx+sw-4} {yy-7}" stroke="#B9C3C7" stroke-width="3" opacity=".9"/>')
+            elif kind=="marble":
+                for j in range(4):
+                    parts.append(f'<path d="M {sx+10+j*38} {sy+5} C {sx+45+j*34} {sy+30} {sx+5+j*42} {sy+48} {sx+65+j*34} {sy+72}" stroke="{["#8B9297","#A58E7A","#B7B1A6","#727E88"][j]}" stroke-width="2.5" fill="none"/>')
+            elif kind=="gneiss":
+                for j in range(5):
+                    yy=sy+8+j*14
+                    parts.append(f'<path d="M {sx+3} {yy} C {sx+55} {yy-10} {sx+105} {yy+10} {sx+sw-3} {yy-3}" stroke="{["#E5DED0","#4B5053"][j%2]}" stroke-width="7" fill="none"/>')
+            # Enlarged pattern sample, explicitly a schematic detail.
+            cx,cy=x+333,sy+38
+            parts.append(f'<circle cx="{cx}" cy="{cy}" r="43" fill="{base}" stroke="#6F7B83" stroke-width="3"/>')
+            if kind in ("granite","basalt","limestone"):
+                for j in range(14):
+                    px=cx-31+((j*17+5)%62); py=cy-30+((j*23+7)%60)
+                    parts.append(f'<circle cx="{px}" cy="{py}" r="{2+(j%3)}" fill="{["#E9E2D5","#55595B","#B79E7D"][j%3]}" opacity=".85"/>')
+            elif kind in ("sandstone","slate","gneiss"):
+                for j in range(4):
+                    yy=cy-24+j*15
+                    parts.append(f'<path d="M {cx-35} {yy} Q {cx} {yy-7} {cx+35} {yy}" stroke="{["#E8D1A9","#80664D"][j%2]}" stroke-width="5" fill="none"/>')
+            elif kind=="marble":
+                parts.append(f'<path d="M {cx-28} {cy-32} Q {cx+15} {cy-8} {cx-8} {cy+5} T {cx+28} {cy+32}" stroke="#7B858D" stroke-width="3" fill="none"/>')
+            parts.append(f'<text x="{cx}" y="{sy+100}" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="13" fill="{muted}">Detall</text>')
+    parts.extend([
+        '<rect x="72" y="785" width="1432" height="48" rx="10" fill="#E9EEF0"/>',
+        f'<text x="94" y="815" font-family="DejaVu Sans, Arial" font-size="17" font-weight="700" fill="{dark}">Patrons representatius per orientar la pintura; no són una taxonomia completa ni una identificació basada només en el color.</text>',
+        f'<text x="72" y="870" font-family="DejaVu Sans, Arial" font-size="16" fill="{muted}">{escape(spec.get("note", ""))}</text>',
+        '</svg>'
+    ])
+    svg="\n".join(parts)
+    ET.fromstring(svg)
+    return svg
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--figure", required=True, help="Figure identifier, e.g. G001")

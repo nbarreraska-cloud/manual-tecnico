@@ -498,3 +498,34 @@ La inspecció individual dels renders ha detectat quatre problemes que no quedav
 - **G035 v03:** dues línies de crida de la banda dreta es creuaven i la línia de zones protegides apuntava massa avall. Redissenyat a v04 amb recorreguts ortogonals separats i un punt d'ancoratge més pertinent.
 
 F13 i el workflow s'han actualitzat amb aquestes versions. **Estat:** quatre noves versions creades, pendents de renderització i inspecció; cap aprovació ni inserció.
+
+
+## 26. Prova de mida física màxima A4 i observacions addicionals — 06/11/2026
+
+### 26.1. Execució del workflow
+
+El run [Render SVG prototype review](https://github.com/nbarreraska-cloud/manual-tecnico/actions/runs/42140985098) ha finalitzat correctament sobre el commit `7814c3661bbd07f824ea9686079226dc2ac16757`. L'artefacte `SVG-prototypes-rendered-review` (ID `13467778182`) conté 64 renders estàndard, 64 renders addicionals a 2073 px d'amplada i una fulla de contacte. El workflow valida XML, exporta amb CairoSVG i comprova que els fitxers esperats existeixen. Els renders a 2073 px corresponen aproximadament a 175,5 mm a 300 dpi.
+
+### 26.2. Inspecció a mida màxima
+
+S'han inspeccionat individualment diversos renders a mida màxima:
+
+- **G007 v03:** les tres escales i les etiquetes es mantenen llegibles a amplada màxima.
+- **G009 v04:** les etiquetes principals i el peu caben dins la composició; continua sent un esquema conceptual, no un sòlid Munsell.
+- **G014 v04:** les tres normals passen pels punts de l'arc i són radials; la marca central s'ha corregit perquè se situï sobre la superfície.
+- **G016 v05:** els dos panells separen ombra pròpia i projectada; la direcció de la zona d'ombra pròpia és coherent amb la font.
+- **G018 v06:** el mateix prisma es representa en el model tridimensional i en la traducció bidimensional, amb relacions de llum, ombra i reflex corresponents.
+- **G025 v04:** les fletxes apunten als components i la punta fina té una forma afuada.
+- **G035 v04:** les línies de crida ja no es creuen; els punts d'ancoratge són més específics.
+- **G017 v01:** la distribució de penombra–umbra–penombra és coherent amb la font extensa, l'objecte opac i la pantalla.
+- **G015 v01:** l'etiqueta «raig bloquejat» s'havia col·locat sobre el raig tangent que defineix el límit de l'ombra. Corregit a v02 amb un raig bloquejat interromput per l'objecte i una etiqueta separada per al límit geomètric.
+
+Aquesta inspecció no equival a una prova d'impressió. No s'han inspeccionat encara, a mida màxima i amb el mateix nivell de detall, tots els 64 fitxers.
+
+### 26.3. Tipografia i criteri de llegibilitat
+
+Les mides actuals de text de 16–18 unitats SVG equivalen aproximadament a 5,7–6,5 pt si la figura ocupa tota l'amplada útil. Encara que algunes etiquetes es llegeixin al render ampliat, són petites per a una publicació tècnica impresa. Es manté com a objectiu provisional un mínim de 8 pt per a etiquetes i text principal i 7 pt per a notes. Caldrà adaptar els SVG actius a aquesta escala o justificar excepcions per a etiquetes auxiliars, i tornar a renderitzar i comprovar els possibles desbordaments. Per tant, **cap figura queda aprovada per a inserció**.
+
+### 26.4. Estat del màster
+
+L'artefacte F9 inspeccionat és una compilació de text sense imatges, en format A4. Aquesta inspecció només s'ha utilitzat per calcular l'amplada màxima útil; no s'ha modificat ni substituït el màster. La còpia il·lustrada encara no s'ha creat ni s'ha inserit cap imatge.

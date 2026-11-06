@@ -46,7 +46,7 @@
 | 7.1 / G025 | 7.2 | apartat 7.3.1 | E0 | Components del pinzell i comparació de formes de punta | [SVG v02 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C07_7-1_G025_v04.svg) |
 | 7.2 / G026 | 7.4 | apartat 7.3.7 | E0 | Aplicació manual amb pinzell, pulverització amb aerògraf i aplicació amb aerosol pressuritzat | [SVG v01 · pendent de renderització i revisió](../grafics_prova/fig_C07_7-2_G026_v01.svg) |
 | 7.3 / G027 | 7.5 | apartat 7.4 | E0 | Seqüència de preparació d'una miniatura | Pendent d'encàrrec |
-| 7.4 / G028 | 7.6 | apartat 7.5 | E2 | Comparació de cobertura insuficient, adequada i excessiva i de la conservació del detall | Bloquejada: E2 sense mostres documentades; cal executar la prova o decidir formalment l'alternativa conceptual E0 |
+| 7.4 / G028 | 7.6 | apartat 7.5 | E2 | Comparació de cobertura insuficient, adequada i excessiva i de la conservació del detall | Bloquejada: E2 sense mostres documentades; [protocol de prova física](protocol_prova_fisica_G028.md); alternativa conceptual E0 pendent de decisió |
 | 7.5 / G029 | 7.7 | apartat 7.6 | E0 | Comprovació del producte, homogeneïtzació, dosificació, prova i ajust de consistència quan correspongui | [SVG v01 · pendent de renderització i revisió](../grafics_prova/fig_C07_7-5_G029_v01.svg) |
 | 11.1 / G030 | 11.1 | apartat 11.1 | E0 | «Comparació de la naturalesa, presentació i comportament del rentat, la tinta i el pigment en pols.» | Pendent d'encàrrec |
 | 11.2 / G031 | 11.3 | apartats 11.2.3–11.2.4 | E0 | Rentat general i rentat localitzat | Pendent d'encàrrec |

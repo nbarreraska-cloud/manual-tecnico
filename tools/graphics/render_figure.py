@@ -544,6 +544,8 @@ def render_ice_snow_comparison(spec: dict) -> str:
         svg_content = render_stone_texture_studies(spec)
     elif spec.get("template") == "crystal_morphology_atlas":
         svg_content = render_crystal_morphology_atlas(spec)
+    elif spec.get("template") == "ice_snow_comparison":
+        svg_content = render_ice_snow_comparison(spec)
     else:
         svg_content = render(spec)
     svg_path.write_text(svg_content, encoding="utf-8")

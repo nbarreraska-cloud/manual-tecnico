@@ -3,7 +3,7 @@
 **Projecte:** manual tècnic de pintura de miniatures  
 **Figura:** 3.1 / G003  
 **Ubicació a la compilació i a F11:** apartat 3.2.1 — Opacitat, transparència i cobertura.  
-**Discrepància documental:** F13 encara registra «apartat 3.1»; aquesta dada no concorda amb el contingut efectiu ni amb l'ancoratge contextual de F11. No s'ha modificat F10/F11 en aquesta actuació.  
+**Registre conciliat:** F13 situa la figura a 3.2.1, d'acord amb el contingut del capítol i la tanda F11.  
 **Evidència:** E2 només si s'incorporen mostres reals identificades i documentades; mentre no existeixi aquesta prova, la representació admissible és E0 conceptual.  
 **Estat:** protocol preparat; prova física no executada  
 **Branca:** `intervencion-editorial-2026-11`
@@ -32,18 +32,21 @@ La selecció de pintures s'ha de fer després de consultar-ne la documentació d
 
 ### 2.2. Selecció de mostres
 
-Seleccionar preferentment entre tres i quatre pintures de la mateixa gamma i fabricant, sempre que hi hagi informació identificable sobre el seu comportament òptic. La selecció ha de cobrir comportaments diversos, però no cal forçar quatre categories si la documentació no les sosté.
+La selecció documental concreta queda recollida a [Matriu de selecció de mostres G003](matriu_seleccio_mostres_G003.md). Es proposen sis referències de la paleta del manual:
 
-Per a cada producte registrar:
+- Model Color: Light Flesh (70.928), Dark Sea Blue (70.898), Dark Rust (70.771) i Deck Tan (70.986).
+- Game Color Ink: Magenta Ink (72.083) i Sepia Ink (72.091).
 
-- fabricant i línia;
-- nom comercial i referència;
-- color;
-- informació del fabricant sobre opacitat/transparència, si existeix;
-- data de consulta de la fitxa tècnica o comercial;
-- estat del producte i qualsevol incidència observable.
+La selecció respon a la informació que realment consta a les fitxes: per a Model Color no s'han recuperat valors individuals comparables d'opacitat/cobertura; per a Game Color Ink, Vallejo declara transparència a nivell de família, no una mesura individual de cada tinta. Per tant, les mostres no reben cap etiqueta prèvia. Les comparacions principals s'han de fer dins de cada família; les comparacions entre famílies són exploratòries i no quantitatives.
 
-Si no es disposa de productes amb informació fiable, es pot fer una prova exploratòria amb pintures disponibles, però els resultats no s'han d'utilitzar per validar etiquetes tècniques comercials.
+Abans d'executar, registrar per a cada mostra:
+
+- fabricant, família, nom comercial i referència;
+- informació tècnica disponible i font;
+- estat del producte;
+- qualsevol incidència observable.
+
+La matriu no confirma disponibilitat física. Si una referència no està disponible, aplicar la regla de substitució documentada a la matriu i actualitzar la selecció abans de pintar. No substituir-la per semblança nominal ni cromàtica.
 
 ### 2.3. Condicions separades
 
@@ -199,4 +202,4 @@ Aquesta conciliació es documenta aquí; no actualitza per si sola F10, F11, F13
 
 ## 11. Estat
 
-Protocol preparat. La paleta de referència consta de 48 pintures als sets Squidmar × Vallejo, documentades a l'annex A; aquesta dada no prova per si sola quines referències estan físicament disponibles per executar la prova. No s'han produït fotografies ni s'ha validat cap resultat. L'ancoratge lector queda justificat a 3.2.1; resta pendent conciliar la dada errònia de F13. No s'ha modificat el prototip G003 ni el manual.
+Protocol preparat amb una matriu documental de sis mostres candidates (quatre Model Color i dues Game Color Ink). La selecció no assigna propietats individuals ni confirma disponibilitat física. No s'han produït fotografies ni s'ha validat cap resultat. L'ancoratge lector és 3.2.1 i el registre F13 ja està conciliat. No s'ha modificat el prototip G003 ni el manual.

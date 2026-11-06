@@ -61,6 +61,11 @@ def inspect_spec(path: Path, expected_id: str) -> tuple[str, str]:
             return "invalid_spec", "Els estudis de textura pètria necessiten títol, descripció i traçabilitat."
         return "ready", "Composició específica de quatre estudis de textura pètria."
 
+    if spec.get("template") == "gem_construction_studies":
+        if not spec.get("title") or not spec.get("description") or not spec.get("provenance"):
+            return "invalid_spec", "Els estudis de construcció de gemmes necessiten títol, descripció i traçabilitat."
+        return "ready", "Composició específica per comparar gemmes facetades, arrodonides i cabuixons."
+
     if spec.get("template") == "ice_snow_comparison":
         if not spec.get("title") or not spec.get("description") or not spec.get("provenance"):
             return "invalid_spec", "La comparació de gel i neu necessita títol, descripció i traçabilitat."

@@ -335,3 +335,13 @@ La revisió funcional dels 30 grups consolidats proposa un màxim de **23 recurs
 Document de decisions detallades: [Proposta final de reducció de 30 a 23 recursos](proposta_final_reduccio_30_a_23_recursos_visuals_2026-11.md).
 
 La proposta s'ha contrastat amb títols, ubicacions, integracions i condicions d'evidència de F10. No equival a una validació pàgina a pàgina de la maqueta, no autoritza producció i no modifica el contingut tècnic. La producció gràfica i la inserció continuen sense iniciar-se.
+
+
+## 12. Validació contra la maqueta F9 i reducció a 18 recursos
+
+La comprovació de la maqueta F9 textual (296 pàgines A4) ha reduït la proposta intermèdia de 23 a **18 recursos visuals no condicionals**, amb G019 com a única opció condicional. G032+G033, G115+G119, G148+G150 i G153 passen a taula/text o es resolen amb contingut ja present. També s'han detectat discrepàncies de traçabilitat: G003 és a 3.2.1; G153 pertany al capítol 10; G164 al 27; G166–G167 al 28.
+
+- [Proposta vigent: 18 recursos visuals + G019 condicional](proposta_final_reduccio_30_a_18_recursos_visuals_2026-11.md)
+- [Auditoria de validació contra la maqueta F9](auditoria_validacio_18_recursos_visuals_contra_maqueta_F9_2026-11.md)
+
+La maqueta F9 no conté imatges ni espais reservats: la revisió valida ubicacions i necessitat didàctica, però no la mida ni la paginació després de la inserció. La proposta anterior de 23 recursos queda marcada com a superada.

@@ -32,6 +32,15 @@ def inspect_spec(path: Path, expected_id: str) -> tuple[str, str]:
             return "invalid_spec", "El brief estructurat no conserva la font o la nota de renderització."
         return "brief_structured_not_renderable", "Brief estructurat i traçable; pendent de disseny visual i plantilla específica."
 
+    if spec.get("template") == "layer_sequence_4":
+        stages = spec.get("stages")
+        if not spec.get("title") or not isinstance(stages, list) or len(stages) != 4:
+            return "invalid_spec", "La seqüència de quatre fases és incompleta."
+        for stage in stages:
+            if not isinstance(stage, dict) or not stage.get("heading") or not stage.get("caption") or not isinstance(stage.get("detail_lines"), list):
+                return "invalid_spec", "Una fase de la seqüència és incompleta."
+        return "ready", "Plantilla específica de seqüència de capes."
+
     cards = spec.get("cards")
     if not isinstance(cards, list) or len(cards) != 4:
         return "unsupported_template", "Hi ha especificació individual, però encara no correspon a una plantilla de renderització disponible."

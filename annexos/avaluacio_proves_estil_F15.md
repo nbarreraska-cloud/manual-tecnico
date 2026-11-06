@@ -436,3 +436,49 @@ El coteig de les fitxes F10 amb el text consolidat ha detectat que diverses lleg
 S'han creat prototips per a G015, G017, G018 v04, G026 i G029. G028 continua sense SVG fins a resoldre la condició E2 o autoritzar formalment la via conceptual E0.
 
 **Estat:** conciliació documental feta; cinc SVG nous pendents de renderització i revisió; G028 bloquejada; cap aprovació ni inserció. Aquesta actuació no modifica F10, la selecció de 150 composicions, els capítols consolidats ni la branca `main`.
+
+
+## 24. Revisió dels renders a 1400 × 900 px i refinament addicional — 06/11/2026
+
+### 24.1. Validació tècnica del lot
+
+El run [Render SVG prototype review](https://github.com/nbarreraska-cloud/manual-tecnico/actions/runs/42140315249) ha finalitzat amb `success` sobre el commit `61de8f36120a3315bd2464e3d703010a8acebcc8`. L'artefacte `SVG-prototypes-rendered-review` (ID `13467146825`) conté 53 renders PNG i la fulla de contacte. La validació XML i l'exportació amb CairoSVG han estat correctes. El run inclou els 15 redissenys de la secció 22 i els cinc prototips de la secció 23. No inclou encara les set versions refinades d'aquesta secció.
+
+### 24.2. Dictàmens visuals preliminars
+
+- **G007 v03:** lectura clara de les tres dimensions i escales separades; apta per continuar. Cal verificar-la a mida física de maquetació.
+- **G009 v03:** el peu de figura desbordava el panell i el croma apareixia etiquetat redundantment als dos extrems. Corregit a v04: peu en dues línies i etiquetatge simplificat.
+- **G011 v03:** quatre harmonies diferenciades de manera comprensible. Apta per continuar.
+- **G012 v03:** els raigs arriben als plans i les normals es representen perpendiculars; el símbol problemàtic ha estat substituït per text. Apta per continuar.
+- **G013 v03:** els caps de fletxa diferencien la direcció incident i reflectida; els angles són simètrics respecte de la normal. Apta per continuar.
+- **G014 v03:** la marca central estava al centre de l'arc i no sobre la superfície. Corregit a v04.
+- **G016 v03:** el límit de l'ombra pròpia ja responia a la direcció de la font, però F10 demana dos panells amb una mateixa font i geometria de referència. Redissenyat a v04 amb panells separats.
+- **G018 v04:** la representació bidimensional no corresponia prou clarament a l'objecte tridimensional. Redissenyat a v05 amb el mateix volum prismàtic i les mateixes relacions de llum, ombra i contorn.
+- **G021 v02:** quatre respostes superficials diferenciades, sense assignació automàtica de materials. Apta per continuar.
+- **G022 v02:** la translucidesa es diferencia mitjançant difusió esquemàtica; no és simulació òptica. Apta per continuar amb aquest límit explícit.
+- **G023 v02:** el suposat indici compartit canviava de forma entre panells. Corregit a v03 amb el mateix reflex horitzontal i estructures diferents.
+- **G024 v02:** la seqüència referència–selecció–representació comunica la simplificació. Apta per continuar.
+- **G025 v02:** la punta fina era morfològicament incorrecta i la crida al pèl no era prou precisa. Corregit a v03 amb una punta afuada i fletxes de crida.
+- **G035 v02:** algunes línies d'anotació es creuaven i dificultaven la lectura. Corregit a v03 amb connectors separats.
+- **G036 v02:** els dos mapes mantenen la mateixa silueta i diferencien plantejament lumínic i traducció tonal. Apta per continuar.
+- **G015 v01 i G017 v01:** els esquemes de bloqueig, umbra i penombra es llegeixen correctament com a models geomètrics conceptuals. Pendent comprovació a mida de pàgina.
+- **G026 v01 i G029 v01:** les funcions previstes es distingeixen; cal revisar la llegibilitat dels pictogrames i de les etiquetes a mida física.
+- **G003 v02, G006 v03, G042 v03 i G110 v01:** els renders mantenen els límits conceptuals declarats. No s'atorga aprovació editorial ni s'infereix evidència física.
+
+### 24.3. Noves versions creades
+
+- G009 v04: correcció de peu i etiquetatge.
+- G014 v04: punt normal identificat sobre la superfície.
+- G016 v04: dos panells comparables per separar ombra pròpia i projectada.
+- G018 v05: correspondència entre objecte tridimensional i representació bidimensional.
+- G023 v03: indici visual compartit amb la mateixa forma als tres exemples.
+- G025 v03: correcció de punta fina i crides anatòmiques.
+- G035 v03: connectors d'anotació sense creuaments.
+
+F13 s'ha actualitzat amb aquestes versions i el workflow ara les exigeix com a fitxers esperats.
+
+**Estat:** les set versions noves resten pendents de renderització i inspecció. Els dictàmens «apta per continuar» són només preliminars i no equivalen a aprovació. Cap figura ha estat inserida al manual.
+
+### 24.4. Mida de maquetació
+
+La revisió a 1400 × 900 px és una revisió de render, no una prova de pàgina. La mida física d'inserció encara no està definida. Abans d'aprovar cal recuperar o establir la mida prevista en la maquetació final i comprovar-hi tipografia, gruix de línies, fletxes, llegendes i contrast. Si el manual es maquetarà a una amplada menor, els textos auxiliars de 16–18 px poden resultar insuficients.

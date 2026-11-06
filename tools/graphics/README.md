@@ -33,7 +33,7 @@ El primer pas valida que F10-R1 contingui exactament G001–G170, en ordre i sen
 
 Els briefs G151–G170 es conserven com a especificacions estructurades. No s'han de forçar dins la plantilla de quatre targetes: cada figura necessita una solució gràfica coherent amb la seva composició.
 
-La primera plantilla específica és `layer_sequence_4`, aplicada a G151. Representa quatre fases sobre una geometria repetida i constant. El seu ús no implica que la figura estigui aprovada: cal revisar el SVG/PNG generat, contrastar-ne la lectura amb el capítol i comprovar-ne la llegibilitat a mida de maquetació.
+Les plantilles específiques actuals són `layer_sequence_4` (G151) i `light_orientation` (prototip G012). El pla de famílies i gramàtiques reutilitzables és a `annexos/pla_families_visuals_F11_2026-11.md`. Representa quatre fases sobre una geometria repetida i constant. El seu ús no implica que la figura estigui aprovada: cal revisar el SVG/PNG generat, contrastar-ne la lectura amb el capítol i comprovar-ne la llegibilitat a mida de maquetació.
 
 ## GitHub Actions
 
@@ -41,7 +41,7 @@ El workflow **Render editorial figure** s'executa automàticament en canvis rell
 - `batch`: valida i audita les 170 entrades, renderitzant només les especificacions compatibles.
 - `single`: renderitza l'identificador indicat.
 
-Els resultats es publiquen com a artefacte de previsualització; el workflow no confirma ni insereix imatges al manual.
+Els resultats es publiquen com a artefacte de previsualització, incloent-hi les especificacions JSON generades a `dist/graphics/specs/` per conservar els esborranys del lot; el workflow no confirma ni insereix imatges al manual.
 
 ## Criteris editorials i tècnics
 

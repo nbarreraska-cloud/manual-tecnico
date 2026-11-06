@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+<title id="title">Organització documental de la informació sobre les pintures</title>
+<desc id="desc">Esquema de tres funcions connectades: identificació i documentació mitjançant el capítol 2, l'annex A i les fitxes individuals; fonaments generals al capítol 3; i aplicació pràctica als capítols de tècniques i receptes, que es nodreix tant de la documentació específica com dels fonaments generals.</desc>
+<defs>
+<style>
+.title{font:700 34px Arial,sans-serif;fill:#183247}.subtitle{font:17px Arial,sans-serif;fill:#526777}
+.group{font:700 19px Arial,sans-serif;fill:#28465b;letter-spacing:.7px}
+.node-title{font:700 24px Arial,sans-serif;fill:#183247}.node-body{font:18px Arial,sans-serif;fill:#334b5c}
+.node-small{font:15px Arial,sans-serif;fill:#526777}.connector{stroke:#60798a;stroke-width:3;fill:none;stroke-linecap:round;stroke-linejoin:round}
+.connector-label{font:15px Arial,sans-serif;fill:#405b6d}.footer{font:16px Arial,sans-serif;fill:#405b6d}
+.scope{font:700 21px Arial,sans-serif;fill:#fff}.scope-small{font:15px Arial,sans-serif;fill:#e4edf2}
+.panel{fill:#edf2f5;stroke:#d0dbe2;stroke-width:2}.doc{fill:#fff;stroke:#54758a;stroke-width:2.5}
+.foundation{fill:#fff;stroke:#9a845b;stroke-width:2.5}.apply{fill:#fff;stroke:#718b73;stroke-width:2.5}
+.rule{stroke:#c6d2da;stroke-width:1.5}
+</style>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#60798a"/></marker>
+</defs>
+<rect width="1600" height="1000" fill="#f3f6f8"/>
+<text x="800" y="58" text-anchor="middle" class="title">Organització documental de la informació sobre les pintures</text>
+<text x="800" y="91" text-anchor="middle" class="subtitle">Tres funcions connectades; els enllaços indiquen relacions, no un ordre obligatori de consulta.</text>
+<rect x="430" y="125" width="740" height="90" rx="15" fill="#28465b"/>
+<text x="800" y="163" text-anchor="middle" class="scope">PALETA DE REFERÈNCIA</text>
+<text x="800" y="190" text-anchor="middle" class="scope-small">48 pintures · quatre conjunts</text>
+
+<rect x="45" y="265" width="520" height="625" rx="18" class="panel"/>
+<rect x="615" y="265" width="370" height="625" rx="18" class="panel"/>
+<rect x="1035" y="265" width="520" height="625" rx="18" class="panel"/>
+<text x="305" y="309" text-anchor="middle" class="group">IDENTIFICACIÓ I DOCUMENTACIÓ</text>
+<text x="800" y="309" text-anchor="middle" class="group">FONAMENTS TÈCNICS</text>
+<text x="1295" y="309" text-anchor="middle" class="group">APLICACIÓ PRÀCTICA</text>
+
+<!-- Documentació -->
+<rect x="105" y="350" width="400" height="135" rx="13" class="doc"/>
+<rect x="105" y="350" width="400" height="11" rx="5" fill="#54758a"/>
+<text x="305" y="397" text-anchor="middle" class="node-title">Capítol 2</text>
+<text x="305" y="431" text-anchor="middle" class="node-body">Composició i organització</text>
+<text x="305" y="457" text-anchor="middle" class="node-small">Delimita la paleta seleccionada</text>
+<path d="M305 485 V530" class="connector" marker-end="url(#arrow)"/>
+<text x="325" y="514" class="connector-label">desplega</text>
+
+<rect x="105" y="540" width="400" height="125" rx="13" class="doc"/>
+<rect x="105" y="540" width="400" height="11" rx="5" fill="#54758a"/>
+<text x="305" y="585" text-anchor="middle" class="node-title">Annex A</text>
+<text x="305" y="619" text-anchor="middle" class="node-body">Catàleg identificatiu de 48 pintures</text>
+<text x="305" y="646" text-anchor="middle" class="node-small">Nomena i localitza cada producte</text>
+<path d="M305 665 V710" class="connector" marker-end="url(#arrow)"/>
+<text x="325" y="694" class="connector-label">enllaça amb</text>
+
+<rect x="105" y="720" width="400" height="130" rx="13" class="doc"/>
+<rect x="105" y="720" width="400" height="11" rx="5" fill="#54758a"/>
+<text x="305" y="766" text-anchor="middle" class="node-title">Fitxes individuals</text>
+<text x="305" y="801" text-anchor="middle" class="node-body">Documentació específica</text>
+<text x="305" y="827" text-anchor="middle" class="node-small">Amplien la informació de cada pintura</text>
+
+<!-- Fonaments -->
+<rect x="655" y="450" width="290" height="205" rx="13" class="foundation"/>
+<rect x="655" y="450" width="290" height="11" rx="5" fill="#9a845b"/>
+<text x="800" y="505" text-anchor="middle" class="node-title">Capítol 3</text>
+<text x="800" y="544" text-anchor="middle" class="node-body">Propietats i</text>
+<text x="800" y="570" text-anchor="middle" class="node-body">comportament de les pintures</text>
+<text x="800" y="615" text-anchor="middle" class="node-small">Fonaments generals d'interpretació</text>
+
+<!-- Aplicació -->
+<rect x="1100" y="450" width="390" height="205" rx="13" class="apply"/>
+<rect x="1100" y="450" width="390" height="11" rx="5" fill="#718b73"/>
+<text x="1295" y="505" text-anchor="middle" class="node-title">Capítols tècnics</text>
+<text x="1295" y="544" text-anchor="middle" class="node-body">Tècniques i receptes</text>
+<text x="1295" y="584" text-anchor="middle" class="node-small">Desenvolupen procediments</text>
+<text x="1295" y="609" text-anchor="middle" class="node-small">i resultats visuals</text>
+
+<!-- Relacions que alimenten l'aplicació -->
+<path d="M945 552 H1090" class="connector" marker-end="url(#arrow)"/>
+<text x="1017" y="530" text-anchor="middle" class="connector-label">fonaments generals</text>
+<path d="M505 785 H590 V400 H1295 V440" class="connector" marker-end="url(#arrow)"/>
+<text x="945" y="385" text-anchor="middle" class="connector-label">documentació específica de les pintures</text>
+
+<!-- Nota de rigor -->
+<rect x="655" y="710" width="835" height="140" rx="13" fill="#f8fafb" stroke="#c2d0d8" stroke-width="2"/>
+<text x="1072" y="750" text-anchor="middle" class="node-title">Límit de la informació</text>
+<line x1="695" y1="768" x2="1450" y2="768" class="rule"/>
+<text x="1072" y="800" text-anchor="middle" class="node-body">Identificar un producte no equival a caracteritzar-lo.</text>
+<text x="1072" y="827" text-anchor="middle" class="node-small">Les propietats individuals requereixen documentació específica i, quan correspongui, proves físiques.</text>
+
+<text x="800" y="936" text-anchor="middle" class="footer">El catàleg identifica; les fitxes documenten; el capítol 3 aporta fonaments; els capítols tècnics n'articulen l'aplicació.</text>
+</svg>

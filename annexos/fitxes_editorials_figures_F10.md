@@ -1,6 +1,6 @@
 # Fitxes editorials de les figures seleccionades — F10
 
-**Estat:** document de consolidació editorial F10-R1; les 150 fitxes originals es conserven i s'hi afegeixen 20 fitxes complementàries aprovades. Cap figura no està produïda ni aprovada per a inserció encara.  
+**Estat:** document de consolidació editorial F10-R1; les 150 fitxes originals es conserven i s'hi afegeixen 20 fitxes complementàries aprovades i revisades tècnicament contra F9. Les fitxes estan aptes per a definició visual detallada, però cap figura no està produïda ni aprovada per a inserció.  
 **Branca:** `auditoria-cobertura-visual-incidencies-2026-11`  
 **Fonts:** `PLANIFICACIO_GRAFICA_MG_FASE_POSTERIOR.md`, `TERCERA_SINTESI_CONSOLIDADA_C01-C39.md` i `annexos/llista_preliminar_produccio_grafica_F10.md`.
 

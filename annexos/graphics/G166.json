@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "G166",
+  "editorial_title": "28",
+  "chapter": "CV-28-01",
+  "placement": "Corrosió del ferro i l'acer",
+  "brief_title": "Corrosió del ferro i l'acer",
+  "type": "E1 — seqüència i comparació de representació proposades.",
+  "composition": "## G166 — Corrosió del ferro i l'acer\n\n**Capítol i ancoratge:** C28, després de 28.7.2 — «Construcció d'una superfície oxidada».  \n**Tipus:** E1 — seqüència i comparació de representació proposades.\n\n**Composició**\n- Mostrar diversos estats i distribucions de corrosió sobre ferro/acer, sense ordenar-los com una cronologia universal.\n- Un panell principal de superfície amb quatre zones identificables: metall base, recobriment conservat, recobriment desprès i productes de corrosió.\n- Un detall ampliat pot mostrar corrosió sota recobriment deteriorat, coherent amb el procediment 28.7.4.\n- Les variacions de rovell recent, madur, fosc o localitzat han de ser exemples comparatius, no etapes obligatòries.\n\n**Jerarquia de lectura**\nLa relació entre metall, recobriment i corrosió és principal. Les variacions cromàtiques són secundàries.\n\n**Informació que ha de quedar clara**\nCorrosió, brutícia i desconxat són fenòmens diferents. La superfície ha de conservar indicis del metall i del recobriment original.\n\n**No representar**\nUna seqüència cromàtica universal ni un simple efecte de taques marrons. No confondre òxid amb pigment aplicat.\n\n**Control de qualitat**\nLes vores de pèrdua del recobriment han de tenir una relació física llegible amb les zones exposades i els dipòsits de corrosió.",
+  "source": "annexos/briefs_visuals_detallats_G151-G170_DBD02_2026-11.md",
+  "production_status": "brief_structured_not_renderable",
+  "approval_status": "brief_approved_visual_design_pending",
+  "rendering_note": "No renderitzar fins que s'hagi desenvolupat una plantilla que representi fidelment aquesta composició."
+}

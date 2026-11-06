@@ -54,14 +54,16 @@ jobs:
               print(f"RENDER_OK {path} {im.width}x{im.height}")
           thumbs = []
           for name, im in rendered:
-              im.thumbnail((700, 420))
-              tile = Image.new("RGB", (720, 465), "white")
-              tile.paste(im, ((720-im.width)//2, 28))
+              im.thumbnail((560, 340))
+              tile = Image.new("RGB", (580, 380), "white")
+              tile.paste(im, ((580-im.width)//2, 28))
               ImageDraw.Draw(tile).text((12, 8), name, fill="black")
               thumbs.append(tile)
-          sheet = Image.new("RGB", (1440, 930), "#dce3e8")
+          columns = 3
+          rows = (len(thumbs) + columns - 1) // columns
+          sheet = Image.new("RGB", (columns*580, rows*380), "#dce3e8")
           for i, tile in enumerate(thumbs):
-              sheet.paste(tile, ((i%2)*720, (i//2)*465))
+              sheet.paste(tile, ((i%columns)*580, (i//columns)*380))
           sheet.save("dist/svg-review/contact-sheet.png")
           PY
       - name: Upload rendered previews

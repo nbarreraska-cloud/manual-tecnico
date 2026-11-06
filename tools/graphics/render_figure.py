@@ -177,6 +177,71 @@ def render_light_orientation(spec: dict) -> str:
     ET.fromstring(svg)
     return svg
 
+
+def render_biological_material_atlas(spec: dict) -> str:
+    """Three-way morphology comparison; deliberately not a histological plate."""
+    width, height = 1600, 900
+    dark, muted = "#263746", "#5B6872"
+    parts = [
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title desc">',
+        f'<title id="title">{escape(spec["title"])}</title>',
+        f'<desc id="desc">{escape(spec["description"])}</desc>',
+        '<rect width="1600" height="900" fill="#FAF9F6"/>',
+        f'<text x="72" y="76" font-family="DejaVu Sans, Arial" font-size="22" font-weight="700" letter-spacing="2" fill="{muted}">FIGURA G158 · ATLES MORFOLÒGIC</text>',
+        f'<text x="72" y="132" font-family="DejaVu Sans, Arial" font-size="39" font-weight="700" fill="{dark}">{escape(spec["title"])}</text>',
+        f'<text x="72" y="174" font-family="DejaVu Sans, Arial" font-size="20" fill="{muted}">{escape(spec["subtitle"])}</text>',
+    ]
+    cols = [(72, "TEIXIT OSSI", "Relleus, cavitats i porositat localitzada"),
+            (584, "TEIXITS DENTALS", "Superfície generalment més contínua"),
+            (1096, "ESTRUCTURES QUERATÍNIQUES", "Estructures compactes i marques direccionals")]
+    for x, heading, sub in cols:
+        parts.extend([
+            f'<rect x="{x}" y="225" width="432" height="510" rx="18" fill="#FFFFFF" stroke="#D8DEE3" stroke-width="2"/>',
+            f'<text x="{x+24}" y="270" font-family="DejaVu Sans, Arial" font-size="23" font-weight="700" fill="{dark}">{heading}</text>',
+            f'<text x="{x+24}" y="304" font-family="DejaVu Sans, Arial" font-size="16" fill="{muted}">{sub}</text>'
+        ])
+    # Bone: simplified long-bone silhouette with localized porous marks.
+    parts.extend([
+        '<path d="M165 410 C130 375 100 395 112 432 C120 454 145 459 157 449 L274 560 C264 581 280 605 303 607 C338 610 351 578 329 557 C319 548 306 547 295 553 L180 433 C192 420 184 399 165 410 Z" fill="#D9C9A7" stroke="#75654E" stroke-width="5"/>',
+        '<g fill="#9B8766"><circle cx="159" cy="428" r="5"/><circle cx="176" cy="441" r="4"/><circle cx="286" cy="565" r="4"/><circle cx="303" cy="580" r="5"/></g>',
+        '<path d="M135 492 L214 566" stroke="#F0E5D1" stroke-width="10" stroke-linecap="round" opacity=".8"/>',
+        '<text x="288" y="390" font-family="DejaVu Sans, Arial" font-size="17" fill="#5B6872">Os compacte</text>',
+        '<path d="M270 398 L236 445" stroke="#8296A3" stroke-width="2"/>',
+        '<circle cx="385" cy="470" r="58" fill="#EFE6D5" stroke="#75654E" stroke-width="3"/>',
+        '<g fill="#A38F6D"><circle cx="360" cy="451" r="5"/><circle cx="390" cy="443" r="7"/><circle cx="407" cy="473" r="5"/><circle cx="374" cy="489" r="6"/><circle cx="399" cy="502" r="4"/></g>',
+        '<text x="385" y="555" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="16" fill="#5B6872">Detall porós</text>'
+    ])
+    # Tooth: recognizable crown and root, with external enamel and inner dentin as schematic zones.
+    parts.extend([
+        '<path d="M730 390 C685 360 650 395 660 442 C667 476 687 489 695 530 C702 566 719 584 733 548 L752 496 L772 548 C786 584 803 566 810 530 C818 489 838 476 845 442 C855 395 820 360 775 390 C758 401 747 401 730 390 Z" fill="#F0E4C7" stroke="#8A785C" stroke-width="5"/>',
+        '<path d="M730 390 C685 360 650 395 660 442 C667 476 687 489 695 530 C704 544 716 524 729 485 L752 436 L775 485 C788 524 800 544 810 530 C818 489 838 476 845 442 C855 395 820 360 775 390 C758 401 747 401 730 390 Z" fill="#FFF8E8" stroke="#B39E79" stroke-width="2"/>',
+        '<path d="M730 408 C704 400 690 424 698 451 C705 473 722 482 733 512 L752 465 L772 512 C783 482 800 473 807 451 C815 424 801 400 775 408 C758 416 747 416 730 408 Z" fill="#D9B986" opacity=".75"/>',
+        '<path d="M675 370 L704 390" stroke="#8296A3" stroke-width="2"/><text x="624" y="360" font-family="DejaVu Sans, Arial" font-size="16" fill="#5B6872">Esmalt</text>',
+        '<path d="M812 510 L840 535" stroke="#8296A3" stroke-width="2"/><text x="818" y="558" font-family="DejaVu Sans, Arial" font-size="16" fill="#5B6872">Dentina</text>',
+        '<text x="800" y="625" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="16" fill="#5B6872">Forma i continuïtat superficial</text>'
+    ])
+    # Keratin: curved horn sheath with longitudinal growth striae; not an antler.
+    parts.extend([
+        '<path d="M1218 555 C1192 493 1202 424 1251 382 C1302 338 1370 356 1402 317 C1392 384 1334 414 1297 452 C1265 485 1260 525 1268 566 Z" fill="#C6A77A" stroke="#6F5B43" stroke-width="5"/>',
+        '<g fill="none" stroke="#8B704F" stroke-width="4" stroke-linecap="round"><path d="M1229 536 C1216 478 1230 424 1271 390"/><path d="M1248 548 C1237 491 1251 443 1290 408"/><path d="M1268 553 C1260 506 1275 462 1310 428"/><path d="M1288 545 C1285 505 1302 471 1333 447"/></g>',
+        '<text x="1380" y="470" font-family="DejaVu Sans, Arial" font-size="16" fill="#5B6872">Estries</text>',
+        '<path d="M1372 476 L1325 484" stroke="#8296A3" stroke-width="2"/>',
+        '<path d="M1150 600 L1174 576" stroke="#8296A3" stroke-width="2"/>',
+        '<text x="1120" y="625" font-family="DejaVu Sans, Arial" font-size="16" fill="#5B6872">Banya amb beina</text>',
+        '<rect x="1120" y="655" width="384" height="52" rx="10" fill="#F2EEE5"/>',
+        '<text x="1136" y="677" font-family="DejaVu Sans, Arial" font-size="15" font-weight="700" fill="#263746">Important: l’asta del cèrvid és os</text>',
+        '<text x="1136" y="697" font-family="DejaVu Sans, Arial" font-size="14" fill="#5B6872">i no s’ha de confondre amb la banya queratínica.</text>'
+    ])
+    parts.extend([
+        '<rect x="72" y="765" width="1432" height="64" rx="12" fill="#E9EEF0"/>',
+        f'<text x="96" y="804" font-family="DejaVu Sans, Arial" font-size="19" font-weight="700" fill="{dark}">La semblança de color no implica la mateixa estructura ni el mateix tractament pictòric.</text>',
+        f'<text x="72" y="870" font-family="DejaVu Sans, Arial" font-size="16" fill="{muted}">{escape(spec.get("note", ""))}</text>',
+        '</svg>'
+    ])
+    svg = "\n".join(parts)
+    ET.fromstring(svg)
+    return svg
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--figure", required=True, help="Figure identifier, e.g. G001")
@@ -193,6 +258,8 @@ def main() -> int:
         svg_content = render_layer_sequence(spec)
     elif spec.get("template") == "light_orientation":
         svg_content = render_light_orientation(spec)
+    elif spec.get("template") == "biological_material_atlas":
+        svg_content = render_biological_material_atlas(spec)
     else:
         svg_content = render(spec)
     svg_path.write_text(svg_content, encoding="utf-8")

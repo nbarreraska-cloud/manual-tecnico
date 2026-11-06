@@ -198,7 +198,7 @@ La verificació contextual ja permet resoldre el dubte d'ubicació: al text cons
 
 També cal separar ubicació i evidència. La figura està planificada com E2 perquè la proposta inicial contempla mostres reals. Però no hi ha prova física ni fotografies documentades. En conseqüència, no es pot produir ni presentar com a E2 en l'estat actual. Si la prova no s'executa, s'ha de mantenir la via E0 conceptual descrita a F14, sense simular mostres. Si s'executa i supera els criteris, es podrà mantenir la via E2 amb identificació de les mostres i condicions.
 
-Aquesta conciliació es documenta aquí; no actualitza per si sola F10, F11, F13 ni el manual lector.
+La conciliació de l'ancoratge s'ha aplicat al registre F13 i al brief F14. F10 i F11 no s'han modificat, ja que la selecció i la ubicació temàtica no requerien cap canvi en aquests documents. El manual lector tampoc no s'ha modificat.
 
 ## 11. Estat
 

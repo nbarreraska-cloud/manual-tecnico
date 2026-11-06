@@ -33,7 +33,7 @@
 | 5.1 / G012 | 5.4 | apartat 5.3.1 | E0 | Orientació dels plans respecte de la font | [SVG v03 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C05_5-1_G012_v03.svg) |
 | 5.2 / G013 | 5.6 | apartat 5.3.2; remissió conceptual a 5.4.1 | E0 | Angle d'incidència i llei de la reflexió | [SVG v03 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C05_5-2_G013_v03.svg) |
 | 5.3 / G014 | 5.7 | apartat 5.3.1 | E0 | Il·luminació de superfícies planes i corbes | [SVG v03 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C05_5-3_G014_v04.svg) |
-| 5.4 / G015 | 5.11 | apartat 5.5.1 | E0 | Relació espacial entre font lluminosa, objecte bloquejador i superfície receptora de l'ombra | [SVG v01 · pendent de renderització i revisió](../grafics_prova/fig_C05_5-4_G015_v01.svg) |
+| 5.4 / G015 | 5.11 | apartat 5.5.1 | E0 | Relació espacial entre font lluminosa, objecte bloquejador i superfície receptora de l'ombra | [SVG v01 · pendent de renderització i revisió](../grafics_prova/fig_C05_5-4_G015_v02.svg) |
 | 5.5 / G016 | 5.12 | apartat 5.5.2 | E0 | Ombra pròpia i ombra projectada | [SVG v03 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C05_5-5_G016_v05.svg) |
 | 5.6 / G017 | 5.13 | apartat 5.5.3 | E0 | Formació de l'umbra i la penombra quan una font extensa queda bloquejada parcialment | [SVG v01 · pendent de renderització i revisió](../grafics_prova/fig_C05_5-6_G017_v01.svg) |
 | 5.7 / G018 | 5.15 | apartat 5.7 | E0 | Senyals visuals que suggereixen profunditat i volum: llums, ombres, contorns, reflexos, orientació i superposició | [SVG v04 · pendent de renderització i revisió](../grafics_prova/fig_C05_5-7_G018_v06.svg) |

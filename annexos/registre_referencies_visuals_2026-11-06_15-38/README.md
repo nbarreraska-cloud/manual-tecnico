@@ -16,7 +16,7 @@ Aquest és el registre únic i acumulatiu de totes les figures que es treballin 
 - No donar per seleccionada ni reutilitzable cap imatge sense verificar-ne la font i les condicions d'ús.
 - Mantenir els títols i els textos de les figures en català.
 - No modificar el document mestre del manual ni inserir-hi imatges durant aquesta fase.
-- Quan una figura quedi resolta quant al tipus de recurs visual i la seva via de producció, es tanca el seu registre i es passa a la següent. La producció gràfica efectiva es farà quan correspongui.
+- La cerca, la selecció conceptual, la producció, la validació i el tancament són estats diferents. No es tanca una figura només perquè s'hagi definit una via de producció: el recurs final ha d'estar produït, guardat a la carpeta d'aquest procés, comprovat i registrat. Si la producció s'ajorna, la figura queda explícitament en estat pendent/diferit.
 
 ---
 
@@ -86,13 +86,13 @@ No s'utilitzarà cap imatge externa com a imatge final de G001. Les referències
 **Data del registre:** 2026-11-06  
 **Capítol:** 2  
 **Ubicació:** apartat 2.5  
-**Estat:** cerca tancada; solució definida com a diagrama original pendent de producció.
+**Estat:** estudi d'alternatives completat provisionalment; producció i decisió compositiva final ajornades.
 
 ### Objectiu didàctic
 
 Explicar com es distribueix i es connecta la informació sobre les 48 pintures al llarg del manual, i ajudar el lector a identificar on ha d'anar segons si necessita una visió general, dades identificatives, documentació individual, criteris d'interpretació tècnica o exemples d'aplicació.
 
-### Especificació de contingut recuperada del manual
+### Especificació de contingut contrastada amb el manual
 
 - **Capítol 2 — Inventari i organització:** presenta l'abast i l'organització general de les 48 pintures.
 - **Annex A — Catàleg:** reuneix les dades identificatives de les 48 pintures.
@@ -102,31 +102,34 @@ Explicar com es distribueix i es connecta la informació sobre les 48 pintures a
 
 La figura ha de preservar la distinció entre identificar un producte, documentar-lo, interpretar-ne el comportament i mostrar-ne aplicacions. No ha d'insinuar que les propietats o els resultats d'una pintura queden verificats pel simple fet d'aparèixer al catàleg.
 
-### Referències visuals examinades
+### Alternatives i vies de resolució examinades
 
-1. **Dassault Systèmes — Document Map and Render Format.** Referència útil per representar una estructura documental que enllaça seccions amb unitats de contingut, sense duplicar-les. És l'analogia més propera a la funció de la figura.  
-   https://3dswym.3dexperience.3ds.com/post/enovia-user-community/introduction-to-structured-document-manager_Xge5r1FLRWaqN9iAYM_Gag
+S'han plantejat vuit enfocaments, sense seleccionar encara una composició definitiva ni cap recurs final:
 
-2. **DITA — Cross-Document Linking.** Aporta exemples de referències creuades entre continguts distribuïts en documents o publicacions diferents. La representació concreta és massa densa i tècnica per traslladar-la al manual.  
-   https://www.slideshare.net/slideshow/poster-crossdocument-linking-in-dita/51501810
+1. **Mapa documental estructurat:** organització dels cinc recursos segons les seves funcions.
+2. **Mapa de continguts modulars:** relació entre el contingut general, el catàleg i les fitxes individuals.
+3. **Arquitectura de documents i publicacions:** representació de les diferents unitats documentals i les seves relacions.
+4. **Mapa de referències creuades:** connexions entre documents sense establir una seqüència de consulta.
+5. **Mapa radial:** les 48 pintures com a conjunt central, amb els recursos documentals al voltant.
+6. **Diagrama de relacions per funcions:** blocs funcionals connectats, sense fletxes de procés.
+7. **Diagrama vectorial SVG personalitzat:** composició construïda directament al repositori, amb geometria, tipografia i connectors controlats.
+8. **Diagrama de nivells o capes:** agrupació de la informació per funcions, amb el risc de suggerir una jerarquia o progressió no establerta al text.
 
-3. **SAP Commerce — Product Data Flow Diagram.** Mostra la centralització de la informació de producte i les seves diferents sortides. És una referència conceptual secundària, però representa un flux de dades d'un sistema comercial i no una arquitectura editorial.  
-   https://help.sap.com/docs/SAP_COMMERCE/D0224ECA81E249CB821F2CDF45A82ACE/8c32805c866910148932c1df5d0e89c1.html
+També s'han considerat vies tècniques de producció: imatge externa adaptable, Mermaid, Graphviz, draw.io, SVG propi i generació d'imatge amb ChatGPT.
 
-### Avaluació de les alternatives
+### Avaluació provisional
 
-- **Mapa jeràrquic d'arbre:** descartat com a solució principal. Simplificaria en excés les relacions i podria suggerir una dependència lineal entre capítols i annexos.
-- **Diagrama de flux de dades de producte:** descartat. La figura no descriu un procés de transformació ni un sistema informàtic.
-- **Mapa de relacions documentals:** escollit com a base conceptual. Permet mostrar les diferents funcions documentals i les seves connexions sense convertir-les en una seqüència.
+La figura és essencialment documental i relacional; no necessita una fotografia ni una imatge realista. Per tant, la generació d'imatge amb ChatGPT no es considera necessària en aquesta fase.
 
-### Decisió de producció
+La via que es considera més prometedora és construir un **SVG específic directament al repositori de GitHub**, aprofitant el sistema de generació de figures existent però desenvolupant una plantilla adequada a aquesta composició. Això permetria conservar una font vectorial editable i reproduïble. Aquesta preferència és provisional i no equival a una decisió de composició final.
 
-Crear un **diagrama original de relacions documentals**, amb una composició clara en dues zones funcionals:
+S'han identificat tres arquitectures per comparar amb més detall quan es reprengui el treball:
 
-- **Identificació i documentació:** capítol 2 (visió general), annex A (catàleg de les 48 pintures) i fitxes individuals (documentació específica).
-- **Interpretació i aplicació:** capítol 3 (fonaments de caracterització tècnica) i capítols de tècniques i receptes (ús pràctic).
+- **A. Mapa documental:** cinc recursos distribuïts per funcions.
+- **B. Mapa radial:** conjunt de pintures al centre i recursos al voltant.
+- **C. Mapa de consulta per capes:** àrees funcionals connectades sense direcció obligatòria.
 
-Les zones s'han de connectar mitjançant línies o connectors discrets, amb etiquetes curtes que n'expliquin la relació. La composició ha de permetre veure que els capítols i annexos són vies complementàries de consulta sobre un mateix conjunt de pintures, no etapes obligatòries d'un procés.
+No s'ha escollit cap d'aquestes tres opcions.
 
 ### Restriccions de representació
 
@@ -137,21 +140,27 @@ Les zones s'han de connectar mitjançant línies o connectors discrets, amb etiq
 - Utilitzar els noms reals de les seccions del manual i textos en català.
 - Mantenir una jerarquia tipogràfica clara i llegibilitat a la mida final de maquetació.
 - Evitar una estètica d'arquitectura informàtica, base de dades o organigrama corporatiu.
+- No donar per finalitzada la figura fins que el recurs definitiu estigui produït, guardat, comprovat i registrat.
 
 ### Procedència i drets d'ús
 
-Les tres referències s'han utilitzat únicament per estudiar estructures i llenguatges de representació. No se selecciona cap imatge externa com a recurs final ni se'n copiarà la composició literal. La figura es produirà com a diagrama original; per tant, no depèn de reutilitzar els drets d'una imatge de tercers.
+Les referències externes examinades serveixen únicament per estudiar llenguatges de representació i estructures documentals. No s'ha seleccionat cap imatge externa com a recurs final ni s'ha descarregat cap recurs per incorporar-lo a la carpeta de treball. La via SVG pròpia evitaria dependre de la reutilització d'una imatge de tercers.
 
-### Estat de resolució
+### Estat i motiu de l'ajornament
 
-La cerca de referències i la selecció del tipus de solució visual queden tancades. **La figura final encara no està produïda.**
+Per decisió de l'usuari, **tots els processos de producció gràfica queden ajornats temporalment**. Es conserva la conclusió de l'estudi: G002 probablement es resoldrà millor mitjançant una figura vectorial creada directament al repositori, sense necessitat de generar-la amb ChatGPT. La composició concreta queda pendent de decisió.
+
+No s'ha creat ni guardat cap fitxer visual de G002. Per tant, la figura no està tancada ni completada.
 
 ### Historial de decisions
 
 | Data | Decisió | Estat |
 |---|---|---|
-| 2026-11-06 | Comparar mapa documental, referències creuades i flux de dades de producte | Cerca examinada |
-| 2026-11-06 | Crear un mapa original de relacions documentals en dues zones funcionals | Solució definida; producció pendent |
+| 2026-11-06 | Contrastar les cinc funcions documentals amb l'apartat 2.5 del capítol 2 | Contingut verificat |
+| 2026-11-06 | Examinar vuit enfocaments visuals i diverses vies tècniques de producció | Estudi d'alternatives |
+| 2026-11-06 | Considerar SVG propi al repositori com a via preferent provisional | Pendent de reprendre |
+| 2026-11-06 | Ajornar la producció i no seleccionar encara A, B o C | Ajornat; no tancat |
+
 ---
 
 ## G003 — Figura 3.1. Comportament d'opacitat i transparència de les pintures

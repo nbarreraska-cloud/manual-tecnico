@@ -10,7 +10,7 @@
 
 ## 1. Conclusió executiva
 
-La proposta inicial de 17 composicions s'ha de revisar a l'alça. Després de contrastar les funcions de les figures P1 existents amb els procediments i les famílies de materials dels capítols sense cobertura, la proposta recomanada és de **20 composicions complementàries**:
+La proposta inicial de 17 composicions s'ha revisat a l'alça. Després de contrastar les funcions de les figures P1 existents amb els procediments i les famílies de materials dels capítols sense cobertura, s'han aprovat **20 composicions complementàries**:
 
 - **7 composicions** per als procediments generals dels capítols 8–14.
 - **13 composicions** per als materials dels capítols 25–29.
@@ -39,7 +39,7 @@ Només s'ha considerat que una figura existent absorbeix una necessitat quan con
 
 ## 3. Propostes complementàries revisades
 
-Els identificadors següents són claus provisionals d'auditoria, no números de figura ni identificadors G de producció.
+Els identificadors CV següents es conserven com a claus de traçabilitat. Les composicions ja tenen numeració editorial i identificadors G151–G170 a F10-R1.
 
 ### 3.1. Procediments generals — capítols 8–14
 
@@ -153,7 +153,7 @@ Ordre proposat:
 
 ## 7. Condicions de producció i verificació
 
-Abans de convertir una proposta en figura numerada, la seva fitxa ha de contenir:
+Abans de produir una figura, la seva fitxa editorial ha de contenir i mantenir:
 
 - apartats exactes del capítol que cobreix;
 - llegenda en català;
@@ -174,30 +174,19 @@ No s'han d'inventar resultats experimentals, proporcions, temps, pressions, dilu
 
 ---
 
-## 8. Impacte sobre F10 i F11
+## 8. Incorporació coordinada a F10-R1 i F11-R1
 
-La incorporació s'ha executat de manera coordinada a la branca d'auditoria. Les 20 composicions tenen fitxes completes a `fitxes_editorials_figures_F10.md`, numeració a `llista_definitiva_produccio_grafica_F10.md` i punts d'inserció/remissions a la tanda 04 de F11. El control global successor registra 170 composicions.
+La incorporació s'ha executat a la branca independent d'auditoria:
 
-La incorporació eventual de les 20 composicions afectaria:
+- Les 20 fitxes completes s'han afegit a `fitxes_editorials_figures_F10.md`.
+- La numeració i els identificadors G151–G170 s'han afegit a `llista_definitiva_produccio_grafica_F10.md`.
+- Els 20 punts d'inserció i les remissions candidates s'han documentat a la tanda 04 de F11.
+- El control successor `control_global_F11_remissions_170.md` registra 170 composicions i la nova classificació d'evidència.
+- L'auditoria editorial F11 s'ha ampliat amb el registre de les 20 composicions.
 
-- la numeració editorial seqüencial de les figures;
-- les claus G001–G150 si es decideix mantenir una seqüència global única;
-- els ancoratges i les remissions F11;
-- les fitxes editorials de producció;
-- els recomptes de composicions i identificadors.
+Els 150 identificadors G001–G150 i les seves numeracions editorials no s'han modificat. Com que les 20 composicions noves s'assignen a capítols que no tenien figures, no ha calgut renumerar cap composició existent.
 
-Per evitar una falsa estabilitat documental:
-
-1. No modificar ara la llista definitiva F10.
-2. No recalcular ara els números «Figura capítol.n».
-3. No assignar ara identificadors G definitius.
-4. No inserir remissions noves a F11.
-5. Mantenir aquest document com a proposta independent fins a l'aprovació.
-6. Un cop aprovat el contingut, actualitzar de manera coordinada la llista, les fitxes, les matrius i les remissions, i fer una nova comprovació quantitativa.
-
----
-
-## 9. Decisió recomanada
+## 9. Decisió adoptada
 
 **Decisió:** les 20 composicions queden aprovades com a ampliació de cobertura i les fitxes editorials individuals s'han incorporat a F10-R1. L'aprovació de la planificació no equival a aprovar imatges produïdes ni autoritza encara la cerca, selecció, generació o inserció gràfica.
 

@@ -13,21 +13,35 @@ SPEC_DIR = ROOT / "annexos" / "graphics"
 MANIFEST = ROOT / "dist" / "graphics" / "manifest.json"
 REPORT_DIR = ROOT / "dist" / "graphics"
 
-def inspect_spec(path: Path) -> tuple[str, str]:
+
+def inspect_spec(path: Path, expected_id: str) -> tuple[str, str]:
     try:
         spec = json.loads(path.read_text(encoding="utf-8"))
     except Exception as exc:
         return "invalid_spec", str(exc)
+
+    if spec.get("id") != expected_id:
+        return "invalid_spec", f"Identificador absent o inconsistent: s'esperava {expected_id}."
+
+    # A structured brief is a valid editorial specification, but it is not
+    # yet a finished layout and must never be sent to the generic renderer.
+    if spec.get("production_status") == "brief_structured_not_renderable":
+        if not isinstance(spec.get("composition"), str) or not spec["composition"].strip():
+            return "invalid_spec", "El brief estructurat no conté una composició textual vàlida."
+        if not spec.get("source") or not spec.get("rendering_note"):
+            return "invalid_spec", "El brief estructurat no conserva la font o la nota de renderització."
+        return "brief_structured_not_renderable", "Brief estructurat i traçable; pendent de disseny visual i plantilla específica."
+
     cards = spec.get("cards")
     if not isinstance(cards, list) or len(cards) != 4:
-        return "unsupported_template", "La plantilla actual només admet quatre blocs."
-    required = ("title",)
-    if any(not spec.get(key) for key in required):
+        return "unsupported_template", "Hi ha especificació individual, però encara no correspon a una plantilla de renderització disponible."
+    if not spec.get("title"):
         return "invalid_spec", "Falta el camp obligatori title."
     for index, card in enumerate(cards):
-        if not all(card.get(key) for key in ("letter", "heading")) or not isinstance(card.get("body"), list):
+        if not isinstance(card, dict) or not all(card.get(key) for key in ("letter", "heading")) or not isinstance(card.get("body"), list):
             return "invalid_spec", f"Bloc {index + 1}: estructura incompleta."
     return "ready", "Especificació compatible amb la plantilla de quatre blocs."
+
 
 def main() -> int:
     parser = argparse.ArgumentParser()
@@ -43,7 +57,7 @@ def main() -> int:
         if not spec_path.is_file():
             result.update(status="missing_spec", detail="No hi ha especificació JSON individual.")
         else:
-            status, detail = inspect_spec(spec_path)
+            status, detail = inspect_spec(spec_path, figure_id)
             if status == "ready" and args.render:
                 proc = subprocess.run(
                     [sys.executable, str(ROOT / "tools" / "graphics" / "render_figure.py"), "--figure", figure_id],
@@ -72,6 +86,7 @@ def main() -> int:
         print(f"  {status}: {count}")
     print(f"Informes: {json_path.relative_to(ROOT)} i {csv_path.relative_to(ROOT)}")
     return 1 if counts.get("render_error") or counts.get("invalid_spec") else 0
+
 
 if __name__ == "__main__":
     raise SystemExit(main())

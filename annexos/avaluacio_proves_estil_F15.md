@@ -300,3 +300,13 @@ La selecció és provisional i no confirma disponibilitat física. La via E0 de 
 ## 15. Aclariment de la naturalesa E1 de G042
 
 La consulta de F12 confirma que E1 significa procediment o seqüència proposats i no assajats. Per tant, la prova física descrita al protocol G042 és complementària i no és un requisit per produir la figura 16.4. G042 es pot redissenyar com una seqüència vectorial didàctica, sempre identificada com a proposta no assajada. La nova versió ha de corregir la lectura genèrica de la v01 i fer visible la relació entre geometria, patró de reflexos i sis funcions del procediment 16.5.2–16.5.7. La v01 es conserva i no s'aprova.
+
+
+## 16. Iteració gràfica G003 v02 i G042 v02
+
+S'han creat dues noves versions SVG independents, sense sobreescriure les v01:
+
+- **G003 v02:** alternativa conceptual E0. La nota explicativa queda fora de les mostres; els quatre panells mantenen un patró comú i presenten nivells gràfics il·lustratius, sense llindars ni atribució a productes concrets. La prova física i la via E2 continuen pendents.
+- **G042 v02:** seqüència E1 proposada no assajada. La forma és una fulla d'espasa consistent en els sis panells; la seqüència diferencia base, masses fosques, transició intermèdia, reflex principal, accents màxims i integració. Cal revisar especialment la lectura de la geometria, el caràcter metàl·lic i la diferència funcional entre els panells 5 i 6.
+
+El workflow de renderització s'ha actualitzat perquè la fulla de contacte s'adapti al nombre de SVG del directori. La validació de les v02 queda pendent de l'execució del workflow i de la revisió visual dels PNG a mida de pàgina. **Cap de les dues versions està aprovada ni inserida al manual.**

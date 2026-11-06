@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900"><defs><style>
+.t{font:700 30px Arial,sans-serif;fill:#183247}.h{font:700 21px Arial,sans-serif;fill:#28465b}.b{font:17px Arial,sans-serif;fill:#263b49}.s{font:14px Arial,sans-serif;fill:#526777}.line{stroke:#526777;stroke-width:2;fill:none}.panel{fill:#fff;stroke:#b7c7d1;stroke-width:2}
+</style></defs>
+<rect width="1400" height="900" fill="#f3f6f8"/><text x="700" y="52" text-anchor="middle" class="t">Orientació dels plans respecte de la font lluminosa</text>
+<rect x="35" y="95" width="1330" height="710" rx="16" class="panel"/>
+<circle cx="180" cy="245" r="55" fill="#f2c94c" stroke="#b58b27" stroke-width="3"/><path d="M180 160 V120 M180 330 V370 M95 245 H55 M265 245 H305 M120 185 L90 155 M240 185 L270 155" stroke="#d3a52d" stroke-width="5"/>
+<g stroke="#d3a52d" stroke-width="4" fill="none"><path d="M250 245 L520 245 M250 245 L520 385 M250 245 L520 525"/></g>
+<g><path d="M540 220 L970 220 L970 270 L540 270 Z" fill="#8fb6d0" stroke="#28465b" stroke-width="3"/><path d="M540 385 L930 275 L950 325 L560 435 Z" fill="#8fb6d0" stroke="#28465b" stroke-width="3"/><path d="M540 540 L900 540 L900 590 L540 590 Z" fill="#8fb6d0" stroke="#28465b" stroke-width="3"/></g>
+<g stroke="#d34b43" stroke-width="4" fill="none"><path d="M755 245 V130"/><path d="M745 410 L690 300"/><path d="M720 565 V650"/></g>
+<g class="b"><text x="180" y="345" text-anchor="middle">Font</text><text x="755" y="110" text-anchor="middle">Normal</text><text x="1010" y="250">Pla perpendicular</text><text x="1000" y="400">Pla inclinat</text><text x="930" y="620">Pla horitzontal</text></g>
+<g class="s"><text x="700" y="730" text-anchor="middle">La normal és perpendicular al pla en el punt considerat.</text><text x="700" y="755" text-anchor="middle">L'orientació del pla modifica l'angle amb què rep la llum.</text></g>
+</svg>

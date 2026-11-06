@@ -2,7 +2,9 @@
 
 **Projecte:** manual tècnic de pintura de miniatures  
 **Figura:** 3.1 / G003  
-**Apartat lector:** 3.1.2.1 — Opacitat, transparència i cobertura  
+**Ubicació registrada a F10:** apartat 3.1.  
+**Apartat del text consolidat on es desenvolupa el contingut:** 3.2.1 — Opacitat, transparència i cobertura.  
+**Incidència d'ancoratge:** discrepància pendent de resolució editorial abans de fixar la ubicació definitiva de la figura.  
 **Classificació editorial vigent:** E2  
 **Estat:** protocol preparat; prova física no executada  
 **Branca:** `intervencion-editorial-2026-11`
@@ -188,6 +190,12 @@ La prova no modifica automàticament la figura 3.1 ni la seva classificació. De
 
 Qualsevol canvi de naturalesa de la figura o de la seva classificació E2 s'haurà de justificar documentalment abans d'actualitzar F10/F11 o F15.
 
-## 10. Estat
+## 10. Incidència d'ancoratge
+
+La llista definitiva F10 situa G003 a l'apartat 3.1. Tanmateix, al text consolidat consultat, l'apartat 3.1 és «Objectiu i abast», mentre que el desenvolupament d'opacitat, transparència i cobertura apareix a 3.2.1. L'ancoratge registrat no coincideix, per tant, amb el desenvolupament temàtic visible.
+
+No es corregeix automàticament F10 ni cap document de remissions en aquest protocol. Abans de produir la figura cal verificar el paràgraf exacte on ha d'aparèixer i determinar si l'ancoratge correcte és 3.2.1 o si hi ha una altra ubicació prevista. Aquesta discrepància és independent de la prova física.
+
+## 11. Estat
 
 Protocol preparat. No s'han seleccionat ni provat pintures, no s'han produït fotografies, no s'ha validat cap resultat i no s'ha modificat el prototip G003 ni el manual.

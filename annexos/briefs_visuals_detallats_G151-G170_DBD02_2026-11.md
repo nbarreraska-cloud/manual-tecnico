@@ -5,7 +5,7 @@
 **Versió de treball:** DBD-02  
 **Fonts de control:** F9 (tercera síntesi consolidada), fitxes editorials F10-R1, revisió tècnica G151–G170 i planificació F11 de la tanda 04.  
 **Abast:** concreció de la composició visual i dels criteris de lectura de les 20 figures complementàries.  
-**Estat:** versió revisada DBD-02; les correccions de l'apartat 6 prevalen sobre qualsevol formulació anterior del brief DBD-01. Pendent d'aprovació editorial.
+**Estat:** versió revisada DBD-02; les correccions de l'apartat 6 prevalen sobre qualsevol formulació anterior del brief DBD-01. L'ancoratge G153 ha estat verificat contra F9. Pendent d'aprovació editorial.
 
 ## 1. Finalitat i límits
 
@@ -572,7 +572,7 @@ Abans de passar a la selecció individual, caldrà comprovar:
 |---|---|---|
 | G151 | Ajust menor | Mantenir les quatre fases com a contingut únic principal. Eliminar el detall comparatiu entre superfície uniforme i diferenciada; només es podrà recuperar si no redueix la mida ni la llegibilitat de les quatre fases. |
 | G152 | Ajust necessari | Mantenir quatre panells equivalents, un per procediment. Reduir cada panell a una mostra de transició i un indicador breu del mecanisme d'integració. No exigir que cada panell contingui també una seqüència completa; si cal explicar el gest, emprar una indicació mínima. La comparabilitat de la transició és prioritària. |
-| G153 | Ajust important | Reduir la seqüència a quatre moments funcionals: objectiu i superfície de partida; preparació/prova; càrrega i distribució controlada; lectura del resultat i decisió sobre una possible nova aplicació. Mantenir un únic requadre d'error (aplicació massa opaca), subordinat. No mostrar el glassejat, filtres o rentats com a fases de la veladura. L'ancoratge actual després de 10.5.6 «Avaluació final» queda en revisió: no es modifica F11 fins a comprovar l'ordre real i el punt didàctic més coherent a F9. |
+| G153 | Ajust important | Reduir la seqüència a quatre moments funcionals: objectiu i superfície de partida; preparació/prova; càrrega i distribució controlada; lectura del resultat i decisió sobre una possible nova aplicació. Mantenir un únic requadre d'error (aplicació massa opaca), subordinat. No mostrar el glassejat, filtres o rentats com a fases de la veladura. **Ancoratge verificat:** després de 10.5.6 «Avaluació final» i abans de 10.6 «Variants d'aplicació i usos específics»; no cal modificar F11. |
 | G154 | Ajust menor | Mantenir la matriu de quatre tipus de perfilat. El detall final de jerarquia selectiva només s'incorpora si no competeix amb els quatre exemples ni obliga a reduir-los. |
 | G155 | Ajust necessari | Mantenir quatre panells. Cada panell ha de mostrar una marca representativa i una indicació breu del gest/eina. La densitat i l'escala s'han de comunicar dins de la mateixa mostra, no mitjançant una franja addicional. Suprimir la franja inferior opcional. |
 | G156 | Ajust menor | Mantenir les tres mostres (transparent, translúcid i opac) amb el mateix motiu de fons. Limitar les anotacions a la informació transmesa, difosa o bloquejada i a un màxim dels indicis òptics imprescindibles per entendre cada cas. Evitar etiquetar tots els fenòmens en tots els panells. |
@@ -599,7 +599,7 @@ Abans de passar a la selecció individual, caldrà comprovar:
 4. **Llegibilitat a mida final.** Si la informació no es llegeix a la mida de maquetació, simplificar-la; no resoldre-ho acumulant etiquetes o reduint-ho tot.
 5. **E0/E1 preservat.** Les composicions E1 són propostes didàctiques, no evidència d'assaig físic. No poden portar marques, resultats o llenguatge que suggereixin una validació experimental no documentada.
 6. **No alterar el contingut tècnic de F9.** Les simplificacions afecten la representació, no les receptes, les distincions o els procediments textuals.
-7. **Sense canvis d'ancoratge per inferència.** G153 queda pendent de verificació contra l'estructura real de F9; no es modifica F11 en aquesta versió.
+7. **Ancoratges verificats.** G153 s'ha contrastat amb l'estructura real de F9 i es confirma després de 10.5.6, abans de 10.6. No cal modificar F11.
 8. **Sense noves composicions ni renumeració.** Es conserven G151–G170, els capítols assignats i la classificació E0/E1.
 
 ### 6.3 Comprovació de redundàncies i fronteres funcionals
@@ -624,11 +624,11 @@ Abans de passar a la selecció individual, caldrà comprovar:
 | Composicions renumerades | 0 |
 | Briefs amb ajustos | 19 |
 | Briefs sense canvi substancial | 1 (G168) |
-| Ancoratges pendents de comprovació | 1 (G153) |
+| Ancoratges pendents de comprovació | 0 |
 | Canvis al text F9 | 0 |
 | Canvis a F10-R1/F11 | 0 |
 | Imatges cercades, seleccionades, generades o inserides | 0 |
 
-**Estat DBD-02:** versió revisada dels briefs visuals. La revisió transversal queda documentada; l'aprovació editorial final continua pendent. La selecció individual d'imatges continua fora d'aquesta fase i no s'ha iniciat.
+**Estat DBD-02:** versió revisada dels briefs visuals. La revisió transversal i la verificació de l'ancoratge G153 queden documentades. L'aprovació editorial final continua pendent. La selecció individual d'imatges continua fora d'aquesta fase i no s'ha iniciat.
 
-**Pas posterior a l'aprovació:** comprovar específicament l'ancoratge G153 contra F9 i, només si el text ho justifica, preparar una proposta separada de correcció F11. La selecció de recursos visuals es manté bloquejada fins que l'usuari confirmi que el procés paral·lel de selecció ha acabat.
+**Pas posterior:** obtenir el tancament editorial de DBD-02. La selecció de recursos visuals es manté bloquejada fins que el procés paral·lel de selecció d'imatges hagi acabat i s'hagi acordat iniciar la producció. La verificació G153 ja està tancada i no requereix cap canvi a F11.

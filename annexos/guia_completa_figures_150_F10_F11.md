@@ -1277,4 +1277,4 @@
 - [Matriu d'integració P2/P3](matriu_integracio_P2_P3_F10.md)
 - [Registre mestre d'encàrrecs F13](registre_mestre_encarrecs_grafics_F13.md)
 
-**Important:** aquesta guia és una eina de consulta per a la producció manual. No canvia la selecció congelada F10, no autoritza a crear figures P2 noves i no implica que cap imatge estigui aprovada. Abans de produir cada figura, contrasta-la amb el text lector i conserva el seu estat d'evidència.
+**Important:** aquesta guia és una eina de consulta per a la producció manual. No canvia la selecció congelada F10, no autoritza a crear figures P2 noves i no implica que cap imatge estigui aprovada. Abans de produir cada figura, contrasta-la amb el text del capítol i conserva el seu estat d'evidència.

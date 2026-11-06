@@ -393,3 +393,47 @@ La figura s'ha produït i guardat al repositori. La comprovació a la mida final
 | 2026-11-06 | Contrastar l'objectiu amb l'apartat 15.6 de F9 i la fitxa editorial F10 | Contingut i ancoratge verificats |
 | 2026-11-06 | Representar separadament el mapa d'il·luminació i el mapa de valors | Composició aplicada |
 | 2026-11-06 | Produir el recurs original en SVG i incorporar-lo al registre acumulatiu | Produït i registrat |
+---
+
+## G039+G040 — Figures 16.1 i 16.2. TMM, NMM i geometria dels reflexos
+
+**Data del registre:** 2026-11-06  
+**Capítol:** 16.  
+**Ubicacions contrastades amb F9 i F10:** G039, apartat 16.1 (Figura 16.1); G040, apartat 16.2 i/o 16.6 (Figura 16.2).  
+**Estat:** recurs SVG produït i registrat; validació d'inserció i mida d'impressió pendent.
+
+### Objectiu didàctic
+
+Diferenciar l'origen de l'aparença metàl·lica en TMM i NMM i mostrar per què el patró de reflexos s'ha d'adaptar a la geometria de la superfície.
+
+### Decisió visual aplicada
+
+Un únic SVG conté dos panells independents, corresponents als dos recursos consolidats:
+
+1. **G039 — TMM i NMM:** comparació esquemàtica entre una superfície pintada amb pintura de pigment metàl·lic i una superfície NMM construïda amb pintures convencionals, mitjançant valors i reflexos simulats.
+2. **G040 — Geometria i reflexos:** comparació d'una superfície plana/facetada, representada amb blocs i canvis definits, i una superfície corba/cilíndrica, representada amb bandes i transicions que segueixen la curvatura.
+
+### Fitxer final
+
+[Obrir G039+G040 — SVG](G039-G040_figures_16_1-16_2_TMM_NMM_geometria_reflexos.svg)
+
+### Control tècnic i editorial
+
+- Format vectorial SVG, amb textos editables.
+- Els dos conceptes mantenen panells i títols diferenciats per conservar la traçabilitat de G039 i G040.
+- La comparació TMM/NMM descriu la diferència de procediment sense presentar el NMM com una reproducció física exacta.
+- Els exemples geomètrics són esquemàtics: no estableixen un patró universal per a superfícies planes o corbes.
+- S'evita confondre l'efecte metàl·lic amb un simple augment indiscriminat del contrast.
+- Tots els textos de la figura són en català.
+
+### Límits de validació
+
+El fitxer s'ha creat al repositori. La comprovació visual del renderitzat local, la mida tipogràfica a la maquetació i la llegibilitat d'impressió continuen pendents. Cal validar-les després de la inserció a la còpia de treball del manual i la regeneració del PDF.
+
+### Historial de decisions
+
+| Data | Decisió | Estat |
+|---|---|---|
+| 2026-11-06 | Contrastar els objectius amb els apartats 16.1 i 16.2 de F9 i les entrades G039–G040 de F10 | Ancoratges verificats |
+| 2026-11-06 | Consolidar la comparació TMM/NMM i l'adaptació dels reflexos a dues geometries en un SVG amb dos panells | Composició aplicada |
+| 2026-11-06 | Crear el fitxer i incorporar-lo al registre acumulatiu | Produït i registrat |

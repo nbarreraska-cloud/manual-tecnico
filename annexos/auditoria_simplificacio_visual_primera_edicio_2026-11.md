@@ -326,3 +326,12 @@ La segona passada agrupa les 48 propostes A en **30 recursos visuals provisional
 Document: [Proposta de consolidació de 48 propostes en 30 recursos visuals](proposta_consolidacio_48_a_30_recursos_visuals_2026-11.md).
 
 Estat: consolidació conceptual completada; producció, inserció i validació en maqueta pendents.
+
+
+## 11. Reducció final proposada: de 30 a 23 recursos
+
+La revisió funcional dels 30 grups consolidats proposa un màxim de **23 recursos visuals**. Diverses funcions passen a taules o text; G019 queda condicionat a la seva aportació real; G102 s'integra amb els efectes energètics i G166–G167 es fusionen en una comparació de corrosió i pàtines. Si G019 no supera la validació en maqueta, el recompte baixa a 22.
+
+Document de decisions detallades: [Proposta final de reducció de 30 a 23 recursos](proposta_final_reduccio_30_a_23_recursos_visuals_2026-11.md).
+
+La proposta s'ha contrastat amb títols, ubicacions, integracions i condicions d'evidència de F10. No equival a una validació pàgina a pàgina de la maqueta, no autoritza producció i no modifica el contingut tècnic. La producció gràfica i la inserció continuen sense iniciar-se.

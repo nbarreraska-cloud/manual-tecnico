@@ -518,12 +518,12 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 - **Límits:** no convertir els comportaments en categories comercials rígides ni en llindars universals; no confondre opacitat, transparència i cobertura. La representació és esquemàtica, no una prova de productes, una mesura cromàtica ni una caracterització de les 48 pintures. Les comparacions pressuposen un suport, un gruix aproximat de pel·lícula i unes condicions d'aplicació equivalents. Si no hi ha fotografies de mostres físiques documentades, no presentar el resultat com una observació experimental.
 
 ### 3.3 — Distribució de la pintura sobre relleus i cavitats
-- **Ubicació:** apartat 3.3.
+- **Ubicació corregida:** apartat 3.2.3 («Fluïdesa, consistència i distribució»).
 - **Identificador complementari integrat:** 3.5 (P2), com a panell del comportament sobre relleus i cavitats.
 - **Llegenda prevista:** «Distribució d'una pintura sobre zones elevades, planes i cavitats d'una superfície en relleu.»
-- **Representació:** esquema espacial o secció ampliada que mostri la distribució descrita per al producte Xpress Color.
-- **Funció didàctica:** explicar la relació entre geometria del suport i comportament funcional descrit pel fabricant.
-- **Límits:** atribuir explícitament el comportament a la documentació del fabricant; no presentar-lo com a prova pròpia ni com a regla universal de totes les pintures.
+- **Representació:** pendent de decisió. Cal comparar una fotografia macro d'una miniatura real amb una il·lustració tècnica de perfil o una composició híbrida. La representació ha de permetre identificar relleus, plans, pendents, esquerdes i cavitats, i mostrar la distribució descrita per al producte Xpress Color sense convertir-la en un esquema fisicoquímic de capil·laritat.
+- **Funció didàctica:** explicar la relació entre geometria del suport i comportament funcional descrit pel fabricant, diferenciant la capa sobre zones elevades i l'acumulació més intensa en cavitats.
+- **Límits:** atribuir explícitament el comportament a la documentació del fabricant; no presentar-lo com a prova pròpia ni com a regla universal de totes les pintures. No inventar trajectòries de flux ni afirmar un mecanisme físic no desenvolupat al text. El resultat depèn de la geometria, orientació, quantitat aplicada, formulació i procediment.
 
 ## C4 — Teoria del color
 

@@ -309,9 +309,18 @@ S'han creat dues noves versions SVG independents, sense sobreescriure les v01:
 - **G003 v02:** alternativa conceptual E0. La nota explicativa queda fora de les mostres; els quatre panells mantenen un patró comú i presenten nivells gràfics il·lustratius, sense llindars ni atribució a productes concrets. La prova física i la via E2 continuen pendents.
 - **G042 v02:** seqüència E1 proposada no assajada. La forma és una fulla d'espasa consistent en els sis panells; la seqüència diferencia base, masses fosques, transició intermèdia, reflex principal, accents màxims i integració. Cal revisar especialment la lectura de la geometria, el caràcter metàl·lic i la diferència funcional entre els panells 5 i 6.
 
-El workflow de renderització s'ha actualitzat perquè la fulla de contacte s'adapti al nombre de SVG del directori. La validació de les v02 queda pendent de l'execució del workflow i de la revisió visual dels PNG a mida de pàgina. **Cap de les dues versions està aprovada ni inserida al manual.**
+El workflow de renderització s'ha actualitzat perquè la fulla de contacte s'adapti al nombre de SVG del directori. Les v02 s'han renderitzat correctament. En la revisió visual: G003 v02 presenta encara la nota comuna dins de l'àrea dels panells, per la qual cosa s'ha desplaçat sota aquests; G042 v02 manté la mateixa geometria de fulla i sis canvis progressius llegibles, però continua pendent de judici editorial a mida de pàgina. **Cap de les dues versions està aprovada ni inserida al manual.**
 
 
 ## 17. Iteració G006 v02
 
-S'ha creat [G006 v02](../grafics_prova/fig_C04_4-1_G006_v02.svg) per substituir els modes CSS `mix-blend-mode` de la v01, que no es representaven correctament a CairoSVG. La nova versió utilitza transparència alfa estàndard i manté separats el model additiu RGB i el model sostractiu CMY idealitzat. La representació continua sent conceptual; no equival a una simulació colorimètrica ni a una demostració de mescla de pintures comercials. La v02 resta pendent de renderització i revisió visual.
+S'ha creat [G006 v02](../grafics_prova/fig_C04_4-1_G006_v02.svg) per substituir els modes CSS `mix-blend-mode` de la v01, que no es representaven correctament a CairoSVG. La nova versió utilitza transparència alfa estàndard i manté separats el model additiu RGB i el model sostractiu CMY idealitzat. La representació continua sent conceptual; no equival a una simulació colorimètrica ni a una demostració de mescla de pintures comercials. La v02 s'ha renderitzat i revisat: la composició alfa seqüencial no representa amb prou fidelitat les combinacions RGB/CMY. S'ha creat una v03 que presenta les combinacions ideals de manera explícita i separada; resta pendent de renderització i revisió.
+
+
+## 18. Iteració G006 v03 i correcció de composició G003 v02
+
+La revisió del PNG de G006 v02 ha mostrat que la composició alfa estàndard evita la fallada dels modes de fusió, però no produeix resultats de mescla prou fidels: l'ordre de superposició condiciona els colors. Per evitar una falsa demostració, s'ha creat G006 v03 amb els colors primaris i les combinacions ideals presentats en mostres separades i etiquetades. La v03 encara no s'ha renderitzat ni aprovat.
+
+En G003 v02, la nota explicativa comuna quedava encara dins de l'alçada dels panells. S'ha desplaçat completament per sota de les quatre mostres. La versió corregida encara ha de passar pel workflow de renderització i una nova comprovació visual.
+
+La revisió de G110 v01 renderitzada confirma que la mateixa escena es conserva recognoscible a través del vidre transparent i acolorit, mentre que l'esmerilat difon els contorns. Es manté l'enfocament conceptual, sense afirmar que simuli refracció, curvatura o reflexos reals. La lectura a mida de pàgina continua pendent.

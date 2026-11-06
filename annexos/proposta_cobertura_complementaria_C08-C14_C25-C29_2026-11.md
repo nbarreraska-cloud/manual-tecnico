@@ -1,7 +1,7 @@
 # Proposta revisada de cobertura visual complementària — C08–C14 i C25–C29
 
 **Data:** 2026-11-06  
-**Estat:** proposta editorial raonada; pendent d'aprovació explícita abans d'incorporar-la a F10  
+**Estat:** proposta aprovada i convertida en 20 fitxes editorials F10-R1 el 06/11/2026  
 **Branca:** `auditoria-cobertura-visual-incidencies-2026-11`  
 **Fonts de contingut:** tercera síntesi consolidada F9 i documents de planificació F10/F11  
 **Abast:** revisió de les 17 composicions complementàries inicialment proposades i de la possibilitat d'absorbir-ne el contingut en composicions P1 existents.
@@ -17,9 +17,9 @@ La proposta inicial de 17 composicions s'ha de revisar a l'alça. Després de co
 
 La revisió no identifica cap composició P1 existent que pugui absorbir íntegrament aquestes mancances sense perdre la seva funció o barrejar continguts que el manual diferencia expressament. Les figures existents sí que poden actuar com a referències creuades i evitar que es repeteixin fonaments ja explicats.
 
-Les 20 composicions són propostes noves i no reactiven automàticament cap P2/P3 descartada, fusionada o mantinguda en reserva. No reben encara numeració editorial «Figura capítol.n» ni identificadors G definitius.
+Les 20 composicions han estat aprovades per a incorporació a F10-R1. No reactiven cap P2/P3 descartada, fusionada o mantinguda en reserva. Reben numeració editorial i identificadors append-only G151–G170, sense renumerar G001–G150.
 
-**Recompte condicional:** 150 composicions P1 F10 + 20 propostes complementàries = 170 composicions, només si totes les propostes s'aproven. Aquest recompte no modifica ara la selecció F10 ni la seva numeració congelada.
+**Recompte actualitzat:** 150 composicions P1 F10 + 20 composicions complementàries aprovades = 170 composicions. La selecció original de 150 composicions i els seus identificadors G001–G150 es mantenen intactes.
 
 ---
 
@@ -176,6 +176,8 @@ No s'han d'inventar resultats experimentals, proporcions, temps, pressions, dilu
 
 ## 8. Impacte sobre F10 i F11
 
+La incorporació s'ha executat de manera coordinada a la branca d'auditoria. Les 20 composicions tenen fitxes completes a `fitxes_editorials_figures_F10.md`, numeració a `llista_definitiva_produccio_grafica_F10.md` i punts d'inserció/remissions a la tanda 04 de F11. El control global successor registra 170 composicions.
+
 La incorporació eventual de les 20 composicions afectaria:
 
 - la numeració editorial seqüencial de les figures;
@@ -197,8 +199,8 @@ Per evitar una falsa estabilitat documental:
 
 ## 9. Decisió recomanada
 
-**Recomanació:** aprovar les 20 composicions com a ampliació de cobertura, però mantenir-les en estat de proposta fins a la validació de les fitxes editorials individuals.
+**Decisió:** les 20 composicions queden aprovades com a ampliació de cobertura i les fitxes editorials individuals s'han incorporat a F10-R1. L'aprovació de la planificació no equival a aprovar imatges produïdes ni autoritza encara la cerca, selecció, generació o inserció gràfica.
 
 La proposta de 17 es considera insuficient perquè subestimava la diversitat dels capítols 25, 27 i 29. La revisió de solapaments no ha identificat cap P1 que pugui absorbir aquests continguts sense perdre la seva funció.
 
-**Estat final d'aquesta auditoria:** revisió de cobertura complementària completada; 20 propostes justificades; cap canvi efectuat a F9, F10, F11, la branca principal ni la selecció gràfica congelada. No s'ha iniciat cap cerca, selecció ni producció d'imatges.
+**Estat final d'aquesta auditoria:** revisió de cobertura complementària completada; 20 composicions aprovades i incorporades a F10-R1; 170 composicions planificades en total. F9, la branca principal i la compilació lectora continuen intactes. No s'ha iniciat cap cerca, selecció ni producció d'imatges.

@@ -146,12 +146,12 @@ def render_light_orientation(spec: dict) -> str:
         '<g stroke="#D69A36" stroke-width="4" stroke-linecap="round"><path d="M190 335 V310"/><path d="M190 525 V550"/><path d="M95 430 H70"/><path d="M285 430 H310"/><path d="M123 363 L105 345"/><path d="M257 497 L275 515"/><path d="M257 363 L275 345"/><path d="M123 497 L105 515"/></g>',
         f'<text x="190" y="535" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="20" font-weight="700" fill="{dark}">Font comuna</text>',
     ]
-    # The three planes are spatially separated so each illustrative ray reaches
-    # its intended surface without appearing to pass through another opaque plane.
+    # Three diverging rays reach spatially separated planes: no ray crosses
+    # another opaque plane on its way from the common source.
     planes = [
-        {"x1": 500, "y1": 390, "x2": 500, "y2": 510, "tx": 500, "ty": 450, "label": "Pla vertical"},
-        {"x1": 850, "y1": 240, "x2": 1000, "y2": 390, "tx": 925, "ty": 315, "label": "Pla inclinat"},
-        {"x1": 1250, "y1": 170, "x2": 1480, "y2": 170, "tx": 1365, "ty": 170, "label": "Pla horitzontal"},
+        {"x1": 510, "y1": 250, "x2": 630, "y2": 250, "tx": 570, "ty": 250, "label": "Pla horitzontal"},
+        {"x1": 920, "y1": 365, "x2": 920, "y2": 495, "tx": 920, "ty": 430, "label": "Pla vertical"},
+        {"x1": 1200, "y1": 565, "x2": 1300, "y2": 675, "tx": 1250, "ty": 620, "label": "Pla inclinat"},
     ]
     for i, p in enumerate(planes):
         parts.append(f'<path d="M 285 430 L {p["tx"]} {p["ty"]}" fill="none" stroke="#D69A36" stroke-width="4" marker-end="url(#ray)"/>')
@@ -163,8 +163,8 @@ def render_light_orientation(spec: dict) -> str:
         nx, ny = nx/norm*82, ny/norm*82
         parts.append(f'<path d="M {cx-nx} {cy-ny} L {cx+nx} {cy+ny}" stroke="#6B8797" stroke-width="3" stroke-dasharray="9 8"/>')
         label_x = cx
-        parts.append(f'<text x="{label_x}" y="690" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="22" font-weight="700" fill="{dark}">{escape(p["label"])}</text>')
-        parts.append(f'<text x="{label_x}" y="728" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="17" fill="{muted}">Orientació {i+1}</text>')
+        parts.append(f'<text x="{label_x}" y="735" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="22" font-weight="700" fill="{dark}">{escape(p["label"])}</text>')
+        parts.append(f'<text x="{label_x}" y="770" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="17" fill="{muted}">Orientació {i+1}</text>')
     parts.extend([
         '<path d="M 430 795 H 510" stroke="#D69A36" stroke-width="4" marker-end="url(#ray)"/>',
         f'<text x="530" y="802" font-family="DejaVu Sans, Arial" font-size="18" fill="{muted}">Direcció de la llum</text>',

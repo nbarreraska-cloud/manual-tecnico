@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="940" viewBox="0 0 1500 940">
+<defs><style>
+.title{font:700 34px Arial,sans-serif;fill:#183247}.sub{font:700 24px Arial,sans-serif;fill:#28465b}.head{font:700 19px Arial,sans-serif}.label{font:18px Arial,sans-serif}.small{font:15px Arial,sans-serif;fill:#526777}
+</style></defs>
+<rect width="1500" height="940" fill="#f3f6f8"/>
+<text x="750" y="52" text-anchor="middle" class="title">Mescla additiva i mescla sostractiva</text>
+<rect x="35" y="95" width="700" height="735" rx="18" fill="#101820" stroke="#aebfc9" stroke-width="2"/>
+<rect x="765" y="95" width="700" height="735" rx="18" fill="#fff" stroke="#aebfc9" stroke-width="2"/>
+<text x="385" y="145" text-anchor="middle" class="sub" fill="#edf4f8">RGB · llum (mescla additiva)</text>
+<text x="1115" y="145" text-anchor="middle" class="sub">CMY · colorants (model sostractiu idealitzat)</text>
+<g>
+ <circle cx="190" cy="260" r="58" fill="#ff2020"/><circle cx="385" cy="260" r="58" fill="#20d94b"/><circle cx="580" cy="260" r="58" fill="#205cff"/>
+ <text x="190" y="345" text-anchor="middle" class="label" fill="#edf4f8">Vermell</text><text x="385" y="345" text-anchor="middle" class="label" fill="#edf4f8">Verd</text><text x="580" y="345" text-anchor="middle" class="label" fill="#edf4f8">Blau</text>
+ <path d="M90 390 H680" stroke="#526777" stroke-width="2"/>
+ <text x="385" y="435" text-anchor="middle" class="head" fill="#edf4f8">Resultats de combinació ideals</text>
+ <rect x="85" y="485" width="125" height="78" rx="8" fill="#ffff00"/><rect x="235" y="485" width="125" height="78" rx="8" fill="#00ffff"/><rect x="385" y="485" width="125" height="78" rx="8" fill="#ff00ff"/><rect x="535" y="485" width="125" height="78" rx="8" fill="#ffffff"/>
+ <g class="label" text-anchor="middle" fill="#edf4f8"><text x="147" y="600">R + G</text><text x="297" y="600">G + B</text><text x="447" y="600">B + R</text><text x="597" y="600">R + G + B</text></g>
+ <g class="small" text-anchor="middle" fill="#d4e0e7"><text x="147" y="630">Groc</text><text x="297" y="630">Cian</text><text x="447" y="630">Magenta</text><text x="597" y="630">Blanc</text></g>
+ <text x="385" y="735" text-anchor="middle" class="label" fill="#edf4f8">La llum superposada augmenta la lluminositat.</text>
+</g>
+<g>
+ <circle cx="920" cy="260" r="58" fill="#00b9d8"/><circle cx="1115" cy="260" r="58" fill="#ed168c"/><circle cx="1310" cy="260" r="58" fill="#ffe000"/>
+ <text x="920" y="345" text-anchor="middle" class="label" fill="#263b49">Cian</text><text x="1115" y="345" text-anchor="middle" class="label" fill="#263b49">Magenta</text><text x="1310" y="345" text-anchor="middle" class="label" fill="#263b49">Groc</text>
+ <path d="M820 390 H1410" stroke="#b7c7d1" stroke-width="2"/>
+ <text x="1115" y="435" text-anchor="middle" class="head" fill="#263b49">Resultats ideals de superposició</text>
+ <rect x="815" y="485" width="125" height="78" rx="8" fill="#173e9b"/><rect x="965" y="485" width="125" height="78" rx="8" fill="#e32636"/><rect x="1115" y="485" width="125" height="78" rx="8" fill="#159447"/><rect x="1265" y="485" width="125" height="78" rx="8" fill="#20252a"/>
+ <g class="label" text-anchor="middle" fill="#263b49"><text x="877" y="600">C + M</text><text x="1027" y="600">M + Y</text><text x="1177" y="600">Y + C</text><text x="1327" y="600">C + M + Y</text></g>
+ <g class="small" text-anchor="middle"><text x="877" y="630">Blau</text><text x="1027" y="630">Vermell</text><text x="1177" y="630">Verd</text><text x="1327" y="630">Negre ideal</text></g>
+ <text x="1115" y="735" text-anchor="middle" class="label">Els colorants superposats absorbeixen més llum.</text>
+</g>
+<text x="750" y="880" text-anchor="middle" class="small">Model conceptual. Els pigments i les pintures comercials no reprodueixen necessàriament les mescles ideals RGB o CMY.</text>
+</svg>

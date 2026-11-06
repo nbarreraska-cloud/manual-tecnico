@@ -444,7 +444,7 @@ El fitxer s'ha creat al repositori. La comprovació visual del renderitzat local
 **Data del registre:** 2026-11-06  
 **Capítol:** 17.  
 **Ubicacions contrastades amb F9 i F10:** G044, apartats 17.2.1–17.2.3 (Figura 17.1); G048, apartats 17.5.1–17.5.7 (Figura 17.5).  
-**Estat:** SVG creat i guardat al repositori; verificació del fitxer i del registre pendent de completar en aquesta mateixa sessió. Renderització externa i validació a mida d'impressió pendents.
+**Estat:** SVG creat, recuperat de nou des del repositori i comprovat estructuralment; registre acumulatiu actualitzat i verificat. Renderització visual independent i validació a mida d'impressió pendents.
 
 ### Objectiu didàctic
 
@@ -483,5 +483,5 @@ El fitxer s'ha creat al repositori. La renderització visual independent, la lle
 |---|---|---|
 | 2026-11-06 | Contrastar G044 i G048 amb les fitxes editorials F10 i els ancoratges F9 | Ancoratges i funcions verificats |
 | 2026-11-06 | Mantenir el diagrama espacial i la seqüència de construcció en panells independents | Composició aplicada |
-| 2026-11-06 | Crear el recurs original en SVG | Creat; verificació de repositori pendent |
+| 2026-11-06 | Crear el recurs original en SVG i recuperar-lo de nou per comprovar-ne l'estructura i el registre | Creat i verificat al repositori |
 

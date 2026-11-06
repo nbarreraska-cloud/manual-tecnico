@@ -21,7 +21,7 @@
 |---|---|---|---|---|---|
 | 1.1 / G001 | 1.2 | apartat 1.5 | E0 | Classificació de la informació tècnica | Pendent d'encàrrec |
 | 2.1 / G002 | 2.2 | apartat 2.5 | E0 | Organització documental de la informació sobre les pintures | Pendent d'encàrrec |
-| 3.1 / G003 | 3.1 | apartat 3.1 | E2 | «Comparació de pintures opaques, semiopàques, semitransparents i transparents sobre un mateix fons.» | [Prototip SVG v01 · en revisió](../grafics_prova/fig_C03_3-1_G003_v01.svg) |
+| 3.1 / G003 | 3.1 | apartat 3.2.1 | E2 | «Comparació de pintures opaques, semiopàques, semitransparents i transparents sobre un mateix fons.» | [Prototip SVG v01 · en revisió](../grafics_prova/fig_C03_3-1_G003_v01.svg) |
 | 3.2 / G004 | 3.2 | apartat 3.2.1 | E2 | «Una mateixa capa de pintura transparent o semitransparent sobre fons blanc, gris i negre.» | Pendent d'encàrrec |
 | 3.3 / G005 | 3.3 | apartat 3.3 | E0 | «Distribució d'una pintura sobre zones elevades, planes i cavitats d'una superfície en relleu.» | Pendent d'encàrrec |
 | 4.1 / G006 | 4.3 | apartats 4.3.2–4.3.3 | E0 | Mescla additiva RGB i mescla sostractiva CMY | [Prototip SVG v01 · en revisió](../grafics_prova/fig_C04_4-1_G006_v01.svg) |
@@ -196,3 +196,10 @@
 ## 6. Separació de versions
 
 La versió mestra del manual continuarà sense imatges. Quan s'autoritzi la inserció, s'haurà de crear una còpia il·lustrada identificada de manera independent. Només aquesta còpia rebrà les imatges i llegendes. Després s'haurà de comparar amb la mestra per verificar que el text, l'estructura i tots els elements no gràfics romanen iguals.
+
+
+## Nota de conciliació — G003 (06/11/2026)
+
+L'ancoratge de G003 s'actualitza de 3.1 a **3.2.1**, perquè el contingut sobre opacitat, transparència i cobertura es desenvolupa a 3.2.1 i la tanda F11 ja situa la figura després de la definició i la llista de comportaments generals d'aquest apartat. El 3.1 del capítol és «Objectiu i abast» i no és el punt d'inserció adequat. La correcció afecta únicament la dada d'ubicació del registre F13; no modifica la selecció F10, el text lector ni la compilació consolidada.
+
+L'evidència continua registrada com E2 a nivell de planificació, però no es pot presentar com a resultat E2 mentre no hi hagi mostres reals identificades i fotografies documentades. Si la prova física no s'executa, s'ha d'utilitzar l'alternativa conceptual E0 establerta a F14. Vegeu [protocol de prova física G003](protocol_prova_fisica_G003.md).

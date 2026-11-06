@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+<title id="title">Comportament d'opacitat i transparència de les pintures</title>
+<desc id="desc">Esquema didàctic de quatre graus d'ocultació d'un fons contrastat i comparació separada entre una capa uniforme i una cobertura irregular. No representa resultats experimentals ni categories comercials normalitzades.</desc>
+<defs>
+<style>
+.title{font:700 34px Arial,sans-serif;fill:#183247}.subtitle{font:17px Arial,sans-serif;fill:#526777}
+.panel-title{font:700 20px Arial,sans-serif;fill:#28465b;letter-spacing:.4px}
+.label{font:700 18px Arial,sans-serif;fill:#183247}.body{font:16px Arial,sans-serif;fill:#405b6d}
+.small{font:14px Arial,sans-serif;fill:#526777}.tiny{font:13px Arial,sans-serif;fill:#526777}
+.panel{fill:#edf2f5;stroke:#d0dbe2;stroke-width:2}.card{fill:#fff;stroke:#c7d3db;stroke-width:1.5}
+.rule{stroke:#c6d2da;stroke-width:1.5}
+.footer{font:15px Arial,sans-serif;fill:#405b6d}
+</style>
+</defs>
+<rect width="1600" height="1000" fill="#f3f6f8"/>
+<text x="800" y="58" text-anchor="middle" class="title">Comportament d'opacitat i transparència de les pintures</text>
+<text x="800" y="91" text-anchor="middle" class="subtitle">Comparació visual sobre un mateix suport contrastat; els exemples són esquemàtics, no mostres assajades.</text>
+
+<rect x="45" y="130" width="1010" height="760" rx="18" class="panel"/>
+<rect x="1080" y="130" width="475" height="760" rx="18" class="panel"/>
+<text x="80" y="176" class="panel-title">OCULTACIÓ DEL FONS</text>
+<text x="80" y="204" class="small">Mateixa superfície de prova i mateixa zona d'aplicació en cada exemple.</text>
+<text x="1130" y="176" class="panel-title">CAPACITAT DE COBERTURA</text>
+<text x="1130" y="204" class="small">La uniformitat de la capa és una qüestió diferent.</text>
+
+<!-- Shared test substrate key -->
+<rect x="80" y="230" width="940" height="44" rx="8" fill="#fff" stroke="#c7d3db"/>
+<rect x="80" y="230" width="470" height="44" rx="7" fill="#fff"/>
+<rect x="550" y="230" width="470" height="44" rx="7" fill="#202a32"/>
+<text x="315" y="258" text-anchor="middle" class="small">Fons clar</text>
+<text x="785" y="258" text-anchor="middle" class="small" fill="#ffffff" style="fill:#ffffff">Fons fosc</text>
+
+<!-- Four rows -->
+<g>
+<text x="90" y="335" class="label">Opaca</text>
+<text x="90" y="359" class="small">Oculta gairebé del tot</text>
+<rect x="430" y="300" width="320" height="76" rx="8" class="card"/>
+<rect x="430" y="338" width="320" height="38" fill="#202a32"/>
+<rect x="510" y="300" width="150" height="76" rx="4" fill="#6f91a4"/>
+<text x="780" y="345" class="small">El fons queda ocult</text>
+
+<text x="90" y="455" class="label">Semiopaca</text>
+<text x="90" y="479" class="small">Ocultació parcial</text>
+<rect x="430" y="420" width="320" height="76" rx="8" class="card"/>
+<rect x="430" y="458" width="320" height="38" fill="#202a32"/>
+<rect x="510" y="420" width="150" height="76" rx="4" fill="#6f91a4"/>
+<rect x="510" y="458" width="150" height="38" rx="0" fill="#435c6d" opacity=".62"/>
+<text x="780" y="465" class="small">El fons es modifica</text>
+
+<text x="90" y="575" class="label">Semitransparent</text>
+<text x="90" y="599" class="small">El fons continua visible</text>
+<rect x="430" y="540" width="320" height="76" rx="8" class="card"/>
+<rect x="430" y="578" width="320" height="38" fill="#202a32"/>
+<rect x="510" y="540" width="150" height="76" rx="4" fill="#6f91a4" opacity=".62"/>
+<text x="780" y="585" class="small">El fons es percep clarament</text>
+
+<text x="90" y="695" class="label">Transparent</text>
+<text x="90" y="719" class="small">Permet veure el fons</text>
+<rect x="430" y="660" width="320" height="76" rx="8" class="card"/>
+<rect x="430" y="698" width="320" height="38" fill="#202a32"/>
+<rect x="510" y="660" width="150" height="76" rx="4" fill="#6f91a4" opacity=".28"/>
+<text x="780" y="705" class="small">El fons manté gran part de la presència</text>
+</g>
+
+<line x1="80" y1="770" x2="1020" y2="770" class="rule"/>
+<text x="90" y="805" class="body">La comparació només és interpretable si es mantenen constants el suport,</text>
+<text x="90" y="831" class="body">el gruix aproximat de la pel·lícula i les condicions d'aplicació.</text>
+<text x="90" y="865" class="tiny">Esquema orientatiu: no estableix llindars quantitatius ni classifica productes concrets.</text>
+
+<!-- Coverage comparison -->
+<text x="1130" y="260" class="label">Capa distribuïda uniformement</text>
+<rect x="1130" y="280" width="375" height="145" rx="9" fill="#fff" stroke="#c7d3db"/>
+<rect x="1130" y="352" width="375" height="73" fill="#202a32"/>
+<rect x="1185" y="300" width="265" height="105" rx="4" fill="#6f91a4"/>
+<text x="1317" y="450" text-anchor="middle" class="small">Distribució contínua i regular</text>
+
+<text x="1130" y="510" class="label">Capa distribuïda irregularment</text>
+<rect x="1130" y="530" width="375" height="145" rx="9" fill="#fff" stroke="#c7d3db"/>
+<rect x="1130" y="602" width="375" height="73" fill="#202a32"/>
+<path d="M1185 550 H1260 V565 H1310 V550 H1380 V580 H1450 V555 H1470 V650 H1405 V630 H1340 V660 H1270 V640 H1210 V620 H1185 Z" fill="#6f91a4"/>
+<text x="1317" y="700" text-anchor="middle" class="small">Zones amb gruix o continuïtat desigual</text>
+
+<rect x="1130" y="745" width="375" height="105" rx="10" fill="#f8fafb" stroke="#c2d0d8"/>
+<text x="1317" y="780" text-anchor="middle" class="label">Distinció clau</text>
+<text x="1317" y="808" text-anchor="middle" class="small">Opacitat: quant s'oculta el fons.</text>
+<text x="1317" y="832" text-anchor="middle" class="small">Cobertura: com es cobreix la superfície.</text>
+
+<text x="800" y="946" text-anchor ="middle" class="footer">La transparència descriu la visibilitat del fons; la cobertura descriu la continuítat i la uniformitat de l'aplicació.</text>
+</svg>

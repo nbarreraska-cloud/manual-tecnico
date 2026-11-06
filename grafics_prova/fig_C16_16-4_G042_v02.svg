@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1040" viewBox="0 0 1500 1040">
+<defs>
+ <style>
+ .title{font:700 34px Arial,sans-serif;fill:#183247}.sub{font:700 22px Arial,sans-serif;fill:#28465b}.body{font:17px Arial,sans-serif;fill:#263b49}.small{font:15px Arial,sans-serif;fill:#526777}.panel{fill:#fff;stroke:#aebfc9;stroke-width:2}
+ .blade{fill:#8b9299;stroke:#26313a;stroke-width:3;stroke-linejoin:round}
+ </style>
+ <linearGradient id="base" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#aeb5bb"/><stop offset=".48" stop-color="#858e96"/><stop offset="1" stop-color="#555f68"/></linearGradient>
+</defs>
+<rect width="1500" height="1040" fill="#f3f6f8"/>
+<text x="750" y="48" text-anchor="middle" class="title">Construcció d'un reflex NMM sobre una fulla d'espasa</text>
+<text x="750" y="80" text-anchor="middle" class="small">Seqüència didàctica proposada; no assajada · exemple orientatiu, no recepta universal</text>
+<!-- panels -->
+<g>
+ <rect x="30" y="115" width="465" height="395" rx="14" class="panel"/>
+ <rect x="517" y="115" width="465" height="395" rx="14" class="panel"/>
+ <rect x="1004" y="115" width="465" height="395" rx="14" class="panel"/>
+ <rect x="30" y="535" width="465" height="395" rx="14" class="panel"/>
+ <rect x="517" y="535" width="465" height="395" rx="14" class="panel"/>
+ <rect x="1004" y="535" width="465" height="395" rx="14" class="panel"/>
+</g>
+<g class="sub" text-anchor="middle">
+ <text x="262" y="155">1 · Base cromàtica</text><text x="750" y="155">2 · Regions fosques</text><text x="1237" y="155">3 · Regions intermèdies</text>
+ <text x="262" y="575">4 · Reflexos clars</text><text x="750" y="575">5 · Accents màxims</text><text x="1237" y="575">6 · Integració</text>
+</g>
+<!-- identical blade silhouette, first panel -->
+<g transform="translate(65 235)">
+ <path d="M48 92 L324 92 L390 135 L324 178 L48 178 Z" fill="url(#base)" class="blade"/>
+ <path d="M48 82 L48 188 M35 82 L61 82 L61 188 L35 188 Z" fill="#424b53" stroke="#26313a" stroke-width="3"/>
+ <path d="M18 135 L48 110 L58 135 L48 160 Z" fill="#4a535c" stroke="#26313a" stroke-width="3"/>
+ <path d="M48 92 L324 92 L390 135 L324 178 L48 178 Z" fill="none" stroke="#26313a" stroke-width="3"/>
+</g>
+<!-- panel 2 -->
+<g transform="translate(552 235)">
+ <path d="M48 92 L324 92 L390 135 L324 178 L48 178 Z" fill="url(#base)" class="blade"/>
+ <path d="M48 92 L324 92 L390 135 L324 148 L48 128 Z" fill="#303a44"/>
+ <path d="M48 150 L324 164 L390 135 L324 178 L48 178 Z" fill="#252f39"/>
+ <path d="M48 82 L48 188 M35 82 L61 82 L61 188 L35 188 Z" fill="#424b53" stroke="#26313a" stroke-width="3"/>
+ <path d="M18 135 L48 110 L58 135 L48 160 Z" fill="#4a535c" stroke="#26313a" stroke-width="3"/>
+</g>
+<!-- panel 3 -->
+<g transform="translate(1039 235)">
+ <path d="M48 92 L324 92 L390 135 L324 178 L48 178 Z" fill="url(#base)" class="blade"/>
+ <path d="M48 92 L324 92 L390 135 L324 148 L48 128 Z" fill="#303a44"/>
+ <path d="M48 150 L324 164 L390 135 L324 178 L48 178 Z" fill="#252f39"/>
+ <path d="M65 127 L300 134 L354 135 L300 151 L65 145 Z" fill="#b8c0c6" opacity=".9"/>
+ <path d="M48 82 L48 188 M35 82 L61 82 L61 188 L35 188 Z" fill="#424b53" stroke="#26313a" stroke-width="3"/>
+ <path d="M18 135 L48 110 L58 135 L48 160 Z" fill="#4a535c" stroke="#26313a" stroke-width="3"/>
+</g>
+<!-- panel 4 -->
+<g transform="translate(65 655)">
+ <path d="M48 92 L324 92 L390 135 L324 178 L48 178 Z" fill="url(#base)" class="blade"/>
+ <path d="M48 92 L324 92 L390 135 L324 148 L48 128 Z" fill="#303a44"/>
+ <path d="M48 150 L324 164 L390 135 L324 178 L48 178 Z" fill="#252f39"/>
+ <path d="M65 127 L300 134 L354 135 L300 151 L65 145 Z" fill="#b8c0c6"/>
+ <path d="M88 108 L288 112 L340 135 L288 132 L88 123 Z" fill="#e8edf0"/>
+ <path d="M48 82 L48 188 M35 82 L61 82 L61 188 L35 188 Z" fill="#424b53" stroke="#26313a" stroke-width="3"/>
+ <path d="M18 135 L48 110 L58 135 L48 160 Z" fill="#4a535c" stroke="#26313a" stroke-width="3"/>
+</g>
+<!-- panel 5 -->
+<g transform="translate(552 655)">
+ <path d="M48 92 L324 92 L390 135 L324 178 L48 178 Z" fill="url(#base)" class="blade"/>
+ <path d="M48 92 L324 92 L390 135 L324 148 L48 128 Z" fill="#303a44"/>
+ <path d="M48 150 L324 164 L390 135 L324 178 L48 178 Z" fill="#252f39"/>
+ <path d="M65 127 L300 134 L354 135 L300 151 L65 145 Z" fill="#b8c0c6"/>
+ <path d="M88 108 L288 112 L340 135 L288 132 L88 123 Z" fill="#e8edf0"/>
+ <path d="M105 109 L250 112 L286 123 L105 119 Z" fill="#ffffff"/>
+ <path d="M70 169 L130 171 L146 176 L70 176 Z" fill="#111a22"/>
+ <path d="M48 82 L48 188 M35 82 L61 82 L61 188 L35 188 Z" fill="#424b53" stroke="#26313a" stroke-width="3"/>
+ <path d="M18 135 L48 110 L58 135 L48 160 Z" fill="#4a535c" stroke="#26313a" stroke-width="3"/>
+</g>
+<!-- panel 6: integration narrows and reshapes reflection, adds transition and edge continuity -->
+<g transform="translate(1039 655)">
+ <path d="M48 92 L324 92 L390 135 L324 178 L48 178 Z" fill="url(#base)" class="blade"/>
+ <path d="M48 92 L324 92 L390 135 L324 148 L48 128 Z" fill="#303a44"/>
+ <path d="M48 150 L324 164 L390 135 L324 178 L48 178 Z" fill="#252f39"/>
+ <path d="M65 127 L300 134 L354 135 L300 151 L65 145 Z" fill="#aeb8c0"/>
+ <path d="M92 109 L284 113 L338 135 L284 129 L92 120 Z" fill="#e3e9ed"/>
+ <path d="M120 110 L246 113 L279 122 L120 118 Z" fill="#ffffff"/>
+ <path d="M65 154 L180 160 L230 164 L180 166 L65 160 Z" fill="#626d77" opacity=".9"/>
+ <path d="M70 169 L130 171 L146 176 L70 176 Z" fill="#111a22"/>
+ <path d="M48 92 L324 92 L390 135 L324 178 L48 178 Z" fill="none" stroke="#202b34" stroke-width="2"/>
+ <path d="M48 82 L48 188 M35 82 L61 82 L61 188 L35 188 Z" fill="#424b53" stroke="#26313a" stroke-width="3"/>
+ <path d="M18 135 L48 110 L58 135 L48 160 Z" fill="#4a535c" stroke="#26313a" stroke-width="3"/>
+</g>
+<g class="body" text-anchor="middle">
+ <text x="262" y="455">Establir el valor de partida.</text>
+ <text x="750" y="455">Separar plans amb masses fosques.</text>
+ <text x="1237" y="455">Connectar les masses sense uniformitzar-les.</text>
+ <text x="262" y="875">Definir el reflex principal sobre el pla.</text>
+ <text x="750" y="875">Afegir accents màxims, petits i selectius.</text>
+ <text x="1237" y="875">Ajustar amplada, transicions i continuïtat del reflex.</text>
+</g>
+<text x="750" y="985" text-anchor="middle" class="small">La geometria es manté constant; el patró de reflexos és un exemple gràfic simplificat, no una simulació òptica.</text>
+</svg>

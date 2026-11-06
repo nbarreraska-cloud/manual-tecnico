@@ -1,18 +1,20 @@
-# Protocol de prova física G042 — Construcció NMM
+# Protocol complementari de documentació física G042 — Construcció NMM
 
 **Projecte:** manual tècnic de pintura de miniatures  
 **Figura:** 16.4 / G042  
 **P1 d'origen:** 16.6  
 **Ubicació lectora registrada:** apartat 16.5  
-**Evidència prevista:** E1 — seqüència didàctica basada en una execució real, sense presentar-la com a recepta universal  
+**Relació amb l'evidència gràfica:** E1 — procediment proposat no assajat. Aquest protocol físic és complementari i no és requisit per produir la figura E1.  
 **Estat:** protocol preparat; execució física pendent  
 **Branca:** `intervencion-editorial-2026-11`
 
-## 1. Finalitat
+## 1. Finalitat i abast opcional
 
-Obtenir una seqüència fotogràfica real que mostri la construcció progressiva d'una mateixa superfície metàl·lica amb tècnica NMM. La prova ha de permetre comprovar si les sis fases previstes a F14 i al prototip SVG corresponen a una progressió executada, visualment llegible i coherent amb el capítol 16.
+Aquest document descriu una via complementària per obtenir fotografies reals d'una execució NMM. **No és un requisit previ per produir G042 com a E1.** Segons F12, E1 és un procediment o seqüència proposats i no assajats; per tant, la figura es pot redissenyar com a seqüència vectorial didàctica sempre que s'identifiqui explícitament com a proposta no assajada.
 
-La prova no pretén demostrar una recepta universal ni establir un patró únic de reflexos. El capítol 16 indica expressament que la distribució depèn de la geometria, l'orientació, l'entorn representat i la intenció visual.
+Si en algun moment es decideix afegir fotografies d'una execució real, aquesta prova permetrà documentar-la amb rigor. Les fotografies no s'han de confondre amb els sis estats conceptuals d'una seqüència E1 ni utilitzar-se per suggerir que el procediment proposat és una recepta universal.
+
+La prova complementària no pretén demostrar una recepta universal ni establir un patró únic de reflexos. El capítol 16 indica expressament que la distribució depèn de la geometria, l'orientació, l'entorn representat i la intenció visual.
 
 ## 2. Fonts internes i límits
 
@@ -118,6 +120,6 @@ Per tant, no s'ha de retocar simplement la paleta del SVG actual. Primer cal exe
 
 ## 10. Estat i decisió
 
-**Estat actual:** protocol preparat; prova física no executada; no hi ha fotografies reals; G042 v01 continua rebutjada en revisió.
+**Estat actual:** protocol complementari preparat; prova física no executada; no hi ha fotografies reals; G042 v01 continua rebutjada en revisió. La producció d'una seqüència E1 no depèn d'aquesta execució física.
 
-La prova no autoritza la inserció al manual. Després de l'execució caldrà revisar el material, decidir si les sis fases són didàcticament útils i actualitzar F15 i F13 amb evidència verificable. La còpia mestra sense imatges i la compilació consolidada han de romandre intactes.
+Si s'obtenen fotografies en el futur, caldrà revisar-les i decidir si complementen o substitueixen algun element de la proposta didàctica. Aquest protocol no autoritza la inserció al manual. La còpia mestra sense imatges i la compilació consolidada han de romandre intactes.

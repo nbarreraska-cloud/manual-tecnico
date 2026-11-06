@@ -3,9 +3,17 @@ name: Render editorial figure
 on:
   workflow_dispatch:
     inputs:
-      figure_id:
-        description: "Identificador de la figura (p. ex. G001)"
+      run_mode:
+        description: "Execució individual o auditoria de tota la llista"
         required: true
+        type: choice
+        options:
+          - batch
+          - single
+        default: batch
+      figure_id:
+        description: "Identificador per al mode individual (p. ex. G001)"
+        required: false
         type: string
         default: "G001"
   push:
@@ -14,6 +22,7 @@ on:
     paths:
       - "tools/graphics/**"
       - "annexos/graphics/**"
+      - "annexos/llista_definitiva_produccio_grafica_F10.md"
       - ".github/workflows/render-figure.yml"
 
 permissions:
@@ -33,14 +42,20 @@ jobs:
           python-version: "3.12"
       - name: Install SVG rasterizer
         run: python -m pip install --upgrade pip cairosvg
+      - name: Build and audit full manifest
+        if: ${{ github.event_name == 'push' || inputs.run_mode == 'batch' }}
+        run: |
+          python tools/graphics/build_manifest.py
+          python tools/graphics/render_batch.py --render
       - name: Render selected figure
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.run_mode == 'single' }}
         run: |
           FIGURE_ID="${{ inputs.figure_id || 'G001' }}"
           python tools/graphics/render_figure.py --figure "$FIGURE_ID"
-      - name: Upload SVG and PNG preview
+      - name: Upload SVG, PNG and batch reports
         uses: actions/upload-artifact@v4
         with:
-          name: preview-${{ inputs.figure_id || 'G001' }}
+          name: ${{ github.event_name == 'workflow_dispatch' && inputs.run_mode == 'single' && format('preview-{0}', inputs.figure_id) || 'preview-batch' }}
           path: dist/graphics/*
           if-no-files-found: error
           retention-days: 30

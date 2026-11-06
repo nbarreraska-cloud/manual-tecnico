@@ -7,7 +7,7 @@ structured briefs, which are converted to a generic four-panel draft while their
 brief is retained in provenance.
 """
 from __future__ import annotations
-import json, re
+import json, re, shutil
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -117,10 +117,17 @@ def main():
         }
         path.write_text(json.dumps(spec, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         (refreshed if existing else created).append(gid)
+    export_dir = OUT / "specs"
+    if export_dir.exists():
+        shutil.rmtree(export_dir)
+    export_dir.mkdir(parents=True, exist_ok=True)
+    for path in sorted(SPECS.glob("G*.json")):
+        shutil.copy2(path, export_dir / path.name)
     report = {"total": 170, "created": created, "refreshed_from_brief": refreshed,
               "preserved_existing": preserved, "errors": errors}
     (OUT / "autoproduction_report.json").write_text(json.dumps(report, ensure_ascii=False, indent=2)+"\n", encoding="utf-8")
-    print(f"Especificacions creades: {len(created)}; briefs convertits: {len(refreshed)}; preservades: {len(preserved)}; incidències: {len(errors)}")
+    exported = len(list(export_dir.glob("G*.json")))
+    print(f"Especificacions creades: {len(created)}; briefs convertits: {len(refreshed)}; preservades: {len(preserved)}; exportades: {exported}; incidències: {len(errors)}")
     if errors:
         print("\n".join(errors))
         return 1

@@ -529,3 +529,10 @@ Les mides actuals de text de 16–18 unitats SVG equivalen aproximadament a 5,7�
 ### 26.4. Estat del màster
 
 L'artefacte F9 inspeccionat és una compilació de text sense imatges, en format A4. Aquesta inspecció només s'ha utilitzat per calcular l'amplada màxima útil; no s'ha modificat ni substituït el màster. La còpia il·lustrada encara no s'ha creat ni s'ha inserit cap imatge.
+
+
+## 27. Protocol preparatori per a G028 — 06/11/2026
+
+S'ha creat `annexos/protocol_prova_fisica_G028.md` per documentar la comparació entre cobertura insuficient, adequada i excessiva de la imprimació i la conservació del relleu. El protocol exigeix mostres comparables, variables d'aplicació registrades, rèpliques quan sigui possible, fotografia amb configuració controlada i separació entre observació i interpretació.
+
+**No s'ha executat cap prova.** No hi ha mostres, fotografies ni resultats. G028 continua classificada E2 i bloquejada. El protocol no autoritza a representar cap resultat hipotètic com a observat. Si no es pot executar la prova, només es podrà utilitzar una figura conceptual E0 després de la decisió i actualització formal corresponents.

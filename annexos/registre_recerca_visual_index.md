@@ -8,11 +8,12 @@ Registre de candidatures fotogràfiques i textures amb autoria, llicència, qual
 | [Tanda 02](registre_recerca_visual_tanda_02.md) | Fusta, roca, líquens, tèxtils, foc, aigua i vidre | 12 candidatures amb llicència identificada; 2 recursos en reserva o descartats | 0 imatges descarregades o incorporades |
 | [Tanda 03](registre_recerca_visual_tanda_03.md) | Pinzells, aerografia, aerosols i mescla de pintura | 8 candidatures amb llicència identificada; 4 recursos en reserva o descartats | 0 imatges descarregades o incorporades |
 | [Tanda 04](registre_recerca_visual_tanda_04.md) | Cuir, metall, ceràmica, pergamí i superfícies envellides | 8 candidatures amb llicència identificada; 4 recursos en reserva o descartats | 0 imatges descarregades o incorporades |
+| [Tanda 05](registre_recerca_visual_tanda_05.md) | Escorça, molsa, líquens, falgueres, gel i malla metàl·lica | 13 candidatures amb llicència identificada; 1 recurs descartat per resolució/permís | 0 imatges descarregades o incorporades |
 
 ## Balanç acumulat
 
-- 28 candidatures noves amb autoria i llicència identificades a les tandes 02–04; poden existir solapaments temàtics i no totes són aptes per a una figura concreta.
-- 10 recursos addicionals en reserva o descartats per adequació, resolució, tipologia o drets.
+- 41 candidatures noves amb autoria i llicència identificades a les tandes 02–05; poden existir solapaments temàtics i no totes són aptes per a una figura concreta.
+- 11 recursos addicionals en reserva o descartats per adequació, resolució, tipologia o drets.
 - La tanda 01 manté el seu balanç propi i les seves incidències.
 - Cap recurs de les tandes 01–04 s'ha descarregat, adaptat o inserit al manual.
 - Cap recurs s'ha assignat definitivament a G001–G150.

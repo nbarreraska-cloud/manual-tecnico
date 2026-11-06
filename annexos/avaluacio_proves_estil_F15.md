@@ -481,7 +481,11 @@ F13 s'ha actualitzat amb aquestes versions i el workflow ara les exigeix com a f
 
 ### 24.4. Mida de maquetació
 
-La revisió a 1400 × 900 px és una revisió de render, no una prova de pàgina. La mida física d'inserció encara no està definida. Abans d'aprovar cal recuperar o establir la mida prevista en la maquetació final i comprovar-hi tipografia, gruix de línies, fletxes, llegendes i contrast. Si el manual es maquetarà a una amplada menor, els textos auxiliars de 16–18 px poden resultar insuficients.
+La inspecció de l'artefacte F9 de text confirma pàgina A4 (210 × 297 mm), amb marges esquerre de 18 mm i dret de 16,5 mm. L'amplada útil màxima de text és, per tant, aproximadament 175,5 mm. No s'ha confirmat encara si les figures ocuparan tota aquesta amplada o una columna menor.
+
+A una amplada d'inserció de 175,5 mm, les mides actuals dels SVG de 1400 unitats equivalen aproximadament a: títol 30 unitats = 10,8 pt; subtítol 22 = 7,9 pt; text 18 = 6,5 pt; nota 16 = 5,7 pt. Els textos de 18 i 16 unitats són massa petits per considerar-los aprovables en una pàgina impresa. Com a objectiu provisional, caldria assolir almenys 8 pt en etiquetes i text principal i 7 pt en notes, cosa que requereix aproximadament 23 i 20 unitats SVG respectivament si la figura s'insereix a 175,5 mm. Si la figura s'insereix a una amplada menor, les mides han de créixer proporcionalment.
+
+S'ha actualitzat el workflow perquè generi també renders a 2073 px d'amplada, equivalents a uns 175,5 mm a 300 dpi. Aquests renders permetran inspeccionar la composició a la mida màxima de pàgina, però no substitueixen la revisió tipogràfica ni la prova real de maquetació. Cap figura s'aprovarà fins a resoldre la llegibilitat física.
 
 
 ## 25. Correccions posteriors a la inspecció individual — 06/11/2026

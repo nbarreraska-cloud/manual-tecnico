@@ -109,3 +109,27 @@ No s'aprova l'addició automàtica d'una frase «La Figura X presenta...» a cad
 Es conserven com a necessàries les remissions no locals o de navegació identificades a l'apartat 3: C22 22.6 cap a la Figura 22.2; C32 32.8 cap al procediment OSL de C17 17.5; C34 34.7 cap a la Figura 34.1; C35 35.2–35.3 cap a la Figura 35.1; i la remissió conceptual de la Figura 5.2 cap a 5.4.1 quan el desenvolupament ho requereixi.
 
 Les 150 ubicacions de figura es mantenen com a ancoratges editorials. Les frases locals de les tres tandes són opcions de redacció, no 150 insercions obligatòries. La decisió final de conservar una crida local es prendrà només quan es maquetin figura, llegenda i paràgraf en la còpia il·lustrada.
+
+
+## 10. Incorporació de les 20 composicions complementàries — F11-R1
+
+La revisió de cobertura ha incorporat 20 composicions noves als capítols 8–14 i 25–29. Aquesta ampliació no modifica la classificació ni les decisions de les 150 composicions originals.
+
+### 10.1. Evidència de les noves composicions
+
+| Evidència | Figures noves | Tractament obligatori |
+|---|---|---|
+| E0 | 14.1, 25.1, 26.1, 27.1, 27.2, 29.1, 29.2, 29.3 | Esquemes conceptuals o comparacions. No simular proves físiques ni atribuir propietats a productes concrets. |
+| E1 | 8.1, 9.1, 10.1, 12.1, 13.1, 14.2, 25.2, 25.3, 26.2, 27.3, 28.1, 28.2 | Seqüències o comparacions tècniques proposades, no assajades. No afegir proporcions, dilucions, temps ni resultats no documentats. |
+| E2 | Cap | No s'incorpora cap nova figura que exigeixi una prova física. |
+
+### 10.2. Control consolidat
+
+- F11 original: 131 E0, 13 E1 i 6 E2 (150 composicions).
+- Tanda 04: 8 E0 i 12 E1 (20 composicions).
+- F11-R1: **139 E0, 25 E1 i 6 E2 (170 composicions)**.
+- Les 20 noves composicions tenen ancoratges després d'apartats existents de F9; no s'ha creat cap epígraf.
+- Les remissions creuades de la tanda 04 són candidates de navegació, no frases que s'hagin d'inserir automàticament.
+- No s'ha modificat la classificació de les 150 composicions P1 originals.
+
+El control global successor és a [F11-R1 — 170 composicions](control_global_F11_remissions_170.md), i els ancoratges i les remissions candidates es detallen a [Tanda 04 — C08–C14 i C25–C29](pla_remissions_i_insercio_F11_tanda_04_C08-C14_C25-C29.md).

@@ -168,7 +168,7 @@ No s'ha creat ni guardat cap fitxer visual de G002. Per tant, la figura no està
 **Data del registre:** 2026-11-06  
 **Capítol:** 3  
 **Ubicació:** apartat 3.1  
-**Estat:** cerca tancada; solució definida com a diagrama original pendent de producció.
+**Estat:** referència externa seleccionada per a consulta; decisió sobre l'ús com a recurs final i producció pendents.
 
 ### Objectiu didàctic
 
@@ -180,16 +180,19 @@ La fitxa editorial F10 estableix una comparació de pintures opaques, semiopàqu
 
 ### Referències visuals examinades
 
-1. **Laura Longoni Art — Transparencia y opacidad de los colores acrílicos.** Inclou una llegenda de quatre categories i descriu una prova visual amb una línia negra coberta per pintura. És útil com a referència per fer visible el grau d'ocultació, però la seva explicació no s'ha de copiar literalment ni tractar les quatre categories com a fronteres universals.  
+1. **Natural Pigments — Color Swatch and Pigment Guide.** Referència externa seleccionada per l'usuari. Mostra targetes de prova (*drawdowns*) amb una pel·lícula de pintura de gruix controlat i una barra negra que permet valorar-ne l'opacitat relativa. La pàgina indica que les mostres es preparen amb una pel·lícula de 6 mil (0,006 polzades), amb el color a plena intensitat i una barreja amb blanc; la zona inferior es raspa per mostrar els tons subjacents. És una referència especialment útil per la presentació d'una mostra real i per la barra de contrast, però no correspon a una comparació d'una mateixa capa sobre tres fons blanc, gris i negre.  
+   https://www.naturalpigments.eu/color-swatch-pigment-info
+
+2. **Laura Longoni Art — Transparencia y opacidad de los colores acrílicos.** Inclou una llegenda de quatre categories i descriu una prova visual amb una línia negra coberta per pintura. És útil com a referència per fer visible el grau d'ocultació, però la seva explicació no s'ha de copiar literalment ni tractar les quatre categories com a fronteres universals.  
    https://www.lauralongoniart.com/es/post/transparencia-y-opacidad-de-los-colores-acr%C3%ADlicos
 
-2. **Royal Talens — Opacity and transparency.** Indica que la comparació s'ha de fer amb un gruix de capa constant. És una referència tècnica important per evitar que la diferència visual s'expliqui per variacions de quantitat o gruix aplicat.  
+3. **Royal Talens — Opacity and transparency.** Indica que la comparació s'ha de fer amb un gruix de capa constant. És una referència tècnica important per evitar que la diferència visual s'expliqui per variacions de quantitat o gruix aplicat.  
    https://www.royaltalens.com/pages/opacity-transparency
 
-3. **Painters Online — Spotlight on acrylic.** Mostra mostres pintades i compara pigments transparents i opacs, incloent-hi la lectura de la capa sobre una línia de contrast. És útil com a referència de mostra física, però correspon a una gamma de pintura artística diferent i no constitueix evidència sobre les 48 pintures del manual.  
+4. **Painters Online — Spotlight on acrylic.** Mostra mostres pintades i compara pigments transparents i opacs, incloent-hi la lectura de la capa sobre una línia de contrast. És útil com a referència de mostra física, però correspon a una gamma de pintura artística diferent i no constitueix evidència sobre les 48 pintures del manual.  
    https://www.painters-online.co.uk/reviews/spotlight-on-acrylic-tony-paul-puts-jacksons-artist-acrylic-through/
 
-4. **ArtistAssistApp — Paint Opacity Symbols.** Presenta quatre símbols per a les categories d'opacitat. És una referència gràfica compacta, però els símbols sols no mostren el comportament real de la capa sobre el fons.  
+5. **ArtistAssistApp — Paint Opacity Symbols.** Presenta quatre símbols per a les categories d'opacitat. És una referència gràfica compacta, però els símbols sols no mostren el comportament real de la capa sobre el fons.  
    https://artistassistapp.com/es/tutorials/paint-opacity/
 
 ### Avaluació de les alternatives
@@ -226,14 +229,14 @@ Les referències s'utilitzen únicament per estudiar la representació de l'opac
 
 ### Estat de resolució
 
-La cerca de referències i la selecció del tipus de solució visual queden tancades. **La figura final encara no està produïda.**
+S'ha seleccionat una referència externa de Natural Pigments per orientar la comparació visual. No s'ha seleccionat encara com a imatge final del manual ni s'han verificat drets de reutilització. **La figura final encara no està produïda.**
 
 ### Historial de decisions
 
 | Data | Decisió | Estat |
 |---|---|---|
 | 2026-11-06 | Comparar símbols de classificació, mostres reals i proves sobre fons de contrast | Cerca examinada |
-| 2026-11-06 | Crear quatre mostres conceptuals sobre un fons clar/fosc, amb gruix constant | Solució definida; producció pendent |
+| 2026-11-06 | Seleccionar la guia de mostres de Natural Pigments com a referència externa de consulta, a petició de l'usuari | Referència seleccionada; reutilització no autoritzada/verificada |
 ---
 
 ## G004 — Figura 3.2. Influència del fons en una mateixa capa de pintura

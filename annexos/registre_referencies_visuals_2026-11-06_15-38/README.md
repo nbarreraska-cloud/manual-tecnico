@@ -346,3 +346,50 @@ El fitxer s'ha renderitzat i revisat fora de la maqueta. Encara no s'ha inserit 
 | 2026-11-06 | Mesurar els angles d’incidència i reflexió respecte de la normal | Criteri tècnic aplicat |
 | 2026-11-06 | Produir el diagrama original en SVG i revisar-ne la renderització | Produït i comprovat |
 | 2026-11-06 | Reservar la comprovació de mida d’impressió per a la fase d’inserció | Pendent |
+---
+
+## G036 — Figura 15.3. Mapa d'il·luminació i mapa de valors
+
+**Data del registre:** 2026-11-06  
+**Capítol:** 15  
+**Ubicació contrastada amb F9:** apartat 15.6, pàgina 114.  
+**Estat:** produïda i registrada; validació d'inserció i mida d'impressió pendent.
+
+### Objectiu didàctic
+
+Distingir el plantejament lumínic de la traducció tonal escollida per representar-lo. El mapa d'il·luminació situa la font dominant i les zones previstes de llum, transició i ombra; el mapa de valors organitza les diferències de claredat i foscor que s'utilitzaran pictòricament.
+
+### Decisió visual aplicada
+
+S'ha creat una composició original de **dos mapes coordinats sobre la mateixa silueta simplificada**:
+
+1. **Mapa d'il·luminació:** font dominant i direcció indicada amb una fletxa; zones il·luminades, de transició i en ombra diferenciades amb tres tons.
+2. **Mapa de valors:** la mateixa distribució espacial traduïda a cinc nivells de claredat, de molt clar a molt fosc.
+
+La composició manté els dos mapes separats i els presenta en paral·lel per evitar que s'interpretin com una única escala o com a conceptes equivalents.
+
+### Fitxer final
+
+[Obrir G036 — SVG](G036_figura_15_3_mapa_valors.svg)
+
+### Control tècnic i editorial
+
+- Format vectorial SVG, amb textos editables.
+- Dues representacions coordinades sobre la mateixa silueta esquemàtica.
+- La font dominant i la seva direcció només s'indiquen al mapa d'il·luminació.
+- El mapa de valors utilitza una escala de cinc nivells com a recurs de planificació, no com a escala mesurada ni com a proporció obligatòria.
+- No s'hi representa una miniatura real ni una situació d'il·luminació mesurada.
+- No s'atribueix una correspondència universal entre cada zona il·luminada i un valor tonal concret: la traducció pot variar segons el color local i la intenció artística.
+- Tots els textos de la figura són en català.
+
+### Límits de validació
+
+La figura s'ha produït i guardat al repositori. La comprovació a la mida final de maquetació, la llegibilitat d'impressió i la repaginació s'han de validar després de la inserció a la còpia de treball del manual i la regeneració del PDF.
+
+### Historial de decisions
+
+| Data | Decisió | Estat |
+|---|---|---|
+| 2026-11-06 | Contrastar l'objectiu amb l'apartat 15.6 de F9 i la fitxa editorial F10 | Contingut i ancoratge verificats |
+| 2026-11-06 | Representar separadament el mapa d'il·luminació i el mapa de valors | Composició aplicada |
+| 2026-11-06 | Produir el recurs original en SVG i incorporar-lo al registre acumulatiu | Produït i registrat |

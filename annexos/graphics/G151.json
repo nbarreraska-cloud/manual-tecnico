@@ -8,7 +8,46 @@
   "type": "E1 — seqüència didàctica proposada.",
   "composition": "## G151 — Construcció progressiva d'una superfície mitjançant capes\n\n**Capítol i ancoratge:** C8, després de 8.5.5 — «Comprovació entre aplicacions».  \n**Tipus:** E1 — seqüència didàctica proposada.\n\n**Composició**\n- Una mateixa forma o superfície es repeteix en quatre vinyetes consecutives, amb enquadrament, escala i orientació constants.\n- Vinyeta 1: establiment de la capa base i cobertura inicial.\n- Vinyeta 2: aplicació posterior que modifica parcialment la informació de la base.\n- Vinyeta 3: diferenciació de plans o zones cromàtiques, sense convertir-ho en un mapa de llums i ombres aliè al procediment.\n- Vinyeta 4: comprovació del resultat i recuperació selectiva dels límits quan sigui necessari.\n- Si hi ha espai, afegir un petit detall comparatiu entre una superfície excessivament uniforme i una altra amb plans diferenciats.\n\n**Jerarquia de lectura**\nLa seqüència de quatre fases és el contingut principal. El detall comparatiu és secundari i prescindible si redueix la mida de les fases.\n\n**Informació que ha de quedar clara**\nLes aplicacions successives poden conservar, modificar o delimitar informació cromàtica anterior. La comprovació entre aplicacions forma part del procés, no és un afegit final ornamental.\n\n**No representar**\nUn nombre fix de capes, una paleta obligatòria, dilucions o temps d'assecat no indicats a F9. No convertir la seqüència en una recepta universal.\n\n**Control de qualitat**\nLes quatre vinyetes han de permetre identificar què s'ha afegit o modificat a cada fase. No s'han d'introduir canvis de geometria que dificultin la comparació.",
   "source": "annexos/briefs_visuals_detallats_G151-G170_DBD02_2026-11.md",
-  "production_status": "brief_structured_not_renderable",
-  "approval_status": "brief_approved_visual_design_pending",
-  "rendering_note": "No renderitzar fins que s'hagi desenvolupat una plantilla que representi fidelment aquesta composició."
+  "production_status": "renderable_draft",
+  "approval_status": "technical_render_pending_visual_review",
+  "rendering_note": "No renderitzar fins que s'hagi desenvolupat una plantilla que representi fidelment aquesta composició.",
+  "template": "layer_sequence_4",
+  "title": "Construcció progressiva d'una superfície mitjançant capes",
+  "subtitle": "Quatre moments de treball sobre una mateixa geometria, sense establir una recepta universal.",
+  "description": "Esquema didàctic de la capa base, una aplicació posterior, la diferenciació de plans cromàtics i la comprovació selectiva dels límits.",
+  "stages": [
+    {
+      "heading": "Capa base",
+      "caption": "Base cromàtica",
+      "detail_lines": [
+        "Establir la referència inicial.",
+        "Conservar relleus i límits."
+      ]
+    },
+    {
+      "heading": "Aplicació posterior",
+      "caption": "Modificació parcial",
+      "detail_lines": [
+        "Modificar la zona prevista.",
+        "La base pot continuar visible."
+      ]
+    },
+    {
+      "heading": "Plans diferenciats",
+      "caption": "Organització cromàtica",
+      "detail_lines": [
+        "Desenvolupar cada pla segons",
+        "la seva geometria i funció."
+      ]
+    },
+    {
+      "heading": "Comprovació",
+      "caption": "Control i recuperació",
+      "detail_lines": [
+        "Valorar cobertura, gruix i relleu.",
+        "Recuperar límits només si cal."
+      ]
+    }
+  ],
+  "note": "Esquema didàctic E1. Quatre fases de lectura; no indiquen quatre capes obligatòries ni una seqüència universal."
 }

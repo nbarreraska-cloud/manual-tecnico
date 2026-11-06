@@ -291,3 +291,58 @@ La cerca de referències i la selecció del tipus de solució visual queden tanc
 |---|---|---|
 | 2026-11-06 | Examinar mostres acríliques sobre fons diferents, veladures i exemples d'interacció cromàtica | Cerca examinada |
 | 2026-11-06 | Crear tres panells amb la mateixa capa sobre fons blanc, gris i negre | Solució definida; producció pendent |
+
+
+---
+
+## G012+G013+G015+G016 — Figura 5.1. Geometria de la llum i formació d’ombres
+
+**Data del registre:** 2026-11-06  
+**Capítol:** 5  
+**Ubicació contrastada amb F9:** apartats 5.3.1–5.5.2, pàgines 31–32.  
+**Estat:** produïda, renderitzada i comprovada; inserció i validació a mida d’impressió pendents.
+
+### Objectiu didàctic
+
+Reunir en una única figura els conceptes complementaris de geometria de la llum, incidència i reflexió, bloqueig de la il·luminació i formació d’ombres pròpies i projectades.
+
+### Decisió visual aplicada
+
+S’ha creat un **esquema vectorial original de dos panells**:
+
+1. **Incidència i reflexió:** superfície, normal, raig incident i raig reflectit. Els angles d’incidència (θi) i reflexió (θr) es representen respecte de la normal, i s’indica la relació θi = θr per a una superfície ideal.
+2. **Bloqueig i ombres:** font de llum, objecte, zona d’ombra pròpia i ombra projectada sobre el pla de suport.
+
+La composició diferencia els raigs incidents i reflectits amb colors contrastats i manté una jerarquia simple. No incorpora fórmules addicionals ni dades quantitatives que el text no requereixi.
+
+### Fitxer final
+
+[G012+G013+G015+G016 — SVG](G012-G013-G015-G016_figura_5_1_geometria_llum_ombres.svg)
+
+### Control tècnic i editorial
+
+- Format SVG vectorial, 1600 × 900, amb textos editables.
+- Composició en dos panells amb una funció didàctica diferenciada.
+- Els angles es mesuren des de la normal, no des del pla de la superfície.
+- La igualtat dels angles s'identifica com a llei de reflexió en una superfície ideal; no es presenta com una descripció exhaustiva de totes les superfícies reals.
+- Es distingeixen l’ombra pròpia de l’objecte i l’ombra projectada sobre el suport.
+- Textos i etiquetes en català.
+- Renderització local de comprovació: revisada; es llegeixen els dos panells, els raigs, la normal i les dues classes d’ombra.
+- La figura és esquemàtica: no representa una miniatura concreta, una mesura ni un assaig físic.
+
+### Referències i procedència
+
+No s'ha reutilitzat cap imatge externa. La figura s'ha construït com a SVG original a partir dels conceptes i de les ubicacions didàctiques del manual. No s'atribueixen propietats òptiques concretes a cap pintura o material.
+
+### Límits de validació
+
+El fitxer s'ha renderitzat i revisat fora de la maqueta. Encara no s'ha inserit al document Word/PDF; per tant, la mida tipogràfica, la llegibilitat a mida d'impressió i els possibles efectes de repaginació s'han de comprovar després de la inserció i la regeneració del PDF.
+
+### Historial de decisions
+
+| Data | Decisió | Estat |
+|---|---|---|
+| 2026-11-06 | Consolidar G012, G013, G015 i G016 en una única figura de dos panells | Composició aplicada |
+| 2026-11-06 | Mesurar els angles d’incidència i reflexió respecte de la normal | Criteri tècnic aplicat |
+| 2026-11-06 | Produir el diagrama original en SVG i revisar-ne la renderització | Produït i comprovat |
+| 2026-11-06 | Reservar la comprovació de mida d’impressió per a la fase d’inserció | Pendent |

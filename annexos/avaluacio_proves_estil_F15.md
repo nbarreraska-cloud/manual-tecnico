@@ -536,3 +536,16 @@ L'artefacte F9 inspeccionat és una compilació de text sense imatges, en format
 S'ha creat `annexos/protocol_prova_fisica_G028.md` per documentar la comparació entre cobertura insuficient, adequada i excessiva de la imprimació i la conservació del relleu. El protocol exigeix mostres comparables, variables d'aplicació registrades, rèpliques quan sigui possible, fotografia amb configuració controlada i separació entre observació i interpretació.
 
 **No s'ha executat cap prova.** No hi ha mostres, fotografies ni resultats. G028 continua classificada E2 i bloquejada. El protocol no autoritza a representar cap resultat hipotètic com a observat. Si no es pot executar la prova, només es podrà utilitzar una figura conceptual E0 després de la decisió i actualització formal corresponents.
+
+
+## 28. Ampliació de la recerca visual — tandes 02–04 — 06/11/2026
+
+S'han documentat tres tandes addicionals de recursos amb autoria, llicència, dimensions i límits d'ús:
+
+- **Tanda 02:** 12 candidatures (fusta, roca, líquens, vellut, fibra de seda, foc, aigua i condensació), més 2 recursos en reserva o descartats.
+- **Tanda 03:** 8 candidatures (pinzells, aerògraf, aerosols i paletes), més 4 recursos en reserva o descartats.
+- **Tanda 04:** 8 candidatures (cuir, metall corroït, ceràmica esmaltada, terracota digital i pergamí), més 4 recursos en reserva o descartats.
+
+S'ha creat l'índex `annexos/registre_recerca_visual_index.md`. El balanç de les tandes 02–04 és de 28 candidatures amb llicència identificada i 10 recursos en reserva o descartats. No són 28 recursos necessàriament únics ni 28 seleccions finals: tots resten pendents de coteig amb F10 i el text lector.
+
+**Cap recurs s'ha descarregat, adaptat ni inserit.** No s'ha modificat F10 ni la selecció de 150 composicions. Les textures PBR, mapes normals, imatges generades i fotografies de materials reals s'han mantingut com a tipologies diferenciades.

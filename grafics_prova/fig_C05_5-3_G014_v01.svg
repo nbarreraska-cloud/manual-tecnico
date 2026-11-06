@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900"><defs><style>.t{font:700 30px Arial,sans-serif;fill:#183247}.h{font:700 21px Arial,sans-serif;fill:#28465b}.b{font:17px Arial,sans-serif;fill:#263b49}.s{font:14px Arial,sans-serif;fill:#526777}.p{fill:#fff;stroke:#b7c7d1;stroke-width:2}</style></defs>
+<rect width="1400" height="900" fill="#f3f6f8"/><text x="700" y="52" text-anchor="middle" class="t">Il·luminació de superfícies planes i corbes</text>
+<rect x="35" y="95" width="650" height="710" rx="16" class="p"/><rect x="715" y="95" width="650" height="710" rx="16" class="p"/>
+<text x="360" y="145" text-anchor="middle" class="h">Superfície plana</text><text x="1040" y="145" text-anchor="middle" class="h">Superfície corba</text>
+<circle cx="120" cy="260" r="42" fill="#f2c94c"/><g stroke="#d3a52d" stroke-width="4"><path d="M160 260 L500 260 M160 260 L500 370 M160 260 L500 480"/></g>
+<path d="M250 500 L590 500 L590 555 L250 555 Z" fill="#8fb6d0" stroke="#28465b" stroke-width="3"/>
+<g stroke="#d34b43" stroke-width="4"><path d="M420 500 V390 M420 555 V665"/></g><g class="s"><text x="420" y="375" text-anchor="middle">Normal constant</text><text x="420" y="700" text-anchor="middle">Orientació constant</text></g>
+<circle cx="800" cy="260" r="42" fill="#f2c94c"/><g stroke="#d3a52d" stroke-width="4"><path d="M840 260 L1080 300 M840 260 L1080 390 M840 260 L1080 480"/></g>
+<path d="M830 540 C900 390 1160 390 1250 540" fill="#8fb6d0" stroke="#28465b" stroke-width="3"/>
+<g stroke="#d34b43" stroke-width="4"><path d="M900 455 L860 365 M1040 410 V300 M1190 455 L1235 365"/></g>
+<g class="s"><text x="900" y="340" text-anchor="middle">Normal inclinada</text><text x="1040" y="275" text-anchor="middle">Normal vertical</text><text x="1220" y="340" text-anchor="middle">Normal inclinada</text></g>
+<text x="700" y="755" text-anchor="middle" class="s">En un pla, la normal conserva la mateixa orientació. En una superfície corba, la normal varia al llarg de la superfície.</text></svg>

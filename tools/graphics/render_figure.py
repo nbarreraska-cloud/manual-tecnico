@@ -520,6 +520,43 @@ def render_ice_snow_comparison(spec: dict) -> str:
     ET.fromstring(svg)
     return svg
 
+\n
+def render_gem_construction_studies(spec: dict) -> str:
+    title=escape(spec["title"]); desc=escape(spec["description"])
+    dark="#263746"; muted="#5B6872"
+    p=[f'<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc"><title id="title">{title}</title><desc id="desc">{desc}</desc>',
+       '<rect width="1600" height="900" fill="#FAF9F6"/>',
+       f'<text x="72" y="76" font-family="DejaVu Sans,Arial" font-size="22" font-weight="700" fill="{muted}">FIGURA G165 · ESTUDIS DE CONSTRUCCIÓ</text>',
+       f'<text x="72" y="132" font-family="DejaVu Sans,Arial" font-size="40" font-weight="700" fill="{dark}">{title}</text>',
+       f'<text x="72" y="174" font-family="DejaVu Sans,Arial" font-size="20" fill="{muted}">{escape(spec.get("subtitle",""))}</text>']
+    xs=[72,584,1096]; heads=["GEMMA FACETADA","GEMMA ARRODONIDA","CABUIXÓ"]
+    subs=["Plans, arestes i profunditat","Transicions i volum","Superfície corba i reflex localitzat"]
+    for x,h,s in zip(xs,heads,subs):
+        p += [f'<rect x="{x}" y="215" width="432" height="550" rx="18" fill="#FFFFFF" stroke="#D8DEE3" stroke-width="2"/>',
+              f'<text x="{x+22}" y="260" font-family="DejaVu Sans,Arial" font-size="21" font-weight="700" fill="{dark}">{h}</text>',
+              f'<text x="{x+22}" y="292" font-family="DejaVu Sans,Arial" font-size="15" fill="{muted}">{s}</text>']
+    p += ['<polygon points="170,390 250,345 330,390 310,485 190,485" fill="#9B3038" stroke="#51252D" stroke-width="4"/>',
+          '<polygon points="170,390 250,345 250,470 190,485" fill="#D85A5D"/>','<polygon points="250,345 330,390 310,485 250,470" fill="#7D202F"/>',
+          '<polygon points="190,485 310,485 250,610" fill="#4D1D2A"/>','<polygon points="190,485 250,470 250,610" fill="#A52D3C"/>',
+          '<path d="M170 390 L250 345 L330 390 M190 485 L310 485" stroke="#F0B9A8" stroke-width="4" fill="none"/>',
+          '<path d="M205 390 L225 365" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round"/>',
+          '<text x="250" y="655" text-anchor="middle" font-family="DejaVu Sans,Arial" font-size="16" fill="#263746">Arestes i plans diferenciats</text>',
+          '<path d="M665 465 Q665 365 800 350 Q935 365 935 465 L900 545 L700 545 Z" fill="#236C83" stroke="#174454" stroke-width="4"/>',
+          '<path d="M665 465 Q700 385 800 350 L800 520 L700 545 Z" fill="#4FA4B0"/>','<path d="M800 350 Q900 385 935 465 L900 545 L800 520 Z" fill="#174D68"/>',
+          '<path d="M700 545 L800 520 L900 545" fill="none" stroke="#9DD5D7" stroke-width="4"/>','<path d="M705 425 Q740 390 785 382" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" fill="none"/>',
+          '<text x="800" y="655" text-anchor="middle" font-family="DejaVu Sans,Arial" font-size="16" fill="#263746">Volum corbat amb plans amplis</text>',
+          '<path d="M1175 490 C1175 400 1240 350 1312 350 C1384 350 1449 400 1449 490 C1449 565 1384 600 1312 600 C1240 600 1175 565 1175 490 Z" fill="#477C45" stroke="#294C31" stroke-width="4"/>',
+          '<path d="M1185 485 C1195 410 1250 370 1312 370 C1360 370 1400 395 1420 440 C1360 420 1285 435 1245 485 C1215 520 1195 525 1185 485 Z" fill="#75A95C"/>',
+          '<path d="M1200 520 C1260 560 1370 555 1425 500" fill="none" stroke="#315B37" stroke-width="9" opacity=".75"/>',
+          '<ellipse cx="1250" cy="415" rx="20" ry="9" transform="rotate(-25 1250 415)" fill="#FFFFFF"/>',
+          '<text x="1312" y="655" text-anchor="middle" font-family="DejaVu Sans,Arial" font-size="16" fill="#263746">Transicions suaus, sense facetes</text>']
+    for x,lines in zip(xs,[["Base cromàtica","Profunditat i facetes","Reflexos en plans concrets"],["Base i volum","Transicions de valor","Reflex adaptat a la curvatura"],["Base i transicions","Ombres perifèriques","Reflex superficial localitzat"]]):
+        for j,line in enumerate(lines): p.append(f'<text x="{x+24}" y="{690+j*24}" font-family="DejaVu Sans,Arial" font-size="15" fill="{muted}">{escape(line)}</text>')
+    p += ['<rect x="72" y="790" width="1456" height="48" rx="10" fill="#E9EEF0"/>',
+          f'<text x="94" y="820" font-family="DejaVu Sans,Arial" font-size="17" font-weight="700" fill="{dark}">La geometria determina la distribució de valors i reflexos; el color no és una recepta universal.</text>',
+          f'<text x="72" y="872" font-family="DejaVu Sans,Arial" font-size="15" fill="{muted}">{escape(spec.get("note",""))}</text>','</svg>']
+    svg="\\n".join(p); ET.fromstring(svg); return svg
+
 \ndef main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--figure", required=True, help="Figure identifier, e.g. G001")
@@ -546,6 +583,8 @@ def render_ice_snow_comparison(spec: dict) -> str:
         svg_content = render_crystal_morphology_atlas(spec)
     elif spec.get("template") == "ice_snow_comparison":
         svg_content = render_ice_snow_comparison(spec)
+    elif spec.get("template") == "gem_construction_studies":
+        svg_content = render_gem_construction_studies(spec)
     else:
         svg_content = render(spec)
     svg_path.write_text(svg_content, encoding="utf-8")

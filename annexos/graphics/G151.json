@@ -10,7 +10,7 @@
   "source": "annexos/briefs_visuals_detallats_G151-G170_DBD02_2026-11.md",
   "production_status": "renderable_draft",
   "approval_status": "technical_render_pending_visual_review",
-  "rendering_note": "No renderitzar fins que s'hagi desenvolupat una plantilla que representi fidelment aquesta composició.",
+  "rendering_note": "Plantilla layer_sequence_4 desenvolupada. Pendent de renderització automàtica, revisió visual del SVG/PNG i comprovació a mida de maquetació.",
   "template": "layer_sequence_4",
   "title": "Construcció progressiva d'una superfície mitjançant capes",
   "subtitle": "Quatre moments de treball sobre una mateixa geometria, sense establir una recepta universal.",

@@ -1319,7 +1319,7 @@ Es conserven els quatre identificadors P1, però no es produeixen com a quatre f
 
 ### 28.1 — Corrosió del ferro i l'acer
 - **ID estable:** G166; **ID complementari:** CV-28-01.
-- **Ubicació:** després de l'apartat 28.4, «Òxid i rovell sobre ferro i acer».
+- **Ubicació:** després de l'apartat 28.7.6, «Compatibilitat i control de les tècniques».
 - **Llegenda prevista:** «Variacions visuals de corrosió sobre ferro i acer: rovell recent, madur i fosc, corrosió localitzada i alteració sota un recobriment deteriorat.»
 - **Representació:** comparació d'estats i distribucions, amb capes diferenciades per metall base, recobriment conservat, zona exposada i productes de corrosió. Un detall pot mostrar la relació amb la pèrdua localitzada de pintura.
 - **Funció didàctica:** separar visualment el metall original, l'alteració superficial i el recobriment deteriorat.

@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1120" viewBox="0 0 1800 1120" role="img" aria-labelledby="title desc">
+<title id="title">Atles compacte de vegetació</title>
+<desc id="desc">Tres panells: estructures vegetals, morfologia de fulles i agrupació, densitat i superposició.</desc>
+<defs>
+ <style>
+ .bg{fill:#f7f6f1}.panel{fill:#fff;stroke:#c9c8bf;stroke-width:2}.head{font:700 27px sans-serif;fill:#202a27}.sub{font:600 19px sans-serif;fill:#34433d}.lab{font:17px sans-serif;fill:#34433d}.small{font:15px sans-serif;fill:#56635d}.line{stroke:#4e6254;stroke-width:4;fill:none;stroke-linecap:round;stroke-linejoin:round}.vein{stroke:#536b58;stroke-width:2.5;fill:none;stroke-linecap:round}.leaf{fill:#78936e;stroke:#405d49;stroke-width:2}.leaf2{fill:#9aab78;stroke:#526b4d;stroke-width:2}.dark{fill:#49634e;stroke:#344c3b;stroke-width:2}.moss{fill:#91a66d;stroke:#536a48;stroke-width:2}.lichen{fill:#c3b77a;stroke:#81784e;stroke-width:2}
+ </style>
+</defs>
+<rect class="bg" width="1800" height="1120"/>
+<text x="70" y="62" class="head" style="font-size:34px">ATLES COMPACTE DE VEGETACIÓ</text>
+<text x="70" y="94" class="small">Estructures, formes de fulla i lectura de la massa vegetal · esquemes didàctics simplificats</text>
+
+<!-- G064 / 21.1 -->
+<rect class="panel" x="55" y="130" width="540" height="900" rx="18"/>
+<text x="85" y="180" class="head">G064 · Tipus principals</text>
+<text x="85" y="212" class="small">La identitat depèn de l'estructura i el creixement, no només del color.</text>
+<!-- broadleaf -->
+<path class="line" d="M185 355 L185 300 M185 324 L145 286 M185 333 L225 290 M185 310 L185 270"/>
+<g>
+ <ellipse class="leaf" cx="143" cy="278" rx="28" ry="18" transform="rotate(25 143 278)"/>
+ <ellipse class="leaf2" cx="190" cy="264" rx="29" ry="18" transform="rotate(-20 190 264)"/>
+ <ellipse class="leaf" cx="226" cy="283" rx="29" ry="18" transform="rotate(-35 226 283)"/>
+ <ellipse class="leaf2" cx="164" cy="315" rx="29" ry="18" transform="rotate(15 164 315)"/>
+ <ellipse class="leaf" cx="212" cy="321" rx="28" ry="18" transform="rotate(-15 212 321)"/>
+</g>
+<text x="275" y="300" class="sub">Fulla ampla</text><text x="275" y="326" class="small">Massa, branques i agrupacions</text>
+<!-- conifer -->
+<path class="line" d="M185 535 L185 420"/>
+<path class="dark" d="M185 402 L125 488 L245 488 Z M185 445 L135 520 L235 520 Z M185 480 L148 550 L222 550 Z"/>
+<path class="line" d="M185 428 L150 470 M185 447 L220 482 M185 475 L155 510 M185 490 L216 523"/>
+<text x="275" y="475" class="sub">Conífera</text><text x="275" y="501" class="small">Capçada i marques direccionals</text>
+<!-- herbaceous -->
+<path class="line" d="M185 760 Q160 680 145 625 M185 760 Q185 665 190 610 M185 760 Q220 680 245 630 M185 760 Q150 700 115 670 M185 760 Q220 700 265 680"/>
+<path class="leaf2" d="M145 625 Q120 610 112 584 Q142 590 145 625Z M190 610 Q210 580 205 555 Q184 580 190 610Z M245 630 Q272 612 285 590 Q252 596 245 630Z"/>
+<path class="leaf" d="M115 670 Q88 650 82 628 Q110 638 115 670Z M265 680 Q292 655 305 642 Q288 674 265 680Z"/>
+<text x="350" y="660" class="sub">Herbàcies</text><text x="350" y="686" class="small">Tiges, fulles i espigues</text>
+<!-- moss and lichen -->
+<path class="moss" d="M95 895 Q90 865 120 860 Q130 830 160 850 Q180 820 205 850 Q240 835 250 870 Q280 870 275 900 Z"/>
+<circle class="moss" cx="120" cy="870" r="12"/><circle class="moss" cx="155" cy="855" r="11"/><circle class="moss" cx="190" cy="866" r="13"/><circle class="moss" cx="230" cy="876" r="10"/>
+<path class="lichen" d="M330 900 Q310 875 332 858 Q350 840 367 861 Q390 843 407 864 Q430 870 420 900Z"/>
+<path class="lichen" d="M445 900 Q435 875 455 865 Q470 850 487 867 Q505 858 520 880 L520 900Z"/>
+<text x="85" y="945" class="sub">Molsa</text><text x="85" y="970" class="small">Coixins, tapissos i relleu</text>
+<text x="330" y="945" class="sub">Líquens</text><text x="330" y="970" class="small">Crustacis, foliàcis i altres formes</text>
+
+<!-- G065 / 21.2 -->
+<rect class="panel" x="630" y="130" width="540" height="900" rx="18"/>
+<text x="660" y="180" class="head">G065 · Morfologia de les fulles</text>
+<text x="660" y="212" class="small">Comparació esquemàtica; no és una clau botànica exhaustiva.</text>
+<text x="680" y="270" class="sub">Fulles simples</text>
+<path class="leaf" d="M760 315 C700 350 705 430 760 465 C815 430 820 350 760 315Z"/>
+<path class="vein" d="M760 458 L760 326 M760 370 L730 350 M760 390 L790 365 M760 415 L730 397 M760 430 L792 410"/>
+<path class="leaf2" d="M930 315 Q875 350 900 420 Q930 460 970 420 Q995 350 930 315Z"/>
+<path class="vein" d="M930 450 L930 327 M930 365 L905 350 M930 390 L958 365 M930 415 L908 402"/>
+<text x="720" y="495" class="lab">Làmina única</text>
+<text x="885" y="495" class="lab">Forma variable</text>
+<text x="680" y="555" class="sub">Fulles compostes</text>
+<path class="line" d="M895 760 L895 590 M895 650 L850 620 M895 680 L940 645 M895 715 L850 690 M895 735 L940 710"/>
+<ellipse class="leaf" cx="845" cy="615" rx="28" ry="13" transform="rotate(25 845 615)"/>
+<ellipse class="leaf2" cx="945" cy="640" rx="28" ry="13" transform="rotate(-25 945 640)"/>
+<ellipse class="leaf" cx="845" cy="685" rx="28" ry="13" transform="rotate(25 845 685)"/>
+<ellipse class="leaf2" cx="945" cy="705" rx="28" ry="13" transform="rotate(-25 945 705)"/>
+<ellipse class="leaf" cx="895" cy="590" rx="24" ry="14"/>
+<text x="680" y="800" class="lab">Diversos folíols units a un mateix eix</text>
+<text x="680" y="850" class="sub">Vores i nerviació</text>
+<path class="leaf2" d="M730 885 Q680 910 730 970 Q780 910 730 885Z"/><path class="vein" d="M730 965 L730 892 M730 915 L708 903 M730 930 L752 910"/>
+<path class="leaf" d="M900 885 Q850 910 900 970 Q950 910 900 885Z"/><path class="vein" d="M900 965 L900 892 M900 915 L880 902 M900 930 L920 910"/>
+<text x="780" y="925" class="lab">Exemples de vora</text><text x="960" y="925" class="lab">Nervis visibles</text>
+<text x="660" y="1000" class="small">La forma, la vora i el patró de nervis varien segons la fulla.</text>
+
+<!-- G066 / 21.3 -->
+<rect class="panel" x="1205" y="130" width="540" height="900" rx="18"/>
+<text x="1235" y="180" class="head">G066 · Agrupació i densitat</text>
+<text x="1235" y="212" class="small">De la massa general a les agrupacions i la superposició.</text>
+<g transform="translate(1260 275)">
+ <text x="0" y="0" class="sub">1. Massa general</text>
+ <path class="leaf2" d="M30 105 Q10 55 65 35 Q100 -5 145 35 Q195 15 220 65 Q250 110 210 135 L60 135Z"/>
+ <text x="285" y="85" class="lab">Volum global</text>
+</g>
+<g transform="translate(1260 445)">
+ <text x="0" y="0" class="sub">2. Buidats i separacions</text>
+ <path class="leaf" d="M25 95 Q10 55 55 35 Q95 0 125 40 Q150 80 120 125 L45 130Z"/>
+ <path class="leaf2" d="M165 105 Q150 60 190 35 Q225 15 255 55 Q275 90 245 130 L180 130Z"/>
+ <text x="285" y="85" class="lab">Espais oberts</text>
+</g>
+<g transform="translate(1260 615)">
+ <text x="0" y="0" class="sub">3. Agrupacions</text>
+ <ellipse class="leaf" cx="70" cy="95" rx="52" ry="38"/><ellipse class="leaf2" cx="165" cy="75" rx="48" ry="34"/><ellipse class="dark" cx="240" cy="110" rx="42" ry="30"/>
+ <text x="300" y="85" class="lab">Grups diferenciats</text>
+</g>
+<g transform="translate(1260 785)">
+ <text x="0" y="0" class="sub">4. Superposició</text>
+ <ellipse class="leaf2" cx="85" cy="90" rx="55" ry="42"/><ellipse class="leaf" cx="145" cy="70" rx="55" ry="42"/><ellipse class="dark" cx="190" cy="105" rx="55" ry="42"/><ellipse class="leaf" cx="235" cy="70" rx="50" ry="38"/>
+ <text x="300" y="85" class="lab">Plans i profunditat</text>
+</g>
+<text x="1235" y="965" class="small">No cal dibuixar cada fulla: cal conservar buits, variació i lectura de massa.</text>
+<text x="70" y="1080" class="small">Esquemes conceptuals; les formes i densitats s'han d'adaptar a l'escala i al tipus de vegetació.</text>
+</svg>

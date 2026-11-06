@@ -10,7 +10,7 @@ La matriu actualitzada conté **170 composicions**: 150 composicions procedents 
 |---|---|---|---:|---|---|---|
 | G001 | Figura 1.1 | 1.2 | 1 | Classificació de la informació tècnica | apartat 1.5. | — |
 | G002 | Figura 2.1 | 2.2 | 2 | Organització documental de la informació sobre les pintures | apartat 2.5. | — |
-| G003 | Figura 3.1 | 3.1 | 3 | Comportament d'opacitat i transparència de les pintures | apartat 3.1. | — |
+| G003 | Figura 3.1 | 3.1 | 3 | Comportament d'opacitat i transparència de les pintures | apartat 3.2.1. | — |
 | G004 | Figura 3.2 | 3.2 | 3 | Influència del fons en una mateixa capa de pintura | apartat 3.2.1. | — |
 | G005 | Figura 3.3 | 3.3 | 3 | Distribució de la pintura sobre relleus i cavitats | apartat 3.3. | 3.5 — Integració confirmada en una composició P1 |
 | G006 | Figura 4.1 | 4.3 | 4 | Mescla additiva RGB i mescla sostractiva CMY | apartats 4.3.2–4.3.3. | — |

@@ -287,9 +287,9 @@ def render_rock_family_atlas(spec: dict) -> str:
                     col=["#E6DFD0","#4E5356","#D0BDA0","#7A7770"][j%4]
                     parts.append(f'<circle cx="{px}" cy="{py}" r="{rr}" fill="{col}" opacity=".9"/>')
             elif kind=="basalt":
-                for j in range(52):
-                    px=sx+5+((j*31+7)%220); py=sy+5+((j*19+11)%66)
-                    parts.append(f'<circle cx="{px}" cy="{py}" r="{1+(j%2)}" fill="#9CA2A3" opacity=".55"/>')
+                for j in range(64):
+                    px=sx+5+((j*37+11)%220); py=sy+5+((j*43+17)%66)
+                    parts.append(f'<circle cx="{px}" cy="{py}" r="{1+(j%2)}" fill="#9CA2A3" opacity=".48"/>')
             elif kind in ("sandstone","limestone"):
                 for j in range(4 if kind=="sandstone" else 2):
                     yy=sy+14+j*16
@@ -312,16 +312,34 @@ def render_rock_family_atlas(spec: dict) -> str:
             # Enlarged pattern sample, explicitly a schematic detail.
             cx,cy=x+333,sy+38
             parts.append(f'<circle cx="{cx}" cy="{cy}" r="43" fill="{base}" stroke="#6F7B83" stroke-width="3"/>')
-            if kind in ("granite","basalt","limestone"):
-                for j in range(14):
-                    px=cx-31+((j*17+5)%62); py=cy-30+((j*23+7)%60)
-                    parts.append(f'<circle cx="{px}" cy="{py}" r="{2+(j%3)}" fill="{["#E9E2D5","#55595B","#B79E7D"][j%3]}" opacity=".85"/>')
-            elif kind in ("sandstone","slate","gneiss"):
-                for j in range(4):
-                    yy=cy-24+j*15
-                    parts.append(f'<path d="M {cx-35} {yy} Q {cx} {yy-7} {cx+35} {yy}" stroke="{["#E8D1A9","#80664D"][j%2]}" stroke-width="5" fill="none"/>')
+            if kind=="granite":
+                for j in range(18):
+                    px=cx-31+((j*17+5)%62); py=cy-30+((j*29+7)%60)
+                    parts.append(f'<circle cx="{px}" cy="{py}" r="{2+(j%3)}" fill="{["#E9E2D5","#55595B","#B79E7D"][j%3]}" opacity=".9"/>')
+            elif kind=="basalt":
+                for j in range(26):
+                    px=cx-32+((j*23+3)%64); py=cy-31+((j*41+9)%62)
+                    parts.append(f'<circle cx="{px}" cy="{py}" r="{1+(j%2)}" fill="#C2C8C8" opacity=".7"/>')
+            elif kind=="sandstone":
+                for j in range(5):
+                    yy=cy-28+j*14
+                    parts.append(f'<path d="M {cx-34} {yy} Q {cx} {yy-5} {cx+34} {yy}" stroke="{["#9E7955","#E0C99F"][j%2]}" stroke-width="5" fill="none"/>')
+            elif kind=="limestone":
+                parts.append(f'<ellipse cx="{cx}" cy="{cy}" rx="23" ry="14" fill="none" stroke="#9C927F" stroke-width="4"/>')
+                parts.append(f'<ellipse cx="{cx-13}" cy="{cy+4}" rx="8" ry="5" fill="none" stroke="#B0A58F" stroke-width="2"/>')
+                parts.append(f'<circle cx="{cx+20}" cy="{cy-17}" r="4" fill="#A79B85"/>')
+            elif kind=="slate":
+                for j in range(5):
+                    yy=cy-27+j*13
+                    parts.append(f'<path d="M {cx-34} {yy} L {cx+34} {yy-5}" stroke="#C3CDD1" stroke-width="4" fill="none"/>')
             elif kind=="marble":
-                parts.append(f'<path d="M {cx-28} {cy-32} Q {cx+15} {cy-8} {cx-8} {cy+5} T {cx+28} {cy+32}" stroke="#7B858D" stroke-width="3" fill="none"/>')
+                for j in range(3):
+                    parts.append(f'<path d="M {cx-25+j*20} {cy-33} C {cx+10+j*9} {cy-8} {cx-18+j*17} {cy+9} {cx+25-j*8} {cy+33}" stroke="{["#7B858D","#A58E7A","#B7B1A6"][j]}" stroke-width="3" fill="none"/>')
+            elif kind=="gneiss":
+                for j in range(5):
+                    yy=cy-28+j*14
+                    col="#4B5053" if j%2 else "#E5DED0"
+                    parts.append(f'<path d="M {cx-34} {yy} Q {cx} {yy-7} {cx+34} {yy}" stroke="{col}" stroke-width="7" fill="none"/>')
             parts.append(f'<text x="{cx}" y="{sy+100}" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="13" fill="{muted}">Detall</text>')
     parts.extend([
         '<rect x="72" y="785" width="1432" height="48" rx="10" fill="#E9EEF0"/>',

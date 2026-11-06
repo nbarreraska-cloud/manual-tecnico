@@ -10,7 +10,8 @@
 2. [Tanda 01 — capítols 1–7 i 11](pla_remissions_i_insercio_F11_tanda_01.md).
 3. [Tanda 02 — capítols 15–24](pla_remissions_i_insercio_F11_tanda_02_C15-C24.md).
 4. [Tanda 03 — capítols 30–39](pla_remissions_i_insercio_F11_tanda_03_C30-C39.md).
-5. [Tanda 04 — capítols 8–14 i 25–29](pla_remissions_i_insercio_F11_tanda_04_C08-C14_C25-C29.md).
+5. [Tanda 04 — capítols 8–14 i 25–29](pla_remissions_i_insercio_F11_tanda_04_C08-C14_C25-C29.md).  
+6. [Auditoria editorial F11 — evidències i remissions creuades](auditoria_editorial_F11_remissions_evidencies.md), ampliada amb el registre F11-R1.
 
 Les tandes 01–03 conserven el contingut i la traçabilitat de les 150 composicions originals. La tanda 04 incorpora les 20 composicions noves dels capítols que no tenien cobertura.
 

@@ -484,4 +484,51 @@ El fitxer s'ha creat al repositori. La renderització visual independent, la lle
 | 2026-11-06 | Contrastar G044 i G048 amb les fitxes editorials F10 i els ancoratges F9 | Ancoratges i funcions verificats |
 | 2026-11-06 | Mantenir el diagrama espacial i la seqüència de construcció en panells independents | Composició aplicada |
 | 2026-11-06 | Crear el recurs original en SVG i recuperar-lo de nou per comprovar-ne l'estructura i el registre | Creat i verificat al repositori |
+---
+
+## G060 — Figura 20.2. Construcció de vetes i desviació de fibres al voltant d'un nus
+
+**Data del registre:** 2026-11-06  
+**Capítol:** 20.  
+**Ubicació contrastada amb F9 i F10:** apartats 20.8.1–20.8.2; pàgines 154–155 a la maqueta F9.  
+**Estat:** SVG creat i guardat al repositori; verificació del fitxer i del registre pendent de completar en aquesta mateixa sessió. Renderització visual independent i validació a mida d'impressió pendents.
+
+### Objectiu didàctic
+
+Mostrar la construcció progressiva de les vetes longitudinals i la integració d'un nus com a part de l'estructura de la fusta. La figura ha de fer visible que les fibres canvien de direcció al seu voltant, en lloc de presentar el nus com una forma gràfica independent.
+
+### Decisió visual aplicada
+
+S'ha creat un **SVG original de quatre fases** sobre una peça allargada:
+
+1. **Base cromàtica:** establir el to general de la fusta i la direcció principal de la peça.
+2. **Vetes principals i secundàries:** alternar longituds, amplades, contrastos i ondulacions, evitant línies paral·leles i equidistants.
+3. **Integració del nus:** introduir una forma ovalada o irregular amb contorn parcial.
+4. **Desviació de fibres:** corbar les vetes pròximes perquè acompanyin el nus i mantinguin la continuïtat del patró.
+
+### Fitxer
+
+[Obrir G060 — SVG](G060_figura_20_2_construccio_vetes_nus.svg)
+
+### Control tècnic i editorial
+
+- Format SVG vectorial, amb textos editables.
+- Quatre fases coordinades sobre una peça de geometria constant.
+- El nus s'integra en el patró de vetes; no es representa com un cercle tancat i aïllat.
+- Les vetes varien en longitud, amplada i curvatura per evitar una regularitat artificial.
+- La representació és didàctica i simplificada; no pretén reproduir una secció anatòmica ni establir un patró universal de creixement.
+- Tots els textos de la figura són en català.
+- No s'han reutilitzat imatges externes.
+
+### Límits de validació
+
+El fitxer s'ha creat al repositori. La renderització visual independent, la llegibilitat a la mida final de maquetació i la repaginació s'han de comprovar després de la inserció a la còpia de treball del manual i la regeneració del PDF.
+
+### Historial de decisions
+
+| Data | Decisió | Estat |
+|---|---|---|
+| 2026-11-06 | Contrastar la fitxa G060 amb els apartats 20.8.1–20.8.2 del capítol 20 | Contingut i ancoratges verificats |
+| 2026-11-06 | Representar la construcció en quatre fases i integrar el nus amb vetes desviades | Composició aplicada |
+| 2026-11-06 | Crear el recurs original en SVG | Creat; verificació de repositori pendent |
 

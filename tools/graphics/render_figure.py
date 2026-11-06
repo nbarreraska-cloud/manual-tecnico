@@ -352,6 +352,87 @@ def render_rock_family_atlas(spec: dict) -> str:
     return svg
 
 
+
+def render_stone_texture_studies(spec: dict) -> str:
+    """Four distinct stone-surface construction studies, not a rock-family atlas."""
+    W,H=1600,900
+    dark,muted="#263746","#5B6872"
+    panels=[
+        (72,"COMPONENTS GRANULARS","Grans irregulars i jerarquia de valors"),
+        (456,"ESTRATS I PLANS","Capes discontínues que segueixen el volum"),
+        (840,"VETES I FRACTURES","Traç integrat en la geometria"),
+        (1224,"PEDRA TREBALLADA","Talls, juntes i marques d'eina")
+    ]
+    p=[
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-labelledby="title desc">',
+        f'<title id="title">{escape(spec["title"])}</title>',
+        f'<desc id="desc">{escape(spec["description"])}</desc>',
+        '<rect width="1600" height="900" fill="#FAF9F6"/>',
+        f'<text x="72" y="76" font-family="DejaVu Sans, Arial" font-size="22" font-weight="700" letter-spacing="2" fill="{muted}">FIGURA G162 · ESTUDIS DE CONSTRUCCIÓ</text>',
+        f'<text x="72" y="132" font-family="DejaVu Sans, Arial" font-size="40" font-weight="700" fill="{dark}">{escape(spec["title"])}</text>',
+        f'<text x="72" y="174" font-family="DejaVu Sans, Arial" font-size="20" fill="{muted}">{escape(spec["subtitle"])}</text>'
+    ]
+    for idx,(x,head,sub) in enumerate(panels):
+        p.extend([
+            f'<rect x="{x}" y="220" width="352" height="520" rx="16" fill="#FFFFFF" stroke="#D8DEE3" stroke-width="2"/>',
+            f'<text x="{x+18}" y="260" font-family="DejaVu Sans, Arial" font-size="18" font-weight="700" fill="{dark}">{head}</text>',
+            f'<text x="{x+18}" y="290" font-family="DejaVu Sans, Arial" font-size="14" fill="{muted}">{sub}</text>'
+        ])
+        sx,sy=x+24,330
+        p.append(f'<rect x="{sx}" y="{sy}" width="304" height="220" rx="8" fill="#B7B0A2" stroke="#68747B" stroke-width="3"/>')
+        if idx==0:
+            # Uneven, multi-value mineral components: no regular dotted grid.
+            for j in range(78):
+                xx=sx+8+((j*47+13)%288); yy=sy+8+((j*31+19)%204)
+                rr=2+(j%4)
+                col=["#E7DFCF","#55595B","#D0B99A","#85847F","#B5A18A"][j%5]
+                p.append(f'<circle cx="{xx}" cy="{yy}" r="{rr}" fill="{col}" opacity=".95"/>')
+            p.append(f'<path d="M {sx+20} {sy+185} Q {sx+70} {sy+165} {sx+120} {sy+180}" stroke="#77736B" stroke-width="3" fill="none"/>')
+        elif idx==1:
+            # Uneven, interrupted sedimentary beds.
+            for j in range(5):
+                yy=sy+28+j*39
+                col=["#8F7258","#D9C49F","#A17C5B","#E1D0B0","#92785F"][j]
+                p.append(f'<path d="M {sx+2} {yy} C {sx+75} {yy-15} {sx+132} {yy+14} {sx+205} {yy-3} L {sx+275} {yy+4}" stroke="{col}" stroke-width="{7 if j%2==0 else 4}" fill="none"/>')
+            p.append(f'<path d="M {sx+190} {sy+24} L {sx+174} {sy+95} L {sx+202} {sy+150}" stroke="#6D6255" stroke-width="3" fill="none"/>')
+        elif idx==2:
+            # A branching vein/fissure following an irregular direction.
+            p.append(f'<path d="M {sx+25} {sy+190} C {sx+70} {sy+160} {sx+95} {sy+115} {sx+140} {sy+105} S {sx+220} {sy+60} {sx+282} {sy+25}" stroke="#6F777B" stroke-width="10" fill="none"/>')
+            p.append(f'<path d="M {sx+25} {sy+190} C {sx+70} {sy+160} {sx+95} {sy+115} {sx+140} {sy+105} S {sx+220} {sy+60} {sx+282} {sy+25}" stroke="#E6E0D3" stroke-width="4" fill="none"/>')
+            p.append(f'<path d="M {sx+135} {sy+108} Q {sx+120} {sy+70} {sx+93} {sy+45} M {sx+198} {sy+74} Q {sx+220} {sy+112} {sx+250} {sy+137}" stroke="#E6E0D3" stroke-width="3" fill="none"/>')
+            p.append(f'<path d="M {sx+25} {sy+190} L {sx+10} {sy+205}" stroke="#51595D" stroke-width="3"/>')
+        else:
+            # Cut block with joints, chisel marks and a distinct worked plane.
+            p.append(f'<path d="M {sx+30} {sy+25} L {sx+245} {sy+25} L {sx+275} {sy+55} L {sx+60} {sy+55} Z" fill="#D8D1C3" stroke="#69747B" stroke-width="2"/>')
+            p.append(f'<path d="M {sx+245} {sy+25} L {sx+275} {sy+55} L {sx+275} {sy+195} L {sx+245} {sy+165} Z" fill="#777F83" stroke="#59646B" stroke-width="2"/>')
+            p.append(f'<path d="M {sx+30} {sy+25} L {sx+245} {sy+25} L {sx+245} {sy+165} L {sx+30} {sy+165} Z" fill="#BDB6A8" stroke="#59646B" stroke-width="2"/>')
+            for j in range(5):
+                yy=sy+52+j*21
+                p.append(f'<path d="M {sx+52} {yy} l 35 -5 M {sx+112} {yy+3} l 35 -5 M {sx+172} {yy} l 35 -5" stroke="#858078" stroke-width="3"/>')
+            p.append(f'<path d="M {sx+30} {sy+165} L {sx+245} {sy+165}" stroke="#4F5A60" stroke-width="4"/>')
+        labels=[
+            ["Components clars, mitjans i foscos","Distribució irregular, no uniforme"],
+            ["Variar amplada i continuïtat","Interrompre les capes segons el relleu"],
+            ["Veta clara i fractura fosca","Evitar línies decoratives regulars"],
+            ["Pla de tall i aresta definida","Juntes i marques vinculades a l'eina"]
+        ][idx]
+        p.extend([
+            f'<text x="{x+20}" y="600" font-family="DejaVu Sans, Arial" font-size="15" font-weight="700" fill="{dark}">{labels[0]}</text>',
+            f'<text x="{x+20}" y="628" font-family="DejaVu Sans, Arial" font-size="14" fill="{muted}">{labels[1]}</text>',
+            f'<rect x="{x+20}" y="670" width="312" height="42" rx="8" fill="#EEF1F1"/>',
+            f'<text x="{x+34}" y="697" font-family="DejaVu Sans, Arial" font-size="14" fill="{dark}">Volum primer · textura després</text>'
+        ])
+    p.extend([
+        '<rect x="72" y="770" width="1456" height="58" rx="10" fill="#E9EEF0"/>',
+        f'<text x="94" y="805" font-family="DejaVu Sans, Arial" font-size="17" font-weight="700" fill="{dark}">La textura depèn dels components, els plans, les fractures, l’erosió i la intervenció humana.</text>',
+        f'<text x="72" y="870" font-family="DejaVu Sans, Arial" font-size="15" fill="{muted}">{escape(spec.get("note", ""))}</text>',
+        '</svg>'
+    ])
+    svg="\\n".join(p)
+    ET.fromstring(svg)
+    return svg
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--figure", required=True, help="Figure identifier, e.g. G001")

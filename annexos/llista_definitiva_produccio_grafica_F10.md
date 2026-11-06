@@ -224,8 +224,8 @@ Les 20 files següents s'afegeixen sense alterar ni renumerar les 150 composicio
 | G163 | Figura 27.1 | CV-27-01 | 27 | Estructures i morfologies de cristalls naturals | després de 27.4. | — |
 | G164 | Figura 27.2 | CV-27-02 | 27 | Gel i neu: diferències estructurals i aparença visual | després de 27.6. | — |
 | G165 | Figura 27.3 | CV-27-03 | 27 | Construcció pictòrica de gemmes | després de 27.7. | — |
-| G166 | Figura 28.1 | CV-28-01 | 28 | Corrosió del ferro i l'acer | després de 28.7.6. | — |
-| G167 | Figura 28.2 | CV-28-02 | 28 | Pàtines sobre coure, bronze i llautó | després de 28.7.6. | — |
+| G166 | Figura 28.1 | CV-28-01 | 28 | Corrosió del ferro i l'acer | després de 28.7.2. | — |
+| G167 | Figura 28.2 | CV-28-02 | 28 | Pàtines sobre coure, bronze i llautó | després de 28.7.3. | — |
 | G168 | Figura 29.1 | CV-29-01 | 29 | Pols, dipòsits secs i terres compactades | després de 29.4. | — |
 | G169 | Figura 29.2 | CV-29-02 | 29 | Fang humit, compacte i sec | després de 29.5. | — |
 | G170 | Figura 29.3 | CV-29-03 | 29 | Distribució de dipòsits segons la geometria i l'ús | després de 29.7.5. | — |

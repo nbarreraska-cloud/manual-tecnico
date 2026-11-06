@@ -152,3 +152,76 @@ La cerca de referències i la selecció del tipus de solució visual queden tanc
 |---|---|---|
 | 2026-11-06 | Comparar mapa documental, referències creuades i flux de dades de producte | Cerca examinada |
 | 2026-11-06 | Crear un mapa original de relacions documentals en dues zones funcionals | Solució definida; producció pendent |
+---
+
+## G003 — Figura 3.1. Comportament d'opacitat i transparència de les pintures
+
+**Data del registre:** 2026-11-06  
+**Capítol:** 3  
+**Ubicació:** apartat 3.1  
+**Estat:** cerca tancada; solució definida com a diagrama original pendent de producció.
+
+### Objectiu didàctic
+
+Comparar diferents graus d'ocultació del fons i fer visible la continuïtat entre comportaments transparents, semitransparents, semiopacs i opacs. La figura ha d'ajudar a distingir la transparència i l'opacitat de la cobertura i de la uniformitat d'aplicació.
+
+### Especificació editorial recuperada
+
+La fitxa editorial F10 estableix una comparació de pintures opaques, semiopàques, semitransparents i transparents sobre un mateix fons. La representació ha de mostrar diferents graus d'ocultació, sense convertir-los en categories comercials rígides ni confondre opacitat, transparència, cobertura i uniformitat.
+
+### Referències visuals examinades
+
+1. **Laura Longoni Art — Transparencia y opacidad de los colores acrílicos.** Inclou una llegenda de quatre categories i descriu una prova visual amb una línia negra coberta per pintura. És útil com a referència per fer visible el grau d'ocultació, però la seva explicació no s'ha de copiar literalment ni tractar les quatre categories com a fronteres universals.  
+   https://www.lauralongoniart.com/es/post/transparencia-y-opacidad-de-los-colores-acr%C3%ADlicos
+
+2. **Royal Talens — Opacity and transparency.** Indica que la comparació s'ha de fer amb un gruix de capa constant. És una referència tècnica important per evitar que la diferència visual s'expliqui per variacions de quantitat o gruix aplicat.  
+   https://www.royaltalens.com/pages/opacity-transparency
+
+3. **Painters Online — Spotlight on acrylic.** Mostra mostres pintades i compara pigments transparents i opacs, incloent-hi la lectura de la capa sobre una línia de contrast. És útil com a referència de mostra física, però correspon a una gamma de pintura artística diferent i no constitueix evidència sobre les 48 pintures del manual.  
+   https://www.painters-online.co.uk/reviews/spotlight-on-acrylic-tony-paul-puts-jacksons-artist-acrylic-through/
+
+4. **ArtistAssistApp — Paint Opacity Symbols.** Presenta quatre símbols per a les categories d'opacitat. És una referència gràfica compacta, però els símbols sols no mostren el comportament real de la capa sobre el fons.  
+   https://artistassistapp.com/es/tutorials/paint-opacity/
+
+### Avaluació de les alternatives
+
+- **Llegenda de símbols comercials:** descartada com a figura principal. No permet veure directament què passa amb el fons i els símbols poden variar entre fabricants.
+- **Catàleg de mostres reals de diferents colors:** descartat per a aquesta figura. Sense assajos documentats sobre productes concrets, podria suggerir que s'han provat pintures de la paleta del manual quan no és així.
+- **Comparació controlada sobre un fons dividit clar/fosc:** escollida com a base conceptual. Permet observar quina part del fons continua visible i comparar els graus d'ocultació en condicions equivalents.
+
+### Decisió de producció
+
+Crear un **diagrama original de quatre mostres comparatives**, amb una mateixa tonalitat esquemàtica aplicada sobre un únic fons dividit en dues meitats de valor clar i fosc. Les quatre mostres han de representar, d'esquerra a dreta, els comportaments:
+
+1. **Transparent**
+2. **Semitransparent**
+3. **Semiopaca**
+4. **Opaca**
+
+La capa representada ha de mantenir el mateix gruix i la mateixa extensió en les quatre mostres; l'única variable visual serà el grau d'ocultació del fons. La llegenda ha d'indicar que es tracta d'una representació conceptual dels comportaments, no de quatre productes ni de resultats experimentals.
+
+### Restriccions de representació
+
+- No presentar els quatre comportaments com a classes comercials universals ni com a límits físics exactes.
+- No canviar simultàniament el gruix, la quantitat o l'extensió de la capa.
+- No utilitzar quatre colors diferents: la comparació ha d'aïllar el grau d'ocultació.
+- No confondre transparència amb fluïdesa, intensitat cromàtica, concentració de pigment o acabat.
+- No equiparar opacitat amb cobertura uniforme: són conceptes relacionats però no idèntics.
+- No atribuir els exemples a cap referència concreta de les 48 pintures.
+- Incorporar una nota breu: **«Esquema conceptual; no representa assajos de productes concrets.»**
+- Mantenir els textos en català i la llegibilitat a la mida final.
+
+### Procedència i drets d'ús
+
+Les referències s'utilitzen únicament per estudiar la representació de l'opacitat i la transparència i els criteris de comparació. No se selecciona cap imatge externa com a recurs final ni se'n copiarà la composició literal. La figura es produirà com a diagrama original.
+
+### Estat de resolució
+
+La cerca de referències i la selecció del tipus de solució visual queden tancades. **La figura final encara no està produïda.**
+
+### Historial de decisions
+
+| Data | Decisió | Estat |
+|---|---|---|
+| 2026-11-06 | Comparar símbols de classificació, mostres reals i proves sobre fons de contrast | Cerca examinada |
+| 2026-11-06 | Crear quatre mostres conceptuals sobre un fons clar/fosc, amb gruix constant | Solució definida; producció pendent |

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<defs>
+ <style>
+ .title{font:700 30px Arial,sans-serif;fill:#183247}.sub{font:600 22px Arial,sans-serif;fill:#28465b}.label{font:20px Arial,sans-serif;fill:#233746}.small{font:16px Arial,sans-serif;fill:#526777}.light{fill:#eaf2f7}.sub.light{fill:#eaf2f7}.panel{fill:#fbfcfd;stroke:#b7c7d1;stroke-width:2}.rule{stroke:#b7c7d1;stroke-width:2}
+ </style>
+</defs>
+<rect width="1200" height="760" fill="#f3f6f8"/>
+<text x="600" y="52" text-anchor="middle" class="title">Mescla additiva i mescla sostractiva</text>
+<rect x="35" y="82" width="550" height="625" rx="18" fill="#101820" stroke="#b7c7d1" stroke-width="2"/>
+<rect x="615" y="82" width="550" height="625" rx="18" fill="#fbfcfd" stroke="#b7c7d1" stroke-width="2"/>
+<text x="310" y="130" text-anchor="middle" class="sub light">RGB · llum (mescla additiva)</text>
+<text x="890" y="130" text-anchor="middle" class="sub">CMY · pigments o colorants (model sostractiu)</text>
+<g style="mix-blend-mode:screen">
+ <circle cx="245" cy="335" r="145" fill="#ff2020"/>
+ <circle cx="385" cy="335" r="145" fill="#20d94b"/>
+ <circle cx="315" cy="455" r="145" fill="#205cff"/>
+</g>
+<g style="mix-blend-mode:multiply">
+ <circle cx="825" cy="335" r="145" fill="#00b9d8"/>
+ <circle cx="965" cy="335" r="145" fill="#ed168c"/>
+ <circle cx="895" cy="455" r="145" fill="#ffe000"/>
+</g>
+<text x="310" y="630" text-anchor="middle" class="label light">La superposició de llums augmenta la lluminositat.</text>
+<text x="890" y="630" text-anchor="middle" class="label">La superposició idealitzada augmenta l'absorció.</text>
+<text x="310" y="666" text-anchor="middle" class="small light">Vermell · verd · blau → blanc al centre</text>
+<text x="890" y="666" text-anchor="middle" class="small">Cian · magenta · groc → negre idealitzat</text>
+<text x="600" y="735" text-anchor="middle" class="small">Esquema conceptual. Les pintures comercials no reprodueixen necessàriament el model CMY ideal.</text>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<defs>
+ <pattern id="checker" width="32" height="32" patternUnits="userSpaceOnUse"><rect width="32" height="32" fill="#f8fafb"/><rect width="16" height="16" fill="#d9e2e8"/><rect x="16" y="16" width="16" height="16" fill="#d9e2e8"/></pattern>
+ <style>
+ .title{font:700 30px Arial,sans-serif;fill:#183247}.sub{font:700 22px Arial,sans-serif;fill:#28465b}.label{font:20px Arial,sans-serif;fill:#233746}.small{font:16px Arial,sans-serif;fill:#526777}.panel{fill:#fbfcfd;stroke:#b7c7d1;stroke-width:2}
+ </style>
+</defs>
+<rect width="1200" height="760" fill="#f3f6f8"/>
+<text x="600" y="52" text-anchor="middle" class="title">Opacitat i transparència: ocultació del fons</text>
+<text x="600" y="83" text-anchor="middle" class="small">Quatre comportaments orientatius sobre el mateix patró de fons</text>
+<g>
+ <rect x="35" y="120" width="270" height="500" rx="14" class="panel"/>
+ <rect x="325" y="120" width="270" height="500" rx="14" class="panel"/>
+ <rect x="615" y="120" width="270" height="500" rx="14" class="panel"/>
+ <rect x="905" y="120" width="260" height="500" rx="14" class="panel"/>
+</g>
+<g>
+ <text x="170" y="165" text-anchor="middle" class="sub">Opaca</text>
+ <text x="460" y="165" text-anchor="middle" class="sub">Semiopaca</text>
+ <text x="750" y="165" text-anchor="middle" class="sub">Semitransparent</text>
+ <text x="1035" y="165" text-anchor="middle" class="sub">Transparent</text>
+</g>
+<g>
+ <rect x="60" y="195" width="220" height="300" fill="url(#checker)" stroke="#879ba8"/>
+ <rect x="350" y="195" width="220" height="300" fill="url(#checker)" stroke="#879ba8"/>
+ <rect x="640" y="195" width="220" height="300" fill="url(#checker)" stroke="#879ba8"/>
+ <rect x="930" y="195" width="210" height="300" fill="url(#checker)" stroke="#879ba8"/>
+ <rect x="60" y="195" width="220" height="300" fill="#3979b8" opacity="1"/>
+ <rect x="350" y="195" width="220" height="300" fill="#3979b8" opacity="0.78"/>
+ <rect x="640" y="195" width="220" height="300" fill="#3979b8" opacity="0.48"/>
+ <rect x="930" y="195" width="210" height="300" fill="#3979b8" opacity="0.18"/>
+</g>
+<g class="label" text-anchor="middle">
+ <text x="170" y="540">El fons queda ocult</text>
+ <text x="460" y="540">El fons es percep poc</text>
+ <text x="750" y="540">El fons continua visible</text>
+ <text x="1035" y="540">El fons influeix clarament</text>
+</g>
+<text x="600" y="595" text-anchor="middle" class="small">La representació és esquemàtica; no estableix llindars ni categories comercials rígides.</text>
+<text x="600" y="665" text-anchor="middle" class="label">Opacitat = capacitat d'ocultar el fons · Transparència = grau de visibilitat del fons</text>
+<text x="600" y="700" text-anchor="middle" class="small">La cobertura també depèn de la uniformitat i de les condicions d'aplicació; no és sinònim d'opacitat.</text>
+</svg>

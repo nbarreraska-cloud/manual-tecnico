@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900"><defs><style>
+.t{font:700 30px Arial,sans-serif;fill:#183247}.h{font:700 21px Arial,sans-serif;fill:#28465b}.b{font:17px Arial,sans-serif;fill:#263b49}.s{font:14px Arial,sans-serif;fill:#526777}.line{stroke:#526777;stroke-width:2;fill:none}.panel{fill:#fff;stroke:#b7c7d1;stroke-width:2}
+</style></defs>
+<rect width="1400" height="900" fill="#f3f6f8"/><text x="700" y="52" text-anchor="middle" class="t">Matís, valor i croma: espai tridimensional i escales independents</text>
+<rect x="35" y="95" width="820" height="710" rx="16" class="panel"/><rect x="885" y="95" width="480" height="710" rx="16" class="panel"/>
+<text x="445" y="145" text-anchor="middle" class="h">Relació espacial de les tres dimensions</text>
+<path d="M190 650 L530 650 L700 530 L360 530 Z M190 650 L190 300 L360 180 L360 530 M360 180 L700 300 L700 530 M190 300 L530 300 L700 300" class="line"/>
+<path d="M190 650 L530 650 L700 530" stroke="#526777" stroke-width="3" fill="none"/><path d="M190 650 L190 300 L360 180" stroke="#526777" stroke-width="3" fill="none"/><path d="M190 650 L360 530" stroke="#526777" stroke-width="3" fill="none"/>
+<text x="545" y="690" class="b">Matís</text><text x="130" y="285" class="b">Valor</text><text x="700" y="555" class="b">Croma</text>
+<text x="445" y="745" text-anchor="middle" class="s">Representació esquemàtica de coordenades conceptuals;</text><text x="445" y="768" text-anchor="middle" class="s">no és una cartografia exhaustiva de tots els colors perceptibles.</text>
+<text x="1125" y="145" text-anchor="middle" class="h">Escales independents</text>
+<text x="930" y="220" class="b">Matís</text><path d="M1030 215 H1300" stroke="#d84b43" stroke-width="16"/><path d="M1098 215 H1165" stroke="#e2bd39" stroke-width="16"/><path d="M1165 215 H1232" stroke="#5c9c63" stroke-width="16"/>
+<text x="930" y="365" class="b">Valor</text><rect x="1030" y="340" width="270" height="28" fill="url(#v)"/><defs><linearGradient id="v"><stop stop-color="#fff"/><stop offset="1" stop-color="#111"/></linearGradient></defs>
+<text x="930" y="510" class="b">Croma</text><rect x="1030" y="485" width="270" height="28" fill="url(#c)"/><defs><linearGradient id="c"><stop stop-color="#aeb5ba"/><stop offset="1" stop-color="#c51f2a"/></linearGradient></defs>
+<text x="1125" y="620" text-anchor="middle" class="s">Les escales aïllen cada dimensió</text><text x="1125" y="645" text-anchor="middle" class="s">per facilitar-ne l'anàlisi.</text></svg>

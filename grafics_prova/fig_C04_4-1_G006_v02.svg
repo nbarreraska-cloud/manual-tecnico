@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<defs><style>
+.title{font:700 34px Arial,sans-serif;fill:#183247}.sub{font:700 23px Arial,sans-serif;fill:#28465b}.body{font:18px Arial,sans-serif;fill:#263b49}.small{font:15px Arial,sans-serif;fill:#526777}.light{fill:#edf4f8}
+</style></defs>
+<rect width="1400" height="900" fill="#f3f6f8"/>
+<text x="700" y="52" text-anchor="middle" class="title">Mescla additiva i sostractiva: dos models diferents</text>
+<rect x="35" y="95" width="650" height="690" rx="18" fill="#101820" stroke="#aebfc9" stroke-width="2"/>
+<rect x="715" y="95" width="650" height="690" rx="18" fill="#fff" stroke="#aebfc9" stroke-width="2"/>
+<text x="360" y="145" text-anchor="middle" class="sub light">RGB · llum (mescla additiva)</text>
+<text x="1040" y="145" text-anchor="middle" class="sub">CMY · colorants (model sostractiu idealitzat)</text>
+<!-- Additive model: alpha compositing uses standard SVG opacity, not blend modes -->
+<g>
+ <circle cx="285" cy="350" r="170" fill="#ff2020" opacity=".66"/>
+ <circle cx="435" cy="350" r="170" fill="#20d94b" opacity=".66"/>
+ <circle cx="360" cy="485" r="170" fill="#205cff" opacity=".66"/>
+ <circle cx="360" cy="397" r="47" fill="#ffffff" stroke="#ffffff" stroke-width="2"/>
+</g>
+<!-- Subtractive model: transparent colorants over white, central near-black idealized overlap -->
+<g>
+ <circle cx="965" cy="350" r="170" fill="#00b9d8" opacity=".66"/>
+ <circle cx="1115" cy="350" r="170" fill="#ed168c" opacity=".66"/>
+ <circle cx="1040" cy="485" r="170" fill="#ffe000" opacity=".66"/>
+ <circle cx="1040" cy="397" r="47" fill="#20252a" stroke="#20252a" stroke-width="2"/>
+</g>
+<g class="body light" text-anchor="middle">
+ <text x="360" y="690">La superposició de llums tendeix al blanc.</text>
+ <text x="360" y="724" class="small light">Vermell + verd + blau → blanc (ideal)</text>
+</g>
+<g class="body" text-anchor="middle">
+ <text x="1040" y="690">La superposició ideal de colorants tendeix al negre.</text>
+ <text x="1040" y="724" class="small">Cian + magenta + groc → negre (ideal)</text>
+</g>
+<text x="700" y="835" text-anchor="middle" class="small">Esquema conceptual. Les superposicions són una simplificació visual; les pintures comercials no reprodueixen necessàriament el model CMY ideal.</text>
+</svg>

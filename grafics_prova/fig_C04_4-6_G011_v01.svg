@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900"><defs><style>
+.t{font:700 30px Arial,sans-serif;fill:#183247}.h{font:700 21px Arial,sans-serif;fill:#28465b}.b{font:17px Arial,sans-serif;fill:#263b49}.s{font:14px Arial,sans-serif;fill:#526777}.line{stroke:#526777;stroke-width:2;fill:none}.panel{fill:#fff;stroke:#b7c7d1;stroke-width:2}
+</style></defs>
+<rect width="1400" height="900" fill="#f3f6f8"/><text x="700" y="52" text-anchor="middle" class="t">Relacions cromàtiques</text>
+<rect x="35" y="95" width="1330" height="710" rx="16" class="panel"/>
+<g transform="translate(700 445)"><circle r="245" fill="none" stroke="#d8e0e5" stroke-width="2"/>
+<path d="M0 -210 L182 -105 L182 105 L0 210 L-182 105 L-182 -105 Z" fill="none" stroke="#aebfc9" stroke-width="2"/>
+<path d="M0 -210 L0 210 M-182 -105 L182 105 M-182 105 L182 -105" stroke="#aebfc9" stroke-width="2"/>
+<circle cx="0" cy="-210" r="39" fill="#e9d33b"/><circle cx="182" cy="-105" r="39" fill="#df7436"/><circle cx="182" cy="105" r="39" fill="#b84957"/><circle cx="0" cy="210" r="39" fill="#7659a5"/><circle cx="-182" cy="105" r="39" fill="#3f80b8"/><circle cx="-182" cy="-105" r="39" fill="#5c9c68"/>
+<path d="M0 -210 L0 210" stroke="#233746" stroke-width="6"/><path d="M-182 -105 L182 105" stroke="#233746" stroke-width="6" stroke-dasharray="10 8"/>
+</g>
+<g class="b"><text x="700" y="165" text-anchor="middle">Groc</text><text x="980" y="330">Taronja</text><text x="980" y="580">Vermell</text><text x="700" y="715" text-anchor="middle">Violeta</text><text x="420" y="580" text-anchor="end">Blau</text><text x="420" y="330" text-anchor="end">Verd</text></g>
+<g class="s"><text x="130" y="760">Monocromàtica: variacions d'un mateix matís.</text><text x="700" y="760" text-anchor="middle">Anàloga: matisos veïns al cercle.</text><text x="1270" y="760" text-anchor="end">Complementària: matisos oposats.</text><text x="700" y="790" text-anchor="middle">Complementària dividida: un matís i els dos veïns del seu complementari.</text></g>
+</svg>

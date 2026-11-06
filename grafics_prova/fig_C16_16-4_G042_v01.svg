@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="900" viewBox="0 0 1500 900">
+<defs>
+ <linearGradient id="bladeBase" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c6cbd0"/><stop offset=".48" stop-color="#777f88"/><stop offset="1" stop-color="#303943"/></linearGradient>
+ <style>
+ .title{font:700 30px Arial,sans-serif;fill:#183247}.sub{font:700 21px Arial,sans-serif;fill:#28465b}.small{font:16px Arial,sans-serif;fill:#526777}.panel{fill:#fbfcfd;stroke:#b7c7d1;stroke-width:2}.step{font:18px Arial,sans-serif;fill:#233746}
+ </style>
+</defs>
+<rect width="1500" height="900" fill="#f3f6f8"/>
+<text x="750" y="52" text-anchor="middle" class="title">Construcció progressiva d'una superfície metàl·lica amb NMM</text>
+<text x="750" y="82" text-anchor="middle" class="small">Seqüència didàctica proposada; no assajada. Exemple orientatiu, no patró universal de reflexos.</text>
+<g transform="translate(30 125)">
+ <rect width="460" height="320" rx="14" class="panel"/><rect x="500" width="460" height="320" rx="14" class="panel"/><rect x="1000" width="440" height="320" rx="14" class="panel"/>
+ <rect y="355" width="460" height="320" rx="14" class="panel"/><rect x="500" y="355" width="460" height="320" rx="14" class="panel"/><rect x="1000" y="355" width="440" height="320" rx="14" class="panel"/>
+</g>
+<g class="sub" text-anchor="middle">
+ <text x="260" y="165">1 · Base cromàtica</text><text x="760" y="165">2 · Regions fosques</text><text x="1250" y="165">3 · Regions intermèdies</text>
+ <text x="260" y="520">4 · Reflexos clars</text><text x="760" y="520">5 · Accents màxims</text><text x="1250" y="520">6 · Integració i revisió</text>
+</g>
+<g transform="translate(105 205)">
+ <path d="M0 0 L270 0 L320 65 L270 125 L0 125 Z" fill="#858d95" stroke="#303943" stroke-width="3"/>
+</g>
+<g transform="translate(605 205)">
+ <path d="M0 0 L270 0 L320 65 L270 125 L0 125 Z" fill="#858d95" stroke="#303943" stroke-width="3"/>
+ <path d="M0 0 L85 0 L120 65 L80 125 L0 125 Z" fill="#202833" opacity=".85"/>
+ <path d="M225 0 L270 0 L320 65 L270 125 L245 125 Z" fill="#252d37" opacity=".9"/>
+</g>
+<g transform="translate(1105 205)">
+ <path d="M0 0 L270 0 L320 65 L270 125 L0 125 Z" fill="#858d95" stroke="#303943" stroke-width="3"/>
+ <path d="M0 0 L85 0 L120 65 L80 125 L0 125 Z" fill="#202833" opacity=".9"/>
+ <path d="M85 0 L190 0 L225 65 L190 125 L80 125 L120 65 Z" fill="#9da5ad" opacity=".8"/>
+ <path d="M225 0 L270 0 L320 65 L270 125 L245 125 Z" fill="#252d37" opacity=".9"/>
+</g>
+<g transform="translate(105 560)">
+ <path d="M0 0 L270 0 L320 65 L270 125 L0 125 Z" fill="#858d95" stroke="#303943" stroke-width="3"/>
+ <path d="M0 0 L85 0 L120 65 L80 125 L0 125 Z" fill="#202833"/>
+ <path d="M85 0 L190 0 L225 65 L190 125 L80 125 L120 65 Z" fill="#9da5ad"/>
+ <path d="M120 0 L175 0 L205 65 L175 125 L145 125 L170 65 Z" fill="#e4e8eb"/>
+</g>
+<g transform="translate(605 560)">
+ <path d="M0 0 L270 0 L320 65 L270 125 L0 125 Z" fill="#858d95" stroke="#303943" stroke-width="3"/>
+ <path d="M0 0 L85 0 L120 65 L80 125 L0 125 Z" fill="#202833"/>
+ <path d="M85 0 L190 0 L225 65 L190 125 L80 125 L120 65 Z" fill="#9da5ad"/>
+ <path d="M120 0 L175 0 L205 65 L175 125 L145 125 L170 65 Z" fill="#e4e8eb"/>
+ <path d="M170 8 L184 8 L210 65 L183 116 L175 116 L193 65 Z" fill="#fafcfd"/>
+ <path d="M15 115 L75 115 L90 125 L0 125 Z" fill="#101820"/>
+</g>
+<g transform="translate(1105 560)">
+ <path d="M0 0 L270 0 L320 65 L270 125 L0 125 Z" fill="#858d95" stroke="#303943" stroke-width="3"/>
+ <path d="M0 0 L85 0 L120 65 L80 125 L0 125 Z" fill="#202833"/>
+ <path d="M85 0 L190 0 L225 65 L190 125 L80 125 L120 65 Z" fill="#aab2b9"/>
+ <path d="M120 0 L175 0 L205 65 L175 125 L145 125 L170 65 Z" fill="#e7ebee"/>
+ <path d="M170 8 L184 8 L210 65 L183 116 L175 116 L193 65 Z" fill="#ffffff"/>
+ <path d="M15 115 L75 115 L90 125 L0 125 Z" fill="#101820"/>
+</g>
+<g class="step" text-anchor="middle">
+ <text x="260" y="385">Establir el punt de partida</text><text x="760" y="385">Separar zones d'ombra i reflex</text><text x="1250" y="385">Relacionar foscos i clars</text>
+ <text x="260" y="740">Adaptar els reflexos a la forma</text><text x="760" y="740">Reservar llums i foscos màxims</text><text x="1250" y="740">Revisar continuïtat i jerarquia</text>
+</g>
+<text x="750" y="850" text-anchor="middle" class="small">La geometria, l'escala i la direcció de llum es mantenen constants en tots els panells.</text>
+</svg>

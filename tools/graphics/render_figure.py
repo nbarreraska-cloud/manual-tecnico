@@ -70,6 +70,63 @@ def render(spec: dict) -> str:
     return svg
 
 
+
+def render_layer_sequence(spec: dict) -> str:
+    """Render a four-stage schematic on one repeated, unchanged geometry."""
+    width, height = 1600, 900
+    margin = 72
+    panel_w, panel_h, gap = 346, 500, 24
+    top = 250
+    dark, muted = "#263746", "#5B6872"
+    base = "#B8C5CE"
+    stages = spec["stages"]
+    if len(stages) != 4:
+        raise ValueError("La seqüència de capes requereix exactament quatre fases.")
+    parts = [
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title desc">',
+        f'<title id="title">{escape(spec["title"])}</title>',
+        f'<desc id="desc">{escape(spec.get("description", spec["title"]))}</desc>',
+        f'<rect width="{width}" height="{height}" fill="#FAF9F6"/>',
+        f'<text x="{margin}" y="86" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="700" letter-spacing="2" fill="{muted}">FIGURA {escape(spec["id"])}</text>',
+        f'<text x="{margin}" y="148" font-family="DejaVu Sans, Arial, sans-serif" font-size="43" font-weight="700" fill="{dark}">{escape(spec["title"])}</text>',
+        f'<text x="{margin}" y="190" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" fill="{muted}">{escape(spec.get("subtitle", ""))}</text>',
+    ]
+    for i, stage in enumerate(stages):
+        x = margin + i * (panel_w + gap)
+        y = top
+        parts.extend([
+            f'<rect x="{x}" y="{y}" width="{panel_w}" height="{panel_h}" rx="18" fill="#FFFFFF" stroke="#D8DEE3" stroke-width="2"/>',
+            f'<circle cx="{x+34}" cy="{y+38}" r="20" fill="#E8EEF2"/>',
+            f'<text x="{x+34}" y="{y+46}" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="700" fill="{dark}">{i+1}</text>',
+            f'<text x="{x+66}" y="{y+45}" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700" fill="{dark}">{escape(stage["heading"])}</text>',
+        ])
+        ox, oy = x+34, y+105
+        points = f"{ox+18},{oy+24} {ox+254},{oy+24} {ox+278},{oy+100} {ox+238},{oy+190} {ox+42},{oy+190} {ox+2},{oy+100}"
+        parts.append(f'<polygon points="{points}" fill="{base}" stroke="#344654" stroke-width="5" stroke-linejoin="round"/>')
+        if i >= 1:
+            parts.append(f'<polygon points="{ox+18},{oy+24} {ox+254},{oy+24} {ox+266},{oy+62} {ox+8},{oy+62}" fill="#829EAE" opacity="0.92"/>')
+        if i >= 2:
+            parts.extend([
+                f'<polygon points="{ox+18},{oy+24} {ox+136},{oy+24} {ox+146},{oy+190} {ox+42},{oy+190} {ox+2},{oy+100}" fill="#9EAFB9"/>',
+                f'<polygon points="{ox+136},{oy+24} {ox+254},{oy+24} {ox+278},{oy+100} {ox+238},{oy+190} {ox+146},{oy+190}" fill="#D4DDE2"/>',
+            ])
+        if i == 3:
+            parts.extend([
+                f'<path d="M {ox+136} {oy+24} L {ox+146} {oy+190}" fill="none" stroke="#344654" stroke-width="5"/>',
+                f'<path d="M {ox+18} {oy+24} L {ox+254} {oy+24} L {ox+278} {oy+100} L {ox+238} {oy+190} L {ox+42} {oy+190} L {ox+2} {oy+100} Z" fill="none" stroke="#263746" stroke-width="5" stroke-linejoin="round"/>',
+            ])
+        detail_y = y+350
+        parts.append(f'<text x="{x+24}" y="{detail_y}" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="700" fill="{dark}">{escape(stage["caption"])}</text>')
+        for j, line in enumerate(stage.get("detail_lines", [])):
+            parts.append(f'<text x="{x+24}" y="{detail_y+38+j*28}" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="{muted}">{escape(line)}</text>')
+    note = escape(spec.get("note", ""))
+    parts.append(f'<text x="{margin}" y="820" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="{muted}">{note}</text>')
+    parts.append("</svg>")
+    svg = "\n".join(parts)
+    ET.fromstring(svg)
+    return svg
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--figure", required=True, help="Figure identifier, e.g. G001")
@@ -82,7 +139,11 @@ def main() -> int:
     spec = json.loads(spec_path.read_text(encoding="utf-8"))
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     svg_path = OUT_DIR / f"{figure_id}.svg"
-    svg_path.write_text(render(spec), encoding="utf-8")
+    if spec.get("template") == "layer_sequence_4":
+        svg_content = render_layer_sequence(spec)
+    else:
+        svg_content = render(spec)
+    svg_path.write_text(svg_content, encoding="utf-8")
     print(f"SVG generat: {svg_path.relative_to(ROOT)}")
     try:
         import cairosvg

@@ -217,7 +217,7 @@ La figura s'ha comprovat com a SVG renderitzat, però encara no s'ha inserit a l
 | 2026-11-06 | Seleccionar un esquema conceptual de quatre graus d'ocultació sobre un fons clar/fosc | Definició tancada |
 | 2026-11-06 | Produir el diagrama original en SVG | Produït |
 | 2026-11-06 | Renderitzar i revisar el resultat; registrar el fitxer final | Comprovat i registrat |
-| 2026-11-06 | Corregir la ubicació lectora a 3.2.1 segons F9 | Correcció identificada; actualització F10 pendent |
+| 2026-11-06 | Corregir la ubicació lectora a 3.2.1 segons F9 | Ubicació corregida a F10 segons la maqueta |
 
 ---
 

@@ -3,7 +3,7 @@
 **Data:** 06/11/2026  
 **Branca:** `intervencion-editorial-2026-11`  
 **Font:** matriu de traçabilitat P1 F10 i fitxes editorials F10, amb correccions d'ancoratge documentades a F11.  
-**Estat actual:** quatre composicions tenen prototip vectorial v01 en revisió; les altres 146 continuen pendents d'encàrrec. Aquest registre no autoritza la inserció al manual.
+**Estat actual:** dotze composicions tenen algun prototip vectorial en revisió (quatre pilots previs i v01 addicionals per a G007, G009, G011, G012, G013, G014, G016 i G018); les altres 138 continuen pendents d'encàrrec. Aquest registre no autoritza la inserció al manual.
 
 ## 1. Control de cobertura
 
@@ -32,11 +32,11 @@
 | 4.6 / G011 | 4.9 | apartat 4.9 | E0 | «Relacions cromàtiques monocromàtiques, anàlogues, complementàries i complementàries dividides.» | [SVG v01 · prova conceptual pendent de revisió](../grafics_prova/fig_C04_4-6_G011_v01.svg) |
 | 5.1 / G012 | 5.4 | apartat 5.3.1 | E0 | Orientació dels plans respecte de la font | [SVG v01 · prova conceptual pendent de revisió](../grafics_prova/fig_C05_5-1_G012_v01.svg) |
 | 5.2 / G013 | 5.6 | apartat 5.3.2; remissió conceptual a 5.4.1 | E0 | Angle d'incidència i llei de la reflexió | [SVG v01 · prova conceptual pendent de revisió](../grafics_prova/fig_C05_5-2_G013_v01.svg) |
-| 5.3 / G014 | 5.7 | apartat 5.3.1 | E0 | Il·luminació de superfícies planes i corbes | Pendent d'encàrrec |
+| 5.3 / G014 | 5.7 | apartat 5.3.1 | E0 | Il·luminació de superfícies planes i corbes | [SVG v01 · prova conceptual pendent de revisió](../grafics_prova/fig_C05_5-3_G014_v01.svg) |
 | 5.4 / G015 | 5.11 | apartat 5.5.1 | E0 | «Diferents orientacions de superfície davant d'una mateixa font lluminosa i les normals geomètriques corresponents.» | Pendent d'encàrrec |
-| 5.5 / G016 | 5.12 | apartat 5.5.2 | E0 | Ombra pròpia i ombra projectada | Pendent d'encàrrec |
+| 5.5 / G016 | 5.12 | apartat 5.5.2 | E0 | Ombra pròpia i ombra projectada | [SVG v01 · prova conceptual pendent de revisió](../grafics_prova/fig_C05_5-5_G016_v01.svg) |
 | 5.6 / G017 | 5.13 | apartat 5.5.3 | E0 | «Angle d'incidència i angle de reflexió mesurats respecte de la normal geomètrica.» | Pendent d'encàrrec |
-| 5.7 / G018 | 5.15 | apartat 5.7 | E0 | «Distribució de la il·luminació sobre un pla d'orientació constant i una superfície corba amb normals variables.» | Pendent d'encàrrec |
+| 5.7 / G018 | 5.15 | apartat 5.7 | E0 | «Distribució de la il·luminació sobre un pla d'orientació constant i una superfície corba amb normals variables.» | [SVG v01 · prova conceptual pendent de revisió](../grafics_prova/fig_C06_6-1_G018_v01.svg) |
 | 5.8 / G019 | 5.16 | apartat 5.8.4 | E0 | Anàlisi d'il·luminació d'una miniatura | Pendent d'encàrrec |
 | 6.1 / G020 | 6.1 | apartat 6.1 | E0 | «Del material real als indicis visuals percebuts i a la seva representació pictòrica simplificada.» | Pendent d'encàrrec |
 | 6.2 / G021 | 6.4 | apartat 6.3 | E0 | Respostes òptiques dels materials | Pendent d'encàrrec |

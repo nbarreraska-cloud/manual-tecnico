@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "G012",
+  "title": "Orientació dels plans respecte de la font",
+  "subtitle": "Una mateixa font il·lumina superfícies amb orientacions diferents",
+  "description": "Representació esquemàtica d'una font comuna i de diverses superfícies amb orientacions diferents. Les línies discontínues indiquen la normal geomètrica de cada pla.",
+  "template": "light_orientation",
+  "note": "Esquema geomètric orientatiu; no representa intensitats ni valors d'il·luminació mesurats.",
+  "production_status": "family_prototype_renderable",
+  "approval_status": "not_approved_pending_visual_and_documentary_review",
+  "provenance": "Matriu P1 156 F10, origen 5.4: representació de diverses superfícies amb orientacions diferents sotmeses a una mateixa font.",
+  "evidence_note": "Esquema conceptual derivat de la composició editorial; no és una prova experimental."
+}

@@ -288,7 +288,7 @@ def render_rock_family_atlas(spec: dict) -> str:
                     parts.append(f'<circle cx="{px}" cy="{py}" r="{rr}" fill="{col}" opacity=".9"/>')
             elif kind=="basalt":
                 for j in range(64):
-                    px=sx+5+((j*37+11)%220); py=sy+5+((j*43+17)%66)
+                    px=sx+5+((j*73+j*j*17+11)%220); py=sy+5+((j*41+j*j*29+17)%66)
                     parts.append(f'<circle cx="{px}" cy="{py}" r="{1+(j%2)}" fill="#9CA2A3" opacity=".48"/>')
             elif kind in ("sandstone","limestone"):
                 for j in range(4 if kind=="sandstone" else 2):
@@ -428,7 +428,7 @@ def render_stone_texture_studies(spec: dict) -> str:
         f'<text x="72" y="870" font-family="DejaVu Sans, Arial" font-size="15" fill="{muted}">{escape(spec.get("note", ""))}</text>',
         '</svg>'
     ])
-    svg="\\n".join(p)
+    svg="\n".join(p)
     ET.fromstring(svg)
     return svg
 
@@ -453,6 +453,8 @@ def main() -> int:
         svg_content = render_biological_material_atlas(spec)
     elif spec.get("template") == "rock_family_atlas":
         svg_content = render_rock_family_atlas(spec)
+    elif spec.get("template") == "stone_texture_studies":
+        svg_content = render_stone_texture_studies(spec)
     else:
         svg_content = render(spec)
     svg_path.write_text(svg_content, encoding="utf-8")

@@ -171,7 +171,7 @@ def render_light_orientation(spec: dict) -> str:
         f'<text x="82" y="858" font-family="DejaVu Sans, Arial" font-size="18" fill="{muted}">{escape(spec.get("note", ""))}</text>',
         '</svg>'
     ])
-    svg = "\\n".join(parts)
+    svg = "\n".join(parts)
     ET.fromstring(svg)
     return svg
 

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "id": "G152",
-  "editorial_title": "9",
-  "chapter": "CV-09-01",
-  "placement": "Comparació dels procediments de construcció dels degradats",
+  "editorial_title": "Comparació dels procediments de construcció dels degradats",
+  "chapter": "9",
+  "placement": "després de 9.3.4.",
   "brief_title": "Comparació dels procediments de construcció dels degradats",
   "type": "E1 — comparació de procediments proposats.",
   "composition": "## G152 — Comparació dels procediments de construcció dels degradats\n\n**Capítol i ancoratge:** C9, després de 9.3.4 — «Combinació de procediments».  \n**Tipus:** E1 — comparació de procediments proposats.\n\n**Composició**\n- Quatre panells de dimensions equivalents, un per procediment:\n  1. mescles preparades a la paleta;\n  2. integració de colors humits;\n  3. aplicacions successives de tons intermedis;\n  4. combinació de procediments.\n- Cada panell ha d'incloure una mostra de transició, una seqüència breu de treball i una indicació gràfica del tipus d'integració.\n- La forma de prova pot ser comuna si no falseja l'operativa. Si un procediment necessita una geometria diferent per explicar-se bé, mantenir la mateixa escala visual i justificar la diferència.\n\n**Jerarquia de lectura**\nEls quatre procediments tenen el mateix rang. No destacar-ne un com a mètode superior.\n\n**Informació que ha de quedar clara**\nEl terme «degradat» no designa una única tècnica. La diferència resideix en com es preparen, es troben o s'encadenen els tons.\n\n**No representar**\nTemps d'assecat, velocitats, proporcions o resultats garantits no documentats. No simular que els quatre procediments produeixen necessàriament la mateixa qualitat o el mateix acabat.\n\n**Control de qualitat**\nEtiquetes breus i inequívoces. La transició de cada panell ha de ser prou gran per veure'n la continuïtat i els possibles passos intermedis.",

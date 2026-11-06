@@ -491,7 +491,7 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 
 ## C1 — Introducció i ús del manual
 
-### 1.2 — Classificació de la informació tècnica
+### Figura 1.1 (identificador original P1 1.2) — Classificació de la informació tècnica
 - **Ubicació:** apartat 1.5.
 - **Llegenda prevista:** «Quatre categories d'informació: fonament tècnic, dada del fabricant, proposta tècnica i resultat comprovat.»
 - **Representació:** esquema comparatiu de quatre blocs, amb una definició breu i diferenciada de cada categoria.

@@ -170,3 +170,5 @@ Les versions v01 es conserven sense sobreescriure. Les v02 s'han de renderitzar 
 
 
 - G006: [SVG v02 — RGB/CMY](../grafics_prova/fig_C04_4-1_G006_v02.svg). Nova versió amb composició alfa estàndard; pendent de renderització i revisió. La v01 es conserva.
+
+- G006: [SVG v03 — combinacions RGB/CMY explícites](../grafics_prova/fig_C04_4-1_G006_v03.svg). Es deixa de dependre de la superposició gràfica de cercles; les combinacions ideals es mostren com a resultats separats. Pendent de revisió.

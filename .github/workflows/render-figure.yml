@@ -42,6 +42,9 @@ jobs:
           python-version: "3.12"
       - name: Install SVG rasterizer
         run: python -m pip install --upgrade pip cairosvg
+      - name: Prepare specifications for all selected figures
+        if: ${{ github.event_name == 'push' || inputs.run_mode == 'batch' }}
+        run: python tools/graphics/prepare_all_specs.py
       - name: Build and audit full manifest
         if: ${{ github.event_name == 'push' || inputs.run_mode == 'batch' }}
         run: |

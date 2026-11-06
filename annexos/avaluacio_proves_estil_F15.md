@@ -295,3 +295,8 @@ La preparació documental no s'ha de confondre amb l'execució de les proves ni 
 S'ha creat `matriu_seleccio_mostres_G003.md` després de contrastar l'annex A i les fitxes individuals de sis referències candidates: quatre Model Color i dues Game Color Ink. La matriu diferencia les declaracions de família de les propietats individuals no documentades. No classifica prèviament cap pintura com a opaca, semiopaca, semitransparent o transparent.
 
 La selecció és provisional i no confirma disponibilitat física. La via E0 de F14 continua sent l'alternativa si no es realitza la prova; la via E2 només és admissible amb mostres reals identificades, fotografies originals i condicions registrades. F14 s'ha ajustat a l'ancoratge lector 3.2.1 i a aquests límits d'evidència.
+
+
+## 15. Aclariment de la naturalesa E1 de G042
+
+La consulta de F12 confirma que E1 significa procediment o seqüència proposats i no assajats. Per tant, la prova física descrita al protocol G042 és complementària i no és un requisit per produir la figura 16.4. G042 es pot redissenyar com una seqüència vectorial didàctica, sempre identificada com a proposta no assajada. La nova versió ha de corregir la lectura genèrica de la v01 i fer visible la relació entre geometria, patró de reflexos i sis funcions del procediment 16.5.2–16.5.7. La v01 es conserva i no s'aprova.

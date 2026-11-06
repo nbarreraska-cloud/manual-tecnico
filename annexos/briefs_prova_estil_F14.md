@@ -159,3 +159,11 @@ S'han creat quatre prototips SVG editables, separats i sense incorporar-los al m
 - [Figura 34.1 / G110 — Tipus de vidre](../grafics_prova/fig_C34_34-1_G110_v01.svg).
 
 Els quatre prototips es mantenen en estat de revisió, no d'aprovació. Els SVG són màsters vectorials editables de prova, no exportacions finals maquetades.
+
+
+## Actualització de prototips — iteració v02
+
+- G003: [SVG v02 — alternativa conceptual E0](../grafics_prova/fig_C03_3-1_G003_v02.svg). No representa mostres reals ni classifica pintures comercials.
+- G042: [SVG v02 — seqüència E1 proposada no assajada](../grafics_prova/fig_C16_16-4_G042_v02.svg). La mateixa geometria es manté als sis panells; la seqüència no és una execució documentada.
+
+Les versions v01 es conserven sense sobreescriure. Les v02 s'han de renderitzar i revisar a mida de pàgina abans de qualsevol aprovació.

@@ -509,19 +509,13 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 
 ## C3 — Propietats i comportament de les pintures
 
-### 3.1 — Comportament d'opacitat i transparència de les pintures
-- **Ubicació corregida:** apartat 3.2.1.
-- **Llegenda prevista:** «Comparació orientativa dels graus d'opacitat i transparència sobre un suport contrastat, amb diferenciació de la capacitat de cobertura.»
-- **Representació:** quatre mostres esquemàtiques —opaca, semiopaca, semitransparent i transparent— sobre un mateix suport de prova amb zones clares i fosques. Un segon panell diferencia una capa distribuïda uniformement d'una cobertura irregular.
-- **Funció didàctica:** distingir l'ocultació del fons, la visibilitat del fons a través de la capa i la continuïtat i uniformitat de la cobertura.
-- **Límits:** no convertir els comportaments en categories comercials rígides ni en llindars universals; no confondre opacitat, transparència i cobertura. La representació és esquemàtica, no una prova de productes ni una caracterització de les 48 pintures. Les comparacions pressuposen un suport, un gruix aproximat de pel·lícula i unes condicions d'aplicació equivalents.
-
-### 3.2 — Influència del fons en una mateixa capa de pintura
+### 3.1 — Opacitat, transparència, cobertura i influència del fons
+- **Identificadors integrats:** 3.1 i 3.2 (figures de treball G003 i G004).
 - **Ubicació:** apartat 3.2.1.
-- **Llegenda prevista:** «Una mateixa capa de pintura transparent o semitransparent sobre fons blanc, gris i negre.»
-- **Representació:** tres panells equivalents que només variïn el color del fons.
-- **Funció didàctica:** mostrar com el fons modifica l'aparença de la capa i la lectura del seu color.
-- **Límits:** si no hi ha fotografies de mostres físiques documentades, identificar-ho com a esquema conceptual; no atribuir resultats a un producte concret.
+- **Llegenda prevista:** «Opacitat, transparència i cobertura: ocultació del fons, influència del seu valor en una mateixa capa i uniformitat de l'aplicació.»
+- **Representació:** una làmina conceptual coordinada amb tres zones: (A) quatre comportaments orientatius —opaca, semiopaca, semitransparent i transparent— sobre un suport contrastat; (B) una mateixa capa transparent o semitransparent sobre fons blanc, gris i negre; (C) comparació entre una aplicació uniforme i una d'irregular.
+- **Funció didàctica:** diferenciar quant s'oculta el fons, com el valor del suport modifica l'aparença de la mateixa capa i fins a quin punt la pintura cobreix la superfície de manera contínua i uniforme.
+- **Límits:** no convertir els comportaments en categories comercials rígides ni en llindars universals; no confondre opacitat, transparència i cobertura. La representació és esquemàtica, no una prova de productes, una mesura cromàtica ni una caracterització de les 48 pintures. Les comparacions pressuposen un suport, un gruix aproximat de pel·lícula i unes condicions d'aplicació equivalents. Si no hi ha fotografies de mostres físiques documentades, no presentar el resultat com una observació experimental.
 
 ### 3.3 — Distribució de la pintura sobre relleus i cavitats
 - **Ubicació:** apartat 3.3.

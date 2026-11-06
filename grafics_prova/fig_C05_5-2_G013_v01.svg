@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900"><defs><style>
+.t{font:700 30px Arial,sans-serif;fill:#183247}.h{font:700 21px Arial,sans-serif;fill:#28465b}.b{font:17px Arial,sans-serif;fill:#263b49}.s{font:14px Arial,sans-serif;fill:#526777}.line{stroke:#526777;stroke-width:2;fill:none}.panel{fill:#fff;stroke:#b7c7d1;stroke-width:2}
+</style></defs>
+<rect width="1400" height="900" fill="#f3f6f8"/><text x="700" y="52" text-anchor="middle" class="t">Angle d'incidència i llei de la reflexió</text>
+<rect x="35" y="95" width="1330" height="710" rx="16" class="panel"/>
+<path d="M180 590 H1220" stroke="#526777" stroke-width="5"/><text x="1200" y="625" class="b">Superfície reflectora</text>
+<path d="M700 180 V690" stroke="#d34b43" stroke-width="3" stroke-dasharray="10 8"/><text x="720" y="190" class="b">Normal</text>
+<path d="M350 260 L700 590" stroke="#d3a52d" stroke-width="7" fill="none"/><path d="M700 590 L1050 260" stroke="#3688bd" stroke-width="7" fill="none"/>
+<path d="M650 542 A70 70 0 0 1 700 520" stroke="#d3a52d" stroke-width="4" fill="none"/><path d="M700 520 A70 70 0 0 1 750 542" stroke="#3688bd" stroke-width="4" fill="none"/>
+<g class="b"><text x="365" y="235">Raig incident</text><text x="1045" y="235">Raig reflectit</text><text x="530" y="535">θi</text><text x="825" y="535">θr</text></g>
+<text x="700" y="730" text-anchor="middle" class="h">θi = θr</text><text x="700" y="765" text-anchor="middle" class="s">Els angles es mesuren respecte de la normal, no respecte de la superfície.</text>
+</svg>

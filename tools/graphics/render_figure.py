@@ -103,13 +103,14 @@ def render_layer_sequence(spec: dict) -> str:
         ox, oy = x+34, y+105
         points = f"{ox+18},{oy+24} {ox+254},{oy+24} {ox+278},{oy+100} {ox+238},{oy+190} {ox+42},{oy+190} {ox+2},{oy+100}"
         parts.append(f'<polygon points="{points}" fill="{base}" stroke="#344654" stroke-width="5" stroke-linejoin="round"/>')
-        if i >= 1:
-            parts.append(f'<polygon points="{ox+18},{oy+24} {ox+254},{oy+24} {ox+266},{oy+62} {ox+8},{oy+62}" fill="#829EAE" opacity="0.92"/>')
         if i >= 2:
             parts.extend([
                 f'<polygon points="{ox+18},{oy+24} {ox+136},{oy+24} {ox+146},{oy+190} {ox+42},{oy+190} {ox+2},{oy+100}" fill="#9EAFB9"/>',
                 f'<polygon points="{ox+136},{oy+24} {ox+254},{oy+24} {ox+278},{oy+100} {ox+238},{oy+190} {ox+146},{oy+190}" fill="#D4DDE2"/>',
             ])
+        # Keep the later application visible above the differentiated planes.
+        if i >= 1:
+            parts.append(f'<polygon points="{ox+18},{oy+24} {ox+254},{oy+24} {ox+266},{oy+62} {ox+8},{oy+62}" fill="#829EAE" opacity="0.92"/>')
         if i == 3:
             parts.extend([
                 f'<path d="M {ox+136} {oy+24} L {ox+146} {oy+190}" fill="none" stroke="#344654" stroke-width="5"/>',

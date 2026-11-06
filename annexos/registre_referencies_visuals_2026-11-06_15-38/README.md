@@ -348,7 +348,7 @@ El fitxer s'ha renderitzat i revisat fora de la maqueta. Encara no s'ha inserit 
 | 2026-11-06 | Reservar la comprovació de mida d’impressió per a la fase d’inserció | Pendent |
 ---
 
-## G036 — Figura 15.3. Mapa d'il·luminació i mapa de valors
+## G036 — Figura 15.2. Mapa d'il·luminació i mapa de valors
 
 **Data del registre:** 2026-11-06  
 **Capítol:** 15  
@@ -370,7 +370,7 @@ La composició manté els dos mapes separats i els presenta en paral·lel per ev
 
 ### Fitxer final
 
-[Obrir G036 — SVG](G036_figura_15_3_mapa_valors.svg)
+[Obrir G036 — SVG](G036_figura_15_2_mapa_valors.svg)
 
 ### Control tècnic i editorial
 

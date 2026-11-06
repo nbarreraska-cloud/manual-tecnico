@@ -437,7 +437,25 @@ def render_stone_texture_studies(spec: dict) -> str:
     return svg
 
 
-def main() -> int:
+
+def render_crystal_morphology_atlas(spec: dict) -> str:
+    title = escape(spec.get("title", "Estructures i morfologies de cristalls naturals"))
+    note = escape(spec.get("note", "Esquema morfològic conceptual; no és una representació cristal·logràfica a escala."))
+    p = ['<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">',
+         '<rect width="1600" height="900" fill="#F7F8F6"/>',
+         f'<text x="72" y="82" font-family="DejaVu Sans, Arial" font-size="38" font-weight="700" fill="#26343B">{title}</text>',
+         '<text x="74" y="119" font-family="DejaVu Sans, Arial" font-size="17" fill="#64727A">Forma i creixement · agrupació · irregularitat i inclusions</text>']
+    for x, label in [(72,"CRISTALLS PRISMÀTICS"),(574,"AGRUPACIONS I CREIXEMENT"),(1076,"FORMES IRREGULARS")]:
+        p += [f'<rect x="{x}" y="155" width="452" height="590" rx="16" fill="#FFFFFF" stroke="#C8D1D3" stroke-width="2"/>',f'<text x="{x+22}" y="195" font-family="DejaVu Sans, Arial" font-size="19" font-weight="700" fill="#34444B">{label}</text>']
+    p += ['<path d="M190 590 L190 365 L255 270 L345 350 L345 590 Z" fill="#B8D2D9" stroke="#536B76" stroke-width="4"/>','<path d="M190 365 L255 270 L255 510 L190 590 Z" fill="#DDE9E9" stroke="#536B76" stroke-width="3"/>','<path d="M255 270 L345 350 L345 590 L255 510 Z" fill="#83AAB8" stroke="#536B76" stroke-width="3"/>','<path d="M255 270 L255 510 M345 350 L255 510" stroke="#EAF4F2" stroke-width="4"/>','<path d="M205 395 L205 550 M218 375 L218 540 M326 385 L326 560" stroke="#6F98A7" stroke-width="2"/>','<text x="105" y="640" font-family="DejaVu Sans, Arial" font-size="16" fill="#34444B">Cares, arestes i terminació</text>']
+    p += ['<path d="M650 590 L650 430 L700 350 L755 425 L755 590 Z" fill="#B6CDD2" stroke="#536B76" stroke-width="3"/>','<path d="M700 350 L755 425 L700 480 L650 430 Z" fill="#E0ECEB" stroke="#536B76" stroke-width="3"/>','<path d="M755 590 L755 405 L820 300 L880 395 L880 590 Z" fill="#86AEBB" stroke="#536B76" stroke-width="3"/>','<path d="M820 300 L880 395 L815 465 L755 405 Z" fill="#D5E4E4" stroke="#536B76" stroke-width="3"/>','<path d="M880 590 L880 475 L935 405 L985 470 L985 590 Z" fill="#A7C4CB" stroke="#536B76" stroke-width="3"/>','<path d="M935 405 L985 470 L930 515 L880 475 Z" fill="#E6EFED" stroke="#536B76" stroke-width="3"/>','<text x="615" y="640" font-family="DejaVu Sans, Arial" font-size="16" fill="#34444B">Cares ocultes i ombres entre cristalls</text>']
+    p += ['<path d="M1185 555 L1170 455 L1215 370 L1270 330 L1330 360 L1395 430 L1380 535 L1315 610 L1230 600 Z" fill="#9DBBC2" stroke="#536B76" stroke-width="4"/>','<path d="M1170 455 L1270 330 L1260 480 L1185 555 Z" fill="#DCE9E7" stroke="#536B76" stroke-width="2"/>','<path d="M1270 330 L1330 360 L1395 430 L1310 485 L1260 480 Z" fill="#B6D0D3" stroke="#536B76" stroke-width="2"/>','<path d="M1260 480 L1310 485 L1380 535 L1315 610 L1230 600 L1185 555 Z" fill="#789DAA" stroke="#536B76" stroke-width="2"/>','<path d="M1200 430 Q1260 390 1335 415" stroke="#6F929C" stroke-width="4" fill="none"/>','<ellipse cx="1335" cy="545" rx="12" ry="7" fill="#4E6570" stroke="#E4EEEE" stroke-width="2"/>','<path d="M1300 505 L1335 545 L1360 570" stroke="#526D79" stroke-width="2" fill="none"/>','<text x="1110" y="640" font-family="DejaVu Sans, Arial" font-size="16" fill="#34444B">Bandes, fractura i inclusió selectiva</text>','<text x="1110" y="680" font-family="DejaVu Sans, Arial" font-size="14" fill="#64727A">No és una gemma tallada ni un poliedre perfecte</text>']
+    p += ['<rect x="72" y="775" width="1456" height="52" rx="9" fill="#E8EEF0"/>','<text x="94" y="807" font-family="DejaVu Sans, Arial" font-size="17" font-weight="700" fill="#34444B">La forma i l’organització de les cares identifiquen el cristall; el color i la brillantor no són suficients.</text>',f'<text x="72" y="866" font-family="DejaVu Sans, Arial" font-size="14" fill="#64727A">{note}</text>','</svg>']
+    svg = "\\n".join(p)
+    ET.fromstring(svg)
+    return svg
+
+\ndef main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--figure", required=True, help="Figure identifier, e.g. G001")
     args = parser.parse_args()

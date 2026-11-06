@@ -214,3 +214,5 @@ Tots dos prototips resten en revisió tècnica. La creació dels SVG no equival 
 
 
 - G006: [SVG v02](../grafics_prova/fig_C04_4-1_G006_v02.svg). La versió utilitza composició alfa SVG estàndard en lloc de modes de fusió no suportats pel renderitzador anterior. Pendent de renderització i revisió; la v01 es conserva.
+
+- G006: [SVG v03](../grafics_prova/fig_C04_4-1_G006_v03.svg). La v02 s'ha descartat com a solució final perquè la composició alfa seqüencial no representava mescles additiva i sostractiva amb prou fidelitat. La v03 presenta explícitament les combinacions ideals en mostres separades; pendent de renderització i revisió.

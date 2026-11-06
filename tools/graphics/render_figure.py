@@ -352,6 +352,8 @@ def main() -> int:
         svg_content = render_light_orientation(spec)
     elif spec.get("template") == "biological_material_atlas":
         svg_content = render_biological_material_atlas(spec)
+    elif spec.get("template") == "rock_family_atlas":
+        svg_content = render_rock_family_atlas(spec)
     else:
         svg_content = render(spec)
     svg_path.write_text(svg_content, encoding="utf-8")

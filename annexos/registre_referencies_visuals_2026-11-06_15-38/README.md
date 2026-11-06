@@ -556,3 +556,25 @@ Làmina original de tres panells independents:
 - SVG recuperat i estructura, tres panells i etiquetes identificatives comprovats textualment. No es declara inspecció visual del renderitzat. La llegibilitat final s'ha de validar després de la inserció a la còpia de maquetació.
 
 ---
+
+## G072 + G074 — Figures 22.2 i 22.6. Tipus de cuir, plecs i deformacions
+
+**Capítol:** 22 — Cuir i pells. **Ubicació F9:** pàgines 164–166. **Fitxes F10:** C22, 22.2 + 22.5 i 22.6; ubicacions 22.2 i 22.9.  
+**Estat:** SVG produït i pujat; verificació estructural posterior completada. Renderització visual i mida d'impressió pendents.
+
+### Objectiu i composició
+Una làmina original de dos panells coordinats:
+1. **G072 / Figura 22.2 — Tipus de cuir:** comparació de cuir de gra natural, cuir de gra corregit, ante i nobuk. Inclou un detall comparatiu de les dues superfícies afelpades. El cuir natural conserva irregularitats discretes; el corregit és més regular; l'ante mostra una textura fibrosa i difusa; el nobuk manté una lectura fina més pròxima al gra.
+2. **G074 / Figura 22.6 — Plecs i deformacions:** exemples esquemàtics de flexió d'una corretja, compressió, tensió i deformació. Els plecs s'interpreten en relació amb la geometria, el gruix i els punts de subjecció.
+
+### Fitxer
+[G072–G074 — Tipus de cuir, plecs i deformacions (SVG)](G072-G074_figures_22_2-22_6_cuir_plecs.svg)
+
+### Límits i comprovació
+- La distinció entre ante i nobuk és orientativa i pot variar segons el producte; no es basa només en el color.
+- No s'atribueix brillantor a superfícies afelpades ni es representa el cuir corregit necessàriament com a brillant.
+- Els plecs no són un patró universal: corretges, botes, guants i bosses responen a geometries i usos diferents.
+- No s'han utilitzat imatges externes; els esquemes i textos són originals i en català.
+- SVG recuperat i estructura, títol, panells i etiquetes identificatives comprovats textualment. No es declara inspecció visual del renderitzat. La llegibilitat final s'ha de validar després de la inserció a la còpia de maquetació.
+
+---

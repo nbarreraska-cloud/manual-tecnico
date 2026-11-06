@@ -116,7 +116,7 @@ Si les fases 5 i 6 són visualment idèntiques, no s'han de mantenir com a dos p
 
 El prototip SVG v01 no queda aprovat. F15 conclou que la peça es llegeix com una superfície grisa amb bandes tonals genèriques, que els panells 5 i 6 gairebé no es diferencien i que la integració no es percep com una fase pròpia.
 
-Per tant, no s'ha de retocar simplement la paleta del SVG actual. Primer cal executar i documentar la prova sobre una peça real. Després es podrà redissenyar la figura a partir de les fotografies i de la distribució de reflexos realment utilitzada. El SVG v01 es conserva com a antecedent, no com a base aprovada.
+Per tant, no s'ha de retocar simplement la paleta del SVG actual. El redisseny E1 s'ha de desenvolupar a partir del capítol 16 i d'un patró de reflexos justificat per la geometria de la peça, mantenint la indicació «proposta no assajada». Una execució física futura pot aportar fotografies complementàries, però no és condició per al redisseny. El SVG v01 es conserva com a antecedent, no com a base aprovada.
 
 ## 10. Estat i decisió
 

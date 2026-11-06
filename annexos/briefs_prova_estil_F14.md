@@ -37,12 +37,12 @@ El lector ha d'entendre en una sola mirada que són dos processos diferents. Si 
 ## 3. Pilot B — Figura 3.1 / G003 — E2 amb alternativa E0 obligatòria
 
 **P1 d'origen:** 3.1  
-**Ubicació lectora:** apartat 3.1  
+**Ubicació lectora:** apartat 3.2.1  
 **Llegenda prevista:** «Comparació de pintures opaques, semiopàques, semitransparents i transparents sobre un mateix fons.»
 
 ### Encàrrec visual sense prova física
 
-Com que no hi ha mostres físiques documentades a la branca, produir una escala conceptual de quatre comportaments sobre un mateix patró de fons neutre.
+Com que no hi ha mostres físiques documentades a la branca, produir una escala conceptual de quatre comportaments sobre un mateix patró de fons neutre. Aquesta és l'alternativa E0, no una representació de les sis pintures candidates de la matriu G003.
 
 - Repetir exactament el mateix fons i la mateixa forma de mostra als quatre camps.
 - Variar només el grau d'ocultació/transmissió visual de la capa representada.
@@ -52,11 +52,15 @@ Com que no hi ha mostres físiques documentades a la branca, produir una escala 
 
 ### Elements que s'han de maquetar després
 
-Etiquetes de les quatre descripcions de la llegenda i una nota discreta «Esquema conceptual; no correspon a mostres de productes». La nota és obligatòria mentre no hi hagi proves físiques.
+Etiquetes descriptives, sense assignar categories tècniques a cap producte, i una nota discreta «Esquema conceptual; no correspon a mostres de productes». La nota és obligatòria mentre no hi hagi proves físiques.
 
 ### Criteri d'acceptació
 
-La imatge ha de comunicar diferències de comportament, no fingir una comparació experimental. Si sembla una fotografia de quatre mostres reals, s'ha de rebutjar.
+La imatge ha de comunicar diferències conceptuals de comportament, no fingir una comparació experimental ni establir llindars universals. Si sembla una fotografia de mostres reals o atribueix categories a productes concrets, s'ha de rebutjar.
+
+### Via de prova física documentada
+
+La selecció de productes candidats i els seus límits documentals consten a [Matriu de selecció de mostres G003](matriu_seleccio_mostres_G003.md). La prova física, si s'executa, ha de documentar les mostres reals sense assignar-ne prèviament la categoria. La via E2 només es podrà mantenir si les fotografies i el registre compleixen el protocol [G003](protocol_prova_fisica_G003.md).
 
 ## 4. Pilot C — Figura 16.4 / G042 — E1
 

@@ -641,3 +641,64 @@ La imatge final s'ha de generar en una plataforma externa a ChatGPT. No s'utilit
 | 2026-11-06 | Substituir el plantejament de diagrama SVG per una il·lustració digital generada externament, amb anotacions afegides després | Via de producció definida |
 | 2026-11-06 | Preparar prompt i criteris de validació; no generar dins de ChatGPT | Brief preparat; producció externa pendent |
 
+## G083 + G084 — Figures 24.2 i 24.3. Pigmentacions de la pell i mapa cromàtic del rostre
+
+**Capítol:** 24 — Pell, carn i teixits orgànics. **Ubicació F9:** pàgines 176–178. **Fitxes F10:** C24, 24.2 (ubicacions 24.2 i 24.4–24.5) i 24.3 (ubicació 24.7).  
+**Estat:** contingut i ancoratges contrastats; brief per a generació externa preparat. Producció, revisió visual i validació d'impressió pendents.
+
+### Objectiu didàctic
+
+D'una banda, comparar diferents aparences de pell a partir de variacions de matís, valor i temperatura, sense convertir les pigmentacions clares, intermèdies i profundes en categories biològiques tancades. De l'altra, mostrar com es poden estudiar les variacions cromàtiques locals d'un rostre concret, sense presentar-ne la distribució com un mapa universal.
+
+### Decisió visual
+
+Una làmina editorial de dos panells coordinats:
+
+1. **G083 / Figura 24.2 — Pigmentacions:** tres bustos o caps de referència amb aparences de pell clara, intermèdia i profunda. Il·luminació, enquadrament i tractament gràfic equivalents per facilitar la comparació. Cada pell ha de tenir una identitat cromàtica pròpia, amb variacions locals discretes; no s'ha de representar la diferència com un simple canvi de lluminositat ni assignar una temperatura fixa a cada nivell.
+2. **G084 / Figura 24.3 — Mapa cromàtic facial:** un únic rostre de referència, repetit en dues vistes coordinades: retrat amb coloració natural i mapa esquemàtic de les seves variacions locals. Les zones poden incloure galtes, nas, orelles, front i contorn de la boca, però la distribució s'ha de justificar per la referència visual concreta i la il·luminació triada.
+
+La il·lustració generada no ha d'incloure text, llegendes, fletxes ni símbols. Aquests elements s'afegiran posteriorment en edició vectorial.
+
+### Brief per al generador extern
+
+**Prompt principal:**
+
+> Create a premium scientific-art textbook illustration plate about skin pigmentation and local facial color variation, in a refined digital editorial illustration style. Wide landscape layout on a clean warm off-white background, divided into two clearly separated panels with generous whitespace. No text or labels.
+>
+> LEFT PANEL — three carefully rendered neutral portrait busts, front-facing and identically framed, representing three different skin appearances: light, intermediate and deep pigmentation. Keep lighting direction, exposure, camera angle, facial expression and rendering style consistent across all three. Each complexion must have its own coherent range of hue, value and chromatic temperature, with subtle natural local variations. Do not make them a simple brightness scale, do not assign a fixed warm/cool undertone to any pigmentation level, and do not use racial or ethnic stereotypes. Preserve believable skin color richness; avoid chalky highlights, greyed-out shadows or oversaturated patches.
+>
+> RIGHT PANEL — one fictional, naturalistic face with a medium warm-neutral complexion, shown twice at the same scale and angle. First view: a restrained, natural portrait with coherent skin color and soft studio lighting. Second view: a clean chromatic study of exactly the same face, showing subtle localized shifts of hue and temperature in selected areas such as cheeks, nose, ears, forehead and around the mouth. The color map must follow the facial anatomy and the same lighting as the portrait. Use translucent, softly bounded color zones integrated with the underlying skin, not makeup, painted stripes or disconnected spots. Keep the base complexion visible.
+>
+> High-quality anatomy and facial proportions, realistic but clearly illustrative, controlled tonal hierarchy, nuanced skin color, restrained detail, elegant scientific textbook art direction, consistent soft light from upper left, crisp and readable at printed page size. The two right-hand faces must be unmistakably the same reference face and the same lighting setup.
+>
+> No text, no lettering, no numbers, no arrows, no icons, no watermark, no borders between subpanels beyond clean spacing, no beauty-ad retouching, no exaggerated blush, no dramatic colored lighting, no plastic skin, no pore macro photography, no makeup effects.
+
+**Exclusions / negative prompt:** racial labels or stereotyped facial traits; a single fixed undertone for each pigmentation level; making the three complexions differ only in brightness; excessive red or yellow patches; uniform white highlights; grey shadows that erase the base hue; map zones that look like makeup; arbitrary colored dots; different lighting between portrait and map; mismatched faces between the two map views; text or pseudo-text.
+
+### Criteris de validació de la imatge generada
+
+- Les tres pigmentacions s'han de diferenciar per matís, valor i temperatura, no només per claredat.
+- No s'han d'associar categories de pigmentació a grups ètnics ni a temperatures cromàtiques fixes.
+- Les variacions locals han de ser discretes i no fragmentar la superfície.
+- El rostre i el mapa han de correspondre exactament a la mateixa referència i il·luminació.
+- El mapa no s'ha de presentar com una distribució universal: és l'estudi d'un únic rostre concret.
+- Les zones de color han de seguir els volums anatòmics i integrar-se en la pigmentació de base.
+- Afegir posteriorment, en català, només les etiquetes necessàries: «pigmentació clara», «pigmentació intermèdia», «pigmentació profunda», «variació local», «matís», «valor» i «temperatura cromàtica».
+- Revisar especialment que les anotacions no suggereixin que totes les pells comparteixen la mateixa distribució de variacions.
+
+### Límit tècnic
+
+La comparació de pigmentacions és orientativa i no defineix categories biològiques tancades. El mapa facial correspon a una referència concreta i no s'ha de generalitzar a altres rostres, pigmentacions o condicions d'il·luminació.
+
+### Procedència i drets d'ús
+
+La imatge final s'ha de generar en una plataforma externa a ChatGPT. No s'utilitzarà ImageGen ni cap generador integrat a ChatGPT. Cal conservar el prompt, identificar l'eina externa i registrar la versió final seleccionada i les condicions d'ús aplicables.
+
+### Historial de decisions
+
+| Data | Decisió | Estat |
+|---|---|---|
+| 2026-11-06 | Contrastar C24, identificadors 24.2 i 24.3, amb el capítol 24 i les ubicacions F10 | Contingut i ancoratges verificats |
+| 2026-11-06 | Consolidar la comparació de pigmentacions i el mapa facial en dos panells diferenciats | Composició definida |
+| 2026-11-06 | Preparar prompt i criteris per a generació externa, amb anotacions posteriors en català | Brief preparat; producció externa pendent |
+

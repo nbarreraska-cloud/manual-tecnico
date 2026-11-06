@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1080" viewBox="0 0 1800 1080" role="img" aria-labelledby="title desc">
+<title id="title">Tipus de cuir, plecs i deformacions</title>
+<desc id="desc">Dues làmines coordinades: comparació de quatre superfícies de cuir i detalls de plecs, compressió, tensió i deformació segons la geometria.</desc>
+<defs>
+<style>
+.bg{fill:#f7f5ef}.panel{fill:#fff;stroke:#c9c5ba;stroke-width:2}.head{font:700 29px sans-serif;fill:#252a27}.sub{font:600 20px sans-serif;fill:#343b35}.lab{font:17px sans-serif;fill:#414941}.small{font:15px sans-serif;fill:#5e655d}.edge{stroke:#47382e;stroke-width:3;fill:none;stroke-linejoin:round;stroke-linecap:round}.grain{stroke:#9c7858;stroke-width:2;fill:none;stroke-linecap:round}.fib{stroke:#b7a28a;stroke-width:2;fill:none;stroke-linecap:round}.nub{stroke:#8d6f53;stroke-width:1.5;fill:none;stroke-linecap:round}.fold{stroke:#55443a;stroke-width:4;fill:none;stroke-linecap:round;stroke-linejoin:round}.light{stroke:#e1c39d;stroke-width:5;fill:none;stroke-linecap:round}.arrow{stroke:#5b6b61;stroke-width:2.5;fill:none;stroke-linecap:round}.hide{fill:#6d4934}.leather{fill:#b58a5c;stroke:#75553d;stroke-width:3}.corrected{fill:#9b704c;stroke:#664a37;stroke-width:3}.suede{fill:#b99a78;stroke:#82694f;stroke-width:3}.nubuck{fill:#aa805d;stroke:#76553c;stroke-width:3}
+</style>
+</defs>
+<rect class="bg" width="1800" height="1080"/>
+<text x="65" y="62" class="head" style="font-size:35px">CUIR: SUPERFÍCIES, PLECS I DEFORMACIONS</text>
+<text x="65" y="96" class="small">Comparacions esquemàtiques · la lectura depèn del gra, l'acabat, el gruix, la flexibilitat i la geometria</text>
+
+<!-- panel 1 -->
+<rect class="panel" x="55" y="135" width="820" height="870" rx="18"/>
+<text x="85" y="185" class="head">G072 · Figura 22.2</text>
+<text x="85" y="218" class="sub">Tipus de cuir i resposta superficial</text>
+<!-- four samples -->
+<rect class="leather" x="100" y="275" width="310" height="190" rx="10"/>
+<g class="grain">
+<path d="M125 310 Q145 296 160 316 T195 310 M225 345 Q245 329 265 348 T305 340 M145 395 Q160 382 178 400 M300 420 Q315 405 337 422"/>
+<path d="M180 290 Q190 280 200 297 M350 370 Q362 357 375 374 M250 390 Q265 380 277 397"/>
+</g>
+<text x="100" y="500" class="sub">Cuir de gra natural</text>
+<text x="100" y="526" class="small">Irregularitats i porus discrets</text>
+
+<rect class="corrected" x="490" y="275" width="310" height="190" rx="10"/>
+<g stroke="#c19b76" stroke-width="2" opacity=".7">
+<path d="M515 310 L775 310 M515 340 L775 340 M515 370 L775 370 M515 400 L775 400 M515 430 L775 430"/>
+</g>
+<text x="490" y="500" class="sub">Cuir de gra corregit</text>
+<text x="490" y="526" class="small">Superfície més regular o tractada</text>
+
+<rect class="suede" x="100" y="590" width="310" height="190" rx="10"/>
+<g class="fib">
+<path d="M125 620 l-8 -9 M155 650 l-10 -8 M195 625 l-8 -12 M225 680 l-9 -10 M270 630 l-8 -11 M320 665 l-10 -8 M355 620 l-8 -12 M145 725 l-9 -10 M205 740 l-10 -8 M300 730 l-8 -10 M370 710 l-10 -9"/>
+<path d="M130 690 l9 -9 M180 705 l8 -11 M250 620 l8 -10 M285 700 l9 -10 M340 750 l8 -10"/>
+</g>
+<text x="100" y="815" class="sub">Ante</text>
+<text x="100" y="841" class="small">Fibra vellutada i reflexió difusa</text>
+
+<rect class="nubuck" x="490" y="590" width="310" height="190" rx="10"/>
+<g class="nub">
+<path d="M515 620 q8 -5 15 0 t15 0 M570 650 q8 -5 15 0 t15 0 M640 625 q8 -5 15 0 t15 0 M700 670 q8 -5 15 0 t15 0 M545 715 q8 -5 15 0 t15 0 M620 745 q8 -5 15 0 t15 0 M730 730 q8 -5 15 0 t15 0"/>
+</g>
+<text x="490" y="815" class="sub">Nobuk</text>
+<text x="490" y="841" class="small">Textura fina, lectura més pròxima al gra</text>
+
+<rect x="100" y="885" width="700" height="75" rx="10" fill="#f1eee6" stroke="#d3cfc4"/>
+<text x="125" y="916" class="lab">Detall comparatiu: ante i nobuk</text>
+<text x="125" y="941" class="small">L'ante suggereix fibra més visible; el nobuk conserva una lectura fina de la cara de gra.</text>
+
+<!-- panel 2 -->
+<rect class="panel" x="920" y="135" width="825" height="870" rx="18"/>
+<text x="950" y="185" class="head">G074 · Figura 22.6</text>
+<text x="950" y="218" class="sub">Plecs, compressions, tensions i deformacions</text>
+<!-- strap with fold -->
+<text x="970" y="275" class="lab">Flexió d'una corretja</text>
+<path class="leather" d="M980 310 L1645 310 L1645 385 L980 385 Q1080 385 1110 345 Q1140 310 1190 310 L1240 310 Q1280 310 1310 345 Q1340 385 1400 385 L1645 385 L1645 460 L980 460Z"/>
+<path class="light" d="M990 325 L1090 325 Q1125 325 1150 355 M1250 325 Q1280 325 1305 355"/>
+<path class="fold" d="M1100 310 Q1135 360 1100 385 M1305 310 Q1270 360 1305 385"/>
+<text x="980" y="495" class="small">La direcció dels plecs segueix la flexió i els punts de subjecció.</text>
+
+<!-- compression / tension -->
+<g transform="translate(970 550)">
+<text x="0" y="0" class="lab">Compressió</text>
+<path class="leather" d="M0 40 Q55 10 105 40 Q155 70 210 40 L210 155 Q155 185 105 155 Q55 125 0 155Z"/>
+<path class="fold" d="M55 38 Q80 75 55 112 M105 40 Q130 78 105 155 M155 40 Q180 78 155 155"/>
+<path class="arrow" d="M-15 95 L25 95 M195 95 L235 95 M25 95 l-10 -7 M25 95 l-10 7 M195 95 l10 -7 M195 95 l10 7"/>
+<text x="0" y="190" class="small">Plecs més propers</text>
+</g>
+<g transform="translate(1260 550)">
+<text x="0" y="0" class="lab">Tensió</text>
+<path class="leather" d="M0 55 Q90 15 180 55 L180 145 Q90 185 0 145Z"/>
+<path class="light" d="M15 68 Q90 35 165 68"/>
+<path class="fold" d="M45 48 Q90 75 135 48 M45 150 Q90 125 135 150"/>
+<path class="arrow" d="M-20 100 L25 100 M155 100 L200 100 M25 100 l-10 -7 M25 100 l-10 7 M155 100 l10 -7 M155 100 l10 7"/>
+<text x="0" y="190" class="small">Superfície estirada</text>
+</g>
+<g transform="translate(1530 550)">
+<text x="0" y="0" class="lab">Deformació</text>
+<path class="leather" d="M0 45 Q35 20 65 50 Q95 80 125 45 Q155 20 190 55 L190 145 Q150 170 120 140 Q85 110 55 145 Q25 170 0 145Z"/>
+<path class="fold" d="M30 48 Q60 85 35 135 M90 50 Q115 85 90 140 M150 50 Q125 90 155 140"/>
+<text x="0" y="190" class="small">Forma alterada</text>
+</g>
+<rect x="970" y="820" width="720" height="140" rx="12" fill="#f1eee6" stroke="#d3cfc4"/>
+<text x="995" y="855" class="lab">Criteri de lectura</text>
+<text x="995" y="885" class="small">Identificar primer la geometria, el gruix i els punts de subjecció.</text>
+<text x="995" y="911" class="small">Després situar plecs i ombres segons flexió, compressió o tensió.</text>
+<text x="995" y="937" class="small">No aplicar un patró únic a corretges, botes, guants i bosses.</text>
+
+<text x="65" y="1045" class="small">Esquemes conceptuals: no representen una mostra comercial ni un resultat experimental. La distinció ante/nobuk és orientativa i pot variar segons el producte.</text>
+</svg>

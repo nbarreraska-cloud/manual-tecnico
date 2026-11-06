@@ -109,3 +109,74 @@ No s'han seleccionat fotografies de miniatures o de productes comercials en aque
 ## 7. Següent pas operatiu
 
 Recuperar les fitxes F10 individuals i el text exacte dels capítols 1–7 i 11; resoldre les quatre discrepàncies; després produir primer els esquemes conceptuals G001–G005 i G007–G010, amb revisió tècnica de contingut abans de tractar dimensions o estil. Les figures que necessitin fotografies s'han de planificar com a captures pròpies o quedar en espera de fonts amb llicència i correspondència verificades.
+
+
+## 4. Ampliació de recerca visual — fonts candidates addicionals
+
+**Criteri d'estat:** «candidata» vol dir que la pàgina consultada identifica el fitxer i una llicència aparentment compatible; encara cal descarregar-lo, inspeccionar-lo a resolució completa, comprovar-ne el contingut i registrar-ne l'atribució final abans d'incorporar-lo. «Referència» vol dir que és útil per estudiar el concepte, però no s'ha de reutilitzar directament sense una comprovació addicional.
+
+### 4.1. Capítols 4–6: color, llum, reflexió i materials
+
+| Destinació potencial | Recurs localitzat | Llicència declarada | Valor i limitacions | Dictamen |
+|---|---|---|---|---|
+| G007/G009 — matís, valor i croma | [Munsell-system.svg](https://commons.wikimedia.org/wiki/File:Munsell-system.svg) | CC BY-SA 3.0 | Mostra eix de valors neutres, cercle de matís i branca de croma; útil com a referència tridimensional. No és una representació completa de tots els matisos/cromes ni s'ha d'etiquetar com a HSV/HSL. | Candidata de referència; probablement reconstrucció pròpia. |
+| G007/G009 — matís, valor i croma | [Munsell-Colour-Wheel.svg](https://commons.wikimedia.org/wiki/File:Munsell-Colour-Wheel.svg) | CC BY 4.0 | Mostra matís amb valor i croma fixats; és una secció del sistema, no l'espai tridimensional complet. | Referència parcial, no substitueix G009. |
+| G013 — incidència i reflexió | [Ray optics diagram incidence reflection and refraction.svg](https://commons.wikimedia.org/wiki/File:Ray_optics_diagram_incidence_reflection_and_refraction.svg) | Domini públic (declarat per l'autor) | Geometria de raigs i angles. Comprovar que el diagrama final mesura els angles des de la normal i no confon reflexió amb refracció. | Candidata de referència/reconstrucció. |
+| G018/G021/G023 — reflexió especular i difusa | [Specular and diffuse.svg](https://commons.wikimedia.org/wiki/File:Specular_and_diffuse.svg) | CC0 1.0 | Esquema vectorial de reflexió especular i difusa; molt útil com a base conceptual, però cal alinear terminologia i no suggerir que les superfícies reals són només dues categories absolutes. | Candidata prioritària per reconstrucció. |
+| G018/G021/G023 — reflexió | [Specular And Diffuse Reflection.svg](https://commons.wikimedia.org/wiki/File:Specular_And_Diffuse_Reflection.svg) | CC BY 3.0 | Alternativa vectorial, amb atribució obligatòria. | Candidata secundària. |
+| G017 — umbra i penombra | [Penumbra.svg](https://commons.wikimedia.org/wiki/File:Penumbra.svg) | CC BY-SA 3.0 i GFDL 1.2+ | Explica umbra i penombra. La llicència copyleft pot condicionar adaptacions; sobretot, el brief G017 està en conflicte amb F13 i no es pot assignar a la figura fins a resoldre'l. | Referència tècnica; no produir G017 encara. |
+| G022/G024 — transparència, translucidesa i opacitat | [Frosted glass surface.jpg](https://commons.wikimedia.org/wiki/File:Frosted_glass_surface.jpg) | CC BY-SA 4.0 | Fotografia macro d'una superfície esmerilada, 2656 × 2656. Mostra textura superficial, no per si sola la transmissió difusa d'una escena. | Candidata fotogràfica parcial. |
+| G022/G024 — vidre esmerilat | [Frosted Glass.jpg](https://commons.wikimedia.org/wiki/File:Frosted_Glass.jpg) | CC BY 2.0 | Fotografia d'un vidre esmerilat; cal inspeccionar si l'escena posterior és prou visible i comparable. | Candidata fotogràfica; no és comparació homogènia. |
+| G022/G024 — reflexió difusa/especular | [Diffuse&specular reflection.jpg](https://commons.wikimedia.org/wiki/File:Diffuse%26specular_reflection.jpg) | CC BY-SA 3.0 o GFDL | Diagrama de reflexió sobre superfície brillant; llicència amb obligacions d'atribució/compartir igual. | Referència secundària. |
+
+### 4.2. Capítol 7: pinzells, eines i procediments
+
+| Destinació potencial | Recurs localitzat | Llicència declarada | Valor i limitacions | Dictamen |
+|---|---|---|---|---|
+| G025/G026 — anatomia del pinzell | [Parts of a Paintbrush.png](https://commons.wikimedia.org/wiki/File:Parts_of_a_Paintbrush.png) | Domini públic | Imatge de només 150 × 300 px; identifica tuft, virolla i mànec, però resolució insuficient per al manual i terminologia incompleta. | No utilitzar com a màster; només referència. |
+| G025/G026 — morfologia del pinzell | [Anatomy of a Brush, Figuratively Speaking Minis](https://www.figurativelyspeakingminis.com/_files/ugd/0a6b64_8a76b3d75b1b477bbeb6c71dd8d234bb.pdf) | No verificada | El PDF conté un diagrama útil de punta, ventre, cap, virolla, crimpat i mànec. No s'ha identificat una llicència de reutilització. | Referència terminològica, no reutilitzable sense permís. |
+| G025/G026 — anatomia i formes | [Parts of a Brush — Label the Diagram](https://www.labelthediagram.com/parts-of-a-paint-brush/) | Declarada obra pròpia al lloc; termes d'ús pendents | Distingueix mànec, truges, virolla, punta, ventre, taló i formes de pinzell. Útil per contrastar terminologia; cal verificar termes d'ús del lloc abans de reutilitzar. | Referència terminològica. |
+| G027/G029/G032 — dilució, paleta i aplicació | [How to thin paint for miniatures](https://painting-miniatures.com/how-to-thin-paint-for-miniatures/) | No verificada per a reproducció | Fotografies de paleta humida i miniatura, comparació de capes i orientacions de glaze. Els ràtios són recomanacions contextuals, no valors universals del manual. | Referència de procediment; no reutilitzar imatges sense permís. |
+| G027/G029/G032 — transparència i rentats | [How to Mix and Test Washes](https://birdwithabrush.com/2021/05/27/how-to-mix-and-test-washes/) | No verificada per a reproducció | Documenta mostres amb línia negra i diferències entre pintures i dilucions. Bona referència metodològica, no prova de les pintures del manual. | Referència metodològica; no copiar fotografies. |
+| G032/G034 — pinzell sec | [Malen in der Trockenpinseltechnik dry brush.jpg](https://commons.wikimedia.org/wiki/File:Malen_in_der_Trockenpinseltechnik_dry_brush.jpg) | CC BY-SA 3.0 | Fotografia de tècnica de pinzell sec sobre tela, no miniatura. Pot explicar el gest general però no demostra l'efecte en relleus d'una miniatura. | Referència de tècnica; ús secundari amb atribució i compatibilitat SA. |
+| G028 — imprimació i conservació del relleu | Cap fotografia comparable localitzada en aquesta passada. | — | Caldria comparar el mateix model amb preparació homogènia i condicions documentades. Les fotografies promocionals de producte no són evidència suficient. | Producció pròpia necessària si es manté E2. |
+
+### 4.3. Capítols posteriors: morfologia, textures i materials
+
+| Destinació temàtica | Recurs localitzat | Llicència declarada | Valor i limitacions | Dictamen |
+|---|---|---|---|---|
+| Vegetació — fulla simple i parts | [Leaf diagram.svg](https://commons.wikimedia.org/wiki/File:Leaf_diagram.svg) | CC BY-SA (versió indicada a Commons) | Parts bàsiques: àpex, nervi principal i secundaris, limbe, marge i pecíol. No cobreix per si sola fulles compostes ni tota la diversitat morfològica. | Candidata de referència. |
+| Vegetació — fulla simple i parts | [Diagram of simple leaf-es.svg](https://commons.wikimedia.org/wiki/File:Diagram_of_simple_leaf-es.svg) | CC BY-SA 4.0 | Diagrama en castellà/esquema simple; cal adaptar terminologia catalana i comprovar que els termes coincideixen amb el capítol. | Candidata de reconstrucció/adaptació. |
+| Vegetació — formes i nerviacions | [Leaf morphology.svg](https://commons.wikimedia.org/wiki/File:Leaf_morphology.svg) i [galeria Leaf morphology](https://commons.wikimedia.org/wiki/Leaf_morphology) | Llicència individual pendent per a cada fitxer de la galeria | Recull diversitat de formes, marges i disposicions. No incorporar la galeria sencera sense triar i verificar fitxers concrets. | Índex de cerca, no font final. |
+| Vegetació — nerviacions | [Sèrie Hickey 1973: venacions](https://commons.wikimedia.org/wiki/Category:Leaf_morphology) | Diverses; verificar fitxer a fitxer | Hi ha SVG de venació palinactidòdroma, campilòdroma, flabel·lada, craspedòdroma i paral·lelòdroma; alguns fitxers tenen CC0. | Candidats per selecció específica. |
+| Fusta — nusos | [Wood knot.jpg](https://commons.wikimedia.org/wiki/File:Wood_knot.jpg) | Llicència a confirmar a la pàgina en la selecció final | Fotografia de nus en fusta; útil per observar desviació de fibres, però una sola espècie/tall no representa totes les estructures. | Candidata de referència fotogràfica. |
+| Fusta — textura envellida | [Weathered wood grain texture macro closeup detail.jpg](https://commons.wikimedia.org/wiki/File:Weathered_wood_grain_texture_macro_closeup_detail.jpg) | CC BY 4.0 | Macro de fusta erosionada, alta resolució. No substitueix exemples de tall longitudinal/transversal ni de vetes estructurals. | Candidata fotogràfica. |
+| Fusta — escorça/nus | [Tree Knot Bark Texture DTXR-WD-BK-2.jpg](https://commons.wikimedia.org/wiki/File:Tree_Knot_Bark_Texture_DTXR-WD-BK-2.jpg) | CC BY-SA 4.0 | Macro de nus/escorça, 3872 × 2592. Més adequada com a textura que com a esquema de creixement de fibres. | Candidata fotogràfica. |
+| Pedra — textura | [Stone rock texture.jpg](https://commons.wikimedia.org/wiki/File:Stone_rock_texture.jpg) | Domini públic (autor la dedica) | Fotografia de textura de pedra, 2592 × 1944. No classifica geologia ni varietats de roca. | Candidata fotogràfica. |
+| Pedra — textura | [Stone rock texture closeup.jpg](https://commons.wikimedia.org/wiki/File:Stone_rock_texture_closeup.jpg) | Domini públic segons metadades estructurades; verificar pàgina | Primer pla de textura, 1024 × 768. | Candidata secundària. |
+| Teixits — vellut | [Velvet fabric.jpg](https://commons.wikimedia.org/wiki/File:Velvet_fabric.jpg) | CC BY 4.0 | Fotografia d'un vellut vermell, 1844 × 2504. És una mostra de material real; el color i la il·luminació condicionen la lectura del pèl i la direcció del teixit. | Candidata fotogràfica. |
+| Teixits — feltre de llana | [Felt of wool and rayon.jpg](https://commons.wikimedia.org/wiki/File:Felt_of_wool_and_rayon.jpg) | CC0 1.0 | Superfície de feltre amb barreja de llana i raió; no és llana pura ni teixit de llana. | Candidata només per feltre/blend, no per llana pura. |
+| Teixits — macro | [Fabric material macro.jpg](https://commons.wikimedia.org/wiki/File:Fabric_material_macro.jpg) | CC BY 2.0 | Macro tèxtil de 800 × 600; composició de fibra no identificada. No assignar-la a lli, cotó, seda o llana. | Referència genèrica, no classificable. |
+
+### 4.4. Cerca negativa i buits detectats
+
+No s'ha localitzat en aquesta passada una fotografia amb llicència verificada que documenti fidelment:
+- una mateixa miniatura en fases consecutives de preparació, imprimació, pintura o pigmentació;
+- un resultat comparatiu de pinzell sec, rentat general/localitzat o pigment fixat/no fixat sobre una mateixa peça;
+- una comparació homogènia de vidre transparent incolor, acolorit i esmerilat amb la mateixa escena i llum;
+- els comportaments de les pintures concretes del catàleg del manual;
+- les seqüències NMM/TMM del mateix objecte, geometria, punt de vista i llum.
+
+Per a aquests casos, la via més defensable és documentació fotogràfica pròpia controlada o diagrames didàctics propis clarament identificats com a esquemes. Les imatges externes de miniatures de marques, blogs o xarxes socials trobades sense llicència expressa queden descartades per a reutilització, encara que puguin servir per entendre tècniques.
+
+## 5. Estat actual de la recerca
+
+- Composicions amb brief preliminar: 34/34 de la tanda 01.
+- Fonts candidates amb llicència declarada o aparentment identificada en aquesta ampliació: diverses, concentrades en òptica, botànica i textures.
+- Referències metodològiques sense dret de reutilització acreditat: registrades com a tals.
+- Fotografies de procediment pròpies disponibles: cap de documentada en aquesta passada.
+- Imatges descarregades o incorporades al repositori: cap.
+- Figures aprovades o inserides: cap.
+- Discrepàncies bloquejants: G015, G017, G026 i G029; E2 sense evidència: G003, G004, G028 i G033.
+
+**Nota de control:** la recerca visual s'ha ampliat a categories de capítols posteriors per avançar el banc de fonts, però l'assignació definitiva a una figura concreta dependrà del coteig de la fitxa F10 i del text corresponent. No s'ha alterat la selecció de 150 composicions ni la matriu F10.

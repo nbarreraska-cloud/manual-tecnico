@@ -463,7 +463,64 @@ def render_crystal_morphology_atlas(spec: dict) -> str:
     ET.fromstring(svg)
     return svg
 
-def main() -> int:
+
+def render_ice_snow_comparison(spec: dict) -> str:
+    """Compare optical structure of ice with the volume/surface structure of snow."""
+    W,H=1600,900
+    dark,muted="#263746","#5B6872"
+    p=[
+      f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-labelledby="title desc">',
+      f'<title id="title">{escape(spec["title"])}</title>',
+      f'<desc id="desc">{escape(spec["description"])}</desc>',
+      '<rect width="1600" height="900" fill="#FAF9F6"/>',
+      f'<text x="72" y="76" font-family="DejaVu Sans, Arial" font-size="22" font-weight="700" letter-spacing="2" fill="{muted}">FIGURA G164 · COMPARACIÓ DE MATERIALS</text>',
+      f'<text x="72" y="132" font-family="DejaVu Sans, Arial" font-size="40" font-weight="700" fill="{dark}">{escape(spec["title"])}</text>',
+      f'<text x="72" y="174" font-family="DejaVu Sans, Arial" font-size="20" fill="{muted}">{escape(spec.get("subtitle",""))}</text>',
+      '<rect x="72" y="215" width="704" height="550" rx="18" fill="#FFFFFF" stroke="#D8DEE3" stroke-width="2"/>',
+      '<rect x="824" y="215" width="704" height="550" rx="18" fill="#FFFFFF" stroke="#D8DEE3" stroke-width="2"/>',
+      f'<text x="100" y="260" font-family="DejaVu Sans, Arial" font-size="25" font-weight="700" fill="{dark}">A · GEL</text>',
+      f'<text x="852" y="260" font-family="DejaVu Sans, Arial" font-size="25" font-weight="700" fill="{dark}">B · NEU</text>',
+      f'<text x="100" y="292" font-family="DejaVu Sans, Arial" font-size="16" fill="{muted}">Transmissió, difusió, gruix i fractures</text>',
+      f'<text x="852" y="292" font-family="DejaVu Sans, Arial" font-size="16" fill="{muted}">Acumulació, volum i transformació superficial</text>',
+      # Ice panel: common background grid remains visible through clear ice.
+      '<rect x="108" y="330" width="300" height="210" rx="10" fill="#E8E2D4" stroke="#68747B" stroke-width="2"/>',
+      '<path d="M108 400 H408 M108 470 H408 M208 330 V540 M308 330 V540" stroke="#A49B89" stroke-width="3"/>',
+      '<path d="M108 330 L408 330 L408 540 L108 540 Z" fill="#C7E0E4" fill-opacity=".20" stroke="#6E9AA8" stroke-width="4"/>',
+      '<path d="M150 345 L180 390 L164 430 M330 345 L300 390 L325 425" fill="none" stroke="#FFFFFF" stroke-width="5"/>',
+      '<path d="M220 355 L250 410 L235 455 L270 500" fill="none" stroke="#789EAA" stroke-width="3"/>',
+      '<text x="258" y="570" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="17" font-weight="700" fill="#263746">Transparent: el fons es conserva</text>',
+      # Turbid ice: same approximate block, background softened, not replaced by opaque snow.
+      '<rect x="438" y="330" width="300" height="210" rx="10" fill="#D9E3E2" stroke="#68747B" stroke-width="2"/>',
+      '<path d="M438 400 H738 M438 470 H738 M538 330 V540 M638 330 V540" stroke="#AAB7B7" stroke-width="3" opacity=".35"/>',
+      '<rect x="438" y="330" width="300" height="210" rx="10" fill="#E9F0EF" fill-opacity=".68"/>',
+      '<path d="M462 370 Q520 345 575 390 T710 380 M455 470 Q520 440 580 485 T720 470" fill="none" stroke="#FFFFFF" stroke-width="8" opacity=".9"/>',
+      '<path d="M500 350 L535 405 L520 450 M650 355 L620 415 L660 470" fill="none" stroke="#789EAA" stroke-width="3"/>',
+      '<text x="588" y="570" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="17" font-weight="700" fill="#263746">Translúcid / tèrbol: el fons es difumina</text>',
+      # Snow samples: fresh soft accumulations, compacted plane/footprint, aged transitions.
+      '<path d="M860 510 Q900 460 940 480 Q980 420 1030 470 Q1080 430 1130 485 L1130 535 L860 535 Z" fill="#F5F5F0" stroke="#B7C3C8" stroke-width="3"/>',
+      '<path d="M870 510 Q920 490 950 500 M1000 478 Q1040 465 1070 490" fill="none" stroke="#D3DFE4" stroke-width="5"/>',
+      '<text x="995" y="570" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="17" font-weight="700" fill="#263746">Neu fresca: volum tou i difús</text>',
+      '<path d="M1160 500 L1470 500 L1470 535 L1160 535 Z" fill="#E9ECE8" stroke="#AAB6BA" stroke-width="3"/>',
+      '<path d="M1220 500 Q1240 470 1270 500 Q1300 470 1330 500" fill="none" stroke="#AAB6BA" stroke-width="5"/>',
+      '<path d="M1190 480 L1220 480 M1360 480 L1390 480" stroke="#FFFFFF" stroke-width="8"/>',
+      '<text x="1315" y="570" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="17" font-weight="700" fill="#263746">Compactada: pla dens i petjades</text>',
+      '<path d="M860 650 Q900 615 950 635 L1010 630 Q1050 610 1100 645 L1100 690 L860 690 Z" fill="#E8E4D9" stroke="#B7B0A2" stroke-width="3"/>',
+      '<path d="M870 670 Q930 650 970 672 T1085 665" fill="none" stroke="#B8C5C8" stroke-width="5"/>',
+      '<path d="M900 645 L920 635 M1000 650 L1020 638" stroke="#C5B89E" stroke-width="7"/>',
+      '<text x="980" y="720" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="16" fill="#5B6872">Transformada: transicions, enfonsaments i tons locals</text>',
+      '<rect x="1120" y="625" width="350" height="80" rx="10" fill="#EEF1F1"/>',
+      '<text x="1140" y="655" font-family="DejaVu Sans, Arial" font-size="16" font-weight="700" fill="#263746">La neu s’acumula</text>',
+      '<text x="1140" y="680" font-family="DejaVu Sans, Arial" font-size="15" fill="#5B6872">en cavitats, plans i zones protegides.</text>',
+      '<rect x="72" y="790" width="1456" height="48" rx="10" fill="#E9EEF0"/>',
+      f'<text x="94" y="820" font-family="DejaVu Sans, Arial" font-size="17" font-weight="700" fill="{dark}">El gel es llegeix per la llum que transmet o difon; la neu, per l’acumulació i la forma de la superfície.</text>',
+      f'<text x="72" y="872" font-family="DejaVu Sans, Arial" font-size="15" fill="{muted}">{escape(spec.get("note",""))}</text>',
+      '</svg>'
+    ]
+    svg="\\n".join(p)
+    ET.fromstring(svg)
+    return svg
+
+\ndef main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--figure", required=True, help="Figure identifier, e.g. G001")
     args = parser.parse_args()

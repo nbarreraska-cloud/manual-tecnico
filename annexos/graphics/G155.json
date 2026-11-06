@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "G155",
+  "editorial_title": "13",
+  "chapter": "CV-13-01",
+  "placement": "Comparació funcional de les quatre tècniques de textura",
+  "brief_title": "Comparació funcional de les quatre tècniques de textura",
+  "type": "E1 — comparació de procediments proposats.",
+  "composition": "## G155 — Comparació funcional de les quatre tècniques de textura\n\n**Capítol i ancoratge:** C13, després de 13.7.5 — «Relació amb la representació del material».  \n**Tipus:** E1 — comparació de procediments proposats.\n\n**Composició**\n- Quatre superfícies de prova equivalents:\n  1. pinzell sec;\n  2. puntejat;\n  3. ratllat;\n  4. esponjat.\n- A cada panell mostrar, en aquest ordre, el gest o l'eina, la marca resultant i la distribució/densitat de marques.\n- Una franja inferior opcional pot mostrar com varia la lectura quan canvien escala, densitat o orientació.\n\n**Jerarquia de lectura**\nLes quatre tècniques són equivalents en rang. La relació amb materials és una lectura secundària.\n\n**Informació que ha de quedar clara**\nLa tècnica es reconeix pel gest, l'eina i la marca, no perquè pertanyi exclusivament a un material determinat.\n\n**No representar**\nUn atles de materials ni una associació rígida entre una tècnica i una superfície. No simular resultats experimentals.\n\n**Control de qualitat**\nLes superfícies han de compartir escala i condicions de comparació. Les marques han de ser prou ampliades per veure'n la forma, però no tan exagerades que deixin de semblar aplicables a una miniatura.",
+  "source": "annexos/briefs_visuals_detallats_G151-G170_DBD02_2026-11.md",
+  "production_status": "brief_structured_not_renderable",
+  "approval_status": "brief_approved_visual_design_pending",
+  "rendering_note": "No renderitzar fins que s'hagi desenvolupat una plantilla que representi fidelment aquesta composició."
+}

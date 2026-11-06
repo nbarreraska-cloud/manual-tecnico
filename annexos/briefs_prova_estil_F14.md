@@ -191,3 +191,14 @@ S'han creat cinc esquemes SVG editables a partir de les llegendes i ubicacions d
 Els fitxers s'han creat directament a la branca de treball mitjançant GitHub. No s'ha sobreescrit cap prototip anterior. No s'ha executat encara el render de validació d'aquesta nova tanda, per tant no es declara validada ni tan sols tècnicament. Les proves G012 i G013 necessiten una revisió geomètrica explícita; G007, G009 i G011 necessiten coteig amb el text real del capítol 4.
 
 **Estat de producció:** cinc nous SVG creats; zero aprovats; zero inserits al manual.
+
+
+## 11. Segona ampliació de proves vectorials
+
+S'han creat tres SVG addicionals basats en les llegendes del F13:
+
+- [5.3 / G014 — Il·luminació de superfícies planes i corbes](../grafics_prova/fig_C05_5-3_G014_v01.svg). Prova conceptual; cal comprovar la geometria dels raigs i la correspondència amb les normals.
+- [5.5 / G016 — Ombra pròpia i ombra projectada](../grafics_prova/fig_C05_5-5_G016_v01.svg). Prova conceptual; cal revisar la coherència entre font, volum, superfície receptora i contorn de l'ombra.
+- [5.7 / G018 — Distribució de la il·luminació sobre pla i superfície corba](../grafics_prova/fig_C06_6-1_G018_v01.svg). Prova conceptual; no és càlcul fotomètric ni simulació de llum.
+
+Els tres fitxers s'han creat a GitHub en la branca de treball. Encara no s'han renderitzat en el workflow ni cotejat amb el text complet dels apartats. No es consideren aprovats.

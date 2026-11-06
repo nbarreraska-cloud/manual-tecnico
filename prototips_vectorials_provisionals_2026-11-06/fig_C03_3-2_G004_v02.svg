@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">Influència del fons en una mateixa capa de pintura</title>
+<desc id="desc">Comparació esquemàtica d'una mateixa capa transparent o semitransparent aplicada en condicions equivalents sobre fons blanc, gris i negre. Només varia el valor del fons.</desc>
+<defs>
+<style>
+.title{font:700 34px Arial,sans-serif;fill:#183247}.subtitle{font:17px Arial,sans-serif;fill:#526777}
+.panel-title{font:700 22px Arial,sans-serif;fill:#28465b}.body{font:17px Arial,sans-serif;fill:#405b6d}
+.small{font:15px Arial,sans-serif;fill:#526777}.note-title{font:700 20px Arial,sans-serif;fill:#183247}
+.panel{fill:#edf2f5;stroke:#d0dbe2;stroke-width:2}.sample{stroke:#c7d3db;stroke-width:2}
+.footer{font:15px Arial,sans-serif;fill:#405b6d}
+</style>
+</defs>
+<rect width="1600" height="900" fill="#f3f6f8"/>
+<text x="800" y="62" text-anchor="middle" class="title">Influència del fons en una mateixa capa de pintura</text>
+<text x="800" y="98" text-anchor="middle" class="subtitle">Mateixa pintura, gruix i aplicació; només varia el valor del suport.</text>
+
+<rect x="60" y="150" width="460" height="570" rx="18" class="panel"/>
+<rect x="570" y="150" width="460" height="570" rx="18" class="panel"/>
+<rect x="1080" y="150" width="460" height="570" rx="18" class="panel"/>
+
+<text x="290" y="205" text-anchor="middle" class="panel-title">FONS BLANC</text>
+<text x="800" y="205" text-anchor="middle" class="panel-title">FONS GRIS</text>
+<text x="1310" y="205" text-anchor="middle" class="panel-title">FONS NEGRE</text>
+
+<rect x="115" y="250" width="350" height="300" rx="12" fill="#ffffff" class="sample"/>
+<rect x="625" y="250" width="350" height="300" rx="12" fill="#858b91" class="sample"/>
+<rect x="1135" y="250" width="350" height="300" rx="12" fill="#202a32" class="sample"/>
+
+<!-- Same translucent layer, same geometry and opacity -->
+<rect x="165" y="335" width="250" height="130" rx="8" fill="#3984bd" opacity=".58"/>
+<rect x="675" y="335" width="250" height="130" rx="8" fill="#3984bd" opacity=".58"/>
+<rect x="1185" y="335" width="250" height="130" rx="8" fill="#3984bd" opacity=".58"/>
+
+<text x="290" y="595" text-anchor="middle" class="body">La capa conserva el fons</text>
+<text x="290" y="622" text-anchor ="middle" class="body">clar com a part del resultat.</text>
+<text x="800" y="595" text-anchor="middle" class="body">El fons gris modifica el valor</text>
+<text x="800" y="622" text-anchor="middle" class="body">percebut de la mateixa capa.</text>
+<text x="1310" y="595" text-anchor="middle" class="body">La mateixa capa es percep més fosca</text>
+<text x="1310" y="622" text-anchor="middle" class="body">sobre el fons fosc.</text>
+
+<rect x="250" y="760" width="1100" height="80" rx="12" fill="#f8fafb" stroke="#c2d0d8" stroke-width="2"/>
+<text x="800" y="792" text-anchor="middle" class="note-title">Una mateixa capa no té una aparença independent del suport</text>
+<text x="800" y="820" text-anchor ="middle" class="small">Esquema conceptual: no representa una pintura concreta ni una mesura cromàtica.</text>
+<text x="800" y="875" text-anchor="middle" class="footer">Per comparar productes, cal mantenir constants el gruix, l'aplicació, l'assecat i les condicions d'observació.</text>
+</svg>

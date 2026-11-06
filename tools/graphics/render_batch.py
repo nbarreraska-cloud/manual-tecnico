@@ -56,6 +56,11 @@ def inspect_spec(path: Path, expected_id: str) -> tuple[str, str]:
             return "invalid_spec", "L’atles de roques necessita títol, descripció i traçabilitat."
         return "ready", "Atles específic de famílies i patrons visuals de roques."
 
+    if spec.get("template") == "stone_texture_studies":
+        if not spec.get("title") or not spec.get("description") or not spec.get("provenance"):
+            return "invalid_spec", "Els estudis de textura pètria necessiten títol, descripció i traçabilitat."
+        return "ready", "Composició específica de quatre estudis de textura pètria."
+
     cards = spec.get("cards")
     if not isinstance(cards, list) or len(cards) != 4:
         return "unsupported_template", "Hi ha especificació individual, però encara no correspon a una plantilla de renderització disponible."

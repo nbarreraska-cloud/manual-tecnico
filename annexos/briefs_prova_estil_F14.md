@@ -167,3 +167,6 @@ Els quatre prototips es mantenen en estat de revisió, no d'aprovació. Els SVG 
 - G042: [SVG v02 — seqüència E1 proposada no assajada](../grafics_prova/fig_C16_16-4_G042_v02.svg). La mateixa geometria es manté als sis panells; la seqüència no és una execució documentada.
 
 Les versions v01 es conserven sense sobreescriure. Les v02 s'han de renderitzar i revisar a mida de pàgina abans de qualsevol aprovació.
+
+
+- G006: [SVG v02 — RGB/CMY](../grafics_prova/fig_C04_4-1_G006_v02.svg). Nova versió amb composició alfa estàndard; pendent de renderització i revisió. La v01 es conserva.

@@ -488,14 +488,14 @@ def render_ice_snow_comparison(spec: dict) -> str:
       '<path d="M108 330 L408 330 L408 540 L108 540 Z" fill="#C7E0E4" fill-opacity=".20" stroke="#6E9AA8" stroke-width="4"/>',
       '<path d="M150 345 L180 390 L164 430 M330 345 L300 390 L325 425" fill="none" stroke="#FFFFFF" stroke-width="5"/>',
       '<path d="M220 355 L250 410 L235 455 L270 500" fill="none" stroke="#789EAA" stroke-width="3"/>',
-      '<text x="258" y="570" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="17" font-weight="700" fill="#263746">Transparent: el fons es conserva</text>',
+      '<text x="258" y="570" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="15" font-weight="700" fill="#263746">Gel transparent: conserva el fons</text>',
       # Turbid ice: same approximate block, background softened, not replaced by opaque snow.
       '<rect x="438" y="330" width="300" height="210" rx="10" fill="#D9E3E2" stroke="#68747B" stroke-width="2"/>',
       '<path d="M438 400 H738 M438 470 H738 M538 330 V540 M638 330 V540" stroke="#AAB7B7" stroke-width="3" opacity=".35"/>',
       '<rect x="438" y="330" width="300" height="210" rx="10" fill="#E9F0EF" fill-opacity=".68"/>',
       '<path d="M462 370 Q520 345 575 390 T710 380 M455 470 Q520 440 580 485 T720 470" fill="none" stroke="#FFFFFF" stroke-width="8" opacity=".9"/>',
       '<path d="M500 350 L535 405 L520 450 M650 355 L620 415 L660 470" fill="none" stroke="#789EAA" stroke-width="3"/>',
-      '<text x="588" y="570" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="17" font-weight="700" fill="#263746">Translúcid / tèrbol: el fons es difumina</text>',
+      '<text x="588" y="570" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="15" font-weight="700" fill="#263746">Gel translúcid: difumina el fons</text>',
       # Snow samples: fresh soft accumulations, compacted plane/footprint, aged transitions.
       '<path d="M860 510 Q900 460 940 480 Q980 420 1030 470 Q1080 430 1130 485 L1130 535 L860 535 Z" fill="#F5F5F0" stroke="#B7C3C8" stroke-width="3"/>',
       '<path d="M870 510 Q920 490 950 500 M1000 478 Q1040 465 1070 490" fill="none" stroke="#D3DFE4" stroke-width="5"/>',

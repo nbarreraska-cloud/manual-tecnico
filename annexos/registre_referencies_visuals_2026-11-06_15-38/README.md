@@ -167,76 +167,58 @@ No s'ha creat ni guardat cap fitxer visual de G002. Per tant, la figura no està
 
 **Data del registre:** 2026-11-06  
 **Capítol:** 3  
-**Ubicació:** apartat 3.1  
-**Estat:** referència externa seleccionada per a consulta; decisió sobre l'ús com a recurs final i producció pendents.
+**Ubicació corregida contra F9:** apartat 3.2.1, pàgina 16.  
+**Estat:** <badge>produïda i comprovada</badge>
 
 ### Objectiu didàctic
 
-Comparar diferents graus d'ocultació del fons i fer visible la continuïtat entre comportaments transparents, semitransparents, semiopacs i opacs. La figura ha d'ajudar a distingir la transparència i l'opacitat de la cobertura i de la uniformitat d'aplicació.
+Comparar quatre graus d'ocultació del fons i distingir transparència/opacitat de cobertura i uniformitat d'aplicació.
 
-### Especificació editorial recuperada
+### Decisió visual aplicada
 
-La fitxa editorial F10 estableix una comparació de pintures opaques, semiopàques, semitransparents i transparents sobre un mateix fons. La representació ha de mostrar diferents graus d'ocultació, sense convertir-los en categories comercials rígides ni confondre opacitat, transparència, cobertura i uniformitat.
+S'ha creat un **diagrama original de quatre mostres equivalents**: transparent, semitransparent, semiopaca i opaca. Cada mostra utilitza la mateixa àrea, el mateix color esquemàtic i el mateix fons dividit en una meitat clara i una de fosca. Només varia el grau d'ocultació del fons.
 
-### Referències visuals examinades
+La composició evita percentatges o valors numèrics per no suggerir llindars físics universals. Inclou la nota que és un esquema conceptual i no representa assajos ni pintures concretes.
 
-1. **Natural Pigments — Color Swatch and Pigment Guide.** Referència externa seleccionada per l'usuari. Mostra targetes de prova (*drawdowns*) amb una pel·lícula de pintura de gruix controlat i una barra negra que permet valorar-ne l'opacitat relativa. La pàgina indica que les mostres es preparen amb una pel·lícula de 6 mil (0,006 polzades), amb el color a plena intensitat i una barreja amb blanc; la zona inferior es raspa per mostrar els tons subjacents. És una referència especialment útil per la presentació d'una mostra real i per la barra de contrast, però no correspon a una comparació d'una mateixa capa sobre tres fons blanc, gris i negre.  
-   https://www.naturalpigments.eu/color-swatch-pigment-info
+### Fitxer final
 
-2. **Laura Longoni Art — Transparencia y opacidad de los colores acrílicos.** Inclou una llegenda de quatre categories i descriu una prova visual amb una línia negra coberta per pintura. És útil com a referència per fer visible el grau d'ocultació, però la seva explicació no s'ha de copiar literalment ni tractar les quatre categories com a fronteres universals.  
-   https://www.lauralongoniart.com/es/post/transparencia-y-opacidad-de-los-colores-acr%C3%ADlicos
+[Obrir G003 — SVG](G003_figura_3_1_opacitat_transparencia.svg)
 
-3. **Royal Talens — Opacity and transparency.** Indica que la comparació s'ha de fer amb un gruix de capa constant. És una referència tècnica important per evitar que la diferència visual s'expliqui per variacions de quantitat o gruix aplicat.  
-   https://www.royaltalens.com/pages/opacity-transparency
+### Control tècnic i editorial
 
-4. **Painters Online — Spotlight on acrylic.** Mostra mostres pintades i compara pigments transparents i opacs, incloent-hi la lectura de la capa sobre una línia de contrast. És útil com a referència de mostra física, però correspon a una gamma de pintura artística diferent i no constitueix evidència sobre les 48 pintures del manual.  
-   https://www.painters-online.co.uk/reviews/spotlight-on-acrylic-tony-paul-puts-jacksons-artist-acrylic-through/
+- Format vectorial SVG, amb textos editables.
+- Quatre mostres amb dimensions i geometria equivalents.
+- Una única tonalitat de pintura esquemàtica; no s'atribueix a cap producte de la paleta.
+- El fons clar/fosc es conserva com a variable de lectura en totes les mostres.
+- No s'hi incorporen dades experimentals ni valors de fabricants.
+- La llegenda i els textos són en català.
+- Renderització local de comprovació: revisada; les quatre categories i la nota de limitació es llegeixen correctament.
+- La ubicació de F10 que indicava l'apartat 3.1 no coincideix amb la maqueta F9: el contingut rellevant és a **3.2.1**. Cal actualitzar la ubicació de treball de F10 abans de la inserció.
 
-5. **ArtistAssistApp — Paint Opacity Symbols.** Presenta quatre símbols per a les categories d'opacitat. És una referència gràfica compacta, però els símbols sols no mostren el comportament real de la capa sobre el fons.  
-   https://artistassistapp.com/es/tutorials/paint-opacity/
+### Referències examinades
 
-### Avaluació de les alternatives
+S'han conservat com a referències de consulta, no com a recursos copiats:
+- Natural Pigments — Color Swatch and Pigment Guide: https://www.naturalpigments.eu/color-swatch-pigment-info
+- Laura Longoni Art — Transparencia y opacidad de los colores acrílicos: https://www.lauralongoniart.com/es/post/transparencia-y-opacidad-de-los-colores-acr%C3%ADlicos
+- Royal Talens — Opacity and transparency: https://www.royaltalens.com/pages/opacity-transparency
+- Painters Online — Spotlight on acrylic: https://www.painters-online.co.uk/reviews/spotlight-on-acrylic-tony-paul-puts-jacksons-artist-acrylic-through/
+- ArtistAssistApp — Paint Opacity Symbols: https://artistassistapp.com/es/tutorials/paint-opacity/
 
-- **Llegenda de símbols comercials:** descartada com a figura principal. No permet veure directament què passa amb el fons i els símbols poden variar entre fabricants.
-- **Catàleg de mostres reals de diferents colors:** descartat per a aquesta figura. Sense assajos documentats sobre productes concrets, podria suggerir que s'han provat pintures de la paleta del manual quan no és així.
-- **Comparació controlada sobre un fons dividit clar/fosc:** escollida com a base conceptual. Permet observar quina part del fons continua visible i comparar els graus d'ocultació en condicions equivalents.
+Cap imatge externa s'ha seleccionat ni reutilitzat com a figura final. El SVG és una composició original.
 
-### Decisió de producció
+### Límits de validació
 
-Crear un **diagrama original de quatre mostres comparatives**, amb una mateixa tonalitat esquemàtica aplicada sobre un únic fons dividit en dues meitats de valor clar i fosc. Les quatre mostres han de representar, d'esquerra a dreta, els comportaments:
-
-1. **Transparent**
-2. **Semitransparent**
-3. **Semiopaca**
-4. **Opaca**
-
-La capa representada ha de mantenir el mateix gruix i la mateixa extensió en les quatre mostres; l'única variable visual serà el grau d'ocultació del fons. La llegenda ha d'indicar que es tracta d'una representació conceptual dels comportaments, no de quatre productes ni de resultats experimentals.
-
-### Restriccions de representació
-
-- No presentar els quatre comportaments com a classes comercials universals ni com a límits físics exactes.
-- No canviar simultàniament el gruix, la quantitat o l'extensió de la capa.
-- No utilitzar quatre colors diferents: la comparació ha d'aïllar el grau d'ocultació.
-- No confondre transparència amb fluïdesa, intensitat cromàtica, concentració de pigment o acabat.
-- No equiparar opacitat amb cobertura uniforme: són conceptes relacionats però no idèntics.
-- No atribuir els exemples a cap referència concreta de les 48 pintures.
-- Incorporar una nota breu: **«Esquema conceptual; no representa assajos de productes concrets.»**
-- Mantenir els textos en català i la llegibilitat a la mida final.
-
-### Procedència i drets d'ús
-
-Les referències s'utilitzen únicament per estudiar la representació de l'opacitat i la transparència i els criteris de comparació. No se selecciona cap imatge externa com a recurs final ni se'n copiarà la composició literal. La figura es produirà com a diagrama original.
-
-### Estat de resolució
-
-S'ha seleccionat una referència externa de Natural Pigments per orientar la comparació visual. No s'ha seleccionat encara com a imatge final del manual ni s'han verificat drets de reutilització. **La figura final encara no està produïda.**
+La figura s'ha comprovat com a SVG renderitzat, però encara no s'ha inserit a la maqueta Word/PDF. Per tant, la mida tipogràfica i la llegibilitat a la mida definitiva d'impressió s'han de tornar a validar després de la inserció i la repaginació.
 
 ### Historial de decisions
 
 | Data | Decisió | Estat |
 |---|---|---|
-| 2026-11-06 | Comparar símbols de classificació, mostres reals i proves sobre fons de contrast | Cerca examinada |
-| 2026-11-06 | Seleccionar la guia de mostres de Natural Pigments com a referència externa de consulta, a petició de l'usuari | Referència seleccionada; reutilització no autoritzada/verificada |
+| 2026-11-06 | Seleccionar un esquema conceptual de quatre graus d'ocultació sobre un fons clar/fosc | Definició tancada |
+| 2026-11-06 | Produir el diagrama original en SVG | Produït |
+| 2026-11-06 | Renderitzar i revisar el resultat; registrar el fitxer final | Comprovat i registrat |
+| 2026-11-06 | Corregir la ubicació lectora a 3.2.1 segons F9 | Correcció identificada; actualització F10 pendent |
+
 ---
 
 ## G004 — Figura 3.2. Influència del fons en una mateixa capa de pintura

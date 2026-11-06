@@ -557,7 +557,8 @@ def render_gem_construction_studies(spec: dict) -> str:
           f'<text x="72" y="872" font-family="DejaVu Sans,Arial" font-size="15" fill="{muted}">{escape(spec.get("note",""))}</text>','</svg>']
     svg="\n".join(p); ET.fromstring(svg); return svg
 
-\ndef main() -> int:
+
+def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--figure", required=True, help="Figure identifier, e.g. G001")
     args = parser.parse_args()

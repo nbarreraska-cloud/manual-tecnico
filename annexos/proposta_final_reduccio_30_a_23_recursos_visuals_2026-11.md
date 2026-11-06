@@ -11,10 +11,11 @@ La revisió funcional dels 30 grups no justifica mantenir 30 figures independent
 
 | Tractament | Nombre |
 |---|---:|
-| Recursos visuals proposats, inclòs G019 condicional | 23 |
-| Funcions resoltes amb taula o text | 6 |
-| Figura integrada en un altre recurs | 1 |
+| Recursos visuals que es mantenen sense condició | 22 |
+| Recurs visual condicional (G019) | 1 |
 | Grups revisats | 30 |
+
+Diversos grups combinen una part visual amb una taula o una explicació textual; per això aquests tractaments no es comptabilitzen com a categories excloents.
 
 ## 2. Decisió dels 30 grups
 

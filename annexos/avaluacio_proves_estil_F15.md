@@ -273,7 +273,7 @@ La següent iteració s'ha de centrar en G006, G003 i G042. G110 no necessita un
 S'han preparat protocols específics per separar la producció gràfica de l'obtenció d'evidència física:
 
 - [Protocol G003 — opacitat, transparència i cobertura](protocol_prova_fisica_G003.md). La prova continua pendent d'execució. Fins que no hi hagi mostres identificades i fotografies documentades, G003 no es pot presentar com a resultat E2; es manté disponible l'alternativa conceptual E0 prevista a F14.
-- [Protocol G042 — construcció NMM](protocol_prova_fisica_G042.md). Defineix una seqüència fotogràfica de sis estats reals de la mateixa peça, basada en els apartats 16.5.2–16.5.7. El protocol no valida ni aprova el SVG v01; el redisseny s'ha de basar en una execució real i no en retocs cromàtics del prototip que no va superar la revisió de fidelitat.
+- [Protocol complementari G042 — documentació física](protocol_prova_fisica_G042.md). Una execució real pot aportar fotografies addicionals, però no és requisit per produir G042 com a E1. El redisseny vectorial s'ha de basar en el capítol 16 i identificar-se com a proposta no assajada.
 
 ### Conciliació de l'ancoratge G003
 
@@ -310,3 +310,8 @@ S'han creat dues noves versions SVG independents, sense sobreescriure les v01:
 - **G042 v02:** seqüència E1 proposada no assajada. La forma és una fulla d'espasa consistent en els sis panells; la seqüència diferencia base, masses fosques, transició intermèdia, reflex principal, accents màxims i integració. Cal revisar especialment la lectura de la geometria, el caràcter metàl·lic i la diferència funcional entre els panells 5 i 6.
 
 El workflow de renderització s'ha actualitzat perquè la fulla de contacte s'adapti al nombre de SVG del directori. La validació de les v02 queda pendent de l'execució del workflow i de la revisió visual dels PNG a mida de pàgina. **Cap de les dues versions està aprovada ni inserida al manual.**
+
+
+## 17. Iteració G006 v02
+
+S'ha creat [G006 v02](../grafics_prova/fig_C04_4-1_G006_v02.svg) per substituir els modes CSS `mix-blend-mode` de la v01, que no es representaven correctament a CairoSVG. La nova versió utilitza transparència alfa estàndard i manté separats el model additiu RGB i el model sostractiu CMY idealitzat. La representació continua sent conceptual; no equival a una simulació colorimètrica ni a una demostració de mescla de pintures comercials. La v02 resta pendent de renderització i revisió visual.

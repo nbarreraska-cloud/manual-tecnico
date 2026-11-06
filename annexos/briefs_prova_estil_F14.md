@@ -220,3 +220,19 @@ S'han creat vuit nous esquemes SVG editables, directament a la branca de treball
 Són esquemes conceptuals E0. Les representacions són simplificacions didàctiques i no substitueixen les fitxes F10. G021 no assigna propietats òptiques universals als materials; G022 i G024 són esquemes conceptuals de transmissió; G025 no és un dibuix a escala; G035 no representa una miniatura concreta; G036 és una escala neutra i no un mapa de llum aplicat.
 
 No s'han aprovat ni inserit. La precisió final requereix coteig amb el text lector i les fitxes F10, i revisió del render i de la mida de pàgina.
+
+
+## 13. Revisió i redisseny de vuit prototips anteriors
+
+Després de crear la tercera ampliació, s'han preparat versions v02 per corregir els problemes geomètrics i conceptuals identificats a la primera revisió:
+
+- [G007 v02](../grafics_prova/fig_C04_4-2_G007_v02.svg): separa visualment matís, valor i croma i evita presentar-los com una única magnitud.
+- [G009 v02](../grafics_prova/fig_C04_4-4_G009_v02.svg): substitueix la forma de cub regular per una representació conceptual no quantitativa; s'adverteix expressament que no és un sòlid colorimètric Munsell.
+- [G011 v02](../grafics_prova/fig_C04_4-6_G011_v02.svg): fa explícites les oposicions de matís i distingeix la idea de matisos veïns.
+- [G012 v02](../grafics_prova/fig_C05_5-1_G012_v02.svg): separa la normal del raig incident i explicita la perpendicularitat respecte del pla.
+- [G013 v02](../grafics_prova/fig_C05_5-2_G013_v02.svg): reorganitza els raigs perquè comparteixin el punt d'incidència i els angles es mesurin respecte de la normal.
+- [G014 v02](../grafics_prova/fig_C05_5-3_G014_v02.svg): representa normals locals perpendiculars a la tangent de la superfície corba.
+- [G016 v02](../grafics_prova/fig_C05_5-5_G016_v02.svg): reorganitza font, volum i superfície receptora per fer més explícita la relació causal de l'ombra.
+- [G018 v02](../grafics_prova/fig_C06_6-1_G018_v02.svg): redueix l'esquema a una transició tonal conceptual i deixa clar que no és una simulació fotomètrica.
+
+Les versions v01 es conserven com a historial. Les v02 són redissenys editorials, no figures aprovades. Encara cal cotejar-les amb el contingut complet de les fitxes F10 i fer el control de render i lectura a mida de pàgina. En particular, G011 necessita validar la correspondència de les línies del cercle amb el sistema cromàtic que adopta el capítol; G014 i G016 necessiten comprovació geomètrica detallada; G018 no s'ha d'interpretar com una distribució física mesurada.

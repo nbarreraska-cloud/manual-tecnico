@@ -168,7 +168,7 @@ No s'ha creat ni guardat cap fitxer visual de G002. Per tant, la figura no està
 **Data del registre:** 2026-11-06  
 **Capítol:** 3  
 **Ubicació corregida contra F9:** apartat 3.2.1, pàgina 16.  
-**Estat:** <badge>produïda i comprovada</badge>
+**Estat:** produïda i comprovada.
 
 ### Objectiu didàctic
 

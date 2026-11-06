@@ -491,7 +491,7 @@ El fitxer s'ha creat al repositori. La renderització visual independent, la lle
 **Data del registre:** 2026-11-06  
 **Capítol:** 20.  
 **Ubicació contrastada amb F9 i F10:** apartats 20.8.1–20.8.2; pàgines 154–155 a la maqueta F9.  
-**Estat:** SVG creat i guardat al repositori; verificació del fitxer i del registre pendent de completar en aquesta mateixa sessió. Renderització visual independent i validació a mida d'impressió pendents.
+**Estat:** SVG creat, recuperat de nou des del repositori i comprovat estructuralment; registre acumulatiu actualitzat i verificat. Renderització visual independent i validació a mida d'impressió pendents.
 
 ### Objectiu didàctic
 
@@ -530,5 +530,5 @@ El fitxer s'ha creat al repositori. La renderització visual independent, la lle
 |---|---|---|
 | 2026-11-06 | Contrastar la fitxa G060 amb els apartats 20.8.1–20.8.2 del capítol 20 | Contingut i ancoratges verificats |
 | 2026-11-06 | Representar la construcció en quatre fases i integrar el nus amb vetes desviades | Composició aplicada |
-| 2026-11-06 | Crear el recurs original en SVG | Creat; verificació de repositori pendent |
+| 2026-11-06 | Crear el recurs original en SVG i recuperar-lo de nou per comprovar-ne l'estructura i el registre | Creat i verificat al repositori |
 

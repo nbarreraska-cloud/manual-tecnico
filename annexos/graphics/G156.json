@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "G156",
+  "editorial_title": "14",
+  "chapter": "CV-14-01",
+  "placement": "Senyals visuals de transparència i translucidesa",
+  "brief_title": "Senyals visuals de transparència i translucidesa",
+  "type": "E0 — esquema conceptual comparatiu.",
+  "composition": "## G156 — Senyals visuals de transparència i translucidesa\n\n**Capítol i ancoratge:** C14, després de 14.3.6 — «Gruix i curvatura».  \n**Tipus:** E0 — esquema conceptual comparatiu.\n\n**Composició**\n- Tres mostres amb un mateix motiu de fons i geometries comparables: comportament transparent, translúcid i opac.\n- Sobre cada mostra, assenyalar quina informació del fons es conserva, es distorsiona, es difumina o queda bloquejada.\n- Anotar els indicis pertinents: contorns, reflexos, refracció, difusió, gruix i estructura interna.\n- Incloure una llegenda gràfica curta que diferenciï informació transmesa, difosa i bloquejada.\n\n**Jerarquia de lectura**\nLa comparació del mateix fons a través de tres comportaments és principal. Les anotacions òptiques són secundàries.\n\n**Informació que ha de quedar clara**\nLa transparència i la translucidesa no són graus equivalents d'opacitat. La lectura depèn de la informació transmesa i de com arriba a l'observador.\n\n**No representar**\nLa transparència del producte pictòric com si fos la transparència de l'objecte. No representar refracció com un canvi cromàtic arbitrari ni translucidesa com a opacitat absoluta.\n\n**Control de qualitat**\nEl fons ha de ser exactament el mateix en les tres mostres. Les diferències han de venir del comportament representat, no d'un canvi d'escena.",
+  "source": "annexos/briefs_visuals_detallats_G151-G170_DBD02_2026-11.md",
+  "production_status": "brief_structured_not_renderable",
+  "approval_status": "brief_approved_visual_design_pending",
+  "rendering_note": "No renderitzar fins que s'hagi desenvolupat una plantilla que representi fidelment aquesta composició."
+}

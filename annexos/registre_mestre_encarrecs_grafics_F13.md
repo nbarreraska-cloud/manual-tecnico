@@ -33,10 +33,10 @@
 | 5.1 / G012 | 5.4 | apartat 5.3.1 | E0 | Orientació dels plans respecte de la font | [SVG v03 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C05_5-1_G012_v03.svg) |
 | 5.2 / G013 | 5.6 | apartat 5.3.2; remissió conceptual a 5.4.1 | E0 | Angle d'incidència i llei de la reflexió | [SVG v03 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C05_5-2_G013_v03.svg) |
 | 5.3 / G014 | 5.7 | apartat 5.3.1 | E0 | Il·luminació de superfícies planes i corbes | [SVG v03 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C05_5-3_G014_v03.svg) |
-| 5.4 / G015 | 5.11 | apartat 5.5.1 | E0 | «Diferents orientacions de superfície davant d'una mateixa font lluminosa i les normals geomètriques corresponents.» | Pendent d'encàrrec |
+| 5.4 / G015 | 5.11 | apartat 5.5.1 | E0 | Relació espacial entre font lluminosa, objecte bloquejador i superfície receptora de l'ombra | [SVG v01 · pendent de renderització i revisió](../grafics_prova/fig_C05_5-4_G015_v01.svg) |
 | 5.5 / G016 | 5.12 | apartat 5.5.2 | E0 | Ombra pròpia i ombra projectada | [SVG v03 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C05_5-5_G016_v03.svg) |
-| 5.6 / G017 | 5.13 | apartat 5.5.3 | E0 | «Angle d'incidència i angle de reflexió mesurats respecte de la normal geomètrica.» | Pendent d'encàrrec |
-| 5.7 / G018 | 5.15 | apartat 5.7 | E0 | «Distribució de la il·luminació sobre un pla d'orientació constant i una superfície corba amb normals variables.» | [SVG v03 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C06_6-1_G018_v03.svg) |
+| 5.6 / G017 | 5.13 | apartat 5.5.3 | E0 | Formació de l'umbra i la penombra quan una font extensa queda bloquejada parcialment | [SVG v01 · pendent de renderització i revisió](../grafics_prova/fig_C05_5-6_G017_v01.svg) |
+| 5.7 / G018 | 5.15 | apartat 5.7 | E0 | Senyals visuals que suggereixen profunditat i volum: llums, ombres, contorns, reflexos, orientació i superposició | [SVG v04 · pendent de renderització i revisió](../grafics_prova/fig_C05_5-7_G018_v04.svg) |
 | 5.8 / G019 | 5.16 | apartat 5.8.4 | E0 | Anàlisi d'il·luminació d'una miniatura | Pendent d'encàrrec |
 | 6.1 / G020 | 6.1 | apartat 6.1 | E0 | «Del material real als indicis visuals percebuts i a la seva representació pictòrica simplificada.» | [SVG v01 · prova conceptual pendent de revisió](../grafics_prova/fig_C06_6-1_G020_v01.svg) |
 | 6.2 / G021 | 6.4 | apartat 6.3 | E0 | Comparació de respostes superficials: reflexos definits, estesos, fragmentats o poc perceptibles | [SVG v02 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C06_6-2_G021_v02.svg) |
@@ -44,10 +44,10 @@
 | 6.4 / G023 | 6.7 | apartat 6.5.1 | E0 | Materials diferents que comparteixen un indici visual però es diferencien per estructura, textura i resposta òptica | [SVG v02 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C06_6-4_G023_v02.svg) |
 | 6.5 / G024 | 6.8 | apartat 6.6 | E0 | De la referència material a la selecció dels indicis essencials i la representació simplificada a escala miniatura | [SVG v02 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C06_6-5_G024_v02.svg) |
 | 7.1 / G025 | 7.2 | apartat 7.3.1 | E0 | Components del pinzell i comparació de formes de punta | [SVG v02 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C07_7-1_G025_v02.svg) |
-| 7.2 / G026 | 7.4 | apartat 7.3.7 | E0 | «Components del pinzell i formes de punta: pèl o filament, virolla i mànec.» | Pendent d'encàrrec |
+| 7.2 / G026 | 7.4 | apartat 7.3.7 | E0 | Aplicació manual amb pinzell, pulverització amb aerògraf i aplicació amb aerosol pressuritzat | [SVG v01 · pendent de renderització i revisió](../grafics_prova/fig_C07_7-2_G026_v01.svg) |
 | 7.3 / G027 | 7.5 | apartat 7.4 | E0 | Seqüència de preparació d'una miniatura | Pendent d'encàrrec |
-| 7.4 / G028 | 7.6 | apartat 7.5 | E2 | «Aplicació manual amb pinzell, pulverització amb aerògraf i aplicació amb aerosol pressuritzat.» | Pendent d'encàrrec |
-| 7.5 / G029 | 7.7 | apartat 7.6 | E0 | «Inspecció, eliminació de rebaves i línies de motlle, neteja, muntatge, correcció de juntes i comprovació final.» | Pendent d'encàrrec |
+| 7.4 / G028 | 7.6 | apartat 7.5 | E2 | Comparació de cobertura insuficient, adequada i excessiva i de la conservació del detall | Bloquejada: E2 sense mostres documentades; cal executar la prova o decidir formalment l'alternativa conceptual E0 |
+| 7.5 / G029 | 7.7 | apartat 7.6 | E0 | Comprovació del producte, homogeneïtzació, dosificació, prova i ajust de consistència quan correspongui | [SVG v01 · pendent de renderització i revisió](../grafics_prova/fig_C07_7-5_G029_v01.svg) |
 | 11.1 / G030 | 11.1 | apartat 11.1 | E0 | «Comparació de la naturalesa, presentació i comportament del rentat, la tinta i el pigment en pols.» | Pendent d'encàrrec |
 | 11.2 / G031 | 11.3 | apartats 11.2.3–11.2.4 | E0 | Rentat general i rentat localitzat | Pendent d'encàrrec |
 | 11.3 / G032 | 11.5 | apartats 11.4.2 i 11.7.4 | E0 | «Comparació entre l'aplicació general d'un rentat i la seva aplicació localitzada sobre relleus i cavitats.» | Pendent d'encàrrec |
@@ -230,3 +230,17 @@ Workflow [Render SVG prototype review](https://github.com/nbarreraska-cloud/manu
 - G110 v01: es manté l'enfocament; lectura a mida real pendent.
 
 Cap figura no queda aprovada per aquesta revisió tècnica.
+
+
+## Nota de conciliació F10–F13 — C5 i C7 (06/11/2026)
+
+El coteig directe amb les fitxes F10 i els apartats corresponents del text consolidat ha detectat una desalineació en diverses files del registre F13. S'ha corregit F13 d'acord amb F10, sense modificar la selecció ni la numeració:
+
+- G015 / P1 5.11: bloqueig de llum i formació de l'ombra (font, objecte bloquejador i superfície receptora).
+- G017 / P1 5.13: formació de l'umbra i la penombra amb font extensa.
+- G018 / P1 5.15: senyals visuals de construcció del volum. La v03, que duplicava el contingut de G014, es conserva com a antecedent; la v04 aborda el contingut correcte.
+- G026 / P1 7.4: comparació de pinzell, aerògraf i aerosol. L'anatomia del pinzell correspon a G025 / P1 7.2.
+- G028 / P1 7.6: control de la imprimació i conservació del detall. Es manté E2 i queda bloquejada perquè no hi ha mostres físiques documentades; no es representarà com a resultat real. F10 permet valorar una alternativa conceptual E0, però la conversió s'ha de decidir i registrar abans d'acceptar-la.
+- G029 / P1 7.7: preparació operativa de pintures (comprovació, homogeneïtzació, dosificació, prova i ajust de consistència). La preparació de la miniatura correspon a G027 / P1 7.5.
+
+Aquesta conciliació es fonamenta en les fitxes F10 i en els apartats 5.5.1, 5.5.3, 7.3.7, 7.5 i 7.6 de la compilació consolidada. Les versions noves continuen pendents de renderització i revisió; cap no queda aprovada per aquesta correcció documental.

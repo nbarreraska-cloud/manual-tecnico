@@ -477,6 +477,8 @@ def main() -> int:
         svg_content = render_rock_family_atlas(spec)
     elif spec.get("template") == "stone_texture_studies":
         svg_content = render_stone_texture_studies(spec)
+    elif spec.get("template") == "crystal_morphology_atlas":
+        svg_content = render_crystal_morphology_atlas(spec)
     else:
         svg_content = render(spec)
     svg_path.write_text(svg_content, encoding="utf-8")

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "G158",
+  "editorial_title": "25",
+  "chapter": "CV-25-01",
+  "placement": "Diferències estructurals entre teixit ossi, teixits dentals i estructures queratíniques",
+  "brief_title": "Diferències estructurals entre teixit ossi, teixits dentals i estructures queratíniques",
+  "type": "E0 — comparació conceptual i morfològica.",
+  "composition": "## G158 — Diferències estructurals entre teixit ossi, teixits dentals i estructures queratíniques\n\n**Capítol i ancoratge:** C25, després de 25.2 — «Diferències estructurals i característiques visuals».  \n**Tipus:** E0 — comparació conceptual i morfològica.\n\n**Composició**\n- Tres grups clarament separats:\n  1. teixit ossi: ossos, cranis, esquelets i astes de cèrvids;\n  2. teixits dentals: dents, ullals i ivori;\n  3. estructures queratíniques: beines de banyes, urpes, ungles, peülles, becs i escates.\n- Cada grup combina silueta identificativa i detall ampliat de superfície.\n- Diferenciar explícitament l'asta òssia ramificada de la banya amb beina queratínica.\n\n**Jerarquia de lectura**\nLa distinció entre els tres grups és principal. Els exemples dins de cada grup són secundaris.\n\n**Informació que ha de quedar clara**\nMaterials de color semblant poden tenir estructures i comportaments visuals diferents.\n\n**No representar**\nUna làmina histològica, una classificació biològica exhaustiva o equivalències basades només en el color. No confondre asta i banya.\n\n**Control de qualitat**\nLes siluetes han de ser prou diferents perquè la classificació no depengui només de les etiquetes.",
+  "source": "annexos/briefs_visuals_detallats_G151-G170_DBD02_2026-11.md",
+  "production_status": "brief_structured_not_renderable",
+  "approval_status": "brief_approved_visual_design_pending",
+  "rendering_note": "No renderitzar fins que s'hagi desenvolupat una plantilla que representi fidelment aquesta composició."
+}

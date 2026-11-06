@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900"><defs><style>.t{font:700 30px Arial,sans-serif;fill:#183247}.h{font:700 21px Arial,sans-serif;fill:#28465b}.b{font:17px Arial,sans-serif;fill:#263b49}.s{font:14px Arial,sans-serif;fill:#526777}.p{fill:#fff;stroke:#b7c7d1;stroke-width:2}</style></defs>
+<rect width="1400" height="900" fill="#f3f6f8"/><text x="700" y="52" text-anchor="middle" class="t">Ombra pròpia i ombra projectada</text>
+<rect x="35" y="95" width="1330" height="710" rx="16" class="p"/>
+<circle cx="220" cy="230" r="48" fill="#f2c94c"/><path d="M270 230 L650 380" stroke="#d3a52d" stroke-width="5"/>
+<circle cx="680" cy="470" r="180" fill="#b8c7d1" stroke="#28465b" stroke-width="3"/><path d="M680 290 A180 180 0 0 1 680 650" fill="#526777" opacity=".8"/>
+<path d="M680 650 L1130 650 L1230 690 L770 690 Z" fill="#526777" opacity=".5"/>
+<path d="M500 650 H1250" stroke="#28465b" stroke-width="4"/>
+<g class="b"><text x="700" y="485" text-anchor="middle" fill="#fff">Ombra pròpia</text><text x="1030" y="730" text-anchor="middle">Ombra projectada</text><text x="220" y="310" text-anchor="middle">Font lluminosa</text></g>
+<text x="700" y="770" text-anchor="middle" class="s">Esquema conceptual: l'ombra pròpia es forma sobre el mateix volum; l'ombra projectada apareix sobre una altra superfície.</text></svg>

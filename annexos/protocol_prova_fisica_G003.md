@@ -2,10 +2,9 @@
 
 **Projecte:** manual tècnic de pintura de miniatures  
 **Figura:** 3.1 / G003  
-**Ubicació registrada a F10:** apartat 3.1.  
-**Apartat del text consolidat on es desenvolupa el contingut:** 3.2.1 — Opacitat, transparència i cobertura.  
-**Incidència d'ancoratge:** discrepància pendent de resolució editorial abans de fixar la ubicació definitiva de la figura.  
-**Classificació editorial vigent:** E2  
+**Ubicació a la compilació i a F11:** apartat 3.2.1 — Opacitat, transparència i cobertura.  
+**Discrepància documental:** F13 encara registra «apartat 3.1»; aquesta dada no concorda amb el contingut efectiu ni amb l'ancoratge contextual de F11. No s'ha modificat F10/F11 en aquesta actuació.  
+**Evidència:** E2 només si s'incorporen mostres reals identificades i documentades; mentre no existeixi aquesta prova, la representació admissible és E0 conceptual.  
 **Estat:** protocol preparat; prova física no executada  
 **Branca:** `intervencion-editorial-2026-11`
 
@@ -190,12 +189,14 @@ La prova no modifica automàticament la figura 3.1 ni la seva classificació. De
 
 Qualsevol canvi de naturalesa de la figura o de la seva classificació E2 s'haurà de justificar documentalment abans d'actualitzar F10/F11 o F15.
 
-## 10. Incidència d'ancoratge
+## 10. Conciliació de l'ancoratge i de l'evidència
 
-La llista definitiva F10 situa G003 a l'apartat 3.1. Tanmateix, al text consolidat consultat, l'apartat 3.1 és «Objectiu i abast», mentre que el desenvolupament d'opacitat, transparència i cobertura apareix a 3.2.1. L'ancoratge registrat no coincideix, per tant, amb el desenvolupament temàtic visible.
+La verificació contextual ja permet resoldre el dubte d'ubicació: al text consolidat, el capítol 3.1 és «Objectiu i abast» i el desenvolupament pertinent és 3.2.1. La tanda F11 també situa expressament G003 a 3.2.1, després de la definició i de la llista de comportaments generals. Per tant, l'ancoratge lector coherent és **3.2.1**. La dada «apartat 3.1» que encara apareix a F13 és una discrepància de registre que s'ha de conciliar en una actualització documental posterior; no és motiu per tornar a demanar informació ni per alterar el text lector.
 
-No es corregeix automàticament F10 ni cap document de remissions en aquest protocol. Abans de produir la figura cal verificar el paràgraf exacte on ha d'aparèixer i determinar si l'ancoratge correcte és 3.2.1 o si hi ha una altra ubicació prevista. Aquesta discrepància és independent de la prova física.
+També cal separar ubicació i evidència. La figura està planificada com E2 perquè la proposta inicial contempla mostres reals. Però no hi ha prova física ni fotografies documentades. En conseqüència, no es pot produir ni presentar com a E2 en l'estat actual. Si la prova no s'executa, s'ha de mantenir la via E0 conceptual descrita a F14, sense simular mostres. Si s'executa i supera els criteris, es podrà mantenir la via E2 amb identificació de les mostres i condicions.
+
+Aquesta conciliació es documenta aquí; no actualitza per si sola F10, F11, F13 ni el manual lector.
 
 ## 11. Estat
 
-Protocol preparat. No s'han seleccionat ni provat pintures, no s'han produït fotografies, no s'ha validat cap resultat i no s'ha modificat el prototip G003 ni el manual.
+Protocol preparat. La paleta de referència consta de 48 pintures als sets Squidmar × Vallejo, documentades a l'annex A; aquesta dada no prova per si sola quines referències estan físicament disponibles per executar la prova. No s'han produït fotografies ni s'ha validat cap resultat. L'ancoratge lector queda justificat a 3.2.1; resta pendent conciliar la dada errònia de F13. No s'ha modificat el prototip G003 ni el manual.

@@ -126,3 +126,89 @@ S'ha fet una lectura addicional del codi SVG, no una validació visual en navega
 
 No s'ha pogut executar un renderitzador SVG en aquest entorn. Per tant, no es declara superada la comprovació de renderització, tipografia, filtres, modes de fusió ni llegibilitat a mida de pàgina. La revisió anterior és només estàtica, basada en el contingut del codi. Els quatre fitxers continuen en estat «revisió tècnica», sense aprovació.
 
+
+
+## 9. Revisió de fidelitat representativa i contrast amb el contingut
+
+Aquesta revisió contrasta cada SVG amb el brief F14 i amb el contingut efectiu de la compilació consolidada. No avalua només si el dibuix «s'assembla» al tema: comprova si representa les distincions i els processos que el text explica.
+
+### 9.1. Figura 4.1 / G006 — RGB i CMY
+
+**Correspondència amb el text:** alta a nivell conceptual.
+
+- El camp RGB sobre fons fosc i el camp CMY sobre fons clar separen correctament mescla de llum i mescla sostractiva.
+- La disposició de tres components superposats permet llegir les combinacions i el centre blanc/negre idealitzat.
+- La nota sobre la idealització del CMY és coherent amb l'advertiment del capítol: els pigments i colorants reals no reprodueixen necessàriament el resultat teòric.
+- No s'hi introdueixen CMYK, perfils d'impressió ni altres continguts que el text no desenvolupi.
+
+**Reserva tècnica:** la representació depèn de `mix-blend-mode: screen` i `multiply`. El codi estàtic no demostra que aquests modes es renderitzin igual en tots els entorns. Cal comprovar el PNG de prova i, posteriorment, l'exportació del document. Si el renderitzador no respecta els modes, cal substituir-los per colors de superposició explícits o per una construcció SVG més compatible.
+
+**Dictamen de fidelitat:** representa el contingut correcte; pendent de verificació de renderització, no de reformulació conceptual.
+
+### 9.2. Figura 3.1 / G003 — Opacitat i transparència
+
+**Correspondència amb el text:** bona, amb una limitació didàctica.
+
+- El mateix patró de fons es conserva als quatre camps i només varia l'opacitat de la capa blava.
+- La progressió permet observar com el fons queda ocult, es percep poc o continua visible.
+- La nota inferior separa explícitament opacitat/transparència de cobertura, en coherència amb el capítol 3.2.1.
+- La imatge es presenta com a esquema conceptual, no com a prova de productes.
+
+**Limitació:** els valors d'opacitat del SVG (1; 0,78; 0,48; 0,18) són valors gràfics triats per construir una progressió. No proven categories físiques normalitzades ni permeten classificar pintures reals. La figura no ha d'induir a llegir «semiopaca» i «semitransparent» com a llindars universals. La llegenda o el peu han de conservar la qualificació orientativa.
+
+**Dictamen de fidelitat:** representa correctament la idea d'ocultació del fons; cal mantenir inequívoc el caràcter esquemàtic i no experimental.
+
+### 9.3. Figura 16.4 / G042 — Construcció NMM
+
+**Correspondència amb el text:** parcial; no és suficient encara per aprovar-la.
+
+El prototip representa una peça allargada semblant a una fulla metàl·lica i acumula zones fosques, intermèdies i clares. Això s'aproxima a l'ordre general de les fases 16.5.2–16.5.7, però no arriba a representar amb prou precisió el que fa que la superfície es llegeixi com a metàl·lica.
+
+Problemes identificats:
+
+1. **Materialitat insuficient:** la peça es pot llegir com una superfície grisa amb ombres i llums. No hi ha una estructura de reflexos prou inequívoca per diferenciar NMM d'un ombreig genèric sobre un material mat.
+2. **Relació amb la geometria poc demostrada:** la forma és constant, però la distribució de les masses tonals no explica de manera clara com els reflexos responen als plans, arestes o curvatures de la peça.
+3. **Direcció i entorn de reflexió absents:** el capítol explica que les regions fosques i clares responen a un patró de reflexos i a la geometria. El dibuix no explicita cap esquema de llum/reflexió ni fa visible aquesta relació.
+4. **Fase d'integració feble:** els panells 5 i 6 són molt semblants. La darrera fase no mostra prou clarament quina revisió o integració s'ha dut a terme.
+5. **Gradient declarat però no utilitzat:** el SVG defineix `bladeBase`, però cap de les sis siluetes l'utilitza. No és un error conceptual per si sol, però és codi inactiu i no correspon a una base cromàtica realment representada.
+
+**Correcció necessària abans de l'aprovació:** redissenyar la seqüència perquè la peça presenti un patró de reflexos deliberat i coherent amb la seva geometria; distingir visualment plans, reflexos clars i bandes fosques; fer que el pas final mostri una integració identificable, no només una variació menor. Cal mantenir la nota que la seqüència és didàctica i no universal: el capítol permet començar des d'una base fosca o intermèdia i adaptar els reflexos a cada forma.
+
+**Dictamen de fidelitat:** el tema és correcte, però la representació actual no demostra prou bé el fenomen tècnic. No aprovar G042 en la versió v01.
+
+### 9.4. Figura 34.1 / G110 — Tipus de vidre
+
+**Correspondència amb el text:** bona a nivell introductori.
+
+- L'escena comuna permet comparar la visió definida a través d'un material transparent amb la difusió del vidre esmerilat.
+- La mostra acolorida afegeix una tonalitat sense eliminar la visibilitat del fons, coherent amb el capítol 34.2.
+- La versió esmerilada difumina l'escena i els contorns, en lloc de convertir el material en una superfície simplement mate o completament opaca.
+- La comparació inferior manté el mateix escenari i les mateixes dimensions, de manera que la variable principal és la difusió.
+
+**Límits de representació:** el dibuix és un esquema de transmissió visual, no una simulació òptica completa. No representa refracció, distorsió per gruix o curvatura, ni reflexos superficials; aquests fenòmens apareixen al text, però no són l'objectiu d'aquesta figura introductòria. No s'ha de presentar com si resumís totes les propietats del vidre.
+
+**Punt de control:** comprovar que el desenfocament no quedi retallat ni sembli una textura decorativa. Si el renderitzat no fa evident la pèrdua de definició del fons, cal augmentar o ajustar la difusió.
+
+**Dictamen de fidelitat:** representa correctament la distinció central entre transparència definida i transmissió difusa. Pot continuar a revisió tècnica, sense aprovació fins a veure el render.
+
+## 10. Via de renderització i estat actualitzat
+
+S'ha afegit el workflow `.github/workflows/render-svg-prototypes.yml` a la branca de treball. El procés:
+- comprova que hi siguin els quatre prototips esperats;
+- analitza l'estructura XML de cada SVG;
+- els renderitza a PNG amb CairoSVG;
+- genera una làmina de contacte per facilitar la comparació;
+- publica les previsualitzacions com a artefacte de GitHub Actions.
+
+Aquest workflow permet obtenir una prova visual reproduïble sense incorporar cap imatge al manual. La renderització de CairoSVG és una comprovació d'un entorn concret, no una garantia que Word, LibreOffice o tots els navegadors reprodueixin exactament els mateixos filtres i modes de fusió.
+
+**Estat després de la revisió de fidelitat:**
+
+| Prototip | Fidelitat conceptual | Estat editorial |
+|---|---|---|
+| G006 — RGB/CMY | Bona | Pendent de renderització i compatibilitat dels modes de fusió |
+| G003 — Opacitat/transparència | Bona, amb caràcter esquemàtic obligatori | Pendent de renderització i lectura a mida de pàgina |
+| G042 — NMM | Insuficient en la v01 | Requereix redisseny abans de continuar |
+| G110 — Vidre | Bona per a la distinció introductòria | Pendent de renderització i comprovació de la difusió |
+
+No s'aprova cap dels quatre prototips. La G042 necessita una correcció conceptual/visual abans de considerar-la apta; les altres tres necessiten encara comprovació gràfica real. No s'ha modificat F10, la compilació consolidada ni cap capítol del manual.

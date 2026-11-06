@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "G157",
+  "editorial_title": "14",
+  "chapter": "CV-14-02",
+  "placement": "Construcció pictòrica de superfícies transparents i translúcides",
+  "brief_title": "Construcció pictòrica de superfícies transparents i translúcides",
+  "type": "E1 — seqüències tècniques proposades.",
+  "composition": "## G157 — Construcció pictòrica de superfícies transparents i translúcides\n\n**Capítol i ancoratge:** C14, després de 14.7.3 — «Integració de contorns, reflexos i estructura interna».  \n**Tipus:** E1 — seqüències tècniques proposades.\n\n**Composició**\n- Dos blocs paral·lels:\n  - **A. Transparent:** fons adaptat a la geometria, conservació de la informació, tractament de contorns i reflexos.\n  - **B. Translúcid:** reducció de definició del fons, difusió, contorns menys definits i estructura interna quan correspongui.\n- Cada bloc ha de tenir fases breus i coherents amb el procediment del capítol.\n- Un petit detall de comportament combinat/profunditat interna només s'afegeix si no resta espai als dos blocs principals.\n\n**Jerarquia de lectura**\nTransparència i translucidesa han de tenir el mateix rang i ser llegibles com a procediments diferenciats.\n\n**Informació que ha de quedar clara**\nLes decisions pictòriques canvien segons la informació del fons que es vol conservar o difondre.\n\n**No representar**\nEl receptari específic del vidre del C34. No desplaçar els dos procediments principals amb el detall combinat.\n\n**Control de qualitat**\nMantenir la mateixa geometria base quan es comparin els dos procediments. No fer que el cas translúcid sembli simplement una versió desaturada del transparent.",
+  "source": "annexos/briefs_visuals_detallats_G151-G170_DBD02_2026-11.md",
+  "production_status": "brief_structured_not_renderable",
+  "approval_status": "brief_approved_visual_design_pending",
+  "rendering_note": "No renderitzar fins que s'hagi desenvolupat una plantilla que representi fidelment aquesta composició."
+}

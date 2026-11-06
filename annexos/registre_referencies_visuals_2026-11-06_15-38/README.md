@@ -437,3 +437,51 @@ El fitxer s'ha creat al repositori. La comprovació visual del renderitzat local
 | 2026-11-06 | Contrastar els objectius amb els apartats 16.1 i 16.2 de F9 i les entrades G039–G040 de F10 | Ancoratges verificats |
 | 2026-11-06 | Consolidar la comparació TMM/NMM i l'adaptació dels reflexos a dues geometries en un SVG amb dos panells | Composició aplicada |
 | 2026-11-06 | Crear el fitxer i incorporar-lo al registre acumulatiu | Produït i registrat |
+---
+
+## G044+G048 — Figures 17.1 i 17.5. Font emissora, superfícies receptores i construcció de l'OSL
+
+**Data del registre:** 2026-11-06  
+**Capítol:** 17.  
+**Ubicacions contrastades amb F9 i F10:** G044, apartats 17.2.1–17.2.3 (Figura 17.1); G048, apartats 17.5.1–17.5.7 (Figura 17.5).  
+**Estat:** SVG creat i guardat al repositori; verificació del fitxer i del registre pendent de completar en aquesta mateixa sessió. Renderització externa i validació a mida d'impressió pendents.
+
+### Objectiu didàctic
+
+Distingir la font representada, les superfícies que reben la llum i els reflexos localitzats; mostrar, en un segon panell independent, una seqüència operativa per planificar, aplicar i integrar l'OSL.
+
+### Decisió visual aplicada
+
+S'ha creat un únic SVG amb dos panells traçables:
+
+1. **G044 — Figura 17.1:** esquema espacial amb una font lluminosa, raigs incidents, dues superfícies receptores i un reflex localitzat. El reflex s'identifica com una resposta de la superfície receptora, no com una segona font.
+2. **G048 — Figura 17.5:** seqüència de cinc fases: planificar; situar la font; identificar les superfícies receptores; aplicar valor, color i transicions; integrar i revisar la coherència amb l'entorn.
+
+La unió en un mateix fitxer és de producció i maquetació; no converteix els dos objectius en un únic diagrama ni substitueix la lectura espacial per una seqüència.
+
+### Fitxer
+
+[G044+G048 — SVG](G044-G048_figures_17_1-17_5_font_OSL_construccio.svg)
+
+### Control tècnic i editorial
+
+- Format SVG vectorial, amb textos editables.
+- Es distingeix emissió representada, llum rebuda i reflex localitzat.
+- No s'interpreta un color intens com a prova suficient d'emissió.
+- La seqüència d'OSL és una guia de construcció, no una recepta cromàtica universal.
+- La nota final aclareix que l'OSL és una simulació pictòrica i que la pintura no emet llum real.
+- Tots els textos de la figura són en català.
+- No s'han reutilitzat imatges externes.
+
+### Límits de validació
+
+El fitxer s'ha creat al repositori. La renderització visual independent, la llegibilitat a la mida final de maquetació i la repaginació s'han de comprovar després de la inserció a la còpia de treball del manual i la regeneració del PDF.
+
+### Historial de decisions
+
+| Data | Decisió | Estat |
+|---|---|---|
+| 2026-11-06 | Contrastar G044 i G048 amb les fitxes editorials F10 i els ancoratges F9 | Ancoratges i funcions verificats |
+| 2026-11-06 | Mantenir el diagrama espacial i la seqüència de construcció en panells independents | Composició aplicada |
+| 2026-11-06 | Crear el recurs original en SVG | Creat; verificació de repositori pendent |
+

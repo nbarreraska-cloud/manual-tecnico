@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "id": "G153",
-  "editorial_title": "10",
-  "chapter": "CV-10-01",
-  "placement": "Aplicació i control d'una veladura",
+  "editorial_title": "Aplicació i control d'una veladura",
+  "chapter": "10",
+  "placement": "després de 10.5.6.",
   "brief_title": "Aplicació i control d'una veladura",
   "type": "E1 — seqüència tècnica proposada.",
   "composition": "## G153 — Aplicació i control d'una veladura\n\n**Capítol i ancoratge:** C10, després de 10.5.6 — «Avaluació final».  \n**Tipus:** E1 — seqüència tècnica proposada.\n\n**Composició**\n- Cinc fases sobre una mateixa superfície:\n  1. objectiu cromàtic de la intervenció;\n  2. preparació i prova prèvia;\n  3. càrrega controlada del pinzell;\n  4. distribució de la veladura, uniforme o localitzada segons l'objectiu;\n  5. comparació esquemàtica entre una aplicació i aplicacions successives.\n- Incorporar un requadre d'error amb una aplicació massa opaca.\n- La informació subjacent ha de continuar visible en les fases correctes.\n\n**Jerarquia de lectura**\nLa seqüència de control és principal. El requadre d'error és una advertència complementària.\n\n**Distinció terminològica obligatòria**\nLa figura tracta específicament la **veladura**. No s'ha de barrejar amb glassejat, filtre, rentat o capa opaca. Si algun d'aquests apareix en una nota comparativa, ha de quedar identificat com a tècnica diferent i no com una fase de la mateixa seqüència.\n\n**No representar**\nUna dilució, càrrega, nombre d'aplicacions o temps d'assecat universal. No representar la veladura com una capa opaca que tapa la superfície inferior.\n\n**Control de qualitat**\nLa comparació entre aplicació correcta i massa opaca ha de ser inequívoca sense exagerar artificialment la diferència. La superfície inferior ha de mantenir indicis recognoscibles.",

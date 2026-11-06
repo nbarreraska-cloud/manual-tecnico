@@ -1,12 +1,12 @@
 # Numeració editorial de treball de les figures seleccionades — F10
 
-**Estat:** selecció i numeració editorial congelades en tancar F10 (05/11/2026).  
-**Branca:** `intervencion-editorial-2026-11`  
-**Criteri:** numeració seqüencial per capítol i ordre d'aparició. Els identificadors originals de proposta es conserven per a la traçabilitat.
+**Estat:** F10-R1 — les 150 composicions P1 originals es mantenen congelades; s'hi incorporen 20 composicions complementàries aprovades el 06/11/2026 en aquesta branca.  
+**Branca:** `auditoria-cobertura-visual-incidencies-2026-11`  
+**Criteri:** numeració editorial per capítol i ordre d'aparició. Els identificadors G001–G150 es conserven sense canvis; les 20 incorporacions reben identificadors append-only G151–G170.
 
-La numeració cobreix només les 150 composicions seleccionades de les 156 P1. Les P2/P3 complementàries apareixen a la darrera columna quan tenen una destinació; les P2 en reserva no reserven números. Si F10 decideix incorporar una P2 autònoma, caldrà recalcular la numeració abans de F11.
+La matriu actualitzada conté **170 composicions**: 150 composicions procedents de 156 identificadors P1 (incloses les sis fusions documentades) i 20 composicions complementàries CV. Les noves composicions s'ubiquen en capítols que no tenien figures, de manera que no cal renumerar cap figura existent. Les P2/P3 originals conserven les destinacions o reserves documentades a F10; les 20 CV són incorporacions independents, no recuperacions automàtiques de P2/P3.
 
-| ID estable | Número editorial proposat | Identificador(s) P1 original(s) | Capítol | Títol de treball | Ubicació lectora | P2/P3 associades |
+| ID estable | Número editorial proposat | Identificador(s) d'origen | Capítol | Títol de treball | Ubicació lectora | P2/P3 associades |
 |---|---|---|---:|---|---|---|
 | G001 | Figura 1.1 | 1.2 | 1 | Classificació de la informació tècnica | apartat 1.5. | — |
 | G002 | Figura 2.1 | 2.2 | 2 | Organització documental de la informació sobre les pintures | apartat 2.5. | — |
@@ -203,3 +203,29 @@ La numeració cobreix només les 150 composicions seleccionades de les 156 P1. L
 - Registre de decisions i validacions: [registre_F10_seleccio_grafica_2026-11-05.md](registre_F10_seleccio_grafica_2026-11-05.md).
 
 **F10:** tancada. La llista de 150 composicions és la base autoritzada de planificació per a F11. No s'ha generat ni integrat cap imatge en aquesta fase.
+
+
+## Incorporacions complementàries aprovades — 06/11/2026
+
+Les 20 files següents s'afegeixen sense alterar ni renumerar les 150 composicions P1 congelades. Els identificadors G151–G170 són append-only i les numeracions editorials són noves perquè els capítols corresponents no tenien figures assignades.
+
+| G151 | Figura 8.1 | CV-08-01 | 8 | Construcció progressiva d'una superfície mitjançant capes | després de 8.5.5. | — |
+| G152 | Figura 9.1 | CV-09-01 | 9 | Comparació dels procediments de construcció dels degradats | després de 9.3.4. | — |
+| G153 | Figura 10.1 | CV-10-01 | 10 | Aplicació i control d'una veladura | després de 10.5.6. | — |
+| G154 | Figura 12.1 | CV-12-01 | 12 | Tipus de perfilat i definició selectiva dels volums | després de 12.3.5. | — |
+| G155 | Figura 13.1 | CV-13-01 | 13 | Comparació funcional de les quatre tècniques de textura | després de 13.7.5. | — |
+| G156 | Figura 14.1 | CV-14-01 | 14 | Senyals visuals de transparència i translucidesa | després de 14.3.6. | — |
+| G157 | Figura 14.2 | CV-14-02 | 14 | Construcció pictòrica de superfícies transparents i translúcides | després de 14.7.3. | — |
+| G158 | Figura 25.1 | CV-25-01 | 25 | Diferències estructurals entre teixit ossi, teixits dentals i estructures queratíniques | després de 25.2. | — |
+| G159 | Figura 25.2 | CV-25-02 | 25 | Construcció pictòrica d'ossos i teixits dentals | després de 25.5. | — |
+| G160 | Figura 25.3 | CV-25-03 | 25 | Banyes, astes i estructures queratíniques | després de 25.7. | — |
+| G161 | Figura 26.1 | CV-26-01 | 26 | Atles comparatiu de roques ígnies, sedimentàries i metamòrfiques | després de 26.7. | — |
+| G162 | Figura 26.2 | CV-26-02 | 26 | Construcció de textures pètries, vetes i components minerals | després de 26.8. | — |
+| G163 | Figura 27.1 | CV-27-01 | 27 | Estructures i morfologies de cristalls naturals | després de 27.4. | — |
+| G164 | Figura 27.2 | CV-27-02 | 27 | Gel i neu: diferències estructurals i aparença visual | després de 27.6. | — |
+| G165 | Figura 27.3 | CV-27-03 | 27 | Construcció pictòrica de gemmes | després de 27.7. | — |
+| G166 | Figura 28.1 | CV-28-01 | 28 | Corrosió del ferro i l'acer | després de 28.4. | — |
+| G167 | Figura 28.2 | CV-28-02 | 28 | Pàtines sobre coure, bronze i llautó | després de 28.5.6. | — |
+| G168 | Figura 29.1 | CV-29-01 | 29 | Pols, dipòsits secs i terres compactades | després de 29.4. | — |
+| G169 | Figura 29.2 | CV-29-02 | 29 | Fang humit, compacte i sec | després de 29.5. | — |
+| G170 | Figura 29.3 | CV-29-03 | 29 | Distribució de dipòsits segons la geometria i l'ús | després de 29.7.5. | — |

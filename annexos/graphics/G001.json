@@ -1,0 +1,50 @@
+{
+  "figure_label": "FIGURA 1.1",
+  "title": "Classificació de la informació tècnica",
+  "subtitle": "Quatre categories segons l'origen i la naturalesa de la informació",
+  "description": "Diagrama de quatre categories d'informació tècnica, sense jerarquia entre elles.",
+  "width": 1600,
+  "height": 900,
+  "ink": "#202A33",
+  "muted": "#596773",
+  "palette": ["#E8EEF4", "#E8F0E9", "#F4EDE1", "#EEE9F3"],
+  "cards": [
+    {
+      "letter": "A",
+      "heading": "Fonament tècnic",
+      "body": [
+        "Principis generals de pintura,",
+        "percepció visual, color, llum",
+        "i comportament de les superfícies."
+      ]
+    },
+    {
+      "letter": "B",
+      "heading": "Dada del fabricant",
+      "body": [
+        "Documentació tècnica o comercial,",
+        "instruccions i especificacions",
+        "declarades del producte."
+      ]
+    },
+    {
+      "letter": "C",
+      "heading": "Proposta tècnica",
+      "body": [
+        "Procediment o recomanació",
+        "raonada a partir de criteris",
+        "tècnics; no validada per si sola."
+      ]
+    },
+    {
+      "letter": "D",
+      "heading": "Resultat comprovat",
+      "body": [
+        "Resultat d'una prova física",
+        "documentada, amb les condicions",
+        "d'aplicació i l'observació."
+      ]
+    }
+  ],
+  "note": "La categoria identifica l'origen i el tipus d'evidència; no estableix, per si sola, el grau de certesa."
+}

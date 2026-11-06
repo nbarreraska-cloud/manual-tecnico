@@ -1,6 +1,6 @@
 # Generació de figures editorials
 
-Aquest sistema genera figures vectorials SVG a partir d'especificacions JSON versionades al repositori.
+Aquest sistema genera figures vectorials SVG a partir d'especificacions JSON versionades al repositori. La generació tècnica, la validació visual i l'aprovació editorial són estats diferents.
 
 ## Execució local
 
@@ -22,12 +22,16 @@ python tools/graphics/render_batch.py --render
 
 El primer pas valida que F10-R1 contingui exactament G001–G170, en ordre i sense duplicats, i crea `dist/graphics/manifest.json`. El segon inspecciona totes les especificacions JSON i genera `batch_report.json` i `batch_report.csv`.
 
-Estats possibles:
+## Estats de l'auditoria
+
 - `rendered`: especificació compatible i renderització completada.
+- `brief_structured_not_renderable`: brief editorial íntegre i traçable, però encara pendent de desenvolupament d'una composició gràfica i una plantilla adequada. És un estat deliberat, no un error.
 - `missing_spec`: encara no existeix una especificació individual.
-- `unsupported_template`: hi ha especificació, però no correspon a cap plantilla disponible.
-- `invalid_spec`: JSON o estructura incomplets.
+- `unsupported_template`: hi ha una especificació individual, però no correspon a cap plantilla de renderització disponible.
+- `invalid_spec`: JSON, identificador o estructura incomplets o inconsistents.
 - `render_error`: error durant la renderització.
+
+Els briefs G151–G170 es conserven com a especificacions estructurades. No s'han de forçar dins la plantilla de quatre targetes: cada figura necessita una solució gràfica coherent amb la seva composició.
 
 ## GitHub Actions
 

@@ -203,3 +203,11 @@ La versió mestra del manual continuarà sense imatges. Quan s'autoritzi la inse
 L'ancoratge de G003 s'actualitza de 3.1 a **3.2.1**, perquè el contingut sobre opacitat, transparència i cobertura es desenvolupa a 3.2.1 i la tanda F11 ja situa la figura després de la definició i la llista de comportaments generals d'aquest apartat. El 3.1 del capítol és «Objectiu i abast» i no és el punt d'inserció adequat. La correcció afecta únicament la dada d'ubicació del registre F13; no modifica la selecció F10, el text lector ni la compilació consolidada.
 
 L'evidència continua registrada com E2 a nivell de planificació, però no es pot presentar com a resultat E2 mentre no hi hagi mostres reals identificades i fotografies documentades. Si la prova física no s'executa, s'ha d'utilitzar l'alternativa conceptual E0 establerta a F14. Vegeu [protocol de prova física G003](protocol_prova_fisica_G003.md) i [matriu de selecció de mostres G003](matriu_seleccio_mostres_G003.md).
+
+
+## Actualització de prototips v02 — 06/11/2026
+
+- G003: [SVG v02](../grafics_prova/fig_C03_3-1_G003_v02.svg), alternativa conceptual E0. La v01 es conserva; la v02 separa la nota explicativa dels panells i evita atribuir categories a pintures concretes.
+- G042: [SVG v02](../grafics_prova/fig_C16_16-4_G042_v02.svg), seqüència E1 proposada no assajada. La v01 es conserva com a antecedent rebutjat; la v02 utilitza una mateixa fulla d'espasa i fa progressar masses fosques, transicions, reflex principal, accents i integració.
+
+Tots dos prototips resten en revisió tècnica. La creació dels SVG no equival a aprovació ni a inserció al manual.

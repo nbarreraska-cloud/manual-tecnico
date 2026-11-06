@@ -11,7 +11,8 @@
 3. [Tanda 02 — capítols 15–24](pla_remissions_i_insercio_F11_tanda_02_C15-C24.md).
 4. [Tanda 03 — capítols 30–39](pla_remissions_i_insercio_F11_tanda_03_C30-C39.md).
 5. [Tanda 04 — capítols 8–14 i 25–29](pla_remissions_i_insercio_F11_tanda_04_C08-C14_C25-C29.md).  
-6. [Auditoria editorial F11 — evidències i remissions creuades](auditoria_editorial_F11_remissions_evidencies.md), ampliada amb el registre F11-R1.
+6. [Auditoria editorial F11 — evidències i remissions creuades](auditoria_editorial_F11_remissions_evidencies.md), ampliada amb el registre F11-R1.  
+7. [Revisió tècnica de les 20 fitxes complementàries contra F9](revisio_tecnica_fitxes_complementaries_G151-G170_F9_2026-11.md).
 
 Les tandes 01–03 conserven el contingut i la traçabilitat de les 150 composicions originals. La tanda 04 incorpora les 20 composicions noves dels capítols que no tenien cobertura.
 
@@ -101,7 +102,11 @@ Quan comenci la inserció gràfica:
 5. Es compararan les dues versions per verificar que el text, l'estructura i els elements no gràfics s'han conservat.
 6. La còpia il·lustrada tindrà identificació de versió i traçabilitat pròpies.
 
-## 9. Estat final
+## 9. Revisió tècnica de les fitxes complementàries
+
+Les 20 fitxes G151–G170 s'han contrastat amb el contingut real de F9, inclosos procediments i receptes. La revisió no retira cap composició, però fixa condicions específiques de representació i corregeix els ancoratges de G166 i G167: després de 28.7.2 i 28.7.3, respectivament. El detall consta a l'informe de revisió tècnica enllaçat a l'apartat 1.
+
+## 10. Estat final
 
 F11-R1 deixa preparat el control global de **170 composicions**, amb 20 noves fitxes, 20 nous ancoratges i les remissions candidates documentades. La traçabilitat de les 150 composicions originals es conserva i les 20 noves queden incorporades de manera independent.
 

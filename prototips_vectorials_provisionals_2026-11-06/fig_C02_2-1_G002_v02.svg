@@ -71,7 +71,7 @@
 <!-- Relacions que alimenten l'aplicació -->
 <path d="M945 552 H1090" class="connector" marker-end="url(#arrow)"/>
 <text x="1017" y="530" text-anchor="middle" class="connector-label">fonaments generals</text>
-<path d="M505 785 H1010 V685 H1295 V665" class="connector" marker-end="url(#arrow)"/>
+<path d="M505 785 H1010 V685 H1295 V655" class="connector" marker-end="url(#arrow)"/>
 <text x="760" y="765" text-anchor="middle" class="connector-label">documentació específica de les pintures</text>
 
 <!-- Nota de rigor -->

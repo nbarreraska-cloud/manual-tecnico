@@ -149,7 +149,7 @@ def render_light_orientation(spec: dict) -> str:
     # Three diverging rays reach spatially separated planes: no ray crosses
     # another opaque plane on its way from the common source.
     planes = [
-        {"x1": 510, "y1": 250, "x2": 630, "y2": 250, "tx": 570, "ty": 250, "label": "Pla horitzontal"},
+        {"x1": 510, "y1": 330, "x2": 630, "y2": 330, "tx": 570, "ty": 330, "label": "Pla horitzontal"},
         {"x1": 920, "y1": 365, "x2": 920, "y2": 495, "tx": 920, "ty": 430, "label": "Pla vertical"},
         {"x1": 1200, "y1": 565, "x2": 1300, "y2": 675, "tx": 1250, "ty": 620, "label": "Pla inclinat"},
     ]
@@ -220,17 +220,18 @@ def render_biological_material_atlas(spec: dict) -> str:
         '<path d="M812 510 L840 535" stroke="#8296A3" stroke-width="2"/><text x="818" y="558" font-family="DejaVu Sans, Arial" font-size="16" fill="#5B6872">Dentina</text>',
         '<text x="800" y="625" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="16" fill="#5B6872">Forma i continuïtat superficial</text>'
     ])
-    # Keratin: curved horn sheath with longitudinal growth striae; not an antler.
+    # Bovid horn cutaway: keratin sheath surrounding a bony core.
     parts.extend([
         '<path d="M1218 555 C1192 493 1202 424 1251 382 C1302 338 1370 356 1402 317 C1392 384 1334 414 1297 452 C1265 485 1260 525 1268 566 Z" fill="#C6A77A" stroke="#6F5B43" stroke-width="5"/>',
-        '<g fill="none" stroke="#8B704F" stroke-width="4" stroke-linecap="round"><path d="M1229 536 C1216 478 1230 424 1271 390"/><path d="M1248 548 C1237 491 1251 443 1290 408"/><path d="M1268 553 C1260 506 1275 462 1310 428"/><path d="M1288 545 C1285 505 1302 471 1333 447"/></g>',
-        '<text x="1380" y="470" font-family="DejaVu Sans, Arial" font-size="16" fill="#5B6872">Estries</text>',
-        '<path d="M1372 476 L1325 484" stroke="#8296A3" stroke-width="2"/>',
-        '<path d="M1150 600 L1174 576" stroke="#8296A3" stroke-width="2"/>',
-        '<text x="1120" y="625" font-family="DejaVu Sans, Arial" font-size="16" fill="#5B6872">Banya amb beina</text>',
+        '<path d="M1238 544 C1226 493 1238 440 1278 405 C1304 382 1340 389 1370 360 C1352 401 1316 427 1287 462 C1264 490 1257 520 1264 550 Z" fill="#D9C9A7" stroke="#8A785C" stroke-width="3"/>',
+        '<g fill="none" stroke="#8B704F" stroke-width="3" stroke-linecap="round"><path d="M1229 536 C1216 478 1230 424 1271 390"/><path d="M1248 548 C1237 491 1251 443 1290 408"/><path d="M1268 553 C1260 506 1275 462 1310 428"/></g>',
+        '<text x="1380" y="470" font-family="DejaVu Sans, Arial" font-size="16" fill="#5B6872">Beina de queratina</text>',
+        '<path d="M1370 476 L1325 484" stroke="#8296A3" stroke-width="2"/>',
+        '<text x="1120" y="600" font-family="DejaVu Sans, Arial" font-size="16" fill="#5B6872">Nucli ossi</text>',
+        '<path d="M1208 594 L1250 532" stroke="#8296A3" stroke-width="2"/>',
         '<rect x="1120" y="655" width="384" height="52" rx="10" fill="#F2EEE5"/>',
-        '<text x="1136" y="677" font-family="DejaVu Sans, Arial" font-size="15" font-weight="700" fill="#263746">Important: l’asta del cèrvid és os</text>',
-        '<text x="1136" y="697" font-family="DejaVu Sans, Arial" font-size="14" fill="#5B6872">i no s’ha de confondre amb la banya queratínica.</text>'
+        '<text x="1136" y="677" font-family="DejaVu Sans, Arial" font-size="15" font-weight="700" fill="#263746">Banya de bòvid: nucli ossi</text>',
+        '<text x="1136" y="697" font-family="DejaVu Sans, Arial" font-size="14" fill="#5B6872">recobert per una beina de queratina.</text>'
     ])
     parts.extend([
         '<rect x="72" y="765" width="1432" height="64" rx="12" fill="#E9EEF0"/>',

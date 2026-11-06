@@ -347,3 +347,37 @@ El workflow [Render SVG prototype review](https://github.com/nbarreraska-cloud/m
 **Dictamen provisional:** G042 v03 és una millora tècnica clara i apta per passar a revisió editorial de contingut i lectura a mida real de pàgina. No queda aprovada ni inserida. Continua identificada com a E1 proposada i no assajada.
 
 La mateixa execució confirma que G003 v02 i G006 v03 renderitzen correctament i que les correccions de composició i contrast es veuen al PNG. Això no substitueix la comprovació a la mida final de maquetació ni l'aprovació editorial.
+
+
+## 21. Ampliació de producció i revisió preliminar — 06/11/2026
+
+S'han incorporat v01 per a vuit composicions addicionals: G020–G024, G025, G035 i G036. També s'han creat v02 de redisseny per a G007, G009, G011, G012, G013, G014, G016 i G018. Les versions anteriors es conserven.
+
+### 21.1. Revisió conceptual preliminar de les noves v01
+
+| Figura | Criteri de control abans d'aprovar |
+|---|---|
+| G020 | El pas material → indicis visuals → representació és conceptual, no un procediment físic. |
+| G021 | No convertir exemples de metall, vidre i fusta en propietats universals; ajustar-los al contingut exacte de 6.3. |
+| G022 | Diferenciar opacitat, transparència i translucidesa sense suggerir llindars mesurats. |
+| G023 | La mida i continuïtat del reflex són esquemàtiques; no equiparar-les automàticament amb un únic acabat. |
+| G024 | Evitar confondre transmissió definida amb difusió; el fons és un patró conceptual. |
+| G025 | La forma del pinzell és esquemàtica i no a escala; contrastar la terminologia amb 7.3.1. |
+| G035 | Les formes no representen una miniatura concreta; comprovar les categories d'anàlisi exactes de la fitxa F10. |
+| G036 | Escala tonal neutra, no mapa de valors d'una figura; comprovar que no impliqui una distribució tonal concreta. |
+
+Aquestes v01 encara no s'han renderitzat en el workflow actualitzat. Són proves de composició i contingut, no lliuraments finals.
+
+### 21.2. Revisió preliminar dels redissenys v02
+
+Els v02 de G007, G009, G011, G012, G013, G014, G016 i G018 implementen els ajustos descrits a F14. La seva geometria i jerarquia s'han redissenyat, però encara no hi ha validació automàtica de render ni coteig complet amb les fitxes F10. G009 és expressament no quantitativa; G011 requereix verificar el cercle cromàtic exacte del manual; G012–G014 necessiten revisió geomètrica; G016 depèn de la coherència font-objecte-superfície receptora; G018 és un gradient explicatiu, no una simulació.
+
+### 21.3. Dictamen
+
+- Nous prototips v01 creats: 8.
+- Redissenys v02 creats: 8.
+- Nous prototips renderitzats en aquesta iteració: 0 verificats.
+- Aprovacions editorials: 0.
+- Insercions al manual: 0.
+
+La prioritat següent és executar el workflow de renderització sobre el conjunt ampliat, revisar les làmines de contacte i després fer el coteig de cada figura amb el capítol i la fitxa F10 corresponents. No s'ha d'inferir aprovació a partir de la mera creació del fitxer SVG.

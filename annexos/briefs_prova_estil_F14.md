@@ -202,3 +202,21 @@ S'han creat tres SVG addicionals basats en les llegendes del F13:
 - [5.7 / G018 — Distribució de la il·luminació sobre pla i superfície corba](../grafics_prova/fig_C06_6-1_G018_v01.svg). Prova conceptual; no és càlcul fotomètric ni simulació de llum.
 
 Els tres fitxers s'han creat a GitHub en la branca de treball. Encara no s'han renderitzat en el workflow ni cotejat amb el text complet dels apartats. No es consideren aprovats.
+
+
+## 12. Tercera ampliació de proves vectorials
+
+S'han creat vuit nous esquemes SVG editables, directament a la branca de treball:
+
+- [6.1 / G020 — Del material real als indicis visuals i la representació](../grafics_prova/fig_C06_6-1_G020_v01.svg)
+- [6.2 / G021 — Respostes òptiques dels materials](../grafics_prova/fig_C06_6-2_G021_v01.svg)
+- [6.3 / G022 — Opacitat, transparència i translucidesa](../grafics_prova/fig_C06_6-3_G022_v01.svg)
+- [6.4 / G023 — Distribució dels reflexos](../grafics_prova/fig_C06_6-4_G023_v01.svg)
+- [6.5 / G024 — Percepció del fons a través dels materials](../grafics_prova/fig_C06_6-5_G024_v01.svg)
+- [7.1 / G025 — Components funcionals d'un pinzell](../grafics_prova/fig_C07_7-1_G025_v01.svg)
+- [15.1 / G035 — Anàlisi de geometria, volums i superfícies](../grafics_prova/fig_C15_15-1_G035_v01.svg)
+- [15.2 / G036 — Mapa de valors](../grafics_prova/fig_C15_15-2_G036_v01.svg)
+
+Són esquemes conceptuals E0. Les representacions són simplificacions didàctiques i no substitueixen les fitxes F10. G021 no assigna propietats òptiques universals als materials; G022 i G024 són esquemes conceptuals de transmissió; G025 no és un dibuix a escala; G035 no representa una miniatura concreta; G036 és una escala neutra i no un mapa de llum aplicat.
+
+No s'han aprovat ni inserit. La precisió final requereix coteig amb el text lector i les fitxes F10, i revisió del render i de la mida de pàgina.

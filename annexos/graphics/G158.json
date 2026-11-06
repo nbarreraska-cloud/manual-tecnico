@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "id": "G158",
-  "title": "Diferències estructurals entre teixit ossi, teixits dentals i estructures queratíniques",
-  "subtitle": "Tres grups de materials; la semblança cromàtica no n'implica la mateixa estructura",
-  "description": "Atles morfològic esquemàtic de teixit ossi, teixits dentals i estructures queratíniques. Les formes són icones explicatives, no representacions anatòmiques exhaustives ni làmines histològiques.",
+  "title": "Os, dents i queratina: diferències estructurals",
+  "subtitle": "Tres grups de materials amb estructures i superfícies diferents",
+  "description": "Comparació esquemàtica de teixit ossi, teixits dentals i banya de bòvid amb nucli ossi recobert per beina de queratina. Les formes són conceptuals, no anatòmiques ni histològiques.",
   "template": "biological_material_atlas",
   "note": "Esquema conceptual basat en el capítol 25. Verificar les siluetes i la llegibilitat a mida d'impressió.",
   "production_status": "family_prototype_renderable",
   "approval_status": "not_approved_pending_visual_and_documentary_review",
-  "provenance": "Brief DBD-02 G158 i capítol 25, apartat 25.2. Distingir os, teixits dentals i queratina; les astes dels cèrvids són òssies, les banyes dels bòvids tenen nucli ossi i beina queratínica, i la banya del rinoceront és principalment queratina compactada.",
-  "evidence_note": "E0 — comparació conceptual i morfològica. Les siluetes són esquemàtiques; no constitueixen una classificació histològica ni una prova experimental."
+  "provenance": "Brief DBD-02 G158 i capítol 25, apartats 25.1 i 25.2. El capítol diferencia os, teixits dentals i estructures queratíniques; les banyes dels bòvids tenen nucli ossi recobert per beina de queratina. Les astes dels cèrvids són òssies i la banya del rinoceront és principalment queratina compactada.",
+  "evidence_note": "E0 — comparació conceptual basada en la descripció del capítol 25. Les siluetes són esquemàtiques i no constitueixen una làmina anatòmica o histològica."
 }

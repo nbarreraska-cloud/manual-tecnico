@@ -218,3 +218,15 @@ Tots dos prototips resten en revisió tècnica. La creació dels SVG no equival 
 - G006: [SVG v03](../grafics_prova/fig_C04_4-1_G006_v03.svg). La v02 s'ha descartat com a solució final perquè la composició alfa seqüencial no representava mescles additiva i sostractiva amb prou fidelitat. La v03 presenta explícitament les combinacions ideals en mostres separades; pendent de renderització i revisió.
 
 - G042: [SVG v03](../grafics_prova/fig_C16_16-4_G042_v03.svg). La v02 s'ha revisat visualment; la fulla era recognoscible però la distribució dels reflexos encara es llegia massa com a franges. La v03 defineix plans de fulla i distribueix les masses de llum i ombra sobre aquests plans. Pendent de renderització i revisió.
+
+
+## Revisió de renderització de les versions actuals — 06/11/2026
+
+Workflow [Render SVG prototype review](https://github.com/nbarreraska-cloud/manual-tecnico/actions/runs/42136936577): validació XML i renderització completades correctament per als SVG del directori. Resultats visuals revisats:
+
+- G003 v02: la nota comuna queda fora dels panells; la comparació conceptual és llegible. Pendent de mida real de maquetació.
+- G006 v03: combinacions ideals explícites i contrast del panell RGB corregit. Pendent de mida real de maquetació.
+- G042 v03: plans de la fulla i reflexos diferenciats; la progressió de sis estats és llegible. Pendent de revisió editorial final i mida real de maquetació.
+- G110 v01: es manté l'enfocament; lectura a mida real pendent.
+
+Cap figura no queda aprovada per aquesta revisió tècnica.

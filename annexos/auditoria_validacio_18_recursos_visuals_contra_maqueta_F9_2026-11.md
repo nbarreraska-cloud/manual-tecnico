@@ -28,7 +28,7 @@ Així, el conjunt queda en **18 recursos visuals no condicionals**, més **G019 
 
 | Grup | Pàgines F9 i ubicació real | Decisió després de revisar la maqueta | Motiu i ancoratge recomanat |
 |---|---|---|---|
-| G003 | p. 16; apartat 3.2.1, no 3.1 | **Mantenir** | Esquema conceptual de comportament d'opacitat/transparència. La ubicació de F10 que diu 3.1 no coincideix amb la maqueta: corregir-la a 3.2.1. No atribuir comportaments a pintures concretes sense proves. |
+| G003 | p. 16; apartat 3.2.1, no 3.1 | **Mantenir** | Esquema conceptual de comportament d'opacitat/transparència. La ubicació de F10 que deia 3.1 no coincidia amb la maqueta; ja s'ha corregit a 3.2.1. No atribuir comportaments a pintures concretes sense proves. |
 | G012+G013+G015+G016 | pp. 31–32; 5.3.1–5.3.2 i 5.5.1–5.5.2 | **Mantenir** | Un recurs compacte en dos blocs: geometria/incidència i formació d'ombres. No intentar encabir tots els subapartats de 5.3–5.5 en una làmina. |
 | G032+G033 | pp. 80–81; 11.4.2 i 11.4.5 | **Taula/text** | El text ja descriu aplicació, fixació i diferències. Sense mostres reals comparables, una il·lustració podria suggerir resultats no documentats. |
 | G036 | p. 114; 15.6 | **Mantenir** | El mapa de valors i il·luminació aporta una representació espacial que el text no substitueix del tot. Un únic mapa simplificat, no un exemple complet de miniatura. |
@@ -78,7 +78,7 @@ Els **18 recursos visuals no condicionals** són:
 
 ## 5. Correccions de traçabilitat
 
-- G003: la llista F10 indica apartat 3.1, però la maqueta situa el contingut d'opacitat/transparència a **3.2.1, pàgina 16**. Cal actualitzar la ubicació de treball abans de producció.
+- G003: la llista F10 indica apartat 3.1, però la maqueta situa el contingut d'opacitat/transparència a **3.2.1, pàgina 16**. La ubicació lectora ja s'ha corregit a F10 en aquesta branca.
 - G153: és una incorporació del **capítol 10**, no del 39; la ubicació és després de 10.5.6.
 - G164: és una incorporació del **capítol 27**, no del 34; la ubicació és després de 27.6.
 - G166 i G167: són incorporacions del **capítol 28**, no del 34; les ubicacions són després de 28.7.2 i 28.7.3 respectivament.

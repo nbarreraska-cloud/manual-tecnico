@@ -25,7 +25,7 @@ jobs:
         run: python -m pip install --upgrade pip cairosvg pillow
       - name: Validate SVG XML and render prototypes
         run: |
-          mkdir -p dist/svg-review
+          mkdir -p dist/svg-review dist/svg-review/page-size
           python - <<'PY'
           from pathlib import Path
           import xml.etree.ElementTree as ET
@@ -99,6 +99,9 @@ jobs:
                   raise SystemExit(f"Unexpected render dimensions for {path}: {im.size}")
               rendered.append((path.name, im.copy()))
               print(f"RENDER_OK {path} {im.width}x{im.height}")
+              page_out = Path("dist/svg-review/page-size") / (path.stem + ".png")
+              cairosvg.svg2png(url=str(path), write_to=str(page_out), output_width=2073, background_color="#ffffff")
+              print(f"PAGE_SIZE_OK {path} 2073px wide (~175.5mm at 300dpi)")
           thumbs = []
           for name, im in rendered:
               im.thumbnail((560, 340))

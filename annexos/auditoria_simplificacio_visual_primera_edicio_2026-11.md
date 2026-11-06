@@ -3,7 +3,7 @@
 **Data:** 06/11/2026  
 **Branca:** `auditoria-cobertura-visual-incidencies-2026-11`  
 **Abast:** 170 composicions G001–G170 de F10-R1  
-**Estat:** primera triatge editorial global; pendent de validació final sobre pàgina abans de producció i inserció.
+**Estat:** primer triatge editorial global; pendent de validació final sobre pàgina abans de producció i inserció.
 
 ## 1. Objectiu
 
@@ -310,7 +310,7 @@ Les sis dependències E2 identificades a la matriu F10 són les dels apartats d'
 ## 9. Estat i abast d'aquesta auditoria
 
 - Inventari revisat: 170/170.
-- Classificació A/B/C: completa com a primera triatge editorial.
+- Classificació A/B/C: completa com a primer triatge editorial.
 - Figures produïdes, generades o inserides en aquesta auditoria: 0.
 - Canvis a F9, F10-R1, F11-R1 o DBD-02: 0.
 - Canvis a `main` o a `intervencion-editorial-2026-11`: 0.

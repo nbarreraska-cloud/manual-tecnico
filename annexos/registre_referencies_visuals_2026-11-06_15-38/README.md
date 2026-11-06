@@ -532,3 +532,27 @@ El fitxer s'ha creat al repositori. La renderització visual independent, la lle
 | 2026-11-06 | Representar la construcció en quatre fases i integrar el nus amb vetes desviades | Composició aplicada |
 | 2026-11-06 | Crear el recurs original en SVG i recuperar-lo de nou per comprovar-ne l'estructura i el registre | Creat i verificat al repositori |
 
+
+## G064 + G065 + G066 — Atles compacte de vegetació
+
+**Capítol:** 21. **Ubicació F9:** pàgines 158–162, apartats 21.1–21.2. **Fitxes F10:** C21, 21.1, 21.2 i 21.3.  
+**Estat:** SVG produït i pujat; verificació estructural posterior completada. Renderització visual i mida d'impressió pendents.
+
+### Objectiu i composició
+Làmina original de tres panells independents:
+1. **G064 / Figura 21.1 — Tipus principals:** fullatge de fulla ampla, coníferes, herbàcies, molsa i líquens. La vegetació seca queda fora d'aquesta composició, d'acord amb F10.
+2. **G065 / Figura 21.2 — Morfologia de les fulles:** fulles simples i compostes, amb indicis de forma, vora i nerviació; no és una clau botànica exhaustiva.
+3. **G066 / Figura 21.3 — Agrupació, densitat i superposició:** massa general, buits, agrupacions diferenciades i plans superposats.
+
+### Fitxer
+[G064–G066 — Atles compacte de vegetació (SVG)](G064-G065-G066_atles_compacte_vegetacio.svg)
+
+### Límits i comprovació
+- Esquemes didàctics simplificats, no espècies concretes.
+- No confondre molsa i líquens ni representar aquests darrers com a plantes de fulla.
+- Prioritzar agrupacions, buits i superposició; no cal dibuixar cada fulla.
+- Formes i densitats adaptables al tipus de vegetació i a l'escala.
+- No s'han utilitzat imatges externes; textos en català.
+- SVG recuperat i estructura, tres panells i etiquetes identificatives comprovats textualment. No es declara inspecció visual del renderitzat. La llegibilitat final s'ha de validar després de la inserció a la còpia de maquetació.
+
+---

@@ -27,23 +27,23 @@
 | 4.1 / G006 | 4.3 | apartats 4.3.2–4.3.3 | E0 | Mescla additiva RGB i mescla sostractiva CMY | [Prototip SVG v01 · en revisió](../grafics_prova/fig_C04_4-1_G006_v01.svg) |
 | 4.2 / G007 | 4.4 | apartat 4.4 | E0 | Dimensions del color: matís, valor i croma | [SVG v03 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C04_4-2_G007_v03.svg) |
 | 4.3 / G008 | 4.6 | apartat 4.6 | E0 | «Comparació entre la mescla additiva de llum RGB i la mescla sostractiva CMY de pigments o colorants.» | Pendent d'encàrrec |
-| 4.4 / G009 | 4.7 | apartat 4.7 | E0 | «Dimensions del color —matís, valor i croma— representades en un espai tridimensional i en tres escales independents.» | [SVG v03 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C04_4-4_G009_v03.svg) |
+| 4.4 / G009 | 4.7 | apartat 4.7 | E0 | «Dimensions del color —matís, valor i croma— representades en un espai tridimensional i en tres escales independents.» | [SVG v03 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C04_4-4_G009_v04.svg) |
 | 4.5 / G010 | 4.8 | apartat 4.8 | E0 | Mescla i modificació cromàtica | Pendent d'encàrrec |
 | 4.6 / G011 | 4.9 | apartat 4.9 | E0 | «Relacions cromàtiques monocromàtiques, anàlogues, complementàries i complementàries dividides.» | [SVG v03 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C04_4-6_G011_v03.svg) |
 | 5.1 / G012 | 5.4 | apartat 5.3.1 | E0 | Orientació dels plans respecte de la font | [SVG v03 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C05_5-1_G012_v03.svg) |
 | 5.2 / G013 | 5.6 | apartat 5.3.2; remissió conceptual a 5.4.1 | E0 | Angle d'incidència i llei de la reflexió | [SVG v03 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C05_5-2_G013_v03.svg) |
-| 5.3 / G014 | 5.7 | apartat 5.3.1 | E0 | Il·luminació de superfícies planes i corbes | [SVG v03 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C05_5-3_G014_v03.svg) |
+| 5.3 / G014 | 5.7 | apartat 5.3.1 | E0 | Il·luminació de superfícies planes i corbes | [SVG v03 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C05_5-3_G014_v04.svg) |
 | 5.4 / G015 | 5.11 | apartat 5.5.1 | E0 | Relació espacial entre font lluminosa, objecte bloquejador i superfície receptora de l'ombra | [SVG v01 · pendent de renderització i revisió](../grafics_prova/fig_C05_5-4_G015_v01.svg) |
-| 5.5 / G016 | 5.12 | apartat 5.5.2 | E0 | Ombra pròpia i ombra projectada | [SVG v03 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C05_5-5_G016_v03.svg) |
+| 5.5 / G016 | 5.12 | apartat 5.5.2 | E0 | Ombra pròpia i ombra projectada | [SVG v03 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C05_5-5_G016_v04.svg) |
 | 5.6 / G017 | 5.13 | apartat 5.5.3 | E0 | Formació de l'umbra i la penombra quan una font extensa queda bloquejada parcialment | [SVG v01 · pendent de renderització i revisió](../grafics_prova/fig_C05_5-6_G017_v01.svg) |
-| 5.7 / G018 | 5.15 | apartat 5.7 | E0 | Senyals visuals que suggereixen profunditat i volum: llums, ombres, contorns, reflexos, orientació i superposició | [SVG v04 · pendent de renderització i revisió](../grafics_prova/fig_C05_5-7_G018_v04.svg) |
+| 5.7 / G018 | 5.15 | apartat 5.7 | E0 | Senyals visuals que suggereixen profunditat i volum: llums, ombres, contorns, reflexos, orientació i superposició | [SVG v04 · pendent de renderització i revisió](../grafics_prova/fig_C05_5-7_G018_v05.svg) |
 | 5.8 / G019 | 5.16 | apartat 5.8.4 | E0 | Anàlisi d'il·luminació d'una miniatura | Pendent d'encàrrec |
 | 6.1 / G020 | 6.1 | apartat 6.1 | E0 | «Del material real als indicis visuals percebuts i a la seva representació pictòrica simplificada.» | [SVG v01 · prova conceptual pendent de revisió](../grafics_prova/fig_C06_6-1_G020_v01.svg) |
 | 6.2 / G021 | 6.4 | apartat 6.3 | E0 | Comparació de respostes superficials: reflexos definits, estesos, fragmentats o poc perceptibles | [SVG v02 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C06_6-2_G021_v02.svg) |
 | 6.3 / G022 | 6.5 | apartats 6.4.1–6.4.2 | E0 | Opacitat, transparència i translucidesa | [SVG v02 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C06_6-3_G022_v02.svg) |
-| 6.4 / G023 | 6.7 | apartat 6.5.1 | E0 | Materials diferents que comparteixen un indici visual però es diferencien per estructura, textura i resposta òptica | [SVG v02 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C06_6-4_G023_v02.svg) |
+| 6.4 / G023 | 6.7 | apartat 6.5.1 | E0 | Materials diferents que comparteixen un indici visual però es diferencien per estructura, textura i resposta òptica | [SVG v02 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C06_6-4_G023_v03.svg) |
 | 6.5 / G024 | 6.8 | apartat 6.6 | E0 | De la referència material a la selecció dels indicis essencials i la representació simplificada a escala miniatura | [SVG v02 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C06_6-5_G024_v02.svg) |
-| 7.1 / G025 | 7.2 | apartat 7.3.1 | E0 | Components del pinzell i comparació de formes de punta | [SVG v02 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C07_7-1_G025_v02.svg) |
+| 7.1 / G025 | 7.2 | apartat 7.3.1 | E0 | Components del pinzell i comparació de formes de punta | [SVG v02 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C07_7-1_G025_v03.svg) |
 | 7.2 / G026 | 7.4 | apartat 7.3.7 | E0 | Aplicació manual amb pinzell, pulverització amb aerògraf i aplicació amb aerosol pressuritzat | [SVG v01 · pendent de renderització i revisió](../grafics_prova/fig_C07_7-2_G026_v01.svg) |
 | 7.3 / G027 | 7.5 | apartat 7.4 | E0 | Seqüència de preparació d'una miniatura | Pendent d'encàrrec |
 | 7.4 / G028 | 7.6 | apartat 7.5 | E2 | Comparació de cobertura insuficient, adequada i excessiva i de la conservació del detall | Bloquejada: E2 sense mostres documentades; cal executar la prova o decidir formalment l'alternativa conceptual E0 |
@@ -53,7 +53,7 @@
 | 11.3 / G032 | 11.5 | apartats 11.4.2 i 11.7.4 | E0 | «Comparació entre l'aplicació general d'un rentat i la seva aplicació localitzada sobre relleus i cavitats.» | Pendent d'encàrrec |
 | 11.4 / G033 | 11.6 | apartats 11.4.5 i 11.7.5 | E2 | Pigment sec i pigment fixat | Pendent d'encàrrec |
 | 11.5 / G034 | 11.8 | apartat 11.8 | E0 | «Seqüència d'aplicació de pigment sec: càrrega, dipòsit, distribució i retirada de l'excés.» | Pendent d'encàrrec |
-| 15.1 / G035 | 15.1 | 15.2 | E0 | Miniatura simplificada anotada: silueta, volums, plans, corbes, arestes, superposicions i zones protegides | [SVG v02 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C15_15-1_G035_v02.svg) |
+| 15.1 / G035 | 15.1 | 15.2 | E0 | Miniatura simplificada anotada: silueta, volums, plans, corbes, arestes, superposicions i zones protegides | [SVG v02 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C15_15-1_G035_v03.svg) |
 | 15.2 / G036 | 15.3 | 15.6 | E0 | Dos mapes coordinats: distribució de la il·luminació i organització dels valors tonals | [SVG v02 · redisseny pendent de renderització i revisió](../grafics_prova/fig_C15_15-2_G036_v02.svg) |
 | 15.3 / G037 | 15.6 | 15.4 o 15.8 | E0 | Distribució del contrast | Pendent d'encàrrec |
 | 15.4 / G038 | 15.8 | 15.1 o 15.9 | E0 | Procés integral d'anàlisi a avaluació | Pendent d'encàrrec |

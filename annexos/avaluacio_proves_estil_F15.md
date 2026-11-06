@@ -212,3 +212,57 @@ Aquest workflow permet obtenir una prova visual reproduïble sense incorporar ca
 | G110 — Vidre | Bona per a la distinció introductòria | Pendent de renderització i comprovació de la difusió |
 
 No s'aprova cap dels quatre prototips. La G042 necessita una correcció conceptual/visual abans de considerar-la apta; les altres tres necessiten encara comprovació gràfica real. No s'ha modificat F10, la compilació consolidada ni cap capítol del manual.
+
+
+## 11. Resultat de la primera renderització real
+
+S'ha executat el workflow `.github/workflows/render-svg-prototypes.yml`. La validació XML i la generació dels quatre PNG han acabat correctament. L'artefacte de revisió és:
+- Workflow: https://github.com/nbarreraska-cloud/manual-tecnico/actions/runs/42133854476
+- Artefacte: `SVG-prototypes-rendered-review` (PNG individuals i làmina de contacte; retenció fins al 06/12/2026).
+
+La renderització confirma que els fitxers són processables per CairoSVG, però també revela problemes que la lectura del codi no havia permès verificar.
+
+### 11.1. G006 — Error visual confirmat
+
+**No supera la prova.** En el PNG generat, els cercles RGB i CMY apareixen com a superfícies opaques superposades per ordre, sense mostrar correctament les mescles de les zones d'intersecció. El mode CSS `mix-blend-mode` no queda aplicat en aquesta renderització.
+
+Això és un defecte substantiu, no només una diferència estètica: la figura afirma explicar la mescla additiva i la sostractiva, però el resultat visual no mostra els colors de les interseccions ni el centre blanc/negre esperat.
+
+**Acció:** substituir els modes de fusió CSS per una construcció SVG compatible i controlada (interseccions explícites o composició amb transparències comprovades). No aprovar ni exportar la v01.
+
+### 11.2. G003 — Problema de composició i jerarquia
+
+La progressió de visibilitat del patró sí que es percep i les quatre mostres es diferencien. La representació és coherent amb el caràcter esquemàtic declarat.
+
+Tanmateix, la nota «La representació és esquemàtica...» queda situada dins l'alçada dels quatre panells i travessa visualment la zona inferior de les targetes. Això crea una interferència de jerarquia i pot semblar una etiqueta comuna superposada a les mostres.
+
+**Acció:** treure aquesta nota de l'interior dels panells, reservar-li una franja pròpia i revisar l'espai entre els textos inferiors. Mantenir els quatre comportaments orientatius i la separació entre opacitat, transparència i cobertura. No aprovar la v01.
+
+### 11.3. G042 — La renderització confirma la insuficiència conceptual
+
+La imatge es veu neta i els sis panells mantenen la mateixa silueta, però la lectura visual confirma la reserva de l'apartat 9.3: el resultat sembla una peça grisa amb bandes tonals successives. No comunica amb prou força una superfície metàl·lica ni explica per què les zones fosques i clares constitueixen reflexos coherents amb la geometria.
+
+A més, els panells 5 i 6 són gairebé idèntics. La fase d'integració no es diferencia prou de l'aplicació dels accents màxims.
+
+**Acció:** redissenyar des del plantejament visual, no limitar-se a retocar colors. Cal definir primer una geometria i un patró de reflexos que es puguin justificar, i després construir una seqüència on cada fase aporti una modificació llegible. No aprovar la v01.
+
+### 11.4. G110 — Representació coherent, amb abast delimitat
+
+La comparació es renderitza correctament: l'escena es conserva definida a través del vidre transparent i perd definició a través de l'esmerilat. La mostra acolorida manté visible l'escena amb una tonalitat afegida. Per tant, la distinció central entre transparència i difusió és perceptible.
+
+El resultat és vàlid com a esquema introductori de transmissió visual, no com a simulació completa de tots els fenòmens del vidre. No mostra refracció, distorsió per curvatura, gruix ni reflexos superficials; aquests límits ja queden delimitats a l'apartat 9.4.
+
+**Acció:** conservar l'enfocament i revisar la llegibilitat final a mida de pàgina. No aprovar encara la v01 fins a fer aquesta comprovació.
+
+## 12. Dictamen després de renderitzar
+
+| Prototip | Resultat de renderització | Fidelitat representativa | Decisió |
+|---|---|---|---|
+| G006 | Renderitza, però falla la mescla de les interseccions | No representa correctament el fenomen en el PNG actual | Corregir |
+| G003 | Renderitza; nota comuna mal situada | Correcta, amb problema de composició | Corregir |
+| G042 | Renderitza; seqüència visual massa genèrica | Insuficient per explicar NMM | Redissenyar |
+| G110 | Renderitza; difusió visible | Correcta per a una figura introductòria | Mantenir enfocament i ajustar si cal |
+
+La prova tècnica ha superat el pas de processament XML i exportació a PNG, però això no equival a l'aprovació de les figures. Cap prototip queda aprovat. Les versions v01 es conserven com a antecedents i no s'han d'esborrar ni sobreescriure.
+
+La següent iteració s'ha de centrar en G006, G003 i G042. G110 no necessita un redisseny conceptual amb l'evidència actual. Encara queda pendent comprovar la lectura de cada figura a la mida real de maquetació i, més endavant, en l'entorn d'exportació del document.

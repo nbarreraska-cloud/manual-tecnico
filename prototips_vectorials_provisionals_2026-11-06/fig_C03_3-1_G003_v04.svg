@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1260" viewBox="0 0 1600 1260" role="img" aria-labelledby="title desc">
+<title id="title">Opacitat, transparència i cobertura de les pintures</title>
+<desc id="desc">Làmina conceptual que diferencia l'ocultació del fons, la influència del valor del suport sobre una mateixa capa transparent o semitransparent i la uniformitat de la cobertura. Els exemples són orientatius i no representen assajos de productes.</desc>
+<defs>
+<style>
+.title{font:700 34px Arial,sans-serif;fill:#183247}.subtitle{font:17px Arial,sans-serif;fill:#526777}
+.panel-title{font:700 21px Arial,sans-serif;fill:#28465b;letter-spacing:.3px}
+.label{font:700 18px Arial,sans-serif;fill:#183247}.body{font:16px Arial,sans-serif;fill:#405b6d}
+.small{font:14px Arial,sans-serif;fill:#526777}.tiny{font:13px Arial,sans-serif;fill:#526777}
+.panel{fill:#edf2f5;stroke:#d0dbe2;stroke-width:2}.card{fill:#fff;stroke:#c7d3db;stroke-width:1.5}
+.rule{stroke:#c6d2da;stroke-width:1.5}.footer{font:15px Arial,sans-serif;fill:#405b6d}
+</style>
+</defs>
+<rect width="1600" height="1260" fill="#f3f6f8"/>
+<text x="800" y="55" text-anchor="middle" class="title">Opacitat, transparència i cobertura de les pintures</text>
+<text x="800" y="88" text-anchor="middle" class="subtitle">Tres aspectes relacionats, però diferents, del comportament d'una capa sobre el suport.</text>
+
+<!-- Upper-left: degree of background hiding -->
+<rect x="45" y="125" width="940" height="650" rx="18" class="panel"/>
+<text x="80" y="170" class="panel-title">1. OCULTACIÓ DEL FONS</text>
+<text x="80" y="198" class="small">Mateix suport contrastat; varia el grau orientatiu d'ocultació de la capa.</text>
+<text x="90" y="245" class="tiny">COMPORTAMENT DESCRIT</text>
+<text x="420" y="245" class="tiny">MOSTRA ESQUEMÀTICA SOBRE FONS CLAR I FOSC</text>
+<text x="790" y="245" class="tiny">LECTURA</text>
+
+<!-- Opaque end -->
+<text x="90" y="335" class="label">Opaca</text>
+<text x="90" y="359" class="small">Ocultació elevada</text>
+<rect x="420" y="300" width="300" height="72" rx="6" fill="#fff" stroke="#b9c7d0"/>
+<rect x="570" y="300" width="150" height="72" fill="#202a32"/>
+<rect x="470" y="316" width="200" height="40" rx="4" fill="#6f91a4" opacity=".96"/>
+<text x="790" y="340" class="small">El fons queda gairebé ocult</text>
+
+<!-- Intermediate behaviour -->
+<text x="90" y="505" class="label">Comportament intermedi</text>
+<text x="90" y="529" class="small">Semiopacitat / semitransparència</text>
+<rect x="420" y="470" width="300" height="72" rx="6" fill="#fff" stroke="#b9c7d0"/>
+<rect x="570" y="470" width="150" height="72" fill="#202a32"/>
+<rect x="470" y="486" width="200" height="40" rx="4" fill="#6f91a4" opacity=".50"/>
+<text x="790" y="510" class="small">El fons continua influint en el resultat</text>
+
+<!-- Transparent end -->
+<text x="90" y="675" class="label">Transparent</text>
+<text x="90" y="699" class="small">Ocultació reduïda</text>
+<rect x="420" y="640" width="300" height="72" rx="6" fill="#fff" stroke="#b9c7d0"/>
+<rect x="570" y="640" width="150" height="72" fill="#202a32"/>
+<rect x="470" y="656" width="200" height="40" rx="4" fill="#6f91a4" opacity=".16"/>
+<text x="790" y="680" class="small">El fons manté una presència clara</text>
+<text x="80" y="738" class="tiny">Les posicions són orientatives i no indiquen llindars universals ni categories comercials.</text>
+
+<!-- Upper-right: coverage -->
+<rect x="1010" y="125" width="545" height="650" rx="18" class="panel"/>
+<text x="1045" y="170" class="panel-title">2. CAPACITAT DE COBERTURA</text>
+<text x="1045" y="198" class="small">La distribució uniforme és diferent de l'ocultació.</text>
+<text x="1045" y="255" class="label">Aplicació uniforme</text>
+<rect x="1045" y="275" width="475" height="145" rx="8" fill="#fff" stroke="#c7d3db"/>
+<rect x="1045" y="347" width="475" height="73" fill="#202a32"/>
+<rect x="1105" y="295" width="355" height="105" rx="4" fill="#6f91a4"/>
+<text x="1282" y="448" text-anchor="middle" class="small">Capa contínua i regular</text>
+
+<text x="1045" y="515" class="label">Aplicació irregular</text>
+<rect x="1045" y="535" width="475" height="145" rx="8" fill="#fff" stroke="#c7d3db"/>
+<rect x="1045" y="607" width="475" height="73" fill="#202a32"/>
+<path d="M1105 555 H1190 V575 H1245 V555 H1320 V586 H1390 V559 H1460 V650 H1400 V635 H1340 V662 H1270 V640 H1205 V620 H1105 Z" fill="#6f91a4"/>
+<text x="1282" y="708" text-anchor="middle" class="small">Gruix o continuïtat desigual</text>
+<text x="1045" y="748" class="tiny">Una capa pot ser uniforme i deixar veure el fons, o cobrir-lo de manera irregular.</text>
+
+<!-- Lower section: substrate influence -->
+<rect x="45" y="805" width="1510" height="365" rx="18" class="panel"/>
+<text x="80" y="850" class="panel-title">3. INFLUÈNCIA DEL VALOR DEL FONS EN UNA MATEIXA CAPA</text>
+<text x="80" y="878" class="small">Mateixa pintura, geometria i aplicació esquemàtica; només varia el valor del suport.</text>
+
+<rect x="100" y="915" width="430" height="170" rx="10" fill="#ffffff" stroke="#c7d3db" stroke-width="2"/>
+<rect x="240" y="965" width="150" height="70" rx="7" fill="#3984bd" opacity=".58"/>
+<text x="315" y="1120" text-anchor="middle" class="label">Fons blanc</text>
+
+<rect x="585" y="915" width="430" height="170" rx="10" fill="#858b91" stroke="#c7d3db" stroke-width="2"/>
+<rect x="725" y="965" width="150" height="70" rx="7" fill="#3984bd" opacity=".58"/>
+<text x="800" y="1120" text-anchor="middle" class="label">Fons gris</text>
+
+<rect x="1070" y="915" width="430" height="170" rx="10" fill="#202a32" stroke="#c7d3db" stroke-width="2"/>
+<rect x="1210" y="965" width="150" height="70" rx="7" fill="#3984bd" opacity=".58"/>
+<text x="1285" y="1120" text-anchor="middle" class="label">Fons negre</text>
+
+<text x="800" y="1208" text-anchor="middle" class="footer">Esquema conceptual, no mostra física ni mesura cromàtica. Per comparar productes cal controlar suport, gruix, aplicació, assecat i observació.</text>
+</svg>

@@ -482,3 +482,15 @@ F13 s'ha actualitzat amb aquestes versions i el workflow ara les exigeix com a f
 ### 24.4. Mida de maquetació
 
 La revisió a 1400 × 900 px és una revisió de render, no una prova de pàgina. La mida física d'inserció encara no està definida. Abans d'aprovar cal recuperar o establir la mida prevista en la maquetació final i comprovar-hi tipografia, gruix de línies, fletxes, llegendes i contrast. Si el manual es maquetarà a una amplada menor, els textos auxiliars de 16–18 px poden resultar insuficients.
+
+
+## 25. Correccions posteriors a la inspecció individual — 06/11/2026
+
+La inspecció individual dels renders ha detectat quatre problemes que no quedaven prou visibles a la fulla de contacte:
+
+- **G016 v04:** la zona d'ombra pròpia formava una geometria triangular no coherent i el raig no acabava exactament a la superfície. Redissenyat a v05 amb el límit d'ombra calculat a partir de la direcció font-centre i amb dos panells diferenciats; el primer aïlla l'ombra pròpia i el segon mostra l'ombra projectada.
+- **G018 v05:** la representació bidimensional no incorporava amb prou claredat el mateix reflex del model tridimensional. Afegit el reflex corresponent a v06 per mantenir la correspondència entre les dues representacions.
+- **G025 v03:** les fletxes de crida acabaven al costat de les etiquetes, no als components, i la forma de punta fina tenia una concavitat incorrecta. Corregit a v04, invertint les fletxes perquè apuntin a les parts i definint la punta fina com una forma afuada.
+- **G035 v03:** dues línies de crida de la banda dreta es creuaven i la línia de zones protegides apuntava massa avall. Redissenyat a v04 amb recorreguts ortogonals separats i un punt d'ancoratge més pertinent.
+
+F13 i el workflow s'han actualitzat amb aquestes versions. **Estat:** quatre noves versions creades, pendents de renderització i inspecció; cap aprovació ni inserció.

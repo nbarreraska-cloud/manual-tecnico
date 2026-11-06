@@ -329,3 +329,12 @@ La revisió de G110 v01 renderitzada confirma que la mateixa escena es conserva 
 ### Ajust de contrast G006 v03
 
 La renderització inicial de G006 v03 ha mostrat que el títol i les notes del panell RGB tenien contrast insuficient sobre el fons fosc, per una precedència de regles CSS. S'ha corregit l'estil tipogràfic de les classes clares. Cal tornar a renderitzar i comprovar el contrast abans de qualsevol aprovació.
+
+
+## 19. Iteració G042 v03
+
+La revisió visual de G042 v02 confirma que la geometria de la fulla és constant i recognoscible, però el patró de llum i ombra encara tendeix a llegir-se com una sèrie de franges longitudinals. Per reforçar la relació entre reflexos i geometria, s'ha creat G042 v03 amb dos plans diferenciats a la fulla, una aresta longitudinal i masses de llum/ombra situades en relació amb aquests plans. La v03 resta pendent de renderització i revisió visual; no s'aprova encara cap versió de G042.
+
+### Revisió visual de G003 v02 i G006 v03
+
+La renderització del commit `0b9bec6b62d408a12c47edaed32260586efa1e8b` confirma que G003 v02 ja situa la nota comuna fora de l'àrea dels panells i manté llegibles les quatre mostres conceptuals. G006 v03 presenta els resultats ideals RGB/CMY com a combinacions explícites i separades; després de corregir el contrast de la tipografia clara sobre fons fosc, la lectura és satisfactòria a la resolució del PNG. Ambdues continuen pendents de lectura en la mida real de maquetació i d'aprovació editorial.

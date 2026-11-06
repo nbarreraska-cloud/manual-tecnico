@@ -324,3 +324,8 @@ La revisió del PNG de G006 v02 ha mostrat que la composició alfa estàndard ev
 En G003 v02, la nota explicativa comuna quedava encara dins de l'alçada dels panells. S'ha desplaçat completament per sota de les quatre mostres. La versió corregida encara ha de passar pel workflow de renderització i una nova comprovació visual.
 
 La revisió de G110 v01 renderitzada confirma que la mateixa escena es conserva recognoscible a través del vidre transparent i acolorit, mentre que l'esmerilat difon els contorns. Es manté l'enfocament conceptual, sense afirmar que simuli refracció, curvatura o reflexos reals. La lectura a mida de pàgina continua pendent.
+
+
+### Ajust de contrast G006 v03
+
+La renderització inicial de G006 v03 ha mostrat que el títol i les notes del panell RGB tenien contrast insuficient sobre el fons fosc, per una precedència de regles CSS. S'ha corregit l'estil tipogràfic de les classes clares. Cal tornar a renderitzar i comprovar el contrast abans de qualsevol aprovació.

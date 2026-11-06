@@ -287,9 +287,13 @@ def render_rock_family_atlas(spec: dict) -> str:
                     col=["#E6DFD0","#4E5356","#D0BDA0","#7A7770"][j%4]
                     parts.append(f'<circle cx="{px}" cy="{py}" r="{rr}" fill="{col}" opacity=".9"/>')
             elif kind=="basalt":
-                for j in range(64):
-                    px=sx+5+((j*73+j*j*17+11)%220); py=sy+5+((j*41+j*j*29+17)%66)
-                    parts.append(f'<circle cx="{px}" cy="{py}" r="{1+(j%2)}" fill="#9CA2A3" opacity=".48"/>')
+                # Deterministic scattered microcrystals; avoid diagonal or row-like rhythms.
+                import random
+                rng = random.Random(161)
+                for j in range(82):
+                    px = sx + 5 + rng.random() * 220
+                    py = sy + 5 + rng.random() * 66
+                    parts.append(f'<circle cx="{px:.1f}" cy="{py:.1f}" r="{0.9 + rng.random()*1.0:.1f}" fill="#AEB5B6" opacity=".42"/>')
             elif kind in ("sandstone","limestone"):
                 for j in range(4 if kind=="sandstone" else 2):
                     yy=sy+14+j*16

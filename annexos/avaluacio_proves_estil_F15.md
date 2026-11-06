@@ -576,7 +576,7 @@ Amb les tandes 02–05, el registre acumula 41 candidatures noves amb autoria i 
 
 ## 31. Verificació dels workflows sobre el commit actual — 06/11/2026
 
-- El run [Render SVG prototype review](https://github.com/nbarreraska-cloud/manual-tecnico/actions/runs/42141938963), sobre el commit `ba446439c849ee0ea90d85717969f6363b7d5b1`, ha finalitzat correctament. L'artefacte `SVG-prototypes-rendered-review` (ID `13467714801`) conté 65 renders estàndard, 65 renders a mida màxima de pàgina i una fulla de contacte. S'han validat els SVG i s'han exportat amb CairoSVG.
+- El run [Render SVG prototype review](https://github.com/nbarreraska-cloud/manual-tecnico/actions/runs/42141938963), sobre el commit `ba446439c849ee0ea683646d5e22e5b8a098ae07`, ha finalitzat correctament. L'artefacte `SVG-prototypes-rendered-review` (ID `13467714801`) conté 65 renders estàndard, 65 renders a mida màxima de pàgina i una fulla de contacte. S'han validat els SVG i s'han exportat amb CairoSVG.
 - El run [Build F9 Word master](https://github.com/nbarreraska-cloud/manual-tecnico/actions/runs/42141938930) també ha finalitzat correctament. La generació del DOCX i l'auditoria d'ordre i fidelitat textual han estat correctes; l'artefacte de sortida és `Manual-tecnic-pintura-miniatures-F9` (ID `13468297679`). És una compilació d'artefacte, no una modificació de `main` ni del màster de treball.
 
 Aquests dos runs corresponen al commit de treball amb els registres de recerca fins a la tanda 05. No s'ha canviat cap capítol consolidat ni F10. La branca `main` continua al SHA `a4ce8192e30178b0171ea02a3af230b60efd3768`; els canvis d'aquesta fase romanen a `intervencion-editorial-2026-11`.

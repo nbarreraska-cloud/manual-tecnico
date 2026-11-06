@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="t d">
+<title id="t">G060 — Construcció de vetes i desviació de fibres al voltant d'un nus</title>
+<desc id="d">Seqüència de quatre fases que mostra una base de fusta, vetes longitudinals, integració d'un nus i desviació de les fibres al seu voltant.</desc>
+<defs>
+ <linearGradient id="wood" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b77b43"/><stop offset=".48" stop-color="#d09a5d"/><stop offset="1" stop-color="#a96b39"/></linearGradient>
+ <linearGradient id="wood2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c68a4d"/><stop offset=".5" stop-color="#dfae70"/><stop offset="1" stop-color="#b77942"/></linearGradient>
+ <linearGradient id="knot" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#714329"/><stop offset=".5" stop-color="#9b6037"/><stop offset="1" stop-color="#58351f"/></linearGradient>
+ <style>
+  text{font-family:Arial,Helvetica,sans-serif;fill:#f4f0e8}
+  .title{font-size:32px;font-weight:700}
+  .sub{font-size:18px;fill:#c7d1da}
+  .head{font-size:21px;font-weight:700}
+  .body{font-size:17px}
+  .small{font-size:15px;fill:#d7dfe6}
+  .panel{fill:#202c39;stroke:#536475;stroke-width:2}
+  .plank{fill:url(#wood);stroke:#e2b47c;stroke-width:2}
+  .grain{fill:none;stroke:#704528;stroke-width:5;stroke-linecap:round;opacity:.8}
+  .grain2{fill:none;stroke:#f0c58a;stroke-width:3;stroke-linecap:round;opacity:.8}
+  .thin{fill:none;stroke:#80502f;stroke-width:2.5;stroke-linecap:round;opacity:.75}
+  .arrow{stroke:#ffc66d;stroke-width:3;fill:none;marker-end:url(#arr)}
+ </style>
+ <marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0 L9 3 L0 6Z" fill="#ffc66d"/></marker>
+</defs>
+<rect width="1600" height="1000" fill="#151e28"/>
+<text x="65" y="68" class="title">CONSTRUCCIÓ DE VETES I INTEGRACIÓ D'UN NUS</text>
+<text x="65" y="104" class="sub">Seqüència de treball sobre una peça allargada · la direcció de les fibres s'adapta al nus</text>
+
+<!-- panels -->
+<g>
+ <rect x="55" y="145" width="355" height="730" rx="16" class="panel"/>
+ <rect x="435" y="145" width="355" height="730" rx="16" class="panel"/>
+ <rect x="815" y="145" width="355" height="730" rx="16" class="panel"/>
+ <rect x="1195" y="145" width="350" height="730" rx="16" class="panel"/>
+</g>
+
+<!-- stage 1 -->
+<text x="82" y="192" class="head">1 · BASE CROMÀTICA</text>
+<text x="82" y="222" class="small">Establir el to general</text>
+<rect x="85" y="285" width="295" height="250" rx="8" class="plank"/>
+<path d="M85 338 Q175 330 250 343 T380 338 M85 475 Q175 466 260 480 T380 473" stroke="#e5b77e" stroke-width="3" fill="none" opacity=".45"/>
+<text x="82" y="600" class="body">• Color de fons uniforme,</text>
+<text x="101" y="628" class="body">amb variacions suaus.</text>
+<text x="82" y="676" class="body">• Respectar l'eix principal</text>
+<text x="101" y="704" class="body">de la peça.</text>
+<text x="82" y="790" class="small">Encara no cal dibuixar el nus.</text>
+
+<!-- stage 2 -->
+<text x="462" y="192" class="head">2 · VETES PRINCIPALS</text>
+<text x="462" y="222" class="small">Construir direcció i ritme</text>
+<rect x="465" y="285" width="295" height="250" rx="8" class="plank"/>
+<path d="M480 320 C550 312 620 327 744 315 M480 367 C550 359 645 374 744 361 M480 420 C550 412 635 430 744 416 M480 485 C560 476 655 490 744 478" class="grain"/>
+<path d="M480 343 C555 339 625 347 744 339 M480 447 C565 441 650 453 744 444" class="grain2"/>
+<path d="M500 510 C565 504 620 514 700 506" class="thin"/>
+<text x="462" y="600" class="body">• Alternar vetes llargues</text>
+<text x="481" y="628" class="body">i curtes.</text>
+<text x="462" y="676" class="body">• Variar amplada, contrast</text>
+<text x="481" y="704" class="body">i ondulació.</text>
+<text x="462" y="790" class="small">Evitar línies paral·leles regulars.</text>
+
+<!-- stage 3 -->
+<text x="842" y="192" class="head">3 · SITUAR EL NUS</text>
+<text x="842" y="222" class="small">Forma integrada a la peça</text>
+<rect x="845" y="285" width="295" height="250" rx="8" class="plank"/>
+<path d="M860 320 C925 312 1000 327 1124 315 M860 367 C925 359 1000 374 1124 361 M860 420 C925 412 1000 430 1124 416 M860 485 C940 476 1020 490 1124 478" class="grain"/>
+<path d="M951 390 C967 350 1032 345 1061 383 C1085 415 1054 462 1008 462 C968 462 936 430 951 390Z" fill="url(#knot)" stroke="#e1b27a" stroke-width="3"/>
+<path d="M972 395 C990 373 1028 373 1042 396 C1056 419 1035 442 1007 443 C982 443 963 421 972 395Z" fill="none" stroke="#d19a5d" stroke-width="3"/>
+<path d="M989 401 C1000 390 1021 390 1029 404 C1037 419 1023 431 1007 432" fill="none" stroke="#4d2e1d" stroke-width="3"/>
+<text x="842" y="600" class="body">• Forma ovalada o irregular.</text>
+<text x="842" y="648" class="body">• Contorn parcial; no cal</text>
+<text x="861" y="676" class="body">tancar-lo com un anell.</text>
+<text x="842" y="790" class="small">El nus no és un cercle aïllat.</text>
+
+<!-- stage 4 -->
+<text x="1222" y="192" class="head">4 · DESVIAR LES FIBRES</text>
+<text x="1222" y="222" class="small">Donar continuïtat al patró</text>
+<rect x="1225" y="285" width="290" height="250" rx="8" class="plank"/>
+<!-- grain left bends around knot -->
+<path d="M1240 320 C1300 312 1320 325 1340 350 C1360 373 1390 372 1498 315" class="grain"/>
+<path d="M1240 367 C1305 359 1320 367 1340 390 C1360 412 1392 418 1498 361" class="grain"/>
+<path d="M1240 420 C1300 412 1320 414 1342 430 C1367 448 1400 454 1498 416" class="grain"/>
+<path d="M1240 485 C1305 476 1325 466 1345 456 C1370 442 1402 470 1498 478" class="grain"/>
+<path d="M1240 343 C1300 339 1324 346 1348 368 C1374 392 1408 391 1498 339" class="grain2"/>
+<path d="M1240 448 C1300 441 1322 438 1345 449 C1374 465 1410 466 1498 444" class="grain2"/>
+<path d="M1348 385 C1364 350 1420 348 1446 383 C1467 413 1437 455 1397 456 C1362 457 1333 421 1348 385Z" fill="url(#knot)" stroke="#e1b27a" stroke-width="3"/>
+<path d="M1366 390 C1382 369 1417 369 1431 393 C1445 416 1423 438 1399 438 C1374 438 1356 416 1366 390Z" fill="none" stroke="#d19a5d" stroke-width="3"/>
+<path d="M1382 399 C1392 387 1411 388 1419 401 C1427 415 1413 428 1398 428" fill="none" stroke="#4d2e1d" stroke-width="3"/>
+<text x="1222" y="600" class="body">• Corbar les vetes pròximes</text>
+<text x="1241" y="628" class="body">perquè envoltin el nus.</text>
+<text x="1222" y="676" class="body">• Combinar continuïtat i</text>
+<text x="1241" y="704" class="body">discontinuïtats locals.</text>
+<text x="1222" y="790" class="small">Evitar repeticions simètriques.</text>
+
+<!-- arrows -->
+<path d="M412 405 L430 405 M792 405 L810 405 M1172 405 L1190 405" class="arrow"/>
+<rect x="55" y="900" width="1490" height="62" rx="12" fill="#263543" stroke="#536475" stroke-width="1.5"/>
+<text x="80" y="938" class="small">Criteri de lectura: les vetes segueixen l'estructura de la fusta i es desvien al voltant del nus; no són simples línies decoratives superposades.</text>
+<text x="80" y="984" class="small">Esquema didàctic simplificat; no representa una secció anatòmica ni un patró universal de creixement.</text>
+</svg>

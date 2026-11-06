@@ -513,7 +513,7 @@ Aquest document fixa, per a cada figura que supera la priorització, un títol d
 - **Identificadors integrats:** 3.1 i 3.2 (figures de treball G003 i G004).
 - **Ubicació:** apartat 3.2.1.
 - **Llegenda prevista:** «Opacitat, transparència i cobertura: ocultació del fons, influència del seu valor en una mateixa capa i uniformitat de l'aplicació.»
-- **Representació:** una làmina conceptual coordinada amb tres zones: (A) quatre comportaments orientatius —opaca, semiopaca, semitransparent i transparent— sobre un suport contrastat; (B) una mateixa capa transparent o semitransparent sobre fons blanc, gris i negre; (C) comparació entre una aplicació uniforme i una d'irregular.
+- **Representació:** una làmina conceptual coordinada amb tres zones: (A) tres posicions orientatives —opaca, comportament intermedi (semiopacitat/semitransparència) i transparent— sobre un suport contrastat; (B) una mateixa capa transparent o semitransparent sobre fons blanc, gris i negre; (C) comparació entre una aplicació uniforme i una d'irregular.
 - **Funció didàctica:** diferenciar quant s'oculta el fons, com el valor del suport modifica l'aparença de la mateixa capa i fins a quin punt la pintura cobreix la superfície de manera contínua i uniforme.
 - **Límits:** no convertir els comportaments en categories comercials rígides ni en llindars universals; no confondre opacitat, transparència i cobertura. La representació és esquemàtica, no una prova de productes, una mesura cromàtica ni una caracterització de les 48 pintures. Les comparacions pressuposen un suport, un gruix aproximat de pel·lícula i unes condicions d'aplicació equivalents. Si no hi ha fotografies de mostres físiques documentades, no presentar el resultat com una observació experimental.
 

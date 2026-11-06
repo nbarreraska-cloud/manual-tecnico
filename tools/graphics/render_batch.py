@@ -108,6 +108,9 @@ def main() -> int:
     print("Resultat del lot:")
     for status, count in sorted(counts.items()):
         print(f"  {status}: {count}")
+    for item in results:
+        if item["status"] in ("render_error", "invalid_spec"):
+            print(f'  INCIDÈNCIA {item["id"]}: {item["status"]} — {item["detail"]}')
     print(f"Informes: {json_path.relative_to(ROOT)} i {csv_path.relative_to(ROOT)}")
     return 1 if counts.get("render_error") or counts.get("invalid_spec") else 0
 

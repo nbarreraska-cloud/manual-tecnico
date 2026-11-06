@@ -1329,7 +1329,7 @@ Es conserven els quatre identificadors P1, però no es produeixen com a quatre f
 
 ### 28.2 — Pàtines sobre coure, bronze i llautó
 - **ID estable:** G167; **ID complementari:** CV-28-02.
-- **Ubicació:** després de l'apartat 28.7.6, «Compatibilitat i control de les tècniques».
+- **Ubicació:** després de l'apartat 28.7.3, «Construcció d'una pàtina sobre coure o bronze».
 - **Llegenda prevista:** «Pàtines sobre coure, bronze i llautó: alteracions marrons, verdes i blauverdoses amb conservació parcial del metall subjacent.»
 - **Representació:** tres exemples materials amb zones de metall exposat i pàtina parcial o acumulada. Incloure variacions de distribució i intensitat, no una seqüència cromàtica obligatòria.
 - **Funció didàctica:** diferenciar pàtines de metalls no fèrrics de la corrosió del ferro i mantenir la lectura del metall original.

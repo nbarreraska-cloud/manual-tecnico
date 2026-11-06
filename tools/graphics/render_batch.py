@@ -41,6 +41,11 @@ def inspect_spec(path: Path, expected_id: str) -> tuple[str, str]:
                 return "invalid_spec", "Una fase de la seqüència és incompleta."
         return "ready", "Plantilla específica de seqüència de capes."
 
+    if spec.get("template") == "light_orientation":
+        if not spec.get("title") or not spec.get("description"):
+            return "invalid_spec", "L’esquema geomètric necessita títol i descripció."
+        return "ready", "Plantilla específica d’orientació de plans respecte d’una font comuna."
+
     cards = spec.get("cards")
     if not isinstance(cards, list) or len(cards) != 4:
         return "unsupported_template", "Hi ha especificació individual, però encara no correspon a una plantilla de renderització disponible."

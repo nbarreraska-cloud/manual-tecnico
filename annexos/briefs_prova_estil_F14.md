@@ -174,3 +174,20 @@ Les versions v01 es conserven sense sobreescriure. Les v02 s'han de renderitzar 
 - G006: [SVG v03 — combinacions RGB/CMY explícites](../grafics_prova/fig_C04_4-1_G006_v03.svg). Es deixa de dependre de la superposició gràfica de cercles; les combinacions ideals es mostren com a resultats separats. Pendent de revisió.
 
 - G042: [SVG v03 — plans de fulla i reflexos](../grafics_prova/fig_C16_16-4_G042_v03.svg). Nova iteració després de revisar la v02; pendent de renderització i revisió. La v01 i la v02 es conserven.
+
+
+## 10. Noves proves vectorials — primera ampliació
+
+S'han creat cinc esquemes SVG editables a partir de les llegendes i ubicacions del registre F13. Són proves de contingut, no figures aprovades ni finals.
+
+| Figura | Contingut | Fitxer | Límit de la prova |
+|---|---|---|---|
+| 4.2 / G007 | Dimensions del color: matís, valor i croma | [SVG v01](../grafics_prova/fig_C04_4-2_G007_v01.svg) | Diagrama d'orientació conceptual; no fixa un sistema colorimètric quantitatiu. |
+| 4.4 / G009 | Matís, valor i croma en espai tridimensional i escales independents | [SVG v01](../grafics_prova/fig_C04_4-4_G009_v01.svg) | Espai esquemàtic, no mapa exhaustiu de colors ni representació instrumental. |
+| 4.6 / G011 | Relacions monocromàtiques, anàlogues, complementàries i complementàries dividides | [SVG v01](../grafics_prova/fig_C04_4-6_G011_v01.svg) | Esquema de relacions; s'ha de contrastar amb el cercle cromàtic i la terminologia exacta del capítol. |
+| 5.1 / G012 | Orientació dels plans respecte de la font | [SVG v01](../grafics_prova/fig_C05_5-1_G012_v01.svg) | Esquema introductori; cal revisar la correspondència geomètrica dels raigs i les normals abans d'aprovar. |
+| 5.2 / G013 | Angle d'incidència i llei de la reflexió | [SVG v01](../grafics_prova/fig_C05_5-2_G013_v01.svg) | Esquema geomètric; cal verificar que els angles i les línies coincideixen exactament amb la convenció del text. |
+
+Els fitxers s'han creat directament a la branca de treball mitjançant GitHub. No s'ha sobreescrit cap prototip anterior. No s'ha executat encara el render de validació d'aquesta nova tanda, per tant no es declara validada ni tan sols tècnicament. Les proves G012 i G013 necessiten una revisió geomètrica explícita; G007, G009 i G011 necessiten coteig amb el text real del capítol 4.
+
+**Estat de producció:** cinc nous SVG creats; zero aprovats; zero inserits al manual.

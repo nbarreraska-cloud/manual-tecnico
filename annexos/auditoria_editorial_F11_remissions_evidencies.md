@@ -133,3 +133,17 @@ La revisió de cobertura ha incorporat 20 composicions noves als capítols 8–1
 - No s'ha modificat la classificació de les 150 composicions P1 originals.
 
 El control global successor és a [F11-R1 — 170 composicions](control_global_F11_remissions_170.md), i els ancoratges i les remissions candidates es detallen a [Tanda 04 — C08–C14 i C25–C29](pla_remissions_i_insercio_F11_tanda_04_C08-C14_C25-C29.md).
+
+
+## 11. Aprovació editorial de DBD-02 — G151–G170
+
+El 06/11/2026 l'usuari ha donat instrucció expressa de continuar després de presentar DBD-02 com a versió revisada pendent d'aprovació. En el context immediat, aquesta instrucció es registra com a **aprovació editorial de DBD-02**.
+
+- Queden aprovats els 20 briefs visuals G151–G170 i les correccions consolidades a l'apartat 6 del document DBD-02.
+- Queden aprovats els criteris transversals de jerarquia, comparabilitat, llegibilitat, fidelitat a F9 i preservació de la classificació E0/E1.
+- La verificació de l'ancoratge G153 confirma la ubicació després de 10.5.6 i abans de 10.6; no cal modificar F11.
+- Aquesta aprovació no autoritza la cerca, selecció, generació, edició o inserció d'imatges.
+- La selecció paral·lela de recursos ha de completar-se i els recursos s'han de contrastar amb els briefs aprovats abans de planificar la producció gràfica.
+- F9, F10-R1 i F11 no es modifiquen amb aquest registre.
+
+Document aprovat: [DBD-02 — briefs visuals detallats G151–G170](briefs_visuals_detallats_G151-G170_DBD02_2026-11.md).

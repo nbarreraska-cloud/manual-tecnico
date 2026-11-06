@@ -225,3 +225,75 @@ La cerca de referències i la selecció del tipus de solució visual queden tanc
 |---|---|---|
 | 2026-11-06 | Comparar símbols de classificació, mostres reals i proves sobre fons de contrast | Cerca examinada |
 | 2026-11-06 | Crear quatre mostres conceptuals sobre un fons clar/fosc, amb gruix constant | Solució definida; producció pendent |
+---
+
+## G004 — Figura 3.2. Influència del fons en una mateixa capa de pintura
+
+**Data del registre:** 2026-11-06  
+**Capítol:** 3  
+**Ubicació:** apartat 3.2.1  
+**Estat:** cerca tancada; solució definida com a diagrama original pendent de producció.
+
+### Objectiu didàctic
+
+Mostrar que una mateixa capa de pintura transparent o semitransparent pot presentar una aparença diferent segons el valor del fons sobre el qual s'aplica. La figura ha d'aïllar el paper del fons i evitar que el lector interpreti les diferències com si s'hagués modificat la pintura.
+
+### Especificació editorial recuperada
+
+La fitxa editorial F10 proposa tres panells equivalents que només variïn el color del fons: blanc, gris i negre. S'ha d'utilitzar la mateixa capa de pintura transparent o semitransparent en els tres casos. Si no hi ha fotografies de mostres físiques documentades, la figura s'ha d'identificar com a esquema conceptual i no s'han d'atribuir resultats a un producte concret.
+
+### Referències visuals examinades
+
+1. **R. L. Adams Plastics — Test Tuesday: Art Creation Acrylics.** Mostra mostres d'acrílics aplicades sobre quatre superfícies de colors diferents. És útil per estudiar una comparació entre fons, però les mostres no aïllen necessàriament una única pintura idèntica i la prova correspon a una gamma comercial diferent.  
+   https://www.goadams.com/post/test-tuesday-art-creation-acrylics
+
+2. **NISE Network / Lawrence Hall of Science — Interference Acrylics: Painting with Structural Color.** Inclou una disposició comparativa de pintura sobre papers de diferents colors. Serveix com a referència de composició en panells, però tracta principalment pigments d'interferència i color estructural, no el comportament general de les pintures transparents de la paleta del manual.  
+   https://www.nisenet.org/sites/default/files/catalog/uploads/InterferenceAcrylics_LessonPlan_May15_0.pdf
+
+3. **Draw and Paint / Acrylic Glazes Chart.** Mostra veladures transparents sobre bases opaques de diferents colors. És una referència visual útil per entendre la interacció entre capa i fons, però la seva matriu extensa és massa complexa per a l'objectiu concret de G004.  
+   https://i.pinimg.com/736x/29/1f/f1/291ff1fb2e8d348f15999697f62750d8.jpg
+
+4. **Public Design Atlas — Interaction of color.** Aporta una referència conceptual sobre la variació de l'aparença d'un mateix color en funció del fons circumdant. Cal distingir aquest efecte perceptiu de la modificació física de la llum que travessa una capa transparent o semitransparent.  
+   https://www.designatlas.org/en/disciplines/graphic-design/interaction-of-color/
+
+### Avaluació de les alternatives
+
+- **Matriu de molts colors sobre molts fons:** descartada. Introduiria variables addicionals i desviaria l'atenció de la pregunta concreta de la figura.
+- **Fotografies de productes o mostres comercials:** descartades com a imatge final. No hi ha mostres documentades de les 48 pintures del manual i no s'han de presentar proves alienes com si fossin assajos propis.
+- **Tres panells amb la mateixa capa i fons diferents:** escollits. És la comparació més directa i permet aïllar la variable que s'explica.
+
+### Decisió de producció
+
+Crear un **diagrama original de tres panells equivalents**. Cada panell mostrarà la mateixa mostra de pintura transparent o semitransparent, amb la mateixa tonalitat, extensió i gruix esquemàtic, aplicada sobre un fons diferent:
+
+1. **Fons blanc**
+2. **Fons gris**
+3. **Fons negre**
+
+La representació ha de fer visible que la capa no canvia, però sí l'aparença resultant per la influència del fons. La comparació s'ha de construir com una il·lustració conceptual coherent, no com una fotografia de resultats experimentals.
+
+### Restriccions de representació
+
+- Mantenir idèntica la capa de pintura als tres panells; només pot variar el fons.
+- No canviar la tonalitat, el gruix, la transparència ni l'extensió de la mostra entre panells.
+- No afegir colors de fons diferents del blanc, gris i negre previstos.
+- No confondre l'efecte del fons sobre una capa transparent amb el contrast simultani entre colors adjacents.
+- No utilitzar pigments d'interferència ni efectes iridescents.
+- No presentar els resultats com a assajos reals ni atribuir-los a una referència concreta de la paleta.
+- Incloure la nota **«Esquema conceptual; no representa un assaig de producte concret.»**
+- Mantenir els textos en català i la llegibilitat a la mida final.
+
+### Procedència i drets d'ús
+
+Les referències s'utilitzen únicament per estudiar comparacions de mostres sobre fons diferents. No se selecciona cap imatge externa com a recurs final ni se'n copiarà la composició literal. La figura es produirà com a diagrama original.
+
+### Estat de resolució
+
+La cerca de referències i la selecció del tipus de solució visual queden tancades. **La figura final encara no està produïda.**
+
+### Historial de decisions
+
+| Data | Decisió | Estat |
+|---|---|---|
+| 2026-11-06 | Examinar mostres acríliques sobre fons diferents, veladures i exemples d'interacció cromàtica | Cerca examinada |
+| 2026-11-06 | Crear tres panells amb la mateixa capa sobre fons blanc, gris i negre | Solució definida; producció pendent |

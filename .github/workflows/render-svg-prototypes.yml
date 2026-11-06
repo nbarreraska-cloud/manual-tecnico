@@ -73,6 +73,13 @@ jobs:
               "fig_C05_5-7_G018_v04.svg",
               "fig_C07_7-2_G026_v01.svg",
               "fig_C07_7-5_G029_v01.svg",
+              "fig_C04_4-4_G009_v04.svg",
+              "fig_C05_5-3_G014_v04.svg",
+              "fig_C05_5-5_G016_v04.svg",
+              "fig_C05_5-7_G018_v05.svg",
+              "fig_C06_6-4_G023_v03.svg",
+              "fig_C07_7-1_G025_v03.svg",
+              "fig_C15_15-1_G035_v03.svg",
           }
           names = {p.name for p in files}
           missing = expected - names

@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1500" height="940" viewBox="0 0 1500 940">
 <defs><style>
-.title{font:700 34px Arial,sans-serif;fill:#183247}.sub{font:700 24px Arial,sans-serif;fill:#28465b}.head{font:700 19px Arial,sans-serif}.label{font:18px Arial,sans-serif}.small{font:15px Arial,sans-serif;fill:#526777}
+.title{font:700 34px Arial,sans-serif;fill:#183247}.sub{font:700 24px Arial,sans-serif;fill:#28465b}.head{font:700 19px Arial,sans-serif}.label{font:18px Arial,sans-serif} .small{font:15px Arial,sans-serif;fill:#526777}.sub.light{fill:#edf4f8}.small.light{fill:#d4e0e7}
 </style></defs>
 <rect width="1500" height="940" fill="#f3f6f8"/>
 <text x="750" y="52" text-anchor="middle" class="title">Mescla additiva i mescla sostractiva</text>
 <rect x="35" y="95" width="700" height="735" rx="18" fill="#101820" stroke="#aebfc9" stroke-width="2"/>
 <rect x="765" y="95" width="700" height="735" rx="18" fill="#fff" stroke="#aebfc9" stroke-width="2"/>
-<text x="385" y="145" text-anchor="middle" class="sub" fill="#edf4f8">RGB · llum (mescla additiva)</text>
+<text x="385" y="145" text-anchor="middle" class="sub light">RGB · llum (mescla additiva)</text>
 <text x="1115" y="145" text-anchor="middle" class="sub">CMY · colorants (model sostractiu idealitzat)</text>
 <g>
  <circle cx="190" cy="260" r="58" fill="#ff2020"/><circle cx="385" cy="260" r="58" fill="#20d94b"/><circle cx="580" cy="260" r="58" fill="#205cff"/>
@@ -15,7 +15,7 @@
  <text x="385" y="435" text-anchor="middle" class="head" fill="#edf4f8">Resultats de combinació ideals</text>
  <rect x="85" y="485" width="125" height="78" rx="8" fill="#ffff00"/><rect x="235" y="485" width="125" height="78" rx="8" fill="#00ffff"/><rect x="385" y="485" width="125" height="78" rx="8" fill="#ff00ff"/><rect x="535" y="485" width="125" height="78" rx="8" fill="#ffffff"/>
  <g class="label" text-anchor="middle" fill="#edf4f8"><text x="147" y="600">R + G</text><text x="297" y="600">G + B</text><text x="447" y="600">B + R</text><text x="597" y="600">R + G + B</text></g>
- <g class="small" text-anchor="middle" fill="#d4e0e7"><text x="147" y="630">Groc</text><text x="297" y="630">Cian</text><text x="447" y="630">Magenta</text><text x="597" y="630">Blanc</text></g>
+ <g class="small light" text-anchor="middle"><text x="147" y="630">Groc</text><text x="297" y="630">Cian</text><text x="447" y="630">Magenta</text><text x="597" y="630">Blanc</text></g>
  <text x="385" y="735" text-anchor="middle" class="label" fill="#edf4f8">La llum superposada augmenta la lluminositat.</text>
 </g>
 <g>

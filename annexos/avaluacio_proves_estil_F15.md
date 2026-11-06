@@ -549,3 +549,19 @@ S'han documentat tres tandes addicionals de recursos amb autoria, llicència, di
 S'ha creat l'índex `annexos/registre_recerca_visual_index.md`. El balanç de les tandes 02–04 és de 28 candidatures amb llicència identificada i 10 recursos en reserva o descartats. No són 28 recursos necessàriament únics ni 28 seleccions finals: tots resten pendents de coteig amb F10 i el text lector.
 
 **Cap recurs s'ha descarregat, adaptat ni inserit.** No s'ha modificat F10 ni la selecció de 150 composicions. Les textures PBR, mapes normals, imatges generades i fotografies de materials reals s'han mantingut com a tipologies diferenciades.
+
+
+## 29. Validació final del lot SVG i G015 v02 — 06/11/2026
+
+El run [Render SVG prototype review](https://github.com/nbarreraska-cloud/manual-tecnico/actions/runs/42141686934) ha finalitzat correctament sobre el commit `7a262b94bb99c8f805fa637c52236d9cecda42a6`. L'artefacte `SVG-prototypes-rendered-review` (ID `13468480370`) conté:
+- 65 renders PNG estàndard;
+- 65 renders PNG a 2073 px d'amplada (mida màxima A4 útil aproximada);
+- una fulla de contacte.
+
+Els 65 fitxers SVG del directori han superat la validació XML i l'exportació CairoSVG. El recompte inclou versions històriques i redissenys, no 65 composicions diferents. F13 conté 29 referències SVG actives corresponents a 24 composicions G diferents.
+
+**G015 v02** ha estat renderitzada a mida màxima: el raig interromput per l'objecte queda separat del raig tangent que defineix el límit de l'ombra. La distinció entre raig bloquejat, raig no bloquejat i límit de l'ombra és ara llegible.
+
+Aquesta validació confirma el render tècnic dels 65 fitxers, no la seva aprovació editorial. La inspecció individual a mida màxima s'ha fet sobre una selecció representativa i sobre les figures amb incidències detectades; no s'ha completat encara una revisió exhaustiva de cada versió històrica. Les 24 composicions amb prototip continuen pendents de revisió editorial i tipogràfica; les altres 126 composicions no tenen encara un prototip SVG actiu referenciat a F13.
+
+Cap SVG s'ha inserit al manual. F10, la selecció de 150 composicions, els capítols consolidats, `main` i el màster de text sense imatges romanen sense modificacions.

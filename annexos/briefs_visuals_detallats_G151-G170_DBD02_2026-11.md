@@ -5,7 +5,7 @@
 **Versió de treball:** DBD-02  
 **Fonts de control:** F9 (tercera síntesi consolidada), fitxes editorials F10-R1, revisió tècnica G151–G170 i planificació F11 de la tanda 04.  
 **Abast:** concreció de la composició visual i dels criteris de lectura de les 20 figures complementàries.  
-**Estat:** versió revisada DBD-02; les correccions de l'apartat 6 prevalen sobre qualsevol formulació anterior del brief DBD-01. L'ancoratge G153 ha estat verificat contra F9. Pendent d'aprovació editorial.
+**Estat:** DBD-02 aprovat editorialment per l'usuari el 06/11/2026. Les correccions de l'apartat 6 prevalen sobre qualsevol formulació anterior del brief DBD-01. L'ancoratge G153 ha estat verificat contra F9.
 
 ## 1. Finalitat i límits
 
@@ -615,6 +615,13 @@ Abans de passar a la selecció individual, caldrà comprovar:
 | G166 / G167 | Corrosió de ferro/acer versus pàtines sobre metalls no fèrrics. |
 | G168 / G169 / G170 | Pols i terra; fang; distribució espacial dels dipòsits segons geometria i ús. |
 
+
+### 6.5 Tancament editorial
+
+**Aprovació:** l'usuari ha indicat «Adelante, continúa con tu último mensaje» el 06/11/2026. En el context immediat, aquesta instrucció s'interpreta com l'aprovació editorial de DBD-02 i el vistiplau per continuar amb el pas posterior.
+
+**Abast de l'aprovació:** queden aprovats els briefs visuals G151–G170, les correccions DBD-02, els criteris transversals i les fronteres funcionals entre figures. No queda autoritzada automàticament la selecció de recursos, la generació/edició d'imatges ni la seva inserció al manual; aquestes activitats continuen subjectes al tancament de la selecció paral·lela i a l'autorització de producció corresponent.
+
 ### 6.4 Resultat de la revisió
 
 | Control | Resultat |
@@ -629,6 +636,6 @@ Abans de passar a la selecció individual, caldrà comprovar:
 | Canvis a F10-R1/F11 | 0 |
 | Imatges cercades, seleccionades, generades o inserides | 0 |
 
-**Estat DBD-02:** versió revisada dels briefs visuals. La revisió transversal i la verificació de l'ancoratge G153 queden documentades. L'aprovació editorial final continua pendent. La selecció individual d'imatges continua fora d'aquesta fase i no s'ha iniciat.
+**Estat DBD-02:** aprovat editorialment per l'usuari el 06/11/2026. La revisió transversal i la verificació de l'ancoratge G153 queden documentades. Aquesta aprovació valida la definició visual i els criteris dels briefs G151–G170; no autoritza per si sola la cerca, selecció, generació, edició o inserció d'imatges.
 
-**Pas posterior:** obtenir el tancament editorial de DBD-02. La selecció de recursos visuals es manté bloquejada fins que el procés paral·lel de selecció d'imatges hagi acabat i s'hagi acordat iniciar la producció. La verificació G153 ja està tancada i no requereix cap canvi a F11.
+**Pas posterior:** incorporar al flux de treball els recursos que s'estan seleccionant en paral·lel, comprovar-los individualment contra els briefs aprovats i preparar la planificació de producció gràfica. No iniciar la generació, edició ni inserció fins que els recursos i els drets/condicions d'ús estiguin verificats i hi hagi una autorització específica per a aquesta fase. La verificació G153 ja està tancada i no requereix cap canvi a F11.

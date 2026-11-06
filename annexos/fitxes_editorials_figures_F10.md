@@ -1,7 +1,7 @@
 # Fitxes editorials de les figures seleccionades — F10
 
-**Estat:** document de consolidació editorial; cap figura no està produïda ni aprovada per a inserció encara.  
-**Branca:** `intervencion-editorial-2026-11`  
+**Estat:** document de consolidació editorial F10-R1; les 150 fitxes originals es conserven i s'hi afegeixen 20 fitxes complementàries aprovades. Cap figura no està produïda ni aprovada per a inserció encara.  
+**Branca:** `auditoria-cobertura-visual-incidencies-2026-11`  
 **Fonts:** `PLANIFICACIO_GRAFICA_MG_FASE_POSTERIOR.md`, `TERCERA_SINTESI_CONSOLIDADA_C01-C39.md` i `annexos/llista_preliminar_produccio_grafica_F10.md`.
 
 Aquest document fixa, per a cada figura que supera la priorització, un títol de treball en català, una llegenda editorial concisa i el nucli de la representació. La llegenda descriu què ha de permetre llegir la figura; no substitueix les instruccions completes de producció. Les ubicacions s'han de considerar les de la llista preliminar actualitzada, no les ubicacions històriques del Word quan hi hagi una correcció registrada.
@@ -1145,3 +1145,236 @@ Aquestes fusions conserven els identificadors i tota la informació funcional, p
 - **35.1 + 35.2:** l'anàlisi de dominants, secundaris i accents i el mapa de masses cromàtiques passen a ser dos panells d'una mateixa làmina diagnòstica.
 
 Es conserven els quatre identificadors P1, però no es produeixen com a quatre figures separades. El recompte global passa de 156 identificadors P1 a **150 composicions de treball**, després de sis fusions o integracions de propostes P1.
+
+
+## C8 — Capes base i construcció progressiva del color
+
+### 8.1 — Construcció progressiva d'una superfície mitjançant capes
+- **ID estable:** G151; **ID complementari:** CV-08-01.
+- **Ubicació:** després de l'apartat 8.5.5, «Comprovació entre aplicacions».
+- **Llegenda prevista:** «Construcció progressiva d'una superfície: capa base, aplicacions successives, plans cromàtics diferenciats i recuperació dels límits.»
+- **Representació:** seqüència esquemàtica de quatre fases sobre una mateixa geometria: establiment de la base; superposició d'una aplicació posterior; construcció de zones cromàtiques diferenciades; comprovació i recuperació selectiva dels límits. Afegir un detall comparatiu de superfície uniforme i superfície amb plans cromàtics diferenciats només si la llegibilitat ho permet.
+- **Funció didàctica:** mostrar la relació entre aplicacions successives i la manera com es conserva, modifica o delimita la informació cromàtica de la superfície.
+- **Evidència:** E1 — seqüència tècnica proposada, no assajada.
+- **Límits:** no establir un nombre universal de capes, proporcions, temps d'assecat ni gruixos. No presentar una única seqüència com a obligatòria per a totes les superfícies. No confondre construcció progressiva amb degradat.
+- **Remissions:** G003 (opacitat i transparència de les pintures) i G029 (preparació operativa de pintures), només quan la consulta d'aquests fonaments sigui útil.
+
+## C9 — Degradats i transicions cromàtiques
+
+### 9.1 — Comparació dels procediments de construcció dels degradats
+- **ID estable:** G152; **ID complementari:** CV-09-01.
+- **Ubicació:** després de l'apartat 9.3.4, «Combinació de procediments».
+- **Llegenda prevista:** «Quatre procediments de construcció de degradats: mescles preparades a la paleta, integració de colors humits, aplicacions successives de tons intermedis i combinació de procediments.»
+- **Representació:** quatre panells comparables amb una mateixa transició objectiu. Cada panell identifica el procediment, la seqüència bàsica i el tipus d'integració cromàtica que es busca; no cal que els quatre panells comparteixin una mateixa geometria si això falseja les diferències operatives.
+- **Funció didàctica:** facilitar la comparació dels quatre procediments desenvolupats al capítol i evitar que «degradat» s'interpreti com una única tècnica.
+- **Evidència:** E1 — comparació de procediments proposats, no assajats.
+- **Límits:** no representar els quatre procediments com a equivalents en temps, dificultat o resultat. No inventar mescles, proporcions ni resultats físics. Les transicions digitals han d'identificar-se com a esquemes.
+- **Remissions:** G007 (dimensions del color) i G010 (mescla i modificació cromàtica), sense repetir-ne els fonaments.
+
+## C10 — Veladures i glassejats
+
+### 10.1 — Aplicació i control d'una veladura
+- **ID estable:** G153; **ID complementari:** CV-10-01.
+- **Ubicació:** després de l'apartat 10.5.6, «Avaluació final».
+- **Llegenda prevista:** «Aplicació d'una veladura: definició de l'objectiu, preparació i prova, control de la càrrega del pinzell, distribució, assecat i acumulació progressiva.»
+- **Representació:** seqüència de cinc fases sobre una mateixa superfície: objectiu cromàtic; preparació i prova prèvia; càrrega controlada; distribució uniforme o localitzada segons l'objectiu; comparació esquemàtica entre una aplicació i aplicacions successives. Incloure un requadre d'error amb una veladura massa opaca.
+- **Funció didàctica:** fer visible el control de la capa transparent o semitransparent i la conservació de la informació de la superfície inferior.
+- **Evidència:** E1 — seqüència tècnica proposada, no assajada.
+- **Límits:** no convertir-la en una recepta universal ni afegir dilucions, proporcions o temps. Diferenciar la veladura del rentat, la tinta i el filtre; no representar una aplicació massa opaca com a veladura correcta.
+- **Remissions:** G003–G004 (opacitat, transparència i influència del fons) i G030 (diferència entre rentat, tinta i pigment).
+
+## C12 — Perfilats i definició de volums
+
+### 12.1 — Tipus de perfilat i definició selectiva dels volums
+- **ID estable:** G154; **ID complementari:** CV-12-01.
+- **Ubicació:** després de l'apartat 12.3.5, «Accentuació selectiva de contorns».
+- **Llegenda prevista:** «Comparació del perfilat de separació, de contorn, de vores i de les línies de definició interna, amb accentuació selectiva.»
+- **Representació:** matriu de quatre panells sobre geometries equivalents: separació entre superfícies contigües; definició del contorn exterior; tractament selectiu d'una vora; línies internes per definir juntes o detalls. Afegir un cinquè detall de jerarquia selectiva si no sobrecarrega la composició.
+- **Funció didàctica:** distingir la funció i la ubicació de cada tipus de perfilat i mostrar que no tots els límits s'han de reforçar amb la mateixa intensitat.
+- **Evidència:** E1 — comparació de procediments proposats, no assajats.
+- **Límits:** no confondre perfilat de vores amb il·luminació de vores; no representar totes les línies amb el mateix gruix o contrast; no suggerir un perfilat indiscriminat de totes les arestes.
+- **Remissions:** G018 (construcció visual del volum) i G025 (components i característiques funcionals del pinzell).
+
+## C13 — Tècniques de textura
+
+### 13.1 — Comparació funcional de les quatre tècniques de textura
+- **ID estable:** G155; **ID complementari:** CV-13-01.
+- **Ubicació:** després de l'apartat 13.7.5, «Relació amb la representació del material».
+- **Llegenda prevista:** «Diferències funcionals entre pinzell sec, puntejat, ratllat i esponjat: tipus de marca, distribució, densitat i textura resultant.»
+- **Representació:** quatre panells sobre superfícies de prova equivalents. Cada panell identifica el gest o l'eina, la forma de la marca, la seva distribució i el tipus de textura que pot suggerir. Un esquema final breu pot mostrar criteris de combinació i jerarquia de marques.
+- **Funció didàctica:** comparar les quatre tècniques i relacionar-ne la selecció amb la geometria, l'escala i la representació del material.
+- **Evidència:** E1 — comparació de procediments proposats, no assajats.
+- **Límits:** no convertir la làmina en un atles de materials ni atribuir una textura concreta a una tècnica de manera exclusiva. No afegir pressions, quantitats o resultats experimentals.
+- **Remissions:** G032–G033 (aplicació i fixació de pigments) i G127 (desgast en materials diferents), només com a exemples d'aplicació.
+
+## C14 — Transparències i superfícies translúcides
+
+### 14.1 — Senyals visuals de transparència i translucidesa
+- **ID estable:** G156; **ID complementari:** CV-14-01.
+- **Ubicació:** després de l'apartat 14.3.6, «Gruix i curvatura».
+- **Llegenda prevista:** «Senyals visuals de transparència, translucidesa i opacitat: informació del fons, contorns, reflexos, refracció, difusió, gruix i estructura interna.»
+- **Representació:** comparació de tres comportaments davant d'un mateix fons i amb geometries equivalents. Anotar quina informació del fons es conserva, es distorsiona, es difumina o queda oculta; assenyalar reflexos superficials, vores, gruix i indicis d'estructura interna.
+- **Funció didàctica:** sintetitzar els indicis que permeten identificar el comportament visual d'una superfície abans de decidir com representar-la.
+- **Evidència:** E0 — esquema conceptual comparatiu.
+- **Límits:** no confondre transparència del material amb transparència de la pintura; no equiparar translucidesa i opacitat; no representar la refracció com una simple variació cromàtica arbitrària.
+- **Remissions:** G021–G022 (respostes òptiques i transparència dels materials) i G110 (tipus de vidre), sense limitar el capítol als exemples de vidre.
+
+### 14.2 — Construcció pictòrica de superfícies transparents i translúcides
+- **ID estable:** G157; **ID complementari:** CV-14-02.
+- **Ubicació:** després de l'apartat 14.7.3, «Integració de contorns, reflexos i estructura interna».
+- **Llegenda prevista:** «Construcció pictòrica diferenciada d'una superfície transparent i d'una superfície translúcida, amb integració de fons, contorns, reflexos i profunditat interna.»
+- **Representació:** dues seqüències paral·leles: una superfície transparent amb informació del fons adaptada a la geometria i reflexos/contorns; una superfície translúcida amb reducció de definició, difusió i estructura interna. Afegir un detall de comportament combinat només si és necessari per al text.
+- **Funció didàctica:** passar dels indicis òptics a la construcció pictòrica i fer visible que transparència i translucidesa requereixen decisions diferents.
+- **Evidència:** E1 — seqüències tècniques proposades, no assajades.
+- **Límits:** no duplicar les receptes específiques de vidre del C34; no afegir colors o efectes com a fórmules universals; no presentar les seqüències com a resultats físics comprovats.
+- **Remissions:** G110–G112 (tipus i construcció de vidre) com a aplicació específica, no com a substitut del procediment general.
+
+## C25 — Ossos i estructures queratíniques
+
+### 25.1 — Diferències estructurals entre teixit ossi, teixits dentals i estructures queratíniques
+- **ID estable:** G158; **ID complementari:** CV-25-01.
+- **Ubicació:** després de l'apartat 25.2, «Diferències estructurals i característiques visuals».
+- **Llegenda prevista:** «Comparació estructural d'ossos i astes òssies, teixits dentals i estructures queratíniques com banyes, urpes, peülles, becs i escates.»
+- **Representació:** tres grups clarament diferenciats: teixit ossi (ossos, cranis, esquelets i astes de cèrvids); teixits dentals (dents, ullals i ivori); estructures queratíniques (beines de banyes, urpes, ungles, peülles, becs i escates). Utilitzar siluetes i detalls de superfície, no una làmina histològica.
+- **Funció didàctica:** impedir que materials amb colors semblants es tractin com si tinguessin la mateixa estructura o el mateix comportament visual.
+- **Evidència:** E0 — comparació conceptual i morfològica.
+- **Límits:** distingir les astes òssies de cèrvids de les banyes amb beina queratínica. No afirmar equivalències anatòmiques ni representar microestructures no desenvolupades al text.
+- **Remissions:** G087 (diferenciació dels teixits orgànics) i G127 (desgast en materials diferents), com a comparacions complementàries.
+
+### 25.2 — Construcció pictòrica d'ossos i teixits dentals
+- **ID estable:** G159; **ID complementari:** CV-25-02.
+- **Ubicació:** després de l'apartat 25.5, «Dents, ullals i ivori».
+- **Llegenda prevista:** «Comparació de la construcció pictòrica d'os natural, envellit o deteriorat i de superfícies dentals com dents, ullals i ivori.»
+- **Representació:** dos blocs: os amb variacions de porositat, desgast, fissures i acumulació; dent/ivori amb continuïtat superficial, forma, vores i transicions pròpies. Mostrar diferències de tractament, no només de color.
+- **Funció didàctica:** relacionar les diferències materials amb la selecció de textura, contrast i construcció cromàtica.
+- **Evidència:** E1 — procediments de representació proposats, no assajats.
+- **Límits:** no aplicar una mateixa recepta a os i dent; no presentar color groc com a tret obligatori de l'ivori ni inventar proporcions de mescla.
+- **Remissions:** G087 per a la diferenciació de teixits i G127 per als criteris generals de desgast.
+
+### 25.3 — Banyes, astes i estructures queratíniques
+- **ID estable:** G160; **ID complementari:** CV-25-03.
+- **Ubicació:** després de l'apartat 25.7, «Urpes, ungles, peülles, becs i escates».
+- **Llegenda prevista:** «Diferenciació i construcció de banyes, astes, urpes, ungles, peülles, becs i escates segons estructura, eix, curvatura, secció i desgast.»
+- **Representació:** un panell principal que contraposi una asta òssia ramificada i una banya amb beina queratínica; panells secundaris més petits per a urpes/ungles, peülles, becs i escates, amb èmfasi en eix longitudinal, curvatura, secció i estriació.
+- **Funció didàctica:** fer visible que les formes ramificades, les beines i les estructures queratíniques requereixen lectures de volum i textura diferenciades.
+- **Evidència:** E1 — procediments de representació proposats, no assajats.
+- **Límits:** no confondre asta òssia i banya queratínica. Si la llegibilitat es ressent, prioritzar la comparació asta/banya i tractar les formes menors com a detalls secundaris; no ometre-les del contingut textual.
+- **Remissions:** G087 i G127, sense convertir aquesta figura en una làmina general de teixits orgànics.
+
+## C26 — Roques, pedres i minerals
+
+### 26.1 — Atles comparatiu de roques ígnies, sedimentàries i metamòrfiques
+- **ID estable:** G161; **ID complementari:** CV-26-01.
+- **Ubicació:** després de l'apartat 26.7, «Pissarra, marbre, gneis i roques metamòrfiques».
+- **Llegenda prevista:** «Patrons visuals de roques ígnies, sedimentàries i metamòrfiques: granit i basalt; gres i calcària; pissarra, marbre i gneis.»
+- **Representació:** tres famílies en columnes comparables, amb exemples i detalls ampliats de gra, estrats, bandes, foliació, vetes o recristal·lització segons correspongui.
+- **Funció didàctica:** facilitar la identificació visual de patrons geològics que poden traduir-se en textures pictòriques diferents.
+- **Evidència:** E0 — atles conceptual comparatiu.
+- **Límits:** els exemples no són aparences universals de cada roca. No inferir composició mineral exacta només pel color ni convertir la làmina en una classificació geològica exhaustiva.
+- **Remissions:** G032–G033 (pigments) i G127 (desgast), com a tècniques o efectes que poden aplicar-se a aquestes superfícies.
+
+### 26.2 — Construcció de textures pètries, vetes i components minerals
+- **ID estable:** G162; **ID complementari:** CV-26-02.
+- **Ubicació:** després de l'apartat 26.8, «Vetes, components minerals i pedra treballada».
+- **Llegenda prevista:** «Construcció de textures pètries mitjançant granulat mineral, estratificació, plans de separació, bandes, vetes i components minerals.»
+- **Representació:** seqüència o matriu de detalls: granulat irregular; estrats i plans de separació; bandes i vetes; pedra treballada amb alteracions localitzades. Cada panell ha d'indicar la relació entre patró i geometria.
+- **Funció didàctica:** mostrar com es construeix una textura pètria coherent sense reduir tots els materials a una superfície puntejada.
+- **Evidència:** E1 — procediments de representació proposats, no assajats.
+- **Límits:** no repetir el catàleg de roques de G161 ni convertir les tècniques generals de C13 en receptes exclusives de pedra. No afegir composicions minerals o seqüències no descrites al capítol.
+- **Remissions:** G155 (tècniques de textura) i G032–G033 (pigments), com a procediments generals.
+
+## C27 — Cristalls, gel, neu i gemmes
+
+### 27.1 — Estructures i morfologies de cristalls naturals
+- **ID estable:** G163; **ID complementari:** CV-27-01.
+- **Ubicació:** després de l'apartat 27.4, «Cristalls i formacions minerals».
+- **Llegenda prevista:** «Comparació de cristalls naturals prismàtics i irregulars: cares, arestes, creixement, transparència, translucidesa i inclusions.»
+- **Representació:** exemples de formacions prismàtiques, agrupacions i cristalls irregulars amb ampliacions de cares, arestes i inclusions. Diferenciar els cristalls naturals de les gemmes tallades.
+- **Funció didàctica:** mostrar que la identitat visual d'un cristall depèn de la forma i l'organització de les cares, no només de la brillantor.
+- **Evidència:** E0 — esquema morfològic i conceptual.
+- **Límits:** no representar tots els cristalls com a poliedres perfectes ni com a gemmes facetades; no atribuir una transparència uniforme a tots els minerals.
+- **Remissions:** G021–G022 (respostes òptiques i transparència) i G110 (vidre), només per als principis òptics compartits.
+
+### 27.2 — Gel i neu: diferències estructurals i aparença visual
+- **ID estable:** G164; **ID complementari:** CV-27-02.
+- **Ubicació:** després de l'apartat 27.6, «Neu: acumulació, compactació i transformació».
+- **Llegenda prevista:** «Diferències visuals entre gel transparent, translúcid, compacte o fracturat i neu fresca, compactada o transformada.»
+- **Representació:** dos blocs diferenciats. Gel: transmissió, difusió, gruix, fractures i inclusions. Neu: acumulació, volum, compactació, petjades, vores i transformació superficial. Incloure una transició de neu fresca a compactada només com a comparació conceptual.
+- **Funció didàctica:** separar la lectura òptica del gel de la lectura volumètrica i superficial de la neu.
+- **Evidència:** E0 — comparació conceptual de materials i estats.
+- **Límits:** el blau no és una característica obligatòria del gel o la neu; no representar neu com a gel opac ni gel com a neu brillant. No establir una cronologia universal a partir del color.
+- **Remissions:** G156–G157 (transparència i translucidesa) per als fonaments, sense substituir els exemples específics del capítol.
+
+### 27.3 — Construcció pictòrica de gemmes
+- **ID estable:** G165; **ID complementari:** CV-27-03.
+- **Ubicació:** després de l'apartat 27.7, «Gemmes i pedres precioses».
+- **Llegenda prevista:** «Construcció pictòrica de gemmes facetades, arrodonides i cabuixons: plans, profunditat, reflexos i distribució de llums.»
+- **Representació:** tres tipus de tall o forma amb seqüències esquemàtiques de base, zones profundes, facetes o curvatura i reflexos localitzats. Comparar la lectura d'una gemma facetada amb una forma arrodonida o cabuixó.
+- **Funció didàctica:** relacionar la forma de la gemma amb la distribució de llums i la sensació de profunditat.
+- **Evidència:** E1 — procediments de representació proposats, no assajats.
+- **Límits:** no convertir una combinació cromàtica en una recepta universal; no confondre gemmes tallades amb cristalls naturals ni amb superfícies metàl·liques.
+- **Remissions:** G156–G157 per als fonaments de transmissió i profunditat, només quan la gemma representada ho requereixi.
+
+## C28 — Òxid, corrosió i pàtines
+
+### 28.1 — Corrosió del ferro i l'acer
+- **ID estable:** G166; **ID complementari:** CV-28-01.
+- **Ubicació:** després de l'apartat 28.4, «Òxid i rovell sobre ferro i acer».
+- **Llegenda prevista:** «Variacions visuals de corrosió sobre ferro i acer: rovell recent, madur i fosc, corrosió localitzada i alteració sota un recobriment deteriorat.»
+- **Representació:** comparació d'estats i distribucions, amb capes diferenciades per metall base, recobriment conservat, zona exposada i productes de corrosió. Un detall pot mostrar la relació amb la pèrdua localitzada de pintura.
+- **Funció didàctica:** separar visualment el metall original, l'alteració superficial i el recobriment deteriorat.
+- **Evidència:** E1 — seqüència i comparació de representació proposades, no assajades.
+- **Límits:** no presentar els colors com una cronologia universal ni confondre òxid amb brutícia o pigment aplicat. No duplicar el procediment general de desconxat del C36.
+- **Remissions:** G054–G057 (metalls), G125–G126 (estructura de capes i pèrdua de recobriment) i G127 (desgast), amb funcions diferenciades.
+
+### 28.2 — Pàtines sobre coure, bronze i llautó
+- **ID estable:** G167; **ID complementari:** CV-28-02.
+- **Ubicació:** després de l'apartat 28.5.6, «Pàtines sobre superfícies de llautó i objectes daurats».
+- **Llegenda prevista:** «Pàtines sobre coure, bronze i llautó: alteracions marrons, verdes i blauverdoses amb conservació parcial del metall subjacent.»
+- **Representació:** tres exemples materials amb zones de metall exposat i pàtina parcial o acumulada. Incloure variacions de distribució i intensitat, no una seqüència cromàtica obligatòria.
+- **Funció didàctica:** diferenciar pàtines de metalls no fèrrics de la corrosió del ferro i mantenir la lectura del metall original.
+- **Evidència:** E1 — procediments de representació proposats, no assajats.
+- **Límits:** no presentar marró, verd i blauverd com a etapes cronològiques universals; no confondre pàtina amb pintura opaca o brutícia. No atribuir resultats a productes concrets sense proves.
+- **Remissions:** G056–G057 (coure i bronze) i G032–G033 (pigments), com a referències de material i procediment.
+
+## C29 — Terra, fang, pols, brutícia i dipòsits
+
+### 29.1 — Pols, dipòsits secs i terres compactades
+- **ID estable:** G168; **ID complementari:** CV-29-01.
+- **Ubicació:** després de l'apartat 29.4, «Terra i terrenys compactats».
+- **Llegenda prevista:** «Comparació de pols i dipòsits secs amb terres compactades: diferències de gra, densitat, adherència i distribució.»
+- **Representació:** dos blocs. Pols: dipòsit fi, discontinu i acumulat en zones de retenció. Terra: gra, compactació, irregularitat i relació amb el terreny. Incloure variacions cromàtiques com a exemples, no com a classificació universal.
+- **Funció didàctica:** evitar que la pols superficial i la terra compactada es representin com el mateix material o amb el mateix procediment.
+- **Evidència:** E0 — comparació conceptual de materials i aparences.
+- **Límits:** no repetir la seqüència general d'aplicació de pigments del C11; no presentar el color com a identificador suficient de la composició o procedència de la terra.
+- **Remissions:** G032–G033 (pigments) i G122 (distribució del desgast segons geometria i ús), només com a procediments o criteris relacionats.
+
+### 29.2 — Fang humit, compacte i sec
+- **ID estable:** G169; **ID complementari:** CV-29-02.
+- **Ubicació:** després de l'apartat 29.5, «Fang humit, sec i acumulat».
+- **Llegenda prevista:** «Comparació de fang humit, fang compacte i fang sec segons volum, textura, coloració, acumulació i acabat superficial.»
+- **Representació:** tres estats comparables sobre una mateixa geometria, amb detalls de volum, vores, esquitxades i transicions. La brillantor s'ha de representar com un indici possible, no com l'únic criteri d'humitat.
+- **Funció didàctica:** distingir els estats del fang i evitar que es resolguin només canviant el color o afegint brillantor.
+- **Evidència:** E0 — comparació conceptual d'estats i aparences.
+- **Límits:** no establir una relació universal entre color i humitat; no confondre fang amb pols, terra seca o corrosió.
+- **Remissions:** G032–G033 per als pigments i G166–G167 per distingir dipòsits de corrosió.
+
+### 29.3 — Distribució de dipòsits segons la geometria i l'ús
+- **ID estable:** G170; **ID complementari:** CV-29-03.
+- **Ubicació:** després de l'apartat 29.7.5, «Combinació de pols, fang i brutícia».
+- **Llegenda prevista:** «Distribució de pols, terra, fang i brutícia en superfícies horitzontals, verticals i corbes, segons retenció, contacte, escorriment i ús.»
+- **Representació:** tres geometries comparables: superfície horitzontal amb acumulació; superfície vertical amb rastres i escorriments; superfície corba amb zones de retenció i contacte. Un quart detall pot mostrar la combinació selectiva de dipòsits si no suggereix una cobertura uniforme.
+- **Funció didàctica:** relacionar la distribució dels dipòsits amb orientació, gravetat, geometria, contacte i ús representat.
+- **Evidència:** E0 — esquema conceptual de distribució.
+- **Límits:** evitar patrons regulars, esquitxades repetitives i cobertura uniforme. No atribuir una causa única a cada dipòsit ni confondre brutícia externa i corrosió del material.
+- **Remissions:** G122 (desgast segons geometria i ús), G127 (desgast en materials diferents) i G166 (corrosió), per mantenir separats dipòsit, desgast i alteració material.
+
+## Control de les fitxes complementàries
+
+- Composicions complementàries incorporades: **20**.
+- Identificadors nous: **G151–G170**; no es renumeren G001–G150.
+- Distribució d'evidència: **8 E0, 12 E1, 0 E2**.
+- Cap fitxa autoritza fotografies de resultats reals ni atribucions a productes sense documentació.
+- Les ubicacions s'han contrastat amb els encapçalaments vigents de F9.
+- Les crides locals no s'han de repetir mecànicament: la figura s'ancora després del subapartat indicat i la llegenda n'ha de facilitar la lectura.
+- Cap imatge no s'ha cercat, seleccionat, generat ni inserit.

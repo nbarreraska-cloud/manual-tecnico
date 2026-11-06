@@ -31,9 +31,11 @@
       "letter": "C",
       "heading": "Proposta tècnica",
       "body": [
-        "Procediment o recomanació",
-        "raonada a partir de criteris",
-        "tècnics; no validada per si sola."
+        "Procediment, combinació o formulació",
+        "recomanada a partir de criteris",
+        "tècnics; no s'ha de considerar",
+        "validada experimentalment sense",
+        "prova física documentada."
       ]
     },
     {
@@ -46,5 +48,5 @@
       ]
     }
   ],
-  "note": "La categoria identifica l'origen i el tipus d'evidència; no estableix, per si sola, el grau de certesa."
+  "note": "Les categories indiquen el tipus i la procedència de la informació; no determinen per si soles el grau de caracterització de cada pintura."
 }

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "G164",
+  "editorial_title": "27",
+  "chapter": "CV-27-02",
+  "placement": "Gel i neu: diferències estructurals i aparença visual",
+  "brief_title": "Gel i neu: diferències estructurals i aparença visual",
+  "type": "E0 — comparació conceptual de materials i estats.",
+  "composition": "## G164 — Gel i neu: diferències estructurals i aparença visual\n\n**Capítol i ancoratge:** C27, després de 27.6 — «Neu: acumulació, compactació i transformació».  \n**Tipus:** E0 — comparació conceptual de materials i estats.\n\n**Composició**\n- Dos blocs independents:\n  - **A. Gel:** transparent, translúcid, compacte, tèrbol o fracturat; mostrar transmissió, difusió, gruix, fractures i inclusions.\n  - **B. Neu:** fresca, compactada i transformada; mostrar acumulació, volum, petjades, vores i canvis superficials.\n- Una transició de neu fresca a compactada pot aparèixer com a comparació conceptual, no com a cronologia universal.\n\n**Jerarquia de lectura**\nSeparar clarament lectura òptica del gel i lectura volumètrica/superficial de la neu.\n\n**Informació que ha de quedar clara**\nGel i neu no són el mateix material en aparença pictòrica: el primer demana llegir transmissió i estructura; la segona, volum i superfície.\n\n**No representar**\nEl blau com a tret obligatori. No representar neu com a gel opac ni gel com a neu brillant.\n\n**Control de qualitat**\nMantenir els dos blocs separats i etiquetats. No introduir terra o brutícia de neu com si fos el receptari del C29.",
+  "source": "annexos/briefs_visuals_detallats_G151-G170_DBD02_2026-11.md",
+  "production_status": "brief_structured_not_renderable",
+  "approval_status": "brief_approved_visual_design_pending",
+  "rendering_note": "No renderitzar fins que s'hagi desenvolupat una plantilla que representi fidelment aquesta composició."
+}

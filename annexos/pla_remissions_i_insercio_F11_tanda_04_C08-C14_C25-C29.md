@@ -36,8 +36,8 @@
 | G163 | 27.1 | Després de 27.4 — Cristalls i formacions minerals | Estructures i morfologies de cristalls naturals | E0 |
 | G164 | 27.2 | Després de 27.6 — Neu: acumulació, compactació i transformació | Gel i neu: diferències estructurals i aparença visual | E0 |
 | G165 | 27.3 | Després de 27.7 — Gemmes i pedres precioses | Construcció pictòrica de gemmes | E1 |
-| G166 | 28.1 | Després de 28.7.6 — Compatibilitat i control de les tècniques | Corrosió del ferro i l'acer | E1 |
-| G167 | 28.2 | Després de 28.7.6 — Compatibilitat i control de les tècniques | Pàtines sobre coure, bronze i llautó | E1 |
+| G166 | 28.1 | Després de 28.7.2 — Construcció d'una superfície oxidada | Corrosió del ferro i l'acer | E1 |
+| G167 | 28.2 | Després de 28.7.3 — Construcció d'una pàtina sobre coure o bronze | Pàtines sobre coure, bronze i llautó | E1 |
 | G168 | 29.1 | Després de 29.4 — Terra i terrenys compactats | Pols, dipòsits secs i terres compactades | E0 |
 | G169 | 29.2 | Després de 29.5 — Fang humit, sec i acumulat | Fang humit, compacte i sec | E0 |
 | G170 | 29.3 | Després de 29.7.5 — Combinació de pols, fang i brutícia | Distribució de dipòsits segons la geometria i l'ús | E0 |

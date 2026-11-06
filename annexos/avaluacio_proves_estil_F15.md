@@ -381,3 +381,42 @@ Els v02 de G007, G009, G011, G012, G013, G014, G016 i G018 implementen els ajust
 - Insercions al manual: 0.
 
 La prioritat següent és executar el workflow de renderització sobre el conjunt ampliat, revisar les làmines de contacte i després fer el coteig de cada figura amb el capítol i la fitxa F10 corresponents. No s'ha d'inferir aprovació a partir de la mera creació del fitxer SVG.
+
+
+## 22. Coteig editorial i redisseny de la tanda de 15 prototips — 06/11/2026
+
+### 22.1. Validació del lot anterior
+
+El workflow [Render SVG prototype review](https://github.com/nbarreraska-cloud/manual-tecnico/actions/runs/42139381801), executat sobre el commit `6f014bddc7bd198224b9bf8da986a671722fd710`, ha finalitzat correctament. Ha validat el XML i ha renderitzat tots els SVG presents al directori en aquell commit. L'artefacte `SVG-prototypes-rendered-review` (ID `13467196423`) conté 33 PNG i una fulla de contacte. Aquesta validació acredita la lectura tècnica del format i l'exportació amb CairoSVG, no la correcció editorial ni l'aprovació de les figures. El lot de 15 redissenys que es documenta a continuació es va crear després d'aquest run i encara no hi estava inclòs.
+
+### 22.2. Incidències detectades en el coteig de les versions prèvies
+
+La revisió visual a 1400 × 900 px i el contrast amb F10 i el text consolidat han detectat:
+
+- **G007:** el cercle de matís repetia el vermell i no identificava els matisos; l'escala de croma modificava també el valor i no aïllava prou la dimensió. Redissenyada amb sis sectors identificats i escales separades.
+- **G009:** la forma tridimensional anterior no representava de manera clara les relacions entre els tres eixos i podia llegir-se com un sòlid regular, contrari al límit F10. Redissenyada com a espai conceptual d'eix neutre, gir de matís i distància radial de croma, amb escales independents.
+- **G011:** les línies del cercle no distingien correctament les quatre harmonies. Redissenyada en quatre esquemes separats: monocromàtica, anàloga, complementària i complementària dividida.
+- **G012:** el símbol de perpendicularitat no es representava correctament al render i un dels raigs no arribava al pla inclinat. Redissenyada amb etiquetatge textual i punts d'incidència coherents.
+- **G013:** la geometria dels angles era simètrica, però faltaven caps de fletxa que distingissin el sentit incident i el reflectit. Afegits.
+- **G014:** les normals locals dibuixades sobre la corba no eren perpendiculars a les tangents corresponents. Redissenyada sobre un arc circular, amb normals radials que passen pels punts de la superfície; s'han eliminat marques tangencials incorrectes.
+- **G016:** la divisió de llum i ombra pròpia no corresponia a la direcció de la font. Redissenyada amb el límit de llum/ombra orientat segons la direcció incident. La projecció exacta de l'ombra encara requereix revisió visual del nou render.
+- **G018:** la versió anterior mostrava només una superfície corba i no comparava un pla d'orientació constant amb una corba sota condicions de llum equivalents. Redissenyada en dos panells.
+- **G021:** la versió anterior associava respostes superficials a materials concrets sense correspondre a la funció F10. Redissenyada amb quatre patrons genèrics de reflex: definit, estès, fragmentat i poc perceptible.
+- **G022:** la translucidesa no difuminava prou la informació del fons. Redissenyada amb superposicions difuses; cal comprovar el resultat al render.
+- **G023:** la versió anterior repetia la comparació de reflexos de G021 en lloc de mostrar materials diferents que comparteixen un indici visual. Redissenyada per a aquesta funció F10.
+- **G024:** la versió anterior duplicava la comparació d'opacitat/transmissió, en lloc de representar la selecció i simplificació d'indicis a escala miniatura. Redissenyada com a seqüència referència–selecció–representació.
+- **G025:** la versió anterior mostrava parts del pinzell però ometia la comparació de formes de punta prevista a F10. Afegides quatre formes.
+- **G035:** la versió anterior utilitzava formes abstractes sense representar una miniatura anotada. Redissenyada amb una figura simplificada i crides a silueta, volums, plans, corbes, arestes, superposicions i zones protegides.
+- **G036:** la versió anterior era una escala de quatre valors, però F10 demana dos mapes coordinats diferenciats. Redissenyada amb mapa d'il·luminació i mapa de valors sobre siluetes equivalents.
+
+### 22.3. Versions noves creades
+
+- G007, G009, G011, G012, G013, G014, G016 i G018: v03.
+- G021, G022, G023, G024, G025, G035 i G036: v02.
+- S'han actualitzat F13 i el workflow perquè aquestes 15 versions quedin incloses en la validació obligatòria.
+
+**Estat en tancar aquesta actualització documental:** 15 redissenys creats; pendent executar el workflow sobre el nou commit, inspeccionar els 15 renders a resolució completa i a mida de maquetació, i completar la revisió editorial. Cap dels 15 queda aprovat ni inserit. Els originals i les versions anteriors es conserven.
+
+### 22.4. Límits de la comprovació
+
+La mida de render 1400 × 900 px permet revisar la composició general, però no equival a una prova de maquetació. Cal definir o recuperar la mida física d'inserció i comprovar la llegibilitat dels textos, les línies, les fletxes i les notes a aquesta mida. També cal validar que els esquemes conceptuals no es confonguin amb fotografies, mesures o resultats experimentals.

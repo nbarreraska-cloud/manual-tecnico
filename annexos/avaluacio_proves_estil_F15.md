@@ -288,3 +288,10 @@ La lectura del capítol 3 i de la tanda F11 confirma que la ubicació lectora ad
 - Modificacions de la compilació consolidada: **0**.
 
 La preparació documental no s'ha de confondre amb l'execució de les proves ni amb l'aprovació editorial de les figures.
+
+
+## 14. Matriu documental de selecció G003
+
+S'ha creat `matriu_seleccio_mostres_G003.md` després de contrastar l'annex A i les fitxes individuals de sis referències candidates: quatre Model Color i dues Game Color Ink. La matriu diferencia les declaracions de família de les propietats individuals no documentades. No classifica prèviament cap pintura com a opaca, semiopaca, semitransparent o transparent.
+
+La selecció és provisional i no confirma disponibilitat física. La via E0 de F14 continua sent l'alternativa si no es realitza la prova; la via E2 només és admissible amb mostres reals identificades, fotografies originals i condicions registrades. F14 s'ha ajustat a l'ancoratge lector 3.2.1 i a aquests límits d'evidència.

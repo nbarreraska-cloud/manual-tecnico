@@ -520,7 +520,7 @@ def render_ice_snow_comparison(spec: dict) -> str:
     ET.fromstring(svg)
     return svg
 
-\n
+
 def render_gem_construction_studies(spec: dict) -> str:
     title=escape(spec["title"]); desc=escape(spec["description"])
     dark="#263746"; muted="#5B6872"
@@ -555,7 +555,7 @@ def render_gem_construction_studies(spec: dict) -> str:
     p += ['<rect x="72" y="790" width="1456" height="48" rx="10" fill="#E9EEF0"/>',
           f'<text x="94" y="820" font-family="DejaVu Sans,Arial" font-size="17" font-weight="700" fill="{dark}">La geometria determina la distribució de valors i reflexos; el color no és una recepta universal.</text>',
           f'<text x="72" y="872" font-family="DejaVu Sans,Arial" font-size="15" fill="{muted}">{escape(spec.get("note",""))}</text>','</svg>']
-    svg="\\n".join(p); ET.fromstring(svg); return svg
+    svg="\n".join(p); ET.fromstring(svg); return svg
 
 \ndef main() -> int:
     parser = argparse.ArgumentParser()

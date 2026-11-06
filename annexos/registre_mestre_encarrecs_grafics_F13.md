@@ -3,7 +3,7 @@
 **Data:** 06/11/2026  
 **Branca:** `intervencion-editorial-2026-11`  
 **Font:** matriu de traçabilitat P1 F10 i fitxes editorials F10, amb correccions d'ancoratge documentades a F11.  
-**Estat actual:** dotze composicions tenen algun prototip vectorial en revisió (quatre pilots previs i v01 addicionals per a G007, G009, G011, G012, G013, G014, G016 i G018); les altres 138 continuen pendents d'encàrrec. Aquest registre no autoritza la inserció al manual.
+**Estat actual:** vint composicions tenen algun prototip vectorial en revisió (quatre pilots previs i setze prototips addicionals per a G007, G009, G011–G014, G016, G018, G020–G025, G035 i G036); les altres 130 continuen pendents d'encàrrec. Aquest registre no autoritza la inserció al manual.
 
 ## 1. Control de cobertura
 
@@ -38,12 +38,12 @@
 | 5.6 / G017 | 5.13 | apartat 5.5.3 | E0 | «Angle d'incidència i angle de reflexió mesurats respecte de la normal geomètrica.» | Pendent d'encàrrec |
 | 5.7 / G018 | 5.15 | apartat 5.7 | E0 | «Distribució de la il·luminació sobre un pla d'orientació constant i una superfície corba amb normals variables.» | [SVG v01 · prova conceptual pendent de revisió](../grafics_prova/fig_C06_6-1_G018_v01.svg) |
 | 5.8 / G019 | 5.16 | apartat 5.8.4 | E0 | Anàlisi d'il·luminació d'una miniatura | Pendent d'encàrrec |
-| 6.1 / G020 | 6.1 | apartat 6.1 | E0 | «Del material real als indicis visuals percebuts i a la seva representació pictòrica simplificada.» | Pendent d'encàrrec |
-| 6.2 / G021 | 6.4 | apartat 6.3 | E0 | Respostes òptiques dels materials | Pendent d'encàrrec |
-| 6.3 / G022 | 6.5 | apartats 6.4.1–6.4.2 | E0 | Opacitat, transparència i translucidesa | Pendent d'encàrrec |
-| 6.4 / G023 | 6.7 | apartat 6.5.1 | E0 | «Comparació de superfícies amb reflexos definits, estesos, fragmentats o poc perceptibles.» | Pendent d'encàrrec |
-| 6.5 / G024 | 6.8 | apartat 6.6 | E0 | «Informació del fons conservada, difuminada o no transmesa a través de materials transparents, translúcids i opacs.» | Pendent d'encàrrec |
-| 7.1 / G025 | 7.2 | apartat 7.3.1 | E0 | Components i característiques funcionals del pinzell | Pendent d'encàrrec |
+| 6.1 / G020 | 6.1 | apartat 6.1 | E0 | «Del material real als indicis visuals percebuts i a la seva representació pictòrica simplificada.» | [SVG v01 · prova conceptual pendent de revisió](../grafics_prova/fig_C06_6-1_G020_v01.svg) |
+| 6.2 / G021 | 6.4 | apartat 6.3 | E0 | Respostes òptiques dels materials | [SVG v01 · prova conceptual pendent de revisió](../grafics_prova/fig_C06_6-2_G021_v01.svg) |
+| 6.3 / G022 | 6.5 | apartats 6.4.1–6.4.2 | E0 | Opacitat, transparència i translucidesa | [SVG v01 · prova conceptual pendent de revisió](../grafics_prova/fig_C06_6-3_G022_v01.svg) |
+| 6.4 / G023 | 6.7 | apartat 6.5.1 | E0 | «Comparació de superfícies amb reflexos definits, estesos, fragmentats o poc perceptibles.» | [SVG v01 · prova conceptual pendent de revisió](../grafics_prova/fig_C06_6-4_G023_v01.svg) |
+| 6.5 / G024 | 6.8 | apartat 6.6 | E0 | «Informació del fons conservada, difuminada o no transmesa a través de materials transparents, translúcids i opacs.» | [SVG v01 · prova conceptual pendent de revisió](../grafics_prova/fig_C06_6-5_G024_v01.svg) |
+| 7.1 / G025 | 7.2 | apartat 7.3.1 | E0 | Components i característiques funcionals del pinzell | [SVG v01 · prova conceptual pendent de revisió](../grafics_prova/fig_C07_7-1_G025_v01.svg) |
 | 7.2 / G026 | 7.4 | apartat 7.3.7 | E0 | «Components del pinzell i formes de punta: pèl o filament, virolla i mànec.» | Pendent d'encàrrec |
 | 7.3 / G027 | 7.5 | apartat 7.4 | E0 | Seqüència de preparació d'una miniatura | Pendent d'encàrrec |
 | 7.4 / G028 | 7.6 | apartat 7.5 | E2 | «Aplicació manual amb pinzell, pulverització amb aerògraf i aplicació amb aerosol pressuritzat.» | Pendent d'encàrrec |
@@ -53,8 +53,8 @@
 | 11.3 / G032 | 11.5 | apartats 11.4.2 i 11.7.4 | E0 | «Comparació entre l'aplicació general d'un rentat i la seva aplicació localitzada sobre relleus i cavitats.» | Pendent d'encàrrec |
 | 11.4 / G033 | 11.6 | apartats 11.4.5 i 11.7.5 | E2 | Pigment sec i pigment fixat | Pendent d'encàrrec |
 | 11.5 / G034 | 11.8 | apartat 11.8 | E0 | «Seqüència d'aplicació de pigment sec: càrrega, dipòsit, distribució i retirada de l'excés.» | Pendent d'encàrrec |
-| 15.1 / G035 | 15.1 | 15.2 | E0 | Anàlisi de geometria, volums i superfícies | Pendent d'encàrrec |
-| 15.2 / G036 | 15.3 | 15.6 | E0 | Mapa de valors | Pendent d'encàrrec |
+| 15.1 / G035 | 15.1 | 15.2 | E0 | Anàlisi de geometria, volums i superfícies | [SVG v01 · prova conceptual pendent de revisió](../grafics_prova/fig_C15_15-1_G035_v01.svg) |
+| 15.2 / G036 | 15.3 | 15.6 | E0 | Mapa de valors | [SVG v01 · prova conceptual pendent de revisió](../grafics_prova/fig_C15_15-2_G036_v01.svg) |
 | 15.3 / G037 | 15.6 | 15.4 o 15.8 | E0 | Distribució del contrast | Pendent d'encàrrec |
 | 15.4 / G038 | 15.8 | 15.1 o 15.9 | E0 | Procés integral d'anàlisi a avaluació | Pendent d'encàrrec |
 | 16.1 / G039 | 16.1 | 16.1 | E0 | Metàl·lic i no metàl·lic | Pendent d'encàrrec |
